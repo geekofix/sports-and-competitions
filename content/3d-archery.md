@@ -9,3 +9,15 @@ Archers shoot one arrow per target (two per target at World Archery 3D events). 
 ## History
 
 3D archery grew out of bowhunting practice in the United States in the 1980s and 1990s; the NFAA, founded in 1939, turned it into a formal competitive round with national championships. Well-known professional 3D archers include Levi Morgan and Mike Slinkard.
+
+## Sources
+
+- International Bowhunting Organization. (n.d.). *IBO — rules and tournaments*. Retrieved November 19, 2026, from https://ibohunt.com/
+- National Field Archery Association. (n.d.). *NFAA constitution — official rounds (3-D rules and regulations)*. Retrieved November 19, 2026, from https://nfaausa.com/about/constitution/official-nfaa-rounds
+- World Archery. (n.d.). *World Archery — field and 3D archery*. Retrieved November 19, 2026, from https://worldarchery.sport/
+
+## Important Links
+
+- [World Archery](https://worldarchery.sport/) — international federation; international 3D events
+- [NFAA — National Field Archery Association](https://nfaausa.com/) — US national body; biggest 3D championships
+- [IBO — International Bowhunting Organization](https://ibohunt.com/) — bowhunting 3D circuit

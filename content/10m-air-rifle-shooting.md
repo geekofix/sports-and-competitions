@@ -9,3 +9,17 @@ Under ISSF rules the rifle is a compressed-air rifle in 4.5 mm (.177) caliber wi
 ## History
 
 10m Air Rifle has been an Olympic event since 1984. Abhinav Bindra of India won India's first individual Olympic gold medal in this event at Beijing 2008. Other legends include Niccolò Campriani of Italy (gold at Rio 2016) and the Chinese champions Du Li and Zhu Qinan.
+
+## Sources
+
+- International Shooting Sport Federation. (n.d.). *International Shooting Sport Federation*. Retrieved November 19, 2026, from https://www.issf-sports.org/
+- International Shooting Sport Federation. (n.d.). *Rules*. Retrieved November 19, 2026, from https://www.issf-sports.org/rules
+- Olympics.com. (n.d.). *Shooting at the Olympic Games*. Retrieved November 19, 2026, from https://olympics.com/en/sports/shooting/
+- USA Shooting. (n.d.). *USA Shooting — national governing body*. Retrieved November 19, 2026, from https://www.usashooting.org/
+
+## Important Links
+
+- [ISSF — International Shooting Sport Federation](https://www.issf-sports.org/) — world governing body; World Championships and World Cups
+- [ISSF official rules](https://www.issf-sports.org/rules) — current rulebook
+- [Olympics.com — Shooting](https://olympics.com/en/sports/shooting/) — Olympic history and results (10m air rifle since Los Angeles 1984)
+- [USA Shooting](https://www.usashooting.org/) — national federation (example)

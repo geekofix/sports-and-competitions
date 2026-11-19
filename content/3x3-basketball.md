@@ -9,3 +9,15 @@ Under FIBA 3x3 rules the shot clock is 12 seconds. A game lasts 10 minutes or en
 ## History
 
 FIBA debuted 3x3 at the 2010 Youth Olympic Games in Singapore and held the first FIBA 3x3 World Championship in Athens in 2012. At Tokyo 2020, Latvia won the first Olympic men's gold (Miezis, Čavars, Lasmanis, Krūmiņš) and the United States won the women's gold (Dolson, Gray, Plum, Young). The Serbian men's team has dominated the World Cup era.
+
+## Sources
+
+- FIBA. (n.d.). *3x3 basketball — official rules and competitions*. Retrieved November 19, 2026, from https://3x3.fiba.basketball/
+- FIBA. (n.d.). *International Basketball Federation*. Retrieved November 19, 2026, from https://www.fiba.basketball/
+- Olympics.com. (n.d.). *Basketball at the Olympic Games*. Retrieved November 19, 2026, from https://olympics.com/en/sports/basketball/
+
+## Important Links
+
+- [FIBA 3x3 Basketball](https://3x3.fiba.basketball/) — world governing body of 3x3; 3x3 World Cup and Olympic qualification
+- [FIBA — International Basketball Federation](https://www.fiba.basketball/)
+- [Olympics.com — Basketball](https://olympics.com/en/sports/basketball/) — Olympic 3x3 since Tokyo 2020

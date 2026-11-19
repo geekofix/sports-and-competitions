@@ -5,13 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Sports & Competitions Encyclopedia</title>
 <meta name="description" content="Open-source encyclopedia of 818 sports and competitions from around the world, each with its own page.">
+<script>try{var t=localStorage.getItem('theme');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
 <header class="site-header">
   <div class="wrap">
-    <h1 class="brand">Sports & Competitions Encyclopedia</h1>
-    <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; 818 entries &middot; alphabetical order</p>
+    <div class="header-row">
+      <div>
+        <h1 class="brand">Sports & Competitions Encyclopedia</h1>
+        <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; 818 entries &middot; alphabetical order</p>
+      </div>
+      <button id="theme-toggle" class="theme-btn" title="Toggle dark mode"><span class="icon">&#127769;</span></button>
+    </div>
   </div>
 </header>
 <div class="wrap">

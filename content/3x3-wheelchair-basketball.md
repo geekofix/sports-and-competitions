@@ -9,3 +9,13 @@ The game is played on a half court with one basket, a 12-second shot clock, and 
 ## History
 
 Wheelchair basketball was invented around 1945–1948 at Stoke Mandeville Hospital by Sir Ludwig Guttmann, who used the game in the rehabilitation of patients with spinal cord injuries. It has been part of every Paralympic Games since Rome 1960, and the 3x3 format was added to the Paralympic program for Tokyo 2020. The US men's team and the Australian women's "Gliders" are among the most successful national programs.
+
+## Sources
+
+- International Paralympic Committee. (n.d.). *Wheelchair basketball*. Retrieved November 19, 2026, from https://www.paralympic.org/wheelchair-basketball
+- International Wheelchair Basketball Federation. (n.d.). *Official wheelchair basketball rules*. Retrieved November 19, 2026, from https://www.iwbf.org/
+
+## Important Links
+
+- [IWBF — International Wheelchair Basketball Federation](https://www.iwbf.org/) — world governing body; official rules and competitions
+- [International Paralympic Committee — wheelchair basketball](https://www.paralympic.org/wheelchair-basketball) — Paralympic Games, 3x3 since Tokyo 2020

@@ -4,14 +4,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>360ball &middot; Sports & Competitions Encyclopedia</title>
-<meta name="description" content="360ball &mdash; basic information, rules and history. Part of the Sports & Competitions Encyclopedia.">
+<meta name="description" content="360ball &mdash; basic information, rules, history, sources and important links. Part of the Sports & Competitions Encyclopedia.">
+<script>try{var t=localStorage.getItem('theme');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
 <header class="site-header">
   <div class="wrap header-row">
     <a class="brand" href="../index.html">Sports & Competitions Encyclopedia</a>
-    <a class="btn" href="../index.html">&larr; All sports (818)</a>
+    <div class="header-actions">
+      <a class="btn" href="../index.html">&larr; All sports (818)</a>
+      <button id="theme-toggle" class="theme-btn" title="Toggle dark mode"><span class="icon">&#127769;</span></button>
+    </div>
   </div>
 </header>
 <main class="wrap page">
@@ -20,6 +24,8 @@
     <a href="#basic-information">Basic Information</a>
     <a href="#rules">Rules</a>
     <a href="#history">History</a>
+    <a href="#sources">Sources</a>
+    <a href="#important-links">Important Links</a>
   </nav>
   <section id="basic-information">
     <h2>Basic Information</h2>
@@ -33,7 +39,14 @@
     <h2>History</h2>
 <p>360ball was invented in South Africa by the brothers Mark and John Collins — an early version in 1990, recreated in 2010 in Knysna on the Garden Route. In 2011 it won the ISPO Brand New award in Munich as the first new ball sport since 1950. The Collins brothers&#x27; company Magnetic South promotes the sport internationally.</p>
   </section>
-  <p class="find-link">You can find it <a href="https://www.youtube.com/results?search_query=360ball" target="_blank" rel="noopener">here</a>.</p>
+  <section id="sources">
+    <h2>Sources</h2>
+<ul><li>360ball. (n.d.). <em>Official website — rules, equipment and courts</em>. Retrieved November 19, 2026, from <a href="https://www.360ball.com/" target="_blank" rel="noopener">https://www.360ball.com/</a></li><li>ISPO. (2011). <em>ISPO Brand New Award — 360ball</em>. <a href="https://www.ispo.com/" target="_blank" rel="noopener">https://www.ispo.com/</a></li><li>Knysna-Plett Herald. (2017, July 10). <em>A whole new ball game</em>. <a href="https://www.knysnaplettherald.com/Sport/Article/Other/a-whole-new-ball-game-20170710" target="_blank" rel="noopener">https://www.knysnaplettherald.com/Sport/Article/Other/a-whole-new-ball-game-20170710</a></li><li>Nautilus. (n.d.). <em>Four ball games you&#x27;ve never heard of</em>. Retrieved November 19, 2026, from <a href="https://nautil.us/four-ball-games-youve-never-heard-of-236075" target="_blank" rel="noopener">https://nautil.us/four-ball-games-youve-never-heard-of-236075</a></li></ul>
+  </section>
+  <section id="important-links">
+    <h2>Important Links</h2>
+<ul><li><a href="https://www.360ball.com/" target="_blank" rel="noopener">360ball — official website</a> — official rules, equipment and court information</li><li><a href="https://www.ispo.com/" target="_blank" rel="noopener">ISPO</a> — sports trade fair where 360ball won the 2011 Brand New award; league information</li></ul>
+  </section>
 </main>
 <footer class="site-footer">
   <div class="wrap footer-row">
@@ -41,5 +54,6 @@
     <span><a href="https://github.com/geekofix/sports-and-competitions" target="_blank" rel="noopener">Source on GitHub</a></span>
   </div>
 </footer>
+<script src="../assets/app.js"></script>
 </body>
 </html>

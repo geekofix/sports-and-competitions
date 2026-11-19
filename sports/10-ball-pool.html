@@ -4,14 +4,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>10-Ball Pool &middot; Sports & Competitions Encyclopedia</title>
-<meta name="description" content="10-Ball Pool &mdash; basic information, rules and history. Part of the Sports & Competitions Encyclopedia.">
+<meta name="description" content="10-Ball Pool &mdash; basic information, rules, history, sources and important links. Part of the Sports & Competitions Encyclopedia.">
+<script>try{var t=localStorage.getItem('theme');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
 <header class="site-header">
   <div class="wrap header-row">
     <a class="brand" href="../index.html">Sports & Competitions Encyclopedia</a>
-    <a class="btn" href="../index.html">&larr; All sports (818)</a>
+    <div class="header-actions">
+      <a class="btn" href="../index.html">&larr; All sports (818)</a>
+      <button id="theme-toggle" class="theme-btn" title="Toggle dark mode"><span class="icon">&#127769;</span></button>
+    </div>
   </div>
 </header>
 <main class="wrap page">
@@ -20,10 +24,12 @@
     <a href="#basic-information">Basic Information</a>
     <a href="#rules">Rules</a>
     <a href="#history">History</a>
+    <a href="#sources">Sources</a>
+    <a href="#important-links">Important Links</a>
   </nav>
   <section id="basic-information">
     <h2>Basic Information</h2>
-<p>10-Ball is a pocket billiards (pool) discipline played on a standard 9-foot table with ten object balls numbered 1 through 10 plus the cue ball. At the professional level it is governed by the World Pool-Billiard Association (WPA) and featured at major events such as the WPA World Championship and the US Open.</p>
+<p>10-Ball is a pocket billiards (pool) discipline played on a standard 9-foot table with ten object balls numbered 1 through 10 plus the cue ball. At the professional level it is governed by the World Pool-Billiard Association (WPA) and featured at major events.</p>
   </section>
   <section id="rules">
     <h2>Rules</h2>
@@ -34,7 +40,14 @@
     <h2>History</h2>
 <p>10-ball grew out of 9-ball in the United States in the mid-20th century and became a staple of professional pool in the 1990s and 2000s, when dedicated 10-ball tournaments attracted the largest fields in the sport. Among the best-known 10-ball players are Shane Van Boening, Dennis Orcullo and Carlo Biado.</p>
   </section>
-  <p class="find-link">You can find it <a href="https://www.youtube.com/results?search_query=10-ball+pool" target="_blank" rel="noopener">here</a>.</p>
+  <section id="sources">
+    <h2>Sources</h2>
+<ul><li>Cue Sports International. (n.d.). <em>Official rules of play</em>. Retrieved November 19, 2026, from <a href="https://www.playcsipool.com/" target="_blank" rel="noopener">https://www.playcsipool.com/</a></li><li>World Pool-Billiard Association. (n.d.). <em>World Pool-Billiard Association</em>. Retrieved November 19, 2026, from <a href="https://wpapool.com/" target="_blank" rel="noopener">https://wpapool.com/</a></li><li>World Pool-Billiard Association. (2025). <em>Rules of play</em> (effective September 15, 2025). <a href="https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf" target="_blank" rel="noopener">https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf</a></li></ul>
+  </section>
+  <section id="important-links">
+    <h2>Important Links</h2>
+<ul><li><a href="https://wpapool.com/" target="_blank" rel="noopener">World Pool-Billiard Association (WPA)</a> — world governing body; runs the world championships</li><li><a href="https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf" target="_blank" rel="noopener">WPA Rules of Play (official PDF)</a> — official rules including 10-ball</li><li><a href="https://matchroompool.com/" target="_blank" rel="noopener">Matchroom Pool</a> — major professional pool events</li><li><a href="https://www.playcsipool.com/" target="_blank" rel="noopener">Cue Sports International (CSI/BCAPL)</a> — major US league with its own 10-ball variant rules</li></ul>
+  </section>
 </main>
 <footer class="site-footer">
   <div class="wrap footer-row">
@@ -42,5 +55,6 @@
     <span><a href="https://github.com/geekofix/sports-and-competitions" target="_blank" rel="noopener">Source on GitHub</a></span>
   </div>
 </footer>
+<script src="../assets/app.js"></script>
 </body>
 </html>

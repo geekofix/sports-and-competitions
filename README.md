@@ -6,12 +6,14 @@ An open-source encyclopedia of **818 sports and competitions** from around the w
 
 ## What you get
 
-- A searchable, filterable index of all entries (live search + A–Z quick filter).
+- A searchable, filterable index of all entries (live search + A–Z quick filter + ▶ YouTube button per entry).
+- Light and dark theme (toggle in the header) with large, high-contrast, readable type.
 - One dedicated page per sport or competition. Every page has exactly the same structure:
   1. **Basic Information** — a short introduction to the sport or competition
   2. **Rules** — the official rules used at the biggest events (world championships, European championships, …), including notes where different rule variants exist (e.g. the Netball "Super Shot" in the Australian women's leagues)
   3. **History** — how the sport or competition originated and notable people in it
-  4. A search link: *"You can find it [here](…)"* pointing to a YouTube search for the topic
+  4. **Sources** — the sources used for the page, formatted as an APA 7 reference list, alphabetically ascending, primarily English-language international sources (world/international federations, competition organizers, public-service media, academic sources)
+  5. **Important Links** — key federations and competitions (world federation first, then major championships, then national bodies), ordered by importance
 - All content in English (US).
 
 ## How the repository works

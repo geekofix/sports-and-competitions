@@ -9,3 +9,18 @@ The race runs for exactly 24 hours; the winner is the car that covers the greate
 ## History
 
 The race was created by ACO secretary Georges Durand; the first edition ran on 23–24 June 1923 and was won by André Lagache and René Leonard in a Chenard-Walcker. Ford's 1-2-3 finish in 1966 with Bruce McLaren, Chris Amon and Ken Miles remains legendary. Mazda became the first Japanese manufacturer to win in 1991 with the rotary-engined 787B. Tom Kristensen holds the record with nine victories; Jacky Ickx has six and Derek Bell five.
+
+## Sources
+
+- Automobile Club de l'Ouest. (n.d.). *24 Hours of Le Mans — official race website*. Retrieved November 19, 2026, from https://www.24h-lemans.com/en/
+- Automobile Club de l'Ouest. (n.d.). *Automobile Club de l'Ouest*. Retrieved November 19, 2026, from https://www.aco.fr/en/
+- BBC Sport. (n.d.). *Motorsport*. Retrieved November 19, 2026, from https://www.bbc.com/sport/motorsport
+- Britannica. (n.d.). *24 Hours of Le Mans*. Retrieved November 19, 2026, from https://www.britannica.com/sports/24-Hours-of-Le-Mans
+- FIA World Endurance Championship. (n.d.). *FIA World Endurance Championship*. Retrieved November 19, 2026, from https://www.fiawec.com/
+
+## Important Links
+
+- [24 Hours of Le Mans — official race site](https://www.24h-lemans.com/en/) — entries, results and history
+- [Automobile Club de l'Ouest (ACO)](https://www.aco.fr/en/) — organizer of the race
+- [FIA World Endurance Championship](https://www.fiawec.com/) — the series the race is part of
+- [FIA — Fédération Internationale de l'Automobile](https://www.fia.com/) — world motorsport federation

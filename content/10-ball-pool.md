@@ -1,6 +1,6 @@
 ## Basic Information
 
-10-Ball is a pocket billiards (pool) discipline played on a standard 9-foot table with ten object balls numbered 1 through 10 plus the cue ball. At the professional level it is governed by the World Pool-Billiard Association (WPA) and featured at major events such as the WPA World Championship and the US Open.
+10-Ball is a pocket billiards (pool) discipline played on a standard 9-foot table with ten object balls numbered 1 through 10 plus the cue ball. At the professional level it is governed by the World Pool-Billiard Association (WPA) and featured at major events.
 
 ## Rules
 
@@ -11,3 +11,16 @@ Note that rule sets differ outside the WPA: some US league formats (for example 
 ## History
 
 10-ball grew out of 9-ball in the United States in the mid-20th century and became a staple of professional pool in the 1990s and 2000s, when dedicated 10-ball tournaments attracted the largest fields in the sport. Among the best-known 10-ball players are Shane Van Boening, Dennis Orcullo and Carlo Biado.
+
+## Sources
+
+- Cue Sports International. (n.d.). *Official rules of play*. Retrieved November 19, 2026, from https://www.playcsipool.com/
+- World Pool-Billiard Association. (n.d.). *World Pool-Billiard Association*. Retrieved November 19, 2026, from https://wpapool.com/
+- World Pool-Billiard Association. (2025). *Rules of play* (effective September 15, 2025). https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf
+
+## Important Links
+
+- [World Pool-Billiard Association (WPA)](https://wpapool.com/) — world governing body; runs the world championships
+- [WPA Rules of Play (official PDF)](https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf) — official rules including 10-ball
+- [Matchroom Pool](https://matchroompool.com/) — major professional pool events
+- [Cue Sports International (CSI/BCAPL)](https://www.playcsipool.com/) — major US league with its own 10-ball variant rules

@@ -12,7 +12,7 @@ Thanks for helping to grow the encyclopedia! Everything is in English (US).
 
    The second column must be a YouTube search URL — it becomes the "You can find it here" link on the page.
 
-2. Write the page content in `content/<slug>.md`, where `<slug>` is the lowercase, hyphenated, ASCII-only version of the name (for example `My New Sport` → `my-new-sport`). Use exactly these three sections, in this order:
+2. Write the page content in `content/<slug>.md`, where `<slug>` is the lowercase, hyphenated, ASCII-only version of the name (for example `My New Sport` → `my-new-sport`). Use exactly these five sections, in this order:
 
    ```markdown
    ## Basic Information
@@ -24,9 +24,21 @@ Thanks for helping to grow the encyclopedia! Everything is in English (US).
 
    ## History
    Origin of the sport/competition, when it started, notable people.
+
+   ## Sources
+   APA 7 reference list, alphabetically ascending. Serious sources only:
+   world/international federations, competition organizers, national federations,
+   public-service media (BBC, ARD, …) and academic sources. Prefer
+   English-language international links:
+   - World Pool-Billiard Association. (2025). *Rules of play*. https://wpapool.com/…
+
+   ## Important Links
+   Key federations and competitions, most important first (world federation,
+   then major championships, then national bodies):
+   - [World Pool-Billiard Association (WPA)](https://wpapool.com/) — world governing body
    ```
 
-   Markdown basics are supported: paragraphs, `- ` bullet lists, `**bold**`, `*italic*`, `` `code` `` and `[text](https://…)` links.
+   Markdown basics are supported: paragraphs, `- ` bullet lists, `**bold**`, `*italic*`, `` `code` ``, `[text](https://…)` links and bare URLs (auto-linked).
 
 3. Rebuild the data and the site:
 

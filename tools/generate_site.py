@@ -3,11 +3,11 @@
 
 Reads data/sports.csv (canonical entries) and optional content/<slug>.md
 files, then writes:
-  - index.html        searchable table of all entries
+  - index.html        searchable table of all entries (light/dark theme)
   - sports/<slug>.html one identical-structure page per entry
 
 Every detail page has exactly these sections, in this order:
-  Basic Information / Rules / History / "You can find it here" link
+  Basic Information / Rules / History / Sources / Important Links
 
 Usage:
     python3 tools/generate_site.py
@@ -32,12 +32,25 @@ SECTIONS = [
     ("basic-information", "Basic Information"),
     ("rules", "Rules"),
     ("history", "History"),
+    ("sources", "Sources"),
+    ("important-links", "Important Links"),
 ]
 
 PLACEHOLDER = (
     "<p>This section is still being written. Help us complete it &mdash; "
     f"open an issue or pull request in the <a href=\"{REPO_URL}\" target=\"_blank\" "
     "rel=\"noopener\">GitHub repository</a>.</p>"
+)
+
+THEME_SCRIPT = (
+    "<script>try{var t=localStorage.getItem('theme');"
+    "if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}"
+    "document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>"
+)
+
+THEME_BUTTON = (
+    '<button id="theme-toggle" class="theme-btn" title="Toggle dark mode">'
+    '<span class="icon">&#127769;</span></button>'
 )
 
 
@@ -53,6 +66,12 @@ def md_inline(text):
     t = re.sub(
         r"\[([^\]]+)\]\(([^)\s]+)\)",
         r'<a href="\2" target="_blank" rel="noopener">\1</a>',
+        t,
+    )
+    # autolink bare URLs (APA-style references), but not URLs already inside tags
+    t = re.sub(
+        r"(?<![\w=\"'>])(https?://[^\s<>\]\)\"']+[^\s<>\]\)\"'.!,;:])",
+        r'<a href="\1" target="_blank" rel="noopener">\1</a>',
         t,
     )
     return t
@@ -122,14 +141,18 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title} &middot; {site}</title>
-<meta name="description" content="{title} &mdash; basic information, rules and history. Part of the {site}.">
+<meta name="description" content="{title} &mdash; basic information, rules, history, sources and important links. Part of the {site}.">
+{theme_script}
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
 <header class="site-header">
   <div class="wrap header-row">
     <a class="brand" href="../index.html">{site}</a>
-    <a class="btn" href="../index.html">&larr; All sports ({total})</a>
+    <div class="header-actions">
+      <a class="btn" href="../index.html">&larr; All sports ({total})</a>
+      {theme_button}
+    </div>
   </div>
 </header>
 <main class="wrap page">
@@ -138,6 +161,8 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <a href="#basic-information">Basic Information</a>
     <a href="#rules">Rules</a>
     <a href="#history">History</a>
+    <a href="#sources">Sources</a>
+    <a href="#important-links">Important Links</a>
   </nav>
   <section id="basic-information">
     <h2>Basic Information</h2>
@@ -151,7 +176,14 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <h2>History</h2>
 {history}
   </section>
-  <p class="find-link">You can find it <a href="{yt}" target="_blank" rel="noopener">here</a>.</p>
+  <section id="sources">
+    <h2>Sources</h2>
+{sources}
+  </section>
+  <section id="important-links">
+    <h2>Important Links</h2>
+{links}
+  </section>
 </main>
 <footer class="site-footer">
   <div class="wrap footer-row">
@@ -159,6 +191,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <span><a href="{repo}" target="_blank" rel="noopener">Source on GitHub</a></span>
   </div>
 </footer>
+<script src="../assets/app.js"></script>
 </body>
 </html>
 """
@@ -170,13 +203,19 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{site}</title>
 <meta name="description" content="Open-source encyclopedia of {total} sports and competitions from around the world, each with its own page.">
+{theme_script}
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
 <header class="site-header">
   <div class="wrap">
-    <h1 class="brand">{site}</h1>
-    <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; {total} entries &middot; alphabetical order</p>
+    <div class="header-row">
+      <div>
+        <h1 class="brand">{site}</h1>
+        <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; {total} entries &middot; alphabetical order</p>
+      </div>
+      {theme_button}
+    </div>
   </div>
 </header>
 <div class="wrap">
@@ -244,10 +283,13 @@ def main():
             title=esc(row["name"]),
             site=SITE_TITLE,
             total=total,
+            theme_script=THEME_SCRIPT,
+            theme_button=THEME_BUTTON,
             basic=body["basic-information"],
             rules=body["rules"],
             history=body["history"],
-            yt=esc(row["youtube_url"]),
+            sources=body["sources"],
+            links=body["important-links"],
             cc=CC_URL,
             repo=REPO_URL,
         )
@@ -257,6 +299,8 @@ def main():
     index_html = INDEX_TEMPLATE.format(
         site=SITE_TITLE,
         total=total,
+        theme_script=THEME_SCRIPT,
+        theme_button=THEME_BUTTON,
         rows="\n".join(build_row(i, r) for i, r in enumerate(rows, 1)),
         cc=CC_URL,
         repo=REPO_URL,
