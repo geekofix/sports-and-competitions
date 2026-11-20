@@ -107,6 +107,22 @@ def parse_legacy_md(by_url, by_query, by_name):
         by_name.setdefault(norm(name), (desc, "legacy/additional_sports_round2.md"))
 
 
+def parse_descriptions_csv(by_slug_desc):
+    """Optional hand-written/curated descriptions: data/descriptions.csv (slug,description).
+
+    These take precedence over legacy-matched descriptions.
+    """
+    path = DATA / "descriptions.csv"
+    if not path.exists():
+        return
+    with path.open(encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            slug = (row.get("slug") or "").strip()
+            desc = (row.get("description") or "").strip()
+            if slug and desc:
+                by_slug_desc[slug] = desc
+
+
 def main():
     entries = parse_list()
     if not entries:
@@ -116,6 +132,9 @@ def main():
     parse_legacy_json(by_url, by_query, by_name)
     parse_legacy_html(by_url, by_query, by_name)
     parse_legacy_md(by_url, by_query, by_name)
+
+    by_slug_desc = {}
+    parse_descriptions_csv(by_slug_desc)
 
     used_slugs = set()
     rows = []
@@ -134,6 +153,8 @@ def main():
             desc, source = by_query.get(norm(query_of(e["youtube_url"])), ("", ""))
         if not desc:
             desc, source = by_name.get(norm(e["name"]), ("", ""))
+        if slug in by_slug_desc:
+            desc, source = by_slug_desc[slug], "descriptions.csv"
         if desc:
             matched += 1
         rows.append({
@@ -150,7 +171,7 @@ def main():
         writer.writerows(rows)
 
     print(f"Wrote {len(rows)} entries to {OUT.relative_to(ROOT)}")
-    print(f"Descriptions matched from legacy data: {matched}")
+    print(f"Entries with description: {matched} of {len(rows)}")
 
 
 if __name__ == "__main__":

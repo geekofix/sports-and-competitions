@@ -38,7 +38,9 @@ Thanks for helping to grow the encyclopedia! Everything is in English (US).
    - [World Pool-Billiard Association (WPA)](https://wpapool.com/) — world governing body
    ```
 
-   Markdown basics are supported: paragraphs, `- ` bullet lists, `**bold**`, `*italic*`, `` `code` ``, `[text](https://…)` links and bare URLs (auto-linked).
+   Markdown basics are supported: paragraphs, `- ` bullet lists, `**bold**`, `*italic*`, `` `code` ``, `[text](https://…)` links, bare URLs (auto-linked) and images `![alt](../assets/img/name.svg)`.
+
+   Optional: images (e.g. a diagram of the baseball field under **Rules**) go into `assets/img/<slug>-<n>.svg` (or `.png`) and are referenced in the content file with a path relative to the generated page, e.g. `![Baseball field](../assets/img/baseball-field.svg)`.
 
 3. Rebuild the data and the site:
 

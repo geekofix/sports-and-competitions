@@ -61,6 +61,7 @@ def esc(text):
 def md_inline(text):
     t = esc(text)
     t = re.sub(r"`([^`]+)`", r"<code>\1</code>", t)
+    t = re.sub(r"!\[([^\]]*)\]\(([^)\s]+)\)", r'<img src="\2" alt="\1">', t)
     t = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", t)
     t = re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", t)
     t = re.sub(

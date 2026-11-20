@@ -56,7 +56,7 @@ body {
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-.wrap { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+.wrap { max-width: 1240px; margin: 0 auto; padding: 0 20px; }
 
 .site-header {
   background: var(--header-grad);
@@ -196,7 +196,7 @@ tbody tr.hidden { display: none; }
 
 td { padding: 10px 14px; vertical-align: top; font-size: 15px; }
 td.num { color: var(--muted); font-size: 12px; text-align: center; width: 44px; }
-td.sport-name { font-weight: 700; font-size: 16px; width: 260px; }
+td.sport-name { font-weight: 700; font-size: 16px; width: auto; white-space: nowrap; }
 td.sport-name a { color: var(--text); text-decoration: none; }
 td.sport-name a:hover { color: var(--accent); text-decoration: underline; }
 td.desc { color: var(--muted); }
@@ -276,6 +276,7 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 .page section h3 { font-size: 18px; margin: 14px 0 8px; }
 .page a { color: var(--accent); }
 .page a:hover { color: var(--accent-2); }
+.page img { max-width: 100%; height: auto; border: 1px solid var(--border); border-radius: 10px; margin: 10px 0; background: var(--surface-2); }
 
 #sources ul { list-style: none; margin-left: 0; }
 #sources li { padding-left: 1.4em; text-indent: -1.4em; }
@@ -293,7 +294,6 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 
 @media (max-width: 640px) {
   body { font-size: 16px; }
-  td.sport-name { width: auto; }
   h1.brand { font-size: 25px; }
   .page h1 { font-size: 29px; }
 }
