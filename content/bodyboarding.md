@@ -8,7 +8,7 @@ Under ISA rules, bodyboarders compete in heats of four to six riders, each with 
 
 ## History
 
-Bodyboarding was invented in 1971 by Tom Morey in Hawaii, who cut a foam mat in half and added a nose grip; the sport exploded in popularity in the 1970s-80s, especially in Hawaii, California, Australia and Brazil. The first world championships were held in the 1980s, and the ISA took over governance of bodyboarding in the 1990s. Nine-time world champion Mike Stewart (USA) and Brazilian stars like Alexandra Richards... among the legends are Hawaiian Mike Stewart and Brazil's multiple champion Andreia... (keep general: Mike Stewart, Rob Machado-era riders). Olympic surfing (ISA) does not include bodyboarding.
+Bodyboarding was invented in 1971 by Tom Morey in Hawaii, who cut a foam mat in half and added a nose grip; the sport exploded in popularity in the 1970s-80s, especially in Hawaii, California, Australia and Brazil. The first world championships were held in the 1980s, and the ISA took over governance of bodyboarding in the 1990s. Hawaiian Mike Stewart, a nine-time world champion, is among the sport's legends. Olympic surfing (ISA) does not include bodyboarding.
 
 ## Sources
 
