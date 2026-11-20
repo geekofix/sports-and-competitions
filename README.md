@@ -26,7 +26,7 @@ An open-source encyclopedia of **818 sports and competitions** from around the w
 | `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`) |
 | `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + legacy data |
 | `tools/generate_site.py` | Generates `index.html` and all `sports/*.html` pages from the CSV + content files |
-| `index.html`, `sports/`, `assets/` | The generated static website (served by GitHub Pages) |
+| `index.html`, `sports/`, `assets/` | The generated static website (served by GitHub Pages): pages, styles, scripts and images |
 | `.nojekyll` | Tells GitHub Pages to serve the files as-is, no build step |
 
 Never edit the generated files (`index.html`, `sports/*.html`, `data/sports.csv`) by hand — change the sources and re-run the tools instead. This keeps all 818 pages structurally identical.

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">American football field</title>
+  <desc id="desc">Diagram of an American football field: 100 yards of playing field between two 10-yard end zones, with yard lines every 5 yards and the 50-yard line in the middle.</desc>
+  <rect x="0" y="0" width="1200" height="700" fill="#1f7a3d"/>
+  <!-- playing field -->
+  <rect x="20" y="60" width="1160" height="580" fill="#2e9e52" stroke="#ffffff" stroke-width="4"/>
+  <!-- end zones -->
+  <rect x="20" y="60" width="116.7" height="580" fill="#1d6fb8"/>
+  <rect x="1063.3" y="60" width="116.7" height="580" fill="#c0392b"/>
+  <text x="78" y="350" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="middle" transform="rotate(-90 78 350)">END ZONE</text>
+  <text x="1122" y="350" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="middle" transform="rotate(90 1122 350)">END ZONE</text>
+  <!-- yard lines every 5 yards -->
+  <g stroke="#ffffff" stroke-width="2" opacity="0.9">
+    <!-- x = 20 + yards*9.667 -->
+    <line x1="116.7" y1="60" x2="116.7" y2="640"/>
+    <line x1="165.3" y1="60" x2="165.3" y2="640"/>
+    <line x1="214" y1="60" x2="214" y2="640"/>
+    <line x1="262.7" y1="60" x2="262.7" y2="640"/>
+    <line x1="311.3" y1="60" x2="311.3" y2="640"/>
+    <line x1="360" y1="60" x2="360" y2="640" stroke-width="4"/>
+    <line x1="408.7" y1="60" x2="408.7" y2="640"/>
+    <line x1="457.3" y1="60" x2="457.3" y2="640"/>
+    <line x1="506" y1="60" x2="506" y2="640"/>
+    <line x1="554.7" y1="60" x2="554.7" y2="640"/>
+    <line x1="603.3" y1="60" x2="603.3" y2="640" stroke-width="4"/>
+    <line x1="652" y1="60" x2="652" y2="640"/>
+    <line x1="700.7" y1="60" x2="700.7" y2="640"/>
+    <line x1="749.3" y1="60" x2="749.3" y2="640"/>
+    <line x1="798" y1="60" x2="798" y2="640"/>
+    <line x1="846.7" y1="60" x2="846.7" y2="640" stroke-width="4"/>
+    <line x1="895.3" y1="60" x2="895.3" y2="640"/>
+    <line x1="944" y1="60" x2="944" y2="640"/>
+    <line x1="992.7" y1="60" x2="992.7" y2="640"/>
+    <line x1="1041.3" y1="60" x2="1041.3" y2="640"/>
+    <line x1="1063.3" y1="60" x2="1063.3" y2="640"/>
+  </g>
+  <!-- yard numbers -->
+  <g fill="#ffffff" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle">
+    <text x="262.7" y="120">10</text><text x="311.3" y="120">20</text><text x="360" y="120">30</text><text x="408.7" y="120">40</text><text x="457.3" y="580">50</text><text x="506" y="120">40</text><text x="554.7" y="120">30</text><text x="603.3" y="120">20</text><text x="652" y="120">10</text>
+    <text x="262.7" y="580">10</text><text x="311.3" y="580">20</text><text x="360" y="580">30</text><text x="408.7" y="580">40</text><text x="506" y="580">40</text><text x="554.7" y="580">30</text><text x="603.3" y="580">20</text><text x="652" y="580">10</text>
+  </g>
+  <!-- 50-yard line label -->
+  <text x="600" y="370" fill="#ffe066" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">50</text>
+  <!-- goal posts -->
+  <g stroke="#ffe066" stroke-width="6" fill="none">
+    <line x1="78" y1="60" x2="78" y2="20"/><line x1="58" y1="20" x2="98" y2="20"/><line x1="78" y1="20" x2="78" y2="38"/>
+    <line x1="1122" y1="60" x2="1122" y2="20"/><line x1="1102" y1="20" x2="1142" y2="20"/><line x1="1122" y1="20" x2="1122" y2="38"/>
+  </g>
+  <!-- hash marks -->
+  <g stroke="#ffffff" stroke-width="2" opacity="0.7">
+    <line x1="590" y1="300" x2="590" y2="312"/><line x1="610" y1="300" x2="610" y2="312"/><line x1="590" y1="388" x2="590" y2="400"/><line x1="610" y1="388" x2="610" y2="400"/>
+  </g>
+  <!-- caption -->
+  <text x="600" y="685" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">120 yd total length (100 yd playing field + two 10 yd end zones) × 53⅓ yd wide</text>
+</svg>
