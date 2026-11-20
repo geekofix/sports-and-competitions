@@ -1,24 +1,22 @@
 #!/usr/bin/env python3
-"""Build data/sports.csv from data/sports_list.md plus legacy reference data.
+"""Build data/sports.csv from data/sports_list.md plus curated descriptions.
 
 The canonical list of sports/competitions lives in data/sports_list.md
-(two-column Markdown table: name + YouTube search URL). Legacy projects
-(data/legacy/) are only used to enrich rows with a short description.
+(two-column Markdown table: name + YouTube search URL). The short
+descriptions shown on the index page come from data/descriptions.csv
+(columns: slug, description).
 
 Usage:
     python3 tools/build_data.py
 """
 
 import csv
-import html as htmllib
-import json
 import re
 import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-LEGACY = DATA / "legacy"
 OUT = DATA / "sports.csv"
 
 FIELDS = ["slug", "name", "youtube_url", "description", "description_source"]
@@ -28,17 +26,6 @@ def slugify(name):
     s = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
     s = re.sub(r"[^a-zA-Z0-9]+", "-", s).strip("-").lower()
     return s or "sport"
-
-
-def norm(text):
-    return re.sub(r"[^a-z0-9]+", " ", str(text).lower()).strip()
-
-
-def query_of(url):
-    m = re.search(r"search_query=([^&]+)", url)
-    if not m:
-        return ""
-    return htmllib.unescape(m.group(1)).replace("+", " ")
 
 
 def parse_list():
@@ -51,76 +38,19 @@ def parse_list():
     return entries
 
 
-def parse_legacy_json(by_url, by_query, by_name):
-    path = LEGACY / "sports-data.json"
-    if not path.exists():
-        return
-    for sport in json.loads(path.read_text(encoding="utf-8")):
-        desc = (sport.get("description") or "").strip()
-        if not desc:
-            continue
-        url = sport.get("youtubeUrl", "")
-        by_url.setdefault(url, (desc, "legacy/sports-data.json"))
-        by_query.setdefault(norm(sport.get("searchQuery", "")), (desc, "legacy/sports-data.json"))
-        by_name.setdefault(norm(sport.get("name", "")), (desc, "legacy/sports-data.json"))
-
-
-def parse_legacy_html(by_url, by_query, by_name):
-    path = LEGACY / "sports-encyclopedia.html"
-    if not path.exists():
-        return
-    text = path.read_text(encoding="utf-8")
-    pattern = re.compile(
-        r'<td class="sport-name">(.*?)</td>\s*<td class="desc">(.*?)</td>\s*'
-        r'<td class="yt"><a href="([^"]+)"',
-        re.DOTALL,
-    )
-    for name, desc, url in pattern.findall(text):
-        name = htmllib.unescape(name).strip()
-        desc = htmllib.unescape(desc).strip()
-        if not desc:
-            continue
-        by_url.setdefault(url, (desc, "legacy/sports-encyclopedia.html"))
-        by_query.setdefault(norm(query_of(url)), (desc, "legacy/sports-encyclopedia.html"))
-        by_name.setdefault(norm(name), (desc, "legacy/sports-encyclopedia.html"))
-
-
-def parse_legacy_md(by_url, by_query, by_name):
-    path = LEGACY / "additional_sports_round2.md"
-    if not path.exists():
-        return
-    for line in path.read_text(encoding="utf-8").splitlines():
-        if not line.startswith("|") or "youtube.com/results" not in line:
-            continue
-        cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        if len(cells) < 7:
-            continue
-        name = cells[1].replace("**", "").strip()
-        desc = cells[5].strip()
-        m = re.search(r"\((https://www\.youtube\.com/results\?[^)]+)\)", cells[6])
-        url = m.group(1) if m else ""
-        if not desc:
-            continue
-        if url:
-            by_url.setdefault(url, (desc, "legacy/additional_sports_round2.md"))
-            by_query.setdefault(norm(query_of(url)), (desc, "legacy/additional_sports_round2.md"))
-        by_name.setdefault(norm(name), (desc, "legacy/additional_sports_round2.md"))
-
-
-def parse_descriptions_csv(by_slug_desc):
-    """Optional hand-written/curated descriptions: data/descriptions.csv (slug,description).
-
-    These take precedence over legacy-matched descriptions.
-    """
+def parse_descriptions_csv():
+    """Curated descriptions: data/descriptions.csv (slug, description)."""
     path = DATA / "descriptions.csv"
+    by_slug = {}
     if not path.exists():
-        return
+        return by_slug
     with path.open(encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f):
             slug = (row.get("slug") or "").strip()
             desc = (row.get("description") or "").strip()
             if slug and desc:
-                by_slug_desc[slug] = desc
+                by_slug[slug] = desc
+    return by_slug
 
 
 def main():
@@ -128,13 +58,7 @@ def main():
     if not entries:
         raise SystemExit("No entries parsed from data/sports_list.md")
 
-    by_url, by_query, by_name = {}, {}, {}
-    parse_legacy_json(by_url, by_query, by_name)
-    parse_legacy_html(by_url, by_query, by_name)
-    parse_legacy_md(by_url, by_query, by_name)
-
-    by_slug_desc = {}
-    parse_descriptions_csv(by_slug_desc)
+    by_slug_desc = parse_descriptions_csv()
 
     used_slugs = set()
     rows = []
@@ -148,13 +72,7 @@ def main():
             i += 1
         used_slugs.add(slug)
 
-        desc, source = by_url.get(e["youtube_url"], ("", ""))
-        if not desc:
-            desc, source = by_query.get(norm(query_of(e["youtube_url"])), ("", ""))
-        if not desc:
-            desc, source = by_name.get(norm(e["name"]), ("", ""))
-        if slug in by_slug_desc:
-            desc, source = by_slug_desc[slug], "descriptions.csv"
+        desc = by_slug_desc.get(slug, "")
         if desc:
             matched += 1
         rows.append({
@@ -162,7 +80,7 @@ def main():
             "name": e["name"],
             "youtube_url": e["youtube_url"],
             "description": desc,
-            "description_source": source,
+            "description_source": "descriptions.csv" if desc else "",
         })
 
     with OUT.open("w", encoding="utf-8", newline="") as f:

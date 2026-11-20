@@ -21,10 +21,10 @@ An open-source encyclopedia of **818 sports and competitions** from around the w
 | Path | Purpose |
 | --- | --- |
 | `data/sports_list.md` | Canonical list: one row per sport/competition with its YouTube search link |
-| `data/sports.csv` | Generated from the list (plus legacy descriptions) — the data source for the site |
-| `data/legacy/` | Earlier project files, kept for provenance and to enrich descriptions |
-| `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`) |
-| `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + legacy data |
+| `data/descriptions.csv` | Curated short descriptions (slug, description) shown on the index page |
+| `data/sports.csv` | Generated from the list and the curated descriptions — the data source for the site |
+| `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`, `## Sources`, `## Important Links`) |
+| `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + `data/descriptions.csv` |
 | `tools/generate_site.py` | Generates `index.html` and all `sports/*.html` pages from the CSV + content files |
 | `index.html`, `sports/`, `assets/` | The generated static website (served by GitHub Pages): pages, styles, scripts and images |
 | `.nojekyll` | Tells GitHub Pages to serve the files as-is, no build step |
