@@ -8,7 +8,7 @@ At IF7 World Cup level, teams field seven players (including a goalkeeper) on a 
 
 ## History
 
-7-a-side football grew from informal street and youth football in the late 20th century; the IF7 was founded in 2014 in Brazil and has held World Cups since 2015 (editions in Guatemala, Curitiba and Mexico, most recently 2023). Paralympic 7-a-side (originally for cerebral palsy footballers) debuted at Arnhem 1980? — it has been on the Paralympic program since 1984 (New York/Stoke Mandeville) and was rebranded "football 7-a-side" at Rio 2016. Ukraine won the Paralympic gold in 2016 and 2020 (defeating Brazil), and Brazil dominated earlier editions. Amateur 7s is hugely popular in Brazil, Japan and across Asia.
+7-a-side football grew from informal street and youth football in the late 20th century; the IF7 was founded in 2014 in Brazil and has held World Cups since 2015 (editions in Guatemala, Curitiba and Mexico, most recently 2023). Paralympic 7-a-side (originally for cerebral palsy footballers) has been on the Paralympic program since 1984 (New York/Stoke Mandeville) and was rebranded "football 7-a-side" at Rio 2016. Ukraine won the Paralympic gold in 2016 and 2020 (defeating Brazil), and Brazil dominated earlier editions. Amateur 7s is hugely popular in Brazil, Japan and across Asia.
 
 ## Sources
 

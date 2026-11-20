@@ -8,7 +8,7 @@ Under the FIFG Rules of Play, each hole is played like golf but with the feet: t
 
 ## History
 
-FootGolf was formalized in the Netherlands in 2008-2009 by the Dutch FootGolf Association, building on informal games played by footballers on golf courses since the 1970s; the first official tournament was held in 2009. The FIFG was founded in 2012 (registered in Hungary) and held the first FootGolf World Cup in Budapest in June 2012. The sport spread across Europe and to the US, where the American FootGolf League (2011) and American FootGolf Federation (2012) organized play; the US national team has competed at every World Cup. The 2026 FIFG FootGolf World Championship is scheduled for Acapulco, Mexico. Top players include Hungary's? — leading nations are Hungary, the Netherlands, the Czech Republic, Slovakia, the US and Argentina; stars include former footballers who switched to FootGolf.
+FootGolf was formalized in the Netherlands in 2008-2009 by the Dutch FootGolf Association, building on informal games played by footballers on golf courses since the 1970s; the first official tournament was held in 2009. The FIFG was founded in 2012 (registered in Hungary) and held the first FootGolf World Cup in Budapest in June 2012. The sport spread across Europe and to the US, where the American FootGolf League (2011) and American FootGolf Federation (2012) organized play; the US national team has competed at every World Cup. The 2026 FIFG FootGolf World Championship is scheduled for Acapulco, Mexico. Leading nations are Hungary, the Netherlands, the Czech Republic, Slovakia, the US and Argentina; stars include former footballers who switched to FootGolf.
 
 ## Sources
 

@@ -4,7 +4,7 @@ High diving is the extreme diving discipline in which athletes dive from platfor
 
 ## Rules
 
-At World Aquatics high diving events, divers perform 3-4 dives from the 27 m (men) / 20 m (women) platform; each dive has a degree of difficulty (DD up to about 5.0 for the hardest twists/flips), and judges award execution points; the total decides the ranking. Divers enter the water feet-first or head-first depending on the dive; entry is judged on splash. At Red Bull Cliff Diving, men dive from 27 m and women from 20 m, with 3-4 dives scored by five judges (execution only, no DD multiplier? — Cliff Diving uses DD multipliers too since 2013? — state: dives are scored on difficulty and execution like platform diving). Safety rules: minimum water depth (about 5-6 m), medical staff on site, and divers must be certified; the entry speed reaches about 85 km/h from 27 m.
+At World Aquatics high diving events, divers perform 3-4 dives from the 27 m (men) / 20 m (women) platform; each dive has a degree of difficulty (DD up to about 5.0 for the hardest twists/flips), and judges award execution points; the total decides the ranking. Divers enter the water feet-first or head-first depending on the dive; entry is judged on splash. At Red Bull Cliff Diving, men dive from 27 m and women from 20 m, with 3-4 dives scored by five judges on execution and difficulty of the dives, as in platform diving. Safety rules: minimum water depth (about 5-6 m), medical staff on site, and divers must be certified; the entry speed reaches about 85 km/h from 27 m.
 
 ## History
 
