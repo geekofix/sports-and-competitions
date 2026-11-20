@@ -8,7 +8,7 @@ Each driver gets multiple runs (typically 3 to 6) to learn the course, and the b
 
 ## History
 
-Autocross originated in the United States in the 1950s as an affordable entry into motorsport using everyday cars on temporary cone courses. The SCCA formalized Solo events nationally, and the FIA European Autocross Championship has run since the 1960s? (FIA autocross European championship exists). It remains the cheapest form of competitive driving.
+Autocross originated in the United States in the 1950s as an affordable entry into motorsport using everyday cars on temporary cone courses. The SCCA formalized Solo events nationally, and the FIA European Autocross Championship has run since the 1960s. It remains the cheapest form of competitive driving.
 
 ## Sources
 

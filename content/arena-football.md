@@ -4,7 +4,7 @@ Arena Football is the indoor variant of American football, played on a small pad
 
 ## Rules
 
-Arena football is played 8v8 on a 50-yard padded field with rebound boards instead of out of bounds. Four 15-minute quarters; the offense has four downs as in the NFL; scoring is the same (touchdown 6, field goal 3, safety 2). Because the walls are in play, the ball rarely goes out, producing continuous, high-scoring action. Kicking is limited: the kickoff is from the 20-yard line and field goals are 3 points from anywhere? — variants exist between AFL and IFL rulebooks, e.g. drop-kick kickoffs and goal-post width.
+Arena football is played 8v8 on a 50-yard padded field with rebound boards instead of out of bounds. Four 15-minute quarters; the offense has four downs as in the NFL; scoring is the same (touchdown 6, field goal 3, safety 2). Because the walls are in play, the ball rarely goes out, producing continuous, high-scoring action. Kicking is limited: the kickoff is from the 20-yard line and field goals are worth 3 points; variants exist between the AFL and IFL rulebooks, such as drop-kick kickoffs and goal-post width.
 
 ## History
 
