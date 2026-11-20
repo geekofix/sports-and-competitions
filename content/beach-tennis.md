@@ -4,7 +4,7 @@ Beach tennis is tennis played on a sand court with solid paddles (no strings) an
 
 ## Rules
 
-Under ITF beach tennis rules, the court is 16 x 8 m for doubles with a net 1.70 m high at the posts (1.80 m at the center in some formats). Players use solid wooden or composite paddles and a low-pressure tennis ball (stage 2/decompressed ball). A point is won when the ball bounces once in the opponent's court and they fail to return it, or when they hit it out or into the net. Scoring is like tennis (15-30-40-game), and at the World Championships matches are best of three sets (with a match tie-break in the third). Serves alternate every two points and must be underarm... actually overarm allowed? Underarm or overarm both allowed? In beach tennis the serve is underhand. Keep: serve is underhand, diagonally into the service box.
+Under ITF beach tennis rules, the court is 16 x 8 m for doubles with a net 1.70 m high at the posts (1.80 m at the center in some formats). Players use solid wooden or composite paddles and a low-pressure tennis ball (stage 2/decompressed ball). A point is won when the ball bounces once in the opponent's court and they fail to return it, or when they hit it out or into the net. Scoring is like tennis (15-30-40-game), and at the World Championships matches are best of three sets (with a match tie-break in the third). Serves alternate every two points and are hit underhand into the diagonally opposite service box.
 
 ## History
 
