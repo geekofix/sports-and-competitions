@@ -1,0 +1,23 @@
+## Basic Information
+
+Pato (juego del pato, "duck game") is the national sport of Argentina, a horseback team game that combines elements of [polo](polo.html) and basketball and is also related to [horseball](horseball.html). Two teams of four riders compete to throw a leather ball with six handles, still called "el pato", through a vertical ring mounted on a pole at each end of a large grass field. It was declared the national sport of Argentina by presidential decree in 1953, and the game is played by gauchos since at least the 17th century, originally with a live duck inside a basket as the ball.
+
+## Rules
+
+The modern game is played on a rectangular grass pitch about 80 to 220 m long and 80 to 90 m wide, roughly the size of a polo field, with a vertical ring 100 cm in diameter atop a 240 cm high pole at each end, fitted with a 140 cm deep net to catch the ball after a goal. Two teams of four players on horseback compete over six periods of eight minutes with five-minute breaks; the team with the most goals wins. The ball is a leather sphere surrounded by six handles. A player holding the pato must extend the arm holding it, always to the right, so opponents can grab it, and while tugging for the ball both riders must stand in the stirrups and hold the reins with the other hand. Professional competitions use a handicap system rated 0 to 10 per player, and the Abierto Argentino de Pato, for example, requires a team handicap of 20 to 34.
+
+## History
+
+Pato originated in the 17th century on the Argentine pampas, where gauchos fought over a basket containing a live duck, trying to carry it to their own estancia; the earliest documented accounts date to around 1610, and the naturalist Félix de Azara described a game in Buenos Aires in the 1790s. The game's violence, including deaths from trampling and knife fights, led to repeated bans: a Catholic priest denied Christian burial to players killed in 1796, and the government prohibited the game in 1822. In 1937 Alberto de Castillo Posse revived it with rules modeled on polo, designed the modern saddle and ball, and the ban was repealed in 1938. The Argentine Pato Federation was founded in 1941 and the first Abierto Argentino de Pato was played the same year, won by Los Corrales. President Juan Perón declared pato the national sport by decree 17468 of 16 September 1953. The Campo de Argentina del Pato near Buenos Aires hosts the top championships, and in 2006 the Argentine federation agreed with the International Horseball Federation to adapt horseball rules to pato regulations.
+
+## Sources
+
+- Traditional Sports. (n.d.). *Pato (Argentina)*. Retrieved November 20, 2026, from https://traditionalsports.org/traditional-sports/south-america/pato-argentina.html
+- World Ethnosport Organization. (n.d.). *Pato*. Retrieved November 20, 2026, from https://worldethnosport.org/pato
+
+## Important Links
+
+- [World Ethnosport Organization — pato](https://worldethnosport.org/pato) — international documentation of the national sport of Argentina
+- [Traditional Sports — pato](https://traditionalsports.org/traditional-sports/south-america/pato-argentina.html) — history and rules of pato
+- [Polo](polo.html) — the horseback sport pato's rules were modeled on
+- [Horseball](horseball.html) — the related horseback ball sport on this site
