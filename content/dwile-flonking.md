@@ -8,7 +8,7 @@ The girter circle is made up of 12 players who take turns being the flonker and 
 
 ## History
 
-Dwile flonking is first recorded in the 19th century among agricultural workers in East Anglia, where it was played at harvest-home celebrations with a harvest pole decorated and soaked in beer. The game was revived and popularized in the 20th century at the Cotswold Olimpick Games (founded 1612, revived 1963) in Chipping Campden, and at the Lewes Arms, Beccles, Suffolk, which claims the tradition dates to 1966 and jokingly cites the fictional "Waveney Rules of 1585." It is now performed at folk festivals across England, and the BBC has covered the Cotswold Olimpick Games tradition extensively. The game is celebrated as an example of English folk custom, with the sing-song chant "Here come a whirligig..." accompanying play.
+Dwile flonking is first recorded in the 19th century among agricultural workers in East Anglia, where it was played at harvest-home celebrations with a harvest pole decorated and soaked in beer. The game was revived and popularized in the 20th century at the Cotswold Olimpick Games (founded 1612, revived 1963) in Chipping Campden, and at the Lewes Arms, Beccles, Suffolk, which claims the tradition dates to 1966 and jokingly cites the fictional "Waveney Rules of 1585." It is now performed at folk festivals across England, and the BBC has covered the Cotswold Olimpick Games tradition extensively. The game is celebrated as an example of English folk custom, with the sing-song chant that begins "Here come a whirligig" accompanying play.
 
 ## Sources
 
