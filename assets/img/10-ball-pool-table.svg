@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 620" role="img" aria-labelledby="title desc">
   <title id="title">10-ball pool table and break (top view)</title>
-  <desc id="desc">Schematic top view of a 9-foot pool table drawn to a uniform scale of 9 pixels per inch: 100 x 50 inch playing surface, 2.25 inch balls, six pockets cut into the cushions with the side pockets centred on the long rails, diamond sights, head string, ten-ball rack on the foot spot and a cue ball positioned for the break.</desc>
+  <desc id="desc">Schematic top view of a 9-foot pool table drawn to a uniform scale of 9 pixels per inch: 100 x 50 inch playing surface, 2.25 inch balls, six equal-sized pockets centred on the four cloth corners and the midpoints of the two long rails (top-left, top-centre, top-right, bottom-left, bottom-centre, bottom-right), diamond sights, head string, ten-ball rack on the foot spot and a cue ball positioned for the break.</desc>
   <rect x="0" y="0" width="1060" height="620" fill="#f4f1ea"/>
   <!-- rail frame: wood around the cushion band -->
   <rect x="10" y="10" width="1040" height="600" fill="#5b3a24" stroke="#3b2415" stroke-width="3"/>
@@ -13,15 +13,15 @@
   <circle cx="1010" cy="90" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
   <circle cx="110" cy="540" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
   <circle cx="1010" cy="540" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <!-- two side pockets: centred on x = 560, mouth 45 px = approx. 5 in, opening cut into the long rails -->
-  <circle cx="560" cy="74" r="27" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <circle cx="560" cy="556" r="27" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <!-- two side pockets: same size as the corner pockets (r = 40 px), centred on the midpoint of the long rails (x = 560) at the rail line (y = 90 / 540) -->
+  <circle cx="560" cy="90" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="560" cy="540" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
   <!-- cushion noses, interrupted by the pocket mouths -->
   <g stroke="#f4f1ea" stroke-width="2" opacity="0.55">
-    <line x1="150" y1="90" x2="537" y2="90"/>
-    <line x1="583" y1="90" x2="970" y2="90"/>
-    <line x1="150" y1="540" x2="537" y2="540"/>
-    <line x1="583" y1="540" x2="970" y2="540"/>
+    <line x1="150" y1="90" x2="520" y2="90"/>
+    <line x1="600" y1="90" x2="970" y2="90"/>
+    <line x1="150" y1="540" x2="520" y2="540"/>
+    <line x1="600" y1="540" x2="970" y2="540"/>
     <line x1="110" y1="130" x2="110" y2="500"/>
     <line x1="1010" y1="130" x2="1010" y2="500"/>
   </g>
