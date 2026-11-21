@@ -19,4 +19,4 @@ Slopestyle developed from skateboarding and snowboarding terrain parks in the 19
 
 - [FIS — freestyle skiing slopestyle](https://www.fis.ski/) — world governing body; slopestyle rules and World Cup
 - [Olympic freestyle skiing](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — slopestyle at the Olympics since 2014
-- [Freestyle Skiing — family entry](freestyle-skiing.html) — all freestyle skiing disciplines on this site
+- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) — another freestyle skiing discipline, on this site

@@ -4,7 +4,7 @@ Freestyle skateboarding is the technical flat-ground discipline of skateboarding
 
 ## Rules
 
-At World Skate freestyle events, competitors perform runs (typically 1-2 minutes, sometimes to music) consisting of a sequence of tricks on flat ground; judges score difficulty, execution, variety, composition and style, with falls and hand-downs reducing the score. Events include men's and women's freestyle, with preliminary rounds and finals. Street and park (see [Street Skateboarding](street-skateboarding.html) and [Park Skateboarding](park-skateboarding.html)) are separate Olympic disciplines. In casual freestyle ("flatland"), the goal is a clean run without putting a foot down; in "best trick" contests, riders take turns attempting their hardest trick.
+At World Skate freestyle events, competitors perform runs (typically 1-2 minutes, sometimes to music) consisting of a sequence of tricks on flat ground; judges score difficulty, execution, variety, composition and style, with falls and hand-downs reducing the score. Events include men's and women's freestyle, with preliminary rounds and finals. Street and park formats are separate Olympic disciplines of [Skateboarding](skateboarding.html). In casual freestyle ("flatland"), the goal is a clean run without putting a foot down; in "best trick" contests, riders take turns attempting their hardest trick.
 
 ## History
 

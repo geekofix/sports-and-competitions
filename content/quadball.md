@@ -20,4 +20,4 @@ Quadball began in October 2005 at Middlebury College in Vermont, where freshmen 
 
 - [International Quadball Association (IQA)](https://www.iqasport.com/) — world governing body and World Cup organizer
 - [US Quadball](https://www.usquadball.org/) — the largest national federation and its rulebook
-- [Dodgeball](dodgeball.html) and [Rugby](rugby.html) — component sports on this site
+- [Rugby Sevens](rugby-sevens.html) and [Dodgeball](dodgeball.html) — component sports on this site

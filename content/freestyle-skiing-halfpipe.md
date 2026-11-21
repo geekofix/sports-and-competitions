@@ -19,4 +19,4 @@ Halfpipe originated in skateboarding and surfing culture in the 1970s (the empty
 
 - [FIS — freestyle skiing halfpipe](https://www.fis.ski/) — world governing body; halfpipe rules and World Cup
 - [Olympic freestyle skiing](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — halfpipe at the Olympics since 1998
-- [Freestyle Skiing — family entry](freestyle-skiing.html) — all freestyle skiing disciplines on this site
+- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) — another freestyle skiing discipline, on this site

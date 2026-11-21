@@ -19,4 +19,4 @@ Aerials developed from Norwegian and Swiss acrobatic ski demonstrations in the 1
 
 - [FIS — International Ski and Snowboard Federation](https://www.fis.ski/) — world governing body; aerials rules and World Cup
 - [Olympic freestyle skiing](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — aerials at the Olympics since 1992
-- [Freestyle Skiing — family entry](freestyle-skiing.html) — all freestyle skiing disciplines on this site
+- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) — another freestyle skiing discipline, on this site
