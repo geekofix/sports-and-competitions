@@ -19,4 +19,4 @@ Foam-and-soap climbing contests of this kind are best known from Japanese televi
 
 - Top End Sports — the world's list of unusual sports, including this novelty competition
 - [Skyscraper running](skyscraper-running.html) — the serious side of stair racing, on this site
-- [Shin kicking](shin-kicking.html) and [Snail racing](snail-racing.html) — other novelty competitions, on this site
+- [Shin kicking](shin-kicking.html) and [Toe Wrestling](toe-wrestling.html) — other novelty competitions, on this site

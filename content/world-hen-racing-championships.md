@@ -19,6 +19,6 @@ The contest began in the 1980s at a village pub as a novelty to draw regulars an
 
 ## Important Links
 
-- [Turtle Racing](turtle-racing.html) — another animal novelty race, on this site
+- [World Stone Skimming Championships](world-stone-skimming-championships.html) — another rural world championship, on this site
 - [World Gurning Championships](world-gurning-championships.html) — a comparable rural world championship, on this site
 - [Worm Charming](worm-charming.html) — a rural festival contest with animals, on this site

@@ -21,4 +21,4 @@ The event grew out of the everyday work of Spanish-colonial California and the G
 
 - [Cutting](cutting.html) — the pure herd-work rodeo event, on this site
 - [Reining](reining.html) — the dry-work discipline of Western riding, on this site
-- [Bull Riding](bull-riding.html) — the roughest of the rodeo riding events, on this site
+- [Reining](reining.html) — the dry-work discipline of Western riding, on this site

@@ -48,7 +48,6 @@
 | Balle Pelote                               | https://www.youtube.com/results?search_query=balle+pelote                               |
 | Banana Ball                                | https://www.youtube.com/results?search_query=banana+ball                                |
 | Bandy                                      | https://www.youtube.com/results?search_query=bandy                                      |
-| Bareback Riding                            | https://www.youtube.com/results?search_query=bareback+riding                            |
 | Barebow Archery                            | https://www.youtube.com/results?search_query=barebow+archery                            |
 | Barefoot Water Skiing                      | https://www.youtube.com/results?search_query=barefoot+water+skiing                      |
 | Barrel Racing                              | https://www.youtube.com/results?search_query=barrel+racing                              |
@@ -70,7 +69,6 @@
 | Bed Racing                                 | https://www.youtube.com/results?search_query=bed+racing                                 |
 | Belt Wrestling                             | https://www.youtube.com/results?search_query=belt+wrestling                             |
 | Belt Wrestling Alysh                       | https://www.youtube.com/results?search_query=belt+wrestling+alysh                       |
-| Betta Fish Fighting                        | https://www.youtube.com/results?search_query=betta+fish+fighting                        |
 | Biathle                                    | https://www.youtube.com/results?search_query=biathle                                    |
 | Biathlon                                   | https://www.youtube.com/results?search_query=biathlon                                   |
 | Bike Polo                                  | https://www.youtube.com/results?search_query=bike+polo                                  |
@@ -102,16 +100,13 @@
 | Box Lacrosse                               | https://www.youtube.com/results?search_query=box+lacrosse                               |
 | Boxing                                     | https://www.youtube.com/results?search_query=boxing                                     |
 | Brazilian Jiu-Jitsu                        | https://www.youtube.com/results?search_query=brazilian+jiu-jitsu                        |
-| Breakaway Roping                           | https://www.youtube.com/results?search_query=breakaway+roping                           |
 | British Baseball                           | https://www.youtube.com/results?search_query=british+baseball                           |
 | Broom Hockey                               | https://www.youtube.com/results?search_query=broom+hockey                               |
 | Broomball                                  | https://www.youtube.com/results?search_query=broomball                                  |
 | Brännboll                                  | https://www.youtube.com/results?search_query=br%C3%A4nnboll                             |
 | Bubble Gum Blowing                         | https://www.youtube.com/results?search_query=bubble+gum+blowing                         |
 | Buhurt                                     | https://www.youtube.com/results?search_query=buhurt                                     |
-| Bull Riding                                | https://www.youtube.com/results?search_query=bull+riding                                |
 | Bullet Racing                              | https://www.youtube.com/results?search_query=bullet+racing                              |
-| Buzkashi                                   | https://www.youtube.com/results?search_query=buzkashi                                   |
 | Bökh                                       | https://www.youtube.com/results?search_query=b%C3%B6kh                                  |
 | Caber Toss                                 | https://www.youtube.com/results?search_query=caber+toss                                 |
 | Cable Wakeboarding                         | https://www.youtube.com/results?search_query=cable+wakeboarding                         |
@@ -152,7 +147,6 @@
 | Chovgan                                    | https://www.youtube.com/results?search_query=chovgan                                    |
 | Coastal Rowing                             | https://www.youtube.com/results?search_query=coastal+rowing                             |
 | Coasteering                                | https://www.youtube.com/results?search_query=coasteering                                |
-| Cockroach Racing                           | https://www.youtube.com/results?search_query=cockroach+racing                           |
 | Coffin Wars                                | https://www.youtube.com/results?search_query=coffin+wars                                |
 | Combat Ju-Jitsu                            | https://www.youtube.com/results?search_query=combat+ju-jitsu                            |
 | Combat Sambo                               | https://www.youtube.com/results?search_query=combat+sambo                               |
@@ -167,7 +161,6 @@
 | Counter-Strike                             | https://www.youtube.com/results?search_query=counter-strike                             |
 | Cow Chip Throwing                          | https://www.youtube.com/results?search_query=cow+chip+throwing                          |
 | Cricket                                    | https://www.youtube.com/results?search_query=cricket                                    |
-| Cricket Fighting                           | https://www.youtube.com/results?search_query=cricket+fighting                           |
 | Cricket ODI                                | https://www.youtube.com/results?search_query=cricket+odi                                |
 | Cricket T20                                | https://www.youtube.com/results?search_query=cricket+t20                                |
 | Croquet                                    | https://www.youtube.com/results?search_query=croquet                                    |
@@ -204,7 +197,6 @@
 | Dodgeball                                  | https://www.youtube.com/results?search_query=dodgeball                                  |
 | Dog Sledding                               | https://www.youtube.com/results?search_query=dog+sledding                               |
 | Dog Surfing                                | https://www.youtube.com/results?search_query=dog+surfing                                |
-| Donkey Polo                                | https://www.youtube.com/results?search_query=donkey+polo                                |
 | Dota 2                                     | https://www.youtube.com/results?search_query=dota+2                                     |
 | Double Mini-Trampoline                     | https://www.youtube.com/results?search_query=double+mini-trampoline                     |
 | Downhill Mountain Biking                   | https://www.youtube.com/results?search_query=downhill+mountain+biking                   |
@@ -223,7 +215,6 @@
 | E-Sports                                   | https://www.youtube.com/results?search_query=e-sports                                   |
 | Egg Tapping                                | https://www.youtube.com/results?search_query=egg+tapping                                |
 | Electrician Games                          | https://www.youtube.com/results?search_query=electrician+games                          |
-| Elephant Polo                              | https://www.youtube.com/results?search_query=elephant+polo                              |
 | Endurance Riding                           | https://www.youtube.com/results?search_query=endurance+riding                           |
 | Enduro                                     | https://www.youtube.com/results?search_query=enduro                                     |
 | Enduro Mountain Biking                     | https://www.youtube.com/results?search_query=enduro+mountain+biking                     |
@@ -241,8 +232,6 @@
 | Fencing Foil                               | https://www.youtube.com/results?search_query=fencing+foil                               |
 | Fencing Sabre                              | https://www.youtube.com/results?search_query=fencing+sabre                              |
 | Fencing Épée                               | https://www.youtube.com/results?search_query=fencing+%C3%A9p%C3%A9e                     |
-| Ferret Bingo                               | https://www.youtube.com/results?search_query=ferret+bingo                               |
-| Ferret Racing                              | https://www.youtube.com/results?search_query=ferret+racing                              |
 | Field Archery                              | https://www.youtube.com/results?search_query=field+archery                              |
 | Field Handball                             | https://www.youtube.com/results?search_query=field+handball                             |
 | Field Hockey                               | https://www.youtube.com/results?search_query=field+hockey                               |
@@ -303,12 +292,10 @@
 | Gouren                                     | https://www.youtube.com/results?search_query=gouren                                     |
 | Gravel Cycling                             | https://www.youtube.com/results?search_query=gravel+cycling                             |
 | Greco-Roman Wrestling                      | https://www.youtube.com/results?search_query=greco-roman+wrestling                      |
-| Greyhound Racing                           | https://www.youtube.com/results?search_query=greyhound+racing                           |
 | Gurning                                    | https://www.youtube.com/results?search_query=gurning                                    |
 | Gymnastics                                 | https://www.youtube.com/results?search_query=gymnastics                                 |
 | Haggis Hurling                             | https://www.youtube.com/results?search_query=haggis+hurling                             |
 | Haidong Gumdo                              | https://www.youtube.com/results?search_query=haidong+gumdo                              |
-| Hamster Racing                             | https://www.youtube.com/results?search_query=hamster+racing                             |
 | Handball                                   | https://www.youtube.com/results?search_query=handball                                   |
 | Hang Gliding                               | https://www.youtube.com/results?search_query=hang+gliding                               |
 | Hapkido                                    | https://www.youtube.com/results?search_query=hapkido                                    |
@@ -380,7 +367,6 @@
 | Knattleikr                                 | https://www.youtube.com/results?search_query=knattleikr                                 |
 | Knife Throwing                             | https://www.youtube.com/results?search_query=knife+throwing                             |
 | Kobudo                                     | https://www.youtube.com/results?search_query=kobudo                                     |
-| Kok Boru                                   | https://www.youtube.com/results?search_query=kok+boru                                   |
 | Korfball                                   | https://www.youtube.com/results?search_query=korfball                                   |
 | Krabi-Krabong                              | https://www.youtube.com/results?search_query=krabi-krabong                              |
 | Krav Maga                                  | https://www.youtube.com/results?search_query=krav+maga                                  |
@@ -403,7 +389,6 @@
 | League of Legends                          | https://www.youtube.com/results?search_query=league+of+legends                          |
 | Lethwei                                    | https://www.youtube.com/results?search_query=lethwei                                    |
 | Lifesaving                                 | https://www.youtube.com/results?search_query=lifesaving                                 |
-| Lizard Racing                              | https://www.youtube.com/results?search_query=lizard+racing                              |
 | Longboarding                               | https://www.youtube.com/results?search_query=longboarding                               |
 | Longue Paume                               | https://www.youtube.com/results?search_query=longue+paume                               |
 | Lucha Leonesa                              | https://www.youtube.com/results?search_query=lucha+leonesa                              |
@@ -441,7 +426,6 @@
 | Mud Snorkeling                             | https://www.youtube.com/results?search_query=mud+snorkeling                             |
 | Mud-Pit Belly Flop                         | https://www.youtube.com/results?search_query=mud-pit+belly+flop                         |
 | Mullet Championships                       | https://www.youtube.com/results?search_query=mullet+championships                       |
-| Mushing                                    | https://www.youtube.com/results?search_query=mushing                                    |
 | Mölkky                                     | https://www.youtube.com/results?search_query=m%C3%B6lkky                                |
 | Naginata                                   | https://www.youtube.com/results?search_query=naginata                                   |
 | NASCAR                                     | https://www.youtube.com/results?search_query=nascar                                     |
@@ -462,7 +446,6 @@
 | Onewheel Racing                            | https://www.youtube.com/results?search_query=onewheel+racing                            |
 | Open Water Swimming                        | https://www.youtube.com/results?search_query=open+water+swimming                        |
 | Orienteering                               | https://www.youtube.com/results?search_query=orienteering                               |
-| Ostrich Racing                             | https://www.youtube.com/results?search_query=ostrich+racing                             |
 | Othello                                    | https://www.youtube.com/results?search_query=othello                                    |
 | Outhouse Racing                            | https://www.youtube.com/results?search_query=outhouse+racing                            |
 | Outrigger Canoeing                         | https://www.youtube.com/results?search_query=outrigger+canoeing                         |
@@ -488,7 +471,6 @@
 | Pentathlon                                 | https://www.youtube.com/results?search_query=pentathlon                                 |
 | Pesäpallo                                  | https://www.youtube.com/results?search_query=pes%C3%A4pallo                             |
 | Pickleball                                 | https://www.youtube.com/results?search_query=pickleball                                 |
-| Pig Olympics                               | https://www.youtube.com/results?search_query=pig+olympics                               |
 | Pigeon Racing                              | https://www.youtube.com/results?search_query=pigeon+racing                              |
 | Pillow Fighting                            | https://www.youtube.com/results?search_query=pillow+fighting                            |
 | Pinball                                    | https://www.youtube.com/results?search_query=pinball                                    |
@@ -555,7 +537,6 @@
 | Rugby Tens                                 | https://www.youtube.com/results?search_query=rugby+tens                                 |
 | Rugby Union                                | https://www.youtube.com/results?search_query=rugby+union                                |
 | Russian Pyramid                            | https://www.youtube.com/results?search_query=russian+pyramid                            |
-| Saddle Bronc Riding                        | https://www.youtube.com/results?search_query=saddle+bronc+riding                        |
 | Sailing                                    | https://www.youtube.com/results?search_query=sailing                                    |
 | Sambo                                      | https://www.youtube.com/results?search_query=sambo                                      |
 | Sandboarding                               | https://www.youtube.com/results?search_query=sandboarding                               |
@@ -611,7 +592,6 @@
 | Sledge Hockey                              | https://www.youtube.com/results?search_query=sledge+hockey                              |
 | Slippery Stairs                            | https://www.youtube.com/results?search_query=slippery+stairs                            |
 | Slowpitch Softball                         | https://www.youtube.com/results?search_query=slowpitch+softball                         |
-| Snail Racing                               | https://www.youtube.com/results?search_query=snail+racing                               |
 | Snooker                                    | https://www.youtube.com/results?search_query=snooker                                    |
 | Snooker Plus                               | https://www.youtube.com/results?search_query=snooker+plus                               |
 | Snow Rugby                                 | https://www.youtube.com/results?search_query=snow+rugby                                 |
@@ -649,7 +629,6 @@
 | Standing Volleyball                        | https://www.youtube.com/results?search_query=standing+volleyball                        |
 | StarCraft II                               | https://www.youtube.com/results?search_query=starcraft+ii                               |
 | Steeplechase                               | https://www.youtube.com/results?search_query=steeplechase                               |
-| Steer Wrestling                            | https://www.youtube.com/results?search_query=steer+wrestling                            |
 | Steinholding                               | https://www.youtube.com/results?search_query=steinholding                               |
 | Stone Put                                  | https://www.youtube.com/results?search_query=stone+put                                  |
 | Stoolball                                  | https://www.youtube.com/results?search_query=stoolball                                  |
@@ -686,7 +665,6 @@
 | Tang Soo Do                                | https://www.youtube.com/results?search_query=tang+soo+do                                |
 | Target Archery                             | https://www.youtube.com/results?search_query=target+archery                             |
 | Tchoukball                                 | https://www.youtube.com/results?search_query=tchoukball                                 |
-| Team Roping                                | https://www.youtube.com/results?search_query=team+roping                                |
 | Teddy Bear Toss                            | https://www.youtube.com/results?search_query=teddy+bear+toss                            |
 | Tejo                                       | https://www.youtube.com/results?search_query=tejo                                       |
 | Ten-Pin Bowling                            | https://www.youtube.com/results?search_query=ten-pin+bowling                            |
@@ -700,7 +678,6 @@
 | Thoroughbred Racing                        | https://www.youtube.com/results?search_query=thoroughbred+racing                        |
 | Three-Cushion Billiards                    | https://www.youtube.com/results?search_query=three-cushion+billiards                    |
 | Throwball                                  | https://www.youtube.com/results?search_query=throwball                                  |
-| Tie-Down Roping                            | https://www.youtube.com/results?search_query=tie-down+roping                            |
 | Toe Wrestling                              | https://www.youtube.com/results?search_query=toe+wrestling                              |
 | Tomahawk Throwing                          | https://www.youtube.com/results?search_query=tomahawk+throwing                          |
 | Top Fuel Drag Racing                       | https://www.youtube.com/results?search_query=top+fuel+drag+racing                       |
@@ -731,7 +708,6 @@
 | Tumbling                                   | https://www.youtube.com/results?search_query=tumbling                                   |
 | Tuna Throwing                              | https://www.youtube.com/results?search_query=tuna+throwing                              |
 | Turkey Bowling                             | https://www.youtube.com/results?search_query=turkey+bowling                             |
-| Turtle Racing                              | https://www.youtube.com/results?search_query=turtle+racing                              |
 | Ulama                                      | https://www.youtube.com/results?search_query=ulama                                      |
 | Ultimate                                   | https://www.youtube.com/results?search_query=ultimate+frisbee                           |
 | Ultimate Tazer Ball                        | https://www.youtube.com/results?search_query=ultimate+tazer+ball                        |

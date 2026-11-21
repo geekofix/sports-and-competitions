@@ -1,6 +1,6 @@
 ## Basic Information
 
-Dragon boat racing is the competitive racing form of dragon boat paddling: teams of 10 or 20 paddlers synchronized by a drummer race decorated boats over 200 m, 500 m and 2,000 m. This entry covers the racing competition itself; see [Dragon Boat](dragon-boat.html) for the full sport overview, as the two entries refer to the same discipline governed by the IDBF and the ICF.
+Dragon boat racing is the competitive racing form of dragon boat paddling: teams of 10 or 20 paddlers synchronized by a drummer race decorated boats over 200 m, 500 m and 2,000 m. The discipline is governed by the IDBF and also contested on the ICF world circuit.
 
 ## Rules
 
@@ -19,4 +19,4 @@ Competitive dragon boat racing has its roots in the ancient Chinese Dragon Boat 
 
 - [IDBF — International Dragon Boat Federation](https://www.idbf.org/) — world governing body for dragon boat racing; Club Crew World Championships
 - [ICF — International Canoe Federation](https://www.canoeicf.com/) — dragon boat sprint at its World Championships
-- [Dragon Boat — full sport entry](dragon-boat.html) — same discipline, full overview on this site
+- [Canoe Sprint](canoe-sprint.html) — the Olympic flat-water paddle racing family, on this site
