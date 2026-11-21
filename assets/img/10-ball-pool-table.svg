@@ -1,38 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 620" role="img" aria-labelledby="title desc">
-  <title id="title">10-ball pool table (top view)</title>
-  <desc id="desc">Schematic top view of a 9-foot pool table drawn to a uniform scale of 9 pixels per inch: 100 x 50 inch playing surface, 2.25 inch balls, six pockets cut into the rails, 18 diamond sights, head string and the ten-ball rack on the foot spot with a cue ball behind the head string.</desc>
+  <title id="title">10-ball pool table and break (top view)</title>
+  <desc id="desc">Schematic top view of a 9-foot pool table drawn to a uniform scale of 9 pixels per inch: 100 x 50 inch playing surface, 2.25 inch balls, six pockets cut into the cushions with the side pockets centred on the long rails, diamond sights, head string, ten-ball rack on the foot spot and a cue ball positioned for the break.</desc>
   <rect x="0" y="0" width="1060" height="620" fill="#f4f1ea"/>
   <!-- rail frame: wood around the cushion band -->
   <rect x="10" y="10" width="1040" height="600" fill="#5b3a24" stroke="#3b2415" stroke-width="3"/>
   <!-- cushion band, cloth colour -->
   <rect x="64" y="64" width="932" height="492" fill="#2b8a5e"/>
-  <!-- playing surface 900 x 450 px = 100 x 50 in -->
+  <!-- playing surface 900 x 450 px = 100 x 50 in, centred on x = 560 -->
   <rect x="110" y="90" width="900" height="450" fill="#1e7d4f"/>
-  <!-- six pockets cut into the rails: corner mouths approx. 4.5 in, side mouths approx. 5 in -->
-  <circle cx="97" cy="77" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <circle cx="1023" cy="77" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <circle cx="97" cy="553" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <circle cx="1023" cy="553" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <circle cx="500" cy="64" r="34" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
-  <circle cx="500" cy="566" r="34" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <!-- four corner pockets: circles centred on the cloth corners, mouth 40 px = approx. 4.4 in along each cushion -->
+  <circle cx="110" cy="90" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="1010" cy="90" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="110" cy="540" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="1010" cy="540" r="40" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <!-- two side pockets: centred on x = 560, mouth 45 px = approx. 5 in, opening cut into the long rails -->
+  <circle cx="560" cy="74" r="27" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="560" cy="556" r="27" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
   <!-- cushion noses, interrupted by the pocket mouths -->
   <g stroke="#f4f1ea" stroke-width="2" opacity="0.55">
-    <line x1="132" y1="90" x2="478" y2="90"/>
-    <line x1="522" y1="90" x2="988" y2="90"/>
-    <line x1="132" y1="540" x2="478" y2="540"/>
-    <line x1="522" y1="540" x2="988" y2="540"/>
-    <line x1="110" y1="132" x2="110" y2="518"/>
-    <line x1="1010" y1="132" x2="1010" y2="518"/>
+    <line x1="150" y1="90" x2="537" y2="90"/>
+    <line x1="583" y1="90" x2="970" y2="90"/>
+    <line x1="150" y1="540" x2="537" y2="540"/>
+    <line x1="583" y1="540" x2="970" y2="540"/>
+    <line x1="110" y1="130" x2="110" y2="500"/>
+    <line x1="1010" y1="130" x2="1010" y2="500"/>
   </g>
   <!-- head string: a quarter of the table length from the head rail -->
   <line x1="335" y1="90" x2="335" y2="540" stroke="#ffffff" stroke-width="2" stroke-dasharray="8 6" opacity="0.7"/>
-  <text x="335" y="116" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">HEAD STRING</text>
+  <text x="335" y="116" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" transform="rotate(-90 335 116)">HEAD STRING</text>
   <text x="222" y="345" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" opacity="0.85" text-anchor="middle">kitchen, break from here</text>
   <!-- head spot and foot spot -->
   <circle cx="335" cy="315" r="3" fill="#ffffff"/>
   <circle cx="785" cy="315" r="3" fill="#ffffff"/>
   <text x="785" y="135" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">FOOT SPOT</text>
-  <!-- diamond sights: 3 per short rail, 6 per long rail -->
+  <line x1="785" y1="140" x2="785" y2="302" stroke="#f4f1ea" stroke-width="1.5" opacity="0.5"/>
+  <!-- diamond sights: 3 per short rail, 6 per long rail, skirting the side pockets -->
   <g fill="#f4f1ea" stroke="#3b2415" stroke-width="1">
     <circle cx="87" cy="202.5" r="5"/><circle cx="87" cy="315" r="5"/><circle cx="87" cy="427.5" r="5"/>
     <circle cx="1033" cy="202.5" r="5"/><circle cx="1033" cy="315" r="5"/><circle cx="1033" cy="427.5" r="5"/>
@@ -42,7 +44,7 @@
     <circle cx="672.5" cy="553" r="5"/><circle cx="785" cy="553" r="5"/><circle cx="897.5" cy="553" r="5"/>
   </g>
   <!-- cue ball in the kitchen, 2.25 in = 20.25 px diameter -->
-  <circle cx="220" cy="315" r="10.1" fill="#f6f4ee" stroke="#c9c2b2" stroke-width="1"/>
+  <circle cx="230" cy="315" r="10.1" fill="#f6f4ee" stroke="#c9c2b2" stroke-width="1"/>
   <!-- ten-ball rack on the foot spot: 1 at the apex, 10 in the middle of the third row, ball spacing 20.25 px, row offset 17.54 px -->
   <g stroke="#0d3b25" stroke-width="1">
     <circle cx="785" cy="315" r="10.1" fill="#f5c518"/>
@@ -76,7 +78,6 @@
     <text x="837.6" y="328.6">8</text>
     <text x="837.6" y="348.9">9</text>
   </g>
-  <text x="820" y="264" fill="#5b3a24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">10-BALL RACK</text>
   <!-- rail labels and scale footnote -->
   <text x="37" y="315" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(-90 37 315)">HEAD END</text>
   <text x="1050" y="315" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(90 1050 315)">FOOT END</text>

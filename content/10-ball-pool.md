@@ -14,7 +14,7 @@ If the 10-ball is pocketed on the break, on a push-out, on a foul, or before it 
 
 ![10-ball pool table, schematic top view](../assets/img/10-ball-pool-table.svg)
 
-*Figure: Own diagram, drawn to scale (9 px per inch), based on the WPA Rules of Play and standard 9-foot table equipment specifications (World Pool-Billiard Association, 2025).*
+*Figure: Own diagram, drawn to scale (9 px per inch), based on the WPA Rules of Play and standard 9-foot table equipment specifications (World Pool-Billiard Association, 2025), with pocket geometry and break setup cross-checked against Dr. Dave Billiards' 10-ball break reference at https://drdavepoolinfo.com/faq/break/10-ball/*
 
 The diagrams above show the table geometry — pockets set into the rails, diamond sights dividing the cushions — and the rack layout with the 1-ball on the foot spot and the 10-ball in the middle of the third row. There are no gender-specific rule differences in 10-ball as there are, for example, in volleyball's net heights: men, women and wheelchair athletes play the identical rule set. Instead, the sport separates athletes by division — the WPA and its continental members run men's, women's, junior/youth and wheelchair divisions of their world and continental championships (WPA, n.d.). Note also that rule sets differ outside the WPA: some US league formats (for example CSI/BCAPL) treat a legally pocketed called 10-ball as an immediate win at any point of the rack (Cue Sports International, n.d.) — a good example of how the same game exists with different official variants.
 
