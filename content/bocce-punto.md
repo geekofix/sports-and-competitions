@@ -1,21 +1,32 @@
 ## Basic Information
 
-Bocce punto is the classic rolling specialty of Italian bocce: players roll their ball from a run-up trying to stop it as close as possible to the pallino, without touching it. It is one of the three CBI specialties (punto, raffa, volo) contested at the World Bocce Championships under the Confederazione Boccistica Internazionale, part of the IOC-recognized World Pétanque & Bowls Federation.
+Bocce punto is the throwing discipline of the bocce family closest to pétanque: players or teams roll or throw their balls from behind a throwing circle, aiming to land as close as possible to the pallino (jack) or to knock the opponent's balls away. It is governed within the WPBF (World Petanque and Bowls Federation [WPBF], n.d.-a) framework and by the CBI (Confederazione Boccistica Internazionale [CBI], n.d.-b) for its bocce punto events. The 2026 CBI World Seniors Bocce Championship in Garibaldi, Brazil (October 12–17, 2026), included punto competition with live scores, and the USA team traveled there after winning national titles in Methuen (CBI, n.d.-b).
+
+Women compete in dedicated women's and mixed events at world level — the European Championship for Clubs already fields women's teams alongside the men's — so the women's side of punto is fully established (WPBF, n.d.-a).
+
+![Four bocce players standing around the jack while scoring a finished game](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bocce_players_scoring.jpg?width=480)
+
+*Figure: Xaven. (2005, October 1). Four bocce players standing around a jack while scoring a finished game [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Bocce_players_scoring.jpg*
 
 ## Rules
 
-Under CBI rules, punto is played on a long lane (about 26-27.5 m between foul lines, up to 4 m wide) with side boards. After the pallino is placed in the valid zone, each player throws from behind the foul line; in punto the ball is rolled, and after the throw the ball must come to rest — if it touches the pallino or another ball, the throw may be invalid or the moved balls are measured per the regulations. Scoring: the team with the ball closest to the pallino scores one point for each of its balls closer than the opponent's best, frames played to an agreed point total. Matches at world championships are played in singles, doubles and team formats.
+Punto is played on a court up to about 27.5 m × 4 m internationally (pétanque-style courts 15 m × 4 m) with three balls per player in triples, two in doubles and six in singles; players throw underarm from behind the circle with at least one foot inside it (WPBF, n.d.-a). Scoring: after all balls are played, only the team with the ball closest to the pallino scores, one point for each of its balls closer than the opponent's nearest; ends are played to 13 points. Fouls — lifting the feet from the circle, moving the pallino, or playing the wrong ball — give the opponent extra balls or points as defined in the rules. Balls are synthetic resin, about 106–107 mm and 900–920 g in raffa-sized sets, lighter in youth play. Men's and women's competitions use identical courts, balls and scoring; junior categories (U15/U18) shorten the court and reduce points (CBI, n.d.-b).
 
 ## History
 
-Punto is the ancestral form of bocce, played for centuries in Italy and by Italian communities worldwide; the CBI was founded in 1983 in Chiasso to organize international punto/raffa/volo competition, and the first world championships followed in 1985. Punto remains the most widely played specialty at club level, while raffa and volo dominate elite international competition in Italy.
+Punto descends from ancient boules games and was codified with pétanque in Provence in 1910; the Italian bocce tradition of throwing (as opposed to rolling) spread through emigrant communities worldwide. The CBI, founded in Chiasso in 1983, and the WPBF, founded in Monaco in 1985, organized the first world championships in the 1980s; the 2022 joint world championship in Mersin gathered 52 teams from 37 countries. Women's punto has grown steadily, with women's world cups and European club championships now regular fixtures (WPBF, n.d.-a; CBI, n.d.-b).
 
 ## Sources
 
-- Confederazione Boccistica Internazionale. (n.d.). *CBI — international technical regulations for punto, raffa and volo*. Retrieved November 20, 2026, from https://cbi-prv.org/
-- World Pétanque & Bowls Federation. (n.d.). *WPBF — world championships of boules sports*. Retrieved November 20, 2026, from https://wpbf-fmbp.org/
+- Confederazione Boccistica Internazionale. (n.d.-b). *World Seniors Bocce Championship 2026 — punto events, Garibaldi*. Retrieved November 21, 2026, from https://cbi-prv.org/
+- World Petanque and Bowls Federation. (n.d.-a). *Pétanque/punto — rules, equipment and scoring*. Retrieved November 21, 2026, from https://wpbf-fmbp.org/
+
+### Figure Index
+
+- Xaven. (2005, October 1). *Four bocce players standing around a jack while scoring a finished game* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Bocce_players_scoring.jpg (CC BY-SA 2.5)
 
 ## Important Links
 
-- [Confederazione Boccistica Internazionale (CBI)](https://cbi-prv.org/) — governs punto, raffa, volo; World Bocce Championships
-- [World Pétanque & Bowls Federation (WPBF)](https://wpbf-fmbp.org/) — IOC-recognized umbrella federation
+- [World Petanque and Bowls Federation (WPBF)](https://wpbf-fmbp.org/) — pétanque/punto world governing body; rules and calendar
+- [Confederazione Boccistica Internazionale (CBI)](https://cbi-prv.org/) — bocce punto and raffa world championships
+- [Bocce](bocce.html), [Bocce Raffa](bocce-raffa.html), [Bocce Volo](bocce-volo.html), [Pétanque](petanque.html), [Lawn Bowls](lawn-bowls.html) and [Jeu Provençal](jeu-provencal.html) on this site

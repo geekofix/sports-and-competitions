@@ -1,21 +1,37 @@
 ## Basic Information
 
-Bokator (Kun Lbokator, "the art of pounding the lion") is an ancient Cambodian battlefield martial art combining strikes with elbows, knees, hands and head, clinch wrestling, throws, ground fighting and traditional weapons, organized into animal-inspired forms. It was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2022 and is governed nationally by the Cambodia Bokator Federation.
+Bokator is Cambodia's ancient martial art — a system of striking, kicking, joint locks, takedowns and weapon forms inspired by animals such as the tiger, snake, crane and horse, organized into about 18 animal styles, plus kramas (colored headbands denoting rank) and traditional music. It was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2022 (UNESCO, n.d.-a) and debuted as a demonstration sport at the SEA Games in Phnom Penh 2023. Today it is practiced by the Royal Cambodian Armed Forces, who demonstrate it at international exercises — as at Khaan Quest 2016 in Mongolia — and by the Cambodia Bokator Federation (SEA Games Federation, n.d.-a).
+
+Women's participation is growing: women's bokator teams compete at national festivals and the SEA Games demonstration programme included women's bouts; the art is taught in schools across Cambodia as part of the revival led since 2001 by Grand Master San Kim Sean (UNESCO, n.d.-a).
+
+![Members of the Royal Cambodian Army demonstrate bokator at Khaan Quest 2016, Mongolia](https://commons.wikimedia.org/wiki/Special:Redirect/file/Khaan_Quest_2016,_Members_of_Armed_Forces_of_the_Czech_Republic,_Royal_Cambodian_Army_share_culture_through_performing_arts_160602-M-TA471-481.jpg?width=560)
+
+*Figure: Pon, J. (U.S. Marine Corps). (2016, June 2). Members of the Royal Cambodian Army demonstrate martial arts techniques at Five Hills Training Area, near Ulaanbaatar, Mongolia, during a cultural night for exercise Khaan Quest 2016 [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Khaan_Quest_2016,_Members_of_Armed_Forces_of_the_Czech_Republic,_Royal_Cambodian_Army_share_culture_through_performing_arts_160602-M-TA471-481.jpg*
 
 ## Rules
 
-Bokator has no single ring-sport ruleset; it is practiced as forms (kata) and paired techniques, graded by colored kramas (scarves) instead of belts. In competition, demonstrations and form events are judged, and since 2023 Bokator has been included at the Southeast Asian Games, where bouts are contested under adapted rules with protective equipment. Traditional training emphasizes the 18 animal styles (tiger, crane, snake, horse and others) and weapon forms with the bamboo staff, curved sword and krama scarf.
+Bokator is practiced as kata (forms) and free sparring; competitions, as at the SEA Games 2023 demonstration, are run in weight classes and categories for forms (single and weapon) and for sparring, with traditional costumes and kramas. Scoring follows the SEA Games martial-arts convention: points for clean strikes to valid target zones, with judges' decisions in sparring and technical execution scores in forms (SEA Games Federation, n.d.-a). Safety rules at demonstrations and modern competitions require protective gear in sparring and prohibit strikes to the throat, eyes and groin. Men's and women's divisions are separate in competition, with identical categories and scoring; traditional training is open to all genders (UNESCO, n.d.-a).
 
 ## History
 
-Oral tradition traces Bokator to before the founding of Angkor (1st century AD), and Angkor-period bas-reliefs depict Khmer warriors fighting with elbows and knees. The art nearly died under the Khmer Rouge (1975-1979), when masters were killed; Grand Master San Kim Sean, "father of modern Bokator," revived it from 2001, founding the Cambodia Bokator Federation and Academy. UNESCO inscribed Kun Lbokator on the Intangible Cultural Heritage list in 2022, and it debuted at the SEA Games in 2023.
+Bokator's origins reach back to the Angkor period (9th–15th centuries), when bas-reliefs at Angkor Wat and Bayon temples depict wrestlers and fighters in poses matching today's forms — a 1930 French colonial record in front of Angkor Wat shows the art still alive (UNESCO, n.d.-a). The art nearly disappeared under the Khmer Rouge (1975–1979), when many masters were killed; the modern revival began in 2001 when Grand Master San Kim Sean gathered surviving masters and founded the Cambodia Bokator Federation, re-establishing schools nationwide. UNESCO inscribed bokator on the Intangible Cultural Heritage list in 2022, and its SEA Games debut in 2023 marked its arrival on the international competition stage (SEA Games Federation, n.d.-a).
+
+![Bokator Cambodian Boxing 1930 — French record in front of Angkor Wat temple](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bokator_Cambodian_Boxing_1930.jpg?width=400)
+
+*Figure: Dethsovannculture. (2022, February 1). Bokator Cambodian Boxing 1930 record from France document in front of Angkor Wat temple [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bokator_Cambodian_Boxing_1930.jpg*
 
 ## Sources
 
-- Cambodianess. (2021). *Khmer Bokator: A martial art adopted from animals and plants*. https://cambodianess.com/article/khmer-bokator-a-martial-art-adopted-from-animals-and-plants
-- UNESCO. (2022). *Kun Lbokator, traditional martial arts in Cambodia* (Representative List of the Intangible Cultural Heritage of Humanity). https://ich.unesco.org/en/RL/kun-lbokator-traditional-martial-arts-in-cambodia-01868
+- SEA Games Federation. (n.d.-a). *Bokator at the 32nd SEA Games Phnom Penh 2023 — competition format*. Retrieved November 21, 2026, from https://www.seagamesfederation.org/
+- UNESCO. (n.d.-a). *Bokator, traditional martial arts in Cambodia — intangible cultural heritage listing*. Retrieved November 21, 2026, from https://ich.unesco.org/en/USL/bokator-traditional-martial-arts-in-cambodia-01766
+
+### Figure Index
+
+- Dethsovannculture. (2022, February 1). *Bokator Cambodian Boxing 1930 record from France document in front of Angkor Wat temple* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Bokator_Cambodian_Boxing_1930.jpg (CC BY-SA 4.0)
+- Pon, J. (U.S. Marine Corps). (2016, June 2). *Members of the Royal Cambodian Army demonstrate martial arts techniques at Five Hills Training Area, near Ulaanbaatar, Mongolia, during a cultural night for exercise Khaan Quest 2016* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Khaan_Quest_2016,_Members_of_Armed_Forces_of_the_Czech_Republic,_Royal_Cambodian_Army_share_culture_through_performing_arts_160602-M-TA471-481.jpg (Public domain)
 
 ## Important Links
 
-- [UNESCO — Kun Lbokator intangible cultural heritage listing](https://ich.unesco.org/en/RL/kun-lbokator-traditional-martial-arts-in-cambodia-01868) — inscribed 2022
-- [Cambodianess — Khmer Bokator feature](https://cambodianess.com/article/khmer-bokator-a-martial-art-adopted-from-animals-and-plants) — revival by San Kim Sean and the Cambodia Bokator Federation
+- [UNESCO — Bokator, traditional martial arts in Cambodia](https://ich.unesco.org/en/USL/bokator-traditional-martial-arts-in-cambodia-01766) — Intangible Cultural Heritage listing (2022)
+- [SEA Games Federation](https://www.seagamesfederation.org/) — bokator demonstration sport at the 2023 SEA Games
+- [Muay Thai](muay-thai.html), [Karate](karate.html), [Wrestling](wrestling.html) and [Judo](judo.html) on this site

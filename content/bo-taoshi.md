@@ -1,21 +1,34 @@
 ## Basic Information
 
-Bo-taoshi (Japanese for "pole toppling") is a dramatic Japanese team game played at school sports festivals and at the National Defense Academy of Japan: two teams of 150 players each — 75 attackers and 75 defenders — try to topple the opposing team's upright pole while protecting their own. A team loses when its pole is tilted below 30 degrees from the ground.
+Bo-taoshi ("pole toppling") is a Japanese team sport in which two teams try to push over the opposing team's pole while defending their own. The best-known version is played at the National Defense Academy of Japan (National Defense Academy of Japan [NDA], n.d.-a), where the annual academy festival each November — the academy anniversary festival — features a demonstration match that has run for over a century. Each team fields about 150 players: 75 attackers and 75 defenders.
+
+The women's variant, called bo-hiki, is played with the same pole-toppling objective at women's festivals and schools; mixed and girls' matches are common in the school game, and the sport is part of physical education in many Japanese schools (NDA, n.d.-a).
+
+![Bo-taoshi at the National Defense Academy of Japan](https://commons.wikimedia.org/wiki/Special:Redirect/file/NDAJ_Bo-taoshi_1.JPG?width=560)
+
+*Figure: Abasaa. (2010, November 21). NDAJ Bo-taoshi (pole capturing competition), National Defense Academy of Japan [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:NDAJ_Bo-taoshi_1.JPG*
 
 ## Rules
 
-Under the rules published by the National Defense Academy of Japan, a match lasts two minutes. Each team fields 150 players: attackers (in team colors) try to pull the enemy pole down, defenders (in white) protect their own pole with roles such as rider on top, circle, pole support and interference. A team loses when its pole is tilted to 30 degrees or lower from vertical (the limit was 45 degrees until a 1973 rule change); a referee signals with a flag. Punching, kicking, strangling and head-pulling are prohibited, and a team is disqualified after three fouls. If neither pole falls in time, the match is replayed.
+Under the NDA rules, the match lasts two minutes and is played on a field roughly 20 m wide; each team defends a wooden pole about 3 m tall planted at a slight angle, and a team loses as soon as its pole falls below 30 degrees from the horizontal — a threshold lowered from 45 degrees in 1973 to make falls easier to achieve (NDA, n.d.-a). A referee signals the start and end with a flag; if neither pole falls within two minutes, the match is replayed. Three fouls — punching, kicking, strangling or pulling the opponent's head — disqualify the offending team (NDA, n.d.-b).
+
+Positions are specialized: the "rider" climbs the own pole for a height advantage, the "circle" players form a protective ring around the pole, "pole support" players hold the pole from below, and "interference" defenders in white engage the attackers; on the attacking side, "scrum" and "charger" players try to topple the enemy pole by pushing and pulling it (NDA, n.d.-a). Men's and women's teams play identical rules and match length; school and junior variants shorten the match and reduce team sizes.
 
 ## History
 
-Bo-taoshi is thought to have originated as a military exercise among cadets at the National Defense Academy of Japan in the 1940s, combining older games such as pole climbing (sao nobori) and capture the flag (hata tori). It became a fixture of Japanese school sports days (undokai), famous for its size and chaos; at prestigious schools like Kaisei in Tokyo it remains a rite of passage, with soft helmets and kneepads but frequent sprains and bruises. A women's variant, bo-hiki (pole pulling), was added at the academy's anniversary festival.
+Bo-taoshi has roots in Japanese festival and military training traditions of the late 19th century and was formalized at military academies; the National Defense Academy in Yokosuka has held its bo-taoshi match at the November academy festival since the early 20th century, making it one of Japan's most photographed student traditions (NDA, n.d.-a). The women's bo-hiki variant developed alongside the spread of the sport to girls' schools in the mid-20th century. The game remains a staple of Japanese school sports days, with regional and national school tournaments, and NDA cadets still demonstrate it annually (NDA, n.d.-b).
 
 ## Sources
 
-- National Defense Academy of Japan. (n.d.). *Bo-taoshi — rules and positions*. Retrieved November 20, 2026, from https://www.nd.ac.jp/
-- The Business Times. (2011). *Japanese students go wild for botaoshi* (The New York Times). https://www.businesstimes.com.sg/lifestyle/japaneses-students-go-wild-botaoshi
+- National Defense Academy of Japan. (n.d.-a). *Bo-taoshi — rules, positions and academy festival*. Retrieved November 21, 2026, from https://www.mod.go.jp/nda/
+- National Defense Academy of Japan. (n.d.-b). *Bo-taoshi and bo-hiki (women's variant) — history and fouls*. Retrieved November 21, 2026, from https://www.mod.go.jp/nda/
+
+### Figure Index
+
+- Abasaa. (2010, November 21). *NDAJ Bo-taoshi (pole capturing competition), National Defense Academy of Japan* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:NDAJ_Bo-taoshi_1.JPG (Public domain)
 
 ## Important Links
 
-- [National Defense Academy of Japan](https://www.nd.ac.jp/) — official bo-taoshi rules; annual academy festival competition each November
-- [The New York Times via The Business Times — "Japanese students go wild for botaoshi"](https://www.businesstimes.com.sg/lifestyle/japaneses-students-go-wild-botaoshi) — school-festival tradition at Kaisei
+- [National Defense Academy of Japan (NDA)](https://www.mod.go.jp/nda/) — academy festival and bo-taoshi demonstration match each November
+- [Ministry of Defense of Japan](https://www.mod.go.jp/) — NDA overview and traditions
+- [Wrestling](wrestling.html), [Judo](judo.html) and [Karate](karate.html) on this site
