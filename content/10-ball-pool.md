@@ -2,15 +2,15 @@
 
 10-Ball is a pocket billiards (pool) discipline played on a standard 9-foot table with ten object balls numbered 1 through 10 plus the cue ball. At the professional level it is governed by the World Pool-Billiard Association (WPA), which sanctions an official World Ten-ball Championship, and it is a fixture of major professional tours and world championship events. Its stricter call-shot character makes it the professional sibling of 9-ball: see also [8-Ball Pool](8-ball-pool.html), [9-Ball Pool](9-ball-pool.html) and [Billiards](billiards.html) on this site.
 
-The men's game today is shaped by players such as Wojciech Szewczyk of Poland, the 2026 WPA world ten-ball champion, and Johann Chua of the Philippines, pictured below in the final of the 2023 Maldives Open 10-ball event (WPA, n.d.-b). On the women's side, the Philippines' Chezka Centeno — women's world ten-ball champion in 2023 and 2025 — and Austria's Jasmin Ouschan, who heads the WPA women's world ranking, are among the biggest current names (WPA, n.d.-a; WPA, n.d.-b).
-
-![Johann Chua in the final of the Maldives Open 2023 10-Ball Championship](https://commons.wikimedia.org/wiki/Special:Redirect/file/Maldives_Open_2023_Final_-_Johann_Chua.jpg?width=560)
-
-*Figure: The President's Office, Maldives. (2023, April 26). Johann Chua in the final of the Maldives Open 2023 10-Ball Championship [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Maldives_Open_2023_Final_-_Johann_Chua.jpg*
+Among the players who shape the game today are the Philippines' Chezka Centeno — women's world ten-ball champion in 2023 and 2025 — and Austria's Jasmin Ouschan, who heads the WPA women's world ranking, alongside men such as Wojciech Szewczyk of Poland, the 2026 WPA world ten-ball champion, and Johann Chua of the Philippines (WPA, n.d.-a; WPA, n.d.-b).
 
 ![Chezka Centeno of the Philippines at the 2017 Southeast Asian Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Chezka_Centeno_KL_2017.jpg?width=480)
 
 *Figure: Agatep, P. (Philippine News Agency). (2017, August). Chezka Centeno of the Philippines, women's world ten-ball champion 2023 and 2025, at the 2017 Southeast Asian Games in Kuala Lumpur [Photograph]. Wikimedia Commons. Public domain (PD-PhilippinesGov). https://commons.wikimedia.org/wiki/File:Chezka_Centeno_KL_2017.jpg*
+
+![Johann Chua in the final of the Maldives Open 2023 10-Ball Championship](https://commons.wikimedia.org/wiki/Special:Redirect/file/Maldives_Open_2023_Final_-_Johann_Chua.jpg?width=560)
+
+*Figure: The President's Office, Maldives. (2023, April 26). Johann Chua in the final of the Maldives Open 2023 10-Ball Championship [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Maldives_Open_2023_Final_-_Johann_Chua.jpg*
 
 ## Rules
 
