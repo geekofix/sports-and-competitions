@@ -18,6 +18,6 @@ Drag racing grew from the postwar dry-lakes and airport sprints of Southern Cali
 
 ## Important Links
 
-- [Sprint car racing](sprint-car-racing.html) \u2014 another headline of American oval racing, on this site
-- Drag racing classes from Stock to Funny Car \u2014 the sport's family tree, on this site
-- The NHRA tour, the U.S. Nationals and sportsman drag racing \u2014 the calendars of the sport, on this site
+- [Sprint car racing](sprint-car-racing.html) — another headline of American oval racing, on this site
+- Drag racing classes from Stock to Funny Car — the sport's family tree, on this site
+- The NHRA tour, the U.S. Nationals and sportsman drag racing — the calendars of the sport, on this site

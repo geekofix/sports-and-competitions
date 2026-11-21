@@ -18,6 +18,6 @@ Poker itself grew from nineteenth-century American riverboat and saloon games, a
 
 ## Important Links
 
-- Tournament poker and the World Series of Poker \u2014 the game's biggest stage, on this site
-- [StarCraft II](starcraft-ii.html) \u2014 another high-stakes competitive discipline of the mind, on this site
-- Reading hands, pot odds and position \u2014 the strategic core of hold'em, on this site
+- Tournament poker and the World Series of Poker — the game's biggest stage, on this site
+- [StarCraft II](starcraft-ii.html) — another high-stakes competitive discipline of the mind, on this site
+- Reading hands, pot odds and position — the strategic core of hold'em, on this site

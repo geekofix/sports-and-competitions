@@ -18,6 +18,6 @@ Street workout descends from calisthenics, the bodyweight exercise tradition tha
 
 ## Important Links
 
-- Calisthenics parks, street workout courts and the WSWCF world stage \u2014 the venues and bodies of the sport, on this site
-- [CrossFit](crossfit.html) and [Hyrox](hyrox.html) \u2014 other competitive functional-fitness sports, on this site
-- Static strength disciplines such as [Steinholding](steinholding.html) \u2014 other sports where the hold is the event, on this site
+- Calisthenics parks, street workout courts and the WSWCF world stage — the venues and bodies of the sport, on this site
+- [CrossFit](crossfit.html) and [Hyrox](hyrox.html) — other competitive functional-fitness sports, on this site
+- Static strength disciplines such as [Steinholding](steinholding.html) — other sports where the hold is the event, on this site

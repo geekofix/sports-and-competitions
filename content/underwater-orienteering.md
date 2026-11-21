@@ -16,6 +16,6 @@ Underwater orienteering was born in the Eastern European diving clubs of the 196
 - Czech underwater orienteering community. (n.d.). *Courses and results*. Retrieved November 21, 2026, from https://www.cmasczech.cz/
 
 ## Important Links
-- The orienteering family: [Trail orienteering](trail-orienteering.html), [Ski orienteering](ski-orienteering.html) and [Orienteering](orienteering.html) \u2014 on this site
-- [Freediving](freediving.html) and diving disciplines \u2014 the underwater sports, on this site
-- The CMAS underwater orienteering world championships \u2014 the sport's apex, on this site
+- The orienteering family: [Trail orienteering](trail-orienteering.html), [Ski orienteering](ski-orienteering.html) and [Orienteering](orienteering.html) — on this site
+- [Freediving](freediving.html) and diving disciplines — the underwater sports, on this site
+- The CMAS underwater orienteering world championships — the sport's apex, on this site

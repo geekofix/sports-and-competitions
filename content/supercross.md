@@ -18,6 +18,6 @@ Supercross grew out of motocross, the off-road motorcycle racing born of British
 
 ## Important Links
 
-- [Supermoto](supermoto.html) \u2014 motocross machinery racing dirt and pavement, on this site
-- [Sprint car racing](sprint-car-racing.html) \u2014 another stadium-born racing spectacle, on this site
-- The AMA Supercross calendar and the road from Anaheim \u2014 how a season unfolds, on this site
+- [Supermoto](supermoto.html) — motocross machinery racing dirt and pavement, on this site
+- [Sprint car racing](sprint-car-racing.html) — another stadium-born racing spectacle, on this site
+- The AMA Supercross calendar and the road from Anaheim — how a season unfolds, on this site

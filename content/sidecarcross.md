@@ -8,7 +8,7 @@ Each team races an integrated tubular-chassis outfit built around a large-bore m
 
 ## History
 
-Sidecarcross grew out of UK grasstrack and scrambling in the 1930s, with early outfits little more than solo machines with a sidecar bolted to the frame, and developed after the war alongside solo motocross into today's low-slung, specialised chassis built for the passenger's dynamic role. A European competition ran from 1971 (the FIM Cup, upgraded to a European Championship in 1975), and in 1980 the FIM elevated it to the Sidecar Motocross World Championship, staged ever since at top motocross venues across Europe and won by stars such as the ten-time world champion Dani\u00ebl Willemsen of the Netherlands, the dominant driver of the 1990s and 2000s, and the teams around Kristers Sergis, Ben Adriaenssen and Etienne Bax. Because the driver\u2013passenger partnership is the machine's real engine \u2014 Willemsen won with several different passengers \u2014 the most successful crews stay together for many years, and the sport enjoys its deepest participation in Belgium, the Netherlands, France, Germany, the Czech Republic and the Baltic states, with a dedicated amateur circuit (the IMBA European championship) feeding the world series.
+Sidecarcross grew out of UK grasstrack and scrambling in the 1930s, with early outfits little more than solo machines with a sidecar bolted to the frame, and developed after the war alongside solo motocross into today's low-slung, specialised chassis built for the passenger's dynamic role. A European competition ran from 1971 (the FIM Cup, upgraded to a European Championship in 1975), and in 1980 the FIM elevated it to the Sidecar Motocross World Championship, staged ever since at top motocross venues across Europe and won by stars such as the ten-time world champion Dani\u00ebl Willemsen of the Netherlands, the dominant driver of the 1990s and 2000s, and the teams around Kristers Sergis, Ben Adriaenssen and Etienne Bax. Because the driver\u2013passenger partnership is the machine's real engine — Willemsen won with several different passengers — the most successful crews stay together for many years, and the sport enjoys its deepest participation in Belgium, the Netherlands, France, Germany, the Czech Republic and the Baltic states, with a dedicated amateur circuit (the IMBA European championship) feeding the world series.
 
 ## Sources
 
@@ -18,7 +18,7 @@ Sidecarcross grew out of UK grasstrack and scrambling in the 1930s, with early o
 
 ## Important Links
 
-- FIM regulations and Sidecarcross.com \u2014 rules, calendars and full results archive
-- [Motocross](motocross.html) \u2014 the solo parent sport, on this site
-- [Sidecar road racing](sidecar-road-racing.html) \u2014 the tarmac sibling of the sport, on this site
-- [Supercross](supercross.html) \u2014 motocross's stadium format, on this site
+- FIM regulations and Sidecarcross.com — rules, calendars and full results archive
+- [Motocross](motocross.html) — the solo parent sport, on this site
+- [Sidecar road racing](sidecar-road-racing.html) — the tarmac sibling of the sport, on this site
+- [Supercross](supercross.html) — motocross's stadium format, on this site

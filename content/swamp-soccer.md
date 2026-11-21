@@ -18,6 +18,6 @@ Swamp soccer grew from Finnish summer training: cross-country skiers, athletes a
 
 ## Important Links
 
-- [Football](football.html) \u2014 the parent game on dry land, on this site
-- [Snow rugby](snow-rugby.html) and other weather-sport variants \u2014 another elemental twist on a football code, on this site
-- The Hyrynsalmi World Championships \u2014 the sport's defining July weekend, on this site
+- [Football](football.html) — the parent game on dry land, on this site
+- [Snow rugby](snow-rugby.html) and other weather-sport variants — another elemental twist on a football code, on this site
+- The Hyrynsalmi World Championships — the sport's defining July weekend, on this site

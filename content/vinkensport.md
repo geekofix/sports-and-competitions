@@ -16,6 +16,6 @@ Bird song competitions have been documented in Flemish and Dutch culture since t
 - News coverage of the sport. (n.d.). *Belgium's chaffinch contests*. Retrieved November 21, 2026, from https://www.bbc.com/
 
 ## Important Links
-- Belgium and the Netherlands' folk sport heritage \u2014 where finch song is contested, on this site
-- Pigeon racing and bird-sport culture \u2014 the feathered competition family, on this site
-- The animal-welfare debate around songbird contests \u2014 the sport's modern question, on this site
+- Belgium and the Netherlands' folk sport heritage — where finch song is contested, on this site
+- Pigeon racing and bird-sport culture — the feathered competition family, on this site
+- The animal-welfare debate around songbird contests — the sport's modern question, on this site

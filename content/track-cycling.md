@@ -18,6 +18,6 @@ Track racing predates the road sport: high-wheel racers were setting records on 
 
 ## Important Links
 
-- The track's disciplines: [Keirin](track-cycling-keirin.html), [Madison](track-cycling-madison.html), [Omnium](track-cycling-omnium.html) and friends \u2014 on this site
-- [Road-related racing pages such as the World Endurance Championship](world-endurance-championship.html) \u2014 endurance racing's four-wheeled counterpart, on this site
-- The [inline speed skating](inline-speed-skating.html) banked-track cousin \u2014 another velodrome-style circuit sport, on this site
+- The track's disciplines: [Keirin](track-cycling-keirin.html), [Madison](track-cycling-madison.html), [Omnium](track-cycling-omnium.html) and friends — on this site
+- [Road-related racing pages such as the World Endurance Championship](world-endurance-championship.html) — endurance racing's four-wheeled counterpart, on this site
+- The [inline speed skating](inline-speed-skating.html) banked-track cousin — another velodrome-style circuit sport, on this site

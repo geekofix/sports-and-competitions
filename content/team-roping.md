@@ -18,6 +18,6 @@ Team roping grew straight out of ranch work on the great cattle ranges of the Am
 
 ## Important Links
 
-- [Steer wrestling](steer-wrestling.html) \u2014 rodeo's other timed steer event, on this site
-- [Bull riding](bull-riding.html) \u2014 the roughstock headline event, on this site
-- The USTRC standings and the National Finals Rodeo \u2014 where team roping crowns its champions, on this site
+- [Steer wrestling](steer-wrestling.html) — rodeo's other timed steer event, on this site
+- [Bull riding](bull-riding.html) — the roughstock headline event, on this site
+- The USTRC standings and the National Finals Rodeo — where team roping crowns its champions, on this site

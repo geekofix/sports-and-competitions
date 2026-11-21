@@ -18,6 +18,6 @@ The cars trace their lineage to the big cars of the 1930s and 1940s "+E+" the mi
 
 ## Important Links
 
-- The Knoxville Nationals at Knoxville Raceway \u2014 sprint car racing's biggest weekend, on this site
-- The World of Outlaws tour and DIRTVision broadcasts \u2014 where the modern outlaws race, on this site
-- Midget cars, super-modifieds and other open-wheel cousins \u2014 the dirt-track family tree, on this site
+- The Knoxville Nationals at Knoxville Raceway — sprint car racing's biggest weekend, on this site
+- The World of Outlaws tour and DIRTVision broadcasts — where the modern outlaws race, on this site
+- Midget cars, super-modifieds and other open-wheel cousins — the dirt-track family tree, on this site

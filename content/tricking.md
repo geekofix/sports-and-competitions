@@ -16,6 +16,6 @@ Tricking grew from martial arts demonstration culture of the 1990s, when martial
 - Tricking community video archives. (n.d.). *World tricking scene*. Retrieved November 21, 2026, from https://www.loopkicks.com/
 
 ## Important Links
-- [Trampolining](trampoline.html) and [Parkour](parkour.html) \u2014 the acrobatic cousins of tricking, on this site
-- [Taekwondo](taekwondo.html) and [Capoeira](capoeira.html) \u2014 the kicking arts feeding the discipline, on this site
-- Gatherings, battles and world championship videos \u2014 the culture's showcases, on this site
+- [Trampolining](trampoline.html) and [Parkour](parkour.html) — the acrobatic cousins of tricking, on this site
+- [Taekwondo](taekwondo.html) and [Capoeira](capoeira.html) — the kicking arts feeding the discipline, on this site
+- Gatherings, battles and world championship videos — the culture's showcases, on this site

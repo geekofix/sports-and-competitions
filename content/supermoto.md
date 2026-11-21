@@ -18,6 +18,6 @@ Supermoto was invented for American television in 1979, when the ABC Wide World 
 
 ## Important Links
 
-- [Supercross](supercross.html) \u2014 motocross racing packaged for the stadium, on this site
-- [Superbike](superbike.html) \u2014 the pure-road branch of motorcycle sport, on this site
-- Sliding-style dirt disciplines such as [Speedway](track-racing-speedway.html) \u2014 racing's other great broadslide sports, on this site
+- [Supercross](supercross.html) — motocross racing packaged for the stadium, on this site
+- [Superbike](superbike.html) — the pure-road branch of motorcycle sport, on this site
+- Sliding-style dirt disciplines such as [Speedway](track-racing-speedway.html) — racing's other great broadslide sports, on this site

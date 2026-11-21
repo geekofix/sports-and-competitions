@@ -18,6 +18,6 @@ Street hockey grew from the pickup tradition of Canadian kids playing ice hockey
 
 ## Important Links
 
-- [Ice hockey](ice-hockey.html) \u2014 the parent sport on the frozen surface, on this site
-- [Sledge hockey](sledge-hockey.html) \u2014 hockey's Paralympic form, on this site
-- Ball hockey leagues and the ISBHF world championship \u2014 the organized side of the street game, on this site
+- [Ice hockey](ice-hockey.html) — the parent sport on the frozen surface, on this site
+- [Sledge hockey](sledge-hockey.html) — hockey's Paralympic form, on this site
+- Ball hockey leagues and the ISBHF world championship — the organized side of the street game, on this site

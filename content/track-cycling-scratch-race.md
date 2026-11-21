@@ -16,6 +16,6 @@ The format descends from the massed-start racing of the velodrome's early decade
 - Olympics. (n.d.). *Omnium and track events*. Retrieved November 21, 2026, from https://www.olympics.com/sports/track-cycling
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Points race](track-cycling-points-race.html) and [Elimination race](track-cycling-elimination-race.html) \u2014 the sister bunch-race formats, on this site
-- [Omnium](track-cycling-omnium.html) \u2014 the all-round event that includes it, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Points race](track-cycling-points-race.html) and [Elimination race](track-cycling-elimination-race.html) — the sister bunch-race formats, on this site
+- [Omnium](track-cycling-omnium.html) — the all-round event that includes it, on this site

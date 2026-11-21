@@ -18,6 +18,6 @@ General Choi Hong-hi, one of taekwondo's principal founders, created the Interna
 
 ## Important Links
 
-- [Taekwondo](taekwondo.html) and [Taekwondo WT](taekwondo-wt.html) \u2014 the parent art and the Olympic branch, on this site
-- [Karate](karate.html) \u2014 the Japanese ancestor of the striking base, on this site
-- The Chang Hon tul and ITF world championships \u2014 the pattern set and competition calendar, on this site
+- [Taekwondo](taekwondo.html) and [Taekwondo WT](taekwondo-wt.html) — the parent art and the Olympic branch, on this site
+- [Karate](karate.html) — the Japanese ancestor of the striking base, on this site
+- The Chang Hon tul and ITF world championships — the pattern set and competition calendar, on this site

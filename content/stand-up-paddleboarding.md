@@ -18,6 +18,6 @@ Standing paddle craft are ancient: propulsion of rafts and punts with a pole or 
 
 ## Important Links
 
-- [Surfing](surfing.html) and [Surf lifesaving](surf-lifesaving.html) \u2014 the wave and paddle sports SUP grew from, on this site
-- [Swimming](swimming.html) \u2014 the companion water sport of every paddler, on this site
-- SUP racing, downwind runs and the international race calendar \u2014 the competitive side of the sport, on this site
+- [Surfing](surfing.html) and [Surf lifesaving](surf-lifesaving.html) — the wave and paddle sports SUP grew from, on this site
+- [Swimming](swimming.html) — the companion water sport of every paddler, on this site
+- SUP racing, downwind runs and the international race calendar — the competitive side of the sport, on this site

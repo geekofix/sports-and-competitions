@@ -16,6 +16,6 @@ Turkey bowling appears to have been born in American supermarket aisles in the s
 - Guinness World Records. (n.d.). *Novelty bowling records*. Retrieved November 21, 2026, from https://www.guinnessworldrecords.com/
 
 ## Important Links
-- [Ten-pin bowling](ten-pin-bowling.html) \u2014 the parent sport of the slide, on this site
-- [Teddy bear toss](teddy-bear-toss.html) and other ice-hockey promotions \u2014 the novelty-sport neighbors, on this site
-- Holiday supermarket promotions and office games \u2014 where the turkey rolls, on this site
+- [Ten-pin bowling](ten-pin-bowling.html) — the parent sport of the slide, on this site
+- [Teddy bear toss](teddy-bear-toss.html) and other ice-hockey promotions — the novelty-sport neighbors, on this site
+- Holiday supermarket promotions and office games — where the turkey rolls, on this site

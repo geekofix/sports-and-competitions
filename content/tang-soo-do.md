@@ -18,6 +18,6 @@ Tang soo do emerged in Korea after the Second World War, when the original kwans
 
 ## Important Links
 
-- [Taekwondo](taekwondo.html), [Taekwondo ITF](taekwondo-itf.html) and [Karate](karate.html) \u2014 the related arts of the Korean striking tradition, on this site
-- Hyeong forms and the pyung ahn lineage \u2014 tang soo do's pattern heritage, on this site
-- Breaking, one-step sparring and self-defence \u2014 the martial core of the curriculum, on this site
+- [Taekwondo](taekwondo.html), [Taekwondo ITF](taekwondo-itf.html) and [Karate](karate.html) — the related arts of the Korean striking tradition, on this site
+- Hyeong forms and the pyung ahn lineage — tang soo do's pattern heritage, on this site
+- Breaking, one-step sparring and self-defence — the martial core of the curriculum, on this site

@@ -18,6 +18,6 @@ The Superbike World Championship was founded in 1988 to give production-based ma
 
 ## Important Links
 
-- [Supercars Championship](supercars-championship.html) \u2014 the four-wheeled production-based headline series, on this site
-- [Supercross](supercross.html) and [Supermoto](supermoto.html) \u2014 motorcycle racing's off-road stream, on this site
-- The Superbike World Championship calendar and teams \u2014 the top production class at a glance, on this site
+- [Supercars Championship](supercars-championship.html) — the four-wheeled production-based headline series, on this site
+- [Supercross](supercross.html) and [Supermoto](supermoto.html) — motorcycle racing's off-road stream, on this site
+- The Superbike World Championship calendar and teams — the top production class at a glance, on this site

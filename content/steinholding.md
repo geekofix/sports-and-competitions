@@ -18,6 +18,6 @@ Steinholding grew organically from Bavarian beer culture, where holding the heav
 
 ## Important Links
 
-- [Strongman](strongman.html) and [Strongwoman](strongwoman.html) \u2014 the sports of static strength endurance, on this site
-- [Sheaf toss](sheaf-toss.html) \u2014 another festival-born strength event, on this site
-- Oktoberfest and Bavarian festival strength games \u2014 the cultural home of steinholding, on this site
+- [Strongman](strongman.html) and [Strongwoman](strongwoman.html) — the sports of static strength endurance, on this site
+- [Sheaf toss](sheaf-toss.html) — another festival-born strength event, on this site
+- Oktoberfest and Bavarian festival strength games — the cultural home of steinholding, on this site

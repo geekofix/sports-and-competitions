@@ -16,6 +16,6 @@ The points race grew out of the tactical middle distance formats raced on Europe
 - Olympics. (n.d.). *Track endurance events*. Retrieved November 21, 2026, from https://www.olympics.com/sports/track-cycling
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Madison](track-cycling-madison.html) \u2014 the team points-scoring format, on this site
-- [Omnium](track-cycling-omnium.html) \u2014 the all-round event it anchors, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Madison](track-cycling-madison.html) — the team points-scoring format, on this site
+- [Omnium](track-cycling-omnium.html) — the all-round event it anchors, on this site

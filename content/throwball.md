@@ -18,6 +18,6 @@ Throwball began as a recreational school and college game in India in the middle
 
 ## Important Links
 
-- [Volleyball](volleyball.html) and [Sitting volleyball](sitting-volleyball.html) \u2014 the net-game family it belongs to, on this site
-- [Sepak takraw](sepak-takraw.html) \u2014 another Asian net-game with a distinctive touch, on this site
-- Indian school and university throwball championships \u2014 the sport's competitive ladder, on this site
+- [Volleyball](volleyball.html) and [Sitting volleyball](sitting-volleyball.html) — the net-game family it belongs to, on this site
+- [Sepak takraw](sepak-takraw.html) — another Asian net-game with a distinctive touch, on this site
+- Indian school and university throwball championships — the sport's competitive ladder, on this site

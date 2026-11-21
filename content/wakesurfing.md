@@ -16,6 +16,6 @@ Wakesurfing began as a backyard practice of the earliest towed-water-sports deca
 - Wikipedia. (n.d.). *Wakesurf boats and equipment*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wakesurfing
 
 ## Important Links
-- [Wakeboarding](wakeboarding.html) and [Wakeskating](wakeskating.html) \u2014 the towed-board family, on this site
-- [Surfing](surfing.html) \u2014 the sport whose feel wakesurfing recreates, on this site
-- The surf-style versus skim-style contest formats \u2014 the sport's two disciplines, on this site
+- [Wakeboarding](wakeboarding.html) and [Wakeskating](wakeskating.html) — the towed-board family, on this site
+- [Surfing](surfing.html) — the sport whose feel wakesurfing recreates, on this site
+- The surf-style versus skim-style contest formats — the sport's two disciplines, on this site

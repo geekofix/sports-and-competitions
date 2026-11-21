@@ -16,6 +16,6 @@ Wakeboarding emerged in the 1980s as surfers (notably in Australia, New Zealand 
 - World Wake Association. (n.d.). *Wake park series*. Retrieved November 21, 2026, from https://www.thewwa.com/
 
 ## Important Links
-- [Wakesurfing](wakesurfing.html) and [Wakeskating](wakeskating.html) \u2014 the towed-board siblings, on this site
-- [Barefoot water skiing](barefoot-water-skiing.html) \u2014 the sport's towed ancestor, on this site
-- Boat versus cable competition \u2014 the sport's two competitive formats, on this site
+- [Wakesurfing](wakesurfing.html) and [Wakeskating](wakeskating.html) — the towed-board siblings, on this site
+- [Barefoot water skiing](barefoot-water-skiing.html) — the sport's towed ancestor, on this site
+- Boat versus cable competition — the sport's two competitive formats, on this site

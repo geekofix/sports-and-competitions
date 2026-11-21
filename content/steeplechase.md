@@ -18,6 +18,6 @@ The name comes from horse racing: early races called steeplechases were run betw
 
 ## Important Links
 
-- [Skyrunning](skyrunning.html) \u2014 another mountain-flavored test of endurance running, on this site
-- [Swimrun](swimrun.html) \u2014 another hybrid racing discipline, on this site
-- The water jump and barrier technique \u2014 the signatures of the sport, on this site
+- [Skyrunning](skyrunning.html) — another mountain-flavored test of endurance running, on this site
+- [Swimrun](swimrun.html) — another hybrid racing discipline, on this site
+- The water jump and barrier technique — the signatures of the sport, on this site

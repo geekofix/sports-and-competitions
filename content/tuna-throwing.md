@@ -16,6 +16,6 @@ Port Lincoln, on South Australia's Eyre Peninsula, is one of the world's largest
 - Guinness World Records. (n.d.). *Tuna throwing records*. Retrieved November 21, 2026, from https://www.guinnessworldrecords.com/
 
 ## Important Links
-- Australian festival sports and novelty throwing contests \u2014 the Tunarama tradition, on this site
-- [Stone put](stone-put.html), [Caber toss](caber-toss.html) and throwing festivals \u2014 other throwing celebrations, on this site
-- The world's unusual world championships \u2014 the festival-sport canon, on this site
+- Australian festival sports and novelty throwing contests — the Tunarama tradition, on this site
+- [Stone put](stone-put.html), [Caber toss](caber-toss.html) and throwing festivals — other throwing celebrations, on this site
+- The world's unusual world championships — the festival-sport canon, on this site

@@ -18,6 +18,6 @@ Tejo descends from a game played for centuries in the high plateau around Bogota
 
 ## Important Links
 
-- [Spearfishing](spearfishing.html) and [Stone put](stone-put.html) \u2014 other throwing skills of old, on this site
-- Colombia's traditional festivals and games \u2014 the cultural home of tejo, on this site
-- The mechas, the bocin and the mona \u2014 the scoring system of the sport, on this site
+- [Spearfishing](spearfishing.html) and [Stone put](stone-put.html) — other throwing skills of old, on this site
+- Colombia's traditional festivals and games — the cultural home of tejo, on this site
+- The mechas, the bocin and the mona — the scoring system of the sport, on this site

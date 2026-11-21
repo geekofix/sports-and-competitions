@@ -1,10 +1,10 @@
 ## Basic Information
 
-Ski jumping is a winter sport in which competitors slide down a specially designed curved ramp (the in-run), launch into the air, and aim for the longest jump while being scored for both distance and style. It has been on the programme of every Winter Olympic Games since the first Games of 1924, and today \u2014 governed by the International Ski and Snowboard Federation (FIS) \u2014 it spans normal hill, large hill, ski flying, women's and team competitions, the famous Four Hills Tournament, and a season-long World Cup.
+Ski jumping is a winter sport in which competitors slide down a specially designed curved ramp (the in-run), launch into the air, and aim for the longest jump while being scored for both distance and style. It has been on the programme of every Winter Olympic Games since the first Games of 1924, and today — governed by the International Ski and Snowboard Federation (FIS) — it spans normal hill, large hill, ski flying, women's and team competitions, the famous Four Hills Tournament, and a season-long World Cup.
 
 ## Rules
 
-Each hill is defined by its K-point and hill size (HS): the Olympic programme uses a normal hill (HS around 100\u2013109 m) and a large hill (HS 110\u2013149 and larger), with jumpers scored 60 points for landing on the K-point, plus or minus points per metre beyond or short of it, plus judges' style marks (each of five judges scores 0\u201320; the highest and lowest are dropped). Wind and gate compensation factors adjust for conditions, so that a jumper's final score reflects performance rather than luck of the draw. Competitions consist of a qualification round plus two scored jumps, the second in reverse order of standings, and athletes must land in a stable telemark position (both skis together, one foot behind) to avoid deductions and achieve the maximum flying posture \u2014 today's universal V-technique spreading the skis in a V for lift. A fall dramatically reduces a jump's value, and equipment rules (suit permeability, ski length relative to body mass) are strictly controlled to keep the sport about pure aerodynamic efficiency.
+Each hill is defined by its K-point and hill size (HS): the Olympic programme uses a normal hill (HS around 100\u2013109 m) and a large hill (HS 110\u2013149 and larger), with jumpers scored 60 points for landing on the K-point, plus or minus points per metre beyond or short of it, plus judges' style marks (each of five judges scores 0\u201320; the highest and lowest are dropped). Wind and gate compensation factors adjust for conditions, so that a jumper's final score reflects performance rather than luck of the draw. Competitions consist of a qualification round plus two scored jumps, the second in reverse order of standings, and athletes must land in a stable telemark position (both skis together, one foot behind) to avoid deductions and achieve the maximum flying posture — today's universal V-technique spreading the skis in a V for lift. A fall dramatically reduces a jump's value, and equipment rules (suit permeability, ski length relative to body mass) are strictly controlled to keep the sport about pure aerodynamic efficiency.
 
 ## History
 
@@ -18,6 +18,6 @@ The first larger ski jumping competition was held on Husebyrennet hill near Oslo
 
 ## Important Links
 
-- FIS \u2014 rules, World Cup standings and hill homologation
-- [Ski flying](ski-flying.html) \u2014 the extreme version of the discipline, on this site
-- [Nordic combined](nordic-combined.html) and [Snowboarding](snowboarding.html) \u2014 jumping's Olympic sibling and the winter air sports, on this site
+- FIS — rules, World Cup standings and hill homologation
+- [Ski flying](ski-flying.html) — the extreme version of the discipline, on this site
+- [Nordic combined](nordic-combined.html) and [Snowboarding](snowboarding.html) — jumping's Olympic sibling and the winter air sports, on this site

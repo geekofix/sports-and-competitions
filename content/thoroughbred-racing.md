@@ -18,6 +18,6 @@ Racing is ancient, but the Thoroughbred breed was formalized in seventeenth- and
 
 ## Important Links
 
-- [Tent pegging](tent-pegging.html) and [Show jumping](show-jumping.html) \u2014 the elite horse sports of other traditions, on this site
-- Horse racing worldwide \u2014 the breeding, auction and racing industry behind the sport, on this site
-- The classics, the Arc and the Breeders' Cup \u2014 the sport's flagship races, on this site
+- [Tent pegging](tent-pegging.html) and [Show jumping](show-jumping.html) — the elite horse sports of other traditions, on this site
+- Horse racing worldwide — the breeding, auction and racing industry behind the sport, on this site
+- The classics, the Arc and the Breeders' Cup — the sport's flagship races, on this site

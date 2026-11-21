@@ -18,6 +18,6 @@ Tai chi descends from seventeenth-century Chen village in Henan province, where 
 
 ## Important Links
 
-- [Kendo](kendo.html) and [Karate](karate.html) \u2014 the other great East Asian martial disciplines, on this site
-- [Taekwondo](taekwondo.html) \u2014 another globally standardized martial sport, on this site
-- Push hands, taolu and the world taijiquan championships \u2014 the sport's competitive branches, on this site
+- [Kendo](kendo.html) and [Karate](karate.html) — the other great East Asian martial disciplines, on this site
+- [Taekwondo](taekwondo.html) — another globally standardized martial sport, on this site
+- Push hands, taolu and the world taijiquan championships — the sport's competitive branches, on this site

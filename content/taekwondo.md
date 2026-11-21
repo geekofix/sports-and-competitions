@@ -18,6 +18,6 @@ Taekwondo was formed in Korea in the late 1940s and 1950s as masters of the orig
 
 ## Important Links
 
-- [Taekwondo ITF](taekwondo-itf.html) and [Taekwondo WT](taekwondo-wt.html) \u2014 the two international branches, on this site
-- [Taekkyeon](taekkyeon.html), [Karate](karate.html) and [Tang soo do](tang-soo-do.html) \u2014 taekwondo's Korean and karate cousins, on this site
-- [Judo](judo.html) \u2014 the other Olympic East Asian martial art, on this site
+- [Taekwondo ITF](taekwondo-itf.html) and [Taekwondo WT](taekwondo-wt.html) — the two international branches, on this site
+- [Taekkyeon](taekkyeon.html), [Karate](karate.html) and [Tang soo do](tang-soo-do.html) — taekwondo's Korean and karate cousins, on this site
+- [Judo](judo.html) — the other Olympic East Asian martial art, on this site

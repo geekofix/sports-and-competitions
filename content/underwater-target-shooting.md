@@ -16,6 +16,6 @@ Underwater target shooting was formalized in the 1980s by the world underwater f
 - Spearfishing clubs worldwide. (n.d.). *Target training culture*. Retrieved November 21, 2026, from https://www.cmas.org/
 
 ## Important Links
-- [Spearfishing](spearfishing.html) \u2014 the sport target shooting trains for, on this site
-- [Target archery](target-archery.html) and [Trap shooting](trap-shooting.html) \u2014 the dry-precision target sports, on this site
-- [Freediving](freediving.html) \u2014 the breath-hold foundation, on this site
+- [Spearfishing](spearfishing.html) — the sport target shooting trains for, on this site
+- [Target archery](target-archery.html) and [Trap shooting](trap-shooting.html) — the dry-precision target sports, on this site
+- [Freediving](freediving.html) — the breath-hold foundation, on this site

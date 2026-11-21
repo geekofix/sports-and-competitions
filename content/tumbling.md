@@ -16,6 +16,6 @@ Tumbling's roots are ancient (acrobatic tumbling was practiced in Chinese and Gr
 - The World Games. (n.d.). *Power tumbling*. Retrieved November 21, 2026, from https://www.theworldgames.org/
 
 ## Important Links
-- [Trampoline gymnastics](trampoline-gymnastics.html) and [Double mini trampoline](double-mini-trampoline.html) \u2014 the FIG trampoline-family disciplines, on this site
-- [Tricking](tricking.html) and acrobatic movement arts \u2014 the flipped cousins, on this site
-- World championships and the World Games programme \u2014 the competitive apex, on this site
+- [Trampoline gymnastics](trampoline-gymnastics.html) and [Double mini trampoline](double-mini-trampoline.html) — the FIG trampoline-family disciplines, on this site
+- [Tricking](tricking.html) and acrobatic movement arts — the flipped cousins, on this site
+- World championships and the World Games programme — the competitive apex, on this site

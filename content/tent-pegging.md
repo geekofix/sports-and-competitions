@@ -18,6 +18,6 @@ Tent pegging is attested from antiquity: mounted riders performed similar skill 
 
 ## Important Links
 
-- [Show jumping](show-jumping.html) and [Horse racing](thoroughbred-racing.html) \u2014 other elite cavalry-inherited equestrian sports, on this site
-- The International Tent Pegging Championships \u2014 the sport's world stage, on this site
-- Skill-at-arms: rings, lemons and quintains \u2014 the wider family of cavalry games, on this site
+- [Show jumping](show-jumping.html) and [Horse racing](thoroughbred-racing.html) — other elite cavalry-inherited equestrian sports, on this site
+- The International Tent Pegging Championships — the sport's world stage, on this site
+- Skill-at-arms: rings, lemons and quintains — the wider family of cavalry games, on this site

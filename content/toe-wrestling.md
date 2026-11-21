@@ -18,6 +18,6 @@ Toe wrestling was invented in 1974 at the Royal Oak inn in Wetton, Staffordshire
 
 ## Important Links
 
-- [Shin kicking](shin-kicking.html) and the World Gurning Championships \u2014 England's other classic village contests, on this site
-- [Tug of war](tug-of-war.html) \u2014 another pair-strength classic, on this site
-- The Derbyshire championships and the sport's pub roots \u2014 the story of toe wrestling, on this site
+- [Shin kicking](shin-kicking.html) and the World Gurning Championships — England's other classic village contests, on this site
+- [Tug of war](tug-of-war.html) — another pair-strength classic, on this site
+- The Derbyshire championships and the sport's pub roots — the story of toe wrestling, on this site

@@ -4,7 +4,7 @@ Short track speed skating is the pack-racing branch of ice speed skating, in whi
 
 ## Rules
 
-The track is a 111.12 m oval marked on a 60 by 30 metre rink, with individual Olympic distances of 500 m, 1000 m and 1500 m for both men and women, plus a relay (3000 m women, 5000 m men) and, since Beijing 2022, a mixed team relay. Races begin with a mass start of typically four to eight skaters in heats, with the top two finishers of each heat advancing through quarter-finals and semi-finals to the final. Because the tight corners are taken at speed with the left hand often brushing the ice, passing must be clean \u2014 impeding, charging or blocking an opponent draws a penalty, and an impeded skater may be advanced to the next round; a skater also falls if off-track on the short interior. Skaters wear hard-shell helmets, cut-resistant suits, gloves, knee pads and neck guards, and use long-grounded klapskate-style blades fixed left-of-centre for cornering. Relay teams may change skater at any moment with a push from behind, and races are decided on finishing order rather than the clock.
+The track is a 111.12 m oval marked on a 60 by 30 metre rink, with individual Olympic distances of 500 m, 1000 m and 1500 m for both men and women, plus a relay (3000 m women, 5000 m men) and, since Beijing 2022, a mixed team relay. Races begin with a mass start of typically four to eight skaters in heats, with the top two finishers of each heat advancing through quarter-finals and semi-finals to the final. Because the tight corners are taken at speed with the left hand often brushing the ice, passing must be clean — impeding, charging or blocking an opponent draws a penalty, and an impeded skater may be advanced to the next round; a skater also falls if off-track on the short interior. Skaters wear hard-shell helmets, cut-resistant suits, gloves, knee pads and neck guards, and use long-grounded klapskate-style blades fixed left-of-centre for cornering. Relay teams may change skater at any moment with a push from behind, and races are decided on finishing order rather than the clock.
 
 ## History
 
@@ -18,6 +18,6 @@ Mass-start racing on small indoor rinks originated in North America in the early
 
 ## Important Links
 
-- Olympics.com and ISU \u2014 rules, records and season calendar
-- [Speed skating](speed-skating.html) \u2014 the long-track, against-the-clock discipline, on this site
-- [Figure skating](figure-skating.html) and [Ice hockey](ice-hockey.html) \u2014 the other sports of the 60\u00d730 m rink, on this site
+- Olympics.com and ISU — rules, records and season calendar
+- [Speed skating](speed-skating.html) — the long-track, against-the-clock discipline, on this site
+- [Figure skating](figure-skating.html) and [Ice hockey](ice-hockey.html) — the other sports of the 60\u00d730 m rink, on this site

@@ -18,6 +18,6 @@ The game descends from after-dinner Victorian lawn tennis parlor games of the 18
 
 ## Important Links
 
-- [Table shuffleboard](table-shuffleboard.html) and [Table football](table-football.html) \u2014 the other great tabletop sports, on this site
-- [Tennis](tennis.html) and [Squash](squash.html) \u2014 the larger and the indoor racket cousins, on this site
-- The ITTF world tour and world championships \u2014 the sport's professional calendar, on this site
+- [Table shuffleboard](table-shuffleboard.html) and [Table football](table-football.html) — the other great tabletop sports, on this site
+- [Tennis](tennis.html) and [Squash](squash.html) — the larger and the indoor racket cousins, on this site
+- The ITTF world tour and world championships — the sport's professional calendar, on this site

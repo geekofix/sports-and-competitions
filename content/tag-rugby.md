@@ -18,6 +18,6 @@ Tag rugby grew out of rugby league's and rugby union's efforts to create safe, i
 
 ## Important Links
 
-- [Touch rugby](touch-rugby.html) and [Beach rugby](beach-rugby.html) \u2014 rugby's other low-contact formats, on this site
-- [Rugby sevens](rugby-sevens.html) \u2014 the short-format tackling game, on this site
-- Tag festivals and mixed leagues worldwide \u2014 the social heart of the sport, on this site
+- [Touch rugby](touch-rugby.html) and [Beach rugby](beach-rugby.html) — rugby's other low-contact formats, on this site
+- [Rugby sevens](rugby-sevens.html) — the short-format tackling game, on this site
+- Tag festivals and mixed leagues worldwide — the social heart of the sport, on this site

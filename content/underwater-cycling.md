@@ -16,6 +16,6 @@ Underwater cycling is a creature of the novelty sport era: its organized heart i
 - Scuba diving organizations. (n.d.). *Underwater cycling events*. Retrieved November 21, 2026, from https://www.padi.com/
 
 ## Important Links
-- [Freediving](freediving.html) and [Spearfishing](spearfishing.html) \u2014 the underwater sports family, on this site
-- [Underwater rugby](underwater-rugby.html) and [Underwater hockey](underwater-hockey.html) \u2014 the pool-bottom team sports, on this site
-- The Pays de Caux underwater cycling festival \u2014 the sport's home, on this site
+- [Freediving](freediving.html) and [Spearfishing](spearfishing.html) — the underwater sports family, on this site
+- [Underwater rugby](underwater-rugby.html) and [Underwater hockey](underwater-hockey.html) — the pool-bottom team sports, on this site
+- The Pays de Caux underwater cycling festival — the sport's home, on this site

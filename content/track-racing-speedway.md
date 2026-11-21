@@ -16,6 +16,6 @@ Speedway was born on the dirt ovals of Australia and New Zealand in the 1920s an
 - Speedway GB. (n.d.). *British speedway rules*. Retrieved November 21, 2026, from https://www.speedwaygb.co/
 
 ## Important Links
-- The motorcycle racing family: from [Supercross](supercross.html) to [Superbike](superbike.html) \u2014 on this site
-- Grass track and ice speedway \u2014 speedway's close cousins, on this site
-- The world championship and the great European leagues \u2014 where the sport lives, on this site
+- The motorcycle racing family: from [Supercross](supercross.html) to [Superbike](superbike.html) — on this site
+- Grass track and ice speedway — speedway's close cousins, on this site
+- The world championship and the great European leagues — where the sport lives, on this site

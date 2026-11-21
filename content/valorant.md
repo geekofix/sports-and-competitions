@@ -16,6 +16,6 @@ Valorant was released by Riot Games in June 2020 (after a closed beta that tumbl
 - Wikipedia. (n.d.). *Valorant esports*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Valorant_esports
 
 ## Important Links
-- [StarCraft II](starcraft-ii.html) and [Texas hold'em poker](texas-hold-em-poker.html) and other mind games \u2014 the other esports-mind sports, on this site
-- Masters, Champions and the regional league system \u2014 Valorant's competitive calendar, on this site
-- The agent draft and the economy system \u2014 the game's tactical layers, on this site
+- [StarCraft II](starcraft-ii.html) and [Texas hold'em poker](texas-hold-em-poker.html) and other mind games — the other esports-mind sports, on this site
+- Masters, Champions and the regional league system — Valorant's competitive calendar, on this site
+- The agent draft and the economy system — the game's tactical layers, on this site

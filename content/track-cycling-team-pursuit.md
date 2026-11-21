@@ -16,6 +16,6 @@ The pursuit family grew from the individual time-trial tradition of early track 
 - Wikipedia. (n.d.). *Team pursuit*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Team_pursuit
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Team sprint](track-cycling-team-sprint.html) \u2014 the sprint-side team time trial, on this site
-- The 4,000-metre barrier and pursuit records \u2014 the event's history of speed, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Team sprint](track-cycling-team-sprint.html) — the sprint-side team time trial, on this site
+- The 4,000-metre barrier and pursuit records — the event's history of speed, on this site

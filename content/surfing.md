@@ -18,6 +18,6 @@ Surfing descends from the Hawaiian wave-riding tradition, where riding waves on 
 
 ## Important Links
 
-- [Stand-up paddleboarding](stand-up-paddleboarding.html) \u2014 surfing's standing-paddle sibling, on this site
-- [Surf lifesaving](surf-lifesaving.html) \u2014 the beach culture's rescue sport, on this site
-- The World Surf League and Olympic surfing \u2014 the sport's twin competitive stages, on this site
+- [Stand-up paddleboarding](stand-up-paddleboarding.html) — surfing's standing-paddle sibling, on this site
+- [Surf lifesaving](surf-lifesaving.html) — the beach culture's rescue sport, on this site
+- The World Surf League and Olympic surfing — the sport's twin competitive stages, on this site

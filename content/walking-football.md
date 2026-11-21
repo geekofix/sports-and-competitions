@@ -16,6 +16,6 @@ Walking football is credited to the Chesterfield-sanctioned community programs o
 - Wikipedia. (n.d.). *Walking football*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Walking_football
 
 ## Important Links
-- [Football](football.html) \u2014 the parent game, on this site
-- [Walking rugby](walking-rugby.html) \u2014 the same format for rugby, on this site
-- Leagues, festivals and international walking football \u2014 the sport's structures, on this site
+- [Football](football.html) — the parent game, on this site
+- [Walking rugby](walking-rugby.html) — the same format for rugby, on this site
+- Leagues, festivals and international walking football — the sport's structures, on this site

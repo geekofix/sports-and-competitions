@@ -18,6 +18,6 @@ The tamburello paddle traces back to the pallone family of Italian street games 
 
 ## Important Links
 
-- [Padel](padel.html) and [Tennis](tennis.html) \u2014 the other paddle-and-racket court games, on this site
-- [Shinty](shinty.html) and [Hurling](hurling.html) \u2014 Europe's other great traditional field games, on this site
-- The Italian tamburello championship calendar \u2014 where the tambourine game lives, on this site
+- [Padel](padel.html) and [Tennis](tennis.html) — the other paddle-and-racket court games, on this site
+- [Shinty](shinty.html) and [Hurling](hurling.html) — Europe's other great traditional field games, on this site
+- The Italian tamburello championship calendar — where the tambourine game lives, on this site

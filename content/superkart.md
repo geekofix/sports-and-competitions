@@ -18,6 +18,6 @@ Gearbox karting grew naturally out of karting's 1950s roots in American and Brit
 
 ## Important Links
 
-- Karting and the single-seater ladder \u2014 superkart's place in motorsport, on this site
-- [Superbike](superbike.html) \u2014 another class that races full-size circuits at extreme speed, on this site
-- The CIK-FIA calendar and European superkart championships \u2014 where the gearbox karts race, on this site
+- Karting and the single-seater ladder — superkart's place in motorsport, on this site
+- [Superbike](superbike.html) — another class that races full-size circuits at extreme speed, on this site
+- The CIK-FIA calendar and European superkart championships — where the gearbox karts race, on this site

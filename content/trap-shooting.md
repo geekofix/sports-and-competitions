@@ -16,6 +16,6 @@ Trap shooting descends from live pigeon releases (the earliest glass-ball and pi
 - Wikipedia. (n.d.). *Trap shooting*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Trap_shooting
 
 ## Important Links
-- [Skeet shooting](skeet-shooting.html) \u2014 the crossing-target shotgun Olympic discipline, on this site
-- [Target archery](target-archery.html) \u2014 another precision Olympic target sport, on this site
-- The world cup and world championship calendar \u2014 where the world's trap shooters meet, on this site
+- [Skeet shooting](skeet-shooting.html) — the crossing-target shotgun Olympic discipline, on this site
+- [Target archery](target-archery.html) — another precision Olympic target sport, on this site
+- The world cup and world championship calendar — where the world's trap shooters meet, on this site

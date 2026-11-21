@@ -16,6 +16,6 @@ Nguyen Loc founded Vovinam (Vo Viet Nam, the martial art of Vietnam) in Hanoi in
 - World Vovinam Federation. (n.d.). *World championships*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Vovinam
 
 ## Important Links
-- The martial arts family: [Taekwondo](taekwondo.html), [Wushu sanda](wushu-sanda.html) and [Thang ta](thang-ta.html) \u2014 on this site
-- Vietnam's wrestling and folk combat traditions \u2014 the roots of the art, on this site
-- World championships and belt structure \u2014 the sport's contemporary form, on this site
+- The martial arts family: [Taekwondo](taekwondo.html), [Wushu sanda](wushu-sanda.html) and [Thang ta](thang-ta.html) — on this site
+- Vietnam's wrestling and folk combat traditions — the roots of the art, on this site
+- World championships and belt structure — the sport's contemporary form, on this site

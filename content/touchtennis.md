@@ -18,6 +18,6 @@ Touchtennis began in London in the early 2000s, traditionally credited to a grou
 
 ## Important Links
 
-- [Tennis](tennis.html) and [Soft tennis](soft-tennis.html) \u2014 the full-size and Asian siblings of the small-court game, on this site
-- [Table tennis](table-tennis.html) \u2014 tennis's other miniature descendant, on this site
-- The touchtennis tour and world rankings \u2014 the sport's competitive ladder, on this site
+- [Tennis](tennis.html) and [Soft tennis](soft-tennis.html) — the full-size and Asian siblings of the small-court game, on this site
+- [Table tennis](table-tennis.html) — tennis's other miniature descendant, on this site
+- The touchtennis tour and world rankings — the sport's competitive ladder, on this site

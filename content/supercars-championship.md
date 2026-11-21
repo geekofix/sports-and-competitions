@@ -18,6 +18,6 @@ The category descends from the Australian Touring Car Championship, first staged
 
 ## Important Links
 
-- The Bathurst 1000 at Mount Panorama \u2014 the endurance race that defines the category, on this site
-- [Superbike](superbike.html) \u2014 the two-wheeled headline class of circuit racing, on this site
-- Touring car racing worldwide \u2014 Supercars' place among DTM, BTCC and company, on this site
+- The Bathurst 1000 at Mount Panorama — the endurance race that defines the category, on this site
+- [Superbike](superbike.html) — the two-wheeled headline class of circuit racing, on this site
+- Touring car racing worldwide — Supercars' place among DTM, BTCC and company, on this site

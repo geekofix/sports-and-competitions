@@ -18,6 +18,6 @@ Squash descends from the older game of rackets, played in London's schools and p
 
 ## Important Links
 
-- [Table tennis](table-tennis.html) and [Badminton](badminton.html) \u2014 the other great indoor racket sports, on this site
-- The World Squash Federation and the PSA World Tour \u2014 the sport's governing bodies and professional circuit, on this site
-- Squash at the Los Angeles 2028 Olympic Games \u2014 the milestone that completes the sport's global resume, on this site
+- [Table tennis](table-tennis.html) and [Badminton](badminton.html) — the other great indoor racket sports, on this site
+- The World Squash Federation and the PSA World Tour — the sport's governing bodies and professional circuit, on this site
+- Squash at the Los Angeles 2028 Olympic Games — the milestone that completes the sport's global resume, on this site

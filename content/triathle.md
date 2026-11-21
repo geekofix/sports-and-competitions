@@ -16,6 +16,6 @@ Triathle was introduced by the UIPM in 2013 as part of modern pentathlon's famil
 - UIPM. (n.d.). *World championships*. Retrieved November 21, 2026, from https://www.uipmworld.org/
 
 ## Important Links
-- The UIPM family: [Modern pentathlon](modern-pentathlon.html) and [Biathle](biathle.html) \u2014 on this site
-- Laser-run and the pentathlon multi-sport formats \u2014 the racing hybrids, on this site
-- The triathle world championship calendar \u2014 the sport's showcase, on this site
+- The UIPM family: [Modern pentathlon](modern-pentathlon.html) and [Biathle](biathle.html) — on this site
+- Laser-run and the pentathlon multi-sport formats — the racing hybrids, on this site
+- The triathle world championship calendar — the sport's showcase, on this site

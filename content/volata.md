@@ -16,6 +16,6 @@ Volata belongs to the family of traditional Alpine ball games of the Aosta Valle
 - Regional documentation. (n.d.). *Valle d'Aosta games*. Retrieved November 21, 2026, from https://www.regione.vda.it/
 
 ## Important Links
-- [Stoolball](stoolball.html) and European folk ball games \u2014 the tradition volata belongs to, on this site
-- [Tamburello](tamburello.html) \u2014 Italy's organized traditional ball sport, on this site
-- The Aosta Valley's heritage festivals \u2014 where volata is played, on this site
+- [Stoolball](stoolball.html) and European folk ball games — the tradition volata belongs to, on this site
+- [Tamburello](tamburello.html) — Italy's organized traditional ball sport, on this site
+- The Aosta Valley's heritage festivals — where volata is played, on this site

@@ -18,6 +18,6 @@ Russian hand-to-hand traditions reach back through Cossack fighting methods and 
 
 ## Important Links
 
-- [Sambo](sambo.html) and [Combat sambo](combat-sambo.html) \u2014 the other great Russian martial systems, on this site
-- [Judo](judo.html) and [Krav maga](krav-maga.html) \u2014 other flowing self-defence and close-combat systems, on this site
-- Breathing and structure work in modern self-defence \u2014 Systema's core method, on this site
+- [Sambo](sambo.html) and [Combat sambo](combat-sambo.html) — the other great Russian martial systems, on this site
+- [Judo](judo.html) and [Krav maga](krav-maga.html) — other flowing self-defence and close-combat systems, on this site
+- Breathing and structure work in modern self-defence — Systema's core method, on this site

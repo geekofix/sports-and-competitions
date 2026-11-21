@@ -18,6 +18,6 @@ Straight pool was invented in 1910 by Jerome Keough as a way to increase the cha
 
 ## Important Links
 
-- [Snooker](snooker.html) \u2014 the other great call-shot precision game, on this site
-- [Speed pool](speed-pool.html) \u2014 pool at the opposite extreme of tempo, on this site
-- The great runs of Greenleaf, Mosconi and Crane \u2014 straight pool's legendary lineage, on this site
+- [Snooker](snooker.html) — the other great call-shot precision game, on this site
+- [Speed pool](speed-pool.html) — pool at the opposite extreme of tempo, on this site
+- The great runs of Greenleaf, Mosconi and Crane — straight pool's legendary lineage, on this site

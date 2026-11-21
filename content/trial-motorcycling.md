@@ -16,6 +16,6 @@ Trials began in Edwardian Britain and Scotland (the forerunners, like the famous
 - TrialGP. (n.d.). *The world championship series*. Retrieved November 21, 2026, from https://www.trialgp.com/
 
 ## Important Links
-- The off-road motorcycle family: [Supercross](supercross.html) and [Supermoto](supermoto.html) \u2014 on this site
-- Hard enduro and the mountain riding scene \u2014 trials' modern expression, on this site
-- The X-Tial indoor series and TrialGP calendar \u2014 the sport's showdowns, on this site
+- The off-road motorcycle family: [Supercross](supercross.html) and [Supermoto](supermoto.html) — on this site
+- Hard enduro and the mountain riding scene — trials' modern expression, on this site
+- The X-Tial indoor series and TrialGP calendar — the sport's showdowns, on this site

@@ -18,6 +18,6 @@ Tennis grew out of the medieval French jeu de paume, a handball game of monaster
 
 ## Important Links
 
-- [Table tennis](table-tennis.html), [Squash](squash.html) and [Paddle-related games](touchtennis.html) \u2014 the racket family, on this site
-- [Soft tennis](soft-tennis.html) and [Touchtennis](touchtennis.html) \u2014 tennis variants, on this site
-- The Grand Slams and the world tour \u2014 the professional calendar, on this site
+- [Table tennis](table-tennis.html), [Squash](squash.html) and [Paddle-related games](touchtennis.html) — the racket family, on this site
+- [Soft tennis](soft-tennis.html) and [Touchtennis](touchtennis.html) — tennis variants, on this site
+- The Grand Slams and the world tour — the professional calendar, on this site

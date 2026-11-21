@@ -18,6 +18,6 @@ Seven-man grew directly out of the professionalization of tournament paintball i
 
 ## Important Links
 
-- [Speedball](speedball.html) \u2014 the parent tournament format and its rules, on this site
-- [Speedball 5-Man](speedball-5-man.html) \u2014 the five-a-side format that became today's professional standard, on this site
-- Team rosters, pump play and classic-era equipment \u2014 the tactical side of seven-man paintball, on this site
+- [Speedball](speedball.html) — the parent tournament format and its rules, on this site
+- [Speedball 5-Man](speedball-5-man.html) — the five-a-side format that became today's professional standard, on this site
+- Team rosters, pump play and classic-era equipment — the tactical side of seven-man paintball, on this site

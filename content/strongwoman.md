@@ -18,6 +18,6 @@ Women have competed in feats of strength since the strongman era of vaudeville, 
 
 ## Important Links
 
-- [Strongman](strongman.html) \u2014 the men's sport and shared event library, on this site
-- Women's strength records and showcases \u2014 the fast-rising profile of the sport, on this site
-- Powerlifting and strength training foundations \u2014 the base disciplines behind strongwoman athletes, on this site
+- [Strongman](strongman.html) — the men's sport and shared event library, on this site
+- Women's strength records and showcases — the fast-rising profile of the sport, on this site
+- Powerlifting and strength training foundations — the base disciplines behind strongwoman athletes, on this site

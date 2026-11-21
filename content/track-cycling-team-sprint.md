@@ -16,6 +16,6 @@ The team sprint was born from sprint squads' training exercises and became an in
 - Wikipedia. (n.d.). *Team sprint*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Team_sprint
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Keirin](track-cycling-keirin.html) \u2014 the other sprint-family flagship, on this site
-- [Team pursuit](track-cycling-team-pursuit.html) \u2014 the endurance-side team time trial, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Keirin](track-cycling-keirin.html) — the other sprint-family flagship, on this site
+- [Team pursuit](track-cycling-team-pursuit.html) — the endurance-side team time trial, on this site

@@ -16,6 +16,6 @@ Underwater ice hockey was invented around 2005 by the Austrian freediver and ext
 - Freediving community. (n.d.). *Under-ice play and safety standards*. Retrieved November 21, 2026, from https://www.aidainternational.org/
 
 ## Important Links
-- [Underwater hockey](underwater-hockey.html) \u2014 the pool-bottom sport with the same name, on this site
-- [Ice hockey](ice-hockey.html) \u2014 the parent of all ice games, on this site
-- [Freediving](freediving.html) \u2014 the breath-hold diving sport Redl comes from, on this site
+- [Underwater hockey](underwater-hockey.html) — the pool-bottom sport with the same name, on this site
+- [Ice hockey](ice-hockey.html) — the parent of all ice games, on this site
+- [Freediving](freediving.html) — the breath-hold diving sport Redl comes from, on this site

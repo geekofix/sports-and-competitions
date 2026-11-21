@@ -16,6 +16,6 @@ Volleyball was invented in 1895 by William G. Morgan, a YMCA physical director i
 - Wikipedia. (n.d.). *Volleyball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Volleyball
 
 ## Important Links
-- The sport's family: [Beach volleyball](beach-volleyball.html), [Sitting volleyball](sitting-volleyball.html), [Snow volleyball](snow-volleyball.html) and [Water volleyball](water-volleyball.html) \u2014 on this site
-- [Teqvoly](teqvoly.html) and [Sepak takraw](sepak-takraw.html) \u2014 other net games with a twist, on this site
-- The FIVB world championships and the world's great leagues \u2014 the competitive apex, on this site
+- The sport's family: [Beach volleyball](beach-volleyball.html), [Sitting volleyball](sitting-volleyball.html), [Snow volleyball](snow-volleyball.html) and [Water volleyball](water-volleyball.html) — on this site
+- [Teqvoly](teqvoly.html) and [Sepak takraw](sepak-takraw.html) — other net games with a twist, on this site
+- The FIVB world championships and the world's great leagues — the competitive apex, on this site

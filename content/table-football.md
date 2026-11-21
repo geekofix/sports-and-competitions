@@ -18,6 +18,6 @@ Foosball's ancestor tables first appeared in the 1890s in Germany and France, wi
 
 ## Important Links
 
-- [Table tennis](table-tennis.html) and [Table shuffleboard](table-shuffleboard.html) \u2014 the other great tabletop sports, on this site
-- [Football](football.html) \u2014 the full-size game the table imitates, on this site
-- ITSF world championships and national tour circuits \u2014 the competitive side of the barsport, on this site
+- [Table tennis](table-tennis.html) and [Table shuffleboard](table-shuffleboard.html) — the other great tabletop sports, on this site
+- [Football](football.html) — the full-size game the table imitates, on this site
+- ITSF world championships and national tour circuits — the competitive side of the barsport, on this site

@@ -18,6 +18,6 @@ Swimrun was born in 2002 when a drunken bet between friends (to race the length 
 
 ## Important Links
 
-- [Swimming](swimming.html) \u2014 half of the sport's engine, on this site
-- [Steeplechase](steeplechase.html) \u2014 running over obstacles and water, on this site
-- The OTILLO World Series and swimrun ranking \u2014 the sport's competitive ladder, on this site
+- [Swimming](swimming.html) — half of the sport's engine, on this site
+- [Steeplechase](steeplechase.html) — running over obstacles and water, on this site
+- The OTILLO World Series and swimrun ranking — the sport's competitive ladder, on this site

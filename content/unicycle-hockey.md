@@ -16,6 +16,6 @@ Unicycle hockey emerged from unicycling club culture in the twentieth century (e
 - International Unicycling Federation community. (n.d.). *League play in Europe*. Retrieved November 21, 2026, from https://unicycling.org/
 
 ## Important Links
-- [Unicycle polo](unicycle-polo.html) \u2014 the mallet game on one wheel, on this site
-- [Ice hockey](ice-hockey.html) and [Street hockey](street-hockey.html) \u2014 the two-wheeled world's hockey parents, on this site
-- The IUF, UNICON and the German league system \u2014 the sport's structures, on this site
+- [Unicycle polo](unicycle-polo.html) — the mallet game on one wheel, on this site
+- [Ice hockey](ice-hockey.html) and [Street hockey](street-hockey.html) — the two-wheeled world's hockey parents, on this site
+- The IUF, UNICON and the German league system — the sport's structures, on this site

@@ -18,6 +18,6 @@ Steer wrestling traces its roots to ancient bull-leaping feats of horsemen in th
 
 ## Important Links
 
-- [Bull riding](bull-riding.html) \u2014 the other headline event of professional rodeo, on this site
-- [Sheaf toss](sheaf-toss.html) \u2014 another strength event born of farm work, on this site
-- The National Finals Rodeo \u2014 steer wrestling's world championship stage, on this site
+- [Bull riding](bull-riding.html) — the other headline event of professional rodeo, on this site
+- [Sheaf toss](sheaf-toss.html) — another strength event born of farm work, on this site
+- The National Finals Rodeo — steer wrestling's world championship stage, on this site

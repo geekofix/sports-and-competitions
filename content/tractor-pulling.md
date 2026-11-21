@@ -16,6 +16,6 @@ The sport grew from early twentieth-century American farm rivalry when horses an
 - European Tractor Pulling. (n.d.). *Championships*. Retrieved November 21, 2026, from https://www.ntpa.com/
 
 ## Important Links
-- The pulling family in motor sport \u2014 including [Top fuel drag racing](top-fuel-drag-racing.html) straight-line power contests, on this site
-- Strongman and machine power contest traditions \u2014 from [Strongman](strongman.html) to pulling sleds, on this site
-- The NTPA and European pulling championship calendars \u2014 where the sport stages, on this site
+- The pulling family in motor sport — including [Top fuel drag racing](top-fuel-drag-racing.html) straight-line power contests, on this site
+- Strongman and machine power contest traditions — from [Strongman](strongman.html) to pulling sleds, on this site
+- The NTPA and European pulling championship calendars — where the sport stages, on this site

@@ -18,6 +18,6 @@ The earliest evidence of ssireum dates to the Goguryeo period (37 BC to 668 AD),
 
 ## Important Links
 
-- [Sumo](sumo.html) \u2014 the Japanese ring-wrestling cousin, on this site
-- [Shuai jiao](shuai-jiao.html) and [Bokh](bokh.html) \u2014 other great belt-and-throw wrestling traditions of Asia, on this site
-- The UNESCO inscription and joint North-South heritage \u2014 ssireum's place in Korean culture, on this site
+- [Sumo](sumo.html) — the Japanese ring-wrestling cousin, on this site
+- [Shuai jiao](shuai-jiao.html) and [Bokh](bokh.html) — other great belt-and-throw wrestling traditions of Asia, on this site
+- The UNESCO inscription and joint North-South heritage — ssireum's place in Korean culture, on this site

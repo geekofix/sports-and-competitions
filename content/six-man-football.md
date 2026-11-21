@@ -4,7 +4,7 @@ Six-man football is a variant of American gridiron football played with six play
 
 ## Rules
 
-Six-man is played on an 80-yard by 40-yard field (instead of the 100 by 53\u2153-yard eleven-man field), with the 40-yard line at the centre. All six players are eligible receivers, and the quarterback must be an interior lineman at the snap or the offence is penalised; the offense must gain 15 yards, not 10, for a first down. Scoring differs from the 11-man game: a kicked extra point is worth 2 points (a run or pass conversion only 1 point), and a field goal is worth 4 points \u2014 encouraging deep kicking. Matches consist of four quarters (in Texas of 10 minutes), and games are famous for their shootouts: first team to 45 points by half-time or later can win by mercy rule in some states (the UIL uses a 45-point differential clock rule). Texas high-school six-man is governed by University Interscholastic League rules with NCAA rules as base plus the six-man exceptions; adult six-man followed the same basic format.
+Six-man is played on an 80-yard by 40-yard field (instead of the 100 by 53\u2153-yard eleven-man field), with the 40-yard line at the centre. All six players are eligible receivers, and the quarterback must be an interior lineman at the snap or the offence is penalised; the offense must gain 15 yards, not 10, for a first down. Scoring differs from the 11-man game: a kicked extra point is worth 2 points (a run or pass conversion only 1 point), and a field goal is worth 4 points — encouraging deep kicking. Matches consist of four quarters (in Texas of 10 minutes), and games are famous for their shootouts: first team to 45 points by half-time or later can win by mercy rule in some states (the UIL uses a 45-point differential clock rule). Texas high-school six-man is governed by University Interscholastic League rules with NCAA rules as base plus the six-man exceptions; adult six-man followed the same basic format.
 
 ## History
 
@@ -18,6 +18,6 @@ The game was invented in 1934 by Stephen Epler, a high-school coach in Chester, 
 
 ## Important Links
 
-- UIL and Sixmanfootball.com \u2014 official rules, coaching resources and Texas championships
-- [American football](american-football.html) and [Flag football](flag-football.html) \u2014 the parent and non-contact versions of gridiron, on this site
-- [Football](football.html) \u2014 soccer, for the global "football", on this site
+- UIL and Sixmanfootball.com — official rules, coaching resources and Texas championships
+- [American football](american-football.html) and [Flag football](flag-football.html) — the parent and non-contact versions of gridiron, on this site
+- [Football](football.html) — soccer, for the global "football", on this site

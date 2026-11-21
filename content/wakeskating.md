@@ -16,6 +16,6 @@ Wakeskating evolved in the 1990s from wakeboarders' experiments with binding-fre
 - Wikipedia. (n.d.). *The wakeskating scene and its riders*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wakeskating
 
 ## Important Links
-- [Wakeboarding](wakeboarding.html) \u2014 the parent sport with bindings, on this site
-- [Wakesurfing](wakesurfing.html) \u2014 the third of the towed-board siblings, on this site
-- [Skateboarding](skateboarding.html) \u2014 the land discipline wakeskating imitates, on this site
+- [Wakeboarding](wakeboarding.html) — the parent sport with bindings, on this site
+- [Wakesurfing](wakesurfing.html) — the third of the towed-board siblings, on this site
+- [Skateboarding](skateboarding.html) — the land discipline wakeskating imitates, on this site

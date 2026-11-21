@@ -18,6 +18,6 @@ Teqvoly grew from the teq table's broader family after the parent sport's 2014 i
 
 ## Important Links
 
-- [Teqball](teqball.html) \u2014 the parent sport on the same curved table, on this site
-- [Volleyball](volleyball.html) and [Sitting volleyball](sitting-volleyball.html) \u2014 the parent format of the team game, on this site
-- The FITEQ competition calendar \u2014 where teqvoly is played, on this site
+- [Teqball](teqball.html) — the parent sport on the same curved table, on this site
+- [Volleyball](volleyball.html) and [Sitting volleyball](sitting-volleyball.html) — the parent format of the team game, on this site
+- The FITEQ competition calendar — where teqvoly is played, on this site

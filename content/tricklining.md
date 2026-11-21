@@ -16,6 +16,6 @@ Slacklining itself derives from the climbing-camp tightrope of Yosemite's 1970s 
 - Wikipedia. (n.d.). *Slacklining*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Slacklining
 
 ## Important Links
-- [Slacklining](slacklining.html) \u2014 the parent discipline of the line, on this site
-- [Trampoline](trampoline.html) \u2014 the acrobatic apparatus cousin, on this site
-- [Sporthocking](sporthocking.html) and street movement arts \u2014 the urban scene family, on this site
+- [Slacklining](slacklining.html) — the parent discipline of the line, on this site
+- [Trampoline](trampoline.html) — the acrobatic apparatus cousin, on this site
+- [Sporthocking](sporthocking.html) and street movement arts — the urban scene family, on this site

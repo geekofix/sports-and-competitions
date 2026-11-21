@@ -18,6 +18,6 @@ Bowling's ancestry runs from ancient Egyptian and German religious games to Euro
 
 ## Important Links
 
-- [Table shuffleboard](table-shuffleboard.html) \u2014 the other great indoor sliding sport, on this site
-- [Straight pool](straight-pool.html) \u2014 another precision indoor game with perfect-game dreams, on this site
-- League night and the PBA Tour \u2014 the two faces of ten-pin bowling, on this site
+- [Table shuffleboard](table-shuffleboard.html) — the other great indoor sliding sport, on this site
+- [Straight pool](straight-pool.html) — another precision indoor game with perfect-game dreams, on this site
+- League night and the PBA Tour — the two faces of ten-pin bowling, on this site

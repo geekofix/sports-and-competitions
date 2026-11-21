@@ -18,6 +18,6 @@ Stoolball is attested by name from around 1450, played in medieval and Tudor Eng
 
 ## Important Links
 
-- [Cricket](cricket.html) and [Baseball](baseball.html) \u2014 the sports most often linked to stoolball's family tree, on this site
-- [Softball](softball.html) and [Fastpitch softball](fastpitch-softball.html) \u2014 small-ball cousins with their own histories, on this site
-- Stoolball England and the Sussex leagues \u2014 where the sport lives today, on this site
+- [Cricket](cricket.html) and [Baseball](baseball.html) — the sports most often linked to stoolball's family tree, on this site
+- [Softball](softball.html) and [Fastpitch softball](fastpitch-softball.html) — small-ball cousins with their own histories, on this site
+- Stoolball England and the Sussex leagues — where the sport lives today, on this site

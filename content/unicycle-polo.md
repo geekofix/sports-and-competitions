@@ -16,6 +16,6 @@ Unicycle polo descends from the same nineteenth-century mounted-polo fashion tha
 - Unicycle clubs worldwide. (n.d.). *Polo and club play*. Retrieved November 21, 2026, from https://www.unicyclist.com/
 
 ## Important Links
-- [Unicycle hockey](unicycle-hockey.html) \u2014 the big unicycle team sport, on this site
-- [Polo](polo.html) \u2014 the mounted original, on this site
-- The IUF convention programme \u2014 where one-wheeled polo is contested, on this site
+- [Unicycle hockey](unicycle-hockey.html) — the big unicycle team sport, on this site
+- [Polo](polo.html) — the mounted original, on this site
+- The IUF convention programme — where one-wheeled polo is contested, on this site

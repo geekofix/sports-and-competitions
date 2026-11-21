@@ -16,6 +16,6 @@ Underwater rugby was invented in 1961 by the German diving instructor Ludwig von
 - Nordic underwater rugby associations. (n.d.). *Statistics and championships*. Retrieved November 21, 2026, from https://www.uwr-nordic.org/
 
 ## Important Links
-- [Underwater hockey](underwater-hockey.html) \u2014 the pool-bottom sibling sport, on this site
-- [Rugby sevens](rugby-sevens.html) \u2014 the dry land contact classic, on this site
-- [Freediving](freediving.html) \u2014 the breath-hold foundation of the game, on this site
+- [Underwater hockey](underwater-hockey.html) — the pool-bottom sibling sport, on this site
+- [Rugby sevens](rugby-sevens.html) — the dry land contact classic, on this site
+- [Freediving](freediving.html) — the breath-hold foundation of the game, on this site

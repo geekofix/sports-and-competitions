@@ -16,6 +16,6 @@ The Mesoamerican ballgame was played from at least the second millennium BC by O
 - Mesoamerican Ballgame Association USA. (n.d.). *AJUPEME USA*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Mesoamerican_Ballgame_Association_USA
 
 ## Important Links
-- [Sepak takraw](sepak-takraw.html) \u2014 another non-racket net game of ancient roots, on this site
-- [Ssireum](ssireum.html) and other ancient preserved sports \u2014 the heritage-sport family, on this site
-- Sinaloa's ulama tradition and the pok-ta-pok world series \u2014 the living game today, on this site
+- [Sepak takraw](sepak-takraw.html) — another non-racket net game of ancient roots, on this site
+- [Ssireum](ssireum.html) and other ancient preserved sports — the heritage-sport family, on this site
+- Sinaloa's ulama tradition and the pok-ta-pok world series — the living game today, on this site

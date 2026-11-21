@@ -18,6 +18,6 @@ Teqball was invented in Hungary in 2014 by three football enthusiasts (the forme
 
 ## Important Links
 
-- [Table football](table-football.html) and [Table tennis](table-tennis.html) \u2014 the table-sport family, on this site
-- [Teqvoly](teqvoly.html) \u2014 the volleyball-style game on the same curved table, on this site
-- The FITEQ World Series and world championships \u2014 the sport's calendar, on this site
+- [Table football](table-football.html) and [Table tennis](table-tennis.html) — the table-sport family, on this site
+- [Teqvoly](teqvoly.html) — the volleyball-style game on the same curved table, on this site
+- The FITEQ World Series and world championships — the sport's calendar, on this site

@@ -18,6 +18,6 @@ StarCraft II launched in July 2010 as the sequel to the 1998 original, whose pro
 
 ## Important Links
 
-- The Global StarCraft II League and the Korean pro scene \u2014 the sport's historic heartland, on this site
-- From the original StarCraft to modern esports leagues \u2014 the lineage of professional RTS play, on this site
-- Mechanics, macro and map strategy \u2014 the skills that define top-level StarCraft II, on this site
+- The Global StarCraft II League and the Korean pro scene — the sport's historic heartland, on this site
+- From the original StarCraft to modern esports leagues — the lineage of professional RTS play, on this site
+- Mechanics, macro and map strategy — the skills that define top-level StarCraft II, on this site

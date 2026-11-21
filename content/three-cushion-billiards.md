@@ -18,6 +18,6 @@ Carom billiards grew out of the cushioned tables of revolutionary-era Europe, an
 
 ## Important Links
 
-- [Straight pool](straight-pool.html) and [Snooker](snooker.html) \u2014 the pocket-game cousins of the carom table, on this site
-- Carom billiards: one-cushion, balkline and artistic billiards \u2014 the family tree of the pocketless game, on this site
-- The diamond system and three-cushion mathematics \u2014 the sport's aiming science, on this site
+- [Straight pool](straight-pool.html) and [Snooker](snooker.html) — the pocket-game cousins of the carom table, on this site
+- Carom billiards: one-cushion, balkline and artistic billiards — the family tree of the pocketless game, on this site
+- The diamond system and three-cushion mathematics — the sport's aiming science, on this site

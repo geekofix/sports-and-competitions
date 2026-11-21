@@ -18,6 +18,6 @@ Taekkyeon descends through Korean folk games documented from the Joseon dynasty 
 
 ## Important Links
 
-- [Taekwondo](taekwondo.html) \u2014 Korea's global martial art, often confused with taekkyeon, on this site
-- [Ssireum](ssireum.html) and [Tang soo do](tang-soo-do.html) \u2014 the other traditional Korean combat arts, on this site
-- The UNESCO inscription and National Sports Festival debut \u2014 taekkyeon's modern recognition, on this site
+- [Taekwondo](taekwondo.html) — Korea's global martial art, often confused with taekkyeon, on this site
+- [Ssireum](ssireum.html) and [Tang soo do](tang-soo-do.html) — the other traditional Korean combat arts, on this site
+- The UNESCO inscription and National Sports Festival debut — taekkyeon's modern recognition, on this site

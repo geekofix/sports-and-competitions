@@ -1,10 +1,10 @@
 ## Basic Information
 
-Speedball 5-man is the five-a-side tournament format of competitive paintball, historically the standard team size of the PSP circuit and the basis of the modern Xball game. Five players \u2014 typically assigning roles such as front, mid and back players \u2014 take the airball field together, combining aggressive field movement with coordinated suppressive shooting to eliminate the other team and reach the flag or buzzer.
+Speedball 5-man is the five-a-side tournament format of competitive paintball, historically the standard team size of the PSP circuit and the basis of the modern Xball game. Five players — typically assigning roles such as front, mid and back players — take the airball field together, combining aggressive field movement with coordinated suppressive shooting to eliminate the other team and reach the flag or buzzer.
 
 ## Rules
 
-The ground rules are the same as for [speedball](speedball.html): two teams start at opposite stations on a mirrored infield of inflatable bunkers, elimination comes when a paintball breaks on a player or their equipment, and a point ends when the flag is captured and hung or the opposing buzzer is pressed. In the five-man configuration, rosters may carry substitutes \u2014 teams may field a full squad of reserves and rotate them between points or games. Classic 5-man was played as a series of short timed games with scoring for eliminations, flag grabs and flag hangs, while the modern NXL Xball format uses the same five-player team size in a point-by-point match on a running game clock, with a short staging break between points and a mercy rule that ends lopsided matches early.
+The ground rules are the same as for [speedball](speedball.html): two teams start at opposite stations on a mirrored infield of inflatable bunkers, elimination comes when a paintball breaks on a player or their equipment, and a point ends when the flag is captured and hung or the opposing buzzer is pressed. In the five-man configuration, rosters may carry substitutes — teams may field a full squad of reserves and rotate them between points or games. Classic 5-man was played as a series of short timed games with scoring for eliminations, flag grabs and flag hangs, while the modern NXL Xball format uses the same five-player team size in a point-by-point match on a running game clock, with a short staging break between points and a mercy rule that ends lopsided matches early.
 
 ## History
 

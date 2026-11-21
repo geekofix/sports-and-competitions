@@ -18,6 +18,6 @@ Sprint football began in 1934 as the Eastern 150-Pound Football League, founded 
 
 ## Important Links
 
-- [Football](football.html) and [Six-Man Football](six-man-football.html) \u2014 the full-size and small-roster cousins of the weight-class game, on this site
-- The Army-Navy sprint football rivalry \u2014 the sport's marquee annual clash, on this site
-- Weight certification and weigh-in procedures \u2014 how league officials keep the field level, on this site
+- [Football](football.html) and [Six-Man Football](six-man-football.html) — the full-size and small-roster cousins of the weight-class game, on this site
+- The Army-Navy sprint football rivalry — the sport's marquee annual clash, on this site
+- Weight certification and weigh-in procedures — how league officials keep the field level, on this site

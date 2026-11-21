@@ -18,6 +18,6 @@ Table shuffleboard descends from the old European game of shove ha'penny and the
 
 ## Important Links
 
-- [Table football](table-football.html) and [Table tennis](table-tennis.html) \u2014 the other great sliding-skill tabletop sports, on this site
-- [Shuffleboard](shuffleboard.html) \u2014 the deck and floor version of the game, on this site
-- Shuffleboard clubs and national leagues \u2014 where the sliding game is organized today, on this site
+- [Table football](table-football.html) and [Table tennis](table-tennis.html) — the other great sliding-skill tabletop sports, on this site
+- [Shuffleboard](shuffleboard.html) — the deck and floor version of the game, on this site
+- Shuffleboard clubs and national leagues — where the sliding game is organized today, on this site

@@ -18,6 +18,6 @@ Cup stacking began as a recreational novelty in southern California in the early
 
 ## Important Links
 
-- The WSSA rulebook and world record list \u2014 the standards behind every timed run, on this site
-- Speed stacking in physical education \u2014 how the cups reached school gyms worldwide, on this site
-- Relay stacking, doubles and age-division tournaments \u2014 the team side of the sport, on this site
+- The WSSA rulebook and world record list — the standards behind every timed run, on this site
+- Speed stacking in physical education — how the cups reached school gyms worldwide, on this site
+- Relay stacking, doubles and age-division tournaments — the team side of the sport, on this site

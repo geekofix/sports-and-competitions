@@ -18,6 +18,6 @@ Sporthocking was invented in Germany around 2007 by the Landschutz brothers, who
 
 ## Important Links
 
-- [Skateboarding](skateboarding.html) and [Slalom skateboarding](slalom-skateboarding.html) \u2014 the street sports that inspired the stool tricks, on this site
-- Freestyle movement arts and object juggling \u2014 the performance traditions sporthocking draws from, on this site
-- The sporthocker stool and its design \u2014 the gear purpose-built for extreme sitting, on this site
+- [Skateboarding](skateboarding.html) and [Slalom skateboarding](slalom-skateboarding.html) — the street sports that inspired the stool tricks, on this site
+- Freestyle movement arts and object juggling — the performance traditions sporthocking draws from, on this site
+- The sporthocker stool and its design — the gear purpose-built for extreme sitting, on this site

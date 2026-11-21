@@ -18,6 +18,6 @@ The teddy bear toss is usually credited to the Western Hockey League's Kamloops 
 
 ## Important Links
 
-- [Ice hockey](ice-hockey.html) \u2014 the parent sport of the toss, on this site
-- [Spogomi](spogomi.html) \u2014 another sport with a charitable heart, on this site
-- Junior and minor-league hockey promotions \u2014 where the bears fly, on this site
+- [Ice hockey](ice-hockey.html) — the parent sport of the toss, on this site
+- [Spogomi](spogomi.html) — another sport with a charitable heart, on this site
+- Junior and minor-league hockey promotions — where the bears fly, on this site

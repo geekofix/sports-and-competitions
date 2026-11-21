@@ -16,6 +16,6 @@ Hironori Otsuka (1892 to 1982) was already a master of Shindo Yoshin-ryu jujutsu
 - Wikipedia. (n.d.). *Hironori Otsuka*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Hironori_%C5%8Ctsuka
 
 ## Important Links
-- [Karate](karate.html), [Shotokan karate](shotokan-karate.html) and [Shito-ryu karate](shito-ryu-karate.html) \u2014 style pages of the karate family, on this site
-- [Judo](judo.html) and jujutsu: Wado's soft heritage \u2014 on this site
-- Wado kata and competition formats \u2014 the style's disciplines, on this site
+- [Karate](karate.html), [Shotokan karate](shotokan-karate.html) and [Shito-ryu karate](shito-ryu-karate.html) — style pages of the karate family, on this site
+- [Judo](judo.html) and jujutsu: Wado's soft heritage — on this site
+- Wado kata and competition formats — the style's disciplines, on this site

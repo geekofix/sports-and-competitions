@@ -18,6 +18,6 @@ Stone throwing contests predate recorded Swiss history, with early references to
 
 ## Important Links
 
-- [Scottish hammer throw](scottish-hammer-throw.html) and [Caber toss](caber-toss.html) \u2014 the Highland games throwing cousins of the stone put, on this site
-- [Strongman](strongman.html) \u2014 another sport of raw throwing power, on this site
-- The Unspunnen festival and Swiss traditional sports \u2014 stone putting's historic home, on this site
+- [Scottish hammer throw](scottish-hammer-throw.html) and [Caber toss](caber-toss.html) — the Highland games throwing cousins of the stone put, on this site
+- [Strongman](strongman.html) — another sport of raw throwing power, on this site
+- The Unspunnen festival and Swiss traditional sports — stone putting's historic home, on this site

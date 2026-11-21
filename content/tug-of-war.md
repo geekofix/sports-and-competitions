@@ -16,6 +16,6 @@ The rope-pull is attested in ancient cultures worldwide (organized rope-pulls ar
 - Olympics. (n.d.). *Tug of war at the Olympic Games*. Retrieved November 21, 2026, from https://www.olympics.com/
 
 ## Important Links
-- [Strongman](strongman.html) and [Strongwoman](strongwoman.html) \u2014 the strength sports, on this site
-- [Toe wrestling](toe-wrestling.html) \u2014 another classic village strength contest, on this site
-- Club tug of war and world championship scenes \u2014 where the rope does battle, on this site
+- [Strongman](strongman.html) and [Strongwoman](strongwoman.html) — the strength sports, on this site
+- [Toe wrestling](toe-wrestling.html) — another classic village strength contest, on this site
+- Club tug of war and world championship scenes — where the rope does battle, on this site

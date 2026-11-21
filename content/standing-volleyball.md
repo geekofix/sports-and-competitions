@@ -18,6 +18,6 @@ Standing volleyball has one of the longest Paralympic pedigrees in team sport: i
 
 ## Important Links
 
-- [Volleyball](volleyball.html) and [Sitting volleyball](sitting-volleyball.html) \u2014 the standing original and the seated Paralympic classic, on this site
-- [Snow volleyball](snow-volleyball.html) \u2014 volleyball in yet another setting, on this site
-- The history of the Paralympic Games \u2014 where standing volleyball blazed the trail for team sports, on this site
+- [Volleyball](volleyball.html) and [Sitting volleyball](sitting-volleyball.html) — the standing original and the seated Paralympic classic, on this site
+- [Snow volleyball](snow-volleyball.html) — volleyball in yet another setting, on this site
+- The history of the Paralympic Games — where standing volleyball blazed the trail for team sports, on this site

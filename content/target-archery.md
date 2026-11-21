@@ -18,6 +18,6 @@ Archery's competitive history is ancient "+E+" medieval England and other Europe
 
 ## Important Links
 
-- [Field archery](field-archery.html) and [3D archery](3d-archery.html) \u2014 archery's woodland cousins, on this site
-- Archery's Olympic history and the recurve discipline \u2014 the sport at the Games, on this site
-- [Kendo](kendo.html) \u2014 another precision discipline rooted in traditional practice, on this site
+- [Field archery](field-archery.html) and [3D archery](3d-archery.html) — archery's woodland cousins, on this site
+- Archery's Olympic history and the recurve discipline — the sport at the Games, on this site
+- [Kendo](kendo.html) — another precision discipline rooted in traditional practice, on this site

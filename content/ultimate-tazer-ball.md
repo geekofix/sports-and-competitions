@@ -16,6 +16,6 @@ Ultimate Tazer Ball was developed in the early 2010s as an engineered extreme sp
 - Wikipedia. (n.d.). *List of extreme and invented sports*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/List_of_sports
 
 ## Important Links
-- The invented-sport canon \u2014 from [Slamball](slamball.html) to exhibition games, on this site
-- [Underwater hockey](underwater-hockey.html) \u2014 another unconventional team sport with a twist, on this site
-- [T-rex racing](t-rex-racing.html) and novelty sport culture \u2014 the strange-sports family, on this site
+- The invented-sport canon — from [Slamball](slamball.html) to exhibition games, on this site
+- [Underwater hockey](underwater-hockey.html) — another unconventional team sport with a twist, on this site
+- [T-rex racing](t-rex-racing.html) and novelty sport culture — the strange-sports family, on this site

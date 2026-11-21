@@ -18,6 +18,6 @@ Surf lifesaving began in Australia in 1907, when bathers drowned at Sydney beach
 
 ## Important Links
 
-- [Surfing](surfing.html) and [Stand-up paddleboarding](stand-up-paddleboarding.html) \u2014 the wave and paddle cousins of surf sport, on this site
-- [Surf lifesaving](surf-lifesaving.html) events: beach sprints, iron person and IRB rescue \u2014 the carnival program, on this site
-- Drowning prevention and lifeguard training worldwide \u2014 the mission behind the sport, on this site
+- [Surfing](surfing.html) and [Stand-up paddleboarding](stand-up-paddleboarding.html) — the wave and paddle cousins of surf sport, on this site
+- [Surf lifesaving](surf-lifesaving.html) events: beach sprints, iron person and IRB rescue — the carnival program, on this site
+- Drowning prevention and lifeguard training worldwide — the mission behind the sport, on this site

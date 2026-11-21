@@ -18,6 +18,6 @@ Tchoukball was invented in the late 1960s by the Swiss biologist Hermann Brandt,
 
 ## Important Links
 
-- [Teqball](teqball.html) \u2014 another modern invented rebound sport, on this site
-- [Handball](handball.html) \u2014 the indoor court game tchoukball borrows its pitch from, on this site
-- The FITB world championships \u2014 tchoukball's international stage, on this site
+- [Teqball](teqball.html) — another modern invented rebound sport, on this site
+- [Handball](handball.html) — the indoor court game tchoukball borrows its pitch from, on this site
+- The FITB world championships — tchoukball's international stage, on this site

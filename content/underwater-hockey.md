@@ -16,6 +16,6 @@ Underwater hockey was invented in 1954 by the British diver Alan Blake of Souths
 - USA Underwater hockey community. (n.d.). *How the game is played*. Retrieved November 21, 2026, from https://www.usauwh.com/
 
 ## Important Links
-- [Underwater rugby](underwater-rugby.html) and [Freediving](freediving.html) \u2014 the underwater sports family, on this site
-- [Ice hockey](ice-hockey.html) \u2014 the dry-land-parent of the stick game, on this site
-- World championships and the club scene \u2014 where the puck slides, on this site
+- [Underwater rugby](underwater-rugby.html) and [Freediving](freediving.html) — the underwater sports family, on this site
+- [Ice hockey](ice-hockey.html) — the dry-land-parent of the stick game, on this site
+- World championships and the club scene — where the puck slides, on this site

@@ -18,6 +18,6 @@ The tomahawk was a trade and war implement of early America, and throwing it at 
 
 ## Important Links
 
-- [Target archery](target-archery.html) and [Darts](darts.html) \u2014 the other target-precision sports, on this site
-- [Knife throwing](knife-throwing.html) and historical-skills events \u2014 the wider edged-throwing family, on this site
-- League axe throwing and world championships \u2014 the modern competitive format, on this site
+- [Target archery](target-archery.html) and [Darts](darts.html) — the other target-precision sports, on this site
+- [Knife throwing](knife-throwing.html) and historical-skills events — the wider edged-throwing family, on this site
+- League axe throwing and world championships — the modern competitive format, on this site

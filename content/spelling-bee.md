@@ -18,6 +18,6 @@ Organized competitive spelling in the United States dates to 1908, when the Nati
 
 ## Important Links
 
-- The Scripps study booklet and regional qualifying circuit \u2014 the pathway to the national stage, on this site
-- Spell-offs, vocabulary rounds and pronouncer guidelines \u2014 the mechanics of the modern final, on this site
-- Word origins and dictionary work \u2014 the knowledge behind every great speller, on this site
+- The Scripps study booklet and regional qualifying circuit — the pathway to the national stage, on this site
+- Spell-offs, vocabulary rounds and pronouncer guidelines — the mechanics of the modern final, on this site
+- Word origins and dictionary work — the knowledge behind every great speller, on this site

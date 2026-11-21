@@ -16,6 +16,6 @@ Turtle races have a long history as an American novelty event, a fixture of coun
 - Wikipedia. (n.d.). *Turtle racing*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Turtle_racing
 
 ## Important Links
-- [Snail racing](snail-racing.html) and [Snake racing](snake-racing.html) \u2014 the slow-animal racing family, on this site
-- [T-rex racing](t-rex-racing.html) \u2014 another novelty sprint format, on this site
-- The world's festival novelty races \u2014 turtle racing's canon, on this site
+- [Snail racing](snail-racing.html) and [Snake racing](ostrich-racing.html) — the slow-animal racing family, on this site
+- [T-rex racing](t-rex-racing.html) — another novelty sprint format, on this site
+- The world's festival novelty races — turtle racing's canon, on this site

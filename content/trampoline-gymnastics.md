@@ -16,6 +16,6 @@ The trampoline apparatus was invented in the 1930s by George Nissen and Larry Gr
 - Wikipedia. (n.d.). *Trampolining*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Trampolining
 
 ## Important Links
-- [Trampoline](trampoline.html), [Synchronized trampoline](synchronized-trampoline.html) and [Double mini trampoline](double-mini-trampoline.html) \u2014 the apparatus and its sibling disciplines, on this site
-- [Tumbling](tumbling.html) \u2014 the FIG's companion acrobatic discipline, on this site
-- The Olympic story since Sydney 2000 \u2014 the discipline's competitive apex, on this site
+- [Trampoline](trampoline.html), [Synchronized trampoline](synchronized-trampoline.html) and [Double mini trampoline](double-mini-trampoline.html) — the apparatus and its sibling disciplines, on this site
+- [Tumbling](tumbling.html) — the FIG's companion acrobatic discipline, on this site
+- The Olympic story since Sydney 2000 — the discipline's competitive apex, on this site

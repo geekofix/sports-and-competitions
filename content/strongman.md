@@ -18,6 +18,6 @@ The modern sport crystallized in 1977, when the first World's Strongest Man cont
 
 ## Important Links
 
-- The World's Strongest Man and the Giants Live qualifying tour \u2014 how athletes reach the sport's top stage, on this site
-- [Strongwoman](strongwoman.html) \u2014 the women's side of strength athletics, on this site
-- [Stone put](stone-put.html) and [Sheaf toss](sheaf-toss.html) \u2014 festival strength events that fed the sport, on this site
+- The World's Strongest Man and the Giants Live qualifying tour — how athletes reach the sport's top stage, on this site
+- [Strongwoman](strongwoman.html) — the women's side of strength athletics, on this site
+- [Stone put](stone-put.html) and [Sheaf toss](sheaf-toss.html) — festival strength events that fed the sport, on this site

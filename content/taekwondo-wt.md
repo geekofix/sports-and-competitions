@@ -18,6 +18,6 @@ World Taekwondo was founded in Seoul in 1973 alongside the Kukkiwon, established
 
 ## Important Links
 
-- [Taekwondo](taekwondo.html) and [Taekwondo ITF](taekwondo-itf.html) \u2014 the parent art and the traditional branch, on this site
-- [Karate](karate.html) and [Judo](judo.html) \u2014 the other Olympic combat sports of East Asia, on this site
-- The Kukkiwon, poomsae and dan certification \u2014 the rank system of the Olympic branch, on this site
+- [Taekwondo](taekwondo.html) and [Taekwondo ITF](taekwondo-itf.html) — the parent art and the traditional branch, on this site
+- [Karate](karate.html) and [Judo](judo.html) — the other Olympic combat sports of East Asia, on this site
+- The Kukkiwon, poomsae and dan certification — the rank system of the Olympic branch, on this site

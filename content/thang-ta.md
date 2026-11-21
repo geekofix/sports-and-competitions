@@ -18,6 +18,6 @@ Meitei martial tradition traces its golden age to the reign of King Khagemba (15
 
 ## Important Links
 
-- [Kalaripayattu](kalaripayattu.html) and [Silambam](silambam.html) and [Gatka](gatka.html) \u2014 India's other classical martial arts, on this site
-- [Taekwondo](taekwondo.html) and [Wushu sanda](wushu-sanda.html) \u2014 other national combat sports, on this site
-- The spear dance, sword forms and stick sparring of Manipur \u2014 thang ta's competition disciplines, on this site
+- [Kalaripayattu](kalaripayattu.html) and [Silambam](silambam.html) and [Gatka](gatka.html) — India's other classical martial arts, on this site
+- [Taekwondo](taekwondo.html) and [Wushu sanda](wushu-sanda.html) — other national combat sports, on this site
+- The spear dance, sword forms and stick sparring of Manipur — thang ta's competition disciplines, on this site

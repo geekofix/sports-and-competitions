@@ -18,6 +18,6 @@ Sport climbing grew out of the free-climbing revolution of the 1980s, when climb
 
 ## Important Links
 
-- [Speed climbing](speed-climbing.html) \u2014 the sprint discipline of the wall, on this site
-- The IFSC calendar, from youth rounds to the World Championships \u2014 where the sport's champions are made, on this site
-- Indoor climbing gyms and training walls \u2014 the venues that built the sport, on this site
+- [Speed climbing](speed-climbing.html) — the sprint discipline of the wall, on this site
+- The IFSC calendar, from youth rounds to the World Championships — where the sport's champions are made, on this site
+- Indoor climbing gyms and training walls — the venues that built the sport, on this site

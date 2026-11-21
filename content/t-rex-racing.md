@@ -18,6 +18,6 @@ The inflatable T-rex costume became an internet phenomenon in the 2010s through 
 
 ## Important Links
 
-- [Snail racing](snail-racing.html) and [Snake racing](snake-racing.html) \u2014 the animal-kingdom novelty racing family, on this site
-- Novelty costume running events worldwide \u2014 the fun-run culture T-rex racing belongs to, on this site
-- Charity 5K waves and costume sprint exhibitions \u2014 how novelty sprints raise funds, on this site
+- [Snail racing](snail-racing.html) and [Snake racing](ostrich-racing.html) — the animal-kingdom novelty racing family, on this site
+- Novelty costume running events worldwide — the fun-run culture T-rex racing belongs to, on this site
+- Charity 5K waves and costume sprint exhibitions — how novelty sprints raise funds, on this site

@@ -16,6 +16,6 @@ The sport grew directly from the commercial trampoline park boom of the 2010s (t
 - Jump parks organizations. (n.d.). *Trampoline dodgeball guidelines*. Retrieved November 21, 2026, from https://www.iatp.org/
 
 ## Important Links
-- [Trampoline](trampoline.html) and [Trampoline gymnastics](trampoline-gymnastics.html) \u2014 the apparatus family, on this site
-- [Bossaball](bossaball.html) \u2014 another inflatable-arena team sport, on this site
-- Trampoline park venues and local dodgeball leagues \u2014 where the game is played, on this site
+- [Trampoline](trampoline.html) and [Trampoline gymnastics](trampoline-gymnastics.html) — the apparatus family, on this site
+- [Bossaball](bossaball.html) — another inflatable-arena team sport, on this site
+- Trampoline park venues and local dodgeball leagues — where the game is played, on this site

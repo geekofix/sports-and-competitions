@@ -16,6 +16,6 @@ Keirin was developed in Japan in 1948 as a public betting sport to aid postwar r
 - JKA. (n.d.). *Japanese keirin rules*. Retrieved November 21, 2026, from https://www.jka-net.jp/
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Team sprint](track-cycling-team-sprint.html) \u2014 the other pure-sprint format, on this site
-- Japan's professional keirin leagues \u2014 the sport's betting heartland, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Team sprint](track-cycling-team-sprint.html) — the other pure-sprint format, on this site
+- Japan's professional keirin leagues — the sport's betting heartland, on this site

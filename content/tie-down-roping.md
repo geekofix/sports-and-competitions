@@ -18,6 +18,6 @@ The event descends directly from ranch work, where a cowboy roped and tied a cal
 
 ## Important Links
 
-- [Team roping](team-roping.html) and [Steer wrestling](steer-wrestling.html) \u2014 rodeo's other timed cattle events, on this site
-- [Bull riding](bull-riding.html) \u2014 the roughstock classic, on this site
-- The trained roping horse and the pigging string \u2014 the event's two essential partners, on this site
+- [Team roping](team-roping.html) and [Steer wrestling](steer-wrestling.html) — rodeo's other timed cattle events, on this site
+- [Bull riding](bull-riding.html) — the roughstock classic, on this site
+- The trained roping horse and the pigging string — the event's two essential partners, on this site

@@ -18,6 +18,6 @@ The elimination format grew out of novelty miss-and-out races run on American an
 
 ## Important Links
 
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Scratch race](track-cycling-scratch-race.html) and [Points race](track-cycling-points-race.html) \u2014 the other bunch-race disciplines, on this site
-- [Omnium](track-cycling-omnium.html) \u2014 the all-round event that includes it, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Scratch race](track-cycling-scratch-race.html) and [Points race](track-cycling-points-race.html) — the other bunch-race disciplines, on this site
+- [Omnium](track-cycling-omnium.html) — the all-round event that includes it, on this site

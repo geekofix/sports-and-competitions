@@ -18,6 +18,6 @@ Street luge grew out of southern California skateboard culture of the 1970s, whe
 
 ## Important Links
 
-- [Slalom skateboarding](slalom-skateboarding.html) \u2014 downhill skateboarding's conical cousin, on this site
-- [Luge](luge.html) and [Skeleton](skeleton.html) \u2014 the ice-track cousins of the road luge, on this site
-- The IGSA and IDF downhill calendars \u2014 where street luge races today, on this site
+- [Slalom skateboarding](slalom-skateboarding.html) — downhill skateboarding's conical cousin, on this site
+- [Luge](luge.html) and [Skeleton](skeleton.html) — the ice-track cousins of the road luge, on this site
+- The IGSA and IDF downhill calendars — where street luge races today, on this site

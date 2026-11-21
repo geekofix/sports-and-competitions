@@ -16,6 +16,6 @@ Trail orienteering was formalized in the 1990s as an orienteering discipline emp
 - Orienteering USA. (n.d.). *TrailO resources*. Retrieved November 21, 2026, from https://orienteeringusa.org/
 
 ## Important Links
-- [Ski orienteering](ski-orienteering.html) \u2014 the winter branch of the map sport, on this site
-- [Foot orienteering](orienteering.html) \u2014 the classic running form of the discipline, on this site
-- Accessibility and para sport in orienteering \u2014 the heart of TrailO, on this site
+- [Ski orienteering](ski-orienteering.html) — the winter branch of the map sport, on this site
+- [Foot orienteering](orienteering.html) — the classic running form of the discipline, on this site
+- Accessibility and para sport in orienteering — the heart of TrailO, on this site

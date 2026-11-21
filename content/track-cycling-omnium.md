@@ -16,6 +16,6 @@ The omnium (an old English racing word for an event open to all) was standardize
 - Wikipedia. (n.d.). *Omnium (cycling)*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Omnium_(cycling)
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Scratch race](track-cycling-scratch-race.html), [Elimination race](track-cycling-elimination-race.html) and [Points race](track-cycling-points-race.html) \u2014 the events that build the omnium, on this site
-- The omnium's all-round champions \u2014 the event's winning tradition, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Scratch race](track-cycling-scratch-race.html), [Elimination race](track-cycling-elimination-race.html) and [Points race](track-cycling-points-race.html) — the events that build the omnium, on this site
+- The omnium's all-round champions — the event's winning tradition, on this site

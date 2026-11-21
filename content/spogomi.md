@@ -18,6 +18,6 @@ Spogomi was invented in Japan in 2008 by runner Kenichi Mamitsuka, who turned pi
 
 ## Important Links
 
-- The Spogomi World Cup and its qualifying rounds \u2014 the sport's world championship, on this site
-- Street and park clean-up events built on the spogomi rules \u2014 community competition formats, on this site
-- The Nippon Foundation's Ocean and Japan project \u2014 the environmental mission behind the game, on this site
+- The Spogomi World Cup and its qualifying rounds — the sport's world championship, on this site
+- Street and park clean-up events built on the spogomi rules — community competition formats, on this site
+- The Nippon Foundation's Ocean and Japan project — the environmental mission behind the game, on this site

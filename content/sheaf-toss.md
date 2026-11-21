@@ -1,6 +1,6 @@
 ## Basic Information
 
-The sheaf toss is a Scottish heavy events discipline in which a competitor pitches a stuffed burlap bag \u2014 the sheaf, traditionally about 16 or 20 pounds of straw, hay or twine \u2014 over a horizontal bar with a pitchfork. It is contested at Highland Games throughout Scotland and the Scottish diaspora, usually alongside the caber toss, stone put and hammer throws, and is one of the standard field events of Highland Games athletics. Like the other heavy events it descends from agricultural work contests \u2014 in this case tossing hay sheaves up onto a rick or wagon \u2014 and today it is governed by the rules of the individual Highland Games associations.
+The sheaf toss is a Scottish heavy events discipline in which a competitor pitches a stuffed burlap bag — the sheaf, traditionally about 16 or 20 pounds of straw, hay or twine — over a horizontal bar with a pitchfork. It is contested at Highland Games throughout Scotland and the Scottish diaspora, usually alongside the caber toss, stone put and hammer throws, and is one of the standard field events of Highland Games athletics. Like the other heavy events it descends from agricultural work contests — in this case tossing hay sheaves up onto a rick or wagon — and today it is governed by the rules of the individual Highland Games associations.
 
 ## Rules
 
@@ -8,7 +8,7 @@ The sheaf is a burlap or hessian bag stuffed with materials such as straw, hemp,
 
 ## History
 
-The sheaf toss comes from the farming countryside of Scotland, where tossing hay sheaves with a pitchfork onto a rick or wagon cart was ordinary harvest labour turned into contest. The event was adopted into the professional Highland Games circuit of the nineteenth century and travelled with Scottish emigrants to North America, Australia and New Zealand, where it remains a fixture of Highland Games and of some agricultural fairs. Modern elite competition has pushed the heights far past anything practical on a farm: world-class performers have cleared the 20-pound sheaf at around 11 metres, and the best 16-pound marks reach roughly 13 metres. The sheaf toss is also one of the few heavy events to have crossed into other festival traditions \u2014 it is contested at some Basque rural sports displays as related sheaf-throwing games, a reminder of how common the underlying farm task once was.
+The sheaf toss comes from the farming countryside of Scotland, where tossing hay sheaves with a pitchfork onto a rick or wagon cart was ordinary harvest labour turned into contest. The event was adopted into the professional Highland Games circuit of the nineteenth century and travelled with Scottish emigrants to North America, Australia and New Zealand, where it remains a fixture of Highland Games and of some agricultural fairs. Modern elite competition has pushed the heights far past anything practical on a farm: world-class performers have cleared the 20-pound sheaf at around 11 metres, and the best 16-pound marks reach roughly 13 metres. The sheaf toss is also one of the few heavy events to have crossed into other festival traditions — it is contested at some Basque rural sports displays as related sheaf-throwing games, a reminder of how common the underlying farm task once was.
 
 ## Sources
 
@@ -19,5 +19,5 @@ The sheaf toss comes from the farming countryside of Scotland, where tossing hay
 
 ## Important Links
 
-- Scottish Heavy Athletics and SHGA \u2014 official rules and event calendar
-- [Caber toss](caber-toss.html), [Stone put](stone-put.html) and [Scottish hammer throw](scottish-hammer-throw.html) \u2014 the companion heavy events, on this site
+- Scottish Heavy Athletics and SHGA — official rules and event calendar
+- [Caber toss](caber-toss.html), [Stone put](stone-put.html) and [Scottish hammer throw](scottish-hammer-throw.html) — the companion heavy events, on this site

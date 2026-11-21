@@ -29,7 +29,6 @@
 | Alpine Skiing Super-G                      | https://www.youtube.com/results?search_query=alpine+skiing+super-g                      |
 | American Football                          | https://www.youtube.com/results?search_query=american+football                          |
 | Amputee Football                           | https://www.youtube.com/results?search_query=amputee+football                           |
-| Apopudobalia                               | https://www.youtube.com/results?search_query=apopudobalia                               |
 | Aquathlon                                  | https://www.youtube.com/results?search_query=aquathlon                                  |
 | Archery                                    | https://www.youtube.com/results?search_query=archery                                    |
 | Areca Nut Tree Climbing                    | https://www.youtube.com/results?search_query=areca+nut+tree+climbing                    |
@@ -614,7 +613,6 @@
 | Slippery Stairs                            | https://www.youtube.com/results?search_query=slippery+stairs                            |
 | Slowpitch Softball                         | https://www.youtube.com/results?search_query=slowpitch+softball                         |
 | Snail Racing                               | https://www.youtube.com/results?search_query=snail+racing                               |
-| Snake Racing                               | https://www.youtube.com/results?search_query=snake+racing                               |
 | Snooker                                    | https://www.youtube.com/results?search_query=snooker                                    |
 | Snooker Plus                               | https://www.youtube.com/results?search_query=snooker+plus                               |
 | Snow Rugby                                 | https://www.youtube.com/results?search_query=snow+rugby                                 |
@@ -731,7 +729,6 @@
 | Tricking                                   | https://www.youtube.com/results?search_query=tricking                                   |
 | Tricklining                                | https://www.youtube.com/results?search_query=tricklining                                |
 | Tug of War                                 | https://www.youtube.com/results?search_query=tug+of+war                                 |
-| Tukhtarmigan                               | https://www.youtube.com/results?search_query=tukhtarmigan                               |
 | Tumbling                                   | https://www.youtube.com/results?search_query=tumbling                                   |
 | Tuna Throwing                              | https://www.youtube.com/results?search_query=tuna+throwing                              |
 | Turkey Bowling                             | https://www.youtube.com/results?search_query=turkey+bowling                             |

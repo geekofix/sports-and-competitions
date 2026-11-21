@@ -18,6 +18,6 @@ Sumo's origins go back well over a thousand years: ritual strength contests appe
 
 ## Important Links
 
-- [Ssireum](ssireum.html), [Shuai jiao](shuai-jiao.html) and [Bokh](bokh.html) \u2014 the great wrestling cousins of Asia, on this site
-- [Strongman](strongman.html) \u2014 another sport where mass, power and technique meet, on this site
-- The basho calendar and the banzuke rankings \u2014 the twin structures of professional sumo, on this site
+- [Ssireum](ssireum.html), [Shuai jiao](shuai-jiao.html) and [Bokh](bokh.html) — the great wrestling cousins of Asia, on this site
+- [Strongman](strongman.html) — another sport where mass, power and technique meet, on this site
+- The basho calendar and the banzuke rankings — the twin structures of professional sumo, on this site

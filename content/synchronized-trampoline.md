@@ -18,6 +18,6 @@ Trampoline gymnastics was invented by George Nissen in the 1930s, developed as a
 
 ## Important Links
 
-- [Trampoline](trampoline.html), [Trampoline gymnastics](trampoline-gymnastics.html) and [Double mini trampoline](double-mini-trampoline.html) \u2014 the other trampoline disciplines, on this site
-- [Artistic swimming](artistic-swimming.html) \u2014 another judged duet sport of unison, on this site
-- The FIG world championships and Olympic trampoline \u2014 the discipline's competitive ladder, on this site
+- [Trampoline](trampoline.html), [Trampoline gymnastics](trampoline-gymnastics.html) and [Double mini trampoline](double-mini-trampoline.html) — the other trampoline disciplines, on this site
+- [Artistic swimming](artistic-swimming.html) — another judged duet sport of unison, on this site
+- The FIG world championships and Olympic trampoline — the discipline's competitive ladder, on this site

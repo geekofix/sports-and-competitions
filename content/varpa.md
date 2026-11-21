@@ -16,6 +16,6 @@ Varpa descends from ancient throwing games played across the Baltic and Fennosca
 - Visit Gotland. (n.d.). *Gotland's traditional games*. Retrieved November 21, 2026, from https://www.gotland.net/
 
 ## Important Links
-- The boules and precision-throwing family \u2014 cousin games across Europe, on this site
-- Gotland's folk sport calendar and the island championship \u2014 varpa's home, on this site
-- [Table shuffleboard](table-shuffleboard.html) \u2014 another precision target-sliding game, on this site
+- The boules and precision-throwing family — cousin games across Europe, on this site
+- Gotland's folk sport calendar and the island championship — varpa's home, on this site
+- [Table shuffleboard](table-shuffleboard.html) — another precision target-sliding game, on this site

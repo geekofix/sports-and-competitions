@@ -16,6 +16,6 @@ The trampoline was invented in the 1930s by the American gymnasts George Nissen 
 - Wikipedia. (n.d.). *Trampoline and trampolining*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Trampoline
 
 ## Important Links
-- [Trampoline gymnastics](trampoline-gymnastics.html) and [Synchronized trampoline](synchronized-trampoline.html) and [Double mini trampoline](double-mini-trampoline.html) \u2014 the sport's siblings, on this site
-- [Trampoline dodgeball](trampoline-dodgeball.html) \u2014 the rebound-based team game, on this site
-- The Olympic trampoline story and its world championships \u2014 the sport's competitive ladder, on this site
+- [Trampoline gymnastics](trampoline-gymnastics.html) and [Synchronized trampoline](synchronized-trampoline.html) and [Double mini trampoline](double-mini-trampoline.html) — the sport's siblings, on this site
+- [Trampoline dodgeball](trampoline-dodgeball.html) — the rebound-based team game, on this site
+- The Olympic trampoline story and its world championships — the sport's competitive ladder, on this site

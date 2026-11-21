@@ -1,10 +1,10 @@
 ## Basic Information
 
-Skyrunning is mountain running in the thin air above 2,000 metres: a sport of racing up and along high mountain terrain where the incline exceeds 30 percent and the climbing difficulty stays below II grade UIAA \u2014 "less cloud, more sky". Founded by Italian mountaineer Marino Giacometti in the early 1990s and governed by the International Skyrunning Federation (ISF) since 2008, its disciplines range from the short, brutally steep Vertical Kilometer to the SkyRace and SkyMarathon, and it counts hundreds of thousands of participants across some 65\u201390 countries.
+Skyrunning is mountain running in the thin air above 2,000 metres: a sport of racing up and along high mountain terrain where the incline exceeds 30 percent and the climbing difficulty stays below II grade UIAA — "less cloud, more sky". Founded by Italian mountaineer Marino Giacometti in the early 1990s and governed by the International Skyrunning Federation (ISF) since 2008, its disciplines range from the short, brutally steep Vertical Kilometer to the SkyRace and SkyMarathon, and it counts hundreds of thousands of participants across some 65\u201390 countries.
 
 ## Rules
 
-The ISF defines skyrunning as running in mountains above 2,000 m altitude, with a minimum average incline of 6 percent over the total distance, at least 5 percent of the course over 30 percent incline, and climbing difficulty not exceeding II grade \u2014 poles, crampons and hands may be used to aid progress. The main disciplines are set by distance and vertical climb: Vertical races climb 1,000 m vertical over no more than 5 km (average incline of at least 20 percent), Sky races cover 20\u201349 km with at least 1,200\u20131,300 m climb, and SkyUltra races 50\u201399 km with 3,000 m-plus climb; short SkySpeed sprints cover 100 m vertical at 33 percent-plus grades, and stair-climbing (skyscraper) races over 45 percent grades form the indoor branch. Mandatory equipment \u2014 windproof jacket, thermals, trail shoes \u2014 is enforced in the longer formats, courses must contain no more than about 15 percent asphalt, and results are decided on fastest finishing time along marked courses. The season is structured around the Skyrunner World Series (annual world cup, launched 2004), biennial skyrunning world championships in the SKY, SKYULTRA and VERTICAL categories, and continental championships.
+The ISF defines skyrunning as running in mountains above 2,000 m altitude, with a minimum average incline of 6 percent over the total distance, at least 5 percent of the course over 30 percent incline, and climbing difficulty not exceeding II grade — poles, crampons and hands may be used to aid progress. The main disciplines are set by distance and vertical climb: Vertical races climb 1,000 m vertical over no more than 5 km (average incline of at least 20 percent), Sky races cover 20\u201349 km with at least 1,200\u20131,300 m climb, and SkyUltra races 50\u201399 km with 3,000 m-plus climb; short SkySpeed sprints cover 100 m vertical at 33 percent-plus grades, and stair-climbing (skyscraper) races over 45 percent grades form the indoor branch. Mandatory equipment — windproof jacket, thermals, trail shoes — is enforced in the longer formats, courses must contain no more than about 15 percent asphalt, and results are decided on fastest finishing time along marked courses. The season is structured around the Skyrunner World Series (annual world cup, launched 2004), biennial skyrunning world championships in the SKY, SKYULTRA and VERTICAL categories, and continental championships.
 
 ## History
 
@@ -17,6 +17,6 @@ Skyrunning's founding myth was the quest to reach the highest peaks in the short
 
 ## Important Links
 
-- ISF \u2014 rules, disciplines and race calendar
-- [Skyscraper running](skyscraper-running.html) \u2014 the indoor/vertical branch of the sport, on this site
-- [Orienteering](orienteering.html) and [Rogaining](rogaining.html) \u2014 other on-foot mountain navigation sports, on this site
+- ISF — rules, disciplines and race calendar
+- [Skyscraper running](skyscraper-running.html) — the indoor/vertical branch of the sport, on this site
+- [Orienteering](orienteering.html) and [Rogaining](rogaining.html) — other on-foot mountain navigation sports, on this site

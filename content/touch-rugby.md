@@ -17,6 +17,6 @@ Touch began in Australia in the 1960s as a training and schoolyard derivative of
 
 ## Important Links
 
-- [Tag rugby](tag-rugby.html) and [Rugby sevens](rugby-sevens.html) \u2014 the other forms of the rugby family, on this site
-- [Walking rugby](walking-rugby.html) \u2014 the low-impact form of the game, on this site
-- The touch world cup and national leagues \u2014 the sport's competitive structure, on this site
+- [Tag rugby](tag-rugby.html) and [Rugby sevens](rugby-sevens.html) — the other forms of the rugby family, on this site
+- [Walking rugby](walking-rugby.html) — the low-impact form of the game, on this site
+- The touch world cup and national leagues — the sport's competitive structure, on this site

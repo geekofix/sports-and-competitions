@@ -18,6 +18,6 @@ Test cricket began in 1877, when an England side met a combined Australian XI at
 
 ## Important Links
 
-- [Cricket](cricket.html) \u2014 the parent game and its formats, on this site
-- [Stoolball](stoolball.html) \u2014 the English bat-and-ball tradition that fed cricket, on this site
-- The World Test Championship and the Ashes \u2014 the format's twin institutions, on this site
+- [Cricket](cricket.html) — the parent game and its formats, on this site
+- [Stoolball](stoolball.html) — the English bat-and-ball tradition that fed cricket, on this site
+- The World Test Championship and the Ashes — the format's twin institutions, on this site

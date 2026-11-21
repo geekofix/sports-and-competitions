@@ -16,6 +16,6 @@ Triathlon traces its modern birth to San Diego in 1974 (the first Mission Bay ev
 - Wikipedia. (n.d.). *Triathlon*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Triathlon
 
 ## Important Links
-- [Swimrun](swimrun.html) and [Winter triathlon](winter-triathlon.html) \u2014 triathlon's multisport cousins, on this site
-- [Swimming](swimming.html) and [Track cycling](track-cycling.html) \u2014 two of the three disciplines, on this site
-- The Olympic distance, Ironman and the mixed relay \u2014 the sport's headline formats, on this site
+- [Swimrun](swimrun.html) and [Winter triathlon](winter-triathlon.html) — triathlon's multisport cousins, on this site
+- [Swimming](swimming.html) and [Track cycling](track-cycling.html) — two of the three disciplines, on this site
+- The Olympic distance, Ironman and the mixed relay — the sport's headline formats, on this site

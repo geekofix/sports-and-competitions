@@ -16,6 +16,6 @@ The Madison descends from the two-man competition format of early twentieth-cent
 - Olympics. (n.d.). *Track cycling events*. Retrieved November 21, 2026, from https://www.olympics.com/sports/track-cycling
 
 ## Important Links
-- [Track cycling](track-cycling.html) \u2014 the parent velodrome sport, on this site
-- [Points race](track-cycling-points-race.html) \u2014 the other points-scored endurance format, on this site
-- Six-day racing and the Madison's history \u2014 the event's origin, on this site
+- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
+- [Points race](track-cycling-points-race.html) — the other points-scored endurance format, on this site
+- Six-day racing and the Madison's history — the event's origin, on this site
