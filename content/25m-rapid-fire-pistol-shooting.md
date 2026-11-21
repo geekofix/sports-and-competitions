@@ -16,7 +16,11 @@ Under ISSF rules shooters use a .22 Long Rifle (5.6 mm) rimfire semi-automatic p
 
 At major championships, the six best shooters qualify for the final. The final is shot as additional 4-second five-shot series scored as hit-or-miss: any shot scoring 9.7 or above counts as one hit, which corresponds to a circle of 124 mm diameter on the target, and everything below scores as a miss; the lowest shooter is eliminated after each series from the fourth series onward, which builds the decisive drama of the event (International Olympic Committee [IOC], n.d.).
 
-The historical gender rule is the defining classification difference of this discipline: rapid fire pistol is a men's event on the Olympic and world championship program, with a men's junior event below it, while women and women juniors contest the 25m pistol event — a discipline combining a precision stage and a rapid-fire stage on the same target distance (ISSF, 2023; IOC, n.d.). Older rules editions used different string times in qualification, so national or historical competitions can differ from the Olympic format; the classic rules also permit only one claimed malfunction per 30-shot stage and penalize fired double shots per target exposure (ISSF, 2023).
+The historical gender rule is the defining classification difference of this discipline: rapid fire pistol is a men's event on the Olympic and world championship program, with a men's junior event below it, while women and women juniors contest the 25m pistol event — a discipline combining a precision stage and a rapid-fire stage on the same target distance (ISSF, 2023; IOC, n.d.).
+
+![Elizabeth Callahan competing in the women's 25-meter sport pistol at the Beijing 2008 Olympic Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Elizabeth_Callahan,_women%27s_25-meter_sport_pistol_shooting.jpg?width=880)
+
+*Figure: Hipps, T. (U.S. Army). (2008, August 13). Elizabeth Callahan competing in the women's 25-meter sport pistol, the women's counterpart event, at the Beijing 2008 Olympic Games [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Elizabeth_Callahan,_women%27s_25-meter_sport_pistol_shooting.jpg* Older rules editions used different string times in qualification, so national or historical competitions can differ from the Olympic format; the classic rules also permit only one claimed malfunction per 30-shot stage and penalize fired double shots per target exposure (ISSF, 2023).
 
 ## History
 
@@ -34,6 +38,7 @@ Germany's Ralf Schumann is widely considered the greatest rapid fire shooter of 
 
 ### Figure Index
 
+- Hipps, T. (U.S. Army). (2008, August 13). *Elizabeth Callahan competing in the women's 25-meter sport pistol at the Beijing 2008 Olympic Games* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Elizabeth_Callahan,_women%27s_25-meter_sport_pistol_shooting.jpg (Public domain)
 - U.S. Army (photo: T. Hipps). (2016, August 12). *Sgt. 1st Class Keith Sanderson shooting the men's 25 m rapid fire pistol event at the Rio 2016 Olympic Games* [Photograph]. Via Flickr, Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Sanderson_shoots_rapid_fire_pistol_at_Rio_Games_(28942526245).jpg (CC BY 2.0)
 
 ## Important Links

@@ -8,6 +8,10 @@ Under ISSF rules the rifle is a compressed-air or gas rifle in 4.5 mm (.177) cal
 
 As in 10m air pistol, the 2018 rules revision ended the historical gender difference: the women's qualification was expanded from 40 to the identical 60-shot program, so men and women now shoot the same course of fire (ISSF, 2023). Juniors shoot the same 60-shot program in their own junior events, with dedicated team competitions as well. Clothing and rifle supports are strictly limited in the standing position — no slings are allowed, and thick, stiff shooting clothing is restricted in this event so that the full stability demand remains on the athlete.
 
+![View down the range during the women's 10 m air rifle at the Rio 2016 Olympic Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Shooting_at_the_2016_Olympics_%E2%80%93_Women%27s_10_metre_air_rifle_%28cropped%29.jpg?width=700)
+
+*Figure: Nikpour, J. / Tasnim News Agency. (2016, August 6). The shooting range during the women's 10 m air rifle at the Rio 2016 Olympic Games [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Shooting_at_the_2016_Olympics_%E2%80%93_Women%27s_10_metre_air_rifle_(cropped).jpg*
+
 ![Spc. Dan Lowe competing in the 10 m air rifle event at the Rio 2016 Olympic Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spc._Dan_Lowe_Rio_Olympic_Games_air_rifle_%2828255502153%29.jpg?width=880)
 
 *Figure: U.S. Army. (2016, August 8). Spc. Dan Lowe competing in the 10 m air rifle event at the Rio 2016 Olympic Games [Photograph]. Via Flickr, Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Spc._Dan_Lowe_Rio_Olympic_Games_air_rifle_(28255502153).jpg*
@@ -33,6 +37,7 @@ Abhinav Bindra of India won India's first individual Olympic gold medal in this 
 
 ### Figure Index
 
+- Nikpour, J. / Tasnim News Agency. (2016, August 6). *The shooting range during the women's 10 m air rifle at the Rio 2016 Olympic Games* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Shooting_at_the_2016_Olympics_%E2%80%93_Women%27s_10_metre_air_rifle_(cropped).jpg (CC BY 4.0)
 - U.S. Army. (2016, August 8). *Spc. Dan Lowe competing in the 10 m air rifle event at the Rio 2016 Olympic Games* [Photograph]. Via Flickr, Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Spc._Dan_Lowe_Rio_Olympic_Games_air_rifle_(28255502153).jpg (CC BY 2.0)
 
 ## Important Links

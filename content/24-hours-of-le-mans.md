@@ -8,6 +8,10 @@ The race runs for exactly 24 hours from a Saturday afternoon start; the winner i
 
 Each car is crewed by a team of drivers (three in the top classes) who share the driving in stints. The regulations deliberately cap driving loads to keep fatigue and risk low: a single stint is limited to a maximum of 240 minutes at the wheel, no driver may drive more than 14 hours in total across the race, and in LMP2 and LMGT3 the amateur Bronze and Silver-rated drivers must each drive at least six hours, while any driver must complete at least 60 minutes to score championship points (Porsche, n.d.; DailySportcar, 2025). There are no gender-specific rules: classifications are skill-based, with the FIA grading every driver from Bronze through Silver, Gold and Platinum, and female crews such as the Iron Dames squad have competed in the GT class.
 
+![The Iron Dames Lamborghini Huracan LMGT3 Evo2 in action at Le Mans](https://commons.wikimedia.org/wiki/Special:Redirect/file/Iron_Dames_-_Lamborghini_Huracan_LMGT3_Evo2_-85_%2853814566497%29.jpg?width=900)
+
+*Figure: Decherf, K. (2024, June 12). The Iron Dames Lamborghini Huracan LMGT3 Evo2 of drivers S. Bovy, M. Gatting and R. Frey at the 2024 24 Hours of Le Mans [Photograph]. Via Flickr, Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Iron_Dames_-_Lamborghini_Huracan_LMGT3_Evo2_-85_(53814566497).jpg*
+
 Refueling, tire changes and repairs are only allowed in the pits, and work on the car during refueling is restricted by procedure rules. Grid positions are set in qualifying sessions followed by the timed Hyperpole shootouts for the fastest cars in each class (DailySportcar, 2025). To be classified, a car must cross the finish line under its own power after the 24 hours, and only cars completing a set percentage of the winner's distance are classified in the results (ACO, 2025).
 
 Variants: sprint races in the Le Mans Cup series and historic eras such as Group C ran under different technical regulations, and the 24 Hours of Le Mans motorcycle race, the 24 Heures Moto, follows its own rulebook on the same circuit.
@@ -33,6 +37,7 @@ The manufacturer eras came in waves: Bentley and Alfa Romeo dominated the interw
 
 ### Figure Index
 
+- Decherf, K. (2024, June 12). *The Iron Dames Lamborghini Huracan LMGT3 Evo2 of drivers S. Bovy, M. Gatting and R. Frey at the 2024 24 Hours of Le Mans* [Photograph]. Via Flickr, Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Iron_Dames_-_Lamborghini_Huracan_LMGT3_Evo2_-85_(53814566497).jpg (CC BY-SA 2.0)
 - Wolkenjaeger. (2023, June 10). *The race-winning Ferrari 499P Hybrid during the 2023 24 Hours of Le Mans* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Ferrari_499P_-_Hybrid,_2023.jpg (CC BY-SA 4.0)
 
 ## Important Links

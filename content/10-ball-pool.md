@@ -22,11 +22,15 @@ The diagrams above show the table geometry — pockets set into the rails, diamo
 
 10-ball grew out of 9-ball in the United States in the mid-20th century as a way to reduce the influence of luck: because every ball except the break must be called, "fluke" successes on a lucky roll do not decide racks the way they can in 9-ball. The game became a staple of professional pool in the 1990s and 2000s, when dedicated 10-ball tournaments attracted some of the largest fields in the sport, and the WPA added 10-ball to its list of sanctioned world championships (WPA, n.d.).
 
-The World Pool-Billiard Association itself was founded in 1987 as the international governing body for pool, with continental confederations — such as the European Pocket Billiard Federation (EPBF), which has run the European Championships since 1980, and the Asian Confederation of Billiard Sports (ACBS) for Asia — grouping the national federations (European Pocket Billiard Federation [EPBF], n.d.; WPA, n.d.). Today 10-ball features on the biggest professional stages, including major world championship and invitation events promoted by Matchroom Pool (Matchroom Pool, n.d.). Among the best-known players of the era are Shane Van Boening, Dennis Orcullo and Carlo Biado.
+The World Pool-Billiard Association itself was founded in 1987 as the international governing body for pool, with continental confederations — such as the European Pocket Billiard Federation (EPBF), which has run the European Championships since 1980, and the Asian Confederation of Billiard Sports (ACBS) for Asia — grouping the national federations (European Pocket Billiard Federation [EPBF], n.d.; WPA, n.d.). Today 10-ball features on the biggest professional stages, including major world championship and invitation events promoted by Matchroom Pool (Matchroom Pool, n.d.). Among the best-known players of the era are Shane Van Boening, Dennis Orcullo and Carlo Biado. On the women's side, the WPA sanctions the Women's World Ten-ball Championship (WPA, n.d.): Rubilen Amit of the Philippines won the inaugural title in 2009 and became the first two-time women's world ten-ball champion in 2013, South Korea's Ga-Young Kim won in 2012, and the Philippines' Chezka Centeno has taken the title twice in recent years.
 
 ![Shane Van Boening at the table](https://commons.wikimedia.org/wiki/Special:Redirect/file/Shane_Van_Boening.JPG?width=360)
 
 *Figure: RailbirdJAM. (2007, June 12). Pool player Shane Van Boening [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Shane_Van_Boening.JPG*
+
+![Ga-Young Kim of South Korea, women's world ten-ball champion 2012](https://commons.wikimedia.org/wiki/Special:Redirect/file/Kim_Ga-young_2013-1.jpg?width=880)
+
+*Figure: Jung, Y. H. (U.S. Army). (2013, December 20). Ga-Young Kim, women's world ten-ball champion 2012, playing an exhibition game [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Kim_Ga-young_2013-1.jpg*
 
 ## Sources
 
@@ -38,6 +42,7 @@ The World Pool-Billiard Association itself was founded in 1987 as the internatio
 
 ### Figure Index
 
+- Jung, Y. H. (U.S. Army). (2013, December 20). *Ga-Young Kim, women's world ten-ball champion 2012, playing an exhibition game* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Kim_Ga-young_2013-1.jpg (Public domain)
 - RailbirdJAM. (2007, June 12). *Pool player Shane Van Boening* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Shane_Van_Boening.JPG (Public domain)
 - SMcCandlish. (2008, February 18). *Ten-ball rack, one of many valid racks* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Ten-ball_rack.jpg (CC BY-SA 4.0)
 
