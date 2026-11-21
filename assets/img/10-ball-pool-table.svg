@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">10-ball pool table (top view)</title>
+  <desc id="desc">Schematic top view of a 9-foot pool table with six pockets, 18 diamond sights, the head string and the ten-ball rack on the foot spot. Illustrative schematic, not to scale.</desc>
+  <rect x="0" y="0" width="1000" height="560" fill="#f4f1ea"/>
+  <!-- rail frame -->
+  <rect x="10" y="10" width="980" height="540" fill="#5b3a24" stroke="#3b2415" stroke-width="3"/>
+  <!-- playing surface 100 in x 50 in, scale 9 px per inch -->
+  <rect x="50" y="50" width="900" height="450" fill="#1e7d4f" stroke="#0d3b25" stroke-width="2"/>
+  <!-- head string (quarter of table length from head rail) -->
+  <line x1="275" y1="50" x2="275" y2="500" stroke="#ffffff" stroke-width="2" stroke-dasharray="8 6" opacity="0.7"/>
+  <text x="275" y="520" fill="#5b3a24" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">HEAD STRING</text>
+  <text x="163" y="290" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" opacity="0.85" text-anchor="middle">kitchen (break from here)</text>
+  <!-- head spot and foot spot -->
+  <circle cx="275" cy="275" r="4" fill="#ffffff"/>
+  <circle cx="725" cy="275" r="4" fill="#ffffff"/>
+  <text x="725" y="30" fill="#5b3a24" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">FOOT SPOT</text>
+  <!-- pockets, slightly enlarged for clarity -->
+  <circle cx="52" cy="52" r="22" fill="#111111"/>
+  <circle cx="948" cy="52" r="22" fill="#111111"/>
+  <circle cx="52" cy="448" r="22" fill="#111111"/>
+  <circle cx="948" cy="448" r="22" fill="#111111"/>
+  <circle cx="500" cy="46" r="22" fill="#111111"/>
+  <circle cx="500" cy="454" r="22" fill="#111111"/>
+  <!-- diamond sights: 3 on each short rail, 6 on each long rail -->
+  <g fill="#f4f1ea" stroke="#3b2415" stroke-width="1">
+    <circle cx="50" cy="162.5" r="5"/><circle cx="50" cy="275" r="5"/><circle cx="50" cy="387.5" r="5"/>
+    <circle cx="950" cy="162.5" r="5"/><circle cx="950" cy="275" r="5"/><circle cx="950" cy="387.5" r="5"/>
+    <circle cx="162.5" cy="50" r="5"/><circle cx="275" cy="50" r="5"/><circle cx="387.5" cy="50" r="5"/>
+    <circle cx="612.5" cy="50" r="5"/><circle cx="725" cy="50" r="5"/><circle cx="837.5" cy="50" r="5"/>
+    <circle cx="162.5" cy="500" r="5"/><circle cx="275" cy="500" r="5"/><circle cx="387.5" cy="500" r="5"/>
+    <circle cx="612.5" cy="500" r="5"/><circle cx="725" cy="500" r="5"/><circle cx="837.5" cy="500" r="5"/>
+  </g>
+  <!-- ten-ball rack on the foot spot: 1 at the apex, 10 in the middle of the third row -->
+  <g stroke="#0d3b25" stroke-width="1.5">
+    <!-- row 1 -->
+    <circle cx="743" cy="275" r="8" fill="#f5c518"/>
+    <!-- row 2 -->
+    <circle cx="757" cy="267" r="8" fill="#3366cc"/>
+    <circle cx="757" cy="283" r="8" fill="#cc3333"/>
+    <!-- row 3, middle ball is the ten-ball (striped) -->
+    <circle cx="771" cy="259" r="8" fill="#22aa44"/>
+    <circle cx="771" cy="275" r="8" fill="#ffffff"/>
+    <circle cx="771" cy="275" r="5" fill="none" stroke="#cc8800" stroke-width="3"/>
+    <circle cx="771" cy="291" r="8" fill="#8844aa"/>
+    <!-- row 4 -->
+    <circle cx="785" cy="251" r="8" fill="#444444"/>
+    <circle cx="785" cy="267" r="8" fill="#cc7700"/>
+    <circle cx="785" cy="283" r="8" fill="#cc3399"/>
+    <circle cx="785" cy="299" r="8" fill="#3366aa"/>
+  </g>
+  <text x="771" y="238" fill="#5b3a24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">10-BALL RACK</text>
+  <!-- rail labels -->
+  <text x="30" y="280" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="rotate(-90 30 280)">HEAD END</text>
+  <text x="970" y="252" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="rotate(90 970 252)">FOOT END</text>
+  <text x="977" y="292" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" transform="rotate(90 984 280)">9-ft table, playing surface approx. 254 cm x 127 cm; balls 57.15 mm</text>
+</svg>

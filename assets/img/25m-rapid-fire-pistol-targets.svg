@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" role="img" aria-labelledby="title desc">
+  <title id="title">25 m rapid fire pistol targets and series timing</title>
+  <desc id="desc">Schematic front view of the five rapid fire pistol target sets placed 75 cm apart at 25 meters, and the three series times of 8, 6 and 4 seconds per five-shot string. Illustrative schematic, not to scale.</desc>
+  <rect x="0" y="0" width="1000" height="460" fill="#f4f1ea"/>
+  <text x="500" y="44" fill="#5b3a24" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">25 m Rapid Fire Pistol: five targets and series times</text>
+  <!-- five target sets, centers 75 cm apart -->
+  <g>
+    <g transform="translate(226 160)">
+      <rect x="-45" y="-78" width="90" height="156" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="12" fill="#111111"/>
+    </g>
+    <g transform="translate(351 160)">
+      <rect x="-45" y="-78" width="90" height="156" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="12" fill="#111111"/>
+    </g>
+    <g transform="translate(476 160)">
+      <rect x="-45" y="-78" width="90" height="156" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="12" fill="#111111"/>
+    </g>
+    <g transform="translate(601 160)">
+      <rect x="-45" y="-78" width="90" height="156" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="12" fill="#111111"/>
+    </g>
+    <g transform="translate(726 160)">
+      <rect x="-45" y="-78" width="90" height="156" fill="#ffffff" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="30" fill="none" stroke="#999999" stroke-width="2"/>
+      <circle cx="0" cy="0" r="12" fill="#111111"/>
+    </g>
+  </g>
+  <!-- 75 cm spacing arrows between target centers -->
+  <g stroke="#3b2415" stroke-width="2" fill="#3b2415">
+    <line x1="226" y1="268" x2="351" y2="268"/><polygon points="351,262 351,274 363,268"/>
+    <line x1="476" y1="268" x2="601" y2="268"/><polygon points="601,262 601,274 613,268"/>
+  </g>
+  <text x="288" y="290" fill="#3b2415" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">75 cm</text>
+  <text x="538" y="290" fill="#3b2415" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">75 cm</text>
+  <text x="476" y="322" fill="#5b3a24" font-family="Arial, sans-serif" font-size="17" text-anchor="middle">One shot at each target per series, one-handed, from a 45-degree ready position.</text>
+  <!-- series times band -->
+  <text x="500" y="366" fill="#5b3a24" font-family="Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="middle">Series times per 5-shot string</text>
+  <g font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
+    <rect x="240" y="382" width="130" height="46" rx="10" fill="#3366cc" stroke="#24478a" stroke-width="2"/>
+    <text x="305" y="413" fill="#ffffff">8 s</text>
+    <rect x="435" y="382" width="130" height="46" rx="10" fill="#cc7700" stroke="#8a5200" stroke-width="2"/>
+    <text x="500" y="413" fill="#ffffff">6 s</text>
+    <rect x="630" y="382" width="130" height="46" rx="10" fill="#cc3333" stroke="#8a2222" stroke-width="2"/>
+    <text x="695" y="413" fill="#ffffff">4 s</text>
+  </g>
+  <text x="500" y="450" fill="#5b3a24" font-family="Arial, sans-serif" font-size="15" text-anchor="middle">Two series at each time per stage, two stages, 60 shots in total; finals are shot as 4-second series.</text>
+</svg>
