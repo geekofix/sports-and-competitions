@@ -1,24 +1,32 @@
 ## Basic Information
 
-Arctic Sports is the traditional Inuit games circuit of the circumpolar North: explosive jumping, kicking and pulling disciplines such as the one-foot high kick, two-foot high kick, Alaskan high kick, kneel jump, sledge jump, triple jump, airplane, one hand reach, head pull, knuckle hop and arm pull. Each event derives from hunting and survival skills — high kicks mimicked the signal of a successful hunt — and rewards technique, flexibility and explosive power.
-
-Arctic Sports has featured at every Arctic Winter Games since 1974, are contested at the World Eskimo-Indian Olympics in Alaska and the Native Youth Olympics, and each discipline carries world-recognised records and ulu medals at the Games.
+Arctic sports — also called Inuit games or traditional Arctic games — are the strength, skill and endurance contests of the Indigenous peoples of the Arctic: the one-foot and two-foot high kick, the Alaskan high kick, the kneel jump, the knuckle hop, the airplane, the one-hand reach, the head pull and arm pull, the blanket toss (*nalukataq*), the ear pull, the sledge jump, the triple jump, the toe kick, the four-man carry and the "drop the bomb". They are contested at every Arctic Winter Games since 1974, at the World Eskimo-Indian Olympics (WEIO) in Fairbanks, Alaska, since 1961 — with women's events added in 1970 — and at the Native Youth Olympics; alongside them run the [Dene Games](dene-games.html) and winter sports such as [Snowshoe Biathlon](snowshoe-biathlon.html) on this site (Arctic Winter Games [AWG], n.d.-a; World Eskimo-Indian Olympics [WEIO], n.d.). Women compete in all events at the AWG and WEIO, and the legendary high-kicker Lou Lefaive of Alaska is among the most decorated athletes in the history of the games.
 
 ## Rules
 
-At the Arctic Winter Games, events for junior and open men and women judge results by distance or height: the high kicks require the athlete to kick a suspended seal-skinned target with one or both feet and land on the kicking foot (or both feet for the two-foot kick), with the target raised after each successful round until only one athlete remains. The kneel jump measures distance from a kneeling start to the landing; the knuckle hop measures distance travelled supporting the body on knuckles and toes; the airplane hold and one hand reach score time and balance, and the arm pull and head pull are paired strength duels. An all-around competition aggregates scores across disciplines.
+In the two-foot high kick, the athlete jumps with both feet together and kicks a seal-skin target suspended about 2.6–2.7 m (8.5–9 ft) above a padded platform; the target is raised after each successful kick until only one competitor remains. In the one-foot Alaskan high kick, the athlete kicks with one foot while holding the other. The blanket toss (*nalukataq*) is a team event: eight throwers toss a teammate high into the air on a sealskin blanket, and both height and a stick landing are judged. The kneel jump, knuckle hop and triple jump test explosive power and balance over measured distances, while the head pull and arm pull are pure strength contests and the ear pull tests grip and pain tolerance (AWG, n.d.-a; WEIO, n.d.).
+
+![An athlete performing a two-foot high kick at the Arctic Winter Games 2008](https://commons.wikimedia.org/wiki/Special:Redirect/file/Two-foot_high_kick.jpg?width=400)
+
+*Figure: Xander from Yellowknife, NT, Canada. (2008, March 11). Athlete performing a two-foot high kick at the Arctic Winter Games 2008 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Two-foot_high_kick.jpg*
 
 ## History
 
-The events come from Inuit hunting and celebration traditions across Alaska, northern Canada and Greenland, where kicks, hops and pulls displayed readiness for the rigours of the hunt and entertained at gatherings; the seal target of the high kick mirrors the animal itself. Competition formalized with the World Eskimo-Indian Olympics held in Alaska since 1961 and the Native Youth Olympics for school athletes, and Arctic Sports have been a medal sport of the Arctic Winter Games since the early editions (every one since 1974). Today, athletes train in school and community programmes across the North, with records advancing each Games generation.
+The games descend from the hunting and survival skills of Arctic peoples — jumping, pulling and balancing on ice and snow — and were formalized as competitions in the 20th century: the World Eskimo-Indian Olympics began in Fairbanks in 1961, with women's events added in 1970, and the Arctic Winter Games have included Arctic sports in their program since the first Games in 1970. Lou Lefaive of Alaska, a multiple high-kick world champion, is one of the most iconic athletes of the tradition (AWG, n.d.-b; WEIO, n.d.).
 
 ## Sources
 
-- Arctic Winter Games: [Arctic Sports technical package](https://arcticwintergames.net/) Retrieved November 21, 2026, from 
-- Wikipedia: [Arctic sports](https://en.wikipedia.org/wiki/Arctic_sports) Retrieved November 21, 2026, from 
+- Arctic Winter Games. (n.d.-a). *Arctic sports — events and rules*. Retrieved November 21, 2026, from https://arcticwintergames.net/
+- Arctic Winter Games. (n.d.-b). *History of the Arctic Winter Games*. Retrieved November 21, 2026, from https://arcticwintergames.net/
+- World Eskimo-Indian Olympics. (n.d.). *WEIO — events and history*. Retrieved November 21, 2026, from https://weio.org/
+
+### Figure Index
+
+- Xander from Yellowknife, NT, Canada. (2008, March 11). *Athlete performing a two-foot high kick at the Arctic Winter Games 2008* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Two-foot_high_kick.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Arctic Winter Games](arctic-winter-games.html) — the festival where Arctic Sports are contested, on this site
-- [Dene Games](dene-games.html) — the neighbouring traditional games of the Dene, on this site
-- [Snowshoe Biathlon](snowshoe-biathlon.html) — another northern winter competition, on this site
+- [Arctic Winter Games — official council](https://arcticwintergames.net/) — Arctic sports program since 1974
+- [World Eskimo-Indian Olympics (WEIO)](https://weio.org/) — Fairbanks, Alaska, since 1961
+- [Arctic Winter Games](arctic-winter-games.html) — the biennial games that host the Arctic sports, on this site
+- [Dene Games](dene-games.html) and [Snowshoe Biathlon](snowshoe-biathlon.html) — related northern games, on this site

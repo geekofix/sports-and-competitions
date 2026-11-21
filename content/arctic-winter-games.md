@@ -1,24 +1,31 @@
 ## Basic Information
 
-The Arctic Winter Games are the world's largest multisport and cultural event for the circumpolar North: a week-long festival held (largely biennially) since 1970, in which some 2,000 young athletes and cultural participants from nine contingents — Alaska, Yukon, Northwest Territories, Nunavut, Nunavik, Northern Alberta, Greenland, Sami and (historically) Yamalo-Nenets — compete and share culture.
-
-The programme blends winter staples such as alpine and cross-country skiing, biathlon, snowboarding, ice hockey, curling, volleyball, futsal, badminton and wrestling with the traditional Arctic Sports and Dene Games, and every Games closes with the Hodgson Trophy awarded for fair play and team spirit.
+The Arctic Winter Games (AWG) are a biennial multi-sport event for athletes from Arctic regions, founded in 1970 and first held in Whitehorse, Yukon; eight contingents — Alaska, Alberta North, Greenland, Northern Alberta, Northwest Territories, Nunavut, Nunavik (Quebec) and Yukon — take part. The 2026 Games were held in Whitehorse, Yukon, from March 8–15, 2026, and the 2028 Games will be held in Fairbanks, Alaska, from March 5–11, 2028 (awarded on July 31, 2026) (Arctic Winter Games [AWG], n.d.-a). The program uniquely mixes conventional winter sports — ice hockey, basketball, volleyball, cross-country skiing, snowshoe racing, biathlon — with the traditional [Arctic Sports](arctic-sports.html) and the [Dene Games](dene-games.html) on this site; the Hodgson Trophy is awarded to the contingent showing the greatest sportsmanship and fair play (AWG, n.d.-b).
 
 ## Rules
 
-Each contingent sends teams of young athletes (junior and juvenile age classes) across up to twenty sports on a Games-programme medal system with gold, silver and bronze ulus — the traditional Inuit knife shape — replacing standard medals, and the Hodgson Trophy going to the contingent that best exemplifies fair play and team spirit. Contingent eligibility follows circumpolar residence (northern regions of Canada, the United States, Greenland, Sapmi and Russia), and the International Committee adds or rotates sports per edition — archery returned in 2026 with barebow and compound classes — via published technical packages for each sport.
+Contingents register teams and athletes by region, age and gender; men and women compete in separate divisions in every sport, and youth categories run alongside the senior events. Medals are awarded per event, and the overall medal standings together with the Hodgson Trophy decide the prestige of the Games (AWG, n.d.-b).
 
 ## History
 
-The Games were founded in 1969 on the initiative of northern leaders such as Stuart Hodgson, Commissioner of the Northwest Territories, working with Alaskan and Yukon counterparts to give northern youth a Games of their own. The first Arctic Winter Games took place in 1970 in Yellowknife, and editions have rotated among Whitehorse, Fairbanks, Nuuk, Iqaluit, Fort McMurray (Wood Buffalo) and other northern hosts, growing from about 500 athletes to roughly 2,000 participants. Arctic Sports, Dene Games and dog mushing have anchored the programme's cultural identity, while the concurrent cultural gala brings dance and song from every contingent.
+The Games were founded in 1970 through the initiative of Alaska Governor Wally Hickel together with northern leaders, and the first edition was held in Whitehorse, Yukon, the same year. They have been held every two years since, with Arctic sports on the program from 1974. The 2026 edition in Whitehorse (March 8–15) brought together eight contingents, and Fairbanks, Alaska, was awarded the 2028 Games on July 31, 2026 (AWG, n.d.-a; AWG, n.d.-b).
+
+![Gold medal ice hockey match — Team Yukon vs Team Alaska, Arctic Winter Games 2008](https://commons.wikimedia.org/wiki/Special:Redirect/file/Gold_Medal_Hockey_Match_-_Arctic_Winter_Games_%28March_14,_2008%29_%282335085249%29.jpg?width=560)
+
+*Figure: Xander from Yellowknife, NT, Canada. (2008, March 14). Team Yukon and Team Alaska in the gold medal hockey match at the 2008 Arctic Winter Games — Alaska won 3–2 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Gold_Medal_Hockey_Match_-_Arctic_Winter_Games_%28March_14,_2008%29_%282335085249%29.jpg*
 
 ## Sources
 
-- Arctic Winter Games International Committee: [Games and sports](https://arcticwintergames.net/) Retrieved November 21, 2026, from 
-- Government of Canada: [Arctic Winter Games](https://www.canada.ca/en/canadian-heritage/campaigns/arctic-winter-games.html) Retrieved November 21, 2026, from 
+- Arctic Winter Games. (n.d.-a). *AWG 2026 Whitehorse and AWG 2028 Fairbanks*. Retrieved November 21, 2026, from https://awg2026.org/
+- Arctic Winter Games. (n.d.-b). *About the Arctic Winter Games — history, program, Hodgson Trophy*. Retrieved November 21, 2026, from https://arcticwintergames.net/
+
+### Figure Index
+
+- Xander from Yellowknife, NT, Canada. (2008, March 14). *Gold medal hockey match, Team Yukon vs Team Alaska (3–2), Arctic Winter Games 2008* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Gold_Medal_Hockey_Match_-_Arctic_Winter_Games_%28March_14,_2008%29_%282335085249%29.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Arctic Sports](arctic-sports.html) — the traditional Inuit events of the Games, on this site
-- [Dene Games](dene-games.html) — the traditional Dene events of the Games, on this site
-- [Biathlon](biathlon.html) — a staple winter sport of the Games, on this site
+- [Arctic Winter Games — official council](https://arcticwintergames.net/) — history, program and Hodgson Trophy
+- [AWG 2026 Whitehorse](https://awg2026.org/) — the 2026 Games, March 8–15, 2026, Yukon
+- [Arctic Sports](arctic-sports.html) and [Dene Games](dene-games.html) — traditional events on the AWG program, on this site
+- [Ice Hockey](ice-hockey.html) — the headline winter sport of the Games, on this site

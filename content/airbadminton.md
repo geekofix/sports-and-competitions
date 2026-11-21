@@ -1,21 +1,24 @@
 ## Basic Information
 
-AirBadminton is an outdoor variant of badminton launched by the Badminton World Federation (BWF) in 2019, played with a specially designed shuttlecock called the AirShuttle that is stable in wind. It can be played on grass, sand, hard courts or streets, with the same basic rules as badminton but adapted for outdoors.
+AirBadminton is the outdoor variant of badminton launched by the Badminton World Federation (BWF) together with HSBC on May 13, 2019, when BWF president Poul-Erik Høyer Larsen and Chinese star Dong Jiong unveiled the new AirShuttle shuttlecock outside the Tianhe Gymnasium in Guangzhou, China (Badminton World Federation [BWF], n.d.-a). The AirShuttle is designed to resist wind — rallies continue in winds up to 12 km/h — and can be played with normal badminton rackets on grass, sand, hard courts, beaches or streets, which makes the game playable almost anywhere (BWF, n.d.-b). Since 2025 the BWF has staged an inaugural AirBadminton World Cup, continental championships followed in 2026 — Africa in Entebbe, Uganda (September 16–19, 14 countries, more than 120 athletes) and Oceania in Brisbane (August 28–30) — and the sport will make its debut at the World Games 2029 in Karlsruhe, Germany (BWF, n.d.-a). Men and women compete in the same singles, doubles and mixed events.
 
 ## Rules
 
-AirBadminton follows standard badminton rules — rally scoring to 21 (win by 2, capped at 30), best of three games — but with outdoor adaptations: the net can be set up without fixed posts, the court dimensions can be adjusted to the available space, and the AirShuttle's design keeps rallies going in light wind. Singles and doubles are played; the BWF provides free court-marking templates and a free app for scoring.
+AirBadminton follows the Laws of Badminton — rally-point scoring to 21, win by two, capped at 30, best of three games — with outdoor adaptations. The court can be set up on any flat surface and its dimensions adjusted to the available space, with a portable net; the BWF provides free court-marking templates and a free scoring app. One distinctive outdoor rule is the dead zone: a player may not step into the opponent's dead zone to play the shuttle, but may enter it after playing the shot. Singles and doubles are both played, and the AirShuttle — with its nylon skirt — flies stably in light wind where a feather shuttle would not (BWF, n.d.-b).
 
 ## History
 
-The BWF developed AirBadminton between 2018 and 2019 to make badminton playable anywhere outdoors, and launched it worldwide in May 2019 with a global launch event in Bangkok. It is part of the BWF's strategy to grow participation beyond traditional badminton halls.
+The BWF developed AirBadminton between 2018 and 2019 as part of its strategy to grow participation beyond traditional badminton halls, and launched it worldwide in Guangzhou in May 2019. The inaugural BWF AirBadminton World Cup was held in 2025, the sport was included in the ANOC World Beach Games program, and in September 2026 its debut at the World Games 2029 in Karlsruhe was announced (BWF, n.d.-a).
 
 ## Sources
 
-- Badminton World Federation. (n.d.). *BWF — AirBadminton*. Retrieved November 20, 2026, from https://bwfbadminton.com/
-- Badminton World TV. (n.d.). *Badminton World TV*. Retrieved November 20, 2026, from https://www.badmintonworld.tv/
+- Badminton World Federation. (n.d.-a). *AirBadminton — world championships and events*. Retrieved November 21, 2026, from https://corporate.bwfbadminton.com/air-badminton/
+- Badminton World Federation. (n.d.-b). *AirBadminton rules and equipment*. Retrieved November 21, 2026, from https://development.bwfbadminton.com/airbadminton/
+- Badminton World Federation. (n.d.-c). *BWF — world governing body*. Retrieved November 21, 2026, from https://bwfbadminton.com/
 
 ## Important Links
 
-- [Badminton World Federation (BWF)](https://bwfbadminton.com/) — world governing body; official AirBadminton rules and equipment
-- [Badminton World TV](https://www.badmintonworld.tv/) — BWF's streaming and content platform
+- [BWF AirBadminton](https://corporate.bwfbadminton.com/air-badminton/) — official AirBadminton portal: launch, World Cup, continental championships
+- [BWF AirBadminton rules and equipment](https://development.bwfbadminton.com/airbadminton/) — court setups, AirShuttle specifications, free app
+- [Badminton World Federation (BWF)](https://bwfbadminton.com/) — world governing body of badminton
+- [Badminton](badminton.html) — the indoor original, on this site

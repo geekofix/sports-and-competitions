@@ -1,21 +1,46 @@
 ## Basic Information
 
-Downhill is the fastest and most spectacular alpine skiing discipline, governed by the International Ski and Snowboard Federation (FIS). Skiers race a single timed run down a steep, icy course marked with wide gates, reaching speeds over 130 km/h (80 mph). It is a core Olympic event.
+Downhill (DH) is the fastest and most spectacular alpine skiing discipline: athletes make a single timed run down a steep, icy course marked with wide gates, reaching speeds above 130 km/h (81 mph) — and up to around 160 km/h on the legendary Stelvio course in Bormio, Italy. It is governed by the International Ski and Snowboard Federation (FIS) and has been an Olympic event since the first Winter Games in Chamonix 1924 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.).
+
+Among the athletes who shape the discipline today, the leading women come first: the United States' Breezy Johnson won Olympic downhill gold at Milano-Cortina 2026 in 1:36.10 on the Olimpia delle Tofane in Cortina, and her compatriot Mikaela Shiffrin took the 2025/26 FIS World Cup overall title. On the men's side, Switzerland's Franjo von Allmen won Olympic gold on the Stelvio in Bormio in 1:51.61 at Milano-Cortina 2026, and his compatriot Marco Odermatt is the reigning World Cup overall champion; the 2026/27 World Cup season opened in Sölden on October 25, 2026, with Lucas Pinheiro Braathen (BRA) and Emma Aicher (GER) leading the early standings (FIS, n.d.-a; FIS, n.d.-b).
+
+![Breezy Johnson of the United States at the 2017 Kandahar World Cup in Garmisch-Partenkirchen](https://commons.wikimedia.org/wiki/Special:Redirect/file/Breezy_Johnson_%28USA%29_2017.jpg?width=400)
+
+*Figure: Brending, S. (2eight). (2017, January 22). Breezy Johnson (USA), 2026 Olympic downhill champion, at the 64. Kandahar Rennen, Audi FIS Ski World Cup Garmisch-Partenkirchen, ladies' super-G [Photograph]. Wikimedia Commons. CC BY-SA 3.0 DE. https://commons.wikimedia.org/wiki/File:Breezy_Johnson_%28USA%29_2017.jpg*
+
+![Franjo von Allmen of Switzerland winning Olympic downhill gold on the Stelvio, Bormio 2026](https://commons.wikimedia.org/wiki/Special:Redirect/file/Franjo_von_Allmen_%28SUI%29_-_Bormio_-_Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Men%27s_downhill_-_01.jpg?width=560)
+
+*Figure: Dispe. (2026, February 7). Franjo von Allmen (SUI), Olympic champion, during the men's downhill on the Stelvio course in Bormio, Milano-Cortina 2026 [Photograph]. Wikimedia Commons. CC0 1.0 (public domain). https://commons.wikimedia.org/wiki/File:Franjo_von_Allmen_%28SUI%29_-_Bormio_-_Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Men%27s_downhill_-_01.jpg*
 
 ## Rules
 
-Under FIS rules each athlete gets one timed run (after official training runs on previous days); the fastest time wins, with ties possible. The course must have a set vertical drop and gate spacing per category. Skiers must pass through all gates; missing a gate means disqualification. Equipment (skis, boots, helmet) must meet FIS safety specifications. Variants: FIS also runs downhill in two-run formats at some World Cup events, and speed disciplines like super-G exist between downhill and giant slalom.
+Under the FIS International Competition Rules, each athlete gets one timed run in the downhill — after mandatory official training runs on the preceding days — and the fastest time wins; ties are possible (FIS, n.d.-c). The course must meet fixed vertical-drop ranges per category — at World Cup level, for example, 800–1100 m for men and 700–800 m for women — with wide-set gates and safety netting along the course. A skier must pass through every gate with both ski tips; missing a gate means immediate disqualification. Equipment must meet FIS specifications: minimum ski lengths and sidecut radii are prescribed, a FIS-approved helmet is mandatory, and speed suits must comply with air-permeability rules (FIS, n.d.-c). Men and women race under the identical rule set — the only differences are the vertical-drop ranges and the equipment minima. Related speed disciplines are [Alpine Skiing Super-G](alpine-skiing-super-g.html) and [Alpine Skiing Giant Slalom](alpine-skiing-giant-slalom.html) on this site.
+
+![A downhill course with gates and safety netting — Matthias Mayer at Sochi 2014](https://commons.wikimedia.org/wiki/Special:Redirect/file/SuperCombinedDHSochi2014MMayer.jpg?width=560)
+
+*Figure: Kazantsev, S. (2014, February 7). Olympic champion Matthias Mayer on the downhill course in the super combined, Sochi 2014 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:SuperCombinedDHSochi2014MMayer.jpg*
 
 ## History
 
-Downhill has been part of the Olympic program since the first Winter Games in Chamonix 1924 and of the FIS Alpine World Ski Championships since 1931. Legendary downhillers include Franz Klammer (AUT), Hermann Maier (AUT), Lindsey Vonn (USA) and Aleksander Aamodt Kilde (NOR).
+Downhill has been on the Olympic program since Chamonix 1924 and on the FIS Alpine World Ski Championships program since the first championships in 1931. The Stelvio course at Bormio — venue of the men's Olympic downhill at Milano-Cortina 2026 — hosted World Championships in 1985 and 2005. Legendary downhillers include Austria's Franz Klammer, Olympic champion at Innsbruck 1976, and Hermann Maier; on the women's side, the United States' Lindsey Vonn, with 82 World Cup victories, is the most successful downhiller of all time, and Mikaela Shiffrin has added Olympic and World Cup titles in the speed disciplines (FIS, n.d.-a; Olympics.com, n.d.).
 
 ## Sources
 
-- International Ski and Snowboard Federation. (n.d.). *FIS — alpine skiing*. Retrieved November 20, 2026, from https://www.fis-ski.com/
-- Olympics.com. (n.d.). *Alpine skiing at the Olympic Games*. Retrieved November 20, 2026, from https://olympics.com/en/sports/alpine-skiing/
+- International Ski and Snowboard Federation. (n.d.-a). *Alpine skiing — World Cup and results*. Retrieved November 21, 2026, from https://www.fis-ski.com/
+- International Ski and Snowboard Federation. (n.d.-b). *World Cup standings*. Retrieved November 21, 2026, from https://www.fis-ski.com/DB/alpine-skiing/cup-standings.html
+- International Ski and Snowboard Federation. (n.d.-c). *International Competition Rules (ICR) — alpine skiing*. Retrieved November 21, 2026, from https://www.fis-ski.com/
+- Olympics.com. (n.d.). *Alpine skiing at the Olympic Winter Games*. Retrieved November 21, 2026, from https://olympics.com/en/sports/alpine-skiing/
+
+### Figure Index
+
+- Brending, S. (2eight). (2017, January 22). *Breezy Johnson (USA), 2026 Olympic downhill champion, at the 64. Kandahar Rennen, Audi FIS Ski World Cup Garmisch-Partenkirchen, ladies' super-G* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Breezy_Johnson_%28USA%29_2017.jpg (CC BY-SA 3.0 DE)
+- Dispe. (2026, February 7). *Franjo von Allmen (SUI), Olympic champion, during the men's downhill on the Stelvio course in Bormio, Milano-Cortina 2026* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Franjo_von_Allmen_%28SUI%29_-_Bormio_-_Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Men%27s_downhill_-_01.jpg (CC0 1.0)
+- Kazantsev, S. (2014, February 7). *Olympic champion Matthias Mayer on the downhill course in the super combined, Sochi 2014* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:SuperCombinedDHSochi2014MMayer.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [FIS — International Ski and Snowboard Federation](https://www.fis-ski.com/) — world governing body; World Cup and World Championships
-- [Olympics.com — Alpine skiing](https://olympics.com/en/sports/alpine-skiing/) — Olympic history and results
+- [FIS — International Ski and Snowboard Federation](https://www.fis-ski.com/) — world governing body; World Cup, World Championships, International Competition Rules
+- [FIS Alpine Skiing World Cup standings](https://www.fis-ski.com/DB/alpine-skiing/cup-standings.html) — official live World Cup rankings (men and women)
+- [Olympics.com — Alpine skiing](https://olympics.com/en/sports/alpine-skiing/) — Olympic history, venues and results
+- [Alpine Skiing Super-G](alpine-skiing-super-g.html) — the speed event between downhill and giant slalom, on this site
+- [Alpine Skiing Giant Slalom](alpine-skiing-giant-slalom.html) and [Alpine Skiing Slalom](alpine-skiing-slalom.html) — the technical disciplines, on this site

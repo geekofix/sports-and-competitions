@@ -1,23 +1,38 @@
 ## Basic Information
 
-Arm wrestling is a one-on-one strength contest in which two competitors, with their elbows fixed on a padded table, grip each other's hand and try to force the opponent's forearm down onto the touch pad. It is governed internationally by the World Armwrestling Federation (WAF), which organizes the annual World Armwrestling Championships in weight classes, with separate events for the right and left arm. Professional tours such as East vs West bring the sport to arena shows worldwide.
+Arm wrestling is a one-on-one strength and technique contest in which two competitors grip each other's hand at a table and try to pin the opponent's arm to the pad; it is contested with the right and left hand, in weight classes from 55 kg up to 110+ kg and in age groups, for men and women. The World Armwrestling Federation (WAF), founded in 1977, is the world governing body; its 47th World Armwrestling Championships together with the 28th World Para Championships were held in New Delhi, India, October 26 – November 7, 2026, crowning Boris Poska (RUS) and Beka Bogveradze (GEO) as the 2026 world champions (World Armwrestling Federation [WAF], n.d.-b).
+
+Among the athletes shaping the professional scene today, the women come first: Sweden's Malin Bergström beat Hungary's Brigitta Ivánfi 3–0 in the right-hand lightweight class at an EvW event in October 2026. On the men's side, Russia's Ivan Matyushenko — who beat Dave Chaffee 4–1 at EvW 23 in April 2026 — is the reigning right-hand heavyweight champion of the EvW (King's Move) tour, while Georgia's Levan Saginashvili vacated his super-heavyweight title in July 2026; the 2026 tour stops included EvW 26 in China (September 12) and EvW 27 in Budapest (October 24) (EvW Sports, n.d.). A rival federation, the International Armwrestling Federation (IFA), held its 7th World Championships in Japan in 2026 (EvW Sports, n.d.; WAF, n.d.-b).
+
+![Two girls arm wrestling](https://commons.wikimedia.org/wiki/Special:Redirect/file/Girls_arm_wrestling_home_alive.jpg?width=400)
+
+*Figure: Bennett, D. (2007, June 26). Girls arm wrestling [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Girls_arm_wrestling_home_alive.jpg*
 
 ## Rules
 
-Under WAF rules, competitors face each other across a table roughly 91 cm (36 in) high with a 10 cm (4 in) elbow pad in the center. Both hands must start with a fair grip covering the opponent's knuckles, shoulders square behind the center line, and the elbow must stay on the pad. Two false starts equal a foul; after a foul the hands are strapped together. Dangerous fouls such as slipping the grip or dropping the shoulder below the table level lead to warnings and, if repeated, disqualification. Matches at the World Championships are decided by best-of-three pins or by elimination brackets, depending on the class.
+Under WAF rules, competitors face each other at a table about 91 cm high with an elbow pad and a hand peg; after the referee's "ready — go", both athletes try to pin the opponent, and the bout is won when the back of the opponent's hand or knuckles touch the table. The elbow must stay on the pad — lifting it is a foul — and two false starts earn a foul, after which a strap is used to grip the hands together; the shoulders must stay above the table edge (WAF, n.d.-a). Weight classes for men run 55, 60, 65, 70, 75, 80, 85, 90, 100, 110 kg and +110 kg, with corresponding women's classes, plus junior, master and para categories; the right and left hands are contested separately.
+
+![Two competitors in an arm wrestling contest at a table](https://commons.wikimedia.org/wiki/Special:Redirect/file/Arm_Wrestling_Competition.jpg?width=560)
+
+*Figure: Osy. (2017, August 5). Two competitors engage in an arm wrestling contest [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Arm_Wrestling_Competition.jpg*
 
 ## History
 
-Arm wrestling is depicted in ancient Egyptian and Indian art, but the modern competitive sport took shape in the logging camps of North America. The first widely recognized "world championship" was held in Petaluma, California, in 1962. The World Armwrestling Federation was founded in 1977 and has run world championships since the late 1970s. Legendary pullers include John Brzenk ("The Virginia Creeper"), and today stars such as Devon Larratt (CAN) and Denis Cyplenkov (RUS) draw huge audiences.
+Arm wrestling as a pub and fairground contest dates to the 19th century; modern competitive arm wrestling took shape in the United States in the 1950s and 1960s, notably in Petaluma, California. The WAF was founded in 1977 and held the first World Championships in 1979 in Wetaskiwin, Canada, hosted by John Miazdzyk. Icons of the sport include the USA's John Brzenk — "The Perfect Storm", long considered the greatest of all time — and Canada's Devon Larratt, his rival for two decades, plus Georgia's Levan Saginashvili in the super-heavyweight class; women's world championships have been held alongside the men's since the early years of the WAF (WAF, n.d.-a; WAF, n.d.-b).
 
 ## Sources
 
-- World Armwrestling Federation. (n.d.). *WAF — the international governing body of armwrestling*. Retrieved November 20, 2026, from https://waf-armwrestling.com/
-- World Armwrestling Federation. (n.d.). *WAF rules and regulations*. Retrieved November 20, 2026, from https://waf-armwrestling.com/rules/
-- World Armwrestling Federation. (n.d.). *World Armwrestling Championship*. Retrieved November 20, 2026, from https://waf-armwrestling.com/world-championship/
+- EvW Sports. (n.d.). *EvW (King's Move) — professional tour, 2026 events and results*. Retrieved November 21, 2026, from https://evwsports.com/
+- World Armwrestling Federation. (n.d.-a). *Rules of arm wrestling*. Retrieved November 21, 2026, from https://waf-armwrestling.com/
+- World Armwrestling Federation. (n.d.-b). *World Armwrestling Championships 2026 — New Delhi*. Retrieved November 21, 2026, from https://waf-armwrestling.com/
+
+### Figure Index
+
+- Bennett, D. (2007, June 26). *Girls arm wrestling* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Girls_arm_wrestling_home_alive.jpg (CC BY 2.0)
+- Osy. (2017, August 5). *Two competitors engage in an arm wrestling contest* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Arm_Wrestling_Competition.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [World Armwrestling Federation (WAF)](https://waf-armwrestling.com/) — world governing body; rules and member federations
-- [WAF World Armwrestling Championship](https://waf-armwrestling.com/world-championship/) — flagship annual world championship
-- [WAF Rules and Regulations](https://waf-armwrestling.com/rules/) — official competition rules
+- [World Armwrestling Federation (WAF)](https://waf-armwrestling.com/) — world governing body; rules, weight classes, world championships
+- [EvW Sports](https://evwsports.com/) — professional world tour (King's Move); events and live results
+- [Wrestling](wrestling.html) and [Freestyle Wrestling](freestyle-wrestling.html) — the mat sports, on this site
