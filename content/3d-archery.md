@@ -1,23 +1,41 @@
 ## Basic Information
 
-3D archery is field archery at life-size foam animal targets on an outdoor course, usually over unmarked distances that the archer must estimate. In the United States the main bodies are the NFAA (National Field Archery Association) and the IBO; internationally, World Archery runs 3D events.
+3D archery is a form of field archery shot at life-size foam animal targets set along an outdoor course, usually over unmarked distances that the archer must estimate by eye. In the United States the main bodies are the National Field Archery Association (NFAA) and the International Bowhunting Organization (IBO); the Archery Shooters Association (ASA) runs a major 3D tour, and internationally World Archery sanctions 3D world championship events (World Archery, n.d.-a). Closely related disciplines on this site are [Archery](archery.html) and [Field Archery](field-archery.html).
+
+Among the athletes shaping the sport today are France's Virginie Chevrier, the 2026 world 3D champion in the women's barebow class, and Slovenia's Tim Jevsnik, the 2026 men's compound world 3D champion, alongside France's David Jackson, who won a third men's barebow world 3D title in 2026 (World Archery, n.d.-b). These titles were decided at the 2026 World Archery 3D Championships in Yankton, South Dakota (September 28 to October 3, 2026), which drew 246 archers from 24 countries (World Archery, n.d.-b).
 
 ## Rules
 
-Archers shoot one arrow per target (two per target at World Archery 3D events). Target rings are scored by vital zones: NFAA 3D faces are scored 12-10-8-5-0, ASA uses 12-10-8-5, and IBO and World Archery use 11-10-8-5 — the innermost ring scores highest. On NFAA unmarked courses adult distances are capped at 50 yards, and bowhunter classes shoot from shorter stakes without rangefinders. Equipment classes (compound, recurve, barebow, traditional, bowhunter) have different speed and draw-weight limits. Variants: the scoring values and maximum distances differ between NFAA, ASA, IBO and World Archery, which is why the same course can produce different scores under different rulebooks.
+Archers shoot one arrow per target — two arrows per target at World Archery 3D events — and the target faces are scored by vital zones. The ring values differ by organization: NFAA 3D faces are scored 12-10-8-5-0, ASA uses 12-10-8-5, and IBO and World Archery use 11-10-8-5, with the innermost ring scoring highest (National Field Archery Association, n.d.; International Bowhunting Organization, n.d.; World Archery, n.d.-a). On NFAA unmarked courses, adult shooting distances are capped at 50 yards, and bowhunter classes shoot from shorter stakes without rangefinders. Equipment classes — compound, recurve, barebow, traditional and bowhunter — carry different speed and draw-weight limits, and there are separate men's and women's divisions in every class, so women and men compete under the same target and distance rules within their class (Archery Shooters Association, n.d.; National Field Archery Association, n.d.). Because the scoring values and maximum distances differ between NFAA, ASA, IBO and World Archery, the same course can produce different scores under different rulebooks.
+
+![Rubber deer 3D archery target hit by arrows in the clearly visible vital areas](https://commons.wikimedia.org/wiki/Special:Redirect/file/3D_archery_rubber_deer_hit_by_arrows_in_clearly_visible_vital_areas.jpg?width=400)
+
+*Figure: TizVan. (2026, February 14). 3D archery rubber deer hit by arrows in clearly visible vital areas [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:3D_archery_rubber_deer_hit_by_arrows_in_clearly_visible_vital_areas.jpg*
 
 ## History
 
-3D archery grew out of bowhunting practice in the United States in the 1980s and 1990s; the NFAA, founded in 1939, turned it into a formal competitive round with national championships. Well-known professional 3D archers include Levi Morgan and Mike Slinkard.
+3D archery grew out of bowhunting practice in the United States in the 1980s and 1990s. The NFAA, founded in 1939 as the national governing body of field archery, formalized 3D as a competitive round and has run national 3D championships for decades; World Archery later added 3D to its international program and now stages a World 3D Championship (National Field Archery Association, n.d.; World Archery, n.d.-b). On the women's side, Italy's Cinzia Noziglia became one of the most successful 3D archers of her generation with three world 3D titles (2015, 2022 and 2024); well-known US professionals include Levi Morgan and Mike Slinkard (World Archery, n.d.-b).
 
 ## Sources
 
-- International Bowhunting Organization. (n.d.). *IBO — rules and tournaments*. Retrieved November 19, 2026, from https://ibohunt.com/
-- National Field Archery Association. (n.d.). *NFAA constitution — official rounds (3-D rules and regulations)*. Retrieved November 19, 2026, from https://nfaausa.com/about/constitution/official-nfaa-rounds
-- World Archery. (n.d.). *World Archery — field and 3D archery*. Retrieved November 19, 2026, from https://worldarchery.sport/
+- Archery Shooters Association. (n.d.). *ASA 3D shoot rules and classes*. Retrieved November 21, 2026, from https://www.archeryshootersassociation.com/
+- International Bowhunting Organization. (n.d.). *IBO — rules and tournaments*. Retrieved November 21, 2026, from https://ibohunt.com/
+- National Field Archery Association. (n.d.). *NFAA constitution — official rounds (3-D rules and regulations)*. Retrieved November 21, 2026, from https://nfaausa.com/about/constitution/official-nfaa-rounds
+- USA Archery. (n.d.). *USA Archery — national governing body*. Retrieved November 21, 2026, from https://www.usashooting.org/
+- World Archery. (n.d.-a). *Field and 3D archery*. Retrieved November 21, 2026, from https://worldarchery.sport/
+- World Archery. (n.d.-b). *2026 World Archery 3D Championships, Yankton*. Retrieved November 21, 2026, from https://worldarchery.sport/competition/29775
+- Wikipedia. (n.d.). *3D archery*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/3D_archery
+
+### Figure Index
+
+- TizVan. (2026, February 14). *3D archery rubber deer hit by arrows in clearly visible vital areas* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:3D_archery_rubber_deer_hit_by_arrows_in_clearly_visible_vital_areas.jpg (CC0 1.0)
 
 ## Important Links
 
-- [World Archery](https://worldarchery.sport/) — international federation; international 3D events
-- [NFAA — National Field Archery Association](https://nfaausa.com/) — US national body; biggest 3D championships
-- [IBO — International Bowhunting Organization](https://ibohunt.com/) — bowhunting 3D circuit
+- [World Archery](https://worldarchery.sport/) — international federation; international 3D events and World 3D Championships
+- [World Archery — World Ranking](https://www.worldarchery.sport/ranking/world-ranking) — official world rankings (target and para archery)
+- [NFAA — National Field Archery Association](https://nfaausa.com/) — US national body; the largest 3D championships
+- [IBO — International Bowhunting Organization](https://ibohunt.com/) — bowhunting 3D circuit and rules
+- [ASA — Archery Shooters Association](https://www.archeryshootersassociation.com/) — major US 3D tour
+- [USA Archery](https://www.usashooting.org/) — US national governing body for Olympic/Paralympic archery
+- See also [Archery](archery.html) and [Field Archery](field-archery.html) on this site

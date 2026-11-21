@@ -1,22 +1,37 @@
 ## Basic Information
 
-Agility is a dog sport in which a handler guides a dog through a timed obstacle course of jumps, tunnels, A-frames, dog walks and weave poles using voice commands and body language — the dog is never touched or led on a leash during the run. The Fédération Cynologique Internationale (FCI) runs international agility, and national bodies such as the USDAA (US) and The Kennel Club (UK) organize their own events.
+Dog agility is a timed sport in which a handler directs a dog through an obstacle course of jumps, tunnels, weave poles and contact obstacles; the fastest team with the fewest faults wins. Internationally the sport is run by the Fédération Cynologique Internationale (FCI), and the flagship event is the FCI Agility World Championship — the 2026 edition is held at the Gatorade Center in Turku, Finland, September 22–27, 2026 (Fédération Cynologique Internationale [FCI], n.d.-a; AWC 2026, n.d.). Alongside the FCI circuit, national organizations such as the USDAA in the United States and The Kennel Club in the United Kingdom run their own championships. Handlers at the top level include many of the sport's leading women competitors alongside men, in a sport where women have long been strongly represented (FCI, n.d.-b). See also [Dog Sledding](dog-sledding.html) and [Dog Surfing](dog-surfing.html) on this site.
 
 ## Rules
 
-The course is set by a judge and must be completed in a set order. A run earns faults for each refusal or run-out (5 faults), each knocked jump bar (5 faults), touching an obstacle, or exceeding the standard course time (1 fault per second). Dogs are grouped by height (e.g. FCI classes A1 to A3 plus jumping). The fastest dog with the fewest faults wins; in some formats the winner is the best combined time-plus-faults score.
+The dog and handler must complete a course of 15 to 22 obstacles — hurdles (single, double, broad), dog walk, A-frame, seesaw, pause table, tunnels, tire jump and weave poles — in the correct order. The judge sets a standard course time (SCT) based on the course length and a chosen standard speed; exceeding it costs 1 fault point per second. faults are 5 points each for a refusal or run-out (the dog fails to take an obstacle), a knocked bar, or contact with an obstacle, and elimination results from excessive faults or a disqualification. Courses have a maximum course time, and the dog must stay with the handler throughout. Dogs compete in height classes — small, medium and large (with intermediate classes at some events) — measured at the withers, and in FCI competition the grades A1, A2, A3 and the jumping classes lead up to the World Championship (FCI, n.d.-a; The Kennel Club, n.d.). Men and women handlers compete together in the same classes under identical rules (FCI, n.d.-b).
+
+![A Pumi performing on an agility course](https://commons.wikimedia.org/wiki/Special:Redirect/file/Pumi_agility.jpg?width=560)
+
+*Figure: MapReader. (2022, July 10). Pumi agility [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Pumi_agility.jpg*
 
 ## History
 
-Dog agility began in 1978 at Crufts in Birmingham, England, as a halftime demonstration combining horse-show jumping, obedience and a tunnel, and quickly became a competitive sport. The FCI adopted international agility rules in the 1990s, and the sport is now played in dozens of countries.
+Dog agility began in 1978 at Crufts, the famous dog show in Birmingham, England, where Peter Meanwell staged a halftime demonstration combining horse-show jumping, obedience and a tunnel — the crowd loved it, and the sport was born. It spread quickly through the United Kingdom and then worldwide, with the FCI adopting standardized rules in the 1990s and the first FCI Agility World Championship held in 1992; the 2024 edition took place in Opglabbeek, Belgium (FCI, n.d.-a; United States Dog Agility Association, n.d.; Wikipedia, n.d.). The sport has since grown into one of the most popular dog sports globally, with hundreds of thousands of competitors at club level and a thriving international championship circuit.
 
 ## Sources
 
-- Fédération Cynologique Internationale. (n.d.). *FCI — dog agility*. Retrieved November 20, 2026, from https://www.fci.be/
-- USDAA. (n.d.). *US Dog Agility Association*. Retrieved November 20, 2026, from https://www.usdaa.com/
+- AWC 2026. (n.d.). *FCI Agility World Championship 2026, Turku*. Retrieved November 21, 2026, from https://www.awc2026.fi/
+- Fédération Cynologique Internationale. (n.d.-a). *Agility — rules and regulations*. Retrieved November 21, 2026, from https://www.fci.be/en/agility-1899.html
+- Fédération Cynologique Internationale. (n.d.-b). *FCI — Fédération Cynologique Internationale*. Retrieved November 21, 2026, from https://www.fci.be/
+- The Kennel Club. (n.d.). *Agility*. Retrieved November 21, 2026, from https://www.thekennelclub.org.uk/activities/agility/
+- United States Dog Agility Association. (n.d.). *USDAA*. Retrieved November 21, 2026, from https://www.usdaa.com/
+- Wikipedia. (n.d.). *Dog agility*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Dog_agility
+
+### Figure Index
+
+- MapReader. (2022, July 10). *Pumi agility* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Pumi_agility.jpg (CC BY 4.0)
 
 ## Important Links
 
-- [Fédération Cynologique Internationale (FCI)](https://www.fci.be/) — world federation for dog sports; international agility events
-- [USDAA — US Dog Agility Association](https://www.usdaa.com/) — major US agility organization
-- [The Kennel Club (UK)](https://www.thekennelclub.org.uk/) — UK agility events and Crufts
+- [FCI — Fédération Cynologique Internationale](https://www.fci.be/) — world governing body of dog sports; runs the FCI Agility World Championship
+- [FCI — Agility rules](https://www.fci.be/en/agility-1899.html) — official FCI agility rules and regulations
+- [AWC 2026 Turku](https://www.awc2026.fi/) — FCI Agility World Championship 2026, September 22–27, 2026, Gatorade Center, Turku, Finland
+- [USDAA — United States Dog Agility Association](https://www.usdaa.com/) — major national agility organization (US)
+- [The Kennel Club — Agility](https://www.thekennelclub.org.uk/activities/agility/) — UK national agility program, birthplace of the sport
+- See also [Dog Sledding](dog-sledding.html) and [Dog Surfing](dog-surfing.html) on this site
