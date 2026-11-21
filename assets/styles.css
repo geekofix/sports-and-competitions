@@ -76,15 +76,13 @@ body {
 .header-row { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
 
 .brand {
-  font-size: 27px;
+  font-size: 31px;
   font-weight: 800;
   color: var(--text);
   text-decoration: none;
   letter-spacing: -0.02em;
 }
 a.brand:hover { color: var(--accent); }
-
-h1.brand { font-size: 31px; }
 
 .subtitle { color: var(--muted); margin-top: 4px; font-size: 15px; }
 
@@ -309,6 +307,6 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 
 @media (max-width: 640px) {
   body { font-size: 16px; }
-  h1.brand { font-size: 25px; }
+  .brand { font-size: 25px; }
   .page h1 { font-size: 29px; }
 }

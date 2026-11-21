@@ -148,11 +148,16 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
 <header class="site-header">
-  <div class="wrap header-row">
-    <a class="brand" href="../index.html">{site}</a>
-    <div class="header-actions">
-      <a class="btn" href="../index.html">&larr; All sports ({total})</a>
-      {theme_button}
+  <div class="wrap">
+    <div class="header-row">
+      <div>
+        <a class="brand" href="../index.html">{site}</a>
+        <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; {total} entries &middot; alphabetical order</p>
+      </div>
+      <div class="header-actions">
+        <a class="btn" href="../index.html">&larr; All sports ({total})</a>
+        {theme_button}
+      </div>
     </div>
   </div>
 </header>
