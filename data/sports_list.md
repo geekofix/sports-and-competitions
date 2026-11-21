@@ -210,7 +210,6 @@
 | Downhill Mountain Biking                   | https://www.youtube.com/results?search_query=downhill+mountain+biking                   |
 | Downhill Skateboarding                     | https://www.youtube.com/results?search_query=downhill+skateboarding                     |
 | Drag Racing                                | https://www.youtube.com/results?search_query=drag+racing                                |
-| Dragon Boat                                | https://www.youtube.com/results?search_query=dragon+boat                                |
 | Dragon Boat Racing                         | https://www.youtube.com/results?search_query=dragon+boat+racing                         |
 | Draughts                                   | https://www.youtube.com/results?search_query=draughts                                   |
 | Dressage                                   | https://www.youtube.com/results?search_query=dressage                                   |
