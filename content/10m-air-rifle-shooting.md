@@ -8,9 +8,13 @@ Under ISSF rules the rifle is a compressed-air or gas rifle in 4.5 mm (.177) cal
 
 As in 10m air pistol, the 2018 rules revision ended the historical gender difference: the women's qualification was expanded from 40 to the identical 60-shot program, so men and women now shoot the same course of fire (ISSF, 2023). Juniors shoot the same 60-shot program in their own junior events, with dedicated team competitions as well. Clothing and rifle supports are strictly limited in the standing position — no slings are allowed, and thick, stiff shooting clothing is restricted in this event so that the full stability demand remains on the athlete.
 
+![Spc. Dan Lowe competing in the 10 m air rifle event at the Rio 2016 Olympic Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spc._Dan_Lowe_Rio_Olympic_Games_air_rifle_%2828255502153%29.jpg?width=880)
+
+*Figure: U.S. Army. (2016, August 8). Spc. Dan Lowe competing in the 10 m air rifle event at the Rio 2016 Olympic Games [Photograph]. Via Flickr, Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Spc._Dan_Lowe_Rio_Olympic_Games_air_rifle_(28255502153).jpg*
+
 ![10 m air gun range, schematic side view](../assets/img/10m-air-gun-range.svg)
 
-*Figure: Own diagram of a standard 10 m indoor air gun range, based on the ISSF General Technical Rules (International Shooting Sport Federation, 2023). No third-party images are used on this page.*
+*Figure: Own diagram of a standard 10 m indoor air gun range, based on the ISSF General Technical Rules (International Shooting Sport Federation, 2023).*
 
 Variants: beyond individual finals, the ISSF runs three-athlete team events decided on aggregated qualification scores and mixed-team duels; many national federations additionally run club and postal matches with different shot counts.
 
@@ -26,6 +30,10 @@ Abhinav Bindra of India won India's first individual Olympic gold medal in this 
 - International Shooting Sport Federation. (n.d.). *International Shooting Sport Federation*. Retrieved November 21, 2026, from https://www.issf-sports.org/
 - International Shooting Sport Federation. (2023). *ISSF rules: General technical and rifle rules (Edition 2022, first print January 2023)*. Retrieved November 21, 2026, from https://www.issf-sports.org/rules
 - USA Shooting. (n.d.). *USA Shooting — national governing body*. Retrieved November 21, 2026, from https://www.usashooting.org/
+
+### Figure Index
+
+- U.S. Army. (2016, August 8). *Spc. Dan Lowe competing in the 10 m air rifle event at the Rio 2016 Olympic Games* [Photograph]. Via Flickr, Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Spc._Dan_Lowe_Rio_Olympic_Games_air_rifle_(28255502153).jpg (CC BY 2.0)
 
 ## Important Links
 

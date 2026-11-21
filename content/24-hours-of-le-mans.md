@@ -18,6 +18,10 @@ The race was created in 1923 by the Automobile Club de l'Ouest, driven by ACO se
 
 The manufacturer eras came in waves: Bentley and Alfa Romeo dominated the interwar years, Ferrari's prototypes defined the early 1960s, and Ford's 1-2-3 finish in 1966 with Bruce McLaren, Chris Amon and Ken Miles remains legendary. The Group C era of the 1980s produced record speeds; Mazda became the first Japanese manufacturer to win in 1991 with the rotary-engined 787B; and Tom Kristensen holds the all-time record with nine victories, ahead of Jacky Ickx with six and Derek Bell with five (ACO, n.d.; Encyclopedia Britannica, n.d.). Since 2012 the race has counted as a round of the FIA World Endurance Championship with double championship points, and the Hypercar top class returned works manufacturers — including Ferrari, whose 499P won overall in 2023 and 2024 (FIA World Endurance Championship, n.d.).
 
+![The race-winning Ferrari 499P Hybrid at the 2023 24 Hours of Le Mans](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ferrari_499P_-_Hybrid,_2023.jpg?width=900)
+
+*Figure: Wolkenjaeger. (2023, June 10). The race-winning Ferrari 499P Hybrid of Pier Guidi, Calado and Giovinazzi during the 2023 24 Hours of Le Mans [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ferrari_499P_-_Hybrid,_2023.jpg*
+
 ## Sources
 
 - Automobile Club de l'Ouest. (n.d.). *24 Hours of Le Mans — official race website*. Retrieved November 21, 2026, from https://www.24h-lemans.com/en/
@@ -26,6 +30,10 @@ The manufacturer eras came in waves: Bentley and Alfa Romeo dominated the interw
 - Encyclopedia Britannica. (n.d.). *24 Hours of Le Mans*. Retrieved November 21, 2026, from https://www.britannica.com/sports/24-Hours-of-Le-Mans
 - FIA World Endurance Championship. (n.d.). *FIA World Endurance Championship*. Retrieved November 21, 2026, from https://www.fiawec.com/
 - Porsche. (n.d.). *How does the 24 Hours of Le Mans work? A beginner's guide*. Retrieved November 21, 2026, from https://www.porsche.com/stories/experience/guide-to-24-hours-of-le-mans/
+
+### Figure Index
+
+- Wolkenjaeger. (2023, June 10). *The race-winning Ferrari 499P Hybrid during the 2023 24 Hours of Le Mans* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Ferrari_499P_-_Hybrid,_2023.jpg (CC BY-SA 4.0)
 
 ## Important Links
 

@@ -6,9 +6,13 @@
 
 Under ISSF rules shooters use a .22 Long Rifle (5.6 mm) rimfire semi-automatic pistol, fired one-handed and unsupported from a 45-degree ready position (International Shooting Sport Federation [ISSF], 2023). Five target sets stand side by side with their centers exactly 75 cm apart, and one shot must be fired at each target within every series; the targets turn to face the shooter exactly when the time begins, and shots fired too late score as misses. The course of fire is 60 shots: two stages of 30, each with two five-shot series at 8 seconds, then two at 6 seconds, then two at 4 seconds, scored in whole rings to a maximum of 600 points (ISSF, 2023).
 
+![Keith Sanderson shooting the men's 25 m rapid fire pistol event at the Rio 2016 Olympic Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Sanderson_shoots_rapid_fire_pistol_at_Rio_Games_%2828942526245%29.jpg?width=880)
+
+*Figure: U.S. Army (photo: T. Hipps). (2016, August 12). Sgt. 1st Class Keith Sanderson shooting the men's 25 m rapid fire pistol event at the Rio 2016 Olympic Games [Photograph]. Via Flickr, Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Sanderson_shoots_rapid_fire_pistol_at_Rio_Games_(28942526245).jpg*
+
 ![25 m rapid fire pistol targets and series times, schematic](../assets/img/25m-rapid-fire-pistol-targets.svg)
 
-*Figure: Own diagram of the five-target setup and the series times, based on the ISSF pistol rules (International Shooting Sport Federation, 2023). No third-party images are used on this page.*
+*Figure: Own diagram of the five-target setup and the series times, based on the ISSF pistol rules (International Shooting Sport Federation, 2023).*
 
 At major championships, the six best shooters qualify for the final. The final is shot as additional 4-second five-shot series scored as hit-or-miss: any shot scoring 9.7 or above counts as one hit, which corresponds to a circle of 124 mm diameter on the target, and everything below scores as a miss; the lowest shooter is eliminated after each series from the fourth series onward, which builds the decisive drama of the event (International Olympic Committee [IOC], n.d.).
 
@@ -27,6 +31,10 @@ Germany's Ralf Schumann is widely considered the greatest rapid fire shooter of 
 - International Shooting Sport Federation. (2016, August 13). *Reitz nails men's 25m Rapid Fire Pistol title in Rio, it's another golden day for Germany*. https://www.issf-sports.org/news/2663
 - International Shooting Sport Federation. (2023). *ISSF rules: General technical and pistol rules (Edition 2022, first print January 2023)*. Retrieved November 21, 2026, from https://www.issf-sports.org/rules
 - USA Shooting. (n.d.). *USA Shooting — national governing body*. Retrieved November 21, 2026, from https://www.usashooting.org/
+
+### Figure Index
+
+- U.S. Army (photo: T. Hipps). (2016, August 12). *Sgt. 1st Class Keith Sanderson shooting the men's 25 m rapid fire pistol event at the Rio 2016 Olympic Games* [Photograph]. Via Flickr, Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Sanderson_shoots_rapid_fire_pistol_at_Rio_Games_(28942526245).jpg (CC BY 2.0)
 
 ## Important Links
 

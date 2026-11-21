@@ -8,9 +8,13 @@ Under ISSF rules the pistol is a single-shot compressed-air or gas pistol in 4.5
 
 The current qualification program is 60 competition shots within 75 minutes, and the top eight athletes advance to a final of 24 additional shots with progressive eliminations after set stages (ISSF, 2023). An important equality milestone: women's qualification was expanded from 40 to the identical 60-shot program in the 2018 rules revision, so men and women now shoot the same course of fire in the individual events (ISSF, 2023). The ISSF also runs team, mixed-team and junior events; the mixed-team event, with one man and one woman per team shooting a duel-format match, celebrated its Olympic debut at Tokyo 2020.
 
+![Felipe Wu competing in the 10 m air pistol event at the Rio 2016 Olympic Games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Pistola-10m-masculino-felipe-wu.jpg?width=880)
+
+*Figure: Borges, D. (2016, August 6). Felipe Wu during the 10 m air pistol competition at the Rio 2016 Olympic Games [Photograph]. Brasil2016.gov.br via Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Pistola-10m-masculino-felipe-wu.jpg*
+
 ![10 m air gun range, schematic side view](../assets/img/10m-air-gun-range.svg)
 
-*Figure: Own diagram of a standard 10 m indoor air gun range, based on the ISSF General Technical Rules (International Shooting Sport Federation, 2023). No third-party images are used on this page.*
+*Figure: Own diagram of a standard 10 m indoor air gun range, based on the ISSF General Technical Rules (International Shooting Sport Federation, 2023).*
 
 The equipment and course of fire are identical for all genders and for juniors — differences exist only between the men's, women's, mixed-team and junior event labels, not in the rules themselves. By contrast, classification-based para shooting has its own separate formats and classifications under the same world federation.
 
@@ -26,6 +30,10 @@ Among the most successful athletes are Jin Jong-oh of South Korea, whose three O
 - International Shooting Sport Federation. (n.d.). *International Shooting Sport Federation*. Retrieved November 21, 2026, from https://www.issf-sports.org/
 - International Shooting Sport Federation. (2023). *ISSF rules: General technical and pistol rules (Edition 2022, first print January 2023)*. Retrieved November 21, 2026, from https://www.issf-sports.org/rules
 - USA Shooting. (n.d.). *USA Shooting — national governing body*. Retrieved November 21, 2026, from https://www.usashooting.org/
+
+### Figure Index
+
+- Borges, D. (2016, August 6). *Felipe Wu during the 10 m air pistol competition at the Rio 2016 Olympic Games* [Photograph]. Brasil2016.gov.br via Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Pistola-10m-masculino-felipe-wu.jpg (CC BY-SA 3.0)
 
 ## Important Links
 

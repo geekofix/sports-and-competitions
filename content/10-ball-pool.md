@@ -8,17 +8,25 @@ Under the WPA Rules of Play, 10-ball is a call-shot game: the balls are played i
 
 If the 10-ball is pocketed on the break, on a push-out, on a foul, or before it is the last ball remaining, it is spotted (placed back on the foot spot or as close as possible on the long string) and play continues; the rack is won by legally pocketing the called 10-ball last. A standard foul gives the opponent ball-in-hand anywhere on the table, and three consecutive fouls lose the rack. The table itself follows standard pool equipment specifications: a 9-foot table with a playing surface of about 254 cm x 127 cm (100 x 50 inches), six pockets and 57.15 mm (2 1/4 inch) balls, with diamond sights dividing the rails into eighths and quarters (WPA, 2025).
 
+![Valid ten-ball rack with the 1-ball on the foot spot and the 10-ball in the centre](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ten-ball_rack.jpg?width=800)
+
+*Figure: SMcCandlish. (2008, February 18). One of many valid ten-ball racks, with the 1-ball at the apex on the foot spot and the 10-ball in the centre [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ten-ball_rack.jpg*
+
 ![10-ball pool table, schematic top view](../assets/img/10-ball-pool-table.svg)
 
-*Figure: Own diagram, drawn to scale (9 px per inch), based on the WPA Rules of Play and standard 9-foot table equipment specifications (World Pool-Billiard Association, 2025). No third-party images are used on this page.*
+*Figure: Own diagram, drawn to scale (9 px per inch), based on the WPA Rules of Play and standard 9-foot table equipment specifications (World Pool-Billiard Association, 2025).*
 
-The figure above shows the table geometry: pockets set into the rails, diamond sights dividing the cushions, and the 10-ball rack with the 1-ball on the foot spot and the 10-ball in the middle of the third row. There are no gender-specific rule differences in 10-ball as there are, for example, in volleyball's net heights: men, women and wheelchair athletes play the identical rule set. Instead, the sport separates athletes by division — the WPA and its continental members run men's, women's, junior/youth and wheelchair divisions of their world and continental championships (WPA, n.d.). Note also that rule sets differ outside the WPA: some US league formats (for example CSI/BCAPL) treat a legally pocketed called 10-ball as an immediate win at any point of the rack (Cue Sports International, n.d.) — a good example of how the same game exists with different official variants.
+The diagrams above show the table geometry — pockets set into the rails, diamond sights dividing the cushions — and the rack layout with the 1-ball on the foot spot and the 10-ball in the middle of the third row. There are no gender-specific rule differences in 10-ball as there are, for example, in volleyball's net heights: men, women and wheelchair athletes play the identical rule set. Instead, the sport separates athletes by division — the WPA and its continental members run men's, women's, junior/youth and wheelchair divisions of their world and continental championships (WPA, n.d.). Note also that rule sets differ outside the WPA: some US league formats (for example CSI/BCAPL) treat a legally pocketed called 10-ball as an immediate win at any point of the rack (Cue Sports International, n.d.) — a good example of how the same game exists with different official variants.
 
 ## History
 
 10-ball grew out of 9-ball in the United States in the mid-20th century as a way to reduce the influence of luck: because every ball except the break must be called, "fluke" successes on a lucky roll do not decide racks the way they can in 9-ball. The game became a staple of professional pool in the 1990s and 2000s, when dedicated 10-ball tournaments attracted some of the largest fields in the sport, and the WPA added 10-ball to its list of sanctioned world championships (WPA, n.d.).
 
 The World Pool-Billiard Association itself was founded in 1987 as the international governing body for pool, with continental confederations — such as the European Pocket Billiard Federation (EPBF), which has run the European Championships since 1980, and the Asian Confederation of Billiard Sports (ACBS) for Asia — grouping the national federations (European Pocket Billiard Federation [EPBF], n.d.; WPA, n.d.). Today 10-ball features on the biggest professional stages, including major world championship and invitation events promoted by Matchroom Pool (Matchroom Pool, n.d.). Among the best-known players of the era are Shane Van Boening, Dennis Orcullo and Carlo Biado.
+
+![Shane Van Boening at the table](https://commons.wikimedia.org/wiki/Special:Redirect/file/Shane_Van_Boening.JPG?width=360)
+
+*Figure: RailbirdJAM. (2007, June 12). Pool player Shane Van Boening [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Shane_Van_Boening.JPG*
 
 ## Sources
 
@@ -27,6 +35,11 @@ The World Pool-Billiard Association itself was founded in 1987 as the internatio
 - Matchroom Pool. (n.d.). *Matchroom Pool*. Retrieved November 21, 2026, from https://matchroompool.com/
 - World Pool-Billiard Association. (n.d.). *World Pool-Billiard Association*. Retrieved November 21, 2026, from https://wpapool.com/
 - World Pool-Billiard Association. (2025). *Rules of play* (effective September 15, 2025). https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf
+
+### Figure Index
+
+- RailbirdJAM. (2007, June 12). *Pool player Shane Van Boening* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Shane_Van_Boening.JPG (Public domain)
+- SMcCandlish. (2008, February 18). *Ten-ball rack, one of many valid racks* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Ten-ball_rack.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
