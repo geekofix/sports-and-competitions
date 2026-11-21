@@ -8,6 +8,8 @@ Under ISSF rules shooters use a .22 Long Rifle (5.6 mm) rimfire semi-automatic p
 
 ![25 m rapid fire pistol targets and series times, schematic](../assets/img/25m-rapid-fire-pistol-targets.svg)
 
+*Figure: Own diagram of the five-target setup and the series times, based on the ISSF pistol rules (International Shooting Sport Federation, 2023). No third-party images are used on this page.*
+
 At major championships, the six best shooters qualify for the final. The final is shot as additional 4-second five-shot series scored as hit-or-miss: any shot scoring 9.7 or above counts as one hit, which corresponds to a circle of 124 mm diameter on the target, and everything below scores as a miss; the lowest shooter is eliminated after each series from the fourth series onward, which builds the decisive drama of the event (International Olympic Committee [IOC], n.d.).
 
 The historical gender rule is the defining classification difference of this discipline: rapid fire pistol is a men's event on the Olympic and world championship program, with a men's junior event below it, while women and women juniors contest the 25m pistol event — a discipline combining a precision stage and a rapid-fire stage on the same target distance (ISSF, 2023; IOC, n.d.). Older rules editions used different string times in qualification, so national or historical competitions can differ from the Olympic format; the classic rules also permit only one claimed malfunction per 30-shot stage and penalize fired double shots per target exposure (ISSF, 2023).

@@ -10,6 +10,8 @@ As in 10m air pistol, the 2018 rules revision ended the historical gender differ
 
 ![10 m air gun range, schematic side view](../assets/img/10m-air-gun-range.svg)
 
+*Figure: Own diagram of a standard 10 m indoor air gun range, based on the ISSF General Technical Rules (International Shooting Sport Federation, 2023). No third-party images are used on this page.*
+
 Variants: beyond individual finals, the ISSF runs three-athlete team events decided on aggregated qualification scores and mixed-team duels; many national federations additionally run club and postal matches with different shot counts.
 
 ## History

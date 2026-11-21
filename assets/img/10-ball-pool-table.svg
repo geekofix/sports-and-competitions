@@ -1,56 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 620" role="img" aria-labelledby="title desc">
   <title id="title">10-ball pool table (top view)</title>
-  <desc id="desc">Schematic top view of a 9-foot pool table with six pockets, 18 diamond sights, the head string and the ten-ball rack on the foot spot. Illustrative schematic, not to scale.</desc>
-  <rect x="0" y="0" width="1000" height="560" fill="#f4f1ea"/>
-  <!-- rail frame -->
-  <rect x="10" y="10" width="980" height="540" fill="#5b3a24" stroke="#3b2415" stroke-width="3"/>
-  <!-- playing surface 100 in x 50 in, scale 9 px per inch -->
-  <rect x="50" y="50" width="900" height="450" fill="#1e7d4f" stroke="#0d3b25" stroke-width="2"/>
-  <!-- head string (quarter of table length from head rail) -->
-  <line x1="275" y1="50" x2="275" y2="500" stroke="#ffffff" stroke-width="2" stroke-dasharray="8 6" opacity="0.7"/>
-  <text x="275" y="520" fill="#5b3a24" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">HEAD STRING</text>
-  <text x="163" y="290" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" opacity="0.85" text-anchor="middle">kitchen (break from here)</text>
+  <desc id="desc">Schematic top view of a 9-foot pool table drawn to a uniform scale of 9 pixels per inch: 100 x 50 inch playing surface, 2.25 inch balls, six pockets cut into the rails, 18 diamond sights, head string and the ten-ball rack on the foot spot with a cue ball behind the head string.</desc>
+  <rect x="0" y="0" width="1060" height="620" fill="#f4f1ea"/>
+  <!-- rail frame: wood around the cushion band -->
+  <rect x="10" y="10" width="1040" height="600" fill="#5b3a24" stroke="#3b2415" stroke-width="3"/>
+  <!-- cushion band, cloth colour -->
+  <rect x="64" y="64" width="932" height="492" fill="#2b8a5e"/>
+  <!-- playing surface 900 x 450 px = 100 x 50 in -->
+  <rect x="110" y="90" width="900" height="450" fill="#1e7d4f"/>
+  <!-- six pockets cut into the rails: corner mouths approx. 4.5 in, side mouths approx. 5 in -->
+  <circle cx="97" cy="77" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="1023" cy="77" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="97" cy="553" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="1023" cy="553" r="37" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="500" cy="64" r="34" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <circle cx="500" cy="566" r="34" fill="#0c0c0c" stroke="#000000" stroke-width="2"/>
+  <!-- cushion noses, interrupted by the pocket mouths -->
+  <g stroke="#f4f1ea" stroke-width="2" opacity="0.55">
+    <line x1="132" y1="90" x2="478" y2="90"/>
+    <line x1="522" y1="90" x2="988" y2="90"/>
+    <line x1="132" y1="540" x2="478" y2="540"/>
+    <line x1="522" y1="540" x2="988" y2="540"/>
+    <line x1="110" y1="132" x2="110" y2="518"/>
+    <line x1="1010" y1="132" x2="1010" y2="518"/>
+  </g>
+  <!-- head string: a quarter of the table length from the head rail -->
+  <line x1="335" y1="90" x2="335" y2="540" stroke="#ffffff" stroke-width="2" stroke-dasharray="8 6" opacity="0.7"/>
+  <text x="335" y="116" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">HEAD STRING</text>
+  <text x="222" y="345" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" opacity="0.85" text-anchor="middle">kitchen, break from here</text>
   <!-- head spot and foot spot -->
-  <circle cx="275" cy="275" r="4" fill="#ffffff"/>
-  <circle cx="725" cy="275" r="4" fill="#ffffff"/>
-  <text x="725" y="30" fill="#5b3a24" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">FOOT SPOT</text>
-  <!-- pockets, slightly enlarged for clarity -->
-  <circle cx="52" cy="52" r="22" fill="#111111"/>
-  <circle cx="948" cy="52" r="22" fill="#111111"/>
-  <circle cx="52" cy="448" r="22" fill="#111111"/>
-  <circle cx="948" cy="448" r="22" fill="#111111"/>
-  <circle cx="500" cy="46" r="22" fill="#111111"/>
-  <circle cx="500" cy="454" r="22" fill="#111111"/>
-  <!-- diamond sights: 3 on each short rail, 6 on each long rail -->
+  <circle cx="335" cy="315" r="3" fill="#ffffff"/>
+  <circle cx="785" cy="315" r="3" fill="#ffffff"/>
+  <text x="785" y="135" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">FOOT SPOT</text>
+  <!-- diamond sights: 3 per short rail, 6 per long rail -->
   <g fill="#f4f1ea" stroke="#3b2415" stroke-width="1">
-    <circle cx="50" cy="162.5" r="5"/><circle cx="50" cy="275" r="5"/><circle cx="50" cy="387.5" r="5"/>
-    <circle cx="950" cy="162.5" r="5"/><circle cx="950" cy="275" r="5"/><circle cx="950" cy="387.5" r="5"/>
-    <circle cx="162.5" cy="50" r="5"/><circle cx="275" cy="50" r="5"/><circle cx="387.5" cy="50" r="5"/>
-    <circle cx="612.5" cy="50" r="5"/><circle cx="725" cy="50" r="5"/><circle cx="837.5" cy="50" r="5"/>
-    <circle cx="162.5" cy="500" r="5"/><circle cx="275" cy="500" r="5"/><circle cx="387.5" cy="500" r="5"/>
-    <circle cx="612.5" cy="500" r="5"/><circle cx="725" cy="500" r="5"/><circle cx="837.5" cy="500" r="5"/>
+    <circle cx="87" cy="202.5" r="5"/><circle cx="87" cy="315" r="5"/><circle cx="87" cy="427.5" r="5"/>
+    <circle cx="1033" cy="202.5" r="5"/><circle cx="1033" cy="315" r="5"/><circle cx="1033" cy="427.5" r="5"/>
+    <circle cx="222.5" cy="77" r="5"/><circle cx="335" cy="77" r="5"/><circle cx="447.5" cy="77" r="5"/>
+    <circle cx="672.5" cy="77" r="5"/><circle cx="785" cy="77" r="5"/><circle cx="897.5" cy="77" r="5"/>
+    <circle cx="222.5" cy="553" r="5"/><circle cx="335" cy="553" r="5"/><circle cx="447.5" cy="553" r="5"/>
+    <circle cx="672.5" cy="553" r="5"/><circle cx="785" cy="553" r="5"/><circle cx="897.5" cy="553" r="5"/>
   </g>
-  <!-- ten-ball rack on the foot spot: 1 at the apex, 10 in the middle of the third row -->
-  <g stroke="#0d3b25" stroke-width="1.5">
-    <!-- row 1 -->
-    <circle cx="743" cy="275" r="8" fill="#f5c518"/>
-    <!-- row 2 -->
-    <circle cx="757" cy="267" r="8" fill="#3366cc"/>
-    <circle cx="757" cy="283" r="8" fill="#cc3333"/>
-    <!-- row 3, middle ball is the ten-ball (striped) -->
-    <circle cx="771" cy="259" r="8" fill="#22aa44"/>
-    <circle cx="771" cy="275" r="8" fill="#ffffff"/>
-    <circle cx="771" cy="275" r="5" fill="none" stroke="#cc8800" stroke-width="3"/>
-    <circle cx="771" cy="291" r="8" fill="#8844aa"/>
-    <!-- row 4 -->
-    <circle cx="785" cy="251" r="8" fill="#444444"/>
-    <circle cx="785" cy="267" r="8" fill="#cc7700"/>
-    <circle cx="785" cy="283" r="8" fill="#cc3399"/>
-    <circle cx="785" cy="299" r="8" fill="#3366aa"/>
+  <!-- cue ball in the kitchen, 2.25 in = 20.25 px diameter -->
+  <circle cx="220" cy="315" r="10.1" fill="#f6f4ee" stroke="#c9c2b2" stroke-width="1"/>
+  <!-- ten-ball rack on the foot spot: 1 at the apex, 10 in the middle of the third row, ball spacing 20.25 px, row offset 17.54 px -->
+  <g stroke="#0d3b25" stroke-width="1">
+    <circle cx="785" cy="315" r="10.1" fill="#f5c518"/>
+    <circle cx="802.5" cy="304.9" r="10.1" fill="#3366cc"/>
+    <circle cx="802.5" cy="325.1" r="10.1" fill="#cc3333"/>
+    <circle cx="820.1" cy="294.8" r="10.1" fill="#8844aa"/>
+    <circle cx="820.1" cy="315" r="10.1" fill="#2255aa"/>
+    <circle cx="820.1" cy="335.2" r="10.1" fill="#cc7700"/>
+    <circle cx="837.6" cy="284.6" r="10.1" fill="#22aa44"/>
+    <circle cx="837.6" cy="304.9" r="10.1" fill="#7a2e2e"/>
+    <circle cx="837.6" cy="325.1" r="10.1" fill="#222222"/>
+    <circle cx="837.6" cy="345.4" r="10.1" fill="#f5c518"/>
   </g>
-  <text x="771" y="238" fill="#5b3a24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">10-BALL RACK</text>
-  <!-- rail labels -->
-  <text x="30" y="280" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="rotate(-90 30 280)">HEAD END</text>
-  <text x="970" y="252" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="rotate(90 970 252)">FOOT END</text>
-  <text x="977" y="292" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" transform="rotate(90 984 280)">9-ft table, playing surface approx. 254 cm x 127 cm; balls 57.15 mm</text>
+  <!-- striped nine-ball markings on the last row ball -->
+  <g stroke="#ffffff" stroke-width="3.4" stroke-linecap="round">
+    <line x1="829.6" y1="342" x2="845.6" y2="342"/>
+    <line x1="829.6" y1="348.8" x2="845.6" y2="348.8"/>
+  </g>
+  <!-- white number patch on the ten-ball -->
+  <circle cx="820.1" cy="315" r="6.4" fill="#ffffff"/>
+  <!-- ball numbers -->
+  <g fill="#111111" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
+    <text x="785" y="318.5">1</text>
+    <text x="802.5" y="308.4">2</text>
+    <text x="802.5" y="328.6">3</text>
+    <text x="820.1" y="298.3">4</text>
+    <text x="820.1" y="318.5" font-size="8">10</text>
+    <text x="820.1" y="338.7">5</text>
+    <text x="837.6" y="288.1">6</text>
+    <text x="837.6" y="308.4">7</text>
+    <text x="837.6" y="328.6">8</text>
+    <text x="837.6" y="348.9">9</text>
+  </g>
+  <text x="820" y="264" fill="#5b3a24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">10-BALL RACK</text>
+  <!-- rail labels and scale footnote -->
+  <text x="37" y="315" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(-90 37 315)">HEAD END</text>
+  <text x="1050" y="315" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(90 1050 315)">FOOT END</text>
+  <text x="530" y="600" fill="#5b3a24" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">9-ft table, playing surface 100 x 50 in (254 x 127 cm); ball diameter 2.25 in (57.15 mm); drawn to scale, 9 px per inch.</text>
 </svg>

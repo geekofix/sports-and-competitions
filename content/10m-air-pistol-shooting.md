@@ -10,6 +10,8 @@ The current qualification program is 60 competition shots within 75 minutes, and
 
 ![10 m air gun range, schematic side view](../assets/img/10m-air-gun-range.svg)
 
+*Figure: Own diagram of a standard 10 m indoor air gun range, based on the ISSF General Technical Rules (International Shooting Sport Federation, 2023). No third-party images are used on this page.*
+
 The equipment and course of fire are identical for all genders and for juniors — differences exist only between the men's, women's, mixed-team and junior event labels, not in the rules themselves. By contrast, classification-based para shooting has its own separate formats and classifications under the same world federation.
 
 ## History
