@@ -1,23 +1,32 @@
 ## Basic Information
 
-Bat and trap is a historic English shooting sport played in pubs, mainly in Kent and Sussex: a clay pigeon is launched into the air by a spring-loaded arm ("the trap") and the shooter fires at it with a muzzle-loading shotgun. It is kept alive by specialist clubs such as the Bat and Trap Club and the Sevenoaks Bat and Trap Club, and is listed among England's traditional sports.
+Bat and trap is a traditional English pub game in which a bowler rolls a ball at two upright posts and the batting team tries to hit the ball between the posts with a bat; it survives today mainly in Kent and Sussex, where the Canterbury & District Bat & Trap League, the East Kent Friendly Bat and Trap and the Brighton & Hove club (based at the Bat and Ball pub on Ditchling Road, Brighton, home of the game since 2013) keep the sport alive, with inter-league trophies such as the Kent Cup against Sevenoaks and the Invicta Cup against Medway (Canterbury & District Bat and Trap League, n.d.). The highlight of the 2026 season was the annual Bat & Trap Tournament at The Marine Travel Ground in Canterbury on Saturday, July 18, 2026, hosted by Verum Financial LLP in aid of the Kent Neuro Therapy Centre and Canterbury RFC. Teams are mixed — women bat and bowl alongside men in most pub sides — and the game is played socially in pub gardens and at summer fêtes across Kent. There is no international federation; the rules are maintained by the local leagues and clubs (East Kent Friendly Bat and Trap, n.d.).
+
+![The Bat and Ball pub, 51 Ditchling Road, Brighton, home of bat and trap](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bat_and_Ball_pub%2C_51_Ditchling_Road%2C_Brighton_%28July_2019%29_%283%29.JPG?width=480)
+
+*Figure: Hassocks5489. (2019, July 6). The Bat and Ball pub, 51 Ditchling Road, Brighton, facing The Level [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Bat_and_Ball_pub%2C_51_Ditchling_Road%2C_Brighton_%28July_2019%29_%283%29.JPG*
 
 ## Rules
 
-The trap is a wooden spring arm set on a stand; a clay target is placed on the arm, and a trigger releases it spinning into the air. The shooter stands about 15 yards (14 m) away and fires a single muzzle-loading gun at the rising bird. Scores are counted per round of targets — a "kill" (broken bird) scores, with bonuses for clean breaks at distance. Matches are usually shot over several rounds with singles and doubles formats, and period black-powder guns are typical.
+A team may have up to eight players. The trap is a wooden box 22 in long, 5 in wide and 5 in high with a see-saw striker; the bowler rolls the ball from 21 yd (19 m) away at two posts set 13 ft 6 in (4.11 m) apart and 7 ft (2.1 m) high (Canterbury & District Bat and Trap League, n.d.). The batter hits the ball and must send it between the posts and under the 7 ft crossbar; if the fielding side catches the ball before it bounces, the batter is out. The bowler then returns the ball to the 5 in square wicket at the front of the trap — if the ball knocks the wicket flat, the batter is bowled out; otherwise the batting side scores one run. An innings ends after three outs, and teams then swap roles. In the American version of the game, four players use a 6 × 6 in trap marked with a black X, posts only 1–2 ft apart, a foul line 10 yd from the posts and a back line 5 yd behind the posts, a hit over the back line being called a "four" (East Kent Friendly Bat and Trap, n.d.). Men's and women's teams play under identical rules in mixed pub sides; youth sides shorten the bowling distance.
 
 ## History
 
-Bat and trap dates back to at least the 14th century and was a favorite of rural pubs in Kent and Sussex, where it was played for small stakes. It nearly died out in the 20th century as clay-pigeon shooting (skeet) took over, but dedicated clubs revived it, and today the Bat and Trap Club at Hadlow Down and the Sevenoaks club host open shoots. It is recognized as a traditional English sport by organizations preserving historic games.
+Bat and trap is one of England's oldest pub games, with origins in the early 14th century and its modern form established by 1825; it was once played across southern England but nearly died out before the Kent leagues and the Brighton club revived organised play in the 20th and 21st centuries (Canterbury & District Bat and Trap League, n.d.). The Brighton & Hove club, founded in 2013 around the historic Bat and Ball inn on Ditchling Road, and the long-running Canterbury & District Bat & Trap League, with its Kent Cup and Invicta Cup matches, are now the custodians of the game, and women have always taken part in the mixed pub teams. An American variant of bat and trap developed separately in the United States with its own smaller trap and the "four" rule for hitting the ball over the back line (East Kent Friendly Bat and Trap, n.d.).
 
 ## Sources
 
-- Bat and Trap Club. (n.d.). *Bat and trap shooting — rules and club history*. Retrieved November 20, 2026, from https://batandtrap.org.uk/
-- Sevenoaks Bat and Trap Club. (n.d.). *Bat and trap — the traditional Kentish shooting sport*. Retrieved November 20, 2026, from https://www.sevenoaksbatandtrap.uk/
-- Traditional Sports. (n.d.). *Bat and trap among England's traditional games*. Retrieved November 20, 2026, from https://www.traditionalsports.org/
+- Brighton & Hove Bat and Ball Club. (n.d.). *The Bat and Ball, Brighton*. Retrieved November 21, 2026, from https://www.brightonbatandball.co.uk/
+- Canterbury & District Bat and Trap League. (n.d.). *Rules of bat and trap and league competitions*. Retrieved November 21, 2026, from https://www.batandtrap.co.uk/
+- East Kent Friendly Bat and Trap. (n.d.). *Tournament 2026 and history of the game*. Retrieved November 21, 2026, from https://www.eastkentbatandtrap.co.uk/
+
+### Figure Index
+
+- Hassocks5489. (2019, July 6). *The Bat and Ball pub, 51 Ditchling Road, Brighton* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Bat_and_Ball_pub%2C_51_Ditchling_Road%2C_Brighton_%28July_2019%29_%283%29.JPG (CC0 1.0)
 
 ## Important Links
 
-- [Bat and Trap Club](https://batandtrap.org.uk/) — leading club preserving the sport
-- [Sevenoaks Bat and Trap Club](https://www.sevenoaksbatandtrap.uk/) — historic Kent club with open shoots
-- [Traditional Sports](https://www.traditionalsports.org/) — documentation of England's traditional sports
+- [Canterbury & District Bat and Trap League](https://www.batandtrap.co.uk/) — rules, Kent Cup and Invicta Cup fixtures
+- [East Kent Friendly Bat and Trap](https://www.eastkentbatandtrap.co.uk/) — tournaments, including the 2026 Canterbury event
+- [Brighton & Hove Bat and Ball Club](https://www.brightonbatandball.co.uk/) — the Bat and Ball pub, home of the game in Brighton since 2013
+- [Cricket](cricket.html) and [Baseball](baseball.html) on this site — other bat-and-ball games

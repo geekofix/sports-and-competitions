@@ -1,21 +1,39 @@
 ## Basic Information
 
-Beach soccer is football played on sand: five players per side (four outfield plus a goalkeeper), small goals, no offside, and spectacular overhead kicks and volleys. It is governed by FIFA, which runs the FIFA Beach Soccer World Cup, and by Beach Soccer Worldwide (BSWW), which organizes international club and national-team competitions. It was a Youth Olympic sport at Buenos Aires 2018.
+Beach soccer is five-a-side football played on sand, governed by FIFA, which took over the FIFA Beach Soccer World Cup in 2005; the tournament has been biennial since 2009, so there was no World Cup in 2026, but the 2026 season was packed with elite events — the Mundialito 2026 for national teams, the Euro Beach Soccer League Superfinal in Viareggio, the World Winners Cup in Alanya, the Beach Soccer Africa Cup of Nations in Senegal (November 28–December 6, 2026, a qualifier for the 2027 World Cup), the AFC Beach Soccer Asian Cup (November 18–28, 2026), the OFC Nations Cup in Tahiti (October 24–31, 2026) and the Mundialito de Clubs in Pärnu, Estonia — and Morocco won the 2026 Arab Beach Soccer Cup 6–5 over Mauritania (Fédération Internationale de Football Association [FIFA], n.d.-b). The most recent World Cup was the 2025 edition in Victoria, Mahé, Seychelles (May 1–11, 2025) — the first held in Africa — where Brazil beat Belarus 4–3 in the final to claim a record seventh FIFA title (16th overall), with Rodrigo scoring twice and winning the Golden Ball and the Golden Glove going to Belarus's goalkeeper, while Portugal took bronze ahead of Senegal (FIFA, n.d.-a). Beach soccer debuted at the Youth Olympic Games in Buenos Aires 2018, and the host of the 2027 World Cup will be chosen among bidding countries including El Salvador, Mexico, Spain, Japan, Saudi Arabia and Brazil (International Olympic Committee [IOC], n.d.). The women's game is growing fast, with the 2026 Women's Mundialito staged in Spain.
+
+![Brazil vs Peru at the 2015 CONMEBOL Beach Soccer Championship in Manta, Ecuador](https://commons.wikimedia.org/wiki/Special:Redirect/file/FUTBOL_PLAYA_%2816581441374%29.jpg?width=560)
+
+*Figure: Muñoz, C. (Agencia de Noticias ANDES). (2015, April 19). Brazil vs Peru, 2015 CONMEBOL Beach Soccer Championship, Manta [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:FUTBOL_PLAYA_%2816581441374%29.jpg*
 
 ## Rules
 
-Under the Laws of Beach Soccer used at the FIFA Beach Soccer World Cup, teams have five players, a 12 x 8 m goal, and a 35 x 26 m sand pitch. Matches last three 12-minute periods with a stopped clock. There is no offside rule; throw-ins and corners are taken by dribbling or throwing; free kicks are direct and opponents must be 5 m away. Goalkeepers may handle the ball in their own half and can be sent off. Knockout matches tied after regulation go to extra time and then penalties. At the World Cup, 16 teams play a group stage followed by knockouts.
+Under the FIFA Laws of Beach Soccer, each team fields five players including the goalkeeper on a sand pitch of 35 m × 26 m (maximum 37 m × 28 m) with a 5.5 m × 2.2 m goal (FIFA, n.d.-b). A match lasts three 12-minute periods with a stopped clock, there is no offside, and substitutions are unlimited and flying. Restarts are taken as kick-ins, corner kicks, goal kicks and direct free kicks, with penalty kicks taken from the penalty mark; a player sent off can be replaced after two minutes. The ball may be played with any part of the body except the arms and hands (except the goalkeeper in his own area), and the game is won by the team with the most goals; a draw goes to extra time and then to penalty kicks. Men's and women's matches are played under identical laws, with slightly smaller pitches and goals in youth competitions (FIFA, n.d.-b).
+
+![Israel vs Brazil in the Solidarity Cup beach soccer match in Netanya](https://commons.wikimedia.org/wiki/Special:Redirect/file/Israel_v_Brazil_5.jpg?width=480)
+
+*Figure: Israeli Beach Soccer League. (2008, July 11). Israel vs Brazil, Solidarity Cup, Netanya [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Israel_v_Brazil_5.jpg*
 
 ## History
 
-Beach soccer was formalized in Brazil in the 1990s, where beach football had been played for decades on Rio's beaches; the first official rules were drawn up and the first Beach Soccer World Championship (then unofficial) was held in 1995. FIFA took over the FIFA Beach Soccer World Cup in 2005, with Brazil and Portugal among the most successful nations. The sport debuted at the Youth Olympic Games in Buenos Aires 2018.
+Beach soccer grew out of informal beach football played on the beaches of Rio de Janeiro from the 1940s onward; the Beach Soccer Worldwide (BSWW) organisation codified the first unified rules in 1992 and staged the first world championship in 1995, before FIFA took over the FIFA Beach Soccer World Cup in 2005 in Rio. Brazil became the most successful nation in the sport's history, winning the 2025 Seychelles edition 4–3 over Belarus with a brace from Rodrigo, who also won the Golden Ball as the tournament's best player; Portugal took bronze. The sport debuted at the Youth Olympic Games in Buenos Aires 2018, and women's beach soccer has developed rapidly since, with dedicated World Cup and Mundialito events (FIFA, n.d.-a; Beach Soccer Worldwide, n.d.). Early international fixtures such as the 2008 Solidarity Cup between Israel and Brazil in Netanya show how the game spread beyond its South American heartland (Beach Soccer Worldwide, n.d.).
 
 ## Sources
 
-- Beach Soccer Worldwide. (n.d.). *BSWW — beach soccer competitions and world rankings*. Retrieved November 20, 2026, from https://www.beachsoccer.com/
-- FIFA. (n.d.). *FIFA Beach Soccer World Cup and Laws of Beach Soccer*. Retrieved November 20, 2026, from https://www.fifa.com/
+- Beach Soccer Worldwide. (n.d.). *History and first unified rules 1992*. Retrieved November 21, 2026, from https://www.beachsoccer.com/
+- Fédération Internationale de Football Association. (n.d.-a). *FIFA Beach Soccer World Cup 2025 Seychelles*. Retrieved November 21, 2026, from https://www.fifa.com/tournaments/mens/beachsoccerworldcup
+- Fédération Internationale de Football Association. (n.d.-b). *Laws of the game — beach soccer*. Retrieved November 21, 2026, from https://www.fifa.com/development/education/laws-of-the-game/
+- International Olympic Committee. (n.d.). *Beach soccer at the Youth Olympic Games*. Retrieved November 21, 2026, from https://www.olympics.com/en/sports/beach-soccer/
+
+### Figure Index
+
+- Israeli Beach Soccer League. (2008, July 11). *Israel vs Brazil, Solidarity Cup, Netanya* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Israel_v_Brazil_5.jpg (Public domain)
+- Muñoz, C. (Agencia de Noticias ANDES). (2015, April 19). *Brazil vs Peru, 2015 CONMEBOL Beach Soccer Championship, Manta* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:FUTBOL_PLAYA_%2816581441374%29.jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- [FIFA Beach Soccer World Cup](https://www.fifa.com/) — the premier national-team tournament (under FIFA since 2005)
-- [Beach Soccer Worldwide (BSWW)](https://www.beachsoccer.com/) — international beach soccer competitions and rankings
+- [FIFA](https://www.fifa.com/) — world governing body of football; runs the FIFA Beach Soccer World Cup
+- [FIFA Beach Soccer World Cup](https://www.fifa.com/tournaments/mens/beachsoccerworldcup) — 2025 Seychelles champion Brazil; 2027 edition upcoming
+- [Euro Beach Soccer League](https://www.eurobsl.com/) — European club and national-team competition, 2026 Superfinal in Viareggio
+- [Beach Soccer Worldwide](https://www.beachsoccer.com/) — history of the unified rules and early world championships
+- [Football](football.html) on this site

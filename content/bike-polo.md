@@ -1,21 +1,37 @@
 ## Basic Information
 
-Bike polo (hardcourt bike polo) is a team sport like field polo, but played on bicycles: three to four players per team ride on a hard court and use mallets to hit a small ball into the opponent's goal. The North American Hardcourt Bike Polo Association (NAH) organizes the NAHBPC and the World Hardcourt Bike Polo Championship (WHBPC); the older grass-court version is governed by the World Bicycle Polo Federation.
+Bike polo (hardcourt bike polo) is a team sport played on bicycles on a fenced hard court, in which players use mallets to hit a ball into the opposing goal; internationally it is governed by the World Hardcourt Bike Polo Association (World Hardcourt Bike Polo Association [WHBPC], n.d.), with continental bodies such as the North American Hardcourt Association (NAH, founded 2010) and the European Hardcourt Bike Polo Association (EHBA, founded 2014) running regional scenes (North American Hardcourt Association [NAH], n.d.). There was no World Hardcourt Bike Polo Championship in 2026; the 2026 NAHBPC was held October 23–25, 2026 in Tulsa, Oklahoma, hosted by Tulsa Bike Polo under the NAHBPA, the next WHBPC was planned for 2027 (Taipei mentioned), and the NAH 2026 season used the Quad format — the coldest bike polo tournament ever was played on February 21, 2026 in Whitehorse, Canada (NAH, n.d.). Teams are frequently mixed, with women's teams and mixed squads competing alongside men's teams at every championship, and the 2013 NAHBPC in Minneapolis — the Beavers vs Guardians final — remains one of the most photographed matches in the sport (European Hardcourt Bike Polo Association, n.d.).
+
+![Beavers vs Guardians at the 2013 NAHBPC in Minneapolis](https://commons.wikimedia.org/wiki/Special:Redirect/file/Beavers_vs_Guardians.jpg?width=560)
+
+*Figure: Adamhite. (2013, August 13). Beavers vs Guardians, 2013 North American Hardcourt Bike Polo Championship, Minneapolis [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Beavers_vs_Guardians.jpg*
 
 ## Rules
 
-Under NAH rules, teams of three (four in "quad" format) play on a fenced hard court about 120 x 40 ft with a 6 ft wide goal. Players may not put a foot down ("foot down" = sit out for 45 seconds in 3v3), and goals count only when struck with the mallet head. Matches last 2 x 15 minutes or are first-to-goal in some formats; teams rotate positions clockwise after each goal. The WHBPC, held in a different country every two years, is the world championship, with regional qualifiers such as the NAHBPC feeding it.
+A bike polo team fields three players on the court (squads of up to four to six are allowed in some tournaments) on a fenced court of about 120–155 ft × 60–80 ft (37–47 m × 18–25 m) with 4 ft (1.2 m) boards; the goals are 3 ft × 6 ft (0.9 m × 1.8 m) and set at least 6 ft from the backboard (NAH, n.d.). Players ride bicycles and hit a plastic ball roughly 2.5–3 in in diameter with a mallet; putting a foot down means a 45-second no-go period, the "tap out" rule has been in force since 2005, and crease and interference rules since 2015. A match lasts two halves of about 10 minutes, and the first goal ends the game in many formats, with golden-goal overtime if tied. Men's, women's and mixed teams play under identical rules; youth tournaments use smaller courts and goals (WHBPC, n.d.).
 
 ## History
 
-Cycle polo was an unofficial Olympic sport in 1908 and grass-court bike polo was popular in the early 20th century; the World Bicycle Polo Federation was founded in 1987. Hardcourt bike polo emerged in Seattle around 1999, spread worldwide through the 2000s, and the first world championship was held in Toronto in 2008, followed by the first European championship in London in 2009. The NAH was created in 2010 and wrote the first official ruleset.
+The game's ancestor, cycle polo, was an unofficial demonstration sport at the 1908 London Olympics, and the World Bicycle Polo Federation was founded in the USA in 1987; modern hardcourt bike polo was born in Seattle in 1999 among bike messengers, with the first club, the Axles of Evil, formed in Portland in 2002, the first tournament (WSPI) in Portland in 2004, the first WHBPC in Toronto in 2008, the first European championship in London in 2009 and the first world championship in Europe in Berlin in 2010 (WHBPC, n.d.). The NAH was founded in 2010, the EHBA in 2014 and the Philippine Hardcourt Bike Polo association in 2015, with the first Asian-Oceanian world in Timaru, New Zealand, in 2016, the squad format introduced at Lexington 2017 and the Latin American world in Córdoba, Argentina, in 2019; the Mongrels United won their fourth consecutive world title at Perpignan 2023. Early international matches such as Austria vs Hungary at the Millenáris velodrome in Budapest in 2008 show the European roots, and the women's game has grown into a full scene of its own since the 2000s (European Hardcourt Bike Polo Association, n.d.).
+
+![Austria vs Hungary bike polo match at the Millenáris velodrome, Budapest, 2008](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bike_Polo_AUT-HUN.jpg?width=480)
+
+*Figure: Hu Totya. (2008, April 20). Bike polo match Austria vs Hungary at the Millenáris velodrome, Budapest [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bike_Polo_AUT-HUN.jpg*
 
 ## Sources
 
-- North American Hardcourt Bike Polo Association. (n.d.). *NAH — rules, tournaments and the World Hardcourt Bike Polo Championship*. Retrieved November 20, 2026, from https://www.nahardcourt.com/
-- North American Hardcourt Bike Polo Association. (n.d.). *Tournaments — NAHBPC and WHBPC*. Retrieved November 20, 2026, from https://www.nahardcourt.com/tournaments/
+- European Hardcourt Bike Polo Association. (n.d.). *EHBA — history and European scene*. Retrieved November 21, 2026, from https://www.europeanhardcourt.com/
+- North American Hardcourt Association. (n.d.). *NAH rules and 2026 season — NAHBPC Tulsa*. Retrieved November 21, 2026, from https://www.nahardcourt.com/
+- World Hardcourt Bike Polo Association. (n.d.). *WHBPC — world championships and rules*. Retrieved November 21, 2026, from https://www.whbpc.org/
+
+### Figure Index
+
+- Adamhite. (2013, August 13). *Beavers vs Guardians, 2013 NAHBPC, Minneapolis* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Beavers_vs_Guardians.jpg (CC BY-SA 3.0)
+- Hu Totya. (2008, April 20). *Bike polo match Austria vs Hungary, Millenáris velodrome, Budapest* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Bike_Polo_AUT-HUN.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [North American Hardcourt Bike Polo Association (NAH)](https://www.nahardcourt.com/) — rules and North American championships
-- [World Hardcourt Bike Polo Championship (WHBPC)](https://www.nahardcourt.com/whbpc/) — world championship, held every two years in a different country
+- [World Hardcourt Bike Polo Association (WHBPC)](https://www.whbpc.org/) — world governing body; world championships since 2008
+- [North American Hardcourt Association (NAH)](https://www.nahardcourt.com/) — NAHBPC 2026 in Tulsa, Oklahoma, October 23–25, 2026
+- [European Hardcourt Bike Polo Association (EHBA)](https://www.europeanhardcourt.com/) — European championships and clubs
+- [Cycling](cycling.html) and [Mountain biking](mountain-biking.html) on this site

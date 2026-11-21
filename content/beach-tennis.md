@@ -1,21 +1,37 @@
 ## Basic Information
 
-Beach tennis is tennis played on a sand court with solid paddles (no strings) and a low net, almost always in doubles. It is governed by the International Tennis Federation (ITF), which organizes the ITF Beach Tennis World Championships, and has grown rapidly since the 2000s in Brazil, Italy and Spain.
+Beach tennis is a racket sport played on sand in doubles, combining elements of beach volleyball, tennis and paddleball: players use solid wooden paddles and a depressurized tennis ball that may not bounce; it is governed by the International Tennis Federation (ITF), which took over the discipline in 2008 and rebranded as World Tennis in June 2026, alongside the International Federation of Beach Tennis (IFBT) (International Tennis Federation [ITF], n.d.-b). The ITF Beach Tennis World Championships 2026 were held September 9–13, 2026 in Matosinhos, Portugal, with record prize money of $115,000 (up from $60,000 in 2025) and men's, women's, mixed doubles and junior events, while the Beach Tennis World Tour staged more than 490 tournaments in 35 countries in 2026, ending with the Tour Finals (Sand Series) in Jeddah, Saudi Arabia; the rival IFBT World Championships took place May 20–24, 2026 in Chioggia, near Venice, Italy (ITF, n.d.-a). Brazil, where more than 50,000 players are registered, remains the heartland of the sport, and the 2026 season featured Joana Cortez among the leading names on the sand at Copacabana in Rio de Janeiro. Men's and women's events are played under identical rules, with mixed doubles at every championship.
+
+![Beach tennis at Copacabana, Rio de Janeiro, during Follow The Beach 2025](https://commons.wikimedia.org/wiki/Special:Redirect/file/Joana_Cortez_Follow_The_Beach_2025.jpg?width=560)
+
+*Figure: Felipe.bzra. (2025, May 30). Beach tennis at Copacabana, Rio de Janeiro, Follow The Beach 2025 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Joana_Cortez_Follow_The_Beach_2025.jpg*
 
 ## Rules
 
-Under ITF beach tennis rules, the court is 16 x 8 m for doubles with a net 1.70 m high at the posts (1.80 m at the center in some formats). Players use solid wooden or composite paddles and a low-pressure tennis ball (stage 2/decompressed ball). A point is won when the ball bounces once in the opponent's court and they fail to return it, or when they hit it out or into the net. Scoring is like tennis (15-30-40-game), and at the World Championships matches are best of three sets (with a match tie-break in the third). Serves alternate every two points and are hit underhand into the diagonally opposite service box.
+Beach tennis is always played in doubles on a sand court 16 m × 8 m divided by a net 1.70 m high; players use solid paddles without strings and hit a depressurized tennis ball, and the ball may not bounce — every shot must be played as a volley, with the exception of the return of serve, which may bounce once (International Federation of Beach Tennis [IFBT], n.d.). Scoring follows tennis: points 15-30-40-game, sets to six games with a tie-break at six-all, and matches are best of three sets; the serve is underarm and alternates, and players switch ends every six games. Men's and women's pairs play under identical rules and on the same court dimensions, mixed doubles are a standard category at world championships, and junior events use shorter courts for younger age groups (ITF, n.d.-b).
+
+![Beach tennis paddle (raquete)](https://commons.wikimedia.org/wiki/Special:Redirect/file/Raquete_de_Beach_Tennis.jpg?width=400)
+
+*Figure: C Vincicius. (2014, February 24). Beach tennis racket [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Raquete_de_Beach_Tennis.jpg*
 
 ## History
 
-Beach tennis originated in Italy in the 1970s, evolving from the game "matkot" played on Israeli beaches, and was formalized in Ravenna, Italy, in the 1990s with the first official rules. The ITF took over governance of beach tennis and holds the ITF Beach Tennis World Championships, with both individual and team events. Brazil became the sport's powerhouse, producing most of the world's top players.
+Beach tennis originated in Italy in the early 1970s, with the first informal games on the beaches of Lido degli Estensi near Ravenna; the first official rules were drawn up in Torredembarra, Spain, in 1976, and the first championship was held in Italy in 1978 (International Federation of Beach Tennis [IFBT], n.d.). The IFBT was founded in 1995 and organised the early world championships, while the ITF recognised beach tennis in 2008 and later integrated it into its structure as World Tennis (ITF, n.d.-a). The sport spread first through Brazil and Spain and then worldwide — Brazil now counts more than 50,000 registered players — and the 2026 season brought record prize money at the ITF World Championships in Matosinhos and a World Tour of more than 490 events in 35 countries. Women's beach tennis has grown alongside the men's game since the 1980s, with women's and mixed doubles now standard at every major championship.
 
 ## Sources
 
-- International Tennis Federation. (n.d.). *ITF — beach tennis rules and Beach Tennis World Championships*. Retrieved November 20, 2026, from https://www.itftennis.com/en/tennis/beach-tennis/
-- International Tennis Federation. (n.d.). *About the ITF*. Retrieved November 20, 2026, from https://www.itftennis.com/en/
+- International Federation of Beach Tennis. (n.d.). *IFBT — history and world championships*. Retrieved November 21, 2026, from https://www.ifbt.org/
+- International Tennis Federation. (n.d.-a). *Beach Tennis World Tour 2026*. Retrieved November 21, 2026, from https://www.world.tennis/beach-tennis/
+- International Tennis Federation. (n.d.-b). *ITF Beach Tennis World Championships 2026 and competition rules*. Retrieved November 21, 2026, from https://www.itftennis.com/en/beach-tennis/
+
+### Figure Index
+
+- C Vincicius. (2014, February 24). *Beach tennis racket* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Raquete_de_Beach_Tennis.jpg (CC0 1.0)
+- Felipe.bzra. (2025, May 30). *Beach tennis at Copacabana, Rio de Janeiro, Follow The Beach 2025* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Joana_Cortez_Follow_The_Beach_2025.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [International Tennis Federation (ITF)](https://www.itftennis.com/en/) — world governing body of tennis, including beach tennis
-- [ITF Beach Tennis](https://www.itftennis.com/en/tennis/beach-tennis/) — rules and the Beach Tennis World Championships
+- [International Tennis Federation — World Tennis, beach tennis](https://www.world.tennis/beach-tennis/) — world governing body since 2008; Beach Tennis World Tour and World Championships
+- [ITF Beach Tennis World Championships 2026](https://www.itftennis.com/en/beach-tennis/) — Matosinhos, Portugal, September 9–13, 2026
+- [International Federation of Beach Tennis (IFBT)](https://www.ifbt.org/) — rival circuit; World Championships Chioggia 2026
+- [Tennis](tennis.html) and [Table tennis](table-tennis.html) on this site
