@@ -233,7 +233,7 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 
 /* ---------- detail pages ---------- */
 
-.page { padding: 34px 20px 52px; max-width: 880px; }
+.page { padding: 34px 20px 52px; max-width: 880px; overflow-wrap: break-word; }
 
 .page h1 { font-size: 37px; letter-spacing: -0.02em; margin-bottom: 6px; }
 
@@ -279,7 +279,12 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 #sources h2 { color: var(--c-sources); border-left-color: var(--c-sources); }
 #important-links h2 { color: var(--c-links); border-left-color: var(--c-links); }
 
-.page section p { margin-bottom: 11px; }
+.page section p {
+  margin-bottom: 11px;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
 .page section p:last-child { margin-bottom: 0; }
 .page section ul, .page section ol { margin: 0 0 11px 22px; }
 .page section li { margin-bottom: 7px; }
