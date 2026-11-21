@@ -1,21 +1,44 @@
 ## Basic Information
 
-"Bullet racing" refers to motorcycle speed sprinting with bullet-shaped streamliner machines — both drag-strip sprint races and land-speed record attempts. The most famous "bullets" are the streamliners at the Bonneville Salt Flats, where the absolute motorcycle land speed record (376.36 mph / 605.70 km/h, Ack Attack, 2010) was set. Records are certified by the FIM (world) and the AMA (national, Bonneville Motorcycle Speed Trials).
+Bullet racing — land-speed-record racing with "bullets", the long streamlined cars and motorcycles built to set speed records on the Bonneville Salt Flats in Utah — is the purest form of motorsport: a single machine, a measured mile, and a record to beat. The event organizer is the Southern California Timing Association (SCTA), which runs Bonneville Speed Week; motorcycle records fall under the Fédération Internationale de Motocyclisme (FIM) land speed record rules, with the American Motorcyclist Association (AMA) sanctioning U.S. events (Southern California Timing Association [SCTA], n.d.) (Fédération Internationale de Motocyclisme [FIM], n.d.) (American Motorcyclist Association [AMA], n.d.). At the 78th SCTA Bonneville Speed Week, August 1–7, 2026, 69 records were broken and nine drivers exceeded 300 mph; the fastest run of the meet was Danny Thompson's Ferguson Racing A/FS streamliner at 396.949 mph on August 4 (exit speed 406.249 mph), earning him the HOT ROD Magazine Trophy, while the JCB Hydromax hydrogen streamliner driven by Andy Green reached 367.141/368.347 mph, and 86-year-old Gary Matranga earned his 300-mph blue hat at 307.924 mph (SCTA, n.d.). At the 2026 Bonneville Motorcycle Speed Trials (FIM land speed record event), August 23–27, 2026, eight new records were set; the absolute motorcycle land speed record remains 376.363 mph (605.697 km/h), set by Rocky Robinson on the Top 1 Ack Attack in 2010, and the fastest riders of 2026 were Chris Rivas (BUB Seven) and Eva Håkansson (Green Envy), whose average of about 246 mph was the best of the meet (FIM, n.d.).
+
+On the women's side, Leslie Porterfield of the United States has ridden more than 200 mph on multiple motorcycles and is one of the fastest women in land-speed history, while Eva Håkansson of Sweden was the fastest female rider at the 2026 motorcycle trials (FIM, n.d.) (AMA, n.d.).
+
+![Motorcycle racing on the Bonneville Salt Flats during Speed Week 2023, Wendover, Utah](https://commons.wikimedia.org/wiki/Special:Redirect/file/Motorcycle_Racing_on_Bonneville_Salt_Flats_%2853109270196%29.jpg?width=560)
+
+*Figure: BLMUtah (U.S. Bureau of Land Management Utah; photo: Jonathan Mallory). (2023, August 8). Motorcycle racing on Bonneville Salt Flats during Speedweek 2023 [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Motorcycle_Racing_on_Bonneville_Salt_Flats_%2853109270196%29.jpg*
 
 ## Rules
 
-In land-speed record racing, a record is set by averaging two runs in opposite directions over a timed mile (or kilometre): AMA national records require both passes on the same calendar day; FIM world records require both passes within two hours. Vehicles are divided into classes by engine displacement, fuel, aspiration and degree of streamlining — from production-based bikes to purpose-built bullet streamliners. In drag racing (quarter-mile sprints), two riders launch side by side and the fastest elapsed time and terminal speed win. Safety rules require approved helmets, leather suits, and technical inspection of the machine.
+In land-speed-record racing, a record run consists of two passes over the same measured mile in opposite directions — under FIM rules within two hours, under AMA rules on the same calendar day — and the record is the average of the two speeds; timing is electronic over a measured mile (with a measured kilometre for FIM records) on the salt, with a one-mile acceleration zone (five miles on the long course) (FIM, n.d.) (AMA, n.d.). Vehicles are classified by engine displacement, fuel type, aspiration (naturally aspirated or forced induction) and body style — production cars, modified cars, streamliners (fully enclosed, "bullet"-shaped) and motorcycles — producing several hundred distinct record classes, from 50 cc motorcycles to unlimited streamliners; each class record is open to men and women alike (SCTA, n.d.). Safety rules require approved roll cages, fire suppression, parachutes at high speeds, racing harnesses, helmets and fire suits; drivers must complete a licensing run at lower speed before attempting record speeds (SCTA, n.d.). There are no rounds or heats: each entrant gets a limited number of runs during the event week, and records are certified by SCTA, FIM or AMA officials after both passes (FIM, n.d.). Formats: Speed Week (cars), Motorcycle Speed Trials (FIM records) and the Utah Salt Flats Racing Association's events; the "300 mph club" (blue hat) and "200 mph club" (red hat) awards recognize drivers who exceed those speeds (SCTA, n.d.).
 
 ## History
 
-Motorcycle land-speed racing began in the 1930s at Bonneville, Utah, with the Southern California Timing Association, and at Daytona Beach. Glenn Curtiss set early records in 1903-1907 (136 mph at Ormond Beach, 1907); Don Vesco's Silver Bird was the first motorcycle over 300 mph in 1975. Mike Akatiff's bullet-shaped Ack Attack, powered by twin turbocharged Suzuki Hayabusa engines, set the FIM-certified record of 376.36 mph in 2010 with Rocky Robinson riding. Short "bullet" sprint races on tuned production bikes are a staple of drag-racing events worldwide.
+Land-speed racing on hard sand began at Ormond Beach, Florida, where Glenn Curtiss reached 136 mph on a V8 motorcycle in 1907; the Bonneville Salt Flats became the world's premier speed venue from the 1930s, and the SCTA has organized Speed Week there since the 1940s (SCTA, n.d.). In 1975, Don Vesco became the first person to exceed 300 mph, at 302.035 mph in the Vesco Silver Bird streamliner; the absolute wheel-driven record stands at 448.757 mph (Ack Attack's successor, the Speed Demon, 2020), while the motorcycle record of 376.363 mph was set by Rocky Robinson on the Top 1 Ack Attack in 2010 (FIM, n.d.). Other icons include Burt Munro of New Zealand, who set motorcycle records in the 1960s on his self-modified 1920 Indian Scout, and Leslie Porterfield, the female pioneer of 200-mph motorcycle records (AMA, n.d.) (FIM, n.d.).
+
+![Mike Akatiff with the Top 1 Ack Attack](https://commons.wikimedia.org/wiki/Special:Redirect/file/Mike_Akatiff_with_the_Top_1_Ack_Attack.jpg?width=560)
+
+*Figure: Groensch. (2013, July 17). Mike Akatiff with the Top 1 Ack Attack [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Mike_Akatiff_with_the_Top_1_Ack_Attack.jpg*
+
+![Leslie Porterfield on the Bonneville Salt Flats, Utah](https://commons.wikimedia.org/wiki/Special:Redirect/file/Leslie_Porterfield_on_the_Bonneville_Salt_Flats.jpg?width=480)
+
+*Figure: Griffith, W. (2009, September 2). Leslie Porterfield on the Bonneville Salt Flats [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Leslie_Porterfield_on_the_Bonneville_Salt_Flats.jpg*
 
 ## Sources
 
-- American Motorcyclist Association. (n.d.). *AMA Land Speed Grand Championship — Bonneville Motorcycle Speed Trials*. Retrieved November 20, 2026, from https://americanmotorcyclist.com/racing/track-racing/landspeed-record/
-- Fédération Internationale de Motocyclisme. (n.d.). *FIM — world records and sporting code, land speed records*. Retrieved November 20, 2026, from https://www.fim-moto.com/
+- American Motorcyclist Association. (n.d.). *AMA land speed racing — Bonneville and records*. Retrieved November 21, 2026, from https://americanmotorcyclist.com/
+- Fédération Internationale de Motocyclisme. (n.d.). *FIM land speed records — motorcycle records 2026*. Retrieved November 21, 2026, from https://www.fim-moto.com/
+- Southern California Timing Association. (n.d.). *SCTA — Bonneville Speed Week 2026 results and records*. Retrieved November 21, 2026, from https://scta-bni.org/
+
+### Figure Index
+
+- BLMUtah (U.S. Bureau of Land Management Utah; photo: Jonathan Mallory). (2023, August 8). *Motorcycle Racing on Bonneville Salt Flats (53109270196)* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Motorcycle_Racing_on_Bonneville_Salt_Flats_%2853109270196%29.jpg (Public domain)
+- Griffith, W. (2009, September 2). *Leslie Porterfield on the Bonneville Salt Flats* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Leslie_Porterfield_on_the_Bonneville_Salt_Flats.jpg (Public domain)
+- Groensch. (2013, July 17). *Mike Akatiff with the Top 1 Ack Attack* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Mike_Akatiff_with_the_Top_1_Ack_Attack.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [AMA — Land Speed Record (Bonneville Motorcycle Speed Trials)](https://americanmotorcyclist.com/racing/track-racing/landspeed-record/) — premier national land-speed event
-- [FIM](https://www.fim-moto.com/) — certifies motorcycle world land speed records
+- [Fédération Internationale de Motocyclisme (FIM)](https://www.fim-moto.com/) — world federation; official land speed records (motorcycles)
+- [Southern California Timing Association (SCTA)](https://scta-bni.org/) — Bonneville Speed Week organizer; results, records, 300 mph club
+- [American Motorcyclist Association (AMA)](https://americanmotorcyclist.com/) — U.S. land speed racing sanctioning body
+- [Drag racing](drag-racing.html), [motorcycle racing](motorcycle-racing.html) and [BMX racing](bmx-racing.html) on this site

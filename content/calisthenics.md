@@ -1,23 +1,43 @@
 ## Basic Information
 
-Calisthenics (from the Greek kalos, "beauty", and sthenos, "strength") is strength training using only one's own body weight: pull-ups, push-ups, dips, squats, muscle-ups, levers and handstands, typically on bars or in street workout parks. As a competitive sport it is known as street workout, governed worldwide by the World Street Workout & Calisthenics Federation (WSWCF) based in Riga, Latvia, which runs national championships and the annual Calisthenics World Championship in the disciplines freestyle, power and strength.
+Calisthenics (street workout) is a bodyweight strength sport in which athletes perform gymnastic-style skills — pull-ups, muscle-ups, levers, human flags, planches — on bars, rings and the ground, competing in three disciplines: freestyle (a judged 90-second routine of skills and combos), power (maximum valid repetitions of pull-ups, dips and muscle-ups in a set time) and endurance (maximum-time static holds such as the front lever, back lever and human flag). It is governed by the World Street Workout and Calisthenics Federation (WSWCF), founded in Riga, Latvia, in 2011, which runs the annual Calisthenics World Championship under WADA anti-doping rules (World Street Workout and Calisthenics Federation [WSWCF], n.d.-a). The Calisthenics World Championship 2026 took place August 13–15, 2026, in Riga, Latvia — the 15th anniversary of the WSWCF, after the originally planned Rome 2026 edition was cancelled in April 2026 and moved to Riga — with 214 athletes from 52 countries; the male absolute champions were Edgar Papoyan of Armenia (freestyle), Dimitris Siderakis of Greece (endurance) and Stoyan Banov of Bulgaria (power) (WSWCF, n.d.-a).
+
+On the women's side, the 2026 worlds marked a milestone: Kirsten Varela of India, 33, reached the final on August 15, 2026 — India's Independence Day — becoming the first Indian athlete to reach a world final in calisthenics, while Bulgaria's Daya Todorova finished fifth in the women's open endurance final; Spanish champion Laura García, the 2017 Spanish street workout and calisthenics champion, remains one of the best-known female athletes of the sport (WSWCF, n.d.-a) (Mid-Day, 2026).
+
+![Laura García, 2017 Spanish street workout and calisthenics champion](https://commons.wikimedia.org/wiki/Special:Redirect/file/Laura_Garc%C3%ADa.jpg?width=560)
+
+*Figure: FESWC. (2017, September 2). Laura García — campeona de España de Street Workout y Calistenia 2017 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Laura_Garc%C3%ADa.jpg*
+
+![Freestyle calisthenics competition](https://commons.wikimedia.org/wiki/Special:Redirect/file/Competici%C3%B3n_de_FreeStyle.jpg?width=560)
+
+*Figure: FESWC. (2017, September 2). Competición de FreeStyle [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Competici%C3%B3n_de_FreeStyle.jpg*
 
 ## Rules
 
-At WSWCF world championships, athletes compete in weight categories plus an absolute category. In freestyle, athletes perform a choreographed routine to music and are judged by a panel of independent judges on the difficulty and execution of the elements, on style and on the overall impression. In power, the winner is the athlete who completes the most repetitions of a strength element such as the muscle-up within a set time. In strength disciplines, athletes are judged on static holds such as the front lever, back lever or human flag. Competitors must wear closed-toe shoes and suitable sportswear; gymnastics shoes are not allowed, and all participants are subject to anti-doping controls under WADA rules. Athletes qualify for the world championship through national championships organized by WSWCF member federations.
+Under the WSWCF competition rules, freestyle athletes perform a routine of about 90 seconds combining strength skills (muscle-ups, 360s, clap push-ups), static elements (front lever, back lever, human flag, planche) and acrobatics, judged by a panel on difficulty, execution, composition and presentation; power athletes complete as many valid repetitions as possible of pull-ups, dips and muscle-ups within the time limit, with strict judging of range of motion and no kipping unless allowed; endurance athletes hold static positions — front lever, back lever, human flag — for maximum time, with the times summed for the total (WSWCF, n.d.-b). Athletes compete in weight categories (up to 65 kg, 65–75, 75–85, 85–95, 95+ kg) within each discipline, separately for men and women, and in age classes from juniors to masters; team and 3v3 formats exist at some events. Fouls include false starts, stepping off the platform and invalid repetitions (partial range of motion), which are not counted; anti-doping follows the WADA code with in- and out-of-competition testing at world championships (WSWCF, n.d.-b). Equipment is minimal: pull-up bars, dip bars, parallettes and rings; athletes wear athletic clothing and may use chalk and grips (WSWCF, n.d.-b).
 
 ## History
 
-Calisthenics has roots in the gymnastics of ancient Greece and Rome, and the term was popularized in 19th-century Europe as a system of physical education. Modern street workout culture emerged in the 2000s from outdoor gyms and park bars in Russia and Eastern Europe, where athletes developed spectacular skills such as the muscle-up and the human flag. The WSWCF was founded in Riga in the early 2010s and has since organized the Calisthenics World Championship and the Freestyle World Cup as its flagship events, with member federations in dozens of countries.
+Modern calisthenics grew out of street workout culture: in the 2000s, athletes in Eastern Europe and the United States began training outdoors on playground bars, sharing videos online, and organized competitions emerged in the late 2000s. The WSWCF was founded in Riga in 2011 and held the first Calisthenics World Championship there the same year; since then the circuit has grown to more than 200 athletes from over 50 countries at the world championship (WSWCF, n.d.-a). Well-known athletes who shaped the sport include Sven Kohl of the Calisthenic Movement channel, Saman Sarabi and George Kotsimpos; the sport is closely linked to street workout, gymnastics and bodyweight fitness communities worldwide (WSWCF, n.d.-b). The 2026 championship in Riga celebrated the federation's 15th anniversary with a short film reviewing the history of the world championships from 2011 to 2026, and Latvia's Vadym Oliinyk was inducted into the WSWCF Hall of Fame at the event (WSWCF, n.d.-a).
+
+![Sven Kohl (Calisthenic Movement) performing a human flag, 2013](https://commons.wikimedia.org/wiki/Special:Redirect/file/Human_Flag_von_Sven_Kohl_%28Calisthenic_Movement%29,_2013.jpg?width=560)
+
+*Figure: Kaiser, D. (2013, June 13). Human Flag von Sven Kohl (Calisthenic Movement), 2013 [Photograph]. Wikimedia Commons. CC BY-SA 3.0 / GFDL. https://commons.wikimedia.org/wiki/File:Human_Flag_von_Sven_Kohl_%28Calisthenic_Movement%29,_2013.jpg*
 
 ## Sources
 
-- World Street Workout & Calisthenics Federation. (2025). *WSWCF Calisthenics Freestyle World Championship official competition rules*. https://wswcf.org/wp-content/uploads/2025/03/world-championship-freestyle-rules-2025-ENG-2.docx.pdf
-- World Street Workout & Calisthenics Federation. (n.d.). *Competition types and differences*. Retrieved November 20, 2026, from https://wswcf.org/competitions/competition-types-and-differences/
-- World Street Workout & Calisthenics Federation. (n.d.). *Homepage*. Retrieved November 20, 2026, from https://wswcf.org/
+- Mid-Day. (2026, August 15). *From first-timer to world finalist: How Kirsten Varela made calisthenics history for India*. https://www.mid-day.com/buzzfeed/article/from-first-timer-to-world-finalist-how-kirsten-varela-made-calisthenics-history-for-india-10700
+- World Street Workout and Calisthenics Federation. (n.d.-a). *Calisthenics World Championship 2026 — Riga, official results*. Retrieved November 21, 2026, from https://wswcf.org/
+- World Street Workout and Calisthenics Federation. (n.d.-b). *WSWCF — federation, disciplines (freestyle, power, endurance) and competition rules*. Retrieved November 21, 2026, from https://app.wswcf.org/
+
+### Figure Index
+
+- FESWC. (2017, September 2). *Competición de FreeStyle* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Competici%C3%B3n_de_FreeStyle.jpg (CC BY-SA 4.0)
+- FESWC. (2017, September 2). *Laura García* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Laura_Garc%C3%ADa.jpg (CC BY-SA 4.0)
+- Kaiser, D. (2013, June 13). *Human Flag von Sven Kohl (Calisthenic Movement), 2013* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Human_Flag_von_Sven_Kohl_%28Calisthenic_Movement%29,_2013.jpg (CC BY-SA 3.0 / GFDL)
 
 ## Important Links
 
-- [WSWCF — World Street Workout & Calisthenics Federation](https://wswcf.org/) — world governing body; Calisthenics World Championship
-- [WSWCF — Freestyle World Championship competition rules (PDF)](https://wswcf.org/wp-content/uploads/2025/03/world-championship-freestyle-rules-2025-ENG-2.docx.pdf) — official competition rules
-- [WSWCF — Competition types and differences](https://wswcf.org/competitions/competition-types-and-differences/) — freestyle, power and strength formats
+- [World Street Workout and Calisthenics Federation (WSWCF)](https://wswcf.org/) — world governing body; Calisthenics World Championship 2026 in Riga
+- [CWC 2026 Riga](https://wswcf.org/competitions/cwc-2026/) — official event page, August 13–15, 2026
+- [Street workout](street-workout.html), [gymnastics](gymnastics.html), [bodybuilding](bodybuilding.html) and [weightlifting](weightlifting.html) on this site
