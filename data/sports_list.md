@@ -80,14 +80,12 @@
 | Billiards                                  | https://www.youtube.com/results?search_query=billiards                                  |
 | Blackball                                  | https://www.youtube.com/results?search_query=blackball                                  |
 | Blind Football                             | https://www.youtube.com/results?search_query=blind+football                             |
-| Blind Soccer                               | https://www.youtube.com/results?search_query=blind+soccer                               |
 | Blind Tennis                               | https://www.youtube.com/results?search_query=blind+tennis                               |
 | BMX Freestyle                              | https://www.youtube.com/results?search_query=bmx+freestyle                              |
 | BMX Racing                                 | https://www.youtube.com/results?search_query=bmx+racing                                 |
 | Bo-taoshi                                  | https://www.youtube.com/results?search_query=bo-taoshi                                  |
 | Bobsleigh                                  | https://www.youtube.com/results?search_query=bobsleigh                                  |
 | Bocce                                      | https://www.youtube.com/results?search_query=bocce                                      |
-| Bocce Ball                                 | https://www.youtube.com/results?search_query=bocce+ball                                 |
 | Bocce Punto                                | https://www.youtube.com/results?search_query=bocce+punto                                |
 | Bocce Raffa                                | https://www.youtube.com/results?search_query=bocce+raffa                                |
 | Bocce Volo                                 | https://www.youtube.com/results?search_query=bocce+volo                                 |
@@ -100,7 +98,6 @@
 | Bossaball                                  | https://www.youtube.com/results?search_query=bossaball                                  |
 | Bottle-kicking                             | https://www.youtube.com/results?search_query=bottle-kicking                             |
 | Bouldering                                 | https://www.youtube.com/results?search_query=bouldering                                 |
-| Boule                                      | https://www.youtube.com/results?search_query=boule                                      |
 | Boule Lyonnaise                            | https://www.youtube.com/results?search_query=boule+lyonnaise                            |
 | Bowling                                    | https://www.youtube.com/results?search_query=bowling                                    |
 | Box Lacrosse                               | https://www.youtube.com/results?search_query=box+lacrosse                               |
@@ -110,7 +107,6 @@
 | British Baseball                           | https://www.youtube.com/results?search_query=british+baseball                           |
 | Broom Hockey                               | https://www.youtube.com/results?search_query=broom+hockey                               |
 | Broomball                                  | https://www.youtube.com/results?search_query=broomball                                  |
-| Broomball on Ice                           | https://www.youtube.com/results?search_query=broomball+on+ice                           |
 | Brännboll                                  | https://www.youtube.com/results?search_query=br%C3%A4nnboll                             |
 | Bubble Gum Blowing                         | https://www.youtube.com/results?search_query=bubble+gum+blowing                         |
 | Buhurt                                     | https://www.youtube.com/results?search_query=buhurt                                     |
@@ -243,7 +239,6 @@
 | Extreme Speed Yodeling                     | https://www.youtube.com/results?search_query=extreme+speed+yodeling                     |
 | Face Slapping                              | https://www.youtube.com/results?search_query=face+slapping                              |
 | Fastpitch Softball                         | https://www.youtube.com/results?search_query=fastpitch+softball                         |
-| Faustball                                  | https://www.youtube.com/results?search_query=faustball                                  |
 | Fencing                                    | https://www.youtube.com/results?search_query=fencing                                    |
 | Fencing Foil                               | https://www.youtube.com/results?search_query=fencing+foil                               |
 | Fencing Sabre                              | https://www.youtube.com/results?search_query=fencing+sabre                              |
@@ -256,18 +251,17 @@
 | Field Lacrosse                             | https://www.youtube.com/results?search_query=field+lacrosse                             |
 | Fierljeppen                                | https://www.youtube.com/results?search_query=fierljeppen                                |
 | Figure Skating                             | https://www.youtube.com/results?search_query=figure+skating                             |
-| Fin Swimming                               | https://www.youtube.com/results?search_query=fin+swimming                               |
 | Finnish Sauna Olympics                     | https://www.youtube.com/results?search_query=finnish+sauna+olympics                     |
 | Finswimming                                | https://www.youtube.com/results?search_query=finswimming                                |
 | Fire Hockey                                | https://www.youtube.com/results?search_query=fire+hockey                                |
 | Fire-Ball Soccer                           | https://www.youtube.com/results?search_query=fire-ball+soccer                           |
 | Firefighter Games                          | https://www.youtube.com/results?search_query=firefighter+games                          |
+| Fistball                                   | https://www.youtube.com/results?search_query=fistball                                     |
 | Fistball Beach                             | https://www.youtube.com/results?search_query=fistball+beach                             |
 | Fistball Indoor                            | https://www.youtube.com/results?search_query=fistball+indoor                            |
 | Five-a-side Football                       | https://www.youtube.com/results?search_query=five-a-side+football                       |
 | Flag Football                              | https://www.youtube.com/results?search_query=flag+football                              |
 | Flat Track Racing                          | https://www.youtube.com/results?search_query=flat+track+racing                          |
-| Floor Shuffleboard                         | https://www.youtube.com/results?search_query=floor+shuffleboard                         |
 | Floorball                                  | https://www.youtube.com/results?search_query=floorball                                  |
 | Flyball                                    | https://www.youtube.com/results?search_query=flyball                                    |
 | Foot Orienteering                          | https://www.youtube.com/results?search_query=foot+orienteering                          |
@@ -301,7 +295,6 @@
 | Girevoy Sport                              | https://www.youtube.com/results?search_query=girevoy+sport                              |
 | Gliding                                    | https://www.youtube.com/results?search_query=gliding                                    |
 | Glima                                      | https://www.youtube.com/results?search_query=glima                                      |
-| Glíma                                      | https://www.youtube.com/results?search_query=gl%C3%ADma                               |
 | Go                                         | https://www.youtube.com/results?search_query=go                                         |
 | Goalball                                   | https://www.youtube.com/results?search_query=goalball                                   |
 | Goanna Pulling                             | https://www.youtube.com/results?search_query=goanna+pulling                             |
@@ -463,7 +456,6 @@
 | Nordic Combined                            | https://www.youtube.com/results?search_query=nordic+combined                            |
 | Novuss                                     | https://www.youtube.com/results?search_query=novuss                                     |
 | Obstacle Course Racing                     | https://www.youtube.com/results?search_query=obstacle+course+racing                     |
-| Octopush                                   | https://www.youtube.com/results?search_query=octopush                                   |
 | Oil Wrestling                              | https://www.youtube.com/results?search_query=oil+wrestling                              |
 | Oină                                       | https://www.youtube.com/results?search_query=oin%C4%83                                  |
 | Olympic Weightlifting Clean and Jerk       | https://www.youtube.com/results?search_query=olympic+weightlifting+clean+and+jerk       |
@@ -491,7 +483,6 @@
 | Parkour Speed                              | https://www.youtube.com/results?search_query=parkour+speed                              |
 | Pato                                       | https://www.youtube.com/results?search_query=pato                                       |
 | Pea Shooting                               | https://www.youtube.com/results?search_query=pea+shooting                               |
-| Pehlwani                                   | https://www.youtube.com/results?search_query=pehlwani                                   |
 | Pelota Purépecha                           | https://www.youtube.com/results?search_query=pelota+pur%C3%A9pecha                      |
 | Pencak Silat                               | https://www.youtube.com/results?search_query=pencak+silat                               |
 | Pencak Silat Seni                          | https://www.youtube.com/results?search_query=pencak+silat+seni                          |
@@ -554,7 +545,6 @@
 | Roller Freestyle                           | https://www.youtube.com/results?search_query=roller+freestyle                           |
 | Roller Hockey                              | https://www.youtube.com/results?search_query=roller+hockey                              |
 | Roller Skiing                              | https://www.youtube.com/results?search_query=roller+skiing                              |
-| Roller Speed Skating                       | https://www.youtube.com/results?search_query=roller+speed+skating                       |
 | Roque                                      | https://www.youtube.com/results?search_query=roque                                      |
 | Rounders                                   | https://www.youtube.com/results?search_query=rounders                                   |
 | Roundnet                                   | https://www.youtube.com/results?search_query=roundnet                                   |
@@ -570,7 +560,6 @@
 | Saddle Bronc Riding                        | https://www.youtube.com/results?search_query=saddle+bronc+riding                        |
 | Sailing                                    | https://www.youtube.com/results?search_query=sailing                                    |
 | Sambo                                      | https://www.youtube.com/results?search_query=sambo                                      |
-| Sanda                                      | https://www.youtube.com/results?search_query=sanda                                      |
 | Sandboarding                               | https://www.youtube.com/results?search_query=sandboarding                               |
 | Savate                                     | https://www.youtube.com/results?search_query=savate                                     |
 | Schlagball                                 | https://www.youtube.com/results?search_query=schlagball                                 |
@@ -644,7 +633,6 @@
 | Soft Tennis                                | https://www.youtube.com/results?search_query=soft+tennis                                |
 | Softball                                   | https://www.youtube.com/results?search_query=softball                                   |
 | Spearfishing                               | https://www.youtube.com/results?search_query=spearfishing                               |
-| Speed Badminton                            | https://www.youtube.com/results?search_query=speed+badminton                            |
 | Speed Climbing                             | https://www.youtube.com/results?search_query=speed+climbing                             |
 | Speed Pool                                 | https://www.youtube.com/results?search_query=speed+pool                                 |
 | Speed Skating                              | https://www.youtube.com/results?search_query=speed+skating                              |
@@ -749,7 +737,7 @@
 | Turkey Bowling                             | https://www.youtube.com/results?search_query=turkey+bowling                             |
 | Turtle Racing                              | https://www.youtube.com/results?search_query=turtle+racing                              |
 | Ulama                                      | https://www.youtube.com/results?search_query=ulama                                      |
-| Ultimate Frisbee                           | https://www.youtube.com/results?search_query=ultimate+frisbee                           |
+| Ultimate                                   | https://www.youtube.com/results?search_query=ultimate+frisbee                           |
 | Ultimate Tazer Ball                        | https://www.youtube.com/results?search_query=ultimate+tazer+ball                        |
 | Underwater Cycling                         | https://www.youtube.com/results?search_query=underwater+cycling                         |
 | Underwater Hockey                          | https://www.youtube.com/results?search_query=underwater+hockey                          |
@@ -780,7 +768,6 @@
 | Weight Over Bar                            | https://www.youtube.com/results?search_query=weight+over+bar                            |
 | Weight Pulling Dog Sport                   | https://www.youtube.com/results?search_query=weight+pulling+dog+sport                   |
 | Weightlifting                              | https://www.youtube.com/results?search_query=weightlifting                              |
-| Weiqi                                      | https://www.youtube.com/results?search_query=weiqi                                      |
 | Welsh Handball                             | https://www.youtube.com/results?search_query=welsh+handball                             |
 | Wheel Gymnastics                           | https://www.youtube.com/results?search_query=wheel+gymnastics                           |
 | Wheelbarrow Olympics                       | https://www.youtube.com/results?search_query=wheelbarrow+olympics                       |

@@ -1,14 +1,14 @@
 ## Basic Information
 
-Finswimming is the alternate English spelling of fin swimming — competitive swimming with fins, governed by CMAS (World Underwater Federation). This entry cross-references the main article: see [Fin Swimming](fin-swimming.html), which covers the surface, apnea and immersion disciplines, the CMAS World Championships and the rules in full.
+Finswimming is an underwater racing sport in which athletes swim with a monofin or two fins on the surface or underwater, with or without a breathing apparatus (bi-fins, surface, and apnea/immersion disciplines). It is governed by the Confédération Mondiale des Activités Subaquatiques (CMAS, World Underwater Federation), which runs the CMAS Finswimming World Championships; finswimming has been part of the World Games since 1981.
 
 ## Rules
 
-The rules are those of CMAS finswimming: surface events (50-1600 m) with bi-fins or monofin, breath-hold apnea events, and SCUBA immersion events, with the 15 m surface rule after starts and turns and electronic timing. Full details are given in the [Fin Swimming](fin-swimming.html) entry on this site.
+At CMAS World Championships, events are divided into surface (SF) events with bi-fins or monofin (50 m, 100 m, 200 m, 400 m, 800 m, 1500 m, and relays 4x100 m / 4x200 m), apnea (breath-hold) events such as 50 m apnea, and immersion events with SCUBA (100 m, 200 m, 400 m obstacle course). Surface swimmers must break the surface within 15 m after the start and each turn, and use the prescribed fin technique (no underwater dolphin kicking except after start/turn within the 15 m). Timing is electronic; false starts disqualify. Equipment rules limit fin materials and sizes, and monofins must meet CMAS specifications. In pool championships, events range from 50 m to 1600 m surface, 50 m apnea and 100/200/400 m immersion.
 
 ## History
 
-Finswimming as a competitive sport dates to the 1950s-60s in the Soviet bloc and has been governed by CMAS since the 1960s, with World Championships since 1967 and a place on the World Games program since 1981. See [Fin Swimming](fin-swimming.html) for the full history.
+Finswimming developed in the Soviet Union and Eastern Europe in the 1950s-60s as a competitive extension of diving and underwater swimming, using rubber fins invented for military swimmers. The CMAS, founded in 1959 in Monaco, has governed finswimming since the 1960s and held the first World Championships in 1967. Finswimming has been part of the World Games program since the first Games in 1981 (Santa Clara). Russia, China, Ukraine, Hungary, Greece and Italy dominate internationally, with world records over 40 seconds for 100 m surface. Finswimming is also the base for competitive freediving and underwater hockey/rugby disciplines under CMAS.
 
 ## Sources
 
@@ -16,5 +16,6 @@ Finswimming as a competitive sport dates to the 1950s-60s in the Soviet bloc and
 
 ## Important Links
 
-- [CMAS — World Underwater Federation](https://www.cmas.org/) — world governing body; finswimming rules and World Championships
-- [Fin Swimming — full sport entry](fin-swimming.html) — same discipline under the main spelling on this site
+- [CMAS — Confédération Mondiale des Activités Subaquatiques](https://www.cmas.org/) — world governing body; finswimming rules and World Championships
+- [World Games — finswimming](https://www.theworldgames.org/) — finswimming on the World Games program since 1981
+- [Finswimming — duplicate entry](finswimming.html) — same discipline under its alternate spelling on this site

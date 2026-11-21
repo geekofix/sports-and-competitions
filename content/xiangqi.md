@@ -19,6 +19,6 @@ Xiangqi descends from the shared ancestor of all chess games — early Chinese g
 
 ## Important Links
 
-- [Weiqi](weiqi.html) — the other great Chinese board game, known as Go, on this site
+- [Go](go.html) — the other great Chinese board game, on this site
 - [Chess](chess.html) — the Western chess variant, on this site
 - [Shogi](shogi.html) — Japanese chess, on this site

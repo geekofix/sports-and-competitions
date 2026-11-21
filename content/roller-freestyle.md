@@ -20,4 +20,4 @@ Freestyle slalom skating grew out of the street skating scenes of France, Russia
 
 - World Skate Inline Freestyle rulebook — official rules for Classic, Battle, Speed and Pair slalom
 - USA Roller Sports: About slalom and freestyle — introduction to the events
-- [Roller Figure Skating](roller-figure-skating.html) and [Roller Speed Skating](roller-speed-skating.html) — related roller sports on this site
+- [Roller Figure Skating](roller-figure-skating.html) and [Inline Speed Skating](inline-speed-skating.html) — related roller sports on this site

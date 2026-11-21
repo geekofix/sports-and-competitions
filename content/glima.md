@@ -17,4 +17,3 @@ Glima is one of the oldest documented sports in Iceland, described in the mediev
 ## Important Links
 
 - [Glima.is — Icelandic Glima Association](https://www.glima.is/) — national governing body; rules and the Icelandic championship
-- [Gléma — related entry](glima-2.html) — alternate spelling/variant on this site

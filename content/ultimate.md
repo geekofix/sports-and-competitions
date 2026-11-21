@@ -1,6 +1,6 @@
 ## Basic Information
 
-Ultimate (often called Ultimate Frisbee) is a non-contact team sport played with a flying disc on a 100 m x 37 m field with end zones, in which seven players per side pass the disc to score by catching it in the opponent's end zone. It is governed by the World Flying Disc Federation (WFDF), founded in 1985 and recognized by the IOC, which runs the World Ultimate Club Championships and the World Championships, and disc sports have been part of the World Games since 2001. Related disc sports include [disc golf](disc-golf.html) and disc dog on this site.
+Ultimate is a non-contact team sport played with a flying disc on a 100 m x 37 m field with end zones, in which seven players per side pass the disc to score by catching it in the opponent's end zone. It is governed by the World Flying Disc Federation (WFDF), founded in 1985 and recognized by the IOC, which runs the World Ultimate Club Championships and the World Championships, and disc sports have been part of the World Games since 2001. Related disc sports include disc golf, played on the [disc golf](disc-golf.html) page on this site.
 
 ## Rules
 

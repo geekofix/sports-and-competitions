@@ -20,4 +20,4 @@ Artistic roller skating developed alongside the quad roller skate in the late 19
 
 - World Skate Artistic regulations — official technical rules for all disciplines
 - Wikipedia: Artistic roller skating — disciplines, equipment and scoring
-- [Roller Freestyle](roller-freestyle.html), [Roller Speed Skating](roller-speed-skating.html) and [Roller Hockey](roller-hockey.html) — related roller sports on this site
+- [Roller Freestyle](roller-freestyle.html), [Inline Speed Skating](inline-speed-skating.html) and [Roller Hockey](roller-hockey.html) — related roller sports on this site

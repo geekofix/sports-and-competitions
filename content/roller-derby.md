@@ -21,4 +21,4 @@ Roller derby was invented in 1935 by Chicago promoter Leo Seltzer as a Transcont
 - WFTDA rules — official ruleset of flat track roller derby
 - Wikipedia: Roller derby — rules, culture and history
 - Texas State Historical Association: Roller derby in Texas — the Austin revival's origins
-- [Roller Hockey](roller-hockey.html) and [Roller Speed Skating](roller-speed-skating.html) — related roller sports on this site
+- [Roller Hockey](roller-hockey.html) and [Inline Speed Skating](inline-speed-skating.html) — related roller sports on this site
