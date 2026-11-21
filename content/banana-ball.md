@@ -1,23 +1,37 @@
 ## Basic Information
 
-Banana Ball is the fast-paced, fan-first version of baseball created by the Savannah Bananas, governed by 11 unique rules that make every play count. Since its 2026 debut season it is played professionally by the Banana Ball Championship League (BBCL), a six-team barnstorming league based in Savannah, Georgia. Separately, "banana ball" is also the name of a handball/dodgeball hybrid game popular at summer camps.
+Banana Ball is a modified, entertainment-first version of baseball created by Jesse Cole and the Savannah Bananas, who began as an exhibition barnstorming team in 2016 (first exhibition game in 2018) and turned full-time Banana Ball in 2023. The Banana Ball Championship League (BBCL) debuted in 2026 with six teams — the Savannah Bananas, Party Animals, Firefighters, Texas Tailgaters, Loco Beach Coconuts and Indianapolis Clowns — playing a touring schedule of about 75 venues across 45 states, with more than 3.2 million fans projected for 2026 (Banana Ball, n.d.-a). The Texas Tailgaters won the Banana Ball Open (April 16–19, 2026, Grayson Stadium) and then the Banana Bowl I on October 10, 2026 at Nationals Park in Washington, D.C., defeating the Bananas 2–1 to become the 2026 BBCL champions; the pre-league 2025 championship had been won by the Party Animals (Banana Ball, n.d.-b).
+
+Banana Ball keeps baseball's core — nine innings, three outs, balls and strikes — but adds 11 house rules designed for speed and showmanship (Banana Ball, n.d.-a).
+
+![The Party Animals playing at the Savannah Bananas in 2021](https://commons.wikimedia.org/wiki/Special:Redirect/file/Party_Animals_at_Savannah_Bananas,_2021-03-27_170717.jpg?width=560)
+
+*Figure: baseballmapper. (2021, March 27). Party Animals at Savannah Bananas, 2021 [Photograph]. Wikimedia Commons. CC0 1.0 (public domain). https://commons.wikimedia.org/wiki/File:Party_Animals_at_Savannah_Bananas,_2021-03-27_170717.jpg*
 
 ## Rules
 
-Banana Ball keeps baseball's core but adds spectacle: every inning begins with a one-on-one "bat-off" between the leadoff hitters, won by whoever hits the ball farthest; foul balls count as strikes (two maximum, and a third strike ends the at-bat); batters may steal first base on any ball not caught; and if a spectator catches a foul ball in the stands, the batter is out. Coaches can challenge calls, players dance between pitches, and games are timed to keep the pace high. The BBCL plays a championship series at the end of each season.
+Under the official Banana Ball rules, each of the nine innings starts with a "bat-off": both leadoff hitters swing simultaneously and whoever hits farther leads off. Foul balls count as strikes (except on a third strike, which is not an out), and a foul ball caught by a fan in the stands is an out. If a pitcher walks a batter, the catcher may throw the ball down to get the runner out at any base — "steal first" is automatic on an uncaught third strike, and the batter becomes a runner. There is no bunting, no mound visits, and no slide-in restrictions beyond safety; games are typically two hours, and if tied after nine innings, extra innings are decided by the bat-off winner hitting first (Banana Ball, n.d.-a).
+
+Teams carry 11 players — including a designated "King of the Ville" entertainer role historically — and the Savannah Bananas' signature elements include choreographed entrances, dancing, and the on-field entertainment between innings. Equipment is standard baseball gear; the ball is a slightly modified baseball. There are no separate women's rules — the BBCL is currently a men's exhibition league, though the Savannah Bananas organization runs women's softball-style Banana Ball clinics and the original Savannah Bananas women's team plays exhibition softball. Youth and amateur versions follow the same 11 rules at community level (Banana Ball, n.d.-b).
 
 ## History
 
-The Savannah Bananas, founded by Jesse Cole in 2016, began as a collegiate summer league team and staged their first alternate-rules exhibition game in 2018. From 2023 they played Banana Ball full time and toured the United States on "World Tours" in 2024 and 2025. In 2026 the Banana Ball Championship League launched with six teams — the Bananas, Party Animals, Firefighters, Texas Tailgators, Loco Beach Coconuts and the revived Indianapolis Clowns.
+Jesse Cole founded the Savannah Bananas in 2016 in Savannah, Georgia, after buying a collegiate summer team (the Macon Bacon) and rebranding it with yellow uniforms, banana-themed entertainment and comedic in-game bits; the first exhibition game was played in 2018. The team went viral on social media in the early 2020s, sold out every game, and moved to full-time Banana Ball in 2023, playing at major league stadiums including loanDepot park and Nationals Park (Banana Ball, n.d.-a).
+
+The Banana Ball World Tour followed in 2024 and 2025, playing internationally, and the 2025 championship (before the league formalized) was won by the Party Animals, the Bananas' historic rivals. In 2026 the BBCL launched as a six-team league with the Banana Bowl as its championship game; the Texas Tailgaters won Banana Bowl I at Nationals Park on October 10, 2026. On the women's side, the Savannah Bananas organization has fielded women's exhibition teams, and the broader baseball world it parodies has seen the growth of women's professional baseball (e.g. the Women's Baseball World Cup) (Banana Ball, n.d.-b).
 
 ## Sources
 
-- Banana Ball. (n.d.). *The 11 rules of Banana Ball*. Retrieved November 20, 2026, from https://bananaball.com/rules/
-- Yahoo Sports. (2026). *Explaining the 11 wild rules of Banana Ball*. Retrieved November 20, 2026, from https://sports.yahoo.com/articles/explaining-11-wild-rules-banana-080535908.html
-- Savannah Bananas. (n.d.). *The original Banana Ball team*. Retrieved November 20, 2026, from https://thesavannahbananas.com/
+- Banana Ball. (n.d.-a). *Official rules of Banana Ball*. Retrieved November 21, 2026, from https://www.bananaball.com/rules/
+- Banana Ball. (n.d.-b). *BBCL 2026 season and Banana Bowl I*. Retrieved November 21, 2026, from https://www.bananaball.com/
+
+### Figure Index
+
+- baseballmapper. (2021, March 27). *Party Animals at Savannah Bananas, 2021* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Party_Animals_at_Savannah_Bananas,_2021-03-27_170717.jpg (CC0 1.0, public domain)
 
 ## Important Links
 
-- [Banana Ball — official rules](https://bananaball.com/rules/) — the 11 rules of the game
-- [Banana Ball Championship League (BBCL)](https://bananaball.com/) — the professional league (debut season 2026)
-- [Savannah Bananas](https://thesavannahbananas.com/) — the club that created the Banana Ball format
+- [Banana Ball — official rules](https://www.bananaball.com/rules/) — the 11 official Banana Ball rules
+- [Banana Ball / Savannah Bananas](https://www.bananaball.com/) — BBCL teams, schedule, Banana Bowl and World Tour
+- [Savannah Bananas](https://thesavannahbananas.com/) — the original exhibition team, founded 2016 by Jesse Cole
+- [Baseball](baseball.html), [Softball](softball.html), [British Baseball](british-baseball.html) and [Baseball5](baseball5.html) on this site

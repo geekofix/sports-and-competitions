@@ -1,24 +1,38 @@
 ## Basic Information
 
-Barefoot water skiing is water skiing without skis — the skier rides directly on their bare feet on the water surface at higher speeds than conventional skiing, typically around 35 to 45 km/h depending on the skier's weight (with deep-water starts requiring more speed than shore or dock starts). The sport demands strength, balance and a low body position, with skiers gliding on the soles of their feet in the wake of the boat.
+Barefoot water skiing is water skiing without skis: the skier is towed behind a motorboat at high speed — typically 30–32 mph (48–52 km/h) for men and 26–28 mph for women in slalom, up to 58 mph (93 km/h) in jump — and rides on the soles of their bare feet, using a specialized barefoot boom or handle and a starting platform (deep-water start). It is governed by the International Waterski & Wakeboard Federation (IWWF), which has run the World Barefoot Water Ski Championships since 1978; the 2026 IWWF Open, U23 & Junior World Barefoot Water Ski Championships were held at Champions Lake, Lake Myrtle (Barefoot), Auburndale, Florida, from October 17–24, 2026 (International Waterski & Wakeboard Federation [IWWF], n.d.-a). The disciplines are slalom (around buoys), jump (off a ramp) and tricks (surface maneuvers), combined into an overall title.
 
-Developed in the mid-twentieth century in the American water ski scene, it is governed today within the International Water Ski and Wakeboard Federation's tournament discipline structure, with world championships in slalom, tricks and jump events.
+The United States and Australia have dominated the all-time barefoot medal tables at world championships since 1978. Among the sport's legends is Keith St. Onge of the USA — 14-time US national overall champion and two-time world barefoot overall champion (2006, 2008), the only professional to hold world records in slalom, jump and tricks at the same time (IWWF, n.d.-b; USA Water Ski, n.d.).
+
+![Eddie Smit barefoot water skiing on one foot (the "toehold") at 68 km/h](https://commons.wikimedia.org/wiki/Special:Redirect/file/Eddie_one_foot_DSCF0067_2.JPG?width=560)
+
+*Figure: Eddiesmit. (2006, October 29). Barefoot water skiing — Eddie Smit skiing on one bare foot (the toehold) at 68 km/h [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Eddie_one_foot_DSCF0067_2.JPG*
 
 ## Rules
 
-Competitive barefooting uses the three classical water ski events with barefoot-specific standards: in barefoot slalom, skiers cross the wake behind the boat in a set number of passes on a shortened line with scoring per crossing; in tricks, skiers perform surface turns, toe holds and tumbles (with tricks executed on the feet only) scored for points; and in barefoot jump, skiers ride over a small ramp at high speed with distance recording jumps. Boat speed is prescribed by class (with skiers riding rather than being dragged on their stomachs at higher speeds), with falls meaning elimination from the pass and judges applying IWWF tournament rules.
+Under IWWF rules, barefoot slalom uses a course of six buoys on a 259.25 m centerline path; the boat speed is 30 mph (48.3 km/h) for men and 28 mph for women at the world championships, and each pass is scored by how many buoys are rounded with the fewest penalty points; the best pass counts. Barefoot jump uses a ramp 6.5–6.75 m high (world championships), with boat speed up to 36 mph for men and 33 mph for women; the longest of two measured jumps counts. Tricks are 20-second sets of surface maneuvers (spins, flips, crosses) scored on a points system with a maximum of 10,990 points for elite men. The overall title is decided by combined slalom/jump/tricks scores using the IWWF scoring tables (IWWF, n.d.-a).
+
+Equipment rules: no skis, but a barefoot boom (a triangular tow bar attached to the boat) or a handle plus a starting board may be used for deep-water starts; wetsuits are permitted; a life jacket and helmet are mandatory in competition; the boat must have a spotter and an approved driver. There are no gender-specific equipment rules, but boat speeds and ramp/jump categories differ for men and women (as above), and age classes (Junior U17/U21/U23, Open) use reduced speeds and lower ramps (IWWF, n.d.-b).
 
 ## History
 
-The sport's birth is credited to Dick Pope Sr. of Cypress Gardens in Florida, who demonstrated skiing on his bare feet in the late 1940s (with 1947 commonly cited) and turned the stunt into a show spectacle. Competitive barefooting developed through the 1950s and 1960s with pioneers refining deep-water starts and tricks, the American Barefoot Club founded in the 1970s organising national championships, and the sport joining the world tournament structure under the International Water Ski Federation with world barefoot championships held since 1978. The discipline remains a specialist showcase of water skiing’s most physical form, with today’s champions combining big trick runs with precise slalom passes.
+Barefoot water skiing was invented in 1947 at Cypress Gardens, Florida, when Dick Pope Sr. — the park's ski-show director and promoter of the "Cypress Gardens Aqua Parade" — had his skiers try skiing without skis at high speed; the first recorded barefoot run is credited to Pope's show skier in 1947 (USA Water Ski, n.d.). The American Barefoot Club was founded in the 1970s to organize national championships, and the IWWF (then IWSF) added barefoot to the world championships in 1978 (IWWF, n.d.-a).
+
+Legends include Keith St. Onge (world records in all three disciplines, two world overall titles), the Australian champion Harry Pennington, and the British barefooter Adrian Stokes; on the women's side, the USA's Ashleigh Witt and Australia's Tracey Eames dominated the 1980s–90s, and today's stars compete at Champions Lake in Florida, the sport's spiritual home. Cypress Gardens closed in 2009, but its barefoot heritage lives on at Champions Lake and the American Barefoot Club nationals (USA Water Ski, n.d.).
 
 ## Sources
 
-- Wikipedia: [Barefoot skiing](https://en.wikipedia.org/wiki/Barefoot_skiing) Retrieved November 21, 2026, from 
-- International Waterski and Wakeboard Federation: [Barefoot rules](https://www.iwwf.com/) Retrieved November 21, 2026, from 
+- International Waterski & Wakeboard Federation. (n.d.-a). *World Barefoot Water Ski Championships 2026 — Champions Lake*. Retrieved November 21, 2026, from https://www.iwwf.sport/
+- International Waterski & Wakeboard Federation. (n.d.-b). *Barefoot rules and world records*. Retrieved November 21, 2026, from https://www.iwwf.sport/disciplines/barefoot/
+- USA Water Ski & Wake Sports. (n.d.). *Barefoot skiing — history and nationals*. Retrieved November 21, 2026, from https://www.usawaterski.org/
+
+### Figure Index
+
+- Eddiesmit. (2006, October 29). *Barefoot water skiing — Eddie Smit on one bare foot (toehold) at 68 km/h* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Eddie_one_foot_DSCF0067_2.JPG (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Wakeboarding](wakeboarding.html) — a board sport behind the boat, on this site
-- [Wakesurfing](wakesurfing.html) — riding the boat's wake on a board, on this site
-- [Water Volleyball](water-volleyball.html) — another pool-based water sport, on this site
+- [International Waterski & Wakeboard Federation (IWWF)](https://www.iwwf.sport/) — world governing body; barefoot world championships, rules and world records
+- [IWWF Barefoot discipline](https://www.iwwf.sport/disciplines/barefoot/) — rules, world records and event calendar
+- [USA Water Ski & Wake Sports](https://www.usawaterski.org/) — national federation; American Barefoot Club nationals
+- [Wakeboarding](wakeboarding.html), [Wakesurfing](wakesurfing.html), [Surfing](surfing.html) and [Open Water Swimming](open-water-swimming.html) on this site
