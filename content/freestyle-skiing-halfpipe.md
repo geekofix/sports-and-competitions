@@ -1,22 +1,41 @@
 ## Basic Information
 
-Halfpipe is the freestyle skiing discipline in which athletes ride a U-shaped snow channel (about 150-170 m long, 18-22 m wide, walls 6-7 m high) and perform tricks above the rim (coping) — spins, flips, grabs and alley-oops — judged on amplitude, difficulty, variety, execution and landings. It is governed by FIS and has been an Olympic event since Nagano 1998.
+Halfpipe is freestyle skiing's acrobatic halfpipe discipline: riders perform wall-to-wall runs in a U-shaped superpipe, linking aerial tricks above the coping (the pipe's edge) and are scored 0–100 per run (FIS, n.d.-b; Wikipedia, n.d.-a). Governed by FIS within the FIS Freestyle Ski World Cup, it has been an Olympic event since Sochi 2014 (FIS, n.d.-a). At the Milano Cortina 2026 Winter Olympics, the halfpipe events were held at the Livigno Snow Park (February 7–22, 2026): Alex Ferreira of the USA won the men's title with 93.75 ahead of Henry Sildaru (EST) and Brendan Mackay (CAN), and Eileen Gu of China the women's gold with 94.75 ahead of Li Fanghui (CHN) and Zoe Atkin (GBR) (Olympics, n.d.). In the 2025–26 FIS Freestyle Ski World Cup (November 20, 2025 – March 29, 2026), the halfpipe Crystal Globes went to Finley Melville Ives (NZL) on the men's side and Zoe Atkin (GBR) on the women's side (FIS, n.d.-a).
+
+At the end of 2026 the leading women are Eileen Gu (CHN), the 2026 Olympic halfpipe champion with 94.75 and also 2026 big air silver medalist, Li Fanghui (CHN) and Zoe Atkin (GBR), the 2025–26 World Cup globe winner, while on the men's side Alex Ferreira (USA), the 2026 Olympic champion and three-time X Games champion, heads the rankings ahead of Henry Sildaru (EST) and Finley Melville Ives (NZL) (Olympics, n.d.; FIS, n.d.-a).
 
 ## Rules
 
-At FIS halfpipe World Cup and World Championship events and the Olympics, each competitor gets two or three runs (two at the Olympics, best counts), each about 30 seconds of riding down and up the pipe, performing 5-8 tricks. Five judges score each run out of 100 on the FIS criteria: amplitude, difficulty, variety, execution and landing. The highest-scoring run wins. Trick repetition is discouraged because variety is scored. Weather and pipe conditions affect the start order. Men's and women's events are held; halfpipe is an individual event at the Olympics.
+Under the FIS freestyle halfpipe rules, the superpipe is a U-shaped structure about 6.7 m (22 ft) deep, roughly 150–170 m long with a flat bottom and vertical walls topped by coping (FIS, n.d.-b). Each athlete performs two runs in qualification (best run counts) and three runs in the final (best run counts), each scored 0–100 by judges for amplitude, difficulty, variety, execution and progression; tricks include spins (360–1620°), flips, and off-axis corks/rodeos performed above the coping (FIS, n.d.-b). The start order in later rounds runs from lowest to highest qualifier; wind and weather can force postponements, and a rider who falls or stops may re-run once at the chief judge's discretion (FIS, n.d.-b). Helmets are mandatory; men and women compete in separate events on identical pipes, and junior classes exist at World Cup level (FIS, n.d.-b). The FIS Freestyle Ski World Cup awards the halfpipe Crystal Globe at season's end (FIS, n.d.-a).
+
+![The Livigno Snow Park halfpipe at the Milano Cortina 2026 Winter Olympics](https://commons.wikimedia.org/wiki/Special:Redirect/file/Die_Halfpipe_des_Livigno_Snow_Park_an_den_olympischen_Spielen_2026.jpg?width=560)
+
+*Figure: Vincenzo.togni. (2026, February 11). Die Halfpipe des Livigno Snow Park an den olympischen Spielen 2026 — the halfpipe of the Livigno Snow Park during the Milano Cortina 2026 Winter Olympics [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Die_Halfpipe_des_Livigno_Snow_Park_an_den_olympischen_Spielen_2026.jpg*
 
 ## History
 
-Halfpipe originated in skateboarding and surfing culture in the 1970s (the empty swimming pools of 1970s California) and moved to snow in the 1980s-90s; FIS added halfpipe to the World Cup in the 1990s and to the Olympics at Nagano 1998, won by Jonny Moseley (USA, men) and Nicola Thost (Germany, women). The sport is dominated by the US, Canada, France, China, Japan and Switzerland, with stars such as Shaun White (snowboard), Chloe Kim (snowboard), and in skiing: David Wise (USA, 2014 and 2018 Olympic gold), Cassie Sharpe (Canada, 2018 women's gold), Eileen Gu (China, 2022 halfpipe gold) and Alex Ferreira (Brazil, multiple Olympic medals).
+Ski halfpipe evolved from skateboarding and surfing halfpipes in the 1990s; the USA's Simon Dumont built the first 22 ft (6.7 m) superpipe in 2001 and pioneered the double cork, while Tanner Hall became the face of the new-school era with his 2002 X Games exploits (Wikipedia, n.d.-a). The discipline joined the Olympic program at Sochi 2014, won by the USA's Joss Christensen and Canada's Justine Dufour-Lapointe (Wikipedia, n.d.-a). Among the icons are the USA's Kelly Clark, four-time Olympian and 2010 silver medalist, Sarah Conrad, and Canada's Cassie Sharpe, 2022 Olympic champion, while Japan's Ayumu Hirano collected three consecutive Olympic silvers (2014–2022) (Wikipedia, n.d.-a). At Milano Cortina 2026, Alex Ferreira added Olympic gold to his 2018 and 2022 silver medals, and Eileen Gu defended her halfpipe title after Beijing 2022 (Wikipedia, n.d.-a; Olympics, n.d.).
 
 ## Sources
 
-- International Ski and Snowboard Federation. (n.d.). *Halfpipe competition rules*. Retrieved November 20, 2026, from https://www.fis.ski/
-- Olympics.com. (n.d.). *Freestyle skiing halfpipe at the Olympics*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing
+- FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — halfpipe calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
+- FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — halfpipe*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
+- Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — halfpipe results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
+- Wikipedia. (n.d.-a). *Freestyle skiing halfpipe*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_halfpipe
+
+### Figure Index
+
+- Vincenzo.togni. (2026, February 11). *Die Halfpipe des Livigno Snow Park an den olympischen Spielen 2026* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Die_Halfpipe_des_Livigno_Snow_Park_an_den_olympischen_Spielen_2026.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [FIS — freestyle skiing halfpipe](https://www.fis.ski/) — world governing body; halfpipe rules and World Cup
-- [Olympic freestyle skiing](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — halfpipe at the Olympics since 1998
-- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) — another freestyle skiing discipline, on this site
+- [FIS — freestyle skiing](https://www.fis.ski/discipline/freestyle-skiing) — world governing body; World Cup calendar, results, Crystal Globes
+- [FIS regulations — freestyle skiing](https://www.fis.ski/regulations) — official competition rules
+- [Olympics — freestyle skiing Milano Cortina 2026](https://www.olympics.com/en/olympic-games/milano-cortina-2026) — halfpipe results: Ferreira and Gu gold at Livigno
+- [Freestyle Skiing Big Air](freestyle-skiing-big-air.html) on this site
+- [Freestyle Skiing Slopestyle](freestyle-skiing-slopestyle.html) on this site
+- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) on this site
+- [Freestyle Skiing Dual Moguls](freestyle-skiing-dual-moguls.html) on this site
+- [Freestyle Skiing Aerials](freestyle-skiing-aerials.html) on this site
+- [Snowboard Halfpipe](snowboard-halfpipe.html) on this site
+- [Skiing](skiing.html) on this site

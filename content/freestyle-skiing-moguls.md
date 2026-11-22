@@ -1,22 +1,41 @@
 ## Basic Information
 
-Moguls is the classic freestyle skiing event in which athletes ski down a 250 m course of closely spaced bumps (moguls), performing two aerial jumps at designated points, and are scored on turns, aerials and speed. It is governed by FIS, an Olympic sport since Albertville 1992, and is paired with the head-to-head [dual moguls](freestyle-skiing-dual-moguls.html) format since 2010.
+Moguls is the classic freestyle skiing event: athletes ski a single timed run down a roughly 250 m course of closely spaced bumps (moguls), performing one trick off each of the two jumps (upper and lower), and are scored on turns, aerials and speed (FIS, n.d.-b; Wikipedia, n.d.-a). Governed by FIS within the FIS Freestyle Ski World Cup, moguls has been an Olympic medal event since Albertville 1992 (FIS, n.d.-a). At the Milano Cortina 2026 Winter Olympics in Livigno (February 7–22, 2026), Cooper Woods-Topalovic of Australia won the men's gold with 83.71, edging Mikaël Kingsbury of Canada (83.71, decided on the tie-break) ahead of Ikuma Horishima (JPN), while Elizabeth Lemley of the USA took the women's title with 82.30 ahead of Jaelin Kauf (USA) and Perrine Laffont (FRA) (Olympics, n.d.). In the 2025–26 FIS Freestyle Ski World Cup (November 20, 2025 – March 29, 2026), the men's moguls Crystal Globe went to Ikuma Horishima (JPN) and the women's overall moguls globe to Olivia Giaccio (USA, 490 points) (FIS, n.d.-a).
+
+At the end of 2026 the leading women are Elizabeth Lemley (USA), the 2026 Olympic champion, Jaelin Kauf (USA), 2026 dual moguls silver medalist, and Perrine Laffont (FRA), bronze in 2026, while on the men's side Cooper Woods-Topalovic (AUS), the 2026 Olympic champion, leads ahead of Ikuma Horishima (JPN), the 2025–26 moguls globe winner, and the retired record holder Mikaël Kingsbury (CAN) (Olympics, n.d.; FIS, n.d.-a).
 
 ## Rules
 
-At FIS moguls events, each skier performs one run down the course, making turns through the bumps and one trick off each of the two jumps (upper and lower). Judges award points for turns (technical quality and absorption of the bumps), aerials (difficulty, form and execution of the jump tricks) and speed (measured against a standard time for the course; faster than standard earns time points). The total score out of 100 decides the ranking; qualifying runs lead to finals with a reduced field. At the Olympics, two qualifying runs and one final run are used. Skiers must wear helmets, and the course includes a start gate, the mogul field and a finish line with electronic timing.
+Under the FIS freestyle moguls rules, the course is about 250 m long with a field of around 28 closely spaced bumps and two jumps (upper and lower) placed at set intervals, with a start gate and electronic timing at the finish (FIS, n.d.-b). Since the 2021–22 season the total score of 100 is split into turns 60 points, aerials 20 points and speed 20 points: turn judges score technique and absorption of the bumps, aerial judges score the two jumps (difficulty, execution, form), and the time score is calculated against a standard time for the course set by FIS (FIS, n.d.-b). At the Olympics, athletes take two qualification runs (best counts), the top 12 advance to the final, and one final run decides the medals; at World Cup events a single qualification run feeds a final of 18, then a super-final of 6 (FIS, n.d.-b). Helmets are mandatory; men and women compete in separate events on identical courses, and junior classes (U18) exist (FIS, n.d.-b). The paired head-to-head version is [dual moguls](freestyle-skiing-dual-moguls.html), an Olympic event since Milano Cortina 2026 (FIS, n.d.-a).
+
+![Mikaël Kingsbury at the FIS Moguls World Cup finals in Megève 2015](https://commons.wikimedia.org/wiki/Special:Redirect/file/FIS_Moguls_World_Cup_2015_Finals_-_Meg%C3%A8ve_-_20150315_-_Mikael_Kingsbury_2.jpg?width=400)
+
+*Figure: Clément Bucco-Lechat. (2015, March 15). FIS Moguls World Cup 2015 Finals - Megève - 20150315 - Mikael Kingsbury 2 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:FIS_Moguls_World_Cup_2015_Finals_-_Megève_-_20150315_-_Mikael_Kingsbury_2.jpg*
 
 ## History
 
-Moguls racing began in the 1960s-70s in Europe and North America, formalized by FIS in the 1970s; it became an Olympic medal sport at Albertville 1992, won by France's Edgar Grospiron (men) and USA's Donna Weinbrecht (women). Canada and France have dominated historically, with legends such as Edgar Grospiron, Jean-Luc Brassard (Canada, 1994 gold), Jonny Moseley (1998, who added a trick grab to moguls), and modern stars Mikaël Kingsbury (Canada, record holder with over 80 World Cup wins), Perrine Laffont (France, 2018 Olympic champion) and Justine Dufour-Lapointe (Canada, 2014 champion).
+Competitive moguls racing began in Europe and North America in the 1960s–70s and was formalized by FIS, with the first FIS Freestyle Ski World Cup in 1979–80; the discipline became an Olympic medal sport at Albertville 1992, won by France's Edgar Grospiron and the USA's Donna Weinbrecht (Wikipedia, n.d.-a). The 1990s were defined by Canada's Jean-Luc Brassard (1994 Olympic champion) and the USA's Jonny Moseley, whose 1998 Nagano victory with a new-school grab transformed the sport, and by Canada's Alexandre Bilodeau, the first skier to defend an Olympic moguls title (Vancouver 2010 and Sochi 2014) (Wikipedia, n.d.-a). On the women's side, Canada's Jenn Heil and Justine Dufour-Lapointe (2014 Olympic champion) and the USA's Hannah Kearney, an Olympic medalist, set the standard, while France's Perrine Laffont (2018 Olympic champion) and Canada's Mikaël Kingsbury — with more than 80 World Cup wins, an all-time record, and Olympic silver 2018 and 2022 — became the modern icons (Wikipedia, n.d.-a). Kingsbury retired after the 2025–26 season (FIS, n.d.-a).
 
 ## Sources
 
-- International Ski and Snowboard Federation. (n.d.). *Moguls competition rules*. Retrieved November 20, 2026, from https://www.fis.ski/
-- Olympics.com. (n.d.). *Freestyle skiing moguls at the Olympics*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing
+- FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — moguls calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
+- FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — moguls*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
+- Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — moguls results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
+- Wikipedia. (n.d.-a). *Freestyle skiing moguls*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_moguls
+
+### Figure Index
+
+- Clément Bucco-Lechat. (2015, March 15). *FIS Moguls World Cup 2015 Finals - Megève - 20150315 - Mikael Kingsbury 2* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:FIS_Moguls_World_Cup_2015_Finals_-_Megève_-_20150315_-_Mikael_Kingsbury_2.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [FIS — freestyle skiing](https://www.fis.ski/) — world governing body; moguls rules and World Cup
-- [Olympic freestyle skiing](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — moguls at the Olympics since 1992
-- [Freestyle Skiing Dual Moguls — related entry](freestyle-skiing-dual-moguls.html) — head-to-head format on this site
+- [FIS — freestyle skiing](https://www.fis.ski/discipline/freestyle-skiing) — world governing body; World Cup calendar, results, Crystal Globes
+- [FIS regulations — freestyle skiing](https://www.fis.ski/regulations) — official competition rules
+- [Olympics — freestyle skiing Milano Cortina 2026](https://www.olympics.com/en/olympic-games/milano-cortina-2026) — moguls results: Woods-Topalovic and Lemley gold
+- [Freestyle Skiing Dual Moguls](freestyle-skiing-dual-moguls.html) on this site
+- [Freestyle Skiing Aerials](freestyle-skiing-aerials.html) on this site
+- [Freestyle Skiing Big Air](freestyle-skiing-big-air.html) on this site
+- [Freestyle Skiing Slopestyle](freestyle-skiing-slopestyle.html) on this site
+- [Freestyle Skiing Halfpipe](freestyle-skiing-halfpipe.html) on this site
+- [Ski Cross](ski-cross.html) on this site
+- [Skiing](skiing.html) on this site

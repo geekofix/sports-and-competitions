@@ -1,21 +1,44 @@
 ## Basic Information
 
-Formula E is the FIA's all-electric single-seater world championship, launched in 2014, in which teams race battery-electric cars on temporary street circuits in city centers. It is sanctioned by the FIA and organized by Formula E Operations; the series also serves as a development platform for electric vehicle technology used by manufacturers (Porsche, Jaguar, Mercedes-EQ, Nissan, DS, Mahindra, Andretti, Maserati).
+The ABB FIA Formula E World Championship is the world championship for single-seater, fully electric racing cars on temporary street circuits in city centers, organized by the FIA; the 2025–26 season is Season 12, running from December 2025 in São Paulo to the London finale in August 2026 over 16–18 races with 10 two-car teams (FIA, n.d.-a; Formula E, n.d.-a). The 2025–26 drivers' champion is Pascal Wehrlein of Germany (Porsche), who secured his second title after Season 10 (2023–24), and Porsche also took the teams' and manufacturers' titles at the London finale — Oliver Rowland of Nissan was the champion of the previous season, 2024–25 (FIA, n.d.-a; Formula E, n.d.-b). The Gen3 Evo car ran its final season in 2025–26; from Season 13 (2026–27) the new Gen4 car arrives with around 600 kW of power (FIA, n.d.-b).
+
+On the women's side, Formula E has historically fielded women in the world championship — Katherine Legge, Simona de Silvestro, Sarah Moore, Jamie Chadwick and Beitske Visser among them — and today the leading women in electric single-seater racing come through the F1 Academy, which runs on the F1 support program (Formula E, n.d.-b; F1 Academy, n.d.).
+
+![Mitch Evans at the 2026 London ePrix](https://commons.wikimedia.org/wiki/Special:Redirect/file/Evans-2026-London.jpg?width=560)
+
+*Figure: OJN-TinyBean. (2026, August 16). Evans-2026-London — Mitch Evans at the 2026 London ePrix [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Evans-2026-London.jpg*
 
 ## Rules
 
-Under the FIA Formula E Sporting Regulations, each team fields two Gen3 cars (since season 9, 2023), with a 350 kW qualifying / 300 kW race power limit and a 47 kWh usable battery. Races (E-Prix) are run over a set number of laps (distance-based with added laps for safety car periods) on street circuits, usually 30-45 minutes. Attack Mode (since 2019) gives a temporary power boost (350 kW) when drivers take a detour through a designated zone, costing time; Fanboost gives a short power boost to the most-voted driver. Points are awarded to the top 10 (25-18-15-12-10-8-6-4-3-1) plus pole position (3) and fastest lap (1, if in top 10). Qualifying uses a duels format (since season 8) to set the grid.
+The FIA Formula E Sporting Regulations govern the championship (FIA, n.d.-c). Races (E-Prix) last about 45 minutes plus one extra lap on street circuits of roughly 1.8–3.5 km; qualifying uses a group stage followed by head-to-head duels, with the fastest qualifier awarded pole position (FIA, n.d.-c). The Gen3/Gen3 Evo cars produce 350 kW in qualifying and 300 kW in the race; Attack Mode — taken by driving through a marked activation zone off the racing line — grants a temporary power boost (50 kW under Gen3 Evo) for a set number of seconds, and a mandatory Pit Boost stop during the race adds energy to the battery (FIA, n.d.-c). Points follow the FIA scale 25-18-15-12-10-8-6-5-4-3-2-1, plus 3 points for pole position and 1 for the fastest lap (set by a driver finishing in the top 10); the champion needs a Super Licence, which the title earns 40 points toward (FIA, n.d.-c). There are separate drivers', teams' and manufacturers' classifications; men and women compete on equal terms in the same race, and the minimum age for a Super Licence is 18 (FIA, n.d.-c).
 
 ## History
 
-Formula E was conceived in 2011 by FIA president Jean Todt and Alejandro Agag (now chairman of Formula E Holdings), with the inaugural season in 2014-15 (10 races, Lucas di Grassi champion with e.dams Renault). The series raced in cities such as Beijing, London (Battersea), New York, Paris (Eiffel Tower), Hong Kong, Rome, Santiago and Seoul. Champions include Sébastien Buemi (2016), Lucas di Grassi (2017), Jean-Éric Vergne (2018, 2019 — first back-to-back champion), António Félix da Costa (2020), Nyck de Vries (2021), Stoffel Vandoorne (2022), Jake Dennis (2023), Pascal Wehrlein (2024) and Oliver Rowland (2025). In 2022 the Gen3 car debuted, with Attack Mode raised to a 350 kW power boost and improved energy recovery. Formula E became an FIA World Championship in season 8 (2021-22).
+Formula E was conceived by Spanish businessman Alejandro Agag together with FIA president Jean Todt, and the inaugural season ran in 2014–15 with its first E-Prix in Beijing in September 2014; the first champion was Nelson Piquet Jr of Brazil (Wikipedia, n.d.-a; FIA, n.d.-a). Subsequent icons include Sébastien Buemi (2015–16), Lucas di Grassi (2016–17), Jean-Éric Vergne — the only two-time champion so far, with titles in 2017–18 and 2018–19 — Félix Rosenqvist (2018–19), António Félix da Costa (2019–20), Nyck de Vries (2020–21), Stoffel Vandoorne (2021–22), Jake Dennis (2022–23) and Oliver Rowland (2024–25), before Pascal Wehrlein's second title in 2025–26 (Formula E, n.d.-b; Wikipedia, n.d.-a). The series has raced in iconic city centers — New York, Paris, Monaco, Berlin, London and São Paulo — and has been a pioneer of sustainable motorsport with its all-electric Gen1, Gen2, Gen3 and upcoming Gen4 cars (Formula E, n.d.-a).
 
 ## Sources
 
-- FIA Formula E. (n.d.). *Formula E sporting regulations and championship*. Retrieved November 20, 2026, from https://www.fiaformulae.com/
-- FIA. (n.d.). *FIA Formula E World Championship*. Retrieved November 20, 2026, from https://www.fia.com/
+- FIA. (n.d.-a). *2025–26 ABB FIA Formula E World Championship — calendar, standings and results*. Retrieved November 22, 2026, from https://www.fiaformulae.com/
+- FIA. (n.d.-b). *Formula E — the championship, Gen3 Evo and Gen4 cars*. Retrieved November 22, 2026, from https://www.fia.com/championship/fia-formula-e-world-championship
+- FIA. (n.d.-c). *FIA Formula E Sporting Regulations 2025–26*. Retrieved November 22, 2026, from https://www.fia.com/regulations/formula-e-regulations
+- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
+- Formula E. (n.d.-a). *About Formula E*. Retrieved November 22, 2026, from https://www.fiaformulae.com/en/about
+- Formula E. (n.d.-b). *Champions and season results*. Retrieved November 22, 2026, from https://www.fiaformulae.com/en/results
+- Wikipedia. (n.d.-a). *Formula E*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Formula_E
+
+### Figure Index
+
+- OJN-TinyBean. (2026, August 16). *Evans-2026-London* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Evans-2026-London.jpg (CC BY 4.0)
 
 ## Important Links
 
-- [FIA Formula E — official site](https://www.fiaformulae.com/) — calendar, results, standings; FIA World Championship since 2021-22
-- [FIA — Fédération Internationale de l'Automobile](https://www.fia.com/) — sanctioning body for Formula E
+- [FIA Formula E — official site](https://www.fiaformulae.com/) — calendar, standings, results of the 2025–26 Season 12
+- [FIA — Formula E championship page](https://www.fia.com/championship/fia-formula-e-world-championship) — regulations, Gen3 Evo / Gen4
+- [Formula E results and champions](https://www.fiaformulae.com/en/results) — all-time champion list (Wehrlein 2025–26)
+- [F1 Academy](https://www.f1academy.com/) — all-female feeder series
+- [Formula One](formula-one.html) on this site
+- [Formula 2](formula-2.html) on this site
+- [Formula 3](formula-3.html) on this site
+- [MotoGP](motogp.html) on this site
+- [World Rally Championship](world-rally-championship.html) on this site
+- [24 Hours of Le Mans](24-hours-of-le-mans.html) on this site

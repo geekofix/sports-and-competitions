@@ -1,21 +1,40 @@
 ## Basic Information
 
-Big air is the freestyle skiing (and snowboarding) discipline in which athletes take a single run off a massive jump (kickers up to 40 m+), perform one highly technical trick — multiple flips, spins up to 1800 degrees and complex grabs — and land, judged on difficulty, execution, amplitude and landing. It is governed by FIS and has been an Olympic event since PyeongChang 2018.
+Big air is freestyle skiing's single-jump showpiece: riders launch off one massive kicker, perform their most difficult grab, spin and cork combination, and are judged on the whole run (FIS, n.d.-b; Wikipedia, n.d.-a). Governed by FIS within the FIS Freestyle Ski World Cup, it has been an Olympic event since PyeongChang 2018 (FIS, n.d.-a). At the Milano Cortina 2026 Winter Olympics in Livigno (February 7–22, 2026), Tormod Frostad of Norway won the men's title with 195.50 points ahead of Mac Forehand (USA) and Matěj Švancer (AUT), while Megan Oldham of Canada took the women's gold with 180.75 ahead of Eileen Gu (CHN) and Flora Tabanelli (ITA) (Olympics, n.d.). In the 2025–26 FIS Freestyle Ski World Cup (November 20, 2025 – March 29, 2026), the women's big air Crystal Globe went to Naomi Urness of the USA (FIS, n.d.-a).
+
+At the end of 2026 the leading women are Megan Oldham (CAN), the 2026 Olympic champion, and Eileen Gu (CHN), three-time Olympic medalist and 2026 silver medalist in both big air and halfpipe, followed by Flora Tabanelli (ITA); on the men's side Tormod Frostad (NOR) heads the rankings ahead of Mac Forehand (USA) and the slopestyle/big air star Birk Ruud (NOR) (Olympics, n.d.; FIS, n.d.-a).
+
+![Eileen Gu on her first run at the women's big air qualification, Beijing 2022](https://commons.wikimedia.org/wiki/Special:Redirect/file/Gu_Ailing_Eileen_on_her_first_run_at_Women%27s_Freeski_Big_Air_Qualification_%2820220207093705%29.jpg?width=560)
+
+*Figure: N509FZ. (2022, February 7). Gu Ailing Eileen on her first run at Women's Freeski Big Air Qualification (20220207093705) — Eileen Gu, 2026 Olympic big air silver medalist [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Gu_Ailing_Eileen_on_her_first_run_at_Women's_Freeski_Big_Air_Qualification_(20220207093705).jpg*
 
 ## Rules
 
-At FIS Big Air World Cup and World Championship events, and at the Olympics, each competitor gets up to three runs in qualifying rounds, and the best one or two scores count depending on the round. Judges (five at major events) score amplitude, difficulty, execution, progression and landing, each up to 25 points, for a maximum of 125. Wind and visibility affect the start list. Men's and women's events are held, plus a mixed team event at the Olympics since 2022.
+Under the FIS freestyle big air rules, the course is a single kicker — at World Cup and Olympic level roughly 40–50 m from lip to landing, launching riders 25–30 m into the air — with a landing zone and a run-out (FIS, n.d.-b). Each athlete performs three runs in the final (two in qualification), and the best two runs count; each run is scored 0–100 by a panel of judges for difficulty, execution, amplitude, landing and progression, with grabs, spins (rotations) and off-axis "cork"/"rodeo"/"bio" rotations forming the difficulty (FIS, n.d.-b). Wind and visibility can force re-runs or cancelled rounds, and the start list is drawn so that the top seeds go last (FIS, n.d.-b). Helmets are mandatory; men and women compete in separate events with identical rules and courses, and junior classes exist at World Cup level (FIS, n.d.-b). The FIS Freestyle Ski World Cup crowns the big air Crystal Globe at season's end (FIS, n.d.-a).
 
 ## History
 
-Big air originated in snowboarding in the 1990s, notably Terje Håkonsen's method airs, which he famously withheld from the 1998 Nagano Olympics in protest of the sport's exclusion, and became a competitive discipline through the X Games. FIS added big air to the World Cup program in the 2010s and to the Olympics at PyeongChang 2018 for snowboarding, won by Canada's Sébastien Toutant and Austria's Anna Gasser. Ski big air debuted at the 2022 Beijing Olympics. Stars include Canada's Max Parrot (three Olympic big air golds), China's Eileen Gu and France's Tess Ledeux.
+Big air grew out of freestyle skiing's 1990s new-school era and was added to the X Games program before becoming an Olympic medal event at PyeongChang 2018, where Øystein Bråten of Norway won the men's title and Anna Gasser of Austria the women's (Wikipedia, n.d.-a; Olympics, n.d.). The progression of tricks has been driven by riders such as Sweden's Henrik Windstedt, who landed the first quad cork 1620 in competition, Switzerland's Andri Ragettli (first quad cork 1620 in a FIS event) and Canada's Max Parrot (first backside 1890); on the women's side France's Tess Ledeux became the first woman to land a double cork 1080 in competition in 2021, and Eileen Gu of China has set the standard since winning Olympic gold at Beijing 2022 (Wikipedia, n.d.-a). The 2026 Olympic titles of Tormod Frostad and Megan Oldham continue that progression (Olympics, n.d.).
 
 ## Sources
 
-- International Ski and Snowboard Federation. (n.d.). *Big air rules and World Cup*. Retrieved November 20, 2026, from https://www.fis.ski/
-- Olympics.com. (n.d.). *Big air at the Olympic Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing
+- FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — big air calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
+- FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — big air*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
+- Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — big air results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
+- Wikipedia. (n.d.-a). *Freestyle skiing big air*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_big_air
+
+### Figure Index
+
+- N509FZ. (2022, February 7). *Gu Ailing Eileen on her first run at Women's Freeski Big Air Qualification (20220207093705)* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Gu_Ailing_Eileen_on_her_first_run_at_Women's_Freeski_Big_Air_Qualification_(20220207093705).jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [FIS — big air](https://www.fis.ski/) — world governing body; big air World Cup and World Championships
-- [Olympic freestyle skiing — big air](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — Olympic big air since 2018 (snowboard) and 2022 (ski)
+- [FIS — freestyle skiing](https://www.fis.ski/discipline/freestyle-skiing) — world governing body; World Cup calendar, results, Crystal Globes
+- [FIS regulations — freestyle skiing](https://www.fis.ski/regulations) — official competition rules
+- [Olympics — freestyle skiing Milano Cortina 2026](https://www.olympics.com/en/olympic-games/milano-cortina-2026) — big air results: Frostad and Oldham gold
+- [Freestyle Skiing Slopestyle](freestyle-skiing-slopestyle.html) on this site
+- [Freestyle Skiing Halfpipe](freestyle-skiing-halfpipe.html) on this site
+- [Freestyle Skiing Aerials](freestyle-skiing-aerials.html) on this site
+- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) on this site
+- [Snowboard Big Air](snowboard-big-air.html) on this site
+- [Skiing](skiing.html) on this site

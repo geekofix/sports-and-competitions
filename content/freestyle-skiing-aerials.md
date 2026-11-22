@@ -1,22 +1,41 @@
 ## Basic Information
 
-Freestyle skiing aerials is the Olympic discipline in which skiers launch off a steep kicker (jump) up to 60+ m in the air, perform acrobatic flips and twists, and land on a steep landing hill, judged on takeoff, air (form, height, difficulty) and landing. It is governed by the International Ski and Snowboard Federation (FIS), which runs the FIS Freestyle Ski World Cup and World Championships, and has been an Olympic event since Lillehammer 1992.
+Aerials is the most spectacular freestyle skiing discipline: a skier launches off a steep kicker (jump), performs acrobatic somersaults and twists high in the air and lands on a steep landing hill, scored out of 100 and multiplied by the degree of difficulty of the jump (FIS, n.d.-b; Wikipedia, n.d.-a). It is governed by FIS (International Ski and Snowboard Federation) as part of the FIS Freestyle Ski World Cup and has been an Olympic medal event since Lillehammer 1994, plus the mixed team aerials since Beijing 2022 (FIS, n.d.-a). At the Milano Cortina 2026 Winter Olympics (Livigno, February 7–22, 2026), the men's title went to Wang Xindi of China with 132.60 points ahead of Noé Roth (SUI) and Li Tianma (CHN), the women's to Xu Mengtao of China with 112.90 ahead of Danielle Scott (AUS) and Shao Qi (CHN), and the mixed team event to the USA (Kaila Kuhn, Connor Curran, Christopher Lillis) with 325.35 (Olympics, n.d.). In the 2025–26 FIS Freestyle Ski World Cup (November 20, 2025, Stubai – March 29, 2026, Gällivare), the men's aerials Crystal Globe went to Sun Jiaxu of China (FIS, n.d.-a).
+
+At the end of 2026 the leading women are Xu Mengtao (CHN), the 2026 Olympic champion, Danielle Scott (AUS), silver in 2026, and Kaila Kuhn (USA), mixed team Olympic champion, while on the men's side Wang Xindi (CHN) heads the rankings ahead of Noé Roth (SUI) and the 2025–26 World Cup globe winner Sun Jiaxu (CHN) (Olympics, n.d.; FIS, n.d.-a).
+
+![Xu Mengtao at the 2014 Sochi medal ceremony](https://commons.wikimedia.org/wiki/Special:Redirect/file/Xu_Mengtao_2014_Sochi.jpg?width=400)
+
+*Figure: Aleksandr Veprev. (2014, February 15). Xu Mengtao 2014 Sochi — Xu Mengtao, 2026 Olympic aerials champion, at the Sochi medal ceremony [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Xu_Mengtao_2014_Sochi.jpg*
 
 ## Rules
 
-At FIS World Cup and World Championship events, aerials competitors perform one or two jumps per round (qualifying, then finals with a reduced field). Each jump is scored out of a maximum: takeoff (20 points), air — form and height (20 points), and landing (20 points), plus a degree-of-difficulty multiplier (DD, from about 2.0 for a simple backflip to 5.0+ for triple flips with multiple twists), giving a maximum score around 250+. Judges use video review. Skiers wear helmets, and the landing hill is prepared with a groomed, steep slope; a crash or hand-down on landing drastically reduces the score. Olympic format: qualifying with two jumps, then a final with the best jump counting. Events are for men and women, individually and (since 2022) a mixed team aerials event at the Olympics.
+Under the FIS freestyle aerials competition rules, the course consists of a steep in-run ending in a kicker whose height and angle are set per venue (large kickers at World Cup and Olympic level), followed by a landing hill inclined at about 37–38°; athletes may choose from single, double and triple somersaults with twists, and the same jump is performed by all competitors in a round (FIS, n.d.-b). Each jump is scored by judges out of 100 — air (take-off) 20%, form 50% and landing 30% — and the score is multiplied by a pre-set degree-of-difficulty (DD) factor, giving the final points (FIS, n.d.-b). At the Olympics, athletes take two qualification runs (best counts), the top 12 advance to the final, and one final run decides the medals; in the mixed team event, teams of three — including at least one man and one woman — each perform one jump and the three DD-multiplied scores are summed (FIS, n.d.-b). Helmets are mandatory, and the FIS Freestyle Ski World Cup awards the Crystal Globe to the season leader in the aerials discipline (FIS, n.d.-a). Men and women compete in separate events with the same rules; junior classes (U18) exist at World Cup level (FIS, n.d.-b).
 
 ## History
 
-Aerials developed from Norwegian and Swiss acrobatic ski demonstrations in the 1930s-50s and became a competitive FIS discipline in the 1970s-80s; It was a demonstration sport at the 1988 Calgary Olympics and a medal sport from Lillehammer 1992. The sport is dominated by China (Xu Mengtao, multiple Olympic golds), Australia (Lydia Ierodiaconou, 2022 gold), Canada, the US and Switzerland. Legends include China's Han Xiaopeng (2006 Olympic gold), Australia's Alisa Camplin (bronze 2002, gold 2006) and Xu Mengtao.
+Competitive aerials grew out of hot-dog skiing shows in the 1930s–60s and was formalized by FIS in the late 1970s; it debuted as an Olympic medal event at the 1994 Lillehammer Winter Olympics, won by Switzerland's Andreas Schönbächler on the men's side and Norway's Lina Cheryazova on the women's (Wikipedia, n.d.-a). The discipline's icons include Canada's Philippe LaRoche, who landed the first quad somersault in competition in the 1990s, the USA's Eric Bergoust (1998 Olympic champion) and Jonny Moseley, China's Han Xiaopeng (2006 Olympic champion) and the American Ashley Caldwell, while on the women's side Australia's Alisa Camplin and Lydia Ierodiaconou of Greece set the standard in the 2000s (Wikipedia, n.d.-a). Xu Mengtao's 2026 Olympic title continues China's dynasty in the event (Olympics, n.d.).
 
 ## Sources
 
-- International Ski and Snowboard Federation. (n.d.). *Freestyle skiing aerials rules and World Cup*. Retrieved November 20, 2026, from https://www.fis.ski/
-- Olympics.com. (n.d.). *Freestyle skiing at the Olympic Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing
+- FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — aerials calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
+- FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — aerials*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
+- Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — aerials results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
+- Wikipedia. (n.d.-a). *Freestyle skiing aerials*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_aerials
+
+### Figure Index
+
+- Aleksandr Veprev. (2014, February 15). *Xu Mengtao 2014 Sochi* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Xu_Mengtao_2014_Sochi.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [FIS — International Ski and Snowboard Federation](https://www.fis.ski/) — world governing body; aerials rules and World Cup
-- [Olympic freestyle skiing](https://www.olympics.com/en/olympic-games/olympic-sports/freestyle-skiing) — aerials at the Olympics since 1992
-- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) — another freestyle skiing discipline, on this site
+- [FIS — freestyle skiing](https://www.fis.ski/discipline/freestyle-skiing) — world governing body; World Cup calendar, results, Crystal Globes
+- [FIS regulations — freestyle skiing](https://www.fis.ski/regulations) — official competition rules for all freestyle disciplines
+- [Olympics — freestyle skiing Milano Cortina 2026](https://www.olympics.com/en/olympic-games/milano-cortina-2026) — aerials results: Wang Xindi and Xu Mengtao gold
+- [Freestyle Skiing Moguls](freestyle-skiing-moguls.html) on this site
+- [Freestyle Skiing Dual Moguls](freestyle-skiing-dual-moguls.html) on this site
+- [Freestyle Skiing Big Air](freestyle-skiing-big-air.html) on this site
+- [Freestyle Skiing Slopestyle](freestyle-skiing-slopestyle.html) on this site
+- [Freestyle Skiing Halfpipe](freestyle-skiing-halfpipe.html) on this site
+- [Ski Cross](ski-cross.html) on this site
+- [Skiing](skiing.html) on this site
