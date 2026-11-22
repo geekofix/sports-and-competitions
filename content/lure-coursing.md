@@ -1,23 +1,38 @@
 ## Basic Information
 
-Lure coursing is a dog sport in which sighthounds — greyhounds, whippets, salukis, borzois, Irish wolfhounds and others — chase a mechanically pulled artificial lure (usually a plastic bag or fur strip) around a pulley course that simulates the twists of a hare in flight. It was developed in the United States in 1972 by the American Sighthound Field Association (ASFA) as a humane alternative to live hare coursing, and today it is run by the AKC (Lure Coursing Tests and Trials), the ASFA and other kennel clubs, with dogs judged on follow, speed, agility and enthusiasm.
+Lure coursing is a dog sport in which sighthounds chase a mechanically operated artificial lure — a plastic bag or piece of artificial fur pulled on a line through pulleys — around a field course that simulates the turns of a live hare (Wikipedia, n.d.-a; American Kennel Club, n.d.). Because no live animal is used or harmed, lure coursing is the animal-welfare-preserving successor to live hare coursing, which was banned in England and Wales by the Hunting Act 2004 (Wikipedia, n.d.-b). In North America the sport is run by the American Sighthound Field Association (ASFA) and by the American Kennel Club (AKC), which offers the pass/fail Coursing Ability Test (CAT) over 300 or 600 yards and the timed 100-yard Fast CAT for all breeds (American Kennel Club, n.d.). European coursing runs on courses of more than 1,000 m with jumps and obstacles (Wikipedia, n.d.-a). Dogs must be at least 12 months old to compete in coursing trials, and both male and female dogs compete in the same classes (American Kennel Club, n.d.).
+
+![An Australian Cattle Dog chasing the lure at a lure coursing field trial](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lure_coursing.jpg?width=560)
+
+*Figure: Mdk572. (2008, October 28). Australian Cattle Dog participating in a lure field trial [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Lure_coursing.jpg*
+
+![Irish Wolfhounds coursing at an Irish Wolfhound Club of Canada lure trial](https://commons.wikimedia.org/wiki/Special:Redirect/file/WolfhoundsLureCoursing.jpg?width=480)
+
+*Figure: Peuhkurinen, K. (2006, April 21). Hounds coursing at an Irish Wolfhound Club of Canada lure trial [Photograph]. Wikimedia Commons. CC BY 2.5. https://commons.wikimedia.org/wiki/File:WolfhoundsLureCoursing.jpg*
 
 ## Rules
 
-Under AKC regulations, a lure coursing course is a minimum of 600 yards (about 550 m) long with at least four turns, laid out with pulleys in a large field; the lure is a plastic bag on a line pulled by a motorized winch, controlled by a lure operator who makes it zigzag like escaping game. In trials, hounds run alone in the Coursing Ability Test (pass/fail, on 300- or 600-yard courses) or in packs of three wearing colored blankets (pink, yellow, cyan), and judges score each run for follow, speed, agility and enthusiasm; a hound needs qualifying scores under two different judges or panels to earn titles, and the Fast CAT is a timed 100-yard dash converted to points. Hounds must be at least 12 months old, registered with a recognized kennel club, and spayed/neutered dogs are eligible. Live quarry is never used.
+A lure course in the United States is typically 600–1,000 yards (550–910 m) long with a required minimum number of turns so the lure zigzags like prey; European courses can exceed 1,000 m and include obstacles and jumps (Wikipedia, n.d.-a). The lure is operated by a lure operator who controls speed and direction so the chase is fair (Wikipedia, n.d.-a). Dogs run in stake races of two or three, wearing colored coursing blankets and slip leads, and are judged out of 100 points on follow (chasing the lure directly), speed, agility (turning) and endurance (Wikipedia, n.d.-c). ASFA titles are awarded at point thresholds — Coursing Ability (CA) at 25 points, CAX at 40, Field Champion (FCh) at 50 and the Double Coursing (DC) at 100 — and the ASFA National Field Championship crowns the season's top dogs (Wikipedia, n.d.-c). The AKC's CAT is a pass/fail test over 300 or 600 yards with a minimum speed requirement, while Fast CAT times a 100-yard dash and converts the time into points (American Kennel Club, n.d.). Eligible breeds are traditionally the purebred sighthounds — Greyhound, Saluki, Borzoi, Irish Wolfhound, Whippet, Scottish Deerhound and others — though the AKC extends CAT and Fast CAT to all breeds (Wikipedia, n.d.-a). Age minimums protect developing joints: AKC events require dogs to be at least 12 months old, and intense competitive coursing before 12 months is discouraged (Wikipedia, n.d.-a). Male and female dogs compete together in the same stakes (American Kennel Club, n.d.).
 
 ## History
 
-Sighthounds have chased game by sight for millennia — the Greek historian Arrian described formal coursing around 180 AD — and hare coursing with live hares was a aristocratic sport in Britain and Ireland until it was banned in the UK by the Hunting Act 2004. Lure coursing with a mechanical lure was developed in 1972 in the US by the ASFA precisely so sighthounds could exercise their instinct safely, and the AKC added Coursing Ability Tests and lure coursing trials to its program. Today lure coursing is practiced across North America, Europe and Australia, with national field championships and the ASFA and AKC running regular events.
+Coursing with live hares has ancient roots — the first official coursing meeting was held at Swaffham, Norfolk, in 1776 under rules set by Lord Orford — and the Waterloo Cup at Great Altcar, Lancashire, ran from 1836 to 2005 as the blue-riband event until the Hunting Act 2004 banned live hare coursing in England and Wales (Wikipedia, n.d.-b). Coursing by proxy with an artificial lure was introduced at Hendon on 11 September 1876, and the mechanical lure on a rail — the "automatic rabbit" — debuted at Emeryville, California, in 1920 and reached Britain at Belle Vue, Manchester, on 24 July 1926, when American promoter Charles Munn and coursing judge Major Leslie Lyne Dixson staged the first modern greyhound race there (Wikipedia, n.d.-b). Lure coursing as an amateur field sport for sighthounds grew from the 1920s onward in the United States and Europe, and today it is organized by the ASFA and NOFCA in North America and by national coursing clubs affiliated with the AKC and kennel clubs across Europe, with no live quarry involved at any point (Wikipedia, n.d.-a).
 
 ## Sources
 
-- American Kennel Club. (n.d.). *Lure coursing — regulations, tests and trials*. Retrieved November 20, 2026, from https://www.akc.org/sports/coursing/lure-coursing/rules-and-regulations/
-- American Sighthound Field Association. (n.d.). *A beginner's guide to lure coursing*. Retrieved November 20, 2026, from https://www.asfa.org/
-- Topend Sports. (n.d.). *Lure coursing — dog sport overview*. Retrieved November 20, 2026, from https://www.topendsports.com/dogsports/lure-coursing/index.htm
+- American Kennel Club. (n.d.). *Lure coursing — CAT, Fast CAT, 100-point scoring, 12-month minimum age, all-breed eligibility*. Retrieved November 22, 2026, from https://www.akc.org/sports/lure-coursing/
+- Wikipedia. (n.d.-a). *Lure coursing — course lengths, lure operation, titles, eligible breeds*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lure_coursing
+- Wikipedia. (n.d.-b). *Hare coursing — Swaffham 1776, Hendon artificial lure 1876, Emeryville 1920, Belle Vue 1926, Waterloo Cup 1836–2005, Hunting Act 2004*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Hare_coursing
+- Wikipedia. (n.d.-c). *Lure coursing — 100-point judging, ASFA titles CA/CAX/FCh/DC, field championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lure_coursing
+
+### Figure Index
+
+- Mdk572. (2008, October 28). *Australian Cattle Dog participating in a lure field trial* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Lure_coursing.jpg (CC BY-SA 3.0)
+- Peuhkurinen, K. (2006, April 21). *Hounds coursing at an Irish Wolfhound Club of Canada lure trial* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:WolfhoundsLureCoursing.jpg (CC BY 2.5)
 
 ## Important Links
 
-- [American Kennel Club — lure coursing](https://www.akc.org/sports/coursing/lure-coursing/rules-and-regulations/) — official regulations for tests, trials, CAT and Fast CAT
-- [American Sighthound Field Association (ASFA)](https://www.asfa.org/) — pioneer of lure coursing since 1972; field championships and beginner's guide
-- [Topend Sports — lure coursing](https://www.topendsports.com/dogsports/lure-coursing/index.htm) — how the lure course works
+- [American Kennel Club — lure coursing](https://www.akc.org/sports/lure-coursing/) — CAT and Fast CAT rules, event finder
+- [American Sighthound Field Association (ASFA)](https://www.asfa.org/) — field trials, 100-point judging and national championship
+- [Lure coursing — Wikipedia](https://en.wikipedia.org/wiki/Lure_coursing) — course setup and titles
+- [Agility (dog sport)](agility-dog-sport.html) on this site — see also [Disc Dog](disc-dog.html) and [Dog Sledding](dog-sledding.html) on this site

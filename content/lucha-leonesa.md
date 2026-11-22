@@ -1,21 +1,36 @@
 ## Basic Information
 
-Lucha leonesa (also called aluche) is the traditional wrestling style of the province of León in Castile and León, Spain — one of the oldest sports on the European continent, practiced "since time immemorial" and passed down orally from parents to children. Wrestlers, wearing leather belts, grapple in a circle called a corro and try to throw each other to the ground. The sport was declared an Intangible Cultural Heritage of the Junta de Castilla y León on 29 June 2017, and today it has a federation and winter and summer league competitions.
+Lucha leonesa (Leonese wrestling, aluche) is the traditional grappling sport of the province of León in Castile and León, Spain, recognized as a Bien de Interés Cultural (Asset of Cultural Interest) since 2017 (Wikipedia, n.d.-a). Two wrestlers face each other in a sand circle (corro) and grip each other by the jacket or waist; the bout is lost when any part of the body other than the feet touches the ground — a fall, or caída — and matches are decided by falls, typically best of three with a time limit (Wikipedia, n.d.-a). The sport is organized through leagues and corro competitions across León, Zamora and neighboring provinces, with annual fixtures at festivals such as the Fiesta de la Trashumancia, and women now compete in official women's corro competitions under the same rules as men (Wikipedia, n.d.-b).
+
+![A corro of lucha leonesa at La Mata de Curueño, León](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lucha_leonesa.jpg?width=400)
+
+*Figure: Tomé, I. (2008, August 31). Corro de Lucha Leonesa, Mata de Curueño, León, Spain [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Lucha_leonesa.jpg*
+
+![Corros of lucha leonesa at the Fiesta de la Trashumancia 2026 in Prioro, León](https://commons.wikimedia.org/wiki/Special:Redirect/file/Corros_de_lucha_leonesa,_Fiesta_de_la_Trashumancia_2026_01.jpg?width=560)
+
+*Figure: Rodelar. (2026, June 20). Corros de lucha leonesa, Fiesta de la Trashumancia 2026 (Prioro, León) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Corros_de_lucha_leonesa,_Fiesta_de_la_Trashumancia_2026_01.jpg*
 
 ## Rules
 
-Bouts take place in a corro, a circle of 12 to 18 m in diameter drawn on grass or earth. The two wrestlers (luchadores) grip each other's leather belts with both hands and try to bring the opponent down; a bout is decided by one full fall or by a set number of half-falls within a time limit, depending on the competition format. Traditional corro contests at village festivals were judged by the community, while modern federated bouts use referees and the Reglamento Deportivo de la Lucha Leonesa. Teams from the Montaña and Ribera regions compete in a league split by the León-Bilbao railway line, with a "rooster of the ring" deciding team contests when all opposing fighters are down.
+A bout takes place in the corro, a circle of sand about 8–10 m across, with two wrestlers who may not strike or kick — the contest is pure grappling (Wikipedia, n.d.-a). Each wrestler tries to establish the agarre (grip) on the opponent's jacket, belt or waist and to unbalance him so that the back, hip, shoulder or any body part other than the sole of a foot touches the sand; that is a caída and scores a fall for the attacker (Wikipedia, n.d.-a). A match is won by the wrestler who takes the agreed number of falls — commonly first to two or best of three — within the time limit, and a wrestler who cannot continue or who is thrown cleanly loses immediately (Wikipedia, n.d.-a). Competitions run as individual weight-free categories (traditionally open weight, since technique and leverage matter more than mass) and as team leagues in which corro victories are tallied by club (Wikipedia, n.d.-b). Women's lucha leonesa follows identical rules and formats in the women's corro category (Wikipedia, n.d.-b).
 
 ## History
 
-Lucha leonesa is known under many local names across the region — valto, aluche, maraña, trinchas — and was traditionally played at summer fêtes along the transhumance routes. The Provincial Wrestling Commission was formed in 1920, standardized the rules in 1931-1932, and the Federación de Lucha Leonesa was created in 1932 as part of the national Federación Española de Lucha. After decades of decline, the sport was revitalized in the late 20th century, moved into the city of León, and was declared a Bien de Interés Cultural (Intangible Cultural Heritage) by the regional government of Castilla y León in 2017 — the only sport in Spain with that cultural-interest designation. Today it is practiced in schools and clubs across the province with regular league seasons.
+Lucha leonesa has been practiced in the mountains of León for centuries, with written references from the Middle Ages, and it survived as a festival sport tied to transhumance and village fêtes (Wikipedia, n.d.-a). It was formally recognized as intangible cultural heritage of Spain in 2017, and modern competition is organized in league and corro formats that keep the traditional grips and fall rules intact (Wikipedia, n.d.-a). The Fiesta de la Trashumancia in Prioro has become one of the showcase events, drawing corro teams from across the region in 2026 (Wikipedia, n.d.-b). Women's participation, long present at village level, has grown into official women's competitions in recent years, with the same caída rules as the men's bouts (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Topend Sports. (n.d.). *Lucha leonesa (aluche) — Leonese wrestling overview*. Retrieved November 20, 2026, from https://www.topendsports.com/wrestling/lucha-leonesa/index.htm
-- Zenodo. (n.d.). *Technical report: traditional wrestling systems in Spain*. Retrieved November 20, 2026, from https://zenodo.org/records/22825986
+- Wikipedia. (n.d.-a). *Lucha leonesa (Leonese wrestling) — corro, caída, rules, Bien de Interés Cultural 2017*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Leonese_wrestling
+- Wikipedia. (n.d.-b). *Lucha leonesa — leagues, Fiesta de la Trashumancia, women's competitions*. Retrieved November 22, 2026, from https://es.wikipedia.org/wiki/Lucha_leonesa
+
+### Figure Index
+
+- Tomé, I. (2008, August 31). *Corro de Lucha Leonesa, Mata de Curueño, León, Spain* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Lucha_leonesa.jpg (CC BY 2.0)
+- Rodelar. (2026, June 20). *Corros de lucha leonesa, Fiesta de la Trashumancia 2026 (Prioro, León)* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Corros_de_lucha_leonesa,_Fiesta_de_la_Trashumancia_2026_01.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Topend Sports — lucha leonesa](https://www.topendsports.com/wrestling/lucha-leonesa/index.htm) — the corro, scoring and regional traditions
-- [Zenodo — traditional wrestling systems in Spain](https://zenodo.org/records/22825986) — technical report on Leonese wrestling and its legal protection
+- [Lucha leonesa — Wikipedia](https://en.wikipedia.org/wiki/Leonese_wrestling) — rules, corro and cultural-heritage status
+- [Lucha leonesa — Wikipedia (español)](https://es.wikipedia.org/wiki/Lucha_leonesa) — leagues and fiestas
+- [Junta de Castilla y León — deporte tradicional](https://www.jcyl.es/) — regional support for traditional sports including lucha leonesa
+- [Wrestling](wrestling.html) on this site — see also [Canarian Wrestling](canarian-wrestling.html) and [Kushti](kushti.html) on this site

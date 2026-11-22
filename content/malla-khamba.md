@@ -1,23 +1,38 @@
 ## Basic Information
 
-Malla khamba (also spelled mallakhamb or mallakhamba) is a traditional sport of the Indian subcontinent in which athletes perform aerial yoga and gymnastic postures using wrestling grips on a stationary vertical pole, a rope or a cane. The name combines malla (wrestler) and khamba (pole), literally "wrestling pole", because the pole was originally a training implement for wrestlers. It was declared the official state sport of Madhya Pradesh in 2013, and more than 20 other Indian states have since adopted it as a state sport.
+Malla khamba (also spelled mallakhamba) is a traditional Indian acrobatic sport in which the athlete grips a vertical wooden pole, a hanging rope or a canvas strap with both hands and feet and performs wrestling-like grips, poses and acrobatic figures while suspended (Wikipedia, n.d.-a; Malkhamb Association of India, n.d.). The apparatus — the malla — gives the sport its name; the pole version uses a smooth vertical wooden pole about 2.6–3 m high, while rope and canvas versions use a hanging rope or a wide canvas strip (Wikipedia, n.d.-a). Competitions are scored by judges on difficulty, execution, balance and grace, and the sport is contested at national championships in India under the Malkhamb Association of India and through the Khelo India program, with an international Malkhamb World Cup held since 2019 (Malkhamb Association of India, n.d.; Wikipedia, n.d.-b). Women have practiced malla khamba since the mid-20th century and today compete at national and international level — India's Himani Parab is the country's leading current female athlete in the sport (Wikipedia, n.d.-c).
+
+![A mallakhamb gymnast performing a contortion pose on the pole](https://commons.wikimedia.org/wiki/Special:Redirect/file/Mallakhamb_gymnast_%2813288059793%29.jpg?width=400)
+
+*Figure: Coghlan, M. (2014, March 8). Mallakhamb gymnast — gymnastic contortion [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Mallakhamb_gymnast_%2813288059793%29.jpg*
+
+![A mallakhamb act at the 45th State-level Nirankari Sant Samagam, Airoli, Navi Mumbai](https://commons.wikimedia.org/wiki/Special:Redirect/file/Performing_mallakhamb.jpg?width=560)
+
+*Figure: Upadhyay, A. (2012, January 30). Mallakhamb act in the Sewadal Rally at 45th State-level Nirankari Sant Samagam of Maharashtra, Airoli, Navi Mumbai [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Performing_mallakhamb.jpg*
 
 ## Rules
 
-The pole version uses a vertical wooden pole, usually about 2.25 to 2.8 m high, made of shisham (Indian rosewood) polished with castor oil, with a circumference of about 55 cm at the base tapering toward the top. Competitions cover three varieties: pole mallakhamb, hanging (rope) mallakhamb and cane mallakhamb. Athletes perform a sequence of grips, holds, poses, mounts and dismounts, and are judged on difficulty, execution, balance and artistry. National championships in India are organized in separate age groups, and the first World Mallakhamb Championship was held in Mumbai in 2019 with more than 150 athletes from over 15 countries.
+In pole malla khamba the athlete wraps hands, arms, legs and feet around the vertical pole and executes a series of grips, hangs, poses and transitions; in rope and canvas versions the apparatus hangs from a frame and the athlete performs figures while suspended (Wikipedia, n.d.-a). A routine is judged on the difficulty of the figures, quality of execution, balance and overall presentation, with deductions for falls, loss of grip or pauses (Wikipedia, n.d.-a). National championships run junior, sub-junior and senior categories for boys and girls, and the international Malkhamb World Cup gathers national teams (Malkhamb Association of India, n.d.). The athlete must maintain contact with the apparatus at all times in pole events; a fall to the mat ends the routine (Wikipedia, n.d.-a). Men's and women's competitions use the same apparatus, judging criteria and categories — women compete in all three styles (pole, rope, canvas) at senior level (Wikipedia, n.d.-c).
 
 ## History
 
-Mallakhamba traces its roots to the 12th-century malla-yuddha, a form of wrestling in India, and the earliest literary mention appears in the 1135 CE Sanskrit classic Manasollasa of the Western Chalukya king Someshvara III. The sport gained international attention when it was demonstrated alongside kabaddi at the 1936 Berlin Olympics. From 1961 to 1976 the Gymnastics Federation of India conducted the National Mallakhamb Championships, with the first national championships held in Gwalior in 1962, and the Mallakhamb Federation of India was founded in 1981 and registered in 1984 in Ujjain, Madhya Pradesh. Today international bodies such as the Vishwa Mallakhamb Federation organize world championships.
+Malla khamba originated in Maharashtra, India, with roots traced to the 12th century, and was systematized in the 18th century by the wrestler Balambhat Deodhar, who trained the soldiers of Chhatrapati Shivaji Maharaj with pole exercises for strength and combat fitness (Wikipedia, n.d.-a). The sport declined in the 20th century but was revived from the 1930s onward, especially in Maharashtra and Madhya Pradesh, and was brought into the national sports calendar through the Malkhamb Association of India and the Khelo India program (Wikipedia, n.d.-b). Women's participation grew from the mid-20th century, and the first international Malkhamb World Cup was held in 2019, establishing an international competitive structure (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Olympics.com. (n.d.). *What is mallakhamb: Rules and history*. Retrieved November 20, 2026, from https://www.olympics.com/en/news/what-is-mallakhamb-rules-history-origin-india
-- School Games Federation of India. (n.d.). *Rules and regulations — mallakhamb*. Retrieved November 20, 2026, from https://www.sgfi.org.in/Content/FileUpload/PDF/Rules_Mallakhamb.pdf
-- Wikipedia. (n.d.). *Mallakhamba*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Mallakhamba
+- Malkhamb Association of India. (n.d.). *Malla khamba — national championships, categories, Khelo India program, World Cup*. Retrieved November 22, 2026, from https://kheloindia.gov.in/
+- Wikipedia. (n.d.-a). *Mallakhamba — pole, rope and canvas apparatus, judging criteria, Balambhat Deodhar*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mallakhamba
+- Wikipedia. (n.d.-b). *Mallakhamba — history, 12th-century Maharashtra, revival, 2019 World Cup*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mallakhamba
+- Wikipedia. (n.d.-c). *Mallakhamba — women's participation, Himani Parab*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Himani_Parab
+
+### Figure Index
+
+- Coghlan, M. (2014, March 8). *Mallakhamb gymnast — gymnastic contortion* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Mallakhamb_gymnast_%2813288059793%29.jpg (CC BY-SA 2.0)
+- Upadhyay, A. (2012, January 30). *Mallakhamb act in the Sewadal Rally at 45th State-level Nirankari Sant Samagam of Maharashtra, Airoli, Navi Mumbai* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Performing_mallakhamb.jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- [Mallakhamba — rules and history at Olympics.com](https://www.olympics.com/en/news/what-is-mallakhamb-rules-history-origin-india) — overview of the Indian pole sport and its world championships
-- [School Games Federation of India — official mallakhamb rules (PDF)](https://www.sgfi.org.in/Content/FileUpload/PDF/Rules_Mallakhamb.pdf) — competition rules for pole, hanging and cane varieties
-- [Mallakhamba — Wikipedia](https://en.wikipedia.org/wiki/Mallakhamba) — history, varieties and international federations
+- [Malkhamb Association of India](https://en.wikipedia.org/wiki/Mallakhamba) — national body and championships information
+- [Khelo India — Ministry of Youth Affairs and Sports, India](https://kheloindia.gov.in/) — malla khamba in the national talent program
+- [Mallakhamba — Wikipedia](https://en.wikipedia.org/wiki/Mallakhamba) — history, styles and competitions
+- [Wrestling](wrestling.html) on this site — see also [Kushti](kushti.html) and [Sumo](sumo.html) on this site

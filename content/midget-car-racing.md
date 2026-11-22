@@ -1,24 +1,48 @@
 ## Basic Information
 
-Midget car racing is open-wheel racing with small single-seater cars on short oval dirt or paved tracks, best known in the United States, Australia, New Zealand, the United Kingdom and Argentina (where the cars are called midgets). A full-size midget weighs about 900 to 1,000 pounds and can produce up to 350 horsepower from a four-cylinder engine, reaching well over 100 mph on larger tracks. The youth version, quarter midget racing, uses cars about one quarter of the size for drivers aged roughly 5 to 16 on tiny 1/20-mile ovals. Major US sanctioning bodies are USAC and POWRi, with the NASCAR Youth Series as the premier body for quarter midgets.
+Midget car racing is open-wheel racing of very small, high-power-to-weight cars — about 900–1,000 lb with four-cylinder engines producing up to 350–370 hp — on short oval tracks of one-fifth to one-half mile on dirt, asphalt or concrete (Wikipedia, n.d.-a; POWRi, n.d.). The sport originated in the United States in the 1930s and is governed at the top level by USAC, whose NOS Energy Drink National Midget Championship ran its 71st season in 2026 with 29 events in seven states from April to November, opening at Kokomo Speedway in Indiana (Speed Sport, n.d.; Wikipedia, n.d.-a). Rival series include the POWRi National Midget Series, which also sanctions speedcar series in Australia and New Zealand (POWRi, n.d.). The 2026 USAC season saw Buddy Kofoid win the Chase Johnson Classic at Merced Speedway on 21 November 2026 — his 46th career national feature victory — after Cannon McIntosh had taken the 2025 series title and Jacob Denney led the 2026 points standings mid-season (Speedway Digest, n.d.). Women have raced midgets since the 1940s — Angelique Mitchell and Rosie Roussel in the early era — and today compete at the highest level, with Kaylee Bryson racing the Chili Bowl since 2022, Michelle Decker winning the 2023 POWRi West Midget title and Hayden Wise making her USAC National Midget debut in 2026 (Wikipedia, n.d.-b).
+
+![Midget cars racing out of turn 4 at Angell Park Speedway](https://commons.wikimedia.org/wiki/Special:Redirect/file/MidgetCarsRacingAngellParkMay2010.jpg?width=560)
+
+*Figure: Royalbroil. (2010, May 30). Midget car racing out of turn 4 at Angell Park Speedway in Sun Prairie, Wisconsin [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:MidgetCarsRacingAngellParkMay2010.jpg*
+
+![American racing driver Kaylee Bryson at the 2022 Chili Bowl](https://commons.wikimedia.org/wiki/Special:Redirect/file/Kaylee_Bryson_at_2022_Chili_Bowl,_standing.jpg?width=400)
+
+*Figure: wmdstaab. (2022, January 12). 2022 Chili Bowl — Tuesday A Feature — Kaylee Bryson [Photograph, cropped from video]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Kaylee_Bryson_at_2022_Chili_Bowl,_standing.jpg*
+
+![Angelique Mitchell racing a quarter midget](https://commons.wikimedia.org/wiki/Special:Redirect/file/AngeliqueMitchell_1.jpg?width=400)
+
+*Figure: Mitchell, J. (2007, August 2). Picture of Angelique Mitchell racing a quarter midget [Photograph]. Wikimedia Commons. Public domain (PD-self). https://commons.wikimedia.org/wiki/File:AngeliqueMitchell_1.jpg*
 
 ## Rules
 
-Midgets race feature events of roughly 2.5 to 25 miles on bullring ovals from 1/5 to 1/2 mile, with full four-wheel suspension (unlike go-karts), roll cages and strict technical inspections. Quarter midgets run single-cylinder engines (Honda or Briggs & Stratton World Formula platforms) on banked 1/20-mile tracks, with novice classes limited to about 30 mph and upper classes exceeding 45 mph; chassis builders include Talon, Cobra and Bullrider. USAC sanctions the National Midget Series, the .25 Midget Series and quarter midgets, while POWRi runs the National Midget Series rival league and the West Midget Series; headline events include the Chili Bowl in Tulsa, the Turkey Night Grand Prix in California and the Four Crown Nationals at Eldora.
+Midget cars are purpose-built single-seat open-wheel machines with a steel tube chassis, full roll cage, fuel cell or tail tank on the centerline, five-point harness and HANS device; 2026 USAC rule updates tightened seat-belt mounting, tail-tank/fuel-cell specifications and heat-race transfer rules (USAC, n.d.-a). Engines are normally aspirated four-cylinder methanol-burning units (in USAC National Midgets based on production blocks such as Toyota/Honda-derived racing engines) producing up to about 350 hp, with a minimum car weight around 900 lb (Wikipedia, n.d.-a). Race meetings run heats and semi-features feeding a main event (feature) of typically 20–30 laps — 2.5 to 25 miles — with transfer rules set by car count (Wikipedia, n.d.-a; USAC, n.d.-a). Youth categories exist as quarter midgets (about one-quarter the size of a full midget, raced by 8–16-year-olds on 1/20-mile ovals under USAC .25 and QMA) (Wikipedia, n.d.-c). Men and women race under identical technical rules in the same series (Wikipedia, n.d.-b).
 
 ## History
 
-Midget racing grew out of the 1930s California scene of small homemade cars on tiny tracks; the first organized youth meet was the two-day "Children's Speed Classic" staged at the Indianapolis Motor Speedway on May 26-27, 1934. USAC was founded in 1956 by Indianapolis Motor Speedway owner Tony Hulman and became the arbiter of championship and midget racing, while POWRi emerged in 2005 as the Gateway Racing Midget Series and was rebranded in 2006. Quarter midgets existed in some form before World War II and today count more than 4,000 registered drivers in the United States. Countless NASCAR and IndyCar stars began in midgets or quarter midgets, including A. J. Foyt, Jeff Gordon, Tony Stewart, Kyle Larson, Sarah Fisher, Joey Logano and the Labonte brothers. Australia and New Zealand run a strong speedcar scene with events such as the World 50-lap Classic at Western Springs Stadium in Auckland.
+Midget car racing began in California in the 1930s; designer Frank Kurtis built his first midget chassis in the late 1930s in Glendale and his Kurtis Kraft company produced 387 midget cars, becoming "virtually unbeatable" with the smaller Offenhauser engine for over twenty years (Wikipedia, n.d.-d). The cars raced at legendary venues such as Gilmore Stadium and Soldier Field, and USAC was founded in 1956, sanctioning the National Midget Championship from its inaugural season — Kokomo Speedway has hosted 91 national midget events since 1956 (Wikipedia, n.d.-a). The class became the proving ground for American icons: A. J. Foyt, Mario Andretti, Bill Vukovich, Rodger Ward, Tony Stewart, Jeff Gordon, Ryan Newman, Kyle Larson, Christopher Bell and Sarah Fisher all graduated from midgets to IndyCar and NASCAR, and in Australia Jack Brabham started in Speedcars on Sydney dirt ovals (Wikipedia, n.d.-a). In 1959 Rodger Ward famously won the Formula Libre race at Lime Rock Park in a midget car against exotic sports cars (Wikipedia, n.d.-a). Among the women pioneers, Angelique Mitchell and Rosie Roussel raced in the 1940s–1950s, Sarah Fisher became one of the most successful female midget drivers of the 2000s, and Josh Wise's niece Hayden Wise (2021 USAC .25 Midget champion) joined the 2026 national tour (Wikipedia, n.d.-b).
 
 ## Sources
 
-- USAC Racing. (n.d.). *USAC Racing — midget and quarter midget series*. Retrieved November 20, 2026, from https://usacracing.com/
-- Wikipedia. (n.d.). *Midget car racing*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Midget_car_racing
-- Wikipedia. (n.d.). *Quarter midget racing*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Quarter_midget_racing
+- POWRi. (n.d.). *POWRi National Midget Series — cars ~1,000 lb / 350 hp, series history since 2005, champions incl. Michelle Decker 2023 West Midget*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/POWRi_Midget_Racing
+- Speed Sport. (n.d.). *29 events in seven states for USAC Midgets 2026 — 71st season, Kokomo since 1956, BC39*. Retrieved November 22, 2026, from https://speedsport.com/sprints-midgets/29-events-in-seven-states-for-usac-midgets/
+- Speedway Digest. (n.d.). *Buddy Kofoid wins Chase Johnson Classic at Merced, 21 November 2026 — 46th career national feature; Cannon McIntosh 2025 champion; Jacob Denney 2026 points leader*. Retrieved November 22, 2026, from https://speedwaydigest.com/index.php/news/racing-news/895617-kofoid-sweeps-in-usac-at-merced-speedway/
+- USAC. (n.d.-a). *USAC rulebook and 2026 rule updates for National Midget — safety, fuel cell, heat transfers*. Retrieved November 22, 2026, from https://www.usacracing.com/rule-book
+- Wikipedia. (n.d.-a). *Midget car racing — 1930s origins, cars ~900–1,000 lb, tracks, USAC 1956, Foyt/Andretti/Stewart/Larson pathway, Brabham, Lime Rock 1959*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Midget_car_racing
+- Wikipedia. (n.d.-b). *Women in midget car racing — Angelique Mitchell, Rosie Roussel, Sarah Fisher, Kaylee Bryson, Hayden Wise*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Midget_car_racing
+- Wikipedia. (n.d.-c). *Quarter midget racing — youth classes, 1/20-mile ovals, USAC .25 and QMA*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Quarter_midget_racing
+- Wikipedia. (n.d.-d). *Kurtis Kraft — Frank Kurtis, Glendale late 1930s, 387 midget cars, Offenhauser*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kurtis_Kraft
+
+### Figure Index
+
+- Royalbroil. (2010, May 30). *Midget car racing out of turn 4 at Angell Park Speedway in Sun Prairie, Wisconsin* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:MidgetCarsRacingAngellParkMay2010.jpg (CC BY-SA 3.0)
+- wmdstaab. (2022, January 12). *2022 Chili Bowl — Tuesday A Feature — Kaylee Bryson* [Photograph, cropped from video]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Kaylee_Bryson_at_2022_Chili_Bowl,_standing.jpg (CC BY 3.0)
+- Mitchell, J. (2007, August 2). *Picture of Angelique Mitchell racing a quarter midget* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:AngeliqueMitchell_1.jpg (PD-self)
 
 ## Important Links
 
-- [USAC Racing](https://usacracing.com/) — premier US sanctioning body (founded 1956) for National Midgets and quarter midgets
-- [NASCAR Youth Series — quarter midgets](https://www.nascaryouth.com/) — premier sanctioning body for youth quarter midget racing in the US
-- [Midget car racing — Wikipedia](https://en.wikipedia.org/wiki/Midget_car_racing) — sanctioning bodies and major events worldwide
-- [Quarter midget racing — Wikipedia](https://en.wikipedia.org/wiki/Quarter_midget_racing) — youth classes, engines and tracks
+- [USAC Racing](https://www.usacracing.com/) — NOS Energy Drink National Midget Championship; rulebook, standings and Hall of Fame
+- [POWRi Midget Racing](https://en.wikipedia.org/wiki/POWRi_Midget_Racing) — rival national series, founded by Kenny Brown
+- [National Midget Auto Racing Hall of Fame](https://www.usacracing.com/) — history and inductees
+- [Chili Bowl Nationals, Tulsa](https://www.chilibowlnationals.com/) — the premier indoor midget event each January
+- [IndyCar Series](indycar-series.html) on this site — see also [NASCAR](nascar.html), [Formula One](formula-one.html) and [Drag Racing](drag-racing.html) on this site
