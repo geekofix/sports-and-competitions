@@ -1,23 +1,39 @@
 ## Basic Information
 
-Canadian football is a code of gridiron football played in Canada and distinct from American football: teams field 12 players, get three downs to advance ten yards, and play on a larger field. The professional league is the Canadian Football League (CFL), founded in 1958, whose nine teams contest the Grey Cup, first awarded in 1909. At amateur level the sport is governed by Football Canada and played in universities (U Sports, Vanier Cup since 1965), junior leagues and club football.
+Canadian football is the football code played under the rules of the Canadian Football League (CFL), with 12 players per side on a 110-yard (100.6 m) field that is 65 yards (59.4 m) wide, with 20-yard (18.3 m) end zones — the largest playing surface in professional football (Canadian Football League [CFL], n.d.). The league's championship is the Grey Cup, first awarded in 1909 to the top amateur rugby team in Canada and contested since 1954 (as the modern championship) by the CFL; the trophy was donated by Albert Grey, 4th Earl Grey, Governor General of Canada from 1904 to 1911 (CFL, n.d.). The 113th Grey Cup was played on November 15, 2026, at McMahon Stadium in Calgary — the earliest date a Grey Cup has ever been played — with the West Division champion Edmonton Elks defeating the East Division champion Montreal Alouettes 37–30 in a game that tied a championship record with six lead changes; Elks quarterback Cody Fajardo, the 2023 Grey Cup MVP with Montreal before being traded to Edmonton in 2024, threw two touchdown passes and ran for two more and was named game MVP (CBC Sports, 2026; Wikipedia, n.d.). It was the last Grey Cup played on a 110-yard field: from 2027 the league shortens the goal-line distance to the NFL standard of 100 yards, shrinks the end zones from 20 to 15 yards and moves the goal posts to the back of the end zone, while keeping three downs, 12 players and unlimited pre-snap motion; the 2026 season also featured the last traditional East–West playoff route (Calgary Herald, 2026). The 2026 regular season ran from June 4 to October 24 with a salary cap of $6,330,514 per team, and Montreal's Davis Alexander was the league's most outstanding player (CFL, n.d.).
+
+![The Grey Cup trophy, 2022](https://commons.wikimedia.org/wiki/Special:Redirect/file/Grey_Cup,_2022.jpg?width=400)
+
+*Figure: Cmm3. (2022, October 8). The Grey Cup trophy [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Grey_Cup,_2022.jpg*
 
 ## Rules
 
-A Canadian football field is 110 yards long and 65 yards wide with 20-yard-deep end zones. The offense has three downs to gain 10 yards; failing that, it must punt or attempt a field goal, or turn the ball over on downs. Scoring: touchdown 6 points, field goal 3, safety 2, and the single (rouge) worth 1 point, awarded for example when a kick goes dead in the end zone. CFL rules differ from NFL rules in several ways: teams have 12 players, the field is larger, the offensive backfield may be in motion before the snap, and punts are subject to the "no yards" rule, which together produce the fast, open Canadian game. Amateur and junior rulebooks vary in details such as field dimensions and the number of players.
+Under the CFL rulebook, each team has three downs to advance the ball 10 yards; a team may field 12 players on offense, defense and kicking teams, and the field is 110 yards long between goal lines, 65 yards wide, with 20-yard end zones (CFL, n.d.). Scoring: touchdown 6 points, convert (kick 1, two-point conversion 2), field goal 3, safety 2, single (rouge) 1. A missed field goal that goes out of bounds through the end zone, or a punt through the end zone, yields a single; if a dead-ball kick hits the goal post without scoring, the receiving team takes over at its own 40-yard line. Overtime in the regular season uses a mini-game format with alternating two-point conversion attempts from the 3-yard line if still tied, and the Replay Centre automatically reviews every turnover on downs (CFL, 2026). Differences from American football include the three-down system, the 12th player, the larger field, the single point for kicks into the end zone, and the unlimited motion of one backfield player toward the line of scrimmage before the snap (CFL, n.d.). Rosters carry 45 active players per game day; the 2026 salary cap was $6,330,514, about $140,755 per roster spot (CFL, 2026). Women play in the league's growing women's flag-football initiative and in the separate professional women's leagues, while the CFL itself fields male rosters (CFL, n.d.).
 
 ## History
 
-Canadian football grew out of rugby football in the 1860s and 1870s; the famous 1874 series between McGill University and Harvard, played under Boston rules, is considered a founding moment of the sport. The Canadian Rugby Football Union was formed in 1880, and the three-down rule was adopted in the 1880s, shaping the distinct Canadian game. The Grey Cup was donated in 1909 by Governor General Earl Grey for the senior amateur championship. University football has crowned a Canadian champion since 1898 (the Vanier Cup since 1965), and the modern CFL was created in 1958 from the merger of the Interprovincial Rugby Football Union and the Western Interprovincial Football Union.
+Organized Canadian football grew out of rugby football in the 1860s–1880s, codified by McGill University rules in 1874; the Grey Cup trophy was donated in 1909 by the Earl Grey for the Canadian Rugby Union championship. The modern CFL formed in 1958 from the merger of the Interprovincial Football Union (founded 1936) and the Western Interprovincial Football Union (1936); the Toronto Argonauts (founded 1873) hold the record 19 Grey Cup titles, the Edmonton franchise (now Elks, renamed 2022) 15 including the 2026 edition, and the Winnipeg Blue Bombers the most appearances (29) (CFL, n.d.; Wikipedia, n.d.). The 1975 63rd Grey Cup at Montreal's Olympic Stadium, the famous "Ice Bowl" played at −18 °C (−23 °C with wind chill), remains the most iconic championship, won 20–7 by the Montreal Alouettes over Edmonton. Only once did the Grey Cup leave Canada: the Baltimore Stallions won it in 1995 during the league's brief U.S. expansion (1994–1996) (CFL, n.d.).
+
+![1964 Grey Cup champions](https://commons.wikimedia.org/wiki/Special:Redirect/file/1964_Grey_Cup_Champions.jpg?width=560)
+
+*Figure: Dob310bohola. (2021, January 19). 1964 Grey Cup champions [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:1964_Grey_Cup_Champions.jpg*
 
 ## Sources
 
-- Canadian Encyclopedia. (n.d.). *Canadian football*. Retrieved November 20, 2026, from https://www.thecanadianencyclopedia.ca/en/article/canadian-football
-- Canadian Football League. (n.d.). *CFL rules and Grey Cup history*. Retrieved November 20, 2026, from https://www.cfl.ca/
-- Football Canada. (n.d.). *About Football Canada*. Retrieved November 20, 2026, from https://footballcanada.com/
+- CBC Sports. (2026, November 13). *Edmonton and Montreal battle for the last Grey Cup of this era*. Retrieved November 22, 2026, from https://www.cbc.ca/sports/football/cfl/the-buzzer-grey-cup-weekend-preview-nov-13-9.7421569
+- Calgary Herald. (2026, November 15). *One last run to the 55-yard line: Grey Cup closes a Canadian football era*. Retrieved November 22, 2026, from https://calgaryherald.com/sports/football/cfl/one-last-run-55-yard-line-grey-cup-closes-cfl-era
+- Canadian Football League. (n.d.). *CFL rulebook and 2026 season guide*. Retrieved November 22, 2026, from https://www.cfl.ca/
+- Canadian Football League. (2026). *2026 CFL season — 113th Grey Cup*. Retrieved November 22, 2026, from https://www.cfl.ca/2026-cfl-season/
+- Wikipedia. (n.d.). *113th Grey Cup* and *Grey Cup*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/113th_Grey_Cup
+
+### Figure Index
+
+- Cmm3. (2022, October 8). *The Grey Cup trophy* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Grey_Cup,_2022.jpg (CC BY-SA 4.0)
+- Dob310bohola. (2021, January 19). *1964 Grey Cup champions* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:1964_Grey_Cup_Champions.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Canadian Football League](https://www.cfl.ca/) — professional league; Grey Cup championship
-- [Football Canada](https://footballcanada.com/) — national governing body for amateur football
-- [The Canadian Encyclopedia — Canadian football](https://www.thecanadianencyclopedia.ca/en/article/canadian-football) — history and rules overview
+- [Canadian Football League (CFL)](https://www.cfl.ca/) — world governing body and official rulebook
+- [113th Grey Cup, Calgary 2026](https://www.cfl.ca/2026-cfl-season/) — Edmonton Elks 37–30 Montreal Alouettes, November 15, 2026
+- [CBC Sports — Grey Cup weekend 2026 preview](https://www.cbc.ca/sports/football/cfl/the-buzzer-grey-cup-weekend-preview-nov-13-9.7421569) — rules changes from 2027 explained
+- [American football](american-football.html), [Rugby union](rugby-union.html), [Australian rules football](australian-rules-football.html), [Gaelic football](gaelic-football.html) and [Arena football](arena-football.html) on this site

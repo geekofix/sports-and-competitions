@@ -1,23 +1,33 @@
 ## Basic Information
 
-Canoe freestyle (also called rodeo kayaking) is a whitewater canoeing discipline in which paddlers perform acrobatic tricks on a standing wave or in a hydraulic feature, judged for difficulty, execution, variety and combinations. It is one of the ten disciplines governed by the International Canoe Federation (ICF), and ICF world-level events alternate between a World Cup series and a World Championship year.
+Canoe freestyle (formerly *playboating*, earlier *rodeo*) is a whitewater canoeing discipline in which paddlers perform acrobatic tricks on a stationary river feature — a breaking wave, a "hole", a stopper or an eddy line. At International Canoe Federation (ICF, rebranded Paddle Worldwide in July 2026) events, athletes have a set time to perform as many different moves as possible on the feature, with finals judged on three 45-second runs; scoring rewards the difficulty, accuracy, amplitude (height in the air) and complexity of the moves, plus style and use of the paddle (ICF, n.d.; American Canoe Association [ACA], n.d.). The first ICF-sanctioned Canoe Freestyle World Championships were held in 2007 on the Ottawa River, Canada, and the first World Cup series began in 2008; the discipline was recognized by the ICF in 2006 (ICF, n.d.). Four boat types are contested — kayak (K, seated, double-bladed paddle), decked canoe (C, kneeling, single-blade), open canoe (OC) and squirt boat — in men's and women's classes. Among the discipline's most celebrated athletes is Sweden's Maria Lindgren, pictured doing a cartwheel at the 2008 World Cup in Augsburg, Germany (Wikipedia, n.d.). Famous spots include Hawaï-sur-Rhône in Lyon and La Malate in Besançon, France (Kayak Club Millau, n.d.).
+
+![Maria Lindgren doing a cartwheel at the 2008 World Cup in Augsburg](https://commons.wikimedia.org/wiki/Special:Redirect/file/Maria_Lindgren_Augsburg.jpg?width=560)
+
+*Figure: Wålstedt, M. (photo). (2008). Maria Lindgren, cartwheel, VC-tävlingen i Augsburg 2008 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Maria_Lindgren_Augsburg.jpg*
 
 ## Rules
 
-Under the ICF rules, each competitor gets a timed ride of about one minute on the feature and is scored by judges on the difficulty and clean execution of individual moves, on variety and on linked combinations; the best rides advance from heats through semifinals to the final. Moves range from basic spins and cartwheels to aerial maneuvers such as loops and air screws. Boats are short, buoyant freestyle kayaks (about 1.5-2 m) or canoes; helmets, life jackets and wetsuits are required at ICF events. National federations select athletes for the ICF world events.
+Under the ICF Canoe Freestyle Competition Rules (2025 edition; 2026 appendices published for the 2026 season), each competitor performs a timed run of 45 seconds on the feature; heats use two runs, and finals are judged on three 45-second runs, with the best two counting in some formats. Judges award points for the difficulty and clean execution of moves — spins (180°/360°), loops, cartwheels, split wheels, fountains, air blunts, donkey flips, space godzillas and many named invented tricks — plus amplitude, variety and control; touching the water with the body mid-move or "swimming" (capsizing) ends the scoring for that run (ICF, n.d.; ACA, n.d.). Boat classes: kayak K1 (and women's K1), decked canoe C1, open canoe OC1 and squirt. Men's and women's classes are judged separately with the same scoring system; junior, under-23 and masters world championships exist alongside the senior event (ICF, n.d.). Anti-doping follows the ICF/WADA code (ICF, n.d.).
 
 ## History
 
-Freestyle kayaking grew out of the 1970s river-running and playboating scene, with paddlers in the US, Germany (especially on the Eisbach wave in Munich) and elsewhere inventing tricks on standing waves. The ICF brought the discipline under its world championship program in the late 1990s, and since the 2010s canoe freestyle alternates between World Cup and World Championship years, alongside canoe polo. The sport is now practiced on river waves and in artificial wave parks worldwide.
+Recreational playboating grew in the United States in the 1960s–1980s — the pioneer Walt Helen developed sideways and backwards entries in 1968 — and as wakeboarding and snowboarding popularized aerial tricks in the 1980s, competitive freestyle followed in the 1990s. The ICF recognized canoe freestyle as an official discipline in 2006; the first ICF World Championships took place in 2007 on the Ottawa River and the first World Cup in 2008, with worlds and cups alternating in even/odd years (ICF, n.d.; Wikipedia, n.d.). The sport is now practiced worldwide, with major events on the Ottawa, the Zambezi (Zambezi River Festival), the Eisbach wave in Munich and the Lyons/Hawaï-sur-Rhône wave in France, and it regularly appears at the X Games and World Games-adjacent freestyle showcases (Kayak Club Millau, n.d.).
 
 ## Sources
 
-- International Canoe Federation. (n.d.). *Disciplines — canoe freestyle*. Retrieved November 20, 2026, from https://www.canoeicf.com/disciplines
-- International Canoe Federation. (n.d.). *Rules and regulations*. Retrieved November 20, 2026, from https://www.canoeicf.com/rules
-- International Canoe Federation. (n.d.). *World championships*. Retrieved November 20, 2026, from https://www.canoeicf.com/world-championships
+- American Canoe Association. (n.d.). *Freestyle — competition format and moves*. Retrieved November 22, 2026, from https://americancanoe.org/competition/teams/pww-sports/freestyle/
+- International Canoe Federation. (n.d.). *Canoe freestyle — discipline page and rules*. Retrieved November 22, 2026, from https://www.canoeicf.com/disciplines/canoe-freestyle
+- Kayak Club Millau. (n.d.). *Freestyle kayaking — spots and practice*. Retrieved November 22, 2026, from https://kayakclubmillau.com/kayak-freestyle/
+- Wikipedia. (n.d.). *Canoe freestyle*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Canoe_freestyle
+
+### Figure Index
+
+- Wålstedt, M. (photo). (2008). *Maria Lindgren, cartwheel* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Maria_Lindgren_Augsburg.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [ICF — International Canoe Federation](https://www.canoeicf.com/) — world governing body for all canoe disciplines
-- [ICF — Rules and regulations](https://www.canoeicf.com/rules) — official discipline rule books (PDF)
-- [ICF — World Championships](https://www.canoeicf.com/world-championships) — world-level events across all disciplines
+- [ICF / Paddle Worldwide — Canoe Freestyle](https://www.canoeicf.com/disciplines/canoe-freestyle) — world governing body; rules, calendar, results
+- [ICF rules — canoe freestyle appendices 2026 (PDF)](https://www.canoeicf.com/sites/default/files/2026_icf_canoe_freestyle_rules_appendices.pdf) — official 2026 rules
+- [American Canoe Association — freestyle](https://americancanoe.org/competition/teams/pww-sports/freestyle/) — US format and move list
+- [Canoe slalom](canoe-slalom.html), [Wildwater canoeing](wildwater-canoeing.html), [Kayaking](kayaking.html), [Canoeing](canoeing.html) and [Surfing](surfing.html) on this site

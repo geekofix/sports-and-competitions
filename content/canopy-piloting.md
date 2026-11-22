@@ -1,21 +1,37 @@
 ## Basic Information
 
-Canopy piloting is the sport of flying the parachute canopy after opening: experienced skydivers perform high-speed turns, dives and precision landings ("swoops") with their ram-air canopies. It is governed in the United States by the United States Parachute Association (USPA), which sanctions canopy piloting competitions in distance, accuracy and speed, and internationally parachuting is overseen by the Fédération Aéronautique Internationale (FAI). It is distinct from canopy relative work (CRW), where several canopies dock in formation.
+Canopy piloting is the sport of flying the parachute canopy after opening: experienced skydivers fly their ram-air canopies through timed gates, over measured distances and into precision landing zones, finishing with high-speed "swoop" landings across a pond or grass (USPA, n.d.; FAI, 2026). In the United States the discipline is governed by the United States Parachute Association (USPA) under Chapter 12 of its Skydiver's Competition Manual; internationally it is run by the FAI's International Skydiving Commission (ISC) under Section 5 of the FAI Sporting Code (USPA, n.d.; FAI, n.d.). The 11th FAI World Canopy Piloting Championships were held together with four other world championships at Skydive Arizona in Eloy, Arizona, from 18 to 24 October 2026, with 256 competitors from 29 nations (Skydivemag, 2026). The American Curt Bartholomew defended his overall world title and added gold medals in zone accuracy and speed — plus the separate world title in Canopy Piloting Freestyle — while Cornelia Mihai of the United Arab Emirates took silver overall and Australia's George Sheather bronze; Mihai is among the leading female canopy pilots in the world today (Skydivemag, 2026; Skydive Arizona, 2026). A zone-accuracy landing is pictured below.
+
+![Zone accuracy landing at the German Swooping Open 2006](https://commons.wikimedia.org/wiki/Special:Redirect/file/Swooping-za.jpg?width=560)
+
+*Figure: Bleeper. (2006, July 1). Swooping — zone accuracy landing, German Swooping Open 2006 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Swooping-za.jpg*
 
 ## Rules
 
-Under USPA rules, canopy piloting competitions are judged in disciplines such as distance (greatest distance flown from a set exit point within a time or fuel limit), accuracy (landing closest to a target) and speed (fastest timed course through gates). Competitors must hold the appropriate USPA license and use canopies within the wing-loading limits set for their experience level; high-performance landings require demonstrated proficiency. Swooping competitions score the speed and angle of the final turn over the ground before touchdown. Safety rules prohibit flying over spectators and require clear landing areas.
+Under USPA SCM Chapter 12, a canopy piloting competition comprises three rounds in each of the events Speed, Distance and Zone Accuracy, flown from an exit altitude of about 6,000 ft above ground (USPA, n.d.). The course is marked by an entry gate (G1), a series of water gates and an exit gate (G5): in Speed, the fastest time through the course scores 100 points and all other competitors' scores are calculated as a percentage of the winner's; in Distance, the competitor flying the longest distance from G1 to the first point of ground contact after G5 scores 100 points; in Zone Accuracy, the score is the sum of water-gate points and landing-zone points, with minus 10 points for failing to perform a stand-up landing (USPA, n.d.; FAI, n.d.). Penalties — out flying (OF), off-course landing (OC), canopy down (CD), marker strike (MS), vertical extension (VE), no water drag (NW) and missed entry (ME) — result in default scores for the round, and navigating the course without the required protective helmet is a disqualifying offense (USPA, n.d.). Competitions are judged by a panel of certified national canopy piloting judges; competitors must hold the appropriate license and observe the wing-loading limits set for their experience level, and unsafe canopy handling can draw a yellow card from the chief judge (USPA, n.d.). Men and women compete in the same events, and the FAI additionally runs a separate Canopy Piloting Freestyle world championship in which pre-declared maneuvers are judged for difficulty, transitions, precision and control (USPA, n.d.; Skydivemag, 2026).
 
 ## History
 
-Modern ram-air parachutes of the 1980s and 1990s made true canopy flight possible, and skydivers began turning, diving and carving at low altitude; the "swoop" landing became famous in the 1990s. The USPA formalized canopy piloting as a competition discipline with nationals and world-level meets, and the FAI's International Skydiving Commission sanctions international canopy piloting events. The sport is known for its spectacular, high-speed landings, which are also trained as a safety skill by competitive and display skydivers.
+Ram-air ("parafoil") canopies, patented by the Canadian engineer Domina Jalbert in 1964, reached sport parachuting in the late 1980s and transformed what a canopy can do after opening (Wikipedia, n.d.). Throughout the 1990s, pioneers such as the American skydiver Nick Batsch developed high-performance swooping — long, low, high-speed turns onto small landing areas — and turned canopy control into a competitive discipline; the FAI has held World Canopy Piloting Championships since the mid-2000s, and the 11th edition in 2026 was staged alongside four other FAI skydiving world championships at a single venue for the first time (FAI, 2026; Skydivemag, 2026). National associations such as the USPA and the Canadian Sport Parachuting Association (CSPA) have sanctioned national championships and record attempts for decades, and dedicated swoop ponds now feature at major drop zones around the world (CSPA, n.d.; USPA, n.d.).
 
 ## Sources
 
-- Fédération Aéronautique Internationale. (n.d.). *Parachuting*. Retrieved November 20, 2026, from https://www.fai.org/
-- United States Parachute Association. (n.d.). *Canopy piloting and USPA competitions*. Retrieved November 20, 2026, from https://uspa.org/
+- Canadian Sport Parachuting Association. (n.d.). *USPA canopy piloting competition rules (hosted PDF)*. Retrieved November 22, 2026, from https://www.cspa.ca/sites/default/files/USPA%20CP%20Rules_0.pdf
+- FAI — World Air Sports Federation. (2026). *2026 FAI World Championships in Artistic Events, Canopy Piloting, Canopy Piloting Freestyle, Formation Skydiving and Speed Skydiving — Eloy, 18–24 Oct 2026*. Retrieved November 22, 2026, from https://www.fai.org/event/2026-fai-world-championships-artistic-events-canopy-piloting-canopy-piloting-freestyle
+- FAI — World Air Sports Federation. (n.d.). *Competition rules — Section 5 (Parachuting)*. Retrieved November 22, 2026, from https://www.fai.org/page/competition-rules-section-5
+- Skydivemag. (2026, October). *World champions crowned in Eloy*. Retrieved November 22, 2026, from https://www.skydivemag.com/new/world-champions-crowned-in-eloy/
+- Skydive Arizona. (2026, November). *2026 FAI World Skydiving Championships — recap*. Retrieved November 22, 2026, from https://www.skydiveaz.com/blog/2026-fai-world-skydiving-championships-recap/
+- United States Parachute Association. (n.d.). *Skydiver's Competition Manual, Chapter 12 — Canopy Piloting*. Retrieved November 22, 2026, from https://uspa.org/SCM/12
+- Wikipedia. (n.d.). *Domina Jalbert*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Domina_Jalbert
+
+### Figure Index
+
+- Bleeper. (2006, July 1). *Swooping — zone accuracy landing* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Swooping-za.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [USPA — United States Parachute Association](https://uspa.org/) — national governing body; canopy piloting competitions and rules
-- [FAI — Fédération Aéronautique Internationale](https://www.fai.org/) — international air sports federation; parachuting commission
+- [United States Parachute Association — SCM Chapter 12, Canopy Piloting](https://uspa.org/SCM/12) — official US competition rules
+- [FAI International Skydiving Commission](https://www.fai.org/commission/isc) — world championships, world records
+- [FAI ISC Results Centre](https://results.worldskydiving.org/) — official results of FAI world championships and cups
+- [2026 FAI World Championships — Eloy, Arizona](https://www.fai.org/isc-eloy2026) — 18–24 October 2026, 11th World Canopy Piloting Championships
+- [Skydiving](skydiving.html) on this site
