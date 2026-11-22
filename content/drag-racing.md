@@ -1,21 +1,37 @@
 ## Basic Information
 
-Drag racing is a straight-line acceleration contest in which two vehicles race from a standing start over a measured quarter-mile (402.3 m) or eighth-mile (201.2 m), with the first across the finish line winning. Professional competition is led in the United States by the National Hot Rod Association (NHRA), which runs the NHRA Mission Foods Drag Racing Series, and internationally by the FIA, which sanctions the FIA European Drag Racing Championship.
+Drag racing is a straight-line acceleration contest in which two vehicles race side by side over a measured 1,000-foot (305 m) course from a standing start, with the first across the finish line \u2014 or the one closer to its dial-in in handicap classes \u2014 winning (NHRA, n.d.-b). In the United States the sport is governed by the National Hot Rod Association (NHRA), founded by Wally Parks in 1951, whose 2026 Mission Foods Drag Racing Series marked the 71st season and the NHRA's 75th anniversary with 20 national events (NHRA, n.d.-b). The 2026 champions were crowned at the In-N-Out Burger NHRA Finals in Pomona, California: Shawn Langdon (Top Fuel, his second title), J.R. Todd (Funny Car, his second), Dallas Glenn (Pro Stock, his second straight) and Gaige Herrera (Pro Stock Motorcycle) \u2014 while 16-time Funny Car champion John Force retired after the 2025 season (NHRA, n.d.-a). Internationally, the FIA also sanctions professional drag racing (FIA, n.d.). At the end of 2026, the leading current drivers are the 2026 NHRA champions named above, with Top Fuel world champion Shawn Langdon and Funny Car champion J.R. Todd leading the fields (NHRA, n.d.-a).
+
+![Drag racing cars side by side at Firebird Motorsports Park](https://commons.wikimedia.org/wiki/Special:Redirect/file/Drag_Racing_Cars.jpg?width=560)
+
+*Figure: JoseE1471. (2025, March 22). Drag Racing Cars [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Drag_Racing_Cars.jpg*
+
+![Opening competition drag race in Tiraspol, 2019](https://commons.wikimedia.org/wiki/Special:Redirect/file/Competition_Drag_Racing.jpg?width=560)
+
+*Figure: Natalia Bazilenco. (2019, May 11). Competition Drag Racing [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Competition_Drag_Racing.jpg*
 
 ## Rules
 
-At NHRA and FIA events, two vehicles are staged at the starting line using a "Christmas tree" of lights; the race officially starts when the green light comes on, and a jump start (leaving before the green) is a foul ("red light") that loses the race. The elapsed time (ET) is measured from the start beam to the finish beam, and top speed is recorded in the speed trap at the end of the track. Classes range from the professional Top Fuel (nitromethane-powered dragsters exceeding 330 mph / 530 km/h in under 3.7 seconds) and Funny Car categories down to Sportsman classes (Super Pro, Comp, Super Gas, Super Street, Pro Stock, Pro Stock Motorcycle and bracket racing). In bracket racing, drivers dial in an expected time and the closer run without going under wins. FIA European events use similar classes with a standing-start format and a 402.3 m distance for the professional categories.
+Professional drag racing follows the NHRA rulebook (NHRA, n.d.-b). The two lanes are 1,000 ft long, and the race starts from a "Christmas tree" starting light system: after both cars stage, the green light follows a 0.4-second (Pro) or 0.5-second (Sportsman) delay, and a red light before green \u2014 a foul start \u2014 loses the round (NHRA, n.d.-b). The professional classes are Top Fuel (supercharged nitromethane dragsters covering 1,000 ft in under 3.7 seconds at more than 330 mph), Funny Car (production-based bodies with nitro-burning engines, about 3.9 seconds), Pro Stock (naturally aspirated, 6.5-second cars) and Pro Stock Motorcycle (NHRA, n.d.-b). Competition uses elimination rounds within the Countdown to the Championship playoff system, which reseeds the top ten after a designated event (NHRA, n.d.-b). Bracket (handicap) racing lets slower cars start earlier using a dial-in; running quicker than the dial-in is a "breakout" and loses (NHRA, n.d.-b). Safety rules require roll cages, fire suits, helmets and parachutes above set speeds (NHRA, n.d.-b). Men and women compete in the same classes \u2014 Shirley Muldowney was the first woman licensed in Top Fuel and won three titles, and women such as Alexis DeJoria, Erica Enders and Leah Pruett have won national events (Wikipedia, n.d.).
 
 ## History
 
-Drag racing grew out of hot-rodding culture in 1950s Southern California, where drivers raced informally on dry lake beds and desert roads. The NHRA was founded in 1951 and standardized the quarter-mile with timing equipment, holding the first Nationals in 1955 in Great Bend, Kansas. Top Fuel dragsters evolved from rail jobs to the 1,000-horsepower era and today exceed 10,000 horsepower. Don "Big Daddy" Garlits was the first to break 200 mph (1964) and 250 mph, and Shirley Muldowney became the first woman to win an NHRA national event and the first licensed female Top Fuel driver. The FIA European Drag Racing Championship began in 1978 (originally as the European Drag Racing Championship organized by Santa Pod Racers), and drag racing has been a demonstration sport at major events.
+Drag racing grew out of postwar Southern California hot-rodding, with illegal street races on dry lake beds giving way to organized events; Wally Parks founded the NHRA in 1951 and opened the first purpose-built dragstrip, Famoso, near Bakersfield in 1959 (Wikipedia, n.d.). Don Garlits, driving his "Swamp Rat" dragsters, became the first to officially exceed 200 mph over the quarter mile in 1964 and later 250 mph, while Shirley Muldowney broke into Top Fuel in the 1970s and won three championships (Wikipedia, n.d.). The sport switched from the quarter mile to 1,000 feet in 2008 for the professional classes after a fatal accident, and John Force won a record 16 Funny Car championships between 1997 and 2024 before retiring after 2025 (NHRA, n.d.-a; Wikipedia, n.d.). The 2026 season marked the NHRA's 75th anniversary and its 71st racing season (NHRA, n.d.-b).
 
 ## Sources
 
-- FIA. (n.d.). *FIA European Drag Racing Championship regulations*. Retrieved November 20, 2026, from https://www.fia.com/
-- National Hot Rod Association. (n.d.). *NHRA rulebook and drag racing series*. Retrieved November 20, 2026, from https://www.nhra.com/
+- FIA. (n.d.). *FIA drag racing*. Retrieved November 22, 2026, from https://www.fia.com/
+- NHRA. (n.d.-a). *2026 NHRA Mission Foods Drag Racing Series \u2014 champions*. Retrieved November 22, 2026, from https://www.nhra.com/
+- NHRA. (n.d.-b). *NHRA rulebook and competition guide*. Retrieved November 22, 2026, from https://www.nhra.com/
+- Wikipedia. (n.d.). *Drag racing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Drag_racing
+
+### Figure Index
+
+- JoseE1471. (2025, March 22). *Drag Racing Cars* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Drag_Racing_Cars.jpg (CC BY-SA 4.0)
+- Natalia Bazilenco. (2019, May 11). *Competition Drag Racing* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Competition_Drag_Racing.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [NHRA — National Hot Rod Association](https://www.nhra.com/) — premier professional drag racing sanctioning body (Top Fuel, Funny Car, Pro Stock)
-- [FIA — European Drag Racing Championship](https://www.fia.com/) — international governing body; FIA European Drag Racing Championship
+- [NHRA](https://www.nhra.com/) \u2014 world governing body in the U.S.; rulebook, 2026 series and champions
+- [FIA \u2014 Drag racing](https://www.fia.com/) \u2014 international federation; European drag racing events
+- [Formula One](formula-one.html), [World Rally Championship](world-rally-championship.html) and [24 Hours of Le Mans](24-hours-of-le-mans.html) on this site

@@ -1,22 +1,37 @@
 ## Basic Information
 
-Dodgeball is a team elimination ball game in which players throw balls at opponents while dodging throws from the other team; the team that eliminates all opposing players wins the round. Competitive dodgeball is governed internationally by the World Dodgeball Federation (WDBF, founded 2012 in Edmonton, Canada), which runs the WDBF World Cup, and in Europe by the European Dodgeball Federation (EDF). The 2024 WDBF World Championship drew about 1,400 athletes from 36 countries.
+Dodgeball is a team elimination ball game in which players throw balls at opponents while dodging throws from the other team; the team that eliminates all opposing players wins the round (WDBF, n.d.-a). Competitive dodgeball is governed internationally by the World Dodgeball Federation (WDBF), founded in Edmonton, Canada, in 2011, which standardizes the rules and runs the biennial WDBF World Championships \u2014 the 11th edition took place in Bangkok, Thailand, 5\u201313 December 2026 with more than 1,400 athletes from 36 countries in six divisions, the gold-medal finals on 12 December \u2014 and in Europe by the European Dodgeball Federation (EDF), which stages the European Championships in odd years since 2021 (WDBF, n.d.-b; EDF, n.d.). At the 2024 World Championships in Graz, Austria, the United States men defended their title for a third time and Canada won its fourth women's title (WDBF, n.d.-b). The leading current players at the end of 2026 are the members of the 2026 world champion squads from Bangkok and, in Europe, the reigning European champions of the 2025 EDF European Championships (WDBF, n.d.-b; EDF, n.d.).
+
+![The opening rush of a competitive dodgeball match](https://commons.wikimedia.org/wiki/Special:Redirect/file/Za%C4%8D%C3%A1tek_z%C3%A1pasu_tzv._Rush_v_dodgeballu.jpg?width=560)
+
+*Figure: Patourek. (2024, May 18). Za\u010d\u00e1tek z\u00e1pasu tzv. Rush v dodgeballu [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Za%C4%8D%C3%A1tek_z%C3%A1pasu_tzv._Rush_v_dodgeballu.jpg*
+
+![A player dodging a ball at the World Dodgeball Championships in Los Angeles 2018](https://commons.wikimedia.org/wiki/Special:Redirect/file/Andrew_Ketchum_dodging_a_ball_at_the_World_Dodgeball_Championships_in_Los_Angeles_in_2018.jpg?width=420)
+
+*Figure: Jwoodlee3. (2019, June 17). Andrew Ketchum dodging a ball at the World Dodgeball Championships in Los Angeles in 2018 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Andrew_Ketchum_dodging_a_ball_at_the_World_Dodgeball_Championships_in_Los_Angeles_in_2018.jpg*
 
 ## Rules
 
-Under the WDBF Dodgeball Rules (current edition 2024), teams field six players on a court of 18 m x 9 m. Play starts with all balls (six foam or rubber balls) held by one team at the center line; on the referee's "dodgeball" call, players rush to grab balls and throw at opponents. A player hit by a ball that has touched the floor, a wall or another player first is out; players may also be caught out by a thrown ball caught before it touches anything else. Eliminated players leave the court, and a team wins the match when all opponents are out, or when time expires with more players remaining. Substitutions, timeouts and overtime rules are defined in the rulebook. The EDF uses a Size 3 ball (about 17.8 cm / 7 in circumference classes vary), with regional rule variants such as no-sting and catch rules differing between federations.
+Under the WDBF Dodgeball Rules, a team fields six players on a court of about 18 m \u00d7 9 m (60 \u00d7 30 ft) with an attack line roughly one third of the court from each back line and no neutral zone (WDBF, 2024). At the start of each point, all six balls lie along the center line and, on the referee's call, both teams rush to grab them \u2014 the opening rush pictured above (WDBF, 2024). A player hit by a live ball is out; a thrown ball caught before touching the ground, another player or a wall eliminates the thrower; and eliminated players leave the court (WDBF, 2024). A team wins the point when all opponents are out or, when time expires, when it has more players remaining (WDBF, 2024). Matches are played in two 20-minute halves within a set-based format, with defined substitution, timeout and overtime procedures, and the WDBF sanctions both cloth and foam ball formats across its divisions (WDBF, 2024; WDBF, n.d.-b). The EDF applies the same core rules at the European Championships with regional variants such as no-sting balls and modified catch rules (EDF, n.d.). Men's, women's and mixed divisions are contested at world and continental level with identical court dimensions and ball counts (WDBF, n.d.-b; EDF, n.d.).
 
 ## History
 
-Dodgeball's modern form was codified in the early 20th century in North American schools and YMCAs, but the competitive game with formal rules developed mainly from the 1990s onward, influenced by playground games and the 2004 film Dodgeball: A True Underdog Story. The WDBF was founded in Edmonton in 2012 and standardized international rules, holding its first World Cup and growing to continental championships across all continents. The EDF organizes the European Championships, and national federations run leagues in the United States, Canada, the United Kingdom and across Asia. The sport is played recreationally worldwide and is increasingly recognized in school and university sports.
+Dodgeball's modern form was codified in early twentieth-century North American schools and YMCAs, but the competitive game with formal rules developed mainly from the 1990s onward, influenced by playground games and popularized by the 2004 film Dodgeball: A True Underdog Story (Wikipedia, n.d.). The WDBF was founded in Edmonton, Canada, in 2011, held its first World Championship in Kuala Lumpur in 2012 and grew into continental championships on every continent; since 2022 the World Championships have been held biennially (WDBF, n.d.-b). The EDF organizes the European Championships, and national federations run leagues across the United States, Canada, the United Kingdom, Europe and Asia (EDF, n.d.). The 2024 World Championships in Graz drew about 1,400 athletes from 36 countries, and the 11th edition followed in Bangkok in December 2026 (WDBF, n.d.-b).
 
 ## Sources
 
-- European Dodgeball Federation. (n.d.). *EDF rules and European Championship*. Retrieved November 20, 2026, from https://www.dodgebballeurope.org/
-- World Dodgeball Federation. (2024). *WDBF dodgeball rules*. https://www.worlddodgeballfederation.com/
-- World Dodgeball Federation. (n.d.). *WDBF World Cup and member federations*. Retrieved November 20, 2026, from https://www.worlddodgeballfederation.com/
+- European Dodgeball Federation. (n.d.). *EDF rules and European Championship*. Retrieved November 22, 2026, from https://www.dodgebballeurope.org/
+- WDBF. (n.d.). *WDBF member federations and competition calendar*. Retrieved November 22, 2026, from https://www.worlddodgeballfederation.com/
+- WDBF. (2024). *WDBF dodgeball rules*. Retrieved November 22, 2026, from https://www.worlddodgeballfederation.com/
+- Wikipedia. (n.d.). *Dodgeball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dodgeball
+
+### Figure Index
+
+- Jwoodlee3. (2019, June 17). *Andrew Ketchum dodging a ball at the World Dodgeball Championships in Los Angeles in 2018* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Andrew_Ketchum_dodging_a_ball_at_the_World_Dodgeball_Championships_in_Los_Angeles_in_2018.jpg (CC BY-SA 4.0)
+- Patourek. (2024, May 18). *Za\u010d\u00e1tek z\u00e1pasu tzv. Rush v dodgeballu* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Za%C4%8D%C3%A1tek_z%C3%A1pasu_tzv._Rush_v_dodgeballu.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [WDBF — World Dodgeball Federation](https://www.worlddodgeballfederation.com/) — world governing body; official rules and WDBF World Cup
-- [EDF — European Dodgeball Federation](https://www.dodgebballeurope.org/) — European governing body; European Championship
+- [WDBF \u2014 World Dodgeball Federation](https://www.worlddodgeballfederation.com/) \u2014 world governing body; official rules and World Championships
+- [EDF \u2014 European Dodgeball Federation](https://www.dodgebballeurope.org/) \u2014 European governing body; European Championship
+- [Ultimate](ultimate.html) on this site; [Dodge-juggle](dodge-juggle.html) on this site
