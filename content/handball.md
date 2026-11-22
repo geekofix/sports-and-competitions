@@ -1,21 +1,36 @@
 ## Basic Information
 
-Handball is the fast Olympic team sport of seven-a-side indoor handball governed by the International Handball Federation (IHF) — see [Field Handball](field-handball.html) for the full sport article, since this entry and that one refer to the same discipline. For clarity: the IHF World Men's and Women's Handball Championships and the Olympic handball tournament are the premier competitions, played on a 40 m x 20 m court with a 3 m x 2 m goal.
+Handball is a fast indoor team sport in which two teams of seven players pass, dribble and throw a ball to score in the opponent's goal; it is governed worldwide by the International Handball Federation (IHF), founded in 1946 in Copenhagen, with the European Handball Federation (EHF) as the continental body (International Handball Federation [IHF], n.d.-b; Wikipedia, n.d.-a). The IHF Men's World Championship has been held since 1938 and the Women's since 1957, both biennial since the 1990s, and handball has been an Olympic sport for men since Munich 1972 and for women since Montreal 1976 (IHF, n.d.-b; Wikipedia, n.d.-a). As of late 2026, the leading women are the Norway team that won the 2025 IHF Women's World Championship in Germany and the Netherlands — their fifth title — spearheaded by Henny Reistad (55 goals, second top scorer) and goalkeeper Katrine Lunde, with Germany (silver, best young player Viola Leuchter) and France (bronze) completing the podium, while on the men's side Denmark are the reigning European champions after beating Germany 34–27 in the EHF EURO 2026 final at Jyske Bank Boxen, Herning, on 1 February 2026, with Mathias Gidsel setting a tournament record of 68 goals (European Handball Federation, n.d.; Wikipedia, n.d.-b, n.d.-c).
+
+![Handball at the 2024 Summer Olympics — men's Germany vs Slovenia](https://commons.wikimedia.org/wiki/Special:Redirect/file/Handball_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_Germany_vs_Slovenia_-_2024-08-04_-_01.jpg?width=560)
+
+*Figure: Daieuxetdailleurs. (2024, August 4). Handball at the 2024 Summer Olympics — men's Germany vs Slovenia, Paris [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Handball_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_Germany_vs_Slovenia_-_2024-08-04_-_01.jpg*
 
 ## Rules
 
-The rules are those of IHF team handball: seven players per team, two 30-minute halves, dribbling and three-step rule, no holding or dangerous contact, free throws and 7 m penalties for fouls, yellow/red cards with two-minute suspensions, and goals scored when the whole ball crosses the goal line. Full details are in the [Field Handball](field-handball.html) entry on this site.
+The official rulebook is the IHF Rules of the Game, most recently amended on 1 July 2025 — notably, a ball hitting the goalkeeper's head during a 7-metre throw now results in a two-minute suspension rather than a red card (IHF, n.d.-a). The court is 40 × 20 m with a goal 3 m wide and 2 m high at each end, surrounded by a 6 m goal area (the goal-area line) that only the goalkeeper may enter; each team fields seven players — six court players and one goalkeeper — from a squad of up to 16, and the match consists of two 30-minute halves (IHF, n.d.-a; Wikipedia, n.d.-a). A court player may take at most three steps while holding the ball and may hold it for at most three seconds before dribbling, passing or shooting; after each goal and at the start of each half there is a throw-off from the centre circle, and free throws are taken from the 9 m dashed line, 7-metre throws from the 7 m line for fouls preventing a clear goalscoring chance, corner throws from the corner and goal throws by the goalkeeper (IHF, n.d.-a). Fouls are punished with free throws, 7-metre throws or two-minute suspensions — a player's third suspension means disqualification — and each team may take three team time-outs per match; entering the goal area as an attacker costs a free throw to the defence, while a defender entering the goal area can concede a 7-metre throw (IHF, n.d.-a; Wikipedia, n.d.-a). Formats: the Olympic Games, the biennial IHF World Championships (men since 1938, women since 1957), EHF European Championships, continental club competitions such as the EHF Champions League, and beach handball, which has its own IHF World Championship — the 2026 edition was held at Lake Jarun in Zagreb (IHF, n.d.-b). Women and men play under identical rules in separate competitions; squad sizes, court and timing are the same for both genders (IHF, n.d.-a; Wikipedia, n.d.-a).
 
 ## History
 
-Modern handball was codified in northern Europe around 1906-1917 and organized by the IHF, founded in Copenhagen in 1946; it has been an Olympic sport since Munich 1972 (men) and Montreal 1976 (women). See [Field Handball](field-handball.html) for the complete history, from the 1936 outdoor World Championships to the modern indoor game dominated by Denmark, France, Sweden, Germany, Norway and Spain.
+Modern team handball was codified in northern Europe at the end of the 19th century — the Danish teacher Holger Nielsen and the German gymnastics teacher Karl Schelenz are credited with the 11-a-side and indoor variants — and the International Amateur Handball Federation (IAHF), the IHF's predecessor, was founded in 1946 in Copenhagen; the first men's World Championship was held in Germany in 1938 and the first women's in Yugoslavia in 1957 (Wikipedia, n.d.-a). Handball entered the Olympic programme for men at Munich 1972 and for women at Montreal 1976, and the World Championships became biennial in the 1990s (Olympics, n.d.; Wikipedia, n.d.-c). Denmark's 2025 IHF Men's World Championship title — the country's first — and their EHF EURO 2026 triumph in Herning on 1 February 2026 (34–27 over Germany, 24 teams, 15 January–1 February 2026, co-hosted with Norway and Sweden) mark the current high point of the men's game (Wikipedia, n.d.-c).
 
 ## Sources
 
-- International Handball Federation. (n.d.). *IHF official rules and World Championships*. Retrieved November 20, 2026, from https://www.ihf.info/
-- Olympics.com. (n.d.). *Handball at the Olympic Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/handball
+- European Handball Federation. (n.d.). *EHF EURO 2026 and European club competitions*. Retrieved November 22, 2026, from https://www.eurohandball.com/
+- International Handball Federation. (n.d.-a). *Rules of the game 2025*. Retrieved November 22, 2026, from https://www.ihf.info/
+- International Handball Federation. (n.d.-b). *World Championships — calendar and results*. Retrieved November 22, 2026, from https://www.ihf.info/
+- Olympics. (n.d.). *Handball at the Olympic Games*. Retrieved November 22, 2026, from https://www.olympics.com/en/sports/handball/
+- Wikipedia. (n.d.-a). *Handball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Handball
+- Wikipedia. (n.d.-b). *2025 World Women's Handball Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/2025_World_Women%27s_Handball_Championship
+- Wikipedia. (n.d.-c). *2026 European Men's Handball Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/2026_European_Men%27s_Handball_Championship
+
+### Figure Index
+
+- Daieuxetdailleurs. (2024, August 4). *Handball at the 2024 Summer Olympics — men's Germany vs Slovenia — 2024-08-04 — 01* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Handball_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_Germany_vs_Slovenia_-_2024-08-04_-_01.jpg (CC BY 4.0)
 
 ## Important Links
 
-- [IHF — International Handball Federation](https://www.ihf.info/) — world governing body; official rules and World Championships
-- [Field Handball — full sport entry](field-handball.html) — same discipline, full article on this site
+- [International Handball Federation (IHF)](https://www.ihf.info/) — world governing body; Rules of the Game, World Championships
+- [European Handball Federation (EHF)](https://www.eurohandball.com/) — continental federation; EHF EURO and Champions League
+- [Olympics.com — handball](https://www.olympics.com/en/sports/handball/) — Olympic tournament and results
+- [Beach Handball](beach-handball.html), [Field Hockey](field-hockey.html) and [Football](football.html) on this site — related team sports

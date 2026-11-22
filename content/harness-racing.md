@@ -1,21 +1,35 @@
 ## Basic Information
 
-Harness racing is the sport of trotting and pacing — horses pulling a two-wheeled cart (sulky) with a driver — raced at specialized tracks. It is governed in Europe by the Union Européenne du Trot (UET), founded in the mid-20th century, which runs the UET Trotting Masters and European championships, and in North America by the United States Trotting Association (USTA), which runs the Hambletonian (since 1926, "the Kentucky Derby of harness racing") and the Breeders Crown.
+Harness racing is the sport in which Standardbred horses pull a two-wheeled cart called a sulky with a driver — rather than a jockey — at one of two gaits, the trot (diagonal leg pairs) or the pace (lateral leg pairs with hobbles), over distances usually around one mile (1.6 km) (United States Trotting Association [USTA], n.d.-b; Wikipedia, n.d.-b). The Standardbred breed was founded on the imported English Thoroughbred Messenger (1788) and his great-grandson Hambletonian 10 (foaled 1849), the foundation sire of the breed, and the breed registry was established in 1879 by the National Association of Trotting Horse Breeders, today the USTA in North America; in Europe the sport is coordinated by the Union Européenne du Trot (UET), founded in 1973 with 18 member countries (USTA, n.d.-b; Union Européenne du Trot, n.d.; Wikipedia, n.d.-c). The premier races include the Hambletonian Stakes (since 1926, at the Meadowlands since 1981 and moving to Hoosier Park in 2027), the Little Brown Jug for three-year-old pacers, and the Breeders Crown in North America, and in Europe the UET Masters Series Grand Slams — the Prix d'Amérique (since 1920), the Lotteria, the Elitloppet and the Oslo Grand Prix (UET, n.d.; Wikipedia, n.d.-a). In 2026 the North American record was lowered to 1:48.3 by On To Norway on 4 July 2026; mares and fillies race in open and dedicated filly/mare events, and women compete at the highest level as drivers and trainers (Wikipedia, n.d.-b).
+
+![Harness racing — pacers at the 2007 Interdominion](https://commons.wikimedia.org/wiki/Special:Redirect/file/Harness_Racing_%28Pacers%29.jpg?width=560)
+
+*Figure: MagicFlute1983. (2007, January 13). Harness racing (pacers) at the 2007 Interdominion, Globe Derby Park, South Australia [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Harness_Racing_(Pacers).jpg*
 
 ## Rules
 
-Horses race in two gaits: trotters (diagonal pairs of legs move together; breaking into a gallop means the horse must be slowed or disqualified — "galloping" horses are sent to a second chance or DQ) and pacers (lateral pairs; pacers wear hobbles to keep the gait). Races are started from a mobile starting gate (the "Starting Gate" car) that releases the field at a walk/trot, or from standing starts in Europe. Standard distances are 1 mile (1609 m) or 1 1/16 miles in North America; purses and handicaps are set by the track. The driver sits in the sulky and drives with reins; whip use is strictly regulated (e.g., UET and USTA whip rules). Betting (win/place/show, exactas, trifectas) is integral. Major races: Hambletonian (Meadowlands, NJ), Elitloppet (Solvalla, Sweden), Prix d'Amérique (Vincennes, Paris), and the Breeders Crown.
+The rules of harness racing are set nationally — by the USTA in the United States and Canada and by the UET and its members in Europe — and require the horse to maintain its declared gait (trot or pace) for the whole race; a horse that breaks into a gallop must be slowed back to the gait, and repeated or continuous breaking leads to disqualification or relegation behind horses that finished (USTA, n.d.-a; Wikipedia, n.d.-b). Races are started from a mobile starting gate (the starting car) with its wings, or by a standing start, and drivers must not interfere with other horses — interference can mean disqualification; the sulky is a lightweight two-wheeled cart and the driver sits (or in France rides the horse, monté), wearing colors registered with the racing authority (Wikipedia, n.d.-b). Weigh-ins apply to drivers (minimum weight with allowance for whip and sulky), horses are identified and vetted before the race, and anti-doping rules cover both horses and drivers (USTA, n.d.-a). Competition formats range from overnight races at county tracks to the major stakes series — the Hambletonian, the Little Brown Jug and the Breeders Crown in North America and the Prix d'Amérique, Elitloppet, Lotteria and the UET Masters Series in Europe — with classes by age (two-, three- and four-year-olds, open), sex (colts/geldings, fillies, mares) and gait (trot and pace divisions) (UET, n.d.; Wikipedia, n.d.-a, n.d.-b). Gender differences: fillies and mares have dedicated stakes (e.g., Hambletonian Oaks) in addition to open races, and women drivers and trainers compete on equal terms in all classes (USTA, n.d.-a).
 
 ## History
 
-Harness racing descends from 19th-century American road trotting on public roads, formalized with the first purpose-built track in the 1870s-80s; the Hambletonian was first run in 1926 at the Grand Circuit in New York. Standardbred breeding was formalized with the founding of the USTA in 1939. Legends include the foundation sire Hambletonian (foaled 1849), driver Stanley Dancer ("The Blind Man of Bound Brook"), and horses such as Bret Hanover, Niatross and Muscle Hill.
+Harness racing grew from the road trotting of the 18th and 19th centuries in America and Europe; the breed's foundation sire Hambletonian 10, foaled in 1849 and a descendant of the imported Messenger (1788), sired the line from which all modern Standardbreds descend, and the National Association of Trotting Horse Breeders was founded in 1879 to keep the registry (Wikipedia, n.d.-c). Organized racing with sulkies and the mobile starting gate developed in the United States in the late 19th and early 20th centuries, and the Hambletonian Stakes was first run in 1926; in Europe the Prix d'Amérique (1920) and the Elitloppet (1952) became the classic races, coordinated since 1973 by the UET (UET, n.d.; Wikipedia, n.d.-a, n.d.-b). The sport's icons include Hambletonian 10 himself — whose 1:53 record stood for decades — and the great pacers and trotters of the Hambletonian and Jug era (Wikipedia, n.d.-c).
 
 ## Sources
 
-- Union Européenne du Trot. (n.d.). *UET rules and European championships*. Retrieved November 20, 2026, from https://www.uet-trot.org/
-- United States Trotting Association. (n.d.). *USTA rules, Hambletonian and Breeders Crown*. Retrieved November 20, 2026, from https://www.ustrotting.com/
+- Union Européenne du Trot. (n.d.). *UET — European trotting association; Masters Series and Grand Slams*. Retrieved November 22, 2026, from https://www.uet-trot.org/
+- United States Trotting Association. (n.d.-a). *Rules of racing*. Retrieved November 22, 2026, from https://www.ustrotting.com/
+- United States Trotting Association. (n.d.-b). *About harness racing, the Standardbred and the Hambletonian*. Retrieved November 22, 2026, from https://www.ustrotting.com/
+- Wikipedia. (n.d.-a). *Hambletonian Stakes*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Hambletonian_Stakes
+- Wikipedia. (n.d.-b). *Harness racing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Harness_racing
+- Wikipedia. (n.d.-c). *Standardbred*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Standardbred
+
+### Figure Index
+
+- MagicFlute1983. (2007, January 13). *Harness Racing (Pacers)* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Harness_Racing_%28Pacers%29.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [UET — Union Européenne du Trot](https://www.uet-trot.org/) — European governing body; UET Trotting Masters, Elitloppet, Prix d'Amérique
-- [USTA — United States Trotting Association](https://www.ustrotting.com/) — North American body; Hambletonian, Breeders Crown, rules
+- [United States Trotting Association (USTA)](https://www.ustrotting.com/) — North American governing body; rules of racing, registry, Hambletonian Stakes and Breeders Crown
+- [Union Européenne du Trot (UET)](https://www.uet-trot.org/) — European federation; Prix d'Amérique, Elitloppet and UET Masters Series
+- [Hambletonian Stakes](https://www.hambletonianstakes.com/) — official race site (since 1926)
+- [Thoroughbred Racing](thoroughbred-racing.html) on this site — flat racing under a jockey

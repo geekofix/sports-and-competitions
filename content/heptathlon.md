@@ -1,22 +1,33 @@
 ## Basic Information
 
-The heptathlon is the women's combined track-and-field event at the Olympics and World Athletics Championships, contested over two days: 100 m hurdles, high jump, shot put and 200 m on day one, then long jump, javelin and 800 m on day two. (The men's equivalent is the decathlon, ten events over two days.) It is governed by World Athletics, which sets the scoring tables and competition rules.
+The heptathlon is the women's combined event of seven track-and-field disciplines contested over two days — on day one the 100 m hurdles, high jump, shot put and 200 m, on day two the long jump, javelin throw and 800 m — with each performance converted to points by the World Athletics scoring tables and the highest total winning (World Athletics, n.d.-a; Wikipedia, n.d.-a). It is the Olympic and World Championship combined event for women — the men's equivalent is the decathlon — and is also contested at continental championships and on the World Athletics Combined Events Tour; the men's indoor combined event is the heptathlon (60 m, long jump, shot put, high jump, 60 m hurdles, pole vault, 1000 m) at the World Indoor Championships (World Athletics, n.d.-a; Wikipedia, n.d.-a). As of late 2026, the leading women are Anna Hall of the United States — who scored 7,032 points at the 2025 Hypo-Meeting in Götzis, the second-best mark in history — and the reigning Olympic and world champion Nafissatou "Nafi" Thiam of Belgium (Olympic champion 2016 and 2021, world champion 2017 and 2022), while Erin Marsh won the 2026 US Outdoor Championships with 6,021 points; the 2026 World Indoor Championships were held in Toruń in March 2026 and the 2026 European Championships in Birmingham in August 2026 (World Athletics, n.d.-b; Wikipedia, n.d.-a, n.d.-c).
+
+![Anna Hall in the long jump at the 2025 World Championships, Tokyo](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hall_LJ.jpg?width=560)
+
+*Figure: LeeMNichols. (2025, September 20). Anna Hall in the long jump at the 2025 World Athletics Championships, Tokyo [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Hall_LJ.jpg*
 
 ## Rules
 
-Each discipline is scored with the World Athletics combined-events scoring tables, which convert performances into points (e.g., faster times and greater distances/jumps earn more points). The athlete with the highest total after all seven events wins; ties are broken by the athlete with more points in more events. The 100 m hurdles, high jump, shot put and 200 m are run on day one in that order; long jump, javelin and 800 m on day two. Rules for each event follow the individual discipline rules (e.g., three false starts disqualify in the hurdles; three attempts in jumps except high jump's competition format; three throws in shot/javelin). Wind readings apply to the 100 m hurdles and 200 m (over +2.0 m/s invalidates the points). At the Olympics, the women's heptathlon has been contested since Los Angeles 1984, replacing the pentathlon.
+The heptathlon is governed by the World Athletics competition rules and the combined-events scoring tables, which convert each mark (time, distance, height) into points using the published a, b and c constants per discipline; the athlete with the highest total after all seven events wins, with no rounds cut in major championships (World Athletics, n.d.-a). The event order is fixed — day one: 100 m hurdles, high jump, shot put, 200 m; day two: long jump, javelin, 800 m — with at least 30 minutes rest between disciplines and a set timetable published before the competition; false starts, wind readings above +2.0 m/s in the 100 m hurdles/long jump and invalid attempts are handled under standard athletics rules (Wikipedia, n.d.-a). Qualification standards and entry limits apply at the Olympic Games, World Championships and European Championships, with the top combined-events athletes also competing on the World Athletics Combined Events Tour (Gold/Silver/bronze labels) (World Athletics, n.d.-b). Gender and format differences: the outdoor heptathlon is the women's combined event (the men's outdoor combined event is the ten-event decathlon), while indoors men contest a seven-event heptathlon; age-group championships use adapted weights and heights — e.g., a lighter shot and lower hurdles at youth level (World Athletics, n.d.-a; Wikipedia, n.d.-a).
 
 ## History
 
-The women's pentathlon was the combined event at the Olympics from 1964 (Tokyo) to 1980 (Moscow); the heptathlon was introduced at the 1984 Los Angeles Olympics, won by Australia's Glynis Nunn. The event is governed by World Athletics (formerly IAAF, founded 1912), which runs the World Championships (since 1983 in Helsinki) and the World Indoor Championships, where the indoor combined event is the pentathlon. Legends include Jackie Joyner-Kersee (USA), who set the still-standing world record of 7,291 points in 1988 in Seoul and won Olympic gold in 1984 and 1988; Nafi Thiam (Belgium), double Olympic champion (2016 and 2020), and Katarina Johnson-Thompson (Great Britain, 2016 world champion and Olympic silver 2020).
+Multi-event competition has roots in the ancient Greek pentathlon, but the modern heptathlon was created for women in the 20th century — a five-event heptathlon was contested at the Olympics from 1964 (won by Irina Press) before being replaced by the current seven-event format at the 1984 Los Angeles Olympics (Wikipedia, n.d.-a). The undisputed icon is Jackie Joyner-Kerrer of the United States, whose world record of 7,291 points, set at the 1988 Seoul Olympics, still stands in 2026, and who also won Olympic gold in 1992 and bronze in 1996 in the long jump; other icons include Jessica Ennis-Hill (née Denise Lewis era) of Great Britain, Olympic champion 2012, and Nafissatou Thiam of Belgium, who has won Olympic gold (2016, 2021) and world titles (2017, 2022) (Wikipedia, n.d.-a, n.d.-b, n.d.-c).
 
 ## Sources
 
-- Olympics.com. (n.d.). *Heptathlon at the Olympic Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/athletics
-- World Athletics. (n.d.). *Combined events rules and scoring tables*. Retrieved November 20, 2026, from https://worldathletics.org/
+- Wikipedia. (n.d.-a). *Heptathlon*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Heptathlon
+- Wikipedia. (n.d.-b). *Jackie Joyner-Kerrer*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Jackie_Joyner-Kerrer
+- Wikipedia. (n.d.-c). *Nafi Thiam*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Nafi_Thiam
+- World Athletics. (n.d.-a). *Combined events — heptathlon, scoring tables and competition rules*. Retrieved November 22, 2026, from https://worldathletics.org/
+- World Athletics. (n.d.-b). *World Championships and Combined Events Tour — results and rankings*. Retrieved November 22, 2026, from https://worldathletics.org/
+
+### Figure Index
+
+- LeeMNichols. (2025, September 20). *Hall LJ* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Hall_LJ.jpg (CC0 1.0)
 
 ## Important Links
 
-- [World Athletics](https://worldathletics.org/) — world governing body; combined-events rules, scoring tables and World Championships
-- [Olympic athletics — heptathlon](https://www.olympics.com/en/olympic-games/olympic-sports/athletics) — Olympic heptathlon since 1984
-- [Decathlon — related entry](decathlon.html) — men's ten-event combined event on this site
+- [World Athletics](https://worldathletics.org/) — world federation; competition rules, scoring tables, rankings and results
+- [World Athletics — combined events](https://worldathletics.org/disciplines/combined-events) — heptathlon/decathlon hub and Combined Events Tour
+- [Decathlon](decathlon.html), [Pentathlon](pentathlon.html) and [Athletics](athletics.html) on this site — the men's combined event, the indoor combined event and the parent sport
