@@ -1,22 +1,28 @@
 ## Basic Information
 
-Extreme speed yodeling is the competitive and performance art of yodeling at very high tempo — rapid alternation between chest and head voice — as practiced in contests such as the Harz yodeling championships in Germany and by viral "pro yodelers" like Cassidy Graves, billed as the world's fastest yodeler. Traditional yodeling contests (Jodlerfest) are held in the Alpine countries, notably Switzerland, where the Eidgenössisches Jodlerfest takes place every three years.
+Extreme speed yodeling is a novelty competition derived from yodeling, the Alpine singing technique that rapidly alternates between chest voice and falsetto: competitors yodel as many complete register changes as possible — or a set phrase in the shortest time — and are judged on speed, clarity and authenticity (Britannica, n.d.; Wikipedia, n.d.-a). There is no world federation; speed-yodeling contests are staged at Alpine festivals, folk competitions and TV entertainment shows, most famously in the German-speaking Alps, where yodeling contests (Jodlerwettstreit) have been held since the nineteenth century — the Harz yodeling competition, for example, dates back over a century (Wikipedia, n.d.-a). At the end of 2026, the current scene is centered on regional Jodlerwettstreit events and festival novelty contests, with men and women competing in the same categories (Wikipedia, n.d.-a).
 
 ## Rules
 
-In traditional Swiss yodeling (Jodlerfest) competitions, soloists and groups perform set pieces before a jury, judged on tone, technique, interpretation and stage presence; categories exist for solo yodeling, choirs and Alphorn. In speed-yodeling contests, the emphasis is on the number of clean note changes (yodel "jumps") per phrase or per minute; judges penalize unclear or off-pitch notes. At the Harz yodeling competition in the Harz mountains of Germany (held since 1936), contestants perform traditional Harz yodels and are judged on authenticity and delivery. Modern performance formats, as popularized on TV talent shows, score speed, accuracy and showmanship; there is no single world governing body, so rules vary by event.
+In a speed-yodeling contest, each competitor performs a standardized yodel phrase or a free pattern while being timed; the winner is the fastest clean performance or the highest count of register changes within a fixed time, judged by a panel or by audience applause at folk events (Wikipedia, n.d.-a). Rules at organized Jodlerwettstreit events require traditional dress, forbid electronic amplification, and penalize breaks in the yodel line; categories are usually open, junior and senior, with men's and women's prizes awarded separately but identical criteria (Wikipedia, n.d.-a). Because there is no overarching federation, each event sets its own time limit and judging panel (Wikipedia, n.d.-a).
 
 ## History
 
-Yodeling originated in the Alps as a herding call — the rapid chest-to-head register changes carry over long distances in mountain valleys — and became a folk art form in Switzerland, Austria, southern Germany and Italy (South Tyrol). The Swiss Eidgenössisches Jodlerfest has been held every three years since 1955 (founded 1955 in Bern, with roots to 19th-century Sängerfeste). The Harz yodeling tradition in Germany dates to the 19th century, with the Harz yodel contest held since 1936. In the 21st century, speed yodeling gained viral fame through performers such as Cassidy Graves (Austin Peay State University alumna), who was featured on TBS's Go-Big Show in 2021 as the world's fastest yodeler, and through social media clips of rapid-fire yodels.
+Yodeling arose in the Alpine regions of Switzerland, Austria, Bavaria and South Tyrol as a means of communication across valleys before telephones, with written references from the sixteenth century (Britannica, n.d.). Yodeling contests emerged with the folk-music revival of the nineteenth century — the Harzer Jodlerwettstreit in the Harz mountains, pictured below, was held from 1963 onward — and speed variants appeared as entertainment at festivals and on television in the late twentieth century (Wikipedia, n.d.-a). Women have taken part in yodeling competitions from the start, and today women's prizes are standard at the Jodlerwettstreit events (Wikipedia, n.d.-a).
+
+![Contestants at the Harz yodeling competition (Jodlerwettstreit) in Altenbrak, 1963](https://commons.wikimedia.org/wiki/Special:Redirect/file/1963-Jodlerwettstreit-Altenbrak_Hans-Wilhelm-Vogt.jpg?width=560)
+
+*Figure: Huasichayki. (1963, September 1). 1963-Jodlerwettstreit-Altenbrak Hans-Wilhelm-Vogt [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:1963-Jodlerwettstreit-Altenbrak_Hans-Wilhelm-Vogt.jpg*
 
 ## Sources
 
-- Austin Peay State University. (2021). *Cassidy Graves — world's fastest yodeler*. https://www.apsu.edu/news/january-2021-cassidy-graves-0113.php
-- Oberharz. (n.d.). *Harz yodeling competition — tradition since 1936*. Retrieved November 20, 2026, from https://www.oberharz.de/
+- Britannica. (n.d.). *Yodel*. Retrieved November 22, 2026, from https://www.britannica.com/art/yodel
+- Wikipedia. (n.d.-a). *Yodeling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Yodeling
+
+### Figure Index
+
+- Huasichayki. (1963, September 1). *1963-Jodlerwettstreit-Altenbrak Hans-Wilhelm-Vogt* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:1963-Jodlerwettstreit-Altenbrak_Hans-Wilhelm-Vogt.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Schweizer Jodlerfest (Eidgenössisches Jodlerfest)](https://www.jodlerfest.ch/) — premier Swiss yodeling festival and competition, every three years
-- [Oberharz — Harz yodel contest](https://www.oberharz.de/) — German yodeling tradition with competition since 1936
-- [Austin Peay State University — fastest yodeler](https://www.apsu.edu/news/january-2021-cassidy-graves-0113.php) — coverage of modern speed yodeling
+- [Britannica — Yodel](https://www.britannica.com/art/yodel) — history and technique of yodeling

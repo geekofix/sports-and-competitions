@@ -1,24 +1,31 @@
 ## Basic Information
 
-Egg tapping (also called egg jarping, egg knocking, egg fight or egg boxing) is a traditional Easter game in which two players tap the ends of hard-boiled eggs together until one shell cracks; the owner of the surviving egg wins. Competitive championships are held at Peterlee, County Durham, England (World Egg Jarping Championships every Easter Sunday since 1983, raising money for Macmillan Cancer Support) and in Marksville, Louisiana, USA (egg pocking, official since 1956). A separate discipline, egg throwing, is certified by the World Egg Throwing Federation (WETF) in Swaton, England.
+Egg tapping — also called egg fighting, egg knocking, egg boxing or egg pacqueing — is a traditional Easter game in which two players tap the ends of hard-boiled eggs against each other, each trying to crack the opponent's egg without cracking their own; the player whose egg survives wins, and in many traditions the winner keeps the cracked egg (Wikipedia, n.d.-a). The game is played worldwide under local names: Eierpecken and Eierhärten in German-speaking countries, eiertikken in the Netherlands, Koni-juj in Assam (played at Goru Bihu), tsougrisma in Greece, havgtakhagh in Armenia and a Passover Seder game in Jewish culture (Wikipedia, n.d.-a). A competitive offshoot, egg tossing (egg throwing), has its own world body: the World Egg Throwing Federation (WETF), based in Swaton, England, which certifies world records and holds a world championship annually in Swaton on the last Sunday of June since 2006 (World Egg Throwing Federation, n.d.). At the end of 2026, the current competitive scene is centered on the Swaton World Egg Throwing Championships and national toss events such as the Hagerstown Suns' National Egg Toss Championship in the United States, with men's and women's teams competing on equal terms in all disciplines (World Egg Throwing Federation, n.d.).
 
 ## Rules
 
-In egg tapping, each competitor selects a hard-boiled egg; pairs tap pointed ends against each other (or one end against the other's side, depending on local rules) until one egg cracks. In knockout tournaments, the winner keeps their egg and faces the next challenger; the last player with an unbroken egg is champion. Strict anti-cheating rules are enforced at championships: eggs are provided and boiled by the organizers, and winners must break and eat their winning egg to prove it is genuine (a rule introduced after painted wooden eggs were discovered). In the US "egg pocking" variant, players tap one egg against another's until one breaks; guinea-hen eggs form a separate category. In egg throwing, two-person teams toss and catch a raw egg, stepping farther apart after each successful catch until the egg breaks; the WETF-certified world record is 85.96 m (set in 2018).
+In egg tapping, each player holds a hard-boiled egg and taps it against the opponent's egg — tip against tip or side against side depending on local custom — until one shell cracks; the owner of the unbroken egg wins the bout and usually takes the broken egg (Wikipedia, n.d.-a). Cheating with eggs filled with cement, alabaster or even marble cores has been reported, so serious contests sometimes candle the eggs (Wikipedia, n.d.-a). In egg tossing, a two-person team stands a few metres apart; the tosser throws a raw egg and the catcher must catch it without breaking it, after which the pair steps farther apart and repeats, until only one unbroken egg remains — a popular variant uses water balloons (Wikipedia, n.d.-b). The WETF sanctions several disciplines — throw and catch for distance, static relay, target throwing, Russian egg roulette and egg trebuchet — and certifies the official world records (World Egg Throwing Federation, n.d.). The WETF throw-and-catch world record stands at 85.96 m, set by New Zealand's Ricki Paewai and Kris Richards on 11 March 2018 (Wikipedia, n.d.-b). Players of all genders and ages compete; school and village Easter events commonly run single-elimination tapping tournaments alongside the toss (Wikipedia, n.d.-a).
+
+![Egg tapping with coloured Easter eggs — the red egg won](https://commons.wikimedia.org/wiki/Special:Redirect/file/Eierpecken.jpg?width=420)
+
+*Figure: Anna reg. (2014, April 19). Eierpecken [Photograph]. Wikimedia Commons. CC BY-SA 3.0 AT. https://commons.wikimedia.org/wiki/File:Eierpecken.jpg*
 
 ## History
 
-Egg games are an ancient Easter custom across Europe, with references in 14th-century Croatia and 15th-century Poland; the hard shell symbolized Christ's sealed tomb and the cracking the Resurrection. The World Egg Jarping Championships began in 1983 at Peterlee Cricket and Social Club and moved to the Hearts of Oak pub in 2012; the event is covered by the BBC and local press and donates proceeds to charity. Marksville, Louisiana, claims the first official egg-pocking contest in 1956, now part of the annual Louisiana Cotton Festival. Egg throwing records were once certified by Guinness World Records (98.51 m, 1978) and are now kept by the WETF, which holds its world championships in Swaton, Lincolnshire, each June.
+Eggs have symbolized rebirth at spring festivals since pagan times, and in Christianity the Easter egg represents the empty tomb of the resurrection (Britannica, n.d.). In medieval Britain, churches held an Easter egg-throwing festival: the priest tossed one hard-boiled egg around the nave and choir, and the choirboy holding it when the clock struck twelve kept it (Wikipedia, n.d.-b). German children invented a toss in which the egg is spun so that it lands upright on its tip, and Dutch children play "egg sales", in which a thrown egg that survives must be returned to the seller (Wikipedia, n.d.-b). Competitive egg throwing formalized in England: the WETF was first staged in 2004 and has held its championship in Swaton, Lincolnshire, every year since 2006, taking over record certification from Guinness in 2000 (World Egg Throwing Federation, n.d.; Wikipedia, n.d.-b). Guinness had recorded Johnny Dell Foley's 12 November 1978 throw of 98.51 m (323 ft 2 in) to Keith Thomas at Jewett, Texas (Wikipedia, n.d.-b).
 
 ## Sources
 
-- BBC News. (2012). *Jarpers vie for egg-bashing title*. http://news.bbc.co.uk/2/hi/uk_news/england/7996823.stm
-- Guinness World Records. (n.d.). *Longest egg throw and catch (98.51 m, 1978)*. Retrieved November 20, 2026, from https://www.guinnessworldrecords.com/
-- Hartlepool Mail. (n.d.). *World Egg Jarping Championships at the Hearts of Oak, Peterlee*. Retrieved November 20, 2026, from https://www.hartlepoolmail.co.uk/
-- Sunderland Echo. (n.d.). *Annual World Egg Jarping Championships in Peterlee*. Retrieved November 20, 2026, from https://www.sunderlandecho.com/
+- Britannica. (n.d.). *Easter egg*. Retrieved November 22, 2026, from https://www.britannica.com/topic/Easter-egg
+- Wikipedia. (n.d.-a). *Egg tapping*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Egg_tapping
+- Wikipedia. (n.d.-b). *Egg tossing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Egg_tossing
+- World Egg Throwing Federation. (n.d.). *World Egg Throwing Championships Swaton — disciplines and records*. Retrieved November 22, 2026, from https://swatonvintageday.com/
+
+### Figure Index
+
+- Anna reg. (2014, April 19). *Eierpecken* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Eierpecken.jpg (CC BY-SA 3.0 AT)
 
 ## Important Links
 
-- [World Egg Jarping Championships — Peterlee (Hearts of Oak)](https://www.hartlepoolmail.co.uk/) — annual Easter Sunday world championship in County Durham since 1983
-- [Guinness World Records — egg throwing](https://www.guinnessworldrecords.com/) — certified long-distance egg throw records
-- [BBC News — egg-bashing title](http://news.bbc.co.uk/2/hi/uk_news/england/7996823.stm) — public-service coverage of the Peterlee championship
+- [World Egg Throwing Federation — Swaton World Egg Throwing Championships](https://swatonvintageday.com/) — annual world championship in Swaton, England, since 2006; official WETF records
+- [Britannica — Easter egg](https://www.britannica.com/topic/Easter-egg) — origins of the Easter egg tradition

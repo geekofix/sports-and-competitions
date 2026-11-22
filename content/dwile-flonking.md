@@ -1,22 +1,31 @@
 ## Basic Information
 
-Dwile flonking is a traditional English folk game played in a circle at village fetes, most famously at the Cotswold Olimpick Games in Gloucestershire and at the Lewes Arms in Suffolk. A team of 12 players forms a circle ("the girter") around a "flonker" who swings a beer-soaked cloth (the "dwile") attached to a pole (the "driveller") at the head of a "wanton" opponent, who must catch it and throw it back.
+Dwile flonking (also dwyle flunking or nurdling) is a traditional English pub game played by two teams, associated with the counties of Norfolk and Suffolk: one team dances around in a circle while a player from the other team tries to hit them by flinging a beer-soaked cloth (Wikipedia, n.d.-a). There is no world federation — the rules are largely unwritten and set by the local umpire (the jobanowl) on the day, and the game is still played annually at the Lewes Arms in Lewes, Sussex, and in Ufford and Beccles in Suffolk, as well as at the Cotswold Olimpick Games (BBC, n.d.; Wikipedia, n.d.-a). In 2010 one competition replaced the traditional drinking penalty with non-alcoholic drinks after a local council ruled that the penalty would violate licensing restrictions aimed at preventing binge drinking (Wikipedia, n.d.-a). Men's and women's teams both play, and mixed teams are common; scoring is identical for all (Wikipedia, n.d.-a).
 
 ## Rules
 
-The girter circle is made up of 12 players who take turns being the flonker and the wanton. The flonker, holding the driveller (a pole with a beer-soaked dwile cloth tied to the end), walks around the circle and swings the dwile toward the wanton's head; the wanton must catch the cloth and throw it back without dropping it. After the throw, roles rotate and the flonker "swadges" (drinks from) the chamber pot passed around the circle. Scoring follows the traditional chant: the wanton scores 3 points, the marther (second player) 2, and the ripple 1, with the highest total after the set rounds winning. Local rule variants exist between the Suffolk and Gloucestershire traditions, including differences in the chant and the number of throws.
+A game is played by two teams of twelve, though the numbers are flexible and the local terminology varies (Worldwide Words, n.d.). The non-flonking team links hands and dances in a circle around the flonker — an act called girting — while the flonker stands in the middle holding the driveller, a 2–3 ft pole of hazel or yew with the beer-soaked dwile (a knitted cloth) on its end (Wikipedia, n.d.-a). A sugar beet tossed between the teams decides which side flonks first, and the jobanowl referee starts the game by shouting "Here y'go t'gither!" after the teams sing the traditional song "Here we 'em be together" (Worldwide Words, n.d.). The flonker dips the dwile into a bucket of stale beer, spins around in the opposite direction to the dancers and flonks the cloth at one of the girters: a hit on the head (a wanton) scores three points, on the body (a marther) two, and on a leg (a ripple) one (Worldwide Words, n.d.; Wikipedia, n.d.-a). If the flonker fails to score after two attempts he is swadged — "potted" — and must drink a quantity of beer from a chamber pot (the gazunder) within a set time; at some modern venues the drink is non-alcoholic (Wikipedia, n.d.-a). Period costume is encouraged, and the team with the most points after both sides have flonked wins (Worldwide Words, n.d.).
+
+![Dwyle flunking at the Lewes Arms pub in Lewes, Sussex](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewes_Arms_-_Dwyle_Flunking_-_geograph.org.uk_-_494221.jpg?width=560)
+
+*Figure: Roz South. (2007, July 8). Lewes Arms - Dwyle Flunking [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Lewes_Arms_-_Dwyle_Flunking_-_geograph.org.uk_-_494221.jpg*
 
 ## History
 
-Dwile flonking is first recorded in the 19th century among agricultural workers in East Anglia, where it was played at harvest-home celebrations with a harvest pole decorated and soaked in beer. The game was revived and popularized in the 20th century at the Cotswold Olimpick Games (founded 1612, revived 1963) in Chipping Campden, and at the Lewes Arms, Beccles, Suffolk, which claims the tradition dates to 1966 and jokingly cites the fictional "Waveney Rules of 1585." It is now performed at folk festivals across England, and the BBC has covered the Cotswold Olimpick Games tradition extensively. The game is celebrated as an example of English folk custom, with the sing-song chant that begins "Here come a whirligig" accompanying play.
+Despite a supposed manuscript of rules from 1585, the game was in fact invented in the mid-1960s: the claimed 1585 rules are a hoax, and the Suffolk county archivist could find no evidence of the game before 1966, when it was revived for the summer fête in Beccles, Suffolk, by a group of apprentice printers (Wikipedia, n.d.-a). Pathé News filmed a game at Beccles in 1966, the game then appeared on the television programmes The Eamonn Andrews Show and Michael Bentine's All Square — Bentine called it "nurdling" — and for a period it became a popular pub game across England (Wikipedia, n.d.-a). It has since been played annually in Ufford and Beccles in Suffolk and at the Lewes Arms in Sussex, and it is a fixture of the Cotswold Olimpick Games, a celebration of Cotswold sports and pastimes founded in 1963 (Wikipedia, n.d.-a). The game even featured in a 1967 licensing hearing when the Waveney Valley Dwile Flonking Association applied for a licence extension (Wikipedia, n.d.-a).
 
 ## Sources
 
-- BBC. (n.d.). *Dwile flonking at the Cotswold Olimpick Games*. Retrieved November 20, 2026, from https://www.bbc.co.uk/news/articles/c621z76yvy1o
-- Worldwide Words. (n.d.). *Dwile flonking — history and terminology*. Retrieved November 20, 2026, from https://www.worldwidewords.org/ww-dwi1.html
+- BBC. (n.d.). *The art of dwile flonking*. Retrieved November 22, 2026, from https://www.bbc.com/suffolk/going_out/pubs/2003/09/dwile_flonking/introduction.shtml
+- Wikipedia. (n.d.-a). *Dwile flonking*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dwile_flonking
+- Worldwide Words. (n.d.). *Dwile flonking: English pub game origins and rules*. Retrieved November 22, 2026, from https://www.worldwidewords.org/ww-dwi1.html
+
+### Figure Index
+
+- Roz South. (2007, July 8). *Lewes Arms - Dwyle Flunking* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Lewes_Arms_-_Dwyle_Flunking_-_geograph.org.uk_-_494221.jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- [BBC — dwile flonking coverage](https://www.bbc.co.uk/news/articles/c621z76yvy1o) — public-service reporting on the tradition and the Olimpick Games
-- [Cotswold Olimpick Games](https://www.olimpick.co.uk/) — historic village games where dwile flonking is a headline event
-- [Worldwide Words — dwile flonking](https://www.worldwidewords.org/ww-dwi1.html) — etymology and history of the game's terms
+- [BBC Suffolk — The art of dwile flonking](https://www.bbc.com/suffolk/going_out/pubs/2003/09/dwile_flonking/introduction.shtml) — history and rules of the Suffolk game
+- [Cotswold Olimpick Games](https://www.cotswoldolimpicks.co.uk/) — annual festival of Cotswold sports where dwile flonking is played
+- [Worldwide Words — Dwile flonking](https://www.worldwidewords.org/ww-dwi1.html) — scoring terms and traditional rules

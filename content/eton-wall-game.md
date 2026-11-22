@@ -1,22 +1,35 @@
 ## Basic Information
 
-The Eton Wall Game is a unique form of football played only at Eton College in Berkshire, England, on a strip of ground about 5 m wide and 110 m long ("the Furrow") alongside a slightly curved brick wall ("the Wall") built in 1717. Two teams of "bullies" (scrum-like formations) push a ball up the furrow; a point ("shy") is scored when the ball is placed against the wall at either end ("calx") and touched by an attacker.
+The Eton wall game is a unique form of football played only at Eton College in Berkshire, England, on a strip of ground 5 m wide and 110 m long called The Furrow, next to a slightly curved brick wall erected in 1717 (Wikipedia, n.d.-a; Eton College, n.d.). Two teams of ten try to move a ball along the wall toward the opponent's end, scoring a shy (one point) by raising the ball against the wall in the calx at either end and touching it while shouting "got it!", or a goal (nine points) by throwing the ball at the opposing target — a door at one end and a tree at the other (Wikipedia, n.d.-a). The traditional and most important match of the year is played on St Andrew's Day (30 November) between the Collegers (King's Scholars, a house of about 70 boys) and the Oppidans (the rest of the school, around 1,250 boys), with a second fixture on Ascension Day on the roof of College Chapel; as of the latest counts the Oppidans lead the series 48 victories to 43 with the remainder drawn, and no goal has been scored in the St Andrew's Day match since 1909 (Wikipedia, n.d.-a; Eton College, n.d.). There is no governing body beyond the school itself — the Keeper of College Wall controls access to the Furrow — and only Eton boys, former pupils and masters play (Eton College, n.d.).
 
 ## Rules
 
-The game is played with a round ball, and hands may not be used on the ball except by the "second at the wall," who kneels on the ball at the start. To score a shy, the attacking team must move the ball into the calx (the marked area at the very end of the wall), raise it against the wall and touch it, shouting "got it!" — the umpire answers "given." A shy is worth one point and can be converted into a goal (worth more) by kicking or driving the ball along the top of the wall to the opposite end, where it must be touched down. Players may tackle and push but the game is notoriously physical, played in mud. There is no goalkeeper and no fixed number of players per side (traditionally around 20-40 per side in the St Andrew's Day match). The official Laws of the Wall Game (first codified in the 19th century, e.g., the 1874 laws published on Wikisource) govern fouls, the bully (scrum) restarts and scoring.
+The game is played under the Laws of the Eton Wall Game (first codified in 1874): the match lasts an hour, beginning with a bully — a scrum-like mass of players pressed against the wall with the ball — formed in the middle, and goals change at half time (Wikipedia, n.d.-a). Two umpires, appointed one by each side, enforce the rules, put the ball in, break up the bully and keep score (Wikipedia, n.d.-a). The ball is put back into play gently along the ground against the wall; a player who has kicked the ball within the chalk line may go for a shy without waiting for a bully (Wikipedia, n.d.-a). Within the calx a team scores a shy worth one point — one player raises the ball against the wall with his foot while another touches it with his hand and shouts "got it!", and the umpire answers "given" — and after a shy the attacking team may still attempt a goal worth nine points by hurling the ball at the opponent's target, the door or the tree (Wikipedia, n.d.-a; Eton College, n.d.). Positions include the second at the wall, who kneels on the ball, and the fly, long and lines players who cover the open ground; punching is a foul and the obscure offence of "furking" is also policed by the umpires (Eton College, n.d.). Only boys play — the women's counterpart at Eton is the Eton field game's mixed tradition off the wall — and scratch matches run throughout the Michaelmas and Lent terms (Wikipedia, n.d.-a).
+
+![Players in the Eton wall game, 2005](https://commons.wikimedia.org/wiki/Special:Redirect/file/Wallgame_ethon_2005.jpg?width=420)
+
+*Figure: Spottswood. (2005, December 13). Wallgame ethon 2005 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Wallgame_ethon_2005.jpg*
 
 ## History
 
-The Wall was built in 1717 and the game developed alongside Eton's other football code, the Eton field game; by 1811-1822 the wall game was the dominant form of football at the school. The great annual match is played on St Andrew's Day (30 November) between the Collegers (King's Scholars, boarding at College) and the Oppidans (the rest of the school), with a second fixture on Ascension Day; the Collegers won the 2022 match and the rivalry is balanced over 180 years. The last goal was scored on St Andrew's Day in 1909. The game was banned for ten years after a fight in 1827 but resumed. Famous Old Etonians including the future prime ministers David Cameron and Boris Johnson played the wall game, and it is said to have inspired elements of Quidditch in the Harry Potter stories.
+No one knows exactly when the wall game began at Eton; an 1821 letter mentions football played against a wall, and an 1832 article in the Eton College magazine describes it as the fashionable game, played in a space no more than five or six yards wide (Wikipedia, n.d.-a). The wall itself was built in 1717, and the annual Collegers versus Oppidans match on 24 November 1840 — won by the Collegers seven shies to nil, reported in Bell's Life in London — is among the earliest press reports of any football match (Wikipedia, n.d.-a). The match was banned from 1827 for ten years after a fight broke out, and resumed by 1836; the first codified laws date from 1874 (Wikipedia, n.d.-a). The game has changed little since: the 1876 illustration below shows the same bully against the wall that players form today (Wikipedia, n.d.-a).
+
+![Illustration of the Eton wall game from 1876](https://commons.wikimedia.org/wiki/Special:Redirect/file/Eton_Wall_Game_%281876%29.png?width=420)
+
+*Figure: Unknown author. (1876). Eton Wall Game [Illustration]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Eton_Wall_Game_(1876).png*
 
 ## Sources
 
-- Eton College. (n.d.). *A Most Eton Sport: The Wall Game*. Retrieved November 20, 2026, from https://www.etoncollege.com/news-and-diary/school-news/a-most-eton-sport-the-wall-game/
-- Eton College. (n.d.). *College win the Wall Game — rules and scoring*. Retrieved November 20, 2026, from https://www.etoncollege.com/news-and-diary/school-news/college-win-the-wall-game/
-- Wikisource. (1874). *Laws of the Eton Wall Game (1874)*. https://en.wikisource.org/wiki/Laws_of_the_Eton_Wall_Game_(1874)
+- Eton College. (n.d.). *A most Eton sport: the Wall Game — rules and fixtures*. Retrieved November 22, 2026, from https://www.etoncollege.com/news-and-diary/school-news/a-most-eton-sport-the-wall-game/
+- Wikipedia. (n.d.-a). *Eton wall game*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Eton_wall_game
+
+### Figure Index
+
+- Spottswood. (2005, December 13). *Wallgame ethon 2005* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Wallgame_ethon_2005.jpg (CC BY-SA 3.0)
+- Unknown author. (1876). *Eton Wall Game* [Illustration]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Eton_Wall_Game_(1876).png (Public domain)
 
 ## Important Links
 
-- [Eton College — The Wall Game](https://www.etoncollege.com/news-and-diary/school-news/a-most-eton-sport-the-wall-game/) — official school description of the sport and the St Andrew's Day match
-- [Laws of the Eton Wall Game (1874), Wikisource](https://en.wikisource.org/wiki/Laws_of_the_Eton_Wall_Game_(1874)) — historical codified laws of the game
+- [Eton College — The Wall Game](https://www.etoncollege.com/news-and-diary/school-news/a-most-eton-sport-the-wall-game/) — official rules, fixtures and history from the school
+- [Laws of the Eton Wall Game (1874)](https://en.wikisource.org/wiki/Laws_of_the_Eton_Wall_Game_(1874)) — the original codified laws
+- [Football](football.html) on this site
