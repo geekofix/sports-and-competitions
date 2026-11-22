@@ -1,23 +1,35 @@
 ## Basic Information
 
-Mini tennis (branded Tennis10s by the International Tennis Federation) is the modified entry format of [tennis](tennis.html) for children, typically aged 4 to 10, played on smaller courts with shorter rackets and slower red, orange and green balls. Since 2012 the ITF Rules of Tennis (Appendix VII) require that competition for players aged 10 and under be played with red, orange and green balls on appropriately sized courts, and the traditional yellow ball is no longer permitted in that age group. The format is part of the ITF Play and Stay campaign launched in 2007 to grow participation worldwide.
+Mini tennis — branded Tennis10s by the International Tennis Federation (ITF) — is the modified entry format of [tennis](tennis.html) for children, generally aged 4 to 10, played on smaller courts with shorter rackets and slower red, orange and green balls (International Tennis Federation, n.d.-a). Since 2012 the ITF Rules of Tennis (Appendix VII) have required that all sanctioned competition for players aged 10 and under be played with red, orange or green balls on appropriately sized courts, so the standard yellow ball is no longer permitted in that age group (International Tennis Federation, n.d.-b). The format is the flagship of the ITF Play and Stay campaign launched in 2007, and competition is co-ed: girls and boys play together in the same draws at every stage (United States Tennis Association, n.d.). The pathway leads into the ITF World Tennis Tour Junior circuit, and at the 2026 World Tennis Tour Junior Finals in Chengdu the girls' title went to Sun Xinran of China and the boys' title to Jordan Lee of the United States (World Tennis, n.d.).
+
+![Mini tennis court at the Place de la Gare in Rennes, 2026](https://commons.wikimedia.org/wiki/Special:Redirect/file/Rennes_2026_1.jpg?width=480)
+
+*Figure: Smiley.toerist. (2026, September 18). Rennes 2026 1 — mini tennis court at the Place de la Gare in Rennes [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Rennes_2026_1.jpg*
 
 ## Rules
 
-Mini tennis is organized in three stages. Red stage (about ages 5-8): play on the smallest court, with the net set across the half-court at about 80 cm, using a large soft foam ball about 8-9 cm in diameter that bounces about 75 percent slower than a yellow ball. Orange stage (about ages 6-9): an 18 m by 6.4 m court with an orange ball about 50 percent slower. Green stage (about ages 8-10): the full-size court with a green ball about 25 percent slower than a yellow ball. The Rules of Tennis also define alternative scoring formats (short sets, tie-breaks, match tie-breaks) so that 10-and-under competition can be tailored to club play, and children progress from red to orange to green and finally to the yellow ball on the full court.
+Under the ITF Rules of Tennis 2026 (Appendices VII and VIII), mini tennis is organized in three color-coded stages (International Tennis Federation, n.d.-b). Red stage (up to 8 years): a court of about 11 m × 5.5 m (36 ft × 18 ft; some federations such as the LTA allow 11–12 m × 5–6 m), a net at 80 cm (31.5 in), rackets no longer than 58 cm (23 in), and a red foam ball 8–9 cm in diameter (or a felt ball 7–8 cm) that bounces about 75 percent slower than a yellow ball. Orange stage (8–9 years): an 18 m × 6.4 m (60 ft × 21 ft) court with the net still at 80 cm and an orange ball about 50 percent slower than yellow. Green stage (9–10 years): the full-size court with a net at 91.4 cm (3 ft) at the center and a green ball about 25 percent slower than yellow. Scoring can be shortened — short sets, tie-breaks at 3–3 or 4–4, or a match tie-break — so that matches fit young players' attention spans; from age 11 the standard yellow ball and the full rules of [tennis](tennis.html) apply. Girls and boys compete together in the same events at all three stages, with no separate girls' or boys' draws (United States Tennis Association, n.d.).
 
 ## History
 
-The ITF launched the global Play and Stay campaign in 2007 after research showed that children often quit tennis because yellow balls and full courts were too difficult at the start. In the United States the USTA led the research and implementation of Red Ball Tennis, and its Tennis10s manual became the model for the 10-and-under format. From 2012 the Rules of Tennis formally codified 10-and-under competition with the colored balls, and national associations around the world adopted the three-stage pathway, so that today millions of children learn to serve, rally and score from their first lesson.
+The modern mini-tennis pathway began when the ITF launched its Play and Stay campaign in 2007 after research showed that children often quit tennis because the yellow ball and the full court were too difficult at the start (International Tennis Federation, n.d.-a). In the United States the USTA led the research into 10-and-under tennis and published its Tennis10s manual in 2010, making red-ball tennis for 8-and-unders the American standard (United States Tennis Association, n.d.). The ITF then codified the colored-ball pathway worldwide in the 2012 edition of the Rules of Tennis, and national associations — from the LTA in Britain to federations across Asia and the Americas — adopted the red, orange and green progression, so that today millions of girls and boys learn to serve, rally and score from their first lesson on a court sized to their bodies (Wikipedia, n.d.).
 
 ## Sources
 
-- International Tennis Federation. (n.d.). *ITF Tennis Play and Stay*. Retrieved November 20, 2026, from https://www.itftennis.com/en/growing-the-game/itf-tennis-play-and-stay/
-- International Tennis Federation. (n.d.). *Play Tennis course*. Retrieved November 20, 2026, from https://en.coaching.itftennis.com/courses/play-tennis.aspx
-- United States Tennis Association. (n.d.). *Tennis10s manual*. Retrieved November 20, 2026, from http://s3.amazonaws.com/ustaassets/assets/935/15/tennis10s_manual_eng.pdf
+- International Tennis Federation. (n.d.-a). *ITF Tennis Play and Stay — the three-stage red, orange and green pathway for young players*. Retrieved November 22, 2026, from https://www.itftennis.com/en/growing-the-game/itf-tennis-play-and-stay/
+- International Tennis Federation. (n.d.-b). *Rules of Tennis 2026 — Appendices VII and VIII: competition for players aged 10 and under*. Retrieved November 22, 2026, from https://www.itftennis.com/en/about-us/governance/rules-of-tennis/
+- United States Tennis Association. (n.d.). *Tennis10s manual — the 10-and-under format introduced in the United States in 2010*. Retrieved November 22, 2026, from http://s3.amazonaws.com/ustaassets/assets/935/15/tennis10s_manual_eng.pdf
+- Wikipedia. (n.d.). *Mini tennis*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mini_tennis
+- World Tennis. (n.d.). *2026 World Tennis Tour Junior Finals in Chengdu — Sun Xinran (girls) and Jordan Lee (boys) crowned*. Retrieved November 22, 2026, from https://www.world.tennis/en/tournament/2026-world-tennis-tour-junior-finals/chn/2026/j-jm-chn-2026-001/media-and-resources/
+
+### Figure Index
+
+- Smiley.toerist. (2026, September 18). *Rennes 2026 1 — mini tennis court at the Place de la Gare in Rennes* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Rennes_2026_1.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [ITF — Play and Stay / Tennis10s](https://www.itftennis.com/en/growing-the-game/itf-tennis-play-and-stay/) — the world federation's official junior development programme with red, orange and green stages
-- [ITF Coaching — Play Tennis course](https://en.coaching.itftennis.com/courses/play-tennis.aspx) — official coaching qualification for teaching beginners and 10-and-under players
-- [USTA — Tennis10s manual (PDF)](http://s3.amazonaws.com/ustaassets/assets/935/15/tennis10s_manual_eng.pdf) — detailed manual of the US 10-and-under format
+- [International Tennis Federation — Play and Stay / Tennis10s](https://www.itftennis.com/en/growing-the-game/itf-tennis-play-and-stay/) — the world federation's junior development programme with the red, orange and green stages
+- [ITF — Rules of Tennis 2026](https://www.itftennis.com/en/about-us/governance/rules-of-tennis/) — official rulebook including the 10-and-under appendices
+- [USTA — Tennis10s manual (PDF)](http://s3.amazonaws.com/ustaassets/assets/935/15/tennis10s_manual_eng.pdf) — the detailed US 10-and-under manual
+- [World Tennis Tour — Junior Finals 2026](https://www.world.tennis/en/tournament/2026-world-tennis-tour-junior-finals/chn/2026/j-jm-chn-2026-001/media-and-resources/) — year-end junior championship results
+- [Tennis](tennis.html) on this site — the full-size game that mini tennis leads into

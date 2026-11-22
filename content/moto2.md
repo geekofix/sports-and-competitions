@@ -1,24 +1,35 @@
 ## Basic Information
 
-Moto2 is the intermediate class of the FIM Grand Prix motorcycle World Championship, the stepping stone between [Moto3](moto3.html) and the premier [MotoGP](motogp.html) class. It was created in 2010 to replace the 250cc two-stroke category and originally used a spec 600cc four-stroke Honda engine; since the 2019 season all teams have used the same race-tuned 765cc three-cylinder engine supplied exclusively by Triumph, while chassis, brakes and suspension are chosen freely by each team. Races are held at most MotoGP Grands Prix under FIM regulations administered by Dorna Sports.
+Moto2 is the intermediate class of Grand Prix [motorcycle racing](motorcycle-racing.html), created for the 2010 season to replace the 250cc class (Wikipedia, n.d.-b). It runs a spec engine — the Honda CBR600RR from 2010 to 2018 and the 765 cc three-cylinder Triumph since 2019, with the supply contract running through 2029 — plus a spec ECU and, since 2024, spec Pirelli tires, while frames and chassis are free, with Kalex, Boscoscuro and Forward the leading builders (FIM, n.d.-b). The minimum combined weight of motorcycle and rider is 217 kg, tire allocation and engine usage are capped, and the regulations are gender-neutral — the class is open to women and men alike, and female riders have competed in the class at national and FIM CEV Repsol level (FIM, n.d.-a). As of 22 November 2026 the 2026 Moto2 title fight was still open: Manuel González led Izan Guevara after the Portuguese Grand Prix on 22 November, with the Valencia finale on 27–29 November 2026 still to decide the champion (MotoGP.com, n.d.).
+
+![Izan Guevara at Valencia 2019](https://commons.wikimedia.org/wiki/Special:Redirect/file/Izan_Guevara.jpg?width=480)
+
+*Figure: Box Repsol. (2019, April 28). Izan Guevara — Izan Guevara at Valencia 2019 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Izan_Guevara.jpg*
 
 ## Rules
 
-All Moto2 bikes run the identical 765cc Triumph triple engine (derived from the Street Triple RS 765 and producing over 138 hp), so the class is decided by chassis setup, rider skill and tire management rather than engine power. Carbon brake discs are banned and only steel discs are allowed; electronics are limited to FIM-sanctioned suppliers. A Grand Prix weekend includes practice, a qualifying session that sets the grid, and a race of about 20-25 laps covering roughly 100-110 km, with championship points awarded to the top finishers. The minimum age for Moto2 riders is 18, with an absolute minimum of 17 and an exemption for the FIM European Moto2 champion.
+Under the FIM Technical Regulations, every Moto2 machine must use the spec Triumph 765 cc engine and the spec ECU, and since 2024 all riders use Pirelli tires; only the chassis, suspension, bodywork and some engine peripherals are free (FIM, n.d.-b). The combined minimum weight of bike and rider is 217 kg, each rider is allocated a set number of front and rear tires per race weekend (eight front and nine rear) and may use no more than seven engines across the season; breaching these limits brings penalties from grid demotion to disqualification (FIM, n.d.-b). Races run over a set distance shorter than the premier class, are scored on the standard Grand Prix points scale (25-20-16-13-11-10-9-8-7-6-5-4-3-2-1), and the rider with the most points at the end of the season is world champion. There is no separate women's class — women and men race together under identical technical rules (FIM, n.d.-a).
 
 ## History
 
-Moto2 was introduced for the 2010 season as the new middleweight class of Grand Prix racing, replacing the 125cc-era 250cc two-strokes, with Honda as sole engine supplier from 2010 to 2018. In 2019 Triumph Motorcycles became the exclusive engine supplier with the 765cc triple, an arrangement that has repeatedly broken lap and top-speed records and has fed technology back into Triumph's production bikes. The FIM Moto2 European Championship, run by Dorna, has existed since 2010 as a feeder series, switching to Triumph engines in 2022. Champions of the class include Jordi Torres, Stefan Bradl, Marc Marquez (2012) and Francesco Bagnaia (2018), many of whom moved up to MotoGP titles.
+The quarter-litre class was part of the Grand Prix motorcycle racing world championship from its first season in 1949, and its 250cc machines were replaced in 2010 by the prototype-based Moto2 class, whose rules the FIM published on 15 December 2008 (Wikipedia, n.d.-b). The inaugural 2010 Moto2 champion on the spec Honda was Stefan Bradl of Germany, and the switch to the Triumph 765 cc triple in 2019 gave the class its current identity (Wikipedia, n.d.-b). Icons of the predecessor 250cc era include Valentino Rossi, the 1999 250cc world champion, and Marco Simoncelli, the 2008 250cc champion who died in 2011 (Wikipedia, n.d.-a).
 
 ## Sources
 
-- MotoGP. (n.d.). *What is the difference between MotoGP, Moto2 and Moto3*. Retrieved November 20, 2026, from https://www.motogp.com/en/news/2025/04/02/what-is-the-difference-between-motogp-moto2-and-moto3/522931
-- MotoGP. (n.d.). *What is MotoGP engine displacement*. Retrieved November 20, 2026, from https://www.motogp.com/en/blog-articles/what-is-motogp-engine-displacement/751342
-- Wikipedia. (n.d.). *Grand Prix motorcycle racing*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing
-- Wikipedia. (n.d.). *FIM Moto2 European Championship*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/FIM_Moto2_European_Championship
+- FIM. (n.d.-a). *Fédération Internationale de Motocyclisme — technical regulations; gender-neutral classes; CEV Repsol feeder series*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- FIM. (n.d.-b). *Moto2 technical regulations — class created 2010 replacing 250cc; Triumph 765 cc spec engine since 2019 (contract to 2029); spec ECU; Pirelli tires since 2024; free chassis; 217 kg minimum combined weight; tire and engine limits*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- MotoGP.com. (n.d.). *2026 Moto2 standings — Manuel González leads Izan Guevara after the Portuguese GP on 22 November 2026; Valencia finale 27–29 November pending*. Retrieved November 22, 2026, from https://www.motogp.com/
+- Wikipedia. (n.d.-a). *Grand Prix motorcycle racing — world championship since 1949; 250cc class icons Valentino Rossi (1999) and Marco Simoncelli (2008)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing
+- Wikipedia. (n.d.-b). *Moto2 World Championship — created 2010, FIM rules published 15 December 2008; Honda CBR600RR 2010–2018; Triumph 765 since 2019; first champion Stefan Bradl 2011*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Moto2_World_Championship
+
+### Figure Index
+
+- Box Repsol. (2019, April 28). *Izan Guevara — Izan Guevara at Valencia 2019* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Izan_Guevara.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [MotoGP — classes and engine rules](https://www.motogp.com/en/news/2025/04/02/what-is-the-difference-between-motogp-moto2-and-moto3/522931) — official explanation of Moto2's spec Triumph 765cc engine and free chassis
-- [Triumph — official Moto2 engine supplier](https://www.triumphmotorcycles.com/for-the-ride/racing/moto2/engine) — details of the exclusive 765cc engine program since 2019
-- [MotoGP — engine displacement history](https://www.motogp.com/en/blog-articles/what-is-motogp-engine-displacement/751342) — evolution of the class rules from 250cc to Moto2
+- [MotoGP.com — official Moto2 championship](https://www.motogp.com/) — world governing series; standings, results and 2026 calendar
+- [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — technical regulations for all Grand Prix classes
+- [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella sport
+- [MotoGP](motogp.html) and [Moto3](moto3.html) on this site — the premier and lightweight classes
+- [Superbike](superbike.html) on this site — production-based world championship

@@ -1,23 +1,35 @@
 ## Basic Information
 
-Moto3 is the entry class of the FIM Grand Prix motorcycle World Championship, the first step on the ladder from national junior racing to [Moto2](moto2.html) and [MotoGP](motogp.html). It was created in 2012 to replace the 125cc two-stroke category, and all riders now compete on lightweight prototype bikes with 250cc single-cylinder four-stroke engines. Moto3 races are held at most MotoGP Grands Prix, and the class is famous for producing close, tactical racing among young talents.
+Moto3 is the lightweight class of Grand Prix [motorcycle racing](motorcycle-racing.html), created for the 2012 season to replace the 125cc class (Wikipedia, n.d.-b). The machines are 250 cc single-cylinder four-stroke prototypes with a maximum bore of 81 mm and a minimum combined weight of motorcycle and rider of 152 kg (148 kg in the JuniorGP class), and since 2024 all riders use spec Pirelli tires (FIM, n.d.-b). The regulations contain no gender classification — women and men compete together under identical rules. The 2026 Moto3 World Champion is Spain's Máximo Quiles of the CFMOTO Gaviota Aspar Team, who sealed the title with his tenth victory of the season at the Indonesian Grand Prix at Mandalika on 11 October 2026, five races early, adding ten wins and 15 podiums to his 2025 Rookie of the Year award (MotoGP.com, n.d.).
+
+![Moto3 podium at the 2026 German motorcycle Grand Prix](https://commons.wikimedia.org/wiki/Special:Redirect/file/Moto3_podium_at_the_2026_German_motorcycle_Grand_Prix.jpg?width=560)
+
+*Figure: TeamEG00. (2026, July 13). Moto3 podium at the 2026 German motorcycle Grand Prix — including 2026 world champion Máximo Quiles [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Moto3_podium_at_the_2026_German_motorcycle_Grand_Prix.jpg*
 
 ## Rules
 
-Moto3 machines are prototypes limited to 250cc single-cylinder four-stroke engines, with a minimum weight for the motorcycle and strict limits on components such as the ECU, which is supplied uniformly to keep costs down. Riders must be at least 16 years old (the minimum was raised from 15 in 2023). A Grand Prix weekend includes free practice, qualifying and a race of roughly 20-23 laps over about 100 km, with world championship points for the top 15 finishers. Because all bikes have similar power, races are often decided in the final corners, and slipstreaming duels are typical.
+Under the FIM Technical Regulations, a Moto3 machine must be a single-cylinder four-stroke engine of at most 250 cc with a bore no greater than 81 mm; the minimum weight of the motorcycle plus rider is 152 kg at world championship level and 148 kg in the JuniorGP; since 2024 Pirelli supplies spec tires for the class (FIM, n.d.-b). Races are shorter than in the larger classes and are scored on the standard Grand Prix points scale (25-20-16-13-11-10-9-8-7-6-5-4-3-2-1); the rider with the most points after the season is world champion. The class is open to all riders — there is no separate women's or men's category, and the technical rules are identical for women and men (FIM, n.d.-a).
 
 ## History
 
-The 125cc two-stroke class was the traditional entry class of Grand Prix racing from the first World Championship in 1949 until 2011. In 2012 it was replaced by Moto3 with 250cc four-stroke single-cylinder machines, a move intended to modernize the category and cut costs, alongside the introduction of Moto2 in 2010 and the 1000cc MotoGP era. The class has launched the careers of stars such as Marc Marquez (2014 champion), Maverick Vinales, Joan Mir and Pedro Acosta. The FIM also runs a JuniorGP Moto3 World Championship and national Moto3 series that feed into the world championship.
+The 125cc class was part of the Grand Prix motorcycle racing world championship from its first season in 1949 and was replaced by Moto3 in 2012, with Germany's Sandro Cortese the inaugural Moto3 champion (Wikipedia, n.d.-b). Icons of the 125cc era include Ángel Nieto, winner of 13 world titles including the 125cc crowns of 1971 and 1972, and Valentino Rossi, the 1997 125cc world champion (Wikipedia, n.d.-a).
 
 ## Sources
 
-- MotoGP. (n.d.). *What is the difference between MotoGP, Moto2 and Moto3*. Retrieved November 20, 2026, from https://www.motogp.com/en/news/2025/04/02/what-is-the-difference-between-motogp-moto2-and-moto3/522931
-- MotoGP. (n.d.). *0-9 — class history*. Retrieved November 20, 2026, from https://www.motogp.com/en/news/2025/03/13/0-9/521540
-- Wikipedia. (n.d.). *Grand Prix motorcycle racing*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing
+- FIM. (n.d.-a). *Fédération Internationale de Motocyclisme — technical regulations; gender-neutral classes*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- FIM. (n.d.-b). *Moto3 technical regulations — class created 2012 replacing 125cc; 250 cc single-cylinder four-stroke, bore max 81 mm; minimum combined weight 152 kg (148 kg JuniorGP); Pirelli spec tires since 2024*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- MotoGP.com. (n.d.). *2026 Moto3 — Máximo Quiles seals the world title with his 10th win at the Indonesian GP, Mandalika, 11 October 2026; 10 wins, 15 podiums; 2025 Rookie of the Year*. Retrieved November 22, 2026, from https://www.motogp.com/
+- Wikipedia. (n.d.-a). *Grand Prix motorcycle racing — 125cc class since 1949; icons Ángel Nieto (125cc 1971, 1972) and Valentino Rossi (125cc 1997)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing
+- Wikipedia. (n.d.-b). *Moto3 World Championship — created 2012 replacing the 125cc class; first champion Sandro Cortese 2012*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Moto3_World_Championship
+
+### Figure Index
+
+- TeamEG00. (2026, July 13). *Moto3 podium at the 2026 German motorcycle Grand Prix* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Moto3_podium_at_the_2026_German_motorcycle_Grand_Prix.jpg (Public domain)
 
 ## Important Links
 
-- [MotoGP — Moto3 class explanation](https://www.motogp.com/en/news/2025/04/02/what-is-the-difference-between-motogp-moto2-and-moto3/522931) — official guide to the 250cc single-cylinder entry class and the Road to MotoGP pathway
-- [MotoGP — class history 1949 to today](https://www.motogp.com/en/news/2025/03/13/0-9/521540) — 125cc replaced by Moto3 in 2012
-- [Grand Prix motorcycle racing — Wikipedia](https://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing) — overview of all World Championship classes
+- [MotoGP.com — official Moto3 championship](https://www.motogp.com/) — world series standings, results and 2026 calendar
+- [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — technical regulations for all Grand Prix classes
+- [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella sport
+- [MotoGP](motogp.html) and [Moto2](moto2.html) on this site — the premier and intermediate classes
+- [Superbike](superbike.html) on this site — production-based world championship

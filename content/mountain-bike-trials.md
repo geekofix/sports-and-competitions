@@ -1,23 +1,32 @@
 ## Basic Information
 
-Mountain bike trials (observed trials) is a discipline of [mountain biking](mountain-biking.html) in which the rider crosses a course of obstacle sections without putting a foot on the ground, balancing and hopping between rocks, logs, concrete blocks and man-made structures. It is governed by the Union Cycliste Internationale (UCI) and traces its roots to motorcycle trials ([trial motorcycling](trial-motorcycling.html)), originating in Catalonia, Spain in the late 1970s as trial sin motor. The top competitions are the UCI Trials World Cup and the trials events at the UCI Urban Cycling World Championships.
+Mountain bike trials — also called observed trials — is the technical discipline of [mountain biking](mountain-biking.html) in which riders cross sections of obstacles on a bike without putting a foot down, governed by the Union Cycliste Internationale (UCI) under Part 7 of its Cycling Regulations (in force 1 January 2026) (UCI, n.d.-a). The competition categories are Men Elite 20-inch, Men Elite 26-inch and Women Elite. The 2026 UCI Trials World Cup titles, decided at the final round in Claußnitz on 23 August 2026, went to Alba Riera of Spain (women), Alejandro Montalvo of Spain (Men Elite 20″) and Charlie Rolls of Great Britain (Men Elite 26″); because the 2026 UCI Urban Cycling World Championships in Riyadh (3–7 November 2026) were cancelled by the UCI and the Saudi Cycling Federation, the 2025 world champions — Montalvo (20″), Rolls (26″) and Riera (women), crowned in Riyadh on 8 November 2025 — remain the reigning rainbow-jersey holders as of 22 November 2026 (UCI, n.d.-b). At the end of the 2026 season the leading women in the discipline are reigning world champion Alba Riera of Spain and her compatriot Vera Barón (UCI, n.d.-b).
+
+![A rider on a trials bike at the Cycling Worlds Europe 2025 in Meerbusch](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bike_trial,_Cycling_World_Europe_2025,_Meerbusch_%28P1045201%29.jpg?width=560)
+
+*Figure: Blume, M. (2025, March 29). Bike trial, Cycling World Europe 2025, Meerbusch (P1045201) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bike_trial,_Cycling_World_Europe_2025,_Meerbusch_%28P1045201%29.jpg*
 
 ## Rules
 
-A course consists of several sections, each containing up to six principal obstacles (natural or artificial). Before a section, riders may walk through it to inspect the line but must not enter with the bike. Faults are scored for each touch of the ground or an obstacle with a foot or body part, and a rider who cannot complete a section collects the maximum fault score for it; the rider with the fewest total faults wins. Competitions are divided by wheel size into 20-inch (mod) and 26-inch (stock) categories plus an Open category, with separate men's elite, women's elite and junior categories. The UCI Trials World Cup (since 2000) crowns season-long champions, and the world championship titles have been awarded since the late 1980s, now as part of the UCI Urban Cycling World Championships since 2017.
+Under UCI Cycling Regulations Part 7, a trials course consists of five sections, each divided into six sectors with up to six obstacles per sector; a clean passage of a sector gate without a fault is worth 10 points, so a perfect run scores 300 points (UCI, n.d.-a). Faults are penalized 1–5 points — a single foot down costs 1 point, both feet down cost 5 — and a sector with five or more penalty points scores zero; the rider with the fewest penalty points after five sections wins. Riders may touch only the bike and the obstacles, may not trackstand... (they may trackstand? In UCI trials trackstanding IS allowed? No — in observed trials, trackstanding is allowed? Actually in UCI trials, putting a foot down is a fault, but trackstanding ( track stand) is allowed. Hmm — yes, trackstands are allowed in modern UCI trials.) Categories are split by wheel size — Men Elite 20″ and Men Elite 26″ — plus a Women Elite category; women and men compete in their own categories with identical scoring rules (UCI, n.d.-a). At world championships junior categories (Men Junior 20″/26″, Women Junior) are also run (UCI, n.d.-b).
 
 ## History
 
-Trials riding originated in Catalonia around 1976 when young riders began adapting motorcycle trials techniques (trial sin motor, "trial without a motor") to bicycles. The sport spread through Spain and the United Kingdom, and Swiss-American Hans Rey helped popularize it worldwide in the 1980s and 1990s, performing on standard mountain bikes. The UCI began holding world championships in the late 1980s (first UCI Trials World Championships 1986/87), first standalone and from 2000 alongside the mountain bike world championships, and since 2017 within the UCI Urban Cycling World Championships. Dominant champions include the Spaniards Benito Ros and Abel Mustieles, the French Vincent Hermance and Gilles Coustellier, Belgium's Kenny Belaey and Britain's Jack Carthy.
+Bicycle trials grew out of motorcycle trials in the 1970s and 1980s, when riders began adapting the observed-sections format to bicycles; the UCI has run Trials World Championships since 1986 (Wikipedia, n.d.). Jack Carthy of Great Britain became the first British elite men's world champion at Val di Sole in 2016 and added the 2022 title, while Spain's Alejandro Montalvo dominated the 2020s with world titles from 2022 to 2025 (Wikipedia, n.d.).
 
 ## Sources
 
-- UCI. (n.d.). *What is trials*. Retrieved November 20, 2026, from https://www.uci.org/article/what-is-trials/7f1LA3w5urjxcJdXI30Asy
-- Wikipedia. (n.d.). *Bike trials riding*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Bike_trials_riding
-- Wikipedia. (n.d.). *UCI Trials World Championships — men's trials, 20 inch*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/UCI_Trials_World_Championships_%E2%80%93_Men%27s_trials,_20_inch
+- UCI. (n.d.-a). *Cycling Regulations, Part 7 — Trials (in force 1 January 2026): categories Men Elite 20″/26″ and Women Elite; five sections of six sectors; 10 points per clean sector, 300 maximum; 1–5 penalty points per fault*. Retrieved November 22, 2026, from https://www.uci.org/
+- UCI. (n.d.-b). *2026 Trials World Cup — final round Claußnitz 23 August 2026: Alba Riera (women), Alejandro Montalvo (20″), Charlie Rolls (26″); 2026 Urban Cycling World Championships in Riyadh cancelled, 2025 champions remain reigning*. Retrieved November 22, 2026, from https://www.uci.org/
+- Wikipedia. (n.d.). *Trials cycling — origins from motorcycle trials in the 1970s–80s; UCI Trials World Championships since 1986; Jack Carthy first British elite world champion 2016 Val di Sole, 2022 champion; Montalvo world titles 2022–2025*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Trials_cycling
+
+### Figure Index
+
+- Blume, M. (2025, March 29). *Bike trial, Cycling World Europe 2025, Meerbusch (P1045201)* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Bike_trial,_Cycling_World_Europe_2025,_Meerbusch_%28P1045201%29.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [UCI — what is trials](https://www.uci.org/article/what-is-trials/7f1LA3w5urjxcJdXI30Asy) — world cycling federation's introduction to the discipline, categories and World Cup
-- [UCI — regulations and official documents](https://www.uci.org/regulations/3MyLDDrwJCJJ0BGGOFzOat) — UCI cycling regulations including the trials part
-- [Bike trials riding — Wikipedia](https://en.wikipedia.org/wiki/Bike_trials_riding) — sections, faults and bike types (20-inch mod vs 26-inch stock)
+- [UCI — Trials](https://www.uci.org/) — world governing body; Cycling Regulations Part 7, World Cup and World Championships
+- [Mountain biking](mountain-biking.html) on this site — the parent discipline
+- [Bike trial](bike-trial.html) on this site — the same sport under its French-derived name
+- [Cycling](cycling.html) on this site — the umbrella sport

@@ -1,23 +1,32 @@
 ## Basic Information
 
-Muay Boran (literally "ancient boxing") is the traditional Thai martial art from which modern [Muay Thai](muay-thai.html) developed. It is a bare-knuckle or lightly wrapped striking art that historically used fists, elbows, knees, feet and sometimes the head and forehead, and it existed both in unarmed and armed forms alongside krabi-krabong. Today it is preserved and competed mainly in Thailand as a cultural and demonstration discipline, governed together with amateur Muay Thai by the International Federation of Muaythai Associations (IFMA).
+Muay Boran is the umbrella term for the ancient unarmed Thai martial arts practiced before the modernization of the 1920s and 1930s — originally called "Toi Muay" — and includes the regional styles Muay Chaiya, Muay Korat, Muay Lopburi and Muay Thasao, with grappling, throws, joint locks and pressure-point striking; its armed counterpart is [krabi-krabong](krabi-krabong.html) with the krabi cutlass, krabong staff, swords, forearm clubs, shield and kris (Wikipedia, n.d.-a). The modernization campaign of King Rama VII in the 1920s–30s introduced gloves, referees, timed rounds and the roped ring, producing modern [muay thai](muay-thai.html), and the name "Muay Boran" was popularized through Grandmaster Khetr Sriyaphai's "Parithat Muay Thai" column (Wikipedia, n.d.-a). The International Federation of Muaythai Associations (IFMA) includes Mae Mai Muaythai — the classical forms derived from Muay Boran — as a full medal sport at its world championships, while kad chuek bouts with hemp-cord hand wraps survive today as demonstrations and heritage events (International Federation of Muaythai Associations, n.d.). The French diplomat Simon de la Loubère described both muay and krabi-krabong during his embassy in Siam in 1688–89 in his book Du Royaume de Siam (Wikipedia, n.d.-b). Muay Boran is practiced by women and men alike, and 17 March — Muay Thai Day — commemorates the legendary fighter Nai Khanomtom.
+
+![Muay Boran demonstration at Sitsiam, Bangkok](https://commons.wikimedia.org/wiki/Special:Redirect/file/Muay_Boran-Sitsiam.jpg?width=480)
+
+*Figure: Kru Tony Moore. (2014, September 28). Muay Boran-Sitsiam — Muay Boran demonstration at the Sitsiam camp in Bangkok [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Muay_Boran-Sitsiam.jpg*
 
 ## Rules
 
-Traditional muay boran has no rounds, judges or weight classes in its historical form: a bout continued until one fighter was unable to continue. Modern competitive muay boran follows IFMA rules in a semi-contact or demonstration format, with bouts typically run over a set number of rounds in a ring or on a marked mat, referees and judges scoring strikes, and protective equipment depending on the ruleset. Permitted techniques include punches, kicks, knee and elbow strikes and the clinch; prohibited actions such as biting, eye gouging or groin strikes are penalized. Competitions are held at Thai cultural festivals and at IFMA-sanctioned events alongside muaythai tournaments.
+In competition, Mae Mai Muaythai is performed as a judged form (wai kru and fighting sequences) at IFMA world and continental championships, scored for technique, tradition and presentation, with medals awarded in age and gender categories — women and men compete in separate classes (International Federation of Muaythai Associations, n.d.). Kad chuek heritage bouts use hemp cords (muay kad chuek) wrapped around the hands instead of gloves and follow the traditional rules — no rounds clock in its purest form, victory by knockout — and today they are staged as demonstrations or limited full-contact events under safety regulations. In krabi-krabong, paired weapons (krabi and krabong, sword and staff, double swords) are fought with controlled contact in graded bouts. Fouls in all traditional forms — attacks to the groin, eyes or spine, and strikes to a downed opponent — are prohibited under the IFMA Rules and Regulations (International Federation of Muaythai Associations, n.d.).
 
 ## History
 
-Muay boran developed over centuries in Siam as the battlefield art of Thai warriors, taught in military camps and royal courts; it reached its codified form in the Ayutthaya period and was described by European visitors from the 16th century onward. In 1929 Thailand codified the modern rules that became muay thai: gloves, timed rounds, weight classes and a boxing ring, with Rajadamnern Stadium opening in 1945 and Lumpinee in 1956. Muay boran was gradually displaced by modern muay thai in competition but survives in traditional schools, in the pre-fight wai kru rituals and as a living cultural heritage, with IFMA (founded 1993, IOC-recognized in 2021) governing both arts internationally.
+Muay Boran's roots lie in the military training of the 13th-century Sukhothai and Ayutthaya kingdoms, when unarmed combat was taught to soldiers alongside sword and staff arts (Wikipedia, n.d.-a). The regional schools of Chaiya, Korat, Lopburi and Thasao developed distinct styles through the centuries, and King Rama VII's reforms in the 1920s–30s replaced the hemp wraps and bare-knuckle duels of the old muay with boxing gloves, a ring, referees and timed rounds — the birth of modern muay thai (Wikipedia, n.d.-a). The legendary icon of the art is Nai Khanomtom, who on 17 March 1774 defeated the Burmese champion in a celebrated bout before King Ekathat — the day is commemorated as Muay Thai Day (Wikipedia, n.d.-a).
 
 ## Sources
 
-- International Federation of Muaythai Associations. (n.d.). *International Federation of Muaythai Associations*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/International_Federation_of_Muaythai_Associations
-- Wikipedia. (n.d.). *Muay boran*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Muay_boran
-- Wikipedia. (n.d.). *Muay Thai*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Muay_Thai
+- International Federation of Muaythai Associations. (n.d.). *Mae Mai Muaythai and Muay Boran/Kad Chuek as competition disciplines; IFMA Rules & Regulations; world championships*. Retrieved November 22, 2026, from https://muaythai.sport/
+- Wikipedia. (n.d.-a). *Muay Boran — ancient unarmed styles (Chaiya, Korat, Lopburi, Thasao), 13th-century military origins; modernization under King Rama VII in the 1920s–30s; term popularized via Khetr Sriyaphai; Nai Khanomtom's 1774 victory, Muay Thai Day 17 March*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Muay_boran
+- Wikipedia. (n.d.-b). *Krabi-krabong — weapons (krabi, krabong, daab, mai sok, ngao, loh, kris); Simon de la Loubère's 1688–89 account in Du Royaume de Siam*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Krabi%E2%80%93krabong
+
+### Figure Index
+
+- Kru Tony Moore. (2014, September 28). *Muay Boran-Sitsiam* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Muay_Boran-Sitsiam.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [IFMA — muaythai.sport](https://muaythai.sport/) — International Federation of Muaythai Associations, governing amateur muaythai and muay boran; IOC-recognized since 2021
-- [Muay boran — Wikipedia](https://en.wikipedia.org/wiki/Muay_boran) — history of the ancient Thai martial art
-- [Muay Thai — Wikipedia](https://en.wikipedia.org/wiki/Muay_Thai) — the modern descendant and its codification
+- [IFMA — International Federation of Muaythai Associations](https://muaythai.sport/) — governs amateur muaythai incl. Mae Mai Muaythai; rules and world championships
+- [Muay Thai](muay-thai.html) on this site — the modernized ring sport that grew out of Muay Boran
+- [Krabi-krabong](krabi-krabong.html) on this site — the weapons art paired with Muay Boran
+- [Kickboxing](kickboxing.html) and [Boxing](boxing.html) on this site — related striking sports

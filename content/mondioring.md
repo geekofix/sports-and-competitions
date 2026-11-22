@@ -1,25 +1,31 @@
 ## Basic Information
 
-Mondioring is the term used especially in Europe for disc dog, also known as canine disc or frisbee dog (see [Disc Dog](disc-dog.html)). In mondioring competitions, a dog and its handler compete in distance catching (toss and fetch), choreographed freestyle routines and long-distance events using flying discs. The term disc is preferred because Frisbee is a registered trademark. The sport grew out of the famous 1974 halftime stunt by Alex Stein and his dog Ashley Whippet at a Los Angeles Dodgers baseball game.
+Mondioring is the popular name for disc dog competition — also called canine disc — in which a handler throws flying discs and the dog catches them; it is the same sport covered on this site as [disc dog](disc-dog.html) (Wikipedia, n.d.-a). Pairs compete in events such as toss and fetch, freestyle and long distance at national and world championships organized by bodies such as Skyhoundz (Skyhoundz, n.d.). Men and women compete together in the same divisions — handlers of both genders lead the world rankings, and all breeds of dog are eligible (Wikipedia, n.d.-b). The flagship event is the Skyhoundz World Canine Disc Championship, whose 25th edition was held 13–20 September 2026 in Chattanooga/East Ridge, Tennessee (Skyhoundz, n.d.).
+
+![A border collie leaping to catch a disc in disc dog competition](https://commons.wikimedia.org/wiki/Special:Redirect/file/Border_Collie_discdog_jump.jpg?width=480)
+
+*Figure: Armstrong, R. (2007, April 28). Border Collie discdog jump — a border collie leaping to catch a flying disc [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Border_Collie_discdog_jump.jpg*
 
 ## Rules
 
-In toss and fetch (distance and accuracy), the handler has 60 seconds to make as many throws as possible on a field marked with distance zones up to about 50 m, and the team scores points for catches based on distance, with a bonus for airborne catches. In freestyle, handler and dog perform a judged routine of 90 seconds to two minutes choreographed to music with multiple discs, scored on difficulty, athleticism, showmanship and teamwork; for example the Skyhoundz classic limits routines to 90 seconds and five discs, while the USDDN allows two minutes and ten discs. Long-distance events award the win to the longest catch. The major series are the Ashley Whippet Invitational (since 1975), Skyhoundz (since 2000, the largest series with more than 100 events a year, played with Hyperflite discs), the UFO World Cup and the USDDN.
+In toss and fetch, the team has 60 seconds to make as many catches as possible; points are awarded for the distance of the catch, accuracy bonuses apply, and extra points are given for each second the disc is airborne (Wikipedia, n.d.-b). In freestyle, the pair performs a judged routine of 90 seconds to two minutes, typically to music, scored for difficulty, execution, teamwork and showmanship. In long distance, catches are scored by the zone in which the dog catches the disc, with the farthest zones worth the most points. Dogs may be of any breed, and men and women handlers compete in the same divisions without separate classes (Wikipedia, n.d.-b). Fouls such as the handler crossing the throwing line early or a dropped disc result in lost points under the Skyhoundz rulebook (Skyhoundz, n.d.).
 
 ## History
 
-On August 5, 1974, 19-year-old Alex Stein jumped the fence during a nationally televised Dodgers-Reds game in Los Angeles and threw discs for his dog Ashley Whippet, who ran up to 35 mph and leaped 9 ft to catch them; the eight-minute stunt, announced by Joe Garagiola, made the sport famous overnight. Stein, together with Irv Lander of Wham-O and Eldon McIntire, organized the first Frisbee Dog World Championship in 1975 at the Rose Bowl in Pasadena, which Stein and Ashley won in 1975, 1976 and 1977; the series was named the Ashley Whippet Invitational in the early 1980s. Further organizations followed, including Skyhoundz in 2000 and the UFO, and famous disc dogs such as Hyper Hank and Wallace became legends of the sport.
+Disc dog began on 5 August 1974, when Alex Stein and his dog Ashley Whippet ran onto the field between games of a Los Angeles Dodgers baseball game, leapt up to nine feet to catch a fast-moving disc and delighted the crowd (Wikipedia, n.d.-a). Inspired by that performance, Irv Lander organized the first disc dog world championship in 1975 — the Ashley Whippet Invitational — which Stein and Ashley won in 1975, 1976 and 1977 (Wikipedia, n.d.-a). The sport then grew through organizations such as the AWI, the USDDN, UFO and Quadruped, and in 2000 Skyhoundz was founded together with the disc manufacturer Hyperflite to run the world championship (Wikipedia, n.d.-a). A famous icon of the sport was Wallace the pit bull, the 2006 Cynosport champion celebrated in Jim Gorant's book on the team (Wikipedia, n.d.-a).
 
 ## Sources
 
-- Ashley Whippet Invitational. (n.d.). *Rules*. Retrieved November 20, 2026, from https://ashleywhippet.com/rules
-- Hyperflite. (n.d.). *Disc dog competitions*. Retrieved November 20, 2026, from https://hyperflite.com/disc-dog-competitions/
-- Wikipedia. (n.d.). *Disc dog*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Disc_dog
-- Wikipedia. (n.d.). *Frisbee Dog World Championship*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Frisbee_Dog_World_Championship
+- Skyhoundz. (n.d.). *Skyhoundz World Canine Disc Championship — 25th edition 13–20 September 2026, Chattanooga/East Ridge, Tennessee; event rulebooks*. Retrieved November 22, 2026, from https://skyhoundz.com/
+- Wikipedia. (n.d.-a). *Disc dog — Alex Stein and Ashley Whippet at the Dodgers game on 5 August 1974; first world championship 1975 by Irv Lander; Stein/Ashley won 1975–1977; Skyhoundz founded 2000; Wallace the pit bull 2006 Cynosport champion*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Disc_dog
+- Wikipedia. (n.d.-b). *Canine disc — toss and fetch, freestyle and long distance events; co-ed divisions; all breeds eligible*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Canine_disc
+
+### Figure Index
+
+- Armstrong, R. (2007, April 28). *Border Collie discdog jump* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Border_Collie_discdog_jump.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Ashley Whippet Invitational — rules](https://ashleywhippet.com/rules) — the original and longest-running disc dog series, world finals since 1975
-- [Skyhoundz / Hyperflite — disc dog competitions](https://hyperflite.com/disc-dog-competitions/) — the world's largest disc dog series with its World Championship
-- [USDDN — official rules](https://usddn.com/official-rules/) — rules of the US Disc Dog Nationals
-- [Disc dog — Wikipedia](https://en.wikipedia.org/wiki/Disc_dog) — history, event formats and organizations
+- [Skyhoundz — World Canine Disc Championship](https://skyhoundz.com/) — the premier disc dog organization; world championship 2026 in Chattanooga/East Ridge, TN
+- [Disc dog](disc-dog.html) on this site — the same sport under its international name
+- [Canine freestyle](canine-freestyle.html) and [Agility dog sport](agility-dog-sport.html) on this site — related dog sports
