@@ -1,25 +1,35 @@
 ## Basic Information
 
-Paddle tennis, branded POP Tennis since 2015 and adopted by the United States Tennis Association in 2016, is a scaled-down version of [tennis](tennis.html) invented in 1898 by the Episcopal minister Frank Peer Beal in Albion, Michigan, as an easy entry game for children. It is played on a court less than half the size of a tennis court with a lower net, a solid perforated paddle instead of a strung racquet, and a depressurized tennis ball. All strokes and scoring are the same as in tennis, and there are more than 30,000 paddle tennis courts in the United States alone. Related games are [platform tennis](platform-tennis.html), [pickleball](pickleball.html) and [padel](padel.html).
+Paddle tennis, branded POP Tennis since 2015 and adopted by the United States Tennis Association in 2016, is a scaled-down version of [tennis](tennis.html) invented in 1898 by the Episcopal minister Frank Peer Beal in Albion, Michigan, as an easy entry game for children (USA Pickleball, n.d.; Wikipedia, n.d.). It is played on a court less than half the size of a tennis court with a lower net, a solid perforated paddle instead of a strung racquet, and a depressurized tennis ball; men and women play singles and doubles under identical rules, and there are more than 30,000 paddle tennis courts in the United States alone (USTA, n.d.). Related games are [platform tennis](platform-tennis.html), [pickleball](pickleball.html) and [padel](padel.html).
+
+![A POP Tennis paddle](https://commons.wikimedia.org/wiki/Special:Redirect/file/POP_Tennis_paddle.jpg?width=500)
+
+*Figure: Nick77664. (2025, April 6). The POP Tennis paddle, used to play the sport [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:POP_Tennis_paddle.jpg*
 
 ## Rules
 
-The official POP Tennis court measures 60 by 21 feet for singles and 60 by 27 feet for doubles, while the original "Classic POP" court is 50 by 20 feet, with no doubles alleys. The net is lower than in tennis, 31 inches pulled taut across the court. The serve must be underhand and only one serve is allowed, with let serves permitted, and it must land diagonally in the opponent's service court. Apart from the serve, all rules and scoring are those of tennis: points run 15, 30, 40 and game, and matches are the best of three sets. Played with a solid paddle about 18 inches long with aerodynamic holes and a low-compression "green dot" tennis ball, the game can be played on open courts indoors or outdoors all year round.
+The official POP Tennis court measures 60 by 21 feet (about 18.3 by 6.4 m) for singles and 60 by 27 feet (about 18.3 by 8.2 m) for doubles, while the original "Classic POP" court is 50 by 20 feet, with no doubles alleys (USTA, n.d.). The net is lower than in tennis — 31 inches (79 cm) pulled taut across the court — and the court surface is usually asphalt or concrete with a cushioned acrylic surface (USTA, n.d.). The serve must be underhand and only one serve is allowed, with let serves permitted, and it must land diagonally in the opponent's service court (USTA, n.d.). Apart from the serve, all rules and scoring are those of tennis: points run 15, 30, 40, game; six games win a set with a tiebreak at 6-6, and matches are best of three sets (USTA, n.d.). Women's and men's competitions use the same court, net and scoring, with mixed doubles common in recreational play (USTA, n.d.).
 
 ## History
 
-Frank Peer Beal created the game in 1898 in Albion, Michigan, on a backyard court half the size of a regulation tennis court (18 by 39 feet), using a maple-plank paddle and a sponge-rubber ball, intending it as a stepping stone for children learning tennis. He moved to New York City in 1921, the New York parks department laid courts in Washington Square Park in 1915, and the first paddle tennis tournament was held in 1922. The platform tennis variant appeared in 1928 in Scarsdale, New York, when players on a raised deck enclosed by wire screening discovered that the ball could legally be played off the walls. In 1959 to 1961, rules chairman Murray Geller enlarged the court to 20 by 50 feet, introduced the single underhand serve and replaced the sponge ball with a deadened tennis ball, creating the modern adult game. In 2015 the sport was rebranded POP Tennis to distinguish it from padel and platform tennis, and in 2016 the USTA officially adopted it as a feeder sport for tennis.
+Paddle tennis was invented in 1898 by Frank Peer Beal, an Episcopal minister in Albion, Michigan, who laid out a small court so children could play a gentler version of lawn tennis with wooden paddles; the game spread through parks in the American Midwest and Northeast (Wikipedia, n.d.). It was codified in the 1920s-1950s as "paddle tennis" and peaked in popularity in the 1950s-1960s with hundreds of thousands of courts (Wikipedia, n.d.). The United States Paddle Tennis Association governed the game until the 2010s, when the USTA adopted it and rebranded it POP Tennis in 2015 with a standardized 60-foot court (USTA, n.d.). Pickleball grew out of paddle tennis courts in 1965 on Bainbridge Island, Washington (Wikipedia, n.d.).
 
 ## Sources
 
-- NC POP Tennis. (n.d.). *History of POP Tennis*. Retrieved November 20, 2026, from http://ncpoptennis.com/history-of-pop-tennis
-- Platform Tennis Hall of Fame. (n.d.). *History of platform and paddle tennis*. Retrieved November 20, 2026, from https://platformtennishalloffame.org/
+- USTA. (n.d.). *POP Tennis — official rules and court dimensions*. Retrieved November 22, 2026, from https://www.usta.com/en/home/play/recreational-tennis/programs/pop-tennis.html
+- USA Pickleball. (n.d.). *History of pickleball and paddle tennis*. Retrieved November 22, 2026, from https://usapickleball.org/
+- Wikipedia. (n.d.). *Paddle tennis*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Paddle_tennis
+
+### Figure Index
+
+- Nick77664. (2025, April 6). *The POP Tennis paddle, used to play the sport* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:POP_Tennis_paddle.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [NC POP Tennis — history and rules](http://ncpoptennis.com/history-of-pop-tennis) — history from Frank Beal to POP Tennis
-- [Platform Tennis Hall of Fame](https://platformtennishalloffame.org/) — museum and history of paddle and platform tennis
-- [Tennis](tennis.html) — the full-size sport paddle tennis is derived from
-- [Platform Tennis](platform-tennis.html) — the enclosed, heated-deck variant
-- [Pickleball](pickleball.html) — related paddle sport on this site
-- [Padel](padel.html) — the walled-court racket sport often confused with paddle tennis
+- [USTA — POP Tennis](https://www.usta.com/en/home/play/recreational-tennis/programs/pop-tennis.html) — official rules, court dimensions, national programs
+- [Paddle tennis — Wikipedia](https://en.wikipedia.org/wiki/Paddle_tennis) — invention by Frank Peer Beal 1898 and the 2015 POP rebrand
+- [USA Pickleball — history](https://usapickleball.org/) — how pickleball grew from paddle tennis courts in 1965
+- [Tennis](tennis.html) on this site — the parent sport
+- [Platform Tennis](platform-tennis.html) on this site — the elevated-deck variant
+- [Pickleball](pickleball.html) on this site — the descendant game
+- [Padel](padel.html) on this site — the walled-court variant

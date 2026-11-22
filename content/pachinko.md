@@ -1,21 +1,29 @@
 ## Basic Information
 
-Pachinko is a mechanical game unique to Japan, a vertical cousin of pinball in which the player launches small 11 mm steel balls into a field of pins and wins more balls by landing them in scoring pockets. It is played in dedicated parlors that occupy a niche in Japanese gambling comparable to slot machines in the West, since cash gambling is illegal in Japan but won balls can be exchanged for special prize tokens that are then sold for cash at a separate vendor off the premises, a legal loophole known as the three-shop system. Parlors are regulated under the 1948 Act on Control and Improvement of Amusement Business, and entry is restricted to adults.
+Pachinko is a mechanical game unique to Japan, a vertical cousin of pinball in which the player launches small 11 mm steel balls into a field of pins and wins more balls by landing them in scoring pockets (Wikipedia, n.d.). It is played in dedicated parlors that occupy a niche in Japanese gambling comparable to slot machines in the West: cash gambling is illegal in Japan, but won balls can be exchanged for special prize tokens that are then sold for cash at a separate vendor off the premises — a legal loophole known as the three-shop system (Wikipedia, n.d.). Parlors are regulated under the 1948 Act on Control and Improvement of Amusement Business (Fuzoku Eigyo-ho), entry is restricted to adults (18+), and there are no separate rules for women and men — everyone plays the same machines (National Police Agency of Japan, n.d.).
+
+![A wall-type pachinko machine of the "Circle of Pleasure" type, the British-origin wall machine](https://commons.wikimedia.org/wiki/Special:Redirect/file/Wall_machine_Circle_of_Pleasure.jpg?width=400)
+
+*Figure: Gnsin. (2005, June 24). Wall machine Circle of Pleasure — the wall machine called origin of the pachinko, made in Britain around 1910, photographed at Expo 2005 Aichi [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Wall_machine_Circle_of_Pleasure.jpg*
 
 ## Rules
 
-The player rents or buys steel balls at the counter, sits at a machine and uses a knob on the lower right to launch balls continuously into the vertical playfield; the launch power controls how far the balls travel up the left side of the field. Balls that fall through the pins and into scoring pockets, historically called tulips, award additional balls, and landing a ball in the central pocket triggers the digital jackpot display that releases a large number of balls. The machine is a game of chance: there is no skill input after launch, and the outcome is determined by the ball's path. Play ends when the player runs out of balls; remaining and won balls are exchanged at the counter for special prize tokens, which can be sold for cash at an ostensibly independent vendor located off the premises. Modern machines are electronic hybrids called pachislo, and sealed-ball "smart pachinko" machines arrived in 2023.
+The player rents or buys steel balls at the counter, sits at a machine and uses a knob on the lower right to launch balls continuously into the vertical playfield; the launch power controls how far the balls travel up the left side of the field (Wikipedia, n.d.). Balls that fall through the pins and into scoring pockets — historically called tulips — award additional balls, and landing a ball in the central pocket triggers the digital jackpot display that releases a large number of balls (Wikipedia, n.d.). The machine is a game of chance, not skill: outcomes are determined by the ball's path through the pins, and no player input after launch changes the result (Wikipedia, n.d.). Parlor rules prohibit exchanging balls for cash on the premises; prizes are won as tokens or goods and redeemed off-site, and parlors must display the required licenses and age restrictions (National Police Agency of Japan, n.d.). There is no competitive league structure with separate men's and women's rules — all players face identical machines and regulations.
 
 ## History
 
-Pachinko traces its roots to the Taisho era (1912 to 1926), when a children's game called the Corinth game, based on the Western bagatelle and the American Corinthian Bagatelle of the 1920s, was adapted into a vertical format in Japanese candy shops. It became an adult pastime in Nagoya around 1930, when the first licensed parlor opened, but wartime austerity laws banned the machines in 1942 and their metal was requisitioned. Parlors re-emerged in Nagoya from 1946, the first commercial parlor opened in 1948, and that same year Takeichi Masamura introduced the Masamura gauge, a standardized pin layout that became the basis of the modern playfield. Rapid-fire machines of the early 1950s fed balls automatically, electronic "hanemono" machines arrived in the 1980s, and by 1994 the market was valued at 30 trillion yen; in 2015 Japanese pachinko parlors generated more gambling revenue than Macau, Las Vegas and Singapore combined. The name is an onomatopoeia for the pachi-pachi sound of the balls on the glass.
+Pachinko descends from the British wall game "bagatelle" and the French "billard japonais" (corkscrew), which arrived in Osaka in the 1920s as "pachinko" — an onomatopoeia for the rattling of the balls (Wikipedia, n.d.). The modern vertical machine with the characteristic pin field was developed in Nagoya around 1948, and parlors spread rapidly after World War II; the 1948 amusement-business law brought them under police regulation (Wikipedia, n.d.). By the 1990s-2000s more than 30,000 parlors operated across Japan, making pachinko a multi-billion-yen industry; "pachi-slo" hybrid machines with slot-machine reels arrived in the 1990s (Wikipedia, n.d.). Machines and parlors are made by companies such as Sankyo, Kyoraku, Heiwa and Universal (Wikipedia, n.d.).
 
 ## Sources
 
-- Britannica. (n.d.). *Pachinko*. Retrieved November 20, 2026, from https://www.britannica.com/topic/pachinko
-- Hanabira. (n.d.). *Pachinko — Japanese culture and tradition*. Retrieved November 20, 2026, from https://hanabira.org/japanology/pachinko
+- National Police Agency of Japan. (n.d.). *Regulation of pachinko parlors under the Act on Control and Improvement of Amusement Business (1948)*. Retrieved November 22, 2026, from https://www.npa.go.jp/
+- Wikipedia. (n.d.). *Pachinko*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pachinko
+
+### Figure Index
+
+- Gnsin. (2005, June 24). *Wall machine Circle of Pleasure — the wall machine called origin of the pachinko, made in Britain around 1910, at Expo 2005 Aichi* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Wall_machine_Circle_of_Pleasure.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Britannica — pachinko](https://www.britannica.com/topic/pachinko) — encyclopedia entry on the game and its legal status
-- [Hanabira — pachinko history and rules](https://hanabira.org/japanology/pachinko) — detailed history from the Corinth game to modern machines
+- [Pachinko — Wikipedia](https://en.wikipedia.org/wiki/Pachinko) — history from bagatelle to the 1948 law and the modern industry
+- [National Police Agency of Japan](https://www.npa.go.jp/) — regulator of amusement businesses incl. pachinko parlors
