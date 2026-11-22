@@ -1,21 +1,32 @@
 ## Basic Information
 
-Jodo, the "way of the staff", is a Japanese martial art using the jo, a wooden staff about 128 cm long. It is practiced as a kata-based art alongside kendo and iaido within the All Japan Kendo Federation and the International Kendo Federation (FIK), which also stages jodo at the World Kendo Championships. Practitioners learn to defend against sword, staff and dagger attacks using blocks, strikes, locks and throws with the staff.
+Jodo is the Japanese martial art of the short staff (jo): practitioners learn to defend against sword attacks using a wooden staff 128 cm long and 2.4 cm in diameter, in the tradition of Shinto Muso-ryu, founded in the early 17th century by Muso Gonnosuke Katsuyoshi (All Japan Kendo Federation, n.d.; Wikipedia, n.d.-a). The standardized curriculum, Seitei Jodo — twelve kata plus twelve kihon — was created in 1968 by Shimizu Takaji, 25th headmaster of Shinto Muso-ryu, and adopted by the All Japan Kendo Federation (ZNKR), which runs the All Japan Jodo Championships, first held in 1974 (All Japan Kendo Federation, n.d.). Internationally, jodo is governed together with kendo and iaido by the Fédération Internationale de Kendo (FIK), which organizes the European Jodo Championship — first held in Bologna in 2005 — and world seminars (Fédération Internationale de Kendo, n.d.). About 20,000 people practice jodo in Japan, and in 2026 the leading practitioners are the 8th-dan masters of Tokyo and Kyoto; women have practiced jodo since the mid-20th century and compete in the same kata divisions as men (Wikipedia, n.d.-b).
+
+![Jodo shiai (competition) at the 2005 European Championship in Bologna — Italy vs Finland](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jodo_shiai.jpg?width=480)
+
+*Figure: Lakkisto, J. (2005, November 4). Jodo shiai [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Jodo_shiai.jpg*
 
 ## Rules
 
-Jodo is practiced primarily through kata: a fixed set of solo forms (kihon) against imaginary opponents and paired forms (kata) in which one partner attacks with a wooden sword (shinai or bokken) and the other defends with the jo. The curriculum of the Shinto Muso-ryu, standardized for modern practice, consists of twelve solo kata and twelve paired kata, performed and judged in graded examinations (dan and kyu ranks) and in competition. In a kata competition, pairs perform the prescribed forms before a panel of judges who score technical correctness, timing, power and spirit. There is no free sparring in jodo.
+Jodo is practiced in keikogi and hakama (All Japan Kendo Federation, n.d.). The jo is 128 cm long and 2.4 cm in diameter, made of Japanese white oak (Wikipedia, n.d.-a). Competitions consist of kata — the twelve Seitei Jodo forms — performed by pairs: the uchidachi (attacker) and the shidachi (defender), who face each other with the jo and, in the paired forms, the opponent also carries a bokken or tachi (101.5 cm white-oak sword) to simulate the sword attack (All Japan Kendo Federation, n.d.; Wikipedia, n.d.-b). Judges — typically three or five — score each kata on kihon (correct technique), timing, etiquette and the realism of the exchange, awarding flags (hantei) for the better performance; in team matches, teams of three or five compete (All Japan Kendo Federation, n.d.). The All Japan Jodo Championship has been held annually since 1974 in individual dan categories from 1st dan to 6th dan and above (All Japan Kendo Federation, n.d.). There are no weight or gender classes: men and women compete together in the same kata divisions, which is unusual among Japanese budo (Wikipedia, n.d.-b). Free sparring (randori) is not part of competition, though it exists in training (Wikipedia, n.d.-a).
 
 ## History
 
-Jodo traces its origin to the early 17th century and Musō Gonnosuke Katsuyoshi, who, according to tradition, was defeated in a duel by the swordsman Miyamoto Musashi and then developed the art of the staff in retreat at a shrine, eventually creating the Shinto Muso-ryu school. The art was systematized in the Edo period and passed down through generations of masters. In the 20th century it was incorporated into the modern Japanese budo federations: the All Japan Kendo Federation administers dan gradings and competitions, and the International Kendo Federation (FIK), founded in 1970, includes jodo in its international championships. Today jodo is practiced in dojo worldwide, both as a martial art and as a companion study to kendo and iaido.
+According to tradition, Muso Gonnosuke Katsuyoshi (1585–1662) was defeated in a duel by the swordsman Miyamoto Musashi, after which he retreated to Dazaifu in Kyushu, devised the short staff — the jo — and won the rematch; he then served as martial-arts instructor to the Kuroda clan of Chikuzen (Fukuoka) until the early 1900s (Wikipedia, n.d.-b). Shinto Muso-ryu thus became one of the classical koryu, and in 1968 Shimizu Takaji, the 25th headmaster, created the standardized Seitei Jodo kata set — twelve forms and twelve kihon — which the All Japan Kendo Federation adopted, leading to the first All Japan Jodo Championship in 1974 (All Japan Kendo Federation, n.d.; Wikipedia, n.d.-b). The FIK brought jodo, kendo and iaido under one international federation, and the first European Jodo Championship was held in Bologna in 2005 (Fédération Internationale de Kendo, n.d.). Among the icons are Muso Gonnosuke Katsuyoshi, the legendary founder, and Shimizu Takaji, the modernizer of the kata curriculum (Wikipedia, n.d.-b).
 
 ## Sources
 
-- International Kendo Federation. (n.d.). *Jodo — the way of the staff*. Retrieved November 20, 2026, from https://www.kendo-fik.com/
-- All Japan Kendo Federation. (n.d.). *Jodo — kata and gradings*. Retrieved November 20, 2026, from https://www.kendo.or.jp/
+- All Japan Kendo Federation. (n.d.). *Jodo — Seitei Jodo kata, All Japan Jodo Championship since 1974, ZNKR*. Retrieved November 22, 2026, from https://www.kendo.or.jp/
+- Fédération Internationale de Kendo. (n.d.). *FIK — jodo, kendo and iaido world federation; European Jodo Championship (Bologna 2005)*. Retrieved November 22, 2026, from https://www.kendo-fik.com/
+- Wikipedia. (n.d.-a). *Jodo*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Jodo
+- Wikipedia. (n.d.-b). *Jodo — history, Muso Gonnosuke Katsuyoshi, Miyamoto Musashi, Shimizu Takaji, Seitei Jodo 1968*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Jodo
+
+### Figure Index
+
+- Lakkisto, J. (2005, November 4). *Jodo shiai* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Jodo_shiai.jpg (CC BY-SA 2.5)
 
 ## Important Links
 
-- [International Kendo Federation (FIK)](https://www.kendo-fik.com/) — world federation for kendo, iaido and jodo; international championships
-- [All Japan Kendo Federation](https://www.kendo.or.jp/) — Japanese governing body; jodo kata, dan gradings and national championships
+- [Fédération Internationale de Kendo (FIK)](https://www.kendo-fik.com/) — international federation for kendo, iaido and jodo
+- [All Japan Kendo Federation (ZNKR)](https://www.kendo.or.jp/) — jodo section; All Japan Jodo Championship since 1974
+- [Kendo](kendo.html) on this site — see also [Iaido](iaido.html), [Karate](karate.html) and [Judo](judo.html) on this site
