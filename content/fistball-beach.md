@@ -1,20 +1,25 @@
 ## Basic Information
 
-Beach fistball is the sand variant of fistball, played by two teams of five on a 25 m x 12.5 m (or similar) sand court with a lower net, using the same fist/forearm striking rules as indoor fistball. It is governed by the International Fistball Association (IFA), which includes beach fistball in its international program, and is played at the IFA Beach Fistball Championships and at multi-sport beach events.
+Beach fistball is the sand variant of [Fistball](fistball.html): teams play on a beach court with a net, hitting the ball over with the fist or forearm, but with fewer players and adapted rules suited to the soft surface (IFA, n.d.; Wikipedia, n.d.). It is governed by the International Fistball Association (IFA), which sanctions beach fistball alongside the outdoor and indoor games and includes it in international tournament series (IFA, n.d.). Beach fistball is popular in Central Europe — Germany, Austria, Switzerland and the Czech Republic — and in South America, especially Brazil, where beach venues allow year-round play (Wikipedia, n.d.).
+
+Men's and women's teams compete in identical formats with separate classifications, and mixed events are also organized at beach festivals; at the end of 2026 the leading nations in international beach fistball remain Germany, Austria, Brazil and Switzerland, with the women's game growing particularly fast in Brazil and Germany (IFA, n.d.).
 
 ## Rules
 
-Beach fistball follows fistball rules adapted to sand: teams of five, the ball may be touched up to three times per side (block at the net counts), and a point is scored when the ball lands in the opponent's court, goes out, or the opponent commits a fault. The court is typically 25 m x 12.5 m (smaller than the 50 x 20 m grass court) with a net height around 2.00 m (2.10 m at some events; women's and youth categories may use lower nets). The serve is struck over the net with the fist or forearm after tossing the ball up. Matches at IFA beach events are best-of-five sets to 11 points (win by two, capped at 15). Sand play slows the ball and changes footing, making the game more athletic and rally-based than grass fistball.
+Beach fistball is played 4 against 4 on a sand court smaller than the 50 × 20 m grass field — typically about 24 × 12 m — surrounded by boundary lines, with a net whose top edge is set lower than in the outdoor game, commonly 1.90–2.00 m depending on the category (IFA, n.d.). The ball is the same light leather fistball (340–360 g, 65–68 cm circumference), and the core rules are unchanged: maximum three team contacts, at most one bounce between contacts, only fist and forearm may play the ball, no double hit and no carry (IFA, n.d.). The serve is taken from behind the back line, and the attack line 3 m from the net still applies; a player may not touch the net or cross under it (IFA, n.d.). Sets are played to 11 points with a two-point lead (cap 15) in a best-of-three or best-of-five format depending on the tournament (IFA, n.d.). Because the sand makes diving saves common, players often wear knee protection, and matches are usually played in warm conditions at beach resorts; fouls award a point to the opponent, exactly as in outdoor fistball (IFA, n.d.). Men and women play under the same rules with separate net heights and ball weights in youth classes, and youth categories U14–U18 exist (IFA, n.d.).
 
 ## History
 
-Beach fistball emerged in the 2000s as beach variants of court sports gained popularity, and the IFA formally added beach fistball to its competition calendar, holding world-level beach championships. Germany, Austria, Switzerland and Brazil are the leading nations, and beach fistball has been featured at beach multi-sport games and the World Games beach program discussions. The sport combines the striking technique of fistball with the agility demands of beach volleyball.
+Beach fistball developed in the 1990s as fistball clubs sought a summer variant playable on sand, inspired by [Beach Volleyball](beach-volleyball.html); the IFA formally recognized the beach format and added it to international tournament calendars, and national federations in Germany, Austria and Brazil began organizing beach fistball series (Wikipedia, n.d.). The variant spread with German and Austrian emigrants to South America, where Brazil became a beach fistball stronghold, and it is now played at beach sports festivals across Europe and the Americas (IFA, n.d.). Women's beach fistball grew rapidly from the 2000s onward, and mixed 4 × 4 events are a regular feature of beach tournament programs today (Wikipedia, n.d.).
 
 ## Sources
 
-- International Fistball Association. (n.d.). *Beach fistball rules and international events*. Retrieved November 21, 2026, from https://ifa.fistball.sport/
+- International Fistball Association. (n.d.). *Beach fistball rules and international tournament regulations*. Retrieved November 22, 2026, from https://www.ifa-fistball.com/
+- Wikipedia. (n.d.). *Fistball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Fistball
 
 ## Important Links
 
-- [IFA — International Fistball Association](https://ifa.fistball.sport/) — world governing body; beach fistball rules and events
-- [Fistball — full sport entry](fistball.html) — the grass court form of the sport on this site
+- [IFA — International Fistball Association](https://www.ifa-fistball.com/) — world governing body; beach fistball rules and events
+- [Fistball](fistball.html) on this site — the outdoor game
+- [Fistball Indoor](fistball-indoor.html) on this site — the hall variant
+- [Beach Volleyball](beach-volleyball.html) on this site — the beach variant of the closest relative

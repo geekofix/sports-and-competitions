@@ -1,20 +1,24 @@
 ## Basic Information
 
-Fire ball soccer (Sepak Bola Api in Indonesia) is a dramatic variant of football played with a coconut shell or ball wrapped in burning material, usually barefoot, traditionally as a welcome ritual before Ramadan in parts of Java, Indonesia. Players kick the flaming ball around a field at night, and the team that keeps it in play longest or scores most wins the spectacle.
+Fire-ball soccer (also called fire football or flaming-ball football) is an informal street and beach game in which a football-sized ball is wrapped in cloth soaked in a flammable liquid, set on fire, and then kicked around like a normal football — the fire is usually extinguished before the kick or the ball is kicked while burning, depending on the local variant (Wikipedia, n.d.). It is a novelty and party game rather than an organized sport: there is no world federation, no official rules and no regular competitions; it derives from the tradition of playing with burning balls, most famously the Purépecha *pasáratakua* fire-ball game of Michoacán, Mexico, see [Fire Hockey](fire-hockey.html) and [Pelota Purépecha](pelota-purepecha.html) on this site (Encyclopaedia Britannica, n.d.; Wikipedia, n.d.). Because a burning ball can cause serious burns, the game is only safe with wet balls, fire-extinguishing water nearby and adult supervision, and it is not recommended for children (Wikipedia, n.d.).
+
+The game is played equally by men and women at informal gatherings, beaches and festivals, in mixed teams without any classification, simply for entertainment (Wikipedia, n.d.).
 
 ## Rules
 
-In the Indonesian fire ball game, a dried coconut husk (batok kelapa) is soaked in kerosene and set alight, then kicked like a football on a dirt or grass field; players often play barefoot or in minimal footwear, and water is kept ready. Teams try to pass and shoot the flaming ball into a goal, or in informal versions simply keep it away from their own feet; the game ends when the fire burns out or after an agreed time, and the team with the most goals or best control wins. Because of the obvious burn risk, formal rules are minimal and safety measures (water buckets, playing on wet ground at night) are left to organizers.
+There is no codified rule set; local variants share a common pattern: a ball (usually an old football or a ball of rags) is wrapped in absorbent cloth, soaked with kerosene, petrol or lighter fluid, set alight and placed on open ground away from flammable materials, and players then play a casual game of [Football](football.html) — five-a-side or small-sided — with the burning ball, typically 5–10 minutes per half (Wikipedia, n.d.). In some variants the ball is doused with water immediately before kick-off so that only smoke and sparks remain; in others it is genuinely kicked while burning. Goals, kick-ins and throw-ins follow ordinary football conventions, with no offside in most street versions (Wikipedia, n.d.). Safety rules that responsible organizers apply are: play only on sand, wet grass or bare earth; keep a bucket of water and a fire extinguisher at the touchline; never use synthetic balls that can melt and drip burning plastic; and stop play immediately if the ball splits open (Wikipedia, n.d.). There are no age, gender or skill classifications — everyone plays at their own risk, and formal youth play is discouraged because of the burn hazard (Wikipedia, n.d.).
 
 ## History
 
-Sepak bola api is rooted in Javanese tradition, played in villages such as those around Yogyakarta and Pacitan as a Ramadan eve (malam takbiran) entertainment, sometimes combined with other fire games. The burning coconut ball symbolizes spirit and purification. The game gained international attention through viral videos and coverage on unusual-sports websites such as Top End Sports and BroBible. It remains an informal, local spectacle rather than an organized sport with a governing body.
+Playing with fire has ancient roots in fire festivals across Europe and in the Mesoamerican burning-ball games, but fire-ball soccer as a street pastime became known in the late 20th century, when videos of young people kicking flaming balls on beaches and at parties spread through early internet video platforms (Wikipedia, n.d.). The Mexican Purépecha *pasáratakua* — a hockey-like game with a burning wooden ball played at night — was broadcast internationally in the 1980s and inspired imitations in which a football was set on fire (Wikipedia, n.d.). No governing body was ever founded; the "sport" exists only as a recreational stunt, and many fire departments and safety authorities explicitly warn against it because of severe burn injuries (Wikipedia, n.d.).
 
 ## Sources
 
-- BroBible. (n.d.). *Fireball soccer — the craziest sports on Earth*. Retrieved November 20, 2026, from https://brobible.com/
-- Top End Sports. (n.d.). *Fireball — unusual sports from around the world*. Retrieved November 20, 2026, from https://www.topendsports.com/sport/unusual/fireball.htm
+- Encyclopaedia Britannica. (n.d.). *Mesoamerican ballgame*. Retrieved November 22, 2026, from https://www.britannica.com/sports/Mesoamerican-ballgame
+- Wikipedia. (n.d.). *Pelota purépecha*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pelota_purepecha
 
 ## Important Links
 
-- [Top End Sports — fireball sports](https://www.topendsports.com/sport/unusual/fireball.htm) — documentation of fire ball games including Indonesian sepak bola api
+- [Fire Hockey](fire-hockey.html) on this site — the Purépecha fire-ball game, the traditional origin of flaming-ball play
+- [Pelota Purépecha](pelota-purepecha.html) on this site
+- [Football](football.html) on this site — the ordinary game played with the burning ball

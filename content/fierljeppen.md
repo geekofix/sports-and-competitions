@@ -1,22 +1,33 @@
 ## Basic Information
 
-Fierljeppen (West Frisian for "far leaping") is the traditional Frisian sport of pole vaulting over a canal: the athlete runs up, plants a wooden pole (about 10 m long) in the canal bed and vaults as far as possible across the water. It is the national sport of Friesland (Netherlands), governed by the Ferskate Feriening, and recognized by UNESCO as intangible cultural heritage (Polsstokverspringen). See also [Canal Vaulting](canal-vaulting.html), the English name for the same sport.
+Fierljeppen (West Frisian for "pole vaulting over water", also known internationally as *polsstokverspringen*) is the traditional Frisian sport in which an athlete sprints down a runway, grabs a long pole, plants it in a water channel and swings up and over the water, landing on a sand bed; the distance from the take-off board to the landing mark is measured, and the longest jump wins (KBPB, n.d.; Wikipedia, n.d.-a). The sport is governed in Friesland by the Koninklijke Bond voor Polstokverspringen (KBPB), which keeps the official records and organizes the annual Nationale Fierljep Manifestatie (NFM), and it is part of Frisian cultural heritage, with a related tradition, Pultstockspringen, in East Frisia, Germany (Wikipedia, n.d.-b).
+
+At the end of 2026 the official records stand at 22.21 m for the senior men, set by Jaco de Groot of the Netherlands on 12 August 2017 in Zegveld and recognized by Guinness World Records; on the women's side Marrit van der Wal holds the ladies' record of 18.19 m, set on 31 July 2019 in Burgum; the under-20 record is 21.87 m by Germ Terpstra (5 July 2025) and the veterans' record 20.70 m by Thewis Hobma (21 June 2025); around 532 jumpers are registered in the Netherlands, about 190 of them in Friesland (KBPB, n.d.).
 
 ## Rules
 
-In official fierljeppen competitions (organized by the Feriening Ald Fryslân / fierljeppen.frl), the vaulter takes a running start on a wooden runway alongside the canal, plants the 10 m pole in a rubber-clad metal shoe at the canal bed, and swings over the water, aiming to land on the sloped bank on the far side. The distance is measured from the pole's planting point (or the water's edge in some classes) to the landing mark. Competitors get a set number of jumps (typically three), and the best counts; separate categories exist for men, women, boys, girls and veterans, with different pole lengths for juniors. The jump is judged valid if the vaulter lands on the bank without touching the water; touching the water with the body (a "splash") voids the jump. In the "straatfierljeppen" (street version), jumps are made from the street over narrow canals.
+The pole is made of carbon fiber, 8–13 m long, and carries a flat plate at the bottom that plants into the clay bed of the water channel; the runway beside the canal is about 20 m long, and the jumper sprints, grabs the pole at chest height, plants it and swings the body up the pole before letting go at the highest point and landing feet-first on the sand bed on the far side (KBPB, n.d.; Wikipedia, n.d.-a). The distance is measured from the take-off board to the mark the jumper leaves in the sand, and a jump is invalid if the jumper touches the water or lands with a hand in the sand (KBPB, n.d.). Competitions are organized in classes — senior men, ladies, under-20 juniors and veterans — with men and women jumping under the same rules but keeping separate records, and the best of three jumps counts in championship rounds (KBPB, n.d.). The pole may be gripped anywhere, and the jumper may slide the hands up the pole during the swing; the jump is judged solely by the landing mark in the sand (KBPB, n.d.). Safety rules regulate the water depth, require the sand bed to be raked before competition, and beginners start on shorter poles under supervision (KBPB, n.d.).
+
+![Fierljeppen in Linschoten, Netherlands](https://commons.wikimedia.org/wiki/Special:Redirect/file/Fierljeppen_in_Linschoten.jpg?width=560)
+
+*Figure: Peter van der Sluijs. (2017, September 23). Fierljeppen in Linschoten, Netherlands [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Fierljeppen_in_Linschoten.jpg*
 
 ## History
 
-Fierljeppen originated in Friesland in the 18th century, when farmers used long wooden poles to cross the many canals and ditches of the flat province. The first official competition was held in 1853 in Winsum. The sport became organized with the founding of the Feriening Ald Fryslân in 1945 (merging older associations), and the fierljeppen.frl now coordinates competitions, including the Dutch championship (NFM) in IJlst. The men's world record stands above 22 m, with the best jumps made in the Dutch championship (NFM) at IJlst. In 2018, UNESCO inscribed Polsstokverspringen (pole vaulting over water) on the Representative List of the Intangible Cultural Heritage of Humanity. The sport is also practiced in the Dutch province of Utrecht (Utrechtse fierljeppen) and in Belgium.
+Fierljeppen has been practiced in the Dutch province of Friesland since at least the 18th century, when farmers used long wooden poles to cross the many canals and ditches of the lowlands; the first official fierljeppen match is recorded in 1771, and in the 19th century wooden poles of up to 10 m were used before the switch to lighter materials (Wikipedia, n.d.-a). Competitive fierljeppen became structured in 1957 with the founding of the organized league in Friesland, and the Koninklijke Bond voor Polstokverspringen (KBPB) was established to govern the sport, keep records and run the annual Nationale Fierljep Manifestatie, which today draws the best jumpers of the season (KBPB, n.d.). The related East Frisian tradition of Pultstockspringen in Germany — where the jumper lands on a grass bank rather than sand — has been practiced since the 19th century and shares the same technique (Wikipedia, n.d.-b). The sport gained international attention when polsstokverspringen was included as a demonstration sport at the 1928 Amsterdam Olympics, and it remains a symbol of Frisian identity, with the NFM broadcast annually on Dutch television (Wikipedia, n.d.-a). Women's fierljeppen grew strongly from the 1990s onward, and the ladies' record has been broken repeatedly since Marrit van der Wal's 18.19 m in 2019 remained the benchmark for seven years (KBPB, n.d.).
 
 ## Sources
 
-- Ferskate Feriening Ald Fryslân. (n.d.). *Official fierljeppen competition rules*. Retrieved November 20, 2026, from https://www.fierljeppen.frl/
-- UNESCO. (2018). *Polsstokverspringen — intangible cultural heritage*. https://ich.unesco.org/en/RL/polsstokverspringen-01351
+- Koninklijke Bond voor Polstokverspringen. (n.d.). *Official rules, classes and records of fierljeppen (polsstokverspringen)*. Retrieved November 22, 2026, from https://www.polsstokbond.nl/
+- Wikipedia. (n.d.-a). *Fierljeppen*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Fierljeppen
+- Wikipedia. (n.d.-b). *Pultstockspringen*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pultstockspringen
+
+### Figure Index
+
+- Peter van der Sluijs. (2017, September 23). *Fierljeppen in Linschoten* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Fierljeppen_in_Linschoten.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Fierljeppen.frl — Feriening Ald Fryslân](https://www.fierljeppen.frl/) — official Frisian governing body; competition rules and Dutch championship
-- [UNESCO — Polsstokverspringen](https://ich.unesco.org/en/RL/polsstokverspringen-01351) — intangible cultural heritage listing (2018)
-- [Canal Vaulting — full sport entry](canal-vaulting.html) — English-language overview of the same sport on this site
+- [KBPB — Koninklijke Bond voor Polstokverspringen](https://www.polsstokbond.nl/) — Frisian governing body; records, NFM, competition calendar
+- [Nationale Fierljep Manifestatie](https://www.nfm.frl/) — the annual championship event in Friesland
+- [Fierljeppen Bond Friesland](https://www.fierljeppen.nl/) — regional federation with rules and results

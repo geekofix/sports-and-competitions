@@ -1,22 +1,41 @@
 ## Basic Information
 
-Five-a-side football is small-sided football played with five players per team, and it exists in two main organized forms: futsal, governed by FIFA (FIFA Futsal World Cup since 1989), and AMF futsal (Asociación Mundial de Futsal), the successor of FIFUSA (founded 1971 in Rio de Janeiro, reorganized as AMF in 2002, headquartered in Asunción, Paraguay), which runs the AMF Futsal World Cup every four years since 1982. A third body, the World Minifootball Federation (WMF), organizes minifootball (5-a-side on a smaller pitch) world cups.
+Five-a-side football covers the small-sided forms of [Football](football.html) played with five players per team — four outfield players plus a goalkeeper — on a reduced pitch with smaller goals: the two codified versions are futsal, the indoor game governed by FIFA and played worldwide, and blind football (five-a-side football for visually impaired athletes), a Paralympic sport governed by the International Blind Sports Association (IBSA) since its Paralympic debut at Athens 2004 (FIFA, n.d.-a; IBSA, n.d.). Futsal is played on a hard court of 40 × 20 m (25 × 15 m minimum) with a low-bounce ball and kick-ins instead of throw-ins; blind football is played outdoors on a pitch of up to 40 × 20 m enclosed by boards or guide ropes, with a ball that contains bells so players can hear it (FIFA, n.d.-a; IBSA, n.d.). Related formats include the EMF miniEURO for amateur minifootball in Europe and the ISF's six-a-side socca (FIFA, n.d.-b; Wikipedia, n.d.-a).
+
+At the end of 2026, the leading women were Brazil's futsal team, winners of the inaugural FIFA Futsal Women's World Cup in the Philippines (21 November–7 December 2025), where they beat Portugal 3–0 in the final; in blind football, France won the men's gold medal at the Paris 2024 Paralympics, ending Brazil's run of five consecutive Paralympic titles, with Argentina silver and Brazil bronze (FIFA, n.d.-b; IBSA, n.d.).
 
 ## Rules
 
-Under FIFA futsal rules, two teams of five (one goalkeeper plus four outfield players) play on a 40 m x 20 m hard court with a low-bounce ball, four-second goalkeeper possession limit, accumulated fouls (free kick from 10 m after the fifth foul per half), kick-ins instead of throw-ins, and rolling substitutions ("flying goalkeeper" allowed). Matches are two 20-minute halves, and the FIFA Futsal World Cup uses group stages and knockouts. Under AMF rules, the game is closer to the original South American futsal: 5 players, played on a 40 x 20 m court (or smaller), with a heavier ball in some eras, sliding tackles restricted, and the AMF World Cup (2023 in Mexico, won by Paraguay 6-1 over Uruguay) deciding the AMF champion every four years. Minifootball (WMF) is typically played on smaller pitches (around 46 m x 26 m) with 5-a-side teams, in some variants surrounded by boards.
+Futsal (FIFA Laws of the Game, Futsal): two teams of five — four outfield players and one goalkeeper — play on a 40 × 20 m court (minimum 25 × 15 m) with goals of 3 × 2 m, in two 20-minute halves of stopped time (the clock stops when the ball is out); the ball is a size 4 low-bounce ball of 400–440 g (FIFA, n.d.-a). Restart are kick-ins, corner kicks and goal kicks; there is no offside; the goalkeeper may hold the ball for at most 4 seconds and may not receive a deliberate back-pass kicked in by a teammate (FIFA, n.d.-a). Fouls are punished with direct free kicks, and from the sixth accumulated foul per team per half a direct free kick is taken from the second penalty mark (10 m) without a wall; penalty kicks from 6 m; yellow and red cards exist, and a player sent off plays shorthanded for 2 minutes or until a goal is scored (FIFA, n.d.-a). Men's and women's futsal share identical laws with adapted ball pressure and youth categories (FIFA, n.d.-a).
+
+Blind football (IBSA): two teams of five — four blind outfield players (classification B1, totally or partially blind) plus a sighted goalkeeper — play on a 40 × 20 m pitch enclosed by boards or ropes about 1–1.5 m high, with goals of 3 × 2 m, in two halves of 25 minutes of stopped time (IBSA, n.d.). The ball has internal bells; there is no offside; when the ball goes out over a side board it is a kick-in, and behind the goal it is a corner or goal kick; the goalkeeper may pick up the ball in the penalty area and and the sighted goalkeeper directs the defence and may handle the ball in the penalty area (IBSA, n.d.). Teams may use sighted guides behind each goal who call out the position of the goal (IBSA, n.d.). Tackling is limited — a defender must shout "voy" (Spanish for "I'm here") before challenging for the ball, and dangerous play is a foul (IBSA, n.d.). Classification B1 applies to all outfield players; men's and women's tournaments share the same rules, with the Paralympic tournament currently men-only (IBSA, n.d.).
+
+![Blind football match](https://commons.wikimedia.org/wiki/Special:Redirect/file/2012-09-22_sarikaya_pektas.jpg?width=560)
+
+*Figure: Michael Lucan. (2012, September 22). Blind football (five-a-side) match [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:2012-09-22_sarikaya_pektas.jpg*
 
 ## History
 
-Futsal originated in Uruguay and Brazil in the 1930s (Juan Carlos Ceriani codified rules in Montevideo in 1930 for indoor YMCA play). FIFUSA was founded in Rio in 1971 and held the first futsal world championship in 1982 (won by Brazil). When FIFA launched its own futsal in 1989, the two bodies split; FIFUSA became the AMF in 2002. FIFA's version became dominant in Europe and worldwide, with the FIFA Futsal World Cup (2024 in Uzbekistan, won by Brazil), while the AMF championship continues in South America (Paraguay the most successful nation). Minifootball (WMF) developed separately in the 2000s with its own world cup.
+Futsal's origins lie in 1930s South America — the game was codified in Uruguay by Juan Carlos Ceriani in 1930 for indoor play in gymnasiums — and it spread through Brazil and the rest of the continent before FIFA adopted the Laws of the Game in 1989 and staged the first FIFA Futsal World Cup in the Netherlands in 1989, won by Brazil (FIFA, n.d.-a; Wikipedia, n.d.-a). Blind football was developed in the 1980s–90s, notably in Spain and Sweden, with the bell ball enabling visually impaired players to track it, and it became a Paralympic medal sport at Athens 2004 (IBSA, n.d.). Brazil won every Paralympic men's blind football tournament from 2004 to 2020; at Paris 2024 France won the gold medal for the first time, with Argentina silver and Brazil bronze (IBSA, n.d.). The inaugural FIFA Futsal Women's World Cup was held in the Philippines in November–December 2025, won by Brazil over Portugal 3–0 (FIFA, n.d.-b). Amateur minifootball in Europe is organized by the European Minifootball Federation (EMF, 32 member associations), which runs the miniEURO, while the International Socca Federation promotes six-a-side socca (Wikipedia, n.d.-a).
 
 ## Sources
 
-- AMF — World Futsal Association. (n.d.). *AMF futsal rules and AMF Futsal World Cup*. Retrieved November 20, 2026, from https://www.amfutsal.org/
-- FIFA. (n.d.). *Laws of the game — futsal*. Retrieved November 20, 2026, from https://www.fifa.com/
+- Fédération Internationale de Football Association. (n.d.-a). *Futsal — Laws of the Game*. Retrieved November 22, 2026, from https://www.fifa.com/
+- Fédération Internationale de Football Association. (n.d.-b). *Inaugural FIFA Futsal Women's World Cup — Philippines, 21 November–7 December 2025*. Retrieved November 22, 2026, from https://www.fifa.com/
+- International Blind Sports Association. (n.d.). *IBSA blind football (five-a-side) rules, classification B1 and Paralympic results*. Retrieved November 22, 2026, from https://www.ibsasport.org/
+- Wikipedia. (n.d.-a). *Blind football*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Blind_football
+- Wikipedia. (n.d.-b). *Futsal*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Futsal
+
+### Figure Index
+
+- Michael Lucan. (2012, September 22). *2012-09-22 sarikaya pektas* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:2012-09-22_sarikaya_pektas.jpg (CC BY 3.0)
 
 ## Important Links
 
-- [FIFA — futsal](https://www.fifa.com/) — world governing body of football including futsal; Laws of the Game and FIFA Futsal World Cup
-- [AMF — World Futsal Association](https://www.amfutsal.org/) — alternative world futsal body (ex-FIFUSA); AMF Futsal World Cup since 1982
-- [Futsal — full sport entry](futsal.html) — detailed futsal page on this site
+- [FIFA — futsal](https://www.fifa.com/tournaments/futsalworldcup) — world governing body; Laws of the Game and Futsal World Cups
+- [FIFA Futsal Women's World Cup 2025 Philippines](https://www.fifa.com/) — inaugural women's tournament
+- [IBSA — International Blind Sports Association](https://www.ibsasport.org/) — blind football rules and Paralympic football
+- [European Minifootball Federation (EMF)](https://www.minifootball.org/) — miniEURO and European minifootball
+- [Football](football.html) on this site
+- [Blind Football](blind-football.html) on this site — the Paralympic discipline
+- [Futsal](futsal.html) on this site
