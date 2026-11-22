@@ -1,22 +1,35 @@
 ## Basic Information
 
-Kata is the form discipline of karate: a solo performance of a pre-arranged sequence of techniques — stances, blocks, strikes and kicks — performed against imaginary opponents, judged for technical correctness, power, speed, breathing and spirit. It is one of the two competition disciplines of the World Karate Federation (WKF), alongside kumite, and was part of karate's Olympic debut at Tokyo 2020 and Paris 2024. For the general sport, see [karate](karate.html).
+Kata is the pre-arranged form discipline of karate: the competitor performs a choreographed sequence of strikes, blocks and stances against imaginary opponents while a panel of judges scores the performance (World Karate Federation, n.d.-a; Wikipedia, n.d.-a). Only kata from the official World Karate Federation (WKF) list of about 102 recognized forms (Appendix 2 of the WKF Kata Competition Rules) may be performed at WKF events, and every kata must demonstrate realistic combat application (*bunkai*) — theatrical elements such as stamping, chest slapping or exaggerated exhalation are penalized (World Karate Federation, n.d.-a). Competitors wear a red (*aka*) or blue (*ao*) karategi according to the draw (World Karate Federation, n.d.-a). At the top of the women's event stand Grace Lau of Hong Kong, who won the 2025 World Championship in Cairo with 46.10 points against Maho Ono of Japan's 43.30, and Maho Ono herself, who took kata gold at the 2026 Asian Games in Aichi-Nagoya (Wikipedia, n.d.-b); on the men's side, Hikaru Ono of Japan was the 2023 world champion (Wikipedia, n.d.-b).
+
+![A karateka performing kata at the WKA World Championship 2011 in Karlsruhe](https://commons.wikimedia.org/wiki/Special:Redirect/file/WKA_World_Championship_2011_025.JPG?width=480)
+
+*Figure: Michelfelder, C. (2011, August 24). WKA World Championship 2011 025 [Photograph]. Wikimedia Commons. CC0 1.0 (public domain). https://commons.wikimedia.org/wiki/File:WKA_World_Championship_2011_025.JPG*
 
 ## Rules
 
-Under WKF rules, a competitor performs a kata from the official kata list (which includes forms from Shotokan, Goju-ryu, Shito-ryu, Wado-ryu and other styles) within a time limit, beginning and ending with a bow. A panel of judges (usually five or seven) awards a score to each performance; the highest and lowest scores are discarded and the remaining scores are added for the total, which decides placings in elimination rounds and medal matches. Competitors may perform bunkai (a short application of the kata's techniques with a partner) in some events. Team kata is also contested by three-member teams performing in synchronization.
+Kata at WKF level is governed by the WKF Kata Competition Rules, version 2026.0, effective 1 January 2026 (World Karate Federation, n.d.-a). In round-robin (elimination) rounds a panel of seven judges scores each performance; in other rounds five judges score it; the highest and lowest scores are eliminated and the remaining scores are summed to give the final score (World Karate Federation, n.d.-a). In medal rounds, ties are broken by the judges' red/blue flags in a flag ceremony, and the four top-ranked athletes in the WKF World Ranking are seeded for World Championships and Karate 1 events (World Karate Federation, n.d.-a). Only kata from the official WKF list may be performed, the performance must show martial spirit (*kime*) and realistic fighting against imaginary opponents, and the time allowed depends on the category (World Karate Federation, n.d.-a). Competitions are divided into senior, junior and cadet age classes, with men's and women's events held separately under identical rules, plus para karate kata classes for athletes with intellectual, visual or physical impairments (World Karate Federation, n.d.-a; Wikipedia, n.d.-a). Rule source: World Karate Federation, https://www.wkf.net/ (World Karate Federation, n.d.-a).
 
 ## History
 
-Kata developed in Okinawa and Japan as a way to preserve and transmit fighting techniques in peacetime; masters recorded their methods in kata so students could practice alone. Anko Itosu created simplified kata (Pinan, Naihanchi) for schoolchildren in the early 1900s, and Gichin Funakoshi systematized kata teaching in the Shotokan school from 1922. The Dai Nippon Butoku Kai standardized a core set of kata in 1912, which influenced modern competition. Kata has been an Olympic medal event since Tokyo 2020, where Spain's Sandra Sánchez won gold and Japan's Kiyou Shimizu took silver.
+The kata of modern karate descend from the fighting forms of Okinawa's Shuri-te and Naha-te lineages, such as Kusanku and Passai (Wikipedia, n.d.-a). In the early 20th century Ankō Itosu (1831–1915) created the five Pinan kata (later renamed Heian) and simplified other forms so that karate could be taught as physical education in Okinawan schools from 1901 (Wikipedia, n.d.-b). Gichin Funakoshi (1868–1957) standardized and renamed these forms — Heian Shodan through Godan — for his Shotokan school and taught them at the first Shotokan dojo in Mejiro, Tokyo, from 1936; his son Yoshitaka Funakoshi (1906–1975) further developed the curriculum (Wikipedia, n.d.-b). The WKF, founded in 1970, codified the international kata list that today numbers about 102 forms from many styles (World Karate Federation, n.d.-a). Kata entered the Olympic program at Tokyo 2020, where Sandra Sánchez of Spain won the women's gold and Damián Quintero silver, and Ryo Kiyuna of Japan the men's gold (International Olympic Committee, n.d.). Icons of the discipline include Itosu, Funakoshi and the Olympic champion Sandra Sánchez, a multiple world champion (Wikipedia, n.d.-b).
 
 ## Sources
 
-- International Olympic Committee. (n.d.). *Karate kata at the Olympic Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports?slug=karate
-- World Karate Federation. (n.d.). *WKF kata competition rules and kata list*. Retrieved November 20, 2026, from https://www.wkf.net/
+- International Olympic Committee. (n.d.). *Karate at the Olympic Games — kata events, Tokyo 2020*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports?slug=karate
+- Wikipedia. (n.d.-a). *Kata (karate)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kata_(karate)
+- Wikipedia. (n.d.-b). *Kata (karate) — history, Itosu's school kata, Funakoshi, WKF kata list, Olympic and world champions*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kata_(karate)
+- World Karate Federation. (n.d.-a). *WKF Kata Competition Rules, version 2026.0, effective January 1, 2026 — judges, scoring, kata list Appendix 2*. Retrieved November 22, 2026, from https://www.wkf.net/documents
+- World Karate Federation. (n.d.-b). *WKF World Ranking*. Retrieved November 22, 2026, from https://www.wkf.net/ranking
+
+### Figure Index
+
+- Michelfelder, C. (2011, August 24). *WKA World Championship 2011 025* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:WKA_World_Championship_2011_025.JPG (CC0 1.0)
 
 ## Important Links
 
-- [World Karate Federation (WKF)](https://www.wkf.net/) — official kata list and competition rules; World Championships
-- [Karate at the Olympics](https://www.olympics.com/en/olympic-games/olympic-sports?slug=karate) — Olympic kata since Tokyo 2020
-- [Karate — overview](karate.html) — the parent sport on this site
+- [World Karate Federation (WKF)](https://www.wkf.net/) — world governing body; kata competition rules
+- [WKF documents — Kata Competition Rules 2026](https://www.wkf.net/documents) — official kata list, judging system
+- [WKF World Ranking](https://www.wkf.net/ranking) — official kata rankings
+- [Karate at the Olympics](https://www.olympics.com/en/olympic-games/olympic-sports?slug=karate) — kata at Tokyo 2020
+- [Karate](karate.html) on this site — [Karate kumite](karate-kumite.html) on this site
