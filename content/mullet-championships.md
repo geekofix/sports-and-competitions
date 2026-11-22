@@ -1,24 +1,30 @@
 ## Basic Information
 
-Mullet championships are novelty contests that crown the best "mullet" hairstyle — short at the front and sides, long at the back, famously described as "business in the front, party in the back". The best-known event is the USA Mullet Championships, which calls itself the nation's official mullet-ranking authority and runs divisions for kids, teens, men, women (the "femulet") and over-55s. Entries are submitted online with front, side and back photos plus a name for the haircut, and winners are chosen by public voting combined with a judges' panel.
+Mullet championships are novelty contests that crown the best "mullet" hairstyle — short at the front and sides, long at the back, famously described as "business in the front, party in the back" (Wikipedia, n.d.). The women's division, the "femulet", is a full competitive category alongside the men's, kids', teens' and over-55 divisions, and women's winners are crowned every year (Inside Edition, n.d.). The best-known event is the USA Mullet Championships, which calls itself the nation's official mullet-ranking authority; entries are submitted online with front, side and back photos plus a name for the haircut, and winners are chosen by public voting combined with a judges' panel (Inside Edition, n.d.).
+
+![An example of a modern mullet hairstyle](https://commons.wikimedia.org/wiki/Special:Redirect/file/Modern_Mullet.jpg?width=400)
+
+*Figure: Wordzandguitar. (2020, August 8). An example of a "modern mullet" hair style [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Modern_Mullet.jpg*
 
 ## Rules
 
-Contestants submit photos of their mullet and campaign for votes online; each division advances a shortlist (for example 25 finalists) to a final voting round. Points come from fan votes and from fundraising for the event's charity partners, and a panel of judges additionally scores length, style, uniqueness and showmanship. Winners receive a cash prize (up to several thousand dollars), a championship belt and sponsor swag. Divisions are split by age: kids (up to about 12), teens (13-17), men's open, women's femulet and a 55+ category. Entry fees and donations go to charities such as Stop Soldier Suicide, Maggie's Wigs 4 Kids of Michigan and Jared Allen's Homes for Wounded Warriors.
+Contestants submit photos of their mullet and campaign for votes online; each division advances a shortlist of finalists (for example 25) to a final voting round (Inside Edition, n.d.). Points come from fan votes and from fundraising for the event's charity partners, and a panel of judges additionally scores length, style, uniqueness and showmanship (Inside Edition, n.d.). Winners receive a cash prize (up to several thousand dollars), a championship belt and sponsor swag (Inside Edition, n.d.). Divisions are split by age and gender: kids (up to about 12), teens (13–17), women's femulet, men's open and a 55+ category — the rules are identical for women and men, only the division differs (Inside Edition, n.d.). Entry fees and donations go to charities such as Stop Soldier Suicide, Maggie's Wigs 4 Kids of Michigan and Jared Allen's Homes for Wounded Warriors (Inside Edition, n.d.).
 
 ## History
 
-The mullet hairstyle peaked in popularity in the 1970s and 1980s and has been known by names such as hockey hair, Tennessee top hat and Texas tailgate; it saw a revival during the COVID-19 pandemic lockdowns. The USA Mullet Championships was founded in 2020 by Michigan small-business owner Kevin Begola as the Michigan Mudflap Contest and expanded into a national online event with kids, teens, men and women's divisions; by 2023 more than 1,000 children and teens had entered, and the contests were covered by NPR, USA Today, CNET and ESPN's ESPN8: The Ocho. Regional and local mullet contests are also held across the United States and elsewhere.
+The mullet hairstyle peaked in popularity in the 1970s and 1980s and has been known by names such as hockey hair, Tennessee top hat and Texas tailgate; the term was apparently coined, and certainly popularized, by the Beastie Boys in their 1994 song "Mullet Head" (Wikipedia, n.d.). It saw a major revival during the COVID-19 pandemic lockdowns of 2020, when salons were closed — i-D called 2020 "the year of the mullet" — and in August 2023 Tami Manis of Knoxville, Tennessee, set a Guinness World Record with a 172.72 cm (68 in) mullet grown over 33 years (Wikipedia, n.d.). The annual USA Mullet Championships began in 2020 in Michigan and went viral the same year, turning the haircut into an organized online competition with national media coverage (Inside Edition, n.d.; Wikipedia, n.d.).
 
 ## Sources
 
-- CNET. (n.d.). *Vote now in the USA Mullet Championships: They're a big hairy deal*. Retrieved November 20, 2026, from https://www.cnet.com/culture/internet/vote-now-in-usa-mullet-championships-theyre-a-big-hairy-deal/
-- NPR. (n.d.). *America's next top mullet will soon be crowned*. Retrieved November 20, 2026, from https://www.npr.org/2022/10/11/1128235512/mullet-championships-best-competition-2022
-- NPR. (n.d.). *The national kid mullet contest is back — and the hairdos are longer and wilder*. Retrieved November 20, 2026, from https://www.npr.org/2023/08/11/1193461404/the-national-kid-mullet-contest-is-back-and-the-hairdos-are-longer-and-wilder
-- USA Today. (n.d.). *Over 1,000 kids are competing in the 2023 Mullet Championships*. Retrieved November 20, 2026, from https://www.usatoday.com/story/news/nation/2023/07/24/mullet-champ-2023-competition/70456481007/
+- Inside Edition. (n.d.). *Show off your rockin' mullet at the USA Mullet Championships*. Retrieved November 22, 2026, from https://www.insideedition.com/show-off-your-rockin-mullet-at-the-usa-mullet-championships-76072
+- Wikipedia. (n.d.). *Mullet (haircut)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mullet_(haircut)
+
+### Figure Index
+
+- Wordzandguitar. (2020, August 8). *An example of a "modern mullet" hair style* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Modern_Mullet.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [USA Mullet Championships](https://www.mulletchamp.com/) — the national mullet contest with kids, teens, men, women and 55+ divisions
-- [NPR — America's next top mullet will soon be crowned](https://www.npr.org/2022/10/11/1128235512/mullet-championships-best-competition-2022) — report on the 2022 championship and its voting format
-- [NPR — the national kid mullet contest is back](https://www.npr.org/2023/08/11/1193461404/the-national-kid-mullet-contest-is-back-and-the-hairdos-are-longer-and-wilder) — over 900 kids entered the 2023 contest
+- [USA Mullet Championships — official Instagram](https://www.instagram.com/mulletchampusa/) — official page of the national mullet competition
+- [Mullet (haircut) — Wikipedia](https://en.wikipedia.org/wiki/Mullet_(haircut)) — history, etymology and cultural significance of the hairstyle
+- [Inside Edition — USA Mullet Championships](https://www.insideedition.com/show-off-your-rockin-mullet-at-the-usa-mullet-championships-76072) — coverage of the competition format and divisions
