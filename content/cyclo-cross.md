@@ -1,21 +1,41 @@
 ## Basic Information
 
-Cyclo-cross is an off-road cycling race held in autumn and winter on short circuits (3-3.5 km laps) of grass, mud, sand and pavement, with artificial barriers that force riders to dismount and carry their bikes. Races last about 45-60 minutes for elites. It is governed by the Union Cycliste Internationale (UCI), which runs the Cyclo-cross World Cup and the UCI Cyclo-cross World Championships, and the sport is a candidate for future Olympic inclusion.
+Cyclo-cross is an off-road bicycle racing discipline in which riders complete multiple laps of a short circuit — 2.5 to 3.5 km — featuring barriers, sand pits, mud, grass and tarmac, carrying the bike over obstacles when required (Union Cycliste Internationale [UCI], n.d.-a). It is governed by the UCI and has been a UCI World Championships discipline since 1950 (UCI, n.d.-b). The 77th UCI Cyclo-cross World Championships took place in Hulst, Netherlands, from 30 January to 1 February 2026 on the 3.24 km Vestingscross course: in the elite races, Mathieu van der Poel of the Netherlands won his eighth world title, with Thibau Nys taking bronze on the men's side, while Lucinda Brand won her second women's elite title; the Netherlands also won the mixed team relay, and the U23 and junior titles went to Sente Dockx and Yorben Lauryssen and to Anželė Bukovská and Delano Heeren (UCI, n.d.-b). The 2026 season also featured the UCI Cyclo-cross World Cup series with rounds across Europe and the United States (UCI, n.d.-b). At the end of 2026, the leading current riders are — in the women's elite field — world champion Lucinda Brand (Netherlands), pictured below, and — in the men's elite field — eight-time world champion Mathieu van der Poel (Netherlands), also pictured below (UCI, n.d.-b).
+
+![Women's elite race at the 2026 UCI Cyclo-cross World Championships in Hulst](https://commons.wikimedia.org/wiki/Special:Redirect/file/WK_veldrijden_2026_-_12.jpg?width=560)
+
+*Figure: Rz98. (2026, January 31). WK veldrijden 2026 — women's elite [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:WK_veldrijden_2026_-_12.jpg*
+
+![Mathieu van der Poel in the men's elite race at the 2026 UCI Cyclo-cross World Championships in Hulst](https://commons.wikimedia.org/wiki/Special:Redirect/file/WK_veldrijden_2026_-_19.jpg?width=560)
+
+*Figure: Rz98. (2026, February 1). WK veldrijden 2026 — men's elite — Mathieu van der Poel [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:WK_veldrijden_2026_-_19.jpg*
 
 ## Rules
 
-Under the UCI cyclo-cross rules, riders complete as many laps as possible within the set time (about one hour for elite men), starting from a mass start on a circuit that includes barriers, sand pits, off-camber turns and sometimes stairs or a flyover. Riders must shoulder the bike over barriers. Pits allow wheel and bike changes. The first rider to finish wins. Equipment rules allow cantilever or disc brakes, drop handlebars and tires up to 33 mm (no limit at some events). Categories include elite men/women, under-23 and juniors.
+Under the UCI cycling regulations, cyclo-cross races are mass-start events over a closed circuit of 2.5–3.5 km repeated for a set number of laps — at the 2026 world championships the elite men completed eight laps for a total of 26.10 km (UCI, n.d.-a; UCI, n.d.-b). The course must include portable barriers no higher than 40 cm that riders jump, plus natural and artificial obstacles; riders may dismount and carry the bike (UCI, n.d.-a). Bikes are drop-handlebar cyclo-cross machines with knobby tires whose width is capped by UCI regulation (UCI, n.d.-a). A pit zone along the course allows wheel and bike changes; assistance outside the pit is limited (UCI, n.d.-a). Riders lapped by the leader may be pulled from the race in championship events, and dangerous riding, cutting the course or receiving outside help leads to relegation or disqualification by the commissaires' panel (UCI, n.d.-a). Classifications include elite men and women, under-23, juniors and masters, plus a mixed team relay at the world championships; all categories race under the same regulations, with women's and men's fields of equal standing (UCI, n.d.-a).
+
+![The Vestingscross course around the Tivoliweg at the 2026 UCI Cyclo-cross World Championships](https://commons.wikimedia.org/wiki/Special:Redirect/file/WK_veldrijden_2026_-_05.jpg?width=560)
+
+*Figure: Rz98. (2026, January 31). WK veldrijden 2026 — parcours — around the Tivoliweg [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:WK_veldrijden_2026_-_05.jpg*
 
 ## History
 
-Cyclo-cross began in France and Belgium in the early 1900s, when road cyclists raced across fields in winter for fitness; the first French national championship was in 1902, and the UCI held the first world championship in 1950 (won by Frenchman Jean Robic). The sport is deeply rooted in Belgium and the Netherlands, whose riders dominated for decades, with legends such as Erik De Vlaeminck and Mathieu van der Poel (who also wins road and mountain bike races).
+Cyclo-cross originated in the early twentieth century in France and Belgium, where road racers began cutting across fields in winter; the first French championship is dated to 1902, and stars such as Octave Lapize made the new discipline famous (Wikipedia, n.d.). The UCI has organized world championships since 1950, when Luxembourg hosted the first edition (UCI, n.d.-b). The record holders of the men's elite race are Erik De Vlaeminck of Belgium with seven titles (1967–1973) and Paul Herygers with three, while Adrie van der Poel dominated the 1990s and passed the legacy to his grandson Mathieu (Wikipedia, n.d.). On the women's side, the Dutch rider Daphny van den Brand won three world titles and helped establish the women's elite category that has been a full medal event at the worlds for decades (Wikipedia, n.d.).
 
 ## Sources
 
-- Union Cycliste Internationale. (n.d.). *Cyclo-cross*. Retrieved November 20, 2026, from https://www.uci.org/discipline/cyclo-cross/
-- Union Cycliste Internationale. (n.d.). *Disciplines and rules*. Retrieved November 20, 2026, from https://www.uci.org/
+- Union Cycliste Internationale. (n.d.-a). *Cyclo-cross regulations 2026*. Retrieved November 22, 2026, from https://www.uci.org/
+- Union Cycliste Internationale. (n.d.-b). *UCI cyclo-cross world championships 2026 Hulst — results*. Retrieved November 22, 2026, from https://www.uci.org/
+- Wikipedia. (n.d.). *Cyclo-cross*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Cyclo-cross
+
+### Figure Index
+
+- Rz98. (2026, January 31). *WK veldrijden 2026 — parcours — around the Tivoliweg* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:WK_veldrijden_2026_-_05.jpg (CC BY-SA 4.0)
+- Rz98. (2026, January 31). *WK veldrijden 2026 — women's elite* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:WK_veldrijden_2026_-_12.jpg (CC BY-SA 4.0)
+- Rz98. (2026, February 1). *WK veldrijden 2026 — men's elite — Mathieu van der Poel* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:WK_veldrijden_2026_-_19.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [UCI — Cyclo-cross](https://www.uci.org/discipline/cyclo-cross/) — discipline page; World Cup and World Championships
-- [UCI — Union Cycliste Internationale](https://www.uci.org/) — world governing body; official rules
+- [Union Cycliste Internationale — cyclo-cross](https://www.uci.org/) — world governing body; regulations, world championships, World Cup
+- [UCI cyclo-cross world championships](https://www.uci.org/) — official 2026 results from Hulst
+- See also [Cycling](cycling.html) on this site

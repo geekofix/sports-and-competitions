@@ -1,23 +1,31 @@
 ## Basic Information
 
-The crying baby festival (Naki Sumo, "crying sumo") is a traditional Japanese event held every April at Senso-ji temple in Asakusa, Tokyo, in which babies compete and the first to cry wins. Around 100 babies aged about 6 to 18 months take part, held up by a referee (gyoji) on a stage while parents in traditional dress try to make them cry by pulling faces. The tradition dates back more than 400 years and is based on the proverb "naku ko wa sodatsu" — the crying child grows well.
+The crying baby festival — Naki-zumo, the "crying sumo" ritual — is a more than 400-year-old event held at Senso-ji temple in Asakusa, Tokyo, in which babies are presented one at a time and the first infant to cry is declared the winner of the bout (Sensō-ji Temple, n.d.; Wikipedia, n.d.). The 2026 edition took place on 25 April 2026 with around 100 babies, following the festival's return after the COVID-19 pause (Kyodo News, 2026, April 25). Each baby, aged between about 6 and 18 months, is held aloft on a raised stage by a gyoji — a student sumo wrestler wearing a kabuto helmet — who tries to provoke tears with funny faces and sounds, while parents cheer and may encourage their child from the sidelines (Sensō-ji Temple, n.d.). If two babies cry at the same time, the louder or longer cry wins (Wikipedia, n.d.). The festival rests on the Japanese proverb that a crying baby grows up strong and healthy, so the "winner" is wished good fortune; both boys and girls take part, and a variant is also held at Gokoku Shrine in Hiroshima (Kyodo News, 2026, April 25; Wikipedia, n.d.).
+
+![A baby crying during the 2018 Naki Sumo Crying Baby Festival at Senso-ji, Asakusa, Tokyo](https://commons.wikimedia.org/wiki/Special:Redirect/file/Naki_Sumo_Crying_Baby_Festival_Sensoji_Asakusa_2018_1.jpg?width=560)
+
+*Figure: Brinacor. (2018, April 28). Naki Sumo Crying Baby Festival Sensoji Asakusa 2018 1 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Naki_Sumo_Crying_Baby_Festival_Sensoji_Asakusa_2018_1.jpg*
 
 ## Rules
 
-In each matchup, two babies face off on the stage; a gyoji (sumo referee) holds each baby, and the first baby to cry wins the bout and advances. If neither cries within a time limit, the louder or first-detected cry decides, and the gyoji may make the final call; in some years both advance. Parents and relatives cheer, dance and make faces to provoke tears, and some babies are handed between adults. There are no weight classes; participation is by entry, and the event is free to watch.
+There is no international federation for this temple-organized ritual competition; the format is set by Senso-ji (Sensō-ji Temple, n.d.). Babies between roughly 6 and 18 months old are eligible in Tokyo, while the Aomori variant accepts infants from 4 months to 2 years (Wikipedia, n.d.). Each bout is a display contest: the gyoji holds the baby and attempts to make it cry, and the first baby to cry wins the bout; simultaneous crying is decided in favor of the louder or longer cry (Sensō-ji Temple, n.d.). Around 100 babies take part per edition, and the atmosphere is festive rather than scored — there is no points table, only the sequence of bouts (Kyodo News, 2026, April 25). Men and women participate equally as parents, and boys and girls compete on the same terms in the bouts (Wikipedia, n.d.).
 
 ## History
 
-Naki Sumo has been held at Senso-ji for over 400 years, with records of baby-crying contests at the temple from the Edo period. The modern festival format with gyoji and a stage was formalized in the 20th century, and since the 2000s the event has drawn international media attention, with hundreds of babies and thousands of spectators. Similar baby-crying contests exist in other parts of Japan and in Thailand, but the Senso-ji Naki Sumo is the best known.
+The festival's roots at Senso-ji reach back more than 400 years into the Edo period, and it is closely tied to sumo culture and to the Shinto belief that a loud cry drives away evil spirits and strengthens a child (Wikipedia, n.d.). The event was suspended during the COVID-19 pandemic and returned on 22 April 2023 with 64 babies before resuming its full scale on 25 April 2026 (Kyodo News, 2026, April 25; Wikipedia, n.d.). Because it is a communal religious ritual rather than a federated sport, it has no individual champions or record holders — its continuity is carried by the temple and the participating families (Sensō-ji Temple, n.d.).
 
 ## Sources
 
-- Atlas Obscura. (n.d.). *Naki Sumo, the crying baby festival at Senso-ji*. Retrieved November 20, 2026, from https://www.atlasobscura.com/
-- Japanistry. (n.d.). *Naki Sumo — the crying baby festival in Tokyo*. Retrieved November 20, 2026, from https://www.japanistry.com/
-- Japan Travel. (n.d.). *Naki Sumo at Senso-ji temple*. Retrieved November 20, 2026, from https://en.japantravel.com/
+- Kyodo News. (2026, April 25). *Crying baby festival held at Tokyo's Sensoji temple*. https://english.kyodonews.net/
+- Sensō-ji Temple. (n.d.). *Naki-zumo (crying baby festival)*. Retrieved November 22, 2026, from https://www.sensoji.or.jp/
+- Wikipedia. (n.d.). *Naki-zumō*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Naki-zum%C5%8D
+
+### Figure Index
+
+- Brinacor. (2018, April 28). *Naki Sumo Crying Baby Festival Sensoji Asakusa 2018 1* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Naki_Sumo_Crying_Baby_Festival_Sensoji_Asakusa_2018_1.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Atlas Obscura — Naki Sumo](https://www.atlasobscura.com/) — history and photos of the crying baby festival
-- [Japan Travel — Senso-ji Naki Sumo](https://en.japantravel.com/) — visitor information for the April event
-- [Japanistry — Naki Sumo festival guide](https://www.japanistry.com/) — cultural background of the tradition
+- [Sensō-ji Temple](https://www.sensoji.or.jp/) — organizer of the Naki-zumo festival (no international federation exists; the event is temple-run)
+- [Kyodo News](https://english.kyodonews.net/) — coverage of the 2026 edition
+- See also [Sumo](sumo.html) on this site

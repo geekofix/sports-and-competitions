@@ -1,21 +1,31 @@
 ## Basic Information
 
-The Dakar Rally (Rally Dakar) is the world's toughest rally raid: a two-week cross-country marathon across deserts, dunes and rocky terrain, organized by the Amaury Sport Organisation (ASO) and branded Dakar. Since 2020 it has been held in Saudi Arabia, covering roughly 7,000-8,000 km with daily special stages of several hundred kilometres. Categories include cars, motorcycles, quads, side-by-side vehicles (SSV), trucks and a Classic category for vintage vehicles.
+The Dakar Rally — Rally Dakar — is an off-road endurance rally in which cars, motorcycles, side-by-side vehicles, trucks and production cars race thousands of kilometres of liaison and timed special stages across desert, dunes and rocky terrain (Amaury Sport Organisation [ASO], n.d.-a). It is organized by the Amaury Sport Organisation (ASO) and was founded by the French motorcyclist Thierry Sabine, who after getting lost in the desert during the 1977 Abidjan–Nice rally vowed to create a race across the Sahara (ASO, n.d.-b). The 48th edition ran from 3 to 17 January 2026 entirely in Saudi Arabia, with 317 starters and 247 finishers at the Yanbu bivouac: Nasser Al-Attiyah of Qatar won his sixth car title in a Dacia Sandrider in 48:56:53, Luciano Benavides of Argentina won the motorcycle class on KTM, the Americans Brock Heger and Max Eddy Jr. took a third consecutive side-by-side victory on a Polaris RZR, and Rokas Baciuška of Lithuania won the new Stock production-car class in a Land Rover Defender D7X-R (ASO, n.d.-a). It was announced on 25 October 2026 that the 2027 Dakar would not take place in Saudi Arabia (ASO, n.d.-a). Women compete in every class alongside men, with dedicated standings within the overall classifications (ASO, n.d.-a).
+
+![Dakar Rally route across the Salar de Uyuni salt flats](https://commons.wikimedia.org/wiki/Special:Redirect/file/Salar_de_Uyuni-21_%2853645113403%29.jpg?width=560)
+
+*Figure: Otávio Nogueira. (2024, February 18). Salar de Uyuni-21 (53645113403) [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni-21_(53645113403).jpg*
 
 ## Rules
 
-Under the Dakar regulations, each day consists of a liaison (road) section and a timed special stage; only the special stage counts toward the general classification, with time penalties for missing waypoints. Competitors navigate with a roadbook and GPS markers, and vehicles must be homologated for their category. Assistance is allowed between competitors, and bivouacs are set up each night. The overall leader after the final stage wins; there are also marathon stages with no assistance. Safety cars, medical helicopters and a large organization support the field.
+Under the ASO/FIA regulations, each edition comprises a prologue and around twelve timed special stages linked by liaison sections, with a bivouac moved daily (ASO, n.d.-a). Competitors navigate by a digital roadbook revealed shortly before each stage, and missing a waypoint incurs heavy time penalties; assistance is allowed on liaison sections but restricted in the specials (ASO, n.d.-a). Categories include cars (T1+ prototypes and T1.2), side-by-side vehicles (SSV), motorcycles, quads historically, trucks and the Stock class for near-production cars, each with its own classification, and a Marathon stage tests mechanical endurance (ASO, n.d.-a). Safety systems such as the Sentinel warning device and the Iritrack tracking are mandatory, and crews receive penalties for speeding in villages or missing safety checks (ASO, n.d.-a). There are no separate women's classes, but women compete and win in every category, and age/engine classes (e.g., motorcycles up to 450 cc) structure the fields (ASO, n.d.-a).
 
 ## History
 
-The rally was founded by French motorcyclist Thierry Sabine, who got lost in the desert during the 1975 Abidjan-Nice rally and decided to create a Paris-Dakar race; the first edition ran in December 1978/January 1979 from Paris to Dakar, Senegal, with about 170 vehicles. After Sabine's death in 1986 the event continued, moved to South America in 2009-2019 for safety reasons, and has been in Saudi Arabia since 2020 under a long-term agreement. Stéphane Peterhansel (France) holds the record with 14 titles across bikes and cars.
+Thierry Sabine started the first Paris–Dakar on 31 December 1978, and the first edition finished in Dakar on 1 January 1979 with 170 participants; the first winner was Cyril Neveu on a Yamaha motorcycle (ASO, n.d.-b). The rally became famous through winners such as the "Dakar Phoenix" — motorcycle winners Stéphane Peterhansel (six motorcycle and eight car titles, 14 overall) and car legends like Ari Vatanen and Pierre Lartigue (ASO, n.d.-b). The 2008 edition was cancelled for security reasons, and from 2009 to 2019 the race was held in South America; since 2020 it has run in Saudi Arabia until the 2026 edition (ASO, n.d.-b; Wikipedia, n.d.).
 
 ## Sources
 
-- Amaury Sport Organisation. (n.d.). *Dakar Rally*. Retrieved November 20, 2026, from https://www.aso.fr/
-- Dakar. (n.d.). *Official Dakar Rally site — regulations and history*. Retrieved November 20, 2026, from https://www.dakar.com/
+- Amaury Sport Organisation. (n.d.-a). *Dakar 2026 — results and classifications*. Retrieved November 22, 2026, from https://www.dakar.com/
+- Amaury Sport Organisation. (n.d.-b). *History of the Dakar rally*. Retrieved November 22, 2026, from https://www.aso.fr/
+- Wikipedia. (n.d.). *Dakar Rally*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dakar_Rally
+
+### Figure Index
+
+- Nogueira, O. (2024, February 18). *Salar de Uyuni-21 (53645113403)* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni-21_(53645113403).jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Dakar.com — official rally site](https://www.dakar.com/) — regulations, entries, results and live tracking
-- [ASO — Amaury Sport Organisation](https://www.aso.fr/) — organizer of the Dakar Rally
+- [Dakar Rally](https://www.dakar.com/) — official site; 2026 results, entries, route
+- [Amaury Sport Organisation](https://www.aso.fr/) — organizer of the Dakar
+- See also [Baja 1000](baja-1000.html) and [World Rally Championship](world-rally-championship.html) on this site

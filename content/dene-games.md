@@ -1,24 +1,22 @@
 ## Basic Information
 
-Dene Games are the traditional games of the Dene peoples of Canada's Northwest Territories: events of strength, endurance and guile contested with almost no equipment — finger pull, snow snake, stick pull, hand games and pole push. They have been a medal sport of the Arctic Winter Games since 1998 and are taught across northern communities as living cultural heritage.
-
-Each game expresses a subsistence skill or social tradition, from spear-throwing in winter travel to teamwork and mind games, and an all-around title awards the best combined individual performers.
+The Dene games are the traditional athletic contests of the Indigenous peoples of the Arctic — Dene, Inuvialuit, Inuit and Métis — and form the heart of the Arctic Winter Games (AWG), a biennial multi-sport and cultural festival for northern communities (Arctic Winter Games [AWG], n.d.-b; Wikipedia, n.d.). The five core Dene games are the finger pull, the stick pull, the snow snake, the hand games and the pole push, with an all-around championship combining them (AWG, n.d.-b). The 2026 Arctic Winter Games were held in Whitehorse, Yukon, from 8 to 15 March 2026 — relocated from the originally planned Yamal-Nenets region, with Yellowknife having declined — and the 2026 Traditional Games Championship took place in Yellowknife on 27–29 March with about 200 athletes competing in eight events (AWG, n.d.-a). The games are open to all genders within the defined age classes — Open Male, Junior Male, Junior Female and Juvenile Female — and since 2004 girls and women have also been allowed in the pole push, finger pull and hand games (AWG, n.d.-b; Wikipedia, n.d.).
 
 ## Rules
 
-Finger pull links two athletes index to index in a test of grip and pulling leverage; snow snake slides a carved stick along a snow track for distance; stick pull has two athletes pull a greased stick against each other from seated positions; the hand game is a team guessing game where one side hides objects in moving hands while the other guesses; pole push pits teams pushing a pole across a centre line in sitting back-push duels. Arctic Winter Games technical packages score each event with ulu medals for junior and open classes, and an all-around event aggregates scores from the individual events; officiating emphasizes athlete safety, as finger pull and stick pull stress joints and are run under strict technique and weight-class rules.
+Under the AWG traditional-games rules, each of the five core events has its own format (Arctic Winter Games [AWG], n.d.-b). Finger pull: two competitors hook index fingers and pull a short strap, best of three pulls, with sudden-death overtime. Stick pull: two competitors grip a greased wooden stick — originally a tool for ice fishing — with one hand, and the first to pull the opponent over the center line wins, best of three. Snow snake: a small wooden "snake" (historically wrapped in rabbit fur) is thrown by hand down a prepared snow track, and the longest throw wins. Hand games: one player hides a small marked object in one fist while a drummer distracts, and the guesser points to the hand holding it; points accumulate over rounds. Pole push: two competitors face each other chest-to-chest and push with a wooden pole, best of three, until one is forced back over the line (AWG, n.d.-b). Athletes compete in the Open Male, Junior Male, Junior Female and Juvenile Female classes, and medals are awarded per event plus an all-around title (AWG, n.d.-b). The same events are also played at the biennial Arctic Winter Games alongside sports such as badminton, hockey and dog sledding (AWG, n.d.-a).
 
 ## History
 
-The games come from Dene hunting and travel traditions of the boreal North — snow snake recalls spear-throwing across crusted snow, stick pull mimics pulling nets or game from the water. They were standard entertainment at gatherings long before formal competition, played between families and communities. The modern era of competition brought the Dene Games into the Arctic Winter Games programme (with Arctic Sports in 1990, and as its own sport from 1998), alongside cultural coaching camps and on-the-land teaching in Northwest Territories and Alberta schools.
+The Arctic Winter Games were founded in 1970 in Yellowknife by Alaska governor Walter J. Hickel, Northwest Territories commissioner Stuart M. Hodgson and Yukon commissioner James Smith, with about 500 athletes at the inaugural edition (Wikipedia, n.d.). The Dene games themselves reach back centuries as contests of strength and skill rooted in survival activities such as ice fishing, hunting and drumming, and they were included in the AWG from the start as the cultural core of the festival (AWG, n.d.-a; Wikipedia, n.d.). The games have been held every two years since 1970, with the 2026 edition in Whitehorse marking the return to Canada after the planned 2026 Yamal-Nenets games were relocated (AWG, n.d.-a).
 
 ## Sources
 
-- Arctic Winter Games: [Dene Games technical package](https://arcticwintergames.net/) Retrieved November 21, 2026, from 
-- Wikipedia: [Arctic sports and Dene games](https://en.wikipedia.org/wiki/Arctic_sports) Retrieved November 21, 2026, from 
+- Arctic Winter Games. (n.d.-a). *2026 Arctic Winter Games, Whitehorse — programme*. Retrieved November 22, 2026, from https://arcticwintergames.net/
+- Arctic Winter Games. (n.d.-b). *Traditional (Dene) games — rules and age classes*. Retrieved November 22, 2026, from https://arcticwintergames.net/
+- Wikipedia. (n.d.). *Dene games*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dene_games
 
 ## Important Links
 
-- [Arctic Winter Games](arctic-winter-games.html) — the festival where Dene Games are contested, on this site
-- [Arctic Sports](arctic-sports.html) — the Inuit traditional events alongside Dene Games, on this site
-- [Snowshoe Racing](snowshoe-racing.html) — another northern winter sport, on this site
+- [Arctic Winter Games](https://arcticwintergames.net/) — official site of the biennial games hosting the Dene games
+- See also [Arctic Winter Games](arctic-winter-games.html) and [Arctic sports](arctic-sports.html) on this site

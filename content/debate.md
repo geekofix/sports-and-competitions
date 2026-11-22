@@ -1,21 +1,22 @@
 ## Basic Information
 
-Competitive debating at school level is dominated by the World Schools Debating Championships (WSDC), an annual English-language tournament for high-school teams representing their countries, organized by WSDC Ltd (wsdcdebating.org) and involving more than 70 national teams. Teams use the World Schools format, a combination of British Parliamentary and Asia-Oceania styles, with three to five debaters per team delivering eight-minute speeches. National championships and regional events (such as the Asia World Schools Debating Championship, founded 2013) feed into the WSDC.
+Competitive debating is a structured form of public argumentation in which teams of students argue for and against a motion in front of a panel of judges, and it is governed at school level worldwide by the World Schools Debating Championship (WSDC) council (World Schools Debating Council [WSDC], n.d.-a; Wikipedia, n.d.). The 2026 World Schools' Debating Championship was held in Nairobi, Kenya, from 14 to 24 July 2026 — the first edition in East Africa — with more than 70 nations and over 700 debaters; in the Grand Final on 24 July, Canada defeated the defending champions India (WSDC, n.d.-b). The 2027 championship will be held in Sofia, Bulgaria (WSDC, n.d.-b). A parallel international youth event, the World Individual Debating and Public Speaking Championship (WIDPSC), was held in Bristol in April 2026, won by Flora Pan of Canada (WSDC, n.d.-b). Women and men compete on equal terms in mixed teams, and the format is identical for all (WSDC, n.d.-a).
 
 ## Rules
 
-Under the World Schools format, each debate has two teams (proposition and opposition), each with three to five speakers giving eight-minute speeches in a set order, followed by four-minute reply speeches from the last speaker of each side. Motions are impromptu (announced one hour before) or prepared. Panels of adjudicators award individual speaker points (typically 70-80 scale) and decide the team result; the team with more judges' ballots wins. Tournaments run eight preliminary rounds followed by a break to elimination rounds for the top teams. Best Speaker and best team awards are given.
+In the World Schools format, teams consist of three to five speakers, all aged between 14 and just under 20, and each team debates eight preliminary rounds — four with prepared motions announced in advance and four impromptu motions prepared in a short, fixed preparation time (World Schools Debating Council [WSDC], n.d.-a). Each debate has eight speeches: three team members each give an eight-minute constructive speech, followed by a four-minute reply speech; the reply is not ranked (WSDC, n.d.-a). A panel of judges ranks the teams from first to fourth and awards speaker points, and the team with the best combined ranks and points advances; the top teams reach the knockout rounds culminating in the Grand Final before a large panel (WSDC, n.d.-a). Motions cover politics, ethics, sport and culture, and both the proposition and opposition must be able to argue either side of prepared motions (WSDC, n.d.-a). There are no equipment rules, and gender plays no role in team composition or judging (WSDC, n.d.-a).
 
 ## History
 
-The WSDC was established in the 1990s and has grown into the largest school-level debating tournament in the world, with championships held annually since the late 1990s in rotating host countries; the 2023 edition in Hanoi, Vietnam, was won by Team USA, and WSDC 2026 is scheduled for Kenya (14-24 July 2026). The Asia World Schools Debating Championship began in Bangkok in 2013. Debating is also part of university competitions (World Universities Debating Championship, founded 1981) and national curricula in many countries.
+School debating championships began in Australia, and the first World Schools' Debating Championship was held in 1988 during Australia's Bicentennial celebrations, won by Canada; the "World Schools" name was adopted at the 1991 edition in Edinburgh (Wikipedia, n.d.). The championship has since grown into the largest school debating event on earth, rotating host countries across six continents, with the 2026 Nairobi edition marking its debut in East Africa (WSDC, n.d.-b). Because the competition is team-based, no individual icons dominate the record books, but national powerhouses such as Canada, India, Australia, England and the United States have defined its history (Wikipedia, n.d.).
 
 ## Sources
 
-- Harvard Debate Council Summer Workshops. (n.d.). *World Schools*. Retrieved November 20, 2026, from https://hdcsw.org/world-schools/
-- WSDC — World Schools Debating Championships. (n.d.). *Championships, resources and calendar*. Retrieved November 20, 2026, from https://www.wsdcdebating.org/
+- Wikipedia. (n.d.). *World Schools Debating Championships*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Schools_Debating_Championships
+- World Schools Debating Council. (n.d.-a). *World Schools debating format and rules*. Retrieved November 22, 2026, from https://www.wsdcdebating.org/
+- World Schools Debating Council. (n.d.-b). *WSDC 2026 Nairobi and WIDPSC 2026 Bristol — results*. Retrieved November 22, 2026, from https://www.wsdcdebating.org/
 
 ## Important Links
 
-- [WSDC — World Schools Debating Championships](https://www.wsdcdebating.org/) — official site; annual world championship and resources
-- [Harvard Debate Council — World Schools](https://hdcsw.org/world-schools/) — training and team information for the WSDC format
+- [World Schools Debating Council](https://www.wsdcdebating.org/) — world governing body of school debating; WSDC and WIDPSC
+- [HDCSW — World Schools](https://hdcsw.org/world-schools/) — historic championship information and past motions
