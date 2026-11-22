@@ -1,21 +1,35 @@
 ## Basic Information
 
-Korfball is a mixed-gender ball sport invented in 1902 by the Dutch teacher Nico Broekhuysen in Nääs, Sweden, where he designed it for a summer course: boys and girls should play together on equal terms. Two teams of eight players (four men and four women) play on a 40 m x 20 m field with a basket (korf) on a 3.5 m pole at each end; a goal is scored by throwing the ball through the opponents' korf from above. The International Korfball Federation (IKF), founded in 1933, governs the sport, which is played in more than 60 countries and is part of the World Games program.
+Korfball is a mixed-gender team ball sport invented in 1902 by the Dutch schoolteacher Nico Broekhuysen in Nääs, Sweden, adapting August Nääs's Swedish ringboll, and governed worldwide by the International Korfball Federation (IKF), founded on 11 June 1933 in Antwerp with its headquarters in Utrecht and more than 75 member federations (International Korfball Federation, n.d.-a; Wikipedia, n.d.-a). The defining feature of korfball is its mandatory mixed team: every team of eight fields four women and four men (an all-women team of eight is also permitted), so women are structurally central to the sport rather than an added category (International Korfball Federation, n.d.-b). Korfball was a demonstration sport at the 1920 and 1928 Olympic Games, has been on the World Games program since 1985, and was recognized by the International Olympic Committee in 1993; the IKF World Championship has been held every four years since 1978, with the Netherlands, Belgium and Chinese Taipei among the leading nations (Wikipedia, n.d.-b). In 2026 the IKF calendar included the U21 World Korfball Championship in Nilai, Malaysia (8–16 August 2026) and the Beach Korfball World Cup events in Portugal and Hainan, China (International Korfball Federation, n.d.-a).
+
+![Two korfball players competing for the ball during a two-on-two play](https://commons.wikimedia.org/wiki/Special:Redirect/file/Korfbal_dvojtakt.jpg?width=480)
+
+*Figure: Korfbal. (2020, May 13). Korfbal dvojtakt [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Korfbal_dvojtakt.jpg*
 
 ## Rules
 
-Under IKF rules, a match consists of two halves of 20 minutes. Players may not run with the ball, dribble or throw it to themselves; the ball is moved by passing, and a player may pivot on one foot while holding it. Defending is allowed only against an opponent of the same sex, at arm's length, without touching the ball or the thrower. A goal counts only if the ball passes through the korf from above without touching the pole; free passes and penalty throws are awarded for infringements. After each goal the teams switch ends, and the team with the most goals wins. The korf is placed one-sixth of the field length from each goal line.
+Korfball is played by two teams of eight — four female and four male players — on a rectangular court of 40 × 20 m indoors or 60 × 30 m outdoors, divided into two halves (International Korfball Federation, n.d.-b). Each half has a korf: a basket on top of a 3.5 m pole without a bottom plate, placed one sixth of the court length from each end line; a goal is scored when the ball passes through the korf from above (International Korfball Federation, n.d.-b). The official ball (size 5) has a circumference of 68.0–70.5 cm and weighs 425–475 g (International Korfball Federation, n.d.-b). Players may not run or dribble with the ball, may not hit it with fist, arm, leg or foot, may not hand it directly to a teammate, and — the signature rule — a player may not defend an opponent of the opposite gender; men guard men and women guard women (International Korfball Federation, n.d.-b). After each goal the game restarts with a free pass from under the korf; free passes are taken 2.5 m in front of the korf and penalties from the penalty spot on the line through the korf (International Korfball Federation, n.d.-b). A senior match consists of two halves of 20 minutes, with a change of halves; youth and age-group classes (U21, U19, U17) play shorter halves, and men's and women's all-female teams follow identical rules otherwise (International Korfball Federation, n.d.-b). Beach korfball, governed separately by the IKF beach programme, is played 4 v 4 — two women and two men — on a smaller sand court with a single korf (Wikipedia, n.d.-b). Rule source: International Korfball Federation, Rules of Korfball, https://korfball.sport/rules/ (International Korfball Federation, n.d.-b). See also [beach korfball](beach-korfball.html) on this site.
 
 ## History
 
-Nico Broekhuysen created korfball in 1902 in Sweden to give mixed groups a fair team game, and the first rules were published in 1903. The sport spread rapidly in the Netherlands and Belgium, and the International Korfball Federation was founded in 1933. Korfball is not an Olympic sport, but it has been on the World Games program since 1985 and the IKF organizes a World Championship every four years. The Netherlands and Belgium dominate international korfball, and the Dutch national team has traditionally been the one to beat.
+The game was devised in 1902 by Nico Broekhuysen, a Dutch teacher working at the Nääs school in Sweden, who adapted ringboll — invented by August Nääs in Finland in 1901 — so that boys and girls could play together, and introduced it at the 1902 gymnastics course in Nääs (Wikipedia, n.d.-a). It spread quickly in the Netherlands and Belgium, was a demonstration sport at the 1920 Antwerp and 1928 Amsterdam Olympic Games, and the International Korfball Federation (IKF) was founded on 11 June 1933 in Antwerp with eleven founding nations; its headquarters moved to Utrecht (Wikipedia, n.d.-b). The first World Championship was held in The Hague in 1978 and has been held every four years since, the sport entered the World Games in 1985 (Santa Clara), and the IOC granted full recognition in 1993 (Wikipedia, n.d.-b). Beach korfball was added to the international programme in the 2010s, with the first Beach Korfball World Championship in 2019 (Wikipedia, n.d.-b).
 
 ## Sources
 
-- International Korfball Federation. (n.d.). *Korfball — rules of the game*. Retrieved November 20, 2026, from https://korfball.org/
-- Topend Sports. (n.d.). *Korfball — mixed team ball sport overview*. Retrieved November 20, 2026, from https://www.topendsports.com/ballsports/korfball/index.htm
+- International Korfball Federation. (n.d.-a). *About the International Korfball Federation — founded 1933, members, IOC recognition, 2026 events*. Retrieved November 22, 2026, from https://korfball.sport/
+- International Korfball Federation. (n.d.-b). *Rules of Korfball 2026 — court, korf, ball, mixed-team and guarding rules*. Retrieved November 22, 2026, from https://korfball.sport/rules/
+- Wikipedia. (n.d.-a). *Korfball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Korfball
+- Wikipedia. (n.d.-b). *Korfball — Broekhuysen 1902, IKF 1933, World Championship 1978, World Games 1985, beach korfball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Korfball
+- World Korfball. (n.d.-a). *Live results and rankings — World Korfball Championships*. Retrieved November 22, 2026, from https://worldkorfball.sport/
+
+### Figure Index
+
+- Korfbal. (2020, May 13). *Korfbal dvojtakt* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Korfbal_dvojtakt.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [International Korfball Federation (IKF)](https://korfball.org/) — world governing body since 1933; rules, member federations and the World Championship
-- [Topend Sports — korfball](https://www.topendsports.com/ballsports/korfball/index.htm) — field, korf and scoring overview
+- [International Korfball Federation (IKF)](https://korfball.sport/) — world governing body since 1933; HQ Utrecht; World Championships, World Games
+- [IKF Rules of Korfball 2026](https://korfball.sport/rules/) — official rulebook (court, korf, ball, mixed-team rules)
+- [World Korfball — live results](https://worldkorfball.sport/) — results and standings of IKF competitions
+- [Beach Korfball](https://beachkorfball.sport/) — beach korfball programme and World Cup events
+- [Beach korfball](beach-korfball.html) on this site — [Handball](handball.html) on this site — team ball sports with goals

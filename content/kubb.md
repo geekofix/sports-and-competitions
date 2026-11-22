@@ -1,23 +1,32 @@
 ## Basic Information
 
-Kubb (Swedish for "block of wood") is a Swedish lawn game often called "Viking chess": two teams throw wooden batons to knock over the opponents' kubbs (wooden blocks), then throw the kubbs back into the opponents' half as field kubbs, and finally try to knock over the king, the large block in the center. A set consists of ten kubbs, one king and six batons on a 8 m x 5 m pitch. The annual Kubb World Championship has been held on the island of Gotland, Sweden, since 1995, and the US championship in Eau Claire, Wisconsin.
+Kubb is a lawn game from the Swedish island of Gotland, often called "Viking chess": teams take turns throwing wooden batons at standing wooden blocks (kubbs) on the opponent's half of the pitch, aiming to topple the king block last (Wikipedia, n.d.-a). The game is played casually across Scandinavia and increasingly worldwide, with organized competition under the World Kubb Championship (Kubb-VM) held annually on Gotland and national tournaments such as the US National Kubb Championship, first held in 2007 in Eau Claire, Wisconsin (Kubb World Championship, n.d.-a; USA Kubb, n.d.-a). Teams are mixed — women and men play together on the same team in both casual and championship kubb, and women's and mixed teams compete at the World Championship on equal terms (USA Kubb, n.d.-a). The 2012 US National Kubb Championship in Eau Claire is pictured below.
+
+![Teams playing at the 2012 US National Kubb Championship in Eau Claire, Wisconsin](https://commons.wikimedia.org/wiki/Special:Redirect/file/US_National_Kubb_Championship.jpg?width=480)
+
+*Figure: Joshfeathers. (2012, July 14). US National Kubb Championship [Photograph]. Wikimedia Commons. GFDL / CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:US_National_Kubb_Championship.jpg*
 
 ## Rules
 
-Under the World Championship rules, teams (typically six players) alternate throwing batons underarm from behind their baseline; batons must rotate end-over-end in flight. Base kubbs knocked over are thrown by the attacking team into the opponents' half and raised there as field kubbs. The attacking team must first clear all of the opponents' base kubbs before throwing at field kubbs, which must be cleared before the base kubbs again. The game is won by the team that knocks down all the opponents' kubbs and then the king with a baton — but if the king is felled before all other kubbs are down, the opposing team wins immediately. Both feet must stay behind the throwing line during the throw.
+Kubb is played on a rectangular pitch of 8 × 5 m marked with four corner sticks; each team starts with five baseline kubbs (10 × 15 × 15 cm blocks) standing on its baseline, and the equipment set contains ten kubbs, six throwing batons (about 30 cm long) and one larger king block, plus the corner markers (USA Kubb, n.d.-a). The attacking team throws its six batons underarm, end over end, from its baseline, trying to topple the opponent's field kubbs; any kubb knocked into the opponent's half is raised by the defending team at the spot where it came to rest, and a throw that lands outside the pitch without touching a kubb is a penalty throw that gives the opponents a second baseline throw (USA Kubb, n.d.-a). Once all five baseline kubbs of a team are down, its field kubbs must be cleared before the king may be attacked — toppling the king before that loses the game immediately (USA Kubb, n.d.-a). A team wins by toppling the opponent's king after clearing the field; in tournament play a match is decided best of three games, and teams may have one to six players (Kubb World Championship, n.d.-a). Men and women play under identical rules on mixed teams; there are no separate women's divisions at the World Championship (USA Kubb, n.d.-a). Rule sources: USA Kubb, https://www.usakubb.org/ (USA Kubb, n.d.-a), and Kubb World Championship, https://kubbvm.com/ (Kubb World Championship, n.d.-a).
 
 ## History
 
-Kubb is traditionally associated with the Vikings and the island of Gotland, where it is said to have been played for centuries, though historians note similar throwing games in ancient Egypt and elsewhere; the game became popular across Sweden in the 1990s, and factory-made sets (notably by Brio from 1998) spread it internationally. The first Kubb World Championship was organized in Rone on Gotland in 1995 and now draws hundreds of teams from many countries; by 2004, 168 teams from 8 nations competed. The US National Kubb Championship has been held annually in Eau Claire, Wisconsin, since 2007, and national associations now exist across Europe, North America and Australia.
+The game has been played on Gotland for centuries and is first documented in photographs from the island in the early 20th century; modern competitive kubb with standardized rules dates from around 1990, when the game was codified for organized play on Gotland (Wikipedia, n.d.-b). The annual Kubb World Championship (Kubb-VM) on Gotland grew from a local tournament into the de facto world championship, and the US National Kubb Championship began in 2007 in Eau Claire, Wisconsin, helping spread the game across North America, where USA Kubb now organizes national and regional tournaments (USA Kubb, n.d.-a; Kubb World Championship, n.d.-a). The name "Viking chess" reflects the Gotlandic imagery of the blocks rather than any historical Viking game (Wikipedia, n.d.-a).
 
 ## Sources
 
-- Kubb World Championship — VM i Kubb. (n.d.). *Rules in the World Championship*. Retrieved November 20, 2026, from https://www.kubbvm.com/en/about-the-kubb-world-championship/rules-in-the-wc/
-- Kubb World. (n.d.). *Kubb: the original Swedish throwing game*. Retrieved November 20, 2026, from https://www.kubb.world/the-game
-- Topend Sports. (n.d.). *Kubb (Viking chess) — rules and history*. Retrieved November 20, 2026, from https://www.topendsports.com/other/kubb/index.htm
+- Kubb World Championship. (n.d.-a). *Kubb-VM — World Championship on Gotland, rules and results*. Retrieved November 22, 2026, from https://kubbvm.com/
+- USA Kubb. (n.d.-a). *Rules of kubb — pitch, kubbs, batons, king, US National Championship*. Retrieved November 22, 2026, from https://www.usakubb.org/
+- Wikipedia. (n.d.-a). *Kubb*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kubb
+- Wikipedia. (n.d.-b). *Kubb — Gotland origins, early 20th-century documentation, codification around 1990*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kubb
+
+### Figure Index
+
+- Joshfeathers. (2012, July 14). *US National Kubb Championship* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:US_National_Kubb_Championship.jpg (GFDL / CC BY-SA 3.0)
 
 ## Important Links
 
-- [Kubb World Championship (VM i Kubb)](https://www.kubbvm.com/en/) — official World Championship on Gotland since 1995; complete rules in English
-- [Kubb World](https://www.kubb.world/) — rules, tournaments and national associations worldwide
-- [Topend Sports — kubb](https://www.topendsports.com/other/kubb/index.htm) — game pieces, pitch and scoring overview
+- [Kubb World Championship (Kubb-VM)](https://kubbvm.com/) — annual world championship on Gotland, Sweden; rules and results
+- [USA Kubb](https://www.usakubb.org/) — US national body; official rules and the US National Kubb Championship
+- [Kubb World](https://kubb.world/) — international kubb community, game rules and events

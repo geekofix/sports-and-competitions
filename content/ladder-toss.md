@@ -1,21 +1,29 @@
 ## Basic Information
 
-Ladder toss (also called ladder ball or ladder golf) is a lawn game in which players or teams of two throw bolas — two golf balls joined by a short nylon rope — at a freestanding ladder with three rungs, trying to wrap the bola around a rung. The two ladders stand about 15 feet (4.6 m) apart, and each player throws three bolas per round. It is one of the most popular backyard and tailgate games in the United States and is played worldwide at parties, campgrounds and tournaments.
+Ladder toss — also known as ladder golf, ladder ball, bolo ball, blongo ball or hillbilly golf — is an American lawn throwing game in which players or teams toss bolas (two balls joined by a short rope) at a pair of freestanding ladders, aiming to hang the bolas on the rungs (Wikipedia, n.d.-a). The game was invented by Robert G. Reid, a postman from Hanover, Pennsylvania, who filed the patent application in November 1999 and received the patent in 2002; he sold the rights in March 2005 to Ladder Golf LLC, which organized the first sponsored tournament in San Diego in April 2005 with 32 teams (Ladder Golf LLC, n.d.-a; Wikipedia, n.d.-b). Today ladder toss is played at tailgates, cornhole-style tournaments and backyard parties across North America, with men and women competing together in mixed teams and casual singles — there are no gender divisions (Wikipedia, n.d.-a).
+
+![A ladder golf (ladder toss) game set up on a lawn in Alberta, Canada](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ladder_golf_game_in_Alberta,_Canada.jpg?width=400)
+
+*Figure: Joli Rumi. (2024, October 14). Ladder golf game in Alberta, Canada [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ladder_golf_game_in_Alberta,_Canada.jpg*
 
 ## Rules
 
-Each player or team throws three bolas per turn from behind a toss line, without stepping over it; opponents may try to distract the thrower but may not touch the player, the bola or walk between player and ladder. A bola that wraps around a rung scores: commonly 1 point for the bottom rung, 2 for the middle and 3 for the top; a bola that bounces off the ground and lands on a rung does not count. Bonus points are common: an extra point for all three bolas on the same rung, or one bola on each rung. The first player or team to reach exactly 21 points wins — throws that would take the score over 21 are discarded. Players may also knock opponents' bolas off the rungs.
+Two ladders, each with three rungs, stand 15 ft (about 5 paces / 4.6 m) apart on a flat lawn; each player or team gets three bolas — two golf balls connected by a rope about 12–15 in (30–38 cm) long — and throws them one at a time at the opposite ladder (Ladder Golf LLC, n.d.-a). A bola hanging on the top rung scores 3 points, the middle rung 2 and the bottom rung 1; a bola that is wrapped around a rung scores 1 bonus point in the common tournament rule set (Wikipedia, n.d.-a). Only the bolas still hanging after all players have thrown count; a bola that bounces off or is knocked off scores nothing (Wikipedia, n.d.-a). The first player or team to reach exactly 21 points wins — going over 21 is a "bust" and the score reverts to the value before that turn (Ladder Golf LLC, n.d.-a). Popular house variations include cancel-out (a bola on the same rung knocks the opponent's off), "full house" bonuses (bolas on all three rungs) and the "knocker" (hitting an opponent's bola off the ladder for a bonus point) (Wikipedia, n.d.-b). There are no age or gender classes — the game is played by mixed groups of all ages, and teams may be singles, pairs or larger groups in informal play (Wikipedia, n.d.-a). Rule source: Ladder Golf LLC official rules, https://www.laddergolf.com/ (Ladder Golf LLC, n.d.-a).
 
 ## History
 
-A "ball and ladder game" was patented in 2002 by Robert G. Reid, a postman from Pennsylvania who had played the game with his family for decades; the game had been played at campgrounds in the United States since the late 1990s, and some trace the idea of throwing balls at fences or branches to cowboys in the American West. Reid sold the patent to Ladder Golf LLC in 2005, which began commercial production and sponsored a 32-team tournament in San Diego that April. The game spread rapidly as a grassroots lawn game and is now sold under many names, including Ladder Ball, Balls on Bars and Hillbilly Golf.
+Robert G. Reid of Hanover, Pennsylvania, conceived the game around 1999, filed the patent application in November 1999 and was granted the U.S. patent in 2002; in March 2005 he sold the commercial rights to Ladder Golf LLC, which staged the first sponsored tournament in San Diego in April 2005 (Wikipedia, n.d.-b; Ladder Golf LLC, n.d.-a). The game spread rapidly through backyard and tailgate culture in the 2000s, helped by cheap mass-produced sets, and is now a standard companion game at cornhole tournaments and outdoor parties; it has never been governed by an international federation and remains a recreational game with house-rule variations (Wikipedia, n.d.-a).
 
 ## Sources
 
-- Topend Sports. (n.d.). *Ladder toss (ladder ball) — rules and scoring*. Retrieved November 20, 2026, from https://www.topendsports.com/other/ladder-toss/index.htm
-- WikiHow. (n.d.). *How to play ladder ball — official rules*. Retrieved November 20, 2026, from https://www.wikihow.com/Play-Ladder-Ball
+- Ladder Golf LLC. (n.d.-a). *Official rules of Ladder Golf — ladders, bolas, scoring to 21, bust rule*. Retrieved November 22, 2026, from https://www.laddergolf.com/
+- Wikipedia. (n.d.-a). *Ladder toss*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ladder_toss
+- Wikipedia. (n.d.-b). *Ladder toss — Robert G. Reid patent 1999/2002, Ladder Golf LLC 2005, first tournament San Diego 2005, house variations*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ladder_toss
+
+### Figure Index
+
+- Joli Rumi. (2024, October 14). *Ladder golf game in Alberta, Canada* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Ladder_golf_game_in_Alberta,_Canada.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Topend Sports — ladder toss](https://www.topendsports.com/other/ladder-toss/index.htm) — equipment, toss line and scoring variants
-- [WikiHow — ladder ball rules](https://www.wikihow.com/Play-Ladder-Ball) — how to play, rung values and bonus points
+- [Ladder Golf LLC — official rules](https://www.laddergolf.com/) — the patent holder's official rule set and product information

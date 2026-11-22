@@ -1,21 +1,30 @@
 ## Basic Information
 
-Kyz kuu (Kyrgyz for "catch the girl") is a traditional Kyrgyz equestrian game played by a young man and a young woman on horseback: the man chases the woman over a set course, and if he catches her before the finish line, tradition allows him to kiss or embrace her while riding; if she reaches the finish first, she may strike him with her kamcha (riding whip) as she gallops past. It is played at festivals and was a demonstration sport at the first World Nomad Games in 2014.
+Kyz kuu — "catch the girl" — is a traditional Turkic equestrian chase game of Kyrgyzstan and Kazakhstan (Kyrgyz kyz kuumai, Kazakh qyz quu, Azerbaijani giz-qov): a young man and a young woman ride horseback along a marked course, the man starts at the start line, the woman gallops past from behind, and he chases her (Wikipedia, n.d.-a). If he catches her before the finish line, he earns a kiss — his win; if he fails, she turns at the finish and chases him back, and if she catches him she may strike him with her whip (kamcha) — her win (Wikipedia, n.d.-a). The game was a demonstration sport at the first World Nomad Games in 2014 and is on the full programme of the 2026 World Nomad Games in Cholpon-Ata, Kyrgyzstan (31 August – 6 September 2026) (Wikipedia, n.d.-b). The woman rider is central to the game on both sides of the chase, and mixed pairs of young men and women compete at every edition; in some modern variants the whipping is symbolic (Wikipedia, n.d.-b).
+
+![Kazakh performers demonstrating the traditional kyz kuu "catch the girl" game on horseback](https://commons.wikimedia.org/wiki/Special:Redirect/file/Catchthegirl.JPG?width=480)
+
+*Figure: Lock, J. T. (U.S. Air Force). (2000, September 13). Catchthegirl [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Catchthegirl.JPG*
 
 ## Rules
 
-A course of a set distance is marked between a start and a finish line, with the riders starting side by side or with a short head start for the woman. The man wins by catching up to the woman and touching her (traditionally taking her hand or giving a kiss) before the finish line; the woman wins by reaching the finish first, in which case she may lash the pursuing rider with her whip as she passes him. Horses and riders are matched for speed, and the game is played for honor and entertainment at gatherings rather than in formal leagues, though it is part of the World Nomad Games program.
+The course is a marked straight track with a start line and a finish line; the woman rider takes the lead and gallops past the start line where the man waits, and the man then pursues her (Wikipedia, n.d.-a). If the man catches the woman before the finish line, he wins and the traditional prize is a kiss; if the woman reaches the finish line uncaught, she turns her horse and rides back toward him, and if she catches him before he crosses the start line again she may whip him with her kamcha — she wins (Wikipedia, n.d.-a). At the World Nomad Games the game is run as a timed race over a set course with pairs drawn by lot, judges at both lines, and horses provided or assigned by the organizers; competitors are adults, and the whip stroke is symbolic in competition (Wikipedia, n.d.-b). Men and women participate as the two riders of each pair — the game is inherently mixed — and there are no weight classes; traditional costume and a kamcha for the woman are required, and protective vests are recommended in modern competition (Wikipedia, n.d.-b). Rule source: World Nomad Games regulations, https://worldnomadgames.org/ (Wikipedia, n.d.-b). See also [kumis alu](kumis-alu.html) on this site.
 
 ## History
 
-Kyz kuu belongs to the equestrian traditions of the Central Asian nomads, where horsemanship was central to daily life and courtship rituals were played out on horseback at festivals and celebrations. Along with horseback wrestling (er enish), kok boru, mounted archery and salburun (eagle hunting), it was included in the program of the World Nomad Games, first held in Cholpon-Ata, Kyrgyzstan, in 2014, and again in later editions. The game remains a popular demonstration of Kyrgyz horsemanship at Nooruz and other national celebrations.
+Kyz kuu belongs to the equestrian traditions of the Turkic peoples of the steppe, where it served as a courtship ritual and a demonstration of horsemanship: the young man had to prove he could catch the girl, and the girl demonstrated that she could outride him and, symbolically, discipline him with the whip if he failed (Wikipedia, n.d.-a). The game was performed at festivals and weddings for centuries and was included as a demonstration sport in the first World Nomad Games in Cholpon-Ata, Kyrgyzstan, in September 2014, becoming a full medal event at later editions including the 2026 games (Wikipedia, n.d.-b). A well-known early photograph of the game was taken by the U.S. Air Force during the CENTRASBAT 2000 gala concert in Kazakhstan on 13 September 2000 (the image above) (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Topend Sports. (n.d.). *Kyz kuu — Kyrgyz "catch the girl" horse game overview*. Retrieved November 20, 2026, from https://www.topendsports.com/equestrian/kyz-kuu/index.htm
-- World Nomad Games. (n.d.). *Kyz kuumai — program of the World Nomad Games*. Retrieved November 20, 2026, from https://worldnomadgames.org/
+- Wikipedia. (n.d.-a). *Kyz kuu*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyz_kuu
+- Wikipedia. (n.d.-b). *Kyz kuu — chase rules, kiss and whip, World Nomad Games 2014/2026, CENTRASBAT 2000*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyz_kuu
+- World Nomad Games. (n.d.-a). *World Nomad Games — equestrian programme incl. kyz kuu, 2026 Cholpon-Ata*. Retrieved November 22, 2026, from https://worldnomadgames.org/
+
+### Figure Index
+
+- Lock, J. T. (U.S. Air Force). (2000, September 13). *Catchthegirl* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Catchthegirl.JPG (Public domain)
 
 ## Important Links
 
-- [World Nomad Games](https://worldnomadgames.org/) — biennial games of nomadic sports since 2014, including kyz kuumai
-- [Topend Sports — kyz kuu](https://www.topendsports.com/equestrian/kyz-kuu/index.htm) — rules and tradition of the game
+- [World Nomad Games](https://worldnomadgames.org/) — official site; kyz kuu on the 2026 programme in Cholpon-Ata
+- [Kumis alu](kumis-alu.html) on this site — the coin-picking horseback game of the same games
