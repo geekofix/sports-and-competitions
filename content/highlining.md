@@ -1,19 +1,33 @@
 ## Basic Information
 
-Highlining is the sport of walking, bouncing and performing tricks on a slackline (flat nylon webbing) rigged at great height — typically 30-100+ m above ground between cliffs, trees or buildings, with a safety leash and a backup line. Competitive highlining (freestyle and speed disciplines) is organized by the International Slackline Association (ISA), founded 2015 in Switzerland, which runs the Highline World Championships and a World Cup circuit.
+Highlining is the acrobatics discipline of walking, balancing and performing tricks on a flat nylon webbing (a slackline) tensioned high above the ground between two anchor points such as cliffs, trees or buildings; it is governed by the International Slackline Association (ISA), founded in August 2015 (International Slackline Association [ISA], n.d.-b; Wikipedia, n.d.-a). The sport has two competition disciplines — freestyle highlining, where athletes perform judged tricks on the line, and speed highlining, where athletes race a timed crossing — and both are contested with separate male and female podiums at the ISA Highline World Championships: after the 2022 and 2024 editions on Crap Sogn Gion above Laax, Switzerland (2,250 m), the third edition was held 21–26 July 2026 at the Flims Laax rocksresort with 42 athletes from around 15 nations, 16 of them women, including Switzerland's Melanie Beguelin (ISA, n.d.-a). The ISA also maintains a world ranking list; since September 2026 the ranking points were recalculated, with the world champion now receiving 3,000 points (ISA, n.d.-a).
+
+![Highlining in Switzerland](https://commons.wikimedia.org/wiki/Special:Redirect/file/Highlining_Switzerland.jpg?width=560)
+
+*Figure: Bricetofly. (2022, June 11). Highlining in Switzerland [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Highlining_Switzerland.jpg*
 
 ## Rules
 
-In ISA competitions, highline events are split into freestyle (athletes perform acrobatic tricks on lines typically 60-80 m long; judges score difficulty, execution, variety and style over a set time, usually with a fall = zero for the run) and speed (two parallel identical lines, one-on-one races, fastest time wins). Athletes must wear a leash attached to the line and use a backup (second) webbing or rope beneath the primary line, per ISA safety guidelines; rigging is inspected by officials and rescue teams are present at events. The Slackline World Ranking List determines qualification for World Championships (3,000 points for the winner under the 2026 system).
+A highline consists of a flat webbing typically 25–50 mm wide, tensioned to several kilonewtons between two redundant anchor systems (trees, rock anchors or structures) rigged to ISA safety standards, with a separate backup line; a fall is always arrested by the athlete's leash attached to the line, because at height a ground fall would be fatal (ISA, n.d.-a; Wikipedia, n.d.-a). In speed highlining, athletes cross a set line — commonly several tens of meters — in heats and knockout rounds, and the fastest times advance; in freestyle highlining, athletes perform tricks (bounces, rodeos, slack-to-leash transitions) on the line while judges score difficulty, execution and style, and the highest total wins (ISA, n.d.-a). Competitions award world ranking points by placement, and the ISA world ranking lists men and women separately; men and women compete under identical rules in gender-separated categories, and youth categories are offered at many events (ISA, n.d.-a; Wikipedia, n.d.-a).
 
 ## History
 
-Slacklining emerged in the early 1980s in Yosemite Valley, California, when climbers balanced on chains and then on stretchy webbing between trees on rest days. Highlining — rigging lines at great heights between cliffs — developed in the 2000s, with Dean Potter famous for leash-less solo highlining in Yosemite, notably at Glacier Point. Competitive highlining has had contests since 2016, and the ISA, founded in August 2015 and based with the Swiss Alpine Club in Bern, held the first Highline World Championships in 2022, with editions in Laax, Switzerland in 2022, 2024 and 2026. Stars include freestyle world champions from Switzerland, the US and Brazil.
+Slacklining began in the 1970s and early 1980s in Yosemite Valley, California, when climbers Adam Grosowsky and Jeff Ellington started walking on park chains and flat webbing in Camp 4; highlining — rigging the same webbing high between cliffs — was pioneered above all by the American climber Dean Potter (1972–2015), who made the first highline crossings in Yosemite and became famous for walking lines hundreds of meters above the valley floor, often without a leash in his later years; he died in May 2015 in a wingsuit BASE-jumping accident in Yosemite (Wikipedia, n.d.-a, n.d.-b). The slacklining community founded the International Slackline Association in August 2015 to govern competitions, safety standards and the world ranking, and the Highline World Championships were first held in Laax in 2022, followed by 2024 and 2026 editions at the same venue area (ISA, n.d.-b; Wikipedia, n.d.-a).
 
 ## Sources
 
-- International Slackline Association. (n.d.). *Highline competitions, safety guidelines and world championships*. Retrieved November 20, 2026, from https://www.slacklineinternational.org/
+- International Slackline Association. (n.d.-a). *Highline World Championships 2026 Laax — freestyle and speed, male/female, world ranking points*. Retrieved November 22, 2026, from https://www.slacklineinternational.org/
+- International Slackline Association. (n.d.-b). *About the ISA — founded 2015, safety and rigging standards*. Retrieved November 22, 2026, from https://www.slacklineinternational.org/about-isa/
+- Wikipedia. (n.d.-a). *Highlining*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Highlining
+- Wikipedia. (n.d.-b). *Slacklining*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Slacklining
+
+### Figure Index
+
+- Bricetofly. (2022, June 11). *Highlining Switzerland* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Highlining_Switzerland.jpg (CC BY 4.0)
 
 ## Important Links
 
-- [ISA — International Slackline Association](https://www.slacklineinternational.org/) — official body since 2015; Highline World Championships, World Cup, safety guidelines
+- [International Slackline Association (ISA)](https://www.slacklineinternational.org/) — world governing body; competitions, safety standards and world ranking list
+- [Highline World Championships 2026 — Flims Laax](https://hwc2026.ch/) — official event site, 21–26 July 2026
+- [Hang Gliding](hang-gliding.html) on this site — air sports at height
+- [Gymnastics](gymnastics.html) on this site — balance and body control sports

@@ -1,23 +1,34 @@
 ## Basic Information
 
-Indoor rowing is ergometer racing: athletes row standard distances — most famously 2000 metres — on rowing machines (ergometers) against the clock or side by side, with World Rowing Indoor Championships held since 2018 and national championships feeding the sport from gym floors and rowing clubs alike.
+Indoor rowing is rowing on a stationary ergometer — almost always a Concept2 RowErg — over standardized distances (500 m, 1,000 m, 2,000 m, 5,000 m, 30 minutes or a 1-minute sprint), with verified results submitted online (Concept2, n.d.-a; World Rowing, n.d.-a). The World Rowing Indoor Championships are the pinnacle: the 2026 edition was held virtually as the World Rowing Virtual Indoor Championships presented by Concept2, with heats on 21–22 February 2026 and finals on 28 February 2026 over 1,000 m, 5,000 m and the 1-minute sprint, attracting more than 2,300 entries; the Concept2 Indoor Sprints follow 4–8 March 2026 over 1,000 m, and an in-person World Rowing Indoor Championship (2,000 m and 500 m) is planned later in 2026, the first since Prague 2024 (World Rowing, n.d.-a, n.d.-b). Current record holders and leading athletes include Denmark's Var Guriardottir Hansen (women's 1-minute sprint, 366 m), Estonia's Doris Meinbek (seven-time indoor world champion) and South Africa's Georgie Rowe (5,000 m world record) on the women's side, and Germany's Oliver Zeidler (2,000 m world record 5:34.7 — the first man under 5:35) and Italy's Andrea Panizza (1,000 m, 2:40.9) on the men's side (World Rowing, n.d.-b; Concept2, n.d.-a; Wikipedia, n.d.-a).
 
-Standard Concept2 machines dominate the discipline, so world-best times in each age and weight class are directly comparable across the globe.
+![A row of Concept2 indoor rowers](https://commons.wikimedia.org/wiki/Special:Redirect/file/Concept2_Indoor_Rowers.JPG?width=480)
+
+*Figure: Johnteslade. (2004, November 16). A row of Concept2 indoor rowers [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Concept2_Indoor_Rowers.JPG*
 
 ## Rules
 
-Racing is held on standardized Concept2 machines over prescribed formats: individual 2000 m races in open, lightweight, under-19, under-23 and adaptive categories, plus 500 m sprints and relay events on the indoor stage. Drag-factor settings are standardized so that every machine delivers identical resistance, and world-best times are officially recorded in each category, with online races connecting athletes worldwide.
+Indoor rowing is performed on the Concept2 RowErg (models PM3, PM4, PM5), which measures the athlete's power output at the flywheel; the damper setting is free, and results are "verified" when recorded on a connected device and submitted to the Concept2 logbook or the competition platform (Concept2, n.d.-a). Standard race formats are 500 m, 1,000 m, 2,000 m, 5,000 m, 30-minute time trials and the 1-minute sprint; at the World Rowing Indoor Championships the in-person event uses 2,000 m and 500 m, while the virtual edition adds 1,000 m, 5,000 m and the 1-minute sprint (World Rowing, n.d.-a, n.d.-b). Categories are by age (junior, senior, masters in 10-year bands up to 80+) and by weight: open and lightweight divisions, with lightweight athletes weighing in no more than two hours before their race (men's maximum 75 kg, women's 61.5 kg) (World Rowing, n.d.-a; Wikipedia, n.d.-a). Men and women race the identical distances on identical machines in separate rankings; team relays and adaptive (para) categories also exist (World Rowing, n.d.-a).
 
 ## History
 
-The ergometer made rowing measurable indoors with the rise of the Concept2 rower from the 1980s, and the CRASH-B sprints in Boston grew into the world's famous indoor regatta from the early 1980s. World Rowing launched its own Indoor World Rowing Championships in 2018, drawing Olympic rowers and fitness athletes alike, with virtual championships joining from 2020.
+The Concept2 company was founded in 1981 by the brothers Dick and Peter Dreissigacker in Morrisville, Vermont, USA, and its first indoor rowing machine (the Model A) became the standard ergometer; the first CRASH-B Sprints — Concept2 Rowing and Skiing, held in Boston in 1982 — are regarded as the first indoor rowing championships (Concept2, n.d.-b; Wikipedia, n.d.-a). World Rowing (founded 1892 as FISA) took over the World Rowing Indoor Championships, held in person in Boston from 2018 to 2023 and in Prague in 2024, before the 2026 virtual edition; Concept2's online logbook, with verified erg scores, made global comparison of performances possible (World Rowing, n.d.-a, n.d.-b; Wikipedia, n.d.-a).
 
 ## Sources
 
-- World Rowing: [Indoor championships](https://www.worldrowing.com/) Retrieved November 21, 2026, from 
+- Concept2. (n.d.-a). *Indoor rower (RowErg), verified results and the Concept2 logbook*. Retrieved November 22, 2026, from https://www.concept2.com/
+- Concept2. (n.d.-b). *Company history — Dreissigacker brothers, Morrisville VT, founded 1981*. Retrieved November 22, 2026, from https://www.concept2.com/
+- Wikipedia. (n.d.-a). *Indoor rowing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indoor_rowing
+- World Rowing. (n.d.-a). *World Rowing Indoor Championships — regulations and categories*. Retrieved November 22, 2026, from https://worldrowing.com/
+- World Rowing. (n.d.-b). *2026 World Rowing Virtual Indoor Championships presented by Concept2 — 28 February 2026 finals*. Retrieved November 22, 2026, from https://worldrowing.com/
+
+### Figure Index
+
+- Johnteslade. (2004, November 16). *Concept2 Indoor Rowers* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Concept2_Indoor_Rowers.JPG (Public domain)
 
 ## Important Links
 
-- [Rowing](rowing.html) — the on-water parent sport, on this site
-- [Hyrox](hyrox.html) — another erg-friendly fitness racing format, on this site
-- [Canoe Sprint](canoe-sprint.html) — the paddling counterpart on water, on this site
+- [World Rowing](https://worldrowing.com/) — world governing body; indoor championships and results
+- [Concept2](https://www.concept2.com/) — RowErg manufacturer; verified results logbook and Indoor Sprints
+- [Rowing](rowing.html) on this site — on-water rowing (single sculls to eights)
+- [Triathlon](triathlon.html) on this site — endurance multisport including a 10 km run

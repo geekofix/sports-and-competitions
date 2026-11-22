@@ -1,23 +1,27 @@
 ## Basic Information
 
-Indoor field hockey (Hallenhockey) is the indoor variant of field hockey, played in a sports hall on a much smaller pitch of about 40 m x 20 m (official range 36-44 m x 18-22 m) with goals of 3 m x 2 m. Two teams of five players each (recently reduced from six) plus substitutes compete with hockey sticks and a hard ball, and play is fast and continuous because the hall keeps the ball in play. The sport is governed internationally by the International Hockey Federation (FIH), founded in 1924, and its pinnacle event is the FIH Indoor Hockey World Cup.
+Indoor field hockey is the six-a-side variant of field hockey played in sports halls on smooth flooring surrounded by boards, governed by the International Hockey Federation (FIH) (International Hockey Federation [FIH], n.d.-a; Wikipedia, n.d.-a). The FIH Indoor Hockey World Cup, held every four years since the first edition in 2003 in Germany, brings together 24 teams — 12 men's and 12 women's — for a seven-day tournament; the 2023 edition in Pretoria, South Africa, was won by Germany (men) and Poland (women, their first-ever indoor title), and the 2025 edition was held 3–9 February 2025 at the Žatika Sport Centre in Poreč, Croatia; the next edition follows in 2029 (FIH, n.d.-b; Wikipedia, n.d.-a, n.d.-b). The current edition of the Rules of Indoor Hockey 2023 is in force until the Rules of Indoor Hockey 2027 take effect at international level on 1 November 2026 (FIH, n.d.-a). Historically the most successful nations are the Netherlands, Germany and Austria on the men's side and the Netherlands on the women's side; men and women play identical rules in separate tournaments (Wikipedia, n.d.-a).
 
 ## Rules
 
-Under the FIH Rules of Indoor Hockey, a match lasts four quarters of 10 minutes each with short intervals between quarters and a longer half-time. Each team fields five players on the pitch at any one time and may make rolling substitutions, and there is no offside rule in indoor hockey. Goals are scored by hitting or pushing the ball into the 3 m x 2 m goal; free hits, penalty corners and penalty strokes are awarded for infringements as in outdoor hockey, and dangerous play, obstruction and stick interference are penalized. The ball may be lifted but must not be played dangerously high at an opponent.
+The indoor pitch is about 40 × 20 m, with boards forming the longer (44 m) perimeter sides and the ends (22 m); any smooth indoor sports-hall flooring is permitted (FIH, n.d.-a; Wikipedia, n.d.-a). A team fields six players at once — five outfield players and a goalkeeper — from a squad of 12, and rolling substitutions are allowed during live play (FIH, n.d.-a). A match lasts 40 minutes in total (two halves of 20 minutes; league formats sometimes use four 10-minute quarters) (FIH, n.d.-a; Wikipedia, n.d.-a). The ball must be played along the floor: deliberate hits or slap hits that raise the ball are fouls, while pushes, flicks and scoops are allowed; free hits, penalty corners and shoot-outs follow the outdoor rules in adapted form (FIH, n.d.-a). Offside does not apply indoors, and the goalkeeper may use hands and body within the shooting circle (Wikipedia, n.d.-a). Men and women play identical rules; youth and masters categories exist at national level (FIH, n.d.-a).
 
 ## History
 
-Indoor hockey originated in Germany in the 1950s as a way for field hockey players to train during the cold winter months, and it quickly spread across Europe as a fast, skilful game in its own right. The FIH staged the first Indoor Hockey World Cup for men in 1990, and indoor hockey was included in the Olympic program at the Albertville 1992 and Atlanta 1996 Winter Games before being removed after 1996. Today it is played competitively across Europe, Asia, South America and Oceania, with Germany, the Netherlands, Russia and Austria among the traditional powerhouses.
+Indoor hockey developed in Europe, above all in Germany, in the 1950s and 1960s as a winter training form for outdoor field hockey, and it evolved into a fast, skilful standalone game played year-round; the FIH held the first Indoor World Cup in 2003 in Germany, and the tournament has been held every four years since — 2007, 2011, 2015, 2018 (Berlin), 2023 (Pretoria) and 2025 (Poreč) — with the next edition in 2029 (FIH, n.d.-b; Wikipedia, n.d.-a, n.d.-b). The Netherlands has been the most successful nation in the men's and women's tournaments, with Germany and Austria also multiple champions on the men's side (Wikipedia, n.d.-a).
 
 ## Sources
 
-- Fédération Internationale de Hockey. (n.d.). *Rules of indoor hockey*. Retrieved November 20, 2026, from https://www.fih.hockey/
-- Fédération Internationale de Hockey. (n.d.). *Indoor Hockey: the rules of the game*. Retrieved November 20, 2026, from https://www.fih.hockey/fih-indoor-world-cup-event/news/indoor-hockey-the-rules-of-the-game
-- International Olympic Committee. (n.d.). *Hockey at the Olympic Winter Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games
+- International Hockey Federation. (n.d.-a). *Rules of Indoor Hockey 2023 (in force until 1 November 2026) and Rules of Indoor Hockey 2027*. Retrieved November 22, 2026, from https://www.fih.hockey/about-fih/official-documents/rules-of-hockey
+- International Hockey Federation. (n.d.-b). *FIH Indoor Hockey World Cup — editions, format and hosts*. Retrieved November 22, 2026, from https://www.fih.hockey/events/indoor-world-cup
+- Wikipedia. (n.d.-a). *Indoor field hockey*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indoor_hockey
+- Wikipedia. (n.d.-b). *2025 Men's FIH Indoor Hockey World Cup*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/2025_Men%27s_FIH_Indoor_Hockey_World_Cup
 
 ## Important Links
 
-- [International Hockey Federation (FIH)](https://www.fih.hockey/) — world governing body; Rules of Indoor Hockey and the Indoor Hockey World Cup
-- [FIH Indoor Hockey World Cup](https://www.fih.hockey/) — premier international indoor tournament
-- [Olympic Winter Games — hockey](https://www.olympics.com/en/olympic-games) — indoor hockey as Olympic sport 1992 and 1996
+- [International Hockey Federation (FIH)](https://www.fih.hockey/) — world governing body for hockey
+- [FIH Indoor Hockey World Cup](https://www.fih.hockey/events/indoor-world-cup) — official event pages (24 teams, 12 men's and 12 women's)
+- [FIH Rules of Indoor Hockey](https://www.fih.hockey/about-fih/official-documents/rules-of-hockey) — official rulebook downloads
+- [Field Hockey](field-hockey.html) on this site — the outdoor 11-a-side game
+- [Hockey5s](hockey5s.html) on this site — the 5-a-side short format
+- [Ice Hockey](ice-hockey.html) on this site — hockey on ice

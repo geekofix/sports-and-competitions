@@ -1,21 +1,33 @@
 ## Basic Information
 
-Indiaca — also known as petec, after the Mexican game it derives from — is a net game played with a shuttlecock-like object: a small rubber base with four large feathers attached, called the Indiaca. Two teams of two players face each other on opposite sides of a net stretched across a court roughly the size of a badminton court, and try to hit the Indiaca over the net with the flat of the hand so that it lands in the opponents' court. The game is played indoors and outdoors, is popular in schools, clubs and church youth work in Germany, and has an international competitive scene with biennial World Cup tournaments.
+Indiaca (also known as *peteca*) is the net sport in which two teams hit a shuttlecock-like ball — a small head with four unbroken feathers — back and forth over a net with the hand, palm or forearm (International Indiaca Association [IIA], n.d.-a; Wikipedia, n.d.-a). The game was invented in 1972 in Brazil by the German physical education teacher Karlhans Ehlert, who adapted the indigenous Brazilian hand game *peteca*, and it is today governed worldwide by the International Indiaca Association (IIA) under its Official Indiaca Rules (OIR) (Wikipedia, n.d.-a). International competition includes the Indiaca World Championships — the 7th edition was held in Tartu, Estonia, in August 2025 — and the 12th IIA General Assembly in 2026 (IIA, n.d.-b). Teams consist of four players on a court about 12.2 × 6.1 m divided by a net, play uses rally-point scoring with a maximum of three contacts per side, and men and women compete in equal men's, women's and mixed categories under identical rules (IIA, n.d.-a; Wikipedia, n.d.-a).
+
+![Indiaca (peteca) ball](https://commons.wikimedia.org/wiki/Special:Redirect/file/Indiaca.jpg?width=480)
+
+*Figure: Häckel, M. (2006, October 30). Indiaca (peteca) — ball with four feathers [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Indiaca.jpg*
 
 ## Rules
 
-Each team may touch the Indiaca at most three times before it must cross the net, and it must be struck with the open hand — catching, holding, carrying or throwing the Indiaca is a fault, as is touching the net or crossing the centre line. The Indiaca must pass over the net and land inside the opponents' court; it may be played off the net only after the third contact. A team scores a point when the Indiaca lands in the opponents' court, when the opponents fail to return it within three hits, or when the opponents commit a fault. Matches are played over several games to a set number of points, and the serving team strikes the Indiaca from behind the end line to start each rally.
+The indiaca ball consists of a leather or synthetic head carrying four unbroken feathers, and it may be struck only with the hand (open palm, fist or forearm) — rackets or other implements are not allowed (IIA, n.d.-a). The court measures about 12.2 × 6.1 m and is divided by a net; two teams of four players face each other, and each side may contact the ball a maximum of three times before returning it over the net (Wikipedia, n.d.-a). The serve is made from behind the end line, and the ball must not touch the ground — every rally is scored (rally-point system), with sets and match formats defined in the OIR; foot faults, net touches and playing the ball out are the typical violations (IIA, n.d.-a). Men's, women's and mixed competitions are played under identical rules; at the World Championships, teams of four compete in men's, women's and mixed events (IIA, n.d.-a, n.d.-b).
 
 ## History
 
-Indiaca descends from petec, a traditional game of Mexico in which players hit a feathered object back and forth over a line or low net. The game was brought to Germany in the 1960s by development-aid workers returning from Mexico and was popularized by the CVJM (Christlicher Verein Junger Menschen), becoming a staple of German youth and leisure work. From there it spread across Europe, and international federations now organize regular World Cup tournaments. The sport combines speed, teamwork and fair play, and is often used in physical education because it is easy to learn and safe to play.
+Indiaca was created in 1972 in Brazil by Karlhans Ehlert, a German physical education teacher working there, who formalized the traditional *peteca* — a hand game played since colonial times with a feathered shuttlecock — into a competitive net sport (Wikipedia, n.d.-a). The International Indiaca Association (IIA) was founded to govern the game and publish the Official Indiaca Rules, and the Indiaca World Championships have been held regularly since the late 1990s, with the 7th edition in Tartu, Estonia, in August 2025 (IIA, n.d.-b; Wikipedia, n.d.-a).
 
 ## Sources
 
-- Indiaca India. (n.d.). *Indiaca — rules and the game*. Retrieved November 20, 2026, from https://www.indiacaindia.com/
-- Topend Sports. (n.d.). *Indiaca (petec) — sport overview and rules*. Retrieved November 20, 2026, from https://www.topendsports.com/other/indiaca/index.htm
+- International Indiaca Association. (n.d.-a). *Official Indiaca Rules (OIR)*. Retrieved November 22, 2026, from https://www.indiaca-iia.com/
+- International Indiaca Association. (n.d.-b). *World Championships — Tartu 2025 — and General Assembly 2026*. Retrieved November 22, 2026, from https://www.indiaca-iia.com/
+- Wikipedia. (n.d.-a). *Indiaca*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indiaca
+
+### Figure Index
+
+- Häckel, M. (2006, October 30). *Indiaca* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Indiaca.jpg (Public domain)
 
 ## Important Links
 
-- [Indiaca India](https://www.indiacaindia.com/) — international indiaca organization; rules, news and tournaments
-- [Topend Sports — Indiaca](https://www.topendsports.com/other/indiaca/index.htm) — overview of the game, rules and history
+- [International Indiaca Association (IIA)](https://www.indiaca-iia.com/) — world governing body; Official Indiaca Rules and World Championships
+- [Volleyball](volleyball.html) on this site — the net sport played with hands and arms
+- [Sepak Takraw](sepak-takraw.html) on this site — net sport with a rattan ball
+- [Badminton](badminton.html) on this site — the feathered-shuttlecock net sport
+- [Tennis](tennis.html) on this site — net sport over a court

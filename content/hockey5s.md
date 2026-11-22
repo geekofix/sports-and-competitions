@@ -1,20 +1,28 @@
 ## Basic Information
 
-Hockey5s is the FIH's small-sided variant of field hockey, played 5-a-side on a pitch roughly half the size of a full field hockey pitch, with smaller goals and adapted restart rules.
+Hockey5s is the five-a-side short format of field hockey, played with sticks and a hard ball on a small pitch, governed internationally by the International Hockey Federation (FIH) (International Hockey Federation [FIH], n.d.-a; Wikipedia, n.d.-a). The first senior FIH Hockey5s tournament was held in Lausanne in 2022 (the women's final was won by Uruguay 3–1 over Switzerland), and the first FIH Hockey5s World Cup took place in Muscat, Oman, in January 2024, with the Netherlands winning both the men's and the women's titles — the Dutch women beat India 7–2 in the final (FIH, n.d.-b; Wikipedia, n.d.-a). Hockey5s replaced 11-a-side hockey at the 2014 and 2018 Youth Olympic Games and was a non-medal engagement sport at the 2026 Youth Olympics; in September 2026 the FIH announced the inaugural FIH Youth Hockey5s World Cup for under-18 teams, to be held in Cairo, Egypt, 7–12 December 2026 with 12 teams (Wikipedia, n.d.-b). Today's leading women's team is India, world number one in the FIH Hockey5s ranking, reigning World Cup silver medallists and 2023 Hockey5s Asia Cup champions, with Deepika Soreng of Jharkhand (born 2003) the tournament's top scorer at the 2024 World Cup with nine goals, ahead of Mariana Kujur (FIH, n.d.-b; Wikipedia, n.d.-a, n.d.-c).
 
 ## Rules
 
-Hockey5s is played 5 v 5 (four outfield players plus a goalkeeper) on the reduced pitch, in two short halves of around 10 minutes each, with rolling substitutions and adapted rules for small-sided play.
+Under the FIH Rules of Hockey5s (current edition effective 1 May 2024; the Rules of Hockey 2027 take effect at international level on 1 November 2026), Hockey5s is played by two teams of five players, including a goalkeeper, with rolling substitutions, on a pitch of about 40.0 × 23.76 m at international tournaments (a permitted range of 36–48 m long and 19–34.5 m wide); the game can be played on any surface — natural or synthetic turf, hard courts, even indoors (FIH, n.d.-a). A match is played in two halves, and since the 2024 rules a goal can only be scored from within the attacking half of the pitch for safety reasons; a shot taken between the halfway line and the attacking quarter line must cross the goal line at a height of no more than 460 mm (the backboard height) before any deflection, and the former passive-play rule has been removed (FIH, n.d.-a). Otherwise the Laws of field hockey apply in adapted form — free hits, penalty corners and penalty strokes, two umpires, and the ball played over the back line restarts play as in 11-a-side hockey (FIH, n.d.-a; Wikipedia, n.d.-a). Men and women play under identical rules in separate tournaments, and under-18 categories exist at the Youth Hockey5s World Cup (Wikipedia, n.d.-b).
 
 ## History
 
-Hockey5s was developed by the FIH in the 2010s to make hockey faster, more accessible and more attractive to broadcasters and young audiences, inspired by five-a-side football and rugby sevens. It debuted at the Youth Olympic Games in Buenos Aires 2018 (Argentina won the men's and women's titles), and the FIH launched the Hockey5s World Cup in the 2020s.
+The FIH developed Hockey5s in the late 2010s as a fast, skilful and adaptable short format designed to grow hockey's global reach, and it was first played at the Youth Olympic Games in Nanjing 2014 and Buenos Aires 2018, replacing the 11-a-side tournament there (Wikipedia, n.d.-a). The first senior FIH Hockey5s competition followed in Lausanne in 2022, the first FIH Hockey5s World Cup was held in Muscat in January 2024 (men's and women's titles both for the Netherlands), and after Hockey5s was classed as a non-medal engagement sport at the 2026 Youth Olympics in Dakar, the FIH announced in September 2026 the first FIH Youth Hockey5s World Cup in Cairo in December 2026 (Wikipedia, n.d.-b; FIH, n.d.-b).
 
 ## Sources
 
-- International Hockey Federation. (n.d.). *Hockey5s rules and FIH Hockey5s World Cup*. Retrieved November 20, 2026, from https://www.fih.hockey/
+- International Hockey Federation. (n.d.-a). *Rules of Hockey5s (effective 1 May 2024) and Rules of Hockey 2027 (effective 1 November 2026)*. Retrieved November 22, 2026, from https://www.fih.hockey/about-fih/official-documents/rules-of-hockey
+- International Hockey Federation. (n.d.-b). *Hockey5s World Cup, FIH Hockey5s rankings and Youth Hockey5s World Cup 2026*. Retrieved November 22, 2026, from https://www.fih.hockey/events/
+- Wikipedia. (n.d.-a). *Hockey5s*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Hockey5s
+- Wikipedia. (n.d.-b). *Women's FIH Youth Hockey5s World Cup*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Women%27s_FIH_Youth_Hockey5s_World_Cup
+- Wikipedia. (n.d.-c). *India women's national hockey5s team*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/India_women%27s_national_hockey5s_team
 
 ## Important Links
 
-- [FIH — Hockey5s](https://www.fih.hockey/) — world governing body; Hockey5s rules and World Cup
-- [Field Hockey — full sport entry](field-hockey.html) — full field hockey rules on this site
+- [International Hockey Federation (FIH)](https://www.fih.hockey/) — world governing body for all hockey formats
+- [FIH Rules of Hockey5s](https://www.fih.hockey/about-fih/official-documents/rules-of-hockey) — official rulebook downloads
+- [FIH Hockey5s rankings](https://www.fih.hockey/events/) — world rankings and event results
+- [Field Hockey](field-hockey.html) on this site — the 11-a-side outdoor game
+- [Indoor Field Hockey](indoor-field-hockey.html) on this site — the 6-a-side hall variant
+- [Ice Hockey](ice-hockey.html) on this site — hockey on ice
