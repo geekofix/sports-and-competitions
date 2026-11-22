@@ -1,21 +1,37 @@
 ## Basic Information
 
-Chariot racing was one of the most spectacular and dangerous events of the ancient Olympic Games and of Roman popular entertainment. At Olympia, teams raced four-horse chariots (tethrippon) around the hippodrome, alongside two-horse races (synoris) and mounted races (keles). In Rome, chariot racing at the Circus Maximus drew crowds of over 100,000 and was run by professional factions (red, white, blue, green). The victor's wreath went to the owner of the horses, not the charioteer.
+Chariot racing was the premier horse sport of the ancient Greek and Roman world, in which a driver (the *auriga*) steered a light two- or four-horse chariot around a hippodrome, and it was the signature event of the ancient Olympic Games from 680 BC onward (Olympics.com, n.d.; Wikipedia, n.d.-a). The main Olympic event was the *tethrippon*, a four-horse team racing twelve laps of the hippodrome; the *synoris* (two horses) and the mounted single-horse race, the *keles*, were also contested, the latter only in the early Games (Wikipedia, n.d.-a). In Rome, chariot racing centered on the Circus Maximus, a track some 620 m long seating an estimated 150,000 spectators — ancient sources give figures up to 250,000 — where a race was seven laps, roughly 8 km, and where four professional stables (*factiones*) — the Reds, Whites, Blues and Greens — battled for the crowd's allegiance (Wikipedia, n.d.-a). Races began from bronze starting gates called the *hysplex*; a bronze eagle of Zeus rose at the start and a bronze dolphin of Poseidon was lowered at the end of each lap as the lap counter (Wikipedia, n.d.-a). Uniquely, the olive wreath of victory went to the owner of the horses, not the driver — which is why the Spartan princess Cynisca, who owned the winning team in 396 BC and again in 392 BC, is remembered as the first female Olympic victor (Wikipedia, n.d.-a). Chariot racing is a historical sport documented here for its place in the ancient Games; it is no longer practiced, and it must be noted that crashes at the turning posts (*metae*) regularly killed horses and drivers. A 19th-century print of a four-horse chariot race is pictured below.
+
+![Four-horse chariot race, 1875 print](https://commons.wikimedia.org/wiki/Special:Redirect/file/Four_horse_chariot_race_LCCN2003655654.jpg?width=560)
+
+*Figure: Popular Graphic Arts. (1875). Four horse chariot race [Print]. Library of Congress. Public domain. https://commons.wikimedia.org/wiki/File:Four_horse_chariot_race_LCCN2003655654.jpg*
 
 ## Rules
 
-In the ancient Olympics, the four-horse chariot race covered 12 laps of the hippodrome at Olympia (roughly 14 km), with all chariots starting from a staggered starting gate (the hysplex). Riders were thrown from their chariots regularly, and only the first to finish counted; crashes did not stop the race. The winner was crowned with an olive wreath cut with a golden sickle. At the Circus Maximus, races were typically seven laps (about 8 km) with starting gates and lap counters, and teams could enter multiple chariots.
+In the Olympic *tethrippon* the four horses — two inner (*funales*) and two outer (*iugales*) — were harnessed abreast, and the team completed twelve laps of the hippodrome; the *synoris* ran the same course with two horses, and the *keles* a shorter mounted race (Wikipedia, n.d.-a). Drivers wore a long white tunic (*xystis*) cinched at the chest, carried a whip, and — because reins frequently tangled in pile-ups — a knife (*falx*) to cut themselves free (Wikipedia, n.d.-a). The rules of the hippodrome punished dangerous driving: cutting in front of a rival and fouling its horses was a foul, and whipping another team's horses was limited (Wikipedia, n.d.-a). There were no weight classes in the modern sense; instead the events themselves were the classifications — four-horse, two-horse and mounted — and the *keles* was typically ridden by a boy, since mounted riders had to be light (Wikipedia, n.d.-a). There were no women's driving categories: drivers were male, but because the victor was the horse owner, women such as Cynisca of Sparta could and did win Olympic titles — the explicit gender difference of the ancient sport (Wikipedia, n.d.-a). The ancient Olympic rules are documented by the International Olympic Committee's historical pages and by the surviving inscriptions and art; no modern world federation exists because the sport is extinct (Olympics.com, n.d.).
 
 ## History
 
-Chariot racing entered the ancient Olympic program in 680 BC, making it one of the oldest Olympic events, and remained until the Games were abolished in 393 AD. Famous charioteers and owners are recorded in victory odes, such as Pindar's epinician for Hieron of Syracuse. In Rome, the Circus Maximus (built in the 6th century BC, expanded under the emperors) could seat around 150,000-250,000 spectators. Chariot racing survives today in folk traditions, for example in Mongolia and at some European heritage festivals.
+Chariot racing's mythical origin is the funeral games for Patroclus described in Book 23 of Homer's *Iliad*, and the first Olympic chariot race was held in 680 BC at the 25th Olympiad, which is why the Games were extended to two days (Olympics.com, n.d.). The poet Pindar celebrated the Syracusan tyrant Hieron's Olympic chariot victories of the 470s BC in his epinician odes, and the famous bronze *Charioteer of Delphi*, dedicated by the tyrant Polyzalus of Gela around 478–470 BC, commemorates another early victor (Wikipedia, n.d.-a). In Rome the sport reached its social peak under the Empire: the charioteer Gaius Appuleius Diocles (active 104 to after 146 AD) won 1,462 victories in 4,257 races over a 24-year career beginning at age 18 and earned 35,863,120 sesterces — a fortune often estimated in the billions of today's dollars; his contemporary Scorpus won more than 2,000 races but was killed at about age 27 in a crash at the *metae* (Wikipedia, n.d.-b). The Emperor Nero had himself crowned Olympic chariot champion in 67 AD, and in Constantinople the rival Blues and Greens factions were at the center of the Nika riots of 532 AD (Wikipedia, n.d.-b). A black-figure hydria attributed to the Priam Painter, ca. 510 BC, showing a chariot race, is pictured below.
+
+![Chariot race on an Attic black-figure hydria by the Priam Painter, ca. 510 BC](https://commons.wikimedia.org/wiki/Special:Redirect/file/Chariot_race_Met_L.1999.10.12.jpg?width=560)
+
+*Figure: Nguyen, M.-L. (2011). Chariot race, shoulder of an Attic black-figure hydria attributed to the Priam Painter, ca. 510 BC [Photograph]. Metropolitan Museum of Art, L.1999.10.12. CC BY 2.5. https://commons.wikimedia.org/wiki/File:Chariot_race_Met_L.1999.10.12.jpg*
 
 ## Sources
 
-- Britannica. (n.d.). *Olympic Games*. Retrieved November 20, 2026, from https://www.britannica.com/sports/Olympic-Games
-- Olympics.com. (n.d.). *Ancient Olympic Games*. Retrieved November 20, 2026, from https://www.olympics.com/en/olympic-games/ancient-olympic-games
+- Metropolitan Museum of Art. (n.d.). *Hydria with chariot race (L.1999.10.12)*. Retrieved November 22, 2026, from https://www.metmuseum.org/art/collection/search/254034
+- Olympics.com. (n.d.). *Ancient Olympic Games — chariot racing*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/ancient-olympic-games
+- Wikipedia. (n.d.-a). *Chariot racing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Chariot_racing
+- Wikipedia. (n.d.-b). *Gaius Appuleius Diocles*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Gaius_Appuleius_Diocles
+
+### Figure Index
+
+- Popular Graphic Arts. (1875). *Four horse chariot race* [Print]. Library of Congress. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Four_horse_chariot_race_LCCN2003655654.jpg (Public domain)
+- Nguyen, M.-L. (2011). *Chariot race, shoulder of an Attic black-figure hydria attributed to the Priam Painter, ca. 510 BC* [Photograph]. Metropolitan Museum of Art, L.1999.10.12. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Chariot_race_Met_L.1999.10.12.jpg (CC BY 2.5)
 
 ## Important Links
 
-- [Olympics.com — Ancient Olympic Games](https://www.olympics.com/en/olympic-games/ancient-olympic-games) — official history of the ancient program including chariot racing
-- [Britannica — Olympic Games](https://www.britannica.com/sports/Olympic-Games) — encyclopedic overview of ancient and modern Games
+- [Olympics.com — Ancient Olympic Games](https://www.olympics.com/en/olympic-games/ancient-olympic-games) — IOC history of the ancient Games incl. chariot racing from 680 BC
+- [Metropolitan Museum of Art — Priam Painter hydria](https://www.metmuseum.org/art/collection/search/254034) — chariot-race scene, ca. 510 BC
+- [Polo](polo.html) on this site — the modern mounted ball game descended from the ancient equestrian tradition

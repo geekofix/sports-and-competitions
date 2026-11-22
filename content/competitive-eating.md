@@ -1,21 +1,37 @@
 ## Basic Information
 
-Competitive eating is a contest in which participants eat as much of a given food as possible within a fixed time limit, usually ten minutes. It is governed professionally by the International Federation of Competitive Eating (IFOCE), which sanctions events worldwide and sets safety standards, and its best-known circuit is Major League Eating (MLE), which runs the annual schedule including the Nathan's Famous Hot Dog Eating Contest on Coney Island every 4 July.
+Competitive eating — also called speed eating — is the contest of consuming the largest quantity of food within a fixed time, governed in the professional scene by Major League Eating (MLE) / the International Federation of Competitive Eating (IFOCE), which sanctions events, keeps records and sets eligibility rules (Major League Eating [MLE], n.d.). The most famous event is Nathan's Famous Hot Dog Eating Contest at 1310 Surf Avenue, Coney Island, Brooklyn, held every 4 July since 1916; the 2026 edition on 4 July 2026 was won on the men's side by Joey Chestnut with 66 hot dogs and buns in 10 minutes — his 18th Nathan's title and 10th consecutive — ahead of Nick Bertoletti (51) and Derek Webb (47½), while on the women's side Miki Sudo won with 38¾ HDB, her 12th title, ahead of Michelle Lesco (22) (MLE, 2026; Wikipedia, n.d.-b). Chestnut's all-time contest record is 83 HDB, set in 2021; prize money at Nathan's runs from $10,000 for the winner down the placings (MLE, 2026). The 2026 season also marked Chestnut's full return after a one-year ban in 2024 over a sponsorship conflict with Impossible Foods, which had barred him from Nathan's; he returned in 2025 with 70½ HDB (Wikipedia, n.d.-b). At the end of the 2026 season the leading competitors are, first on the women's side, reigning Nathan's women's champion Miki Sudo — pictured below at the 2015 Pumpkin Festival — followed by Michelle Lesco; on the men's side, Joey Chestnut, pictured below at Nathan's 2010, remains the undisputed benchmark (MLE, 2026).
+
+![Miki Sudo at the Pumpkin Festival competitive eating contest, 2015](https://commons.wikimedia.org/wiki/Special:Redirect/file/Miki_Sudo_Pumpkin_Festival_Competitive_Eating_2015.jpg?width=420)
+
+*Figure: Miller, M. J. (2015, October 4). Miki Sudo Pumpkin Festival Competitive Eating 2015 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Miki_Sudo_Pumpkin_Festival_Competitive_Eating_2015.jpg*
+
+![Joey Chestnut celebrating victory at Nathan's 2010](https://commons.wikimedia.org/wiki/Special:Redirect/file/Joey_Chestnut_2010_Nathan%27s_Victory.jpg?width=480)
+
+*Figure: Michael (Hello Turkey Toe). (2010, July 4). Joey Chestnut 2010 Nathan's Victory [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Joey_Chestnut_2010_Nathan%27s_Victory.jpg*
 
 ## Rules
 
-Under IFOCE/MLE rules, each contestant gets a set amount of food and water on a timed clock (commonly 10 minutes); judges count the items completely eaten and swallowed before time expires. Partially eaten items do not count. Athletes may use techniques such as the "Solomon method" (splitting a hot dog in half) or dunking buns in water. Referees and medical staff are present at all sanctioned events because of the choking risk; contestants must pass medical clearance. Points go toward season rankings, and world championships decide titles in individual foods.
+Professional competitive eating is governed by the IFOCE, which licenses events through Major League Eating and sets the standard contest rules: a fixed time limit — 10 minutes at Nathan's — a defined plate of food (hot dogs and buns, or the event's specific food), free water or approved dipping liquid, and two judges plus a referee monitoring consumption; contestants may dunk food in liquid to soften it, must keep both feet on the ground and one hand may be raised to signal "I am finished" early (MLE, n.d.). The count is official only when the food is swallowed — food still in the mouth at the buzzer does not count, and partial pieces count as fractions (e.g., 38¾) (MLE, n.d.). Events are classified by food type and by gender: men's and women's contests are run separately at Nathan's and at all MLE/IFOCE-sanctioned events, with the same rules and time limits for both; age-wise the events are adult, with junior exhibition contests at some venues (MLE, n.d.; Wikipedia, n.d.-a). Eligibility rules require competitors to be healthy adults and sign waivers; MLE maintains the official world records by event and publishes rankings of its athletes (MLE, n.d.). The official rule source is the IFOCE/MLE rulebook published at majorleagueeating.com, the world governing body of the professional scene (MLE, n.d.).
 
 ## History
 
-Competitive eating grew out of county-fair eating contests in the US in the late 19th century. Nathan's Famous Hot Dog Eating Contest on Coney Island, first held in 1916, became the sport's most famous event. Major League Eating professionalized the circuit in 2010, and the IFOCE was founded to standardize rules and safety. Record holders such as Joey Chestnut (76 hot dogs in 10 minutes, 2021) and Takeru Kobayashi (who doubled the record in the 2000s) turned the sport into a televised spectacle broadcast on ESPN.
+Eating contests have roots in county fairs and Coney Island sideshows in 19th-century America, and Nathan's Famous — opened in 1916 — claims to have held the first hot dog eating contest on 4 July 1916, though early winners are disputed (Wikipedia, n.d.-b). The modern professional era began in the late 1990s when the IFOCE (founded 1997 as the International Federation of Competitive Eating; now folded into Major League Eating) started sanctioning events, setting records and creating a circuit with prize money (MLE, n.d.). Joey Chestnut (b. 1983, Westfield, Indiana) joined the scene in 2005 and broke through in 2007 with 66 HDB, a world record at the time; he has since won Nathan's 18 times (2007–2015, 2017–2023, 2025–2026) and holds the 83-HDB record from 2021 (Wikipedia, n.d.-b). On the women's side, Miki Sudo (b. 1985, New York City) has dominated since 2014, winning Nathan's 12 times through 2026 with her 2020 record of 48½ HDB; other icons include Takeru Kobayashi, who revolutionized the sport in 2001 with 50 HDB and the two-handed technique, and Sonya Thomas, the pioneering female competitive eater (Wikipedia, n.d.-a). The 2024 Impossible Foods sponsorship dispute, which cost Chestnut the 2024 Nathan's title (won by Patrick Bertoletti), showed how sponsorship rules shape the sport, before Chestnut's 2025 return (Wikipedia, n.d.-b).
 
 ## Sources
 
-- International Federation of Competitive Eating. (n.d.). *Rules and sanctioned events*. Retrieved November 20, 2026, from https://www.ifoce.org/
-- Major League Eating. (n.d.). *Events and rankings*. Retrieved November 20, 2026, from https://majorleagueeating.com/
+- Major League Eating. (n.d.). *IFOCE rules and eligibility*. Retrieved November 22, 2026, from https://majorleagueeating.com
+- Major League Eating. (2026). *Nathan's Famous Hot Dog Eating Contest 2026 — results*. Retrieved November 22, 2026, from https://majorleagueeating.com
+- Wikipedia. (n.d.-a). *Competitive eating*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Competitive_eating
+- Wikipedia. (n.d.-b). *Nathan's Hot Dog Eating Contest*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest
+
+### Figure Index
+
+- Miller, M. J. (2015, October 4). *Miki Sudo Pumpkin Festival Competitive Eating 2015* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Miki_Sudo_Pumpkin_Festival_Competitive_Eating_2015.jpg (CC BY-SA 3.0)
+- Michael (Hello Turkey Toe). (2010, July 4). *Joey Chestnut 2010 Nathan's Victory* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Joey_Chestnut_2010_Nathan%27s_Victory.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [IFOCE — International Federation of Competitive Eating](https://www.ifoce.org/) — world governing body; safety standards and sanctioned events
-- [Major League Eating](https://majorleagueeating.com/) — premier professional circuit; Nathan's Coney Island contest
+- [Major League Eating / IFOCE](https://majorleagueeating.com) — world governing body of professional competitive eating; sanctioned events, records, rankings
+- [Nathan's Famous Hot Dog Eating Contest](https://www.nathansfamous.com) — the iconic Coney Island contest since 1916, every 4 July
+- [Guinness World Records — eating records](https://www.guinnessworldrecords.com) — official world records for competitive eating

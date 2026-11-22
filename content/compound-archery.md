@@ -1,21 +1,39 @@
 ## Basic Information
 
-Compound archery is the discipline of archery with a compound bow, whose limbs use cams and a cable system to give a mechanical "let-off" at full draw, allowing the archer to hold a much lower weight at aim. Compound bows are used with a mechanical release aid and a sight. The discipline is governed by World Archery and is contested at the World Archery Championships, the World Cup, the World Games and the Olympic Games (Olympic archery uses recurve, but compound has its own world titles and is popular in field and 3D archery).
+Compound archery is the discipline of archery shot with a compound bow — a bow whose limbs are stiffened by a system of cables and cams (pulleys) so that the archer holds only a fraction of the peak draw weight at full draw ("let-off") (World Archery, n.d.-a). It is governed worldwide by World Archery, founded in 1931 as FITA (Fédération Internationale de Tir à l'Arc) and headquartered in Lausanne, Switzerland (World Archery, n.d.-b). The 2026 Hyundai Archery World Cup, the 20th edition, comprised stages in Puebla (7–12 April), Shanghai (5–10 May), Antalya (9–14 June) and Madrid (7–12 July) 2026 plus the Final in Saltillo, Mexico, on 12–13 September 2026; Mexico's Andrea Becerra defended the women's compound World Cup title while the USA's Brady Ellison defended the men's, with Sara Lopez chasing a tenth World Cup title and Great Britain's Ella Gibson ranked world No. 2 among women — Becerra ended Gibson's roughly 1,000-day reign at world No. 1 in 2025 (World Archery, 2026). The next World Archery Championships are scheduled for Medellín, Colombia, 16–22 August 2027, and compound archery will make its Olympic debut as a mixed team event at Los Angeles 2028 (World Archery, n.d.-b). In compound competition the round is shot at 50 m at an 80 cm target face — versus 70 m and 122 cm for recurve — and the women's individual compound final of the 2013 World Cup in Paris is pictured below; at the end of 2026 the leading women are Andrea Becerra (world No. 1), Ella Gibson and Sara Lopez, and the leading men Brady Ellison, Mathias Fullerton, Mike Schloesser and Emircan Haney (World Archery, 2026).
+
+![Women's individual compound final, 2013 FITA Archery World Cup, Paris](https://commons.wikimedia.org/wiki/Special:Redirect/file/2013_FITA_Archery_World_Cup_-_Women%27s_individual_compound_-_Final_-_06.jpg?width=560)
+
+*Figure: Beaudouin, P.-Y. (2013, September 21). 2013 FITA Archery World Cup — Women's individual compound — Final — 06 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:2013_FITA_Archery_World_Cup_-_Women%27s_individual_compound_-_Final_-_06.jpg*
 
 ## Rules
 
-Under the World Archery rules, target compound competitions are shot at 50 m on an 80 cm target face: the ranking round is 72 arrows, followed by match play in which each archer shoots three arrows within 20 seconds, alternating, best of five matches (ties broken by a single arrow). Scoring is 10 for the inner gold down to 1 for the outer ring; X (inner ten) breaks ties. Field archery shoots at unmarked distances on 3D or animal targets; 3D archery is judged on the kill zone. Equipment rules cover bow weight (max 60 lb at the fingers for men), stabilizers and release aids.
+Compound archery is governed by the World Archery Book of Rules, the official rulebook of the world federation (worldarchery.sport) (World Archery, n.d.-a). In the ranking round each archer shoots 72 arrows at 50 m at an 80 cm target face, 10-zone scoring, three arrows per end; the top archers then advance to matchplay, where pairs shoot best-of-five sets of three arrows, alternating shots, with 20 seconds per arrow on the clock — the first to three sets wins the match (World Archery, n.d.-a). Equipment rules: the compound bow consists of a riser, two limbs, cables and cams, a string, a sight, stabilizers and an arrow rest; mechanical release aids are permitted, and the maximum draw weight is limited by the rules (commonly up to about 60 lb in World Archery competition) (World Archery, n.d.-a). Events are classified by bow type (compound, recurve, barebow), by gender — men's and women's individual, team and mixed team events — and by age: senior, under-21 (junior), under-18 (cadet) and para classes (World Archery, n.d.-a). Men's and women's compound events use the same 50 m distance and 80 cm target; the only rule differences are organizational (separate podiums and rankings) (World Archery, n.d.-a). World Archery publishes the official world ranking list for compound, which in November 2026 is headed on the women's side by Andrea Becerra and on the men's side by the current No. 1 (World Archery, 2026).
 
 ## History
 
-The compound bow was invented in 1966 by Holless Wilbur Allen Jr. in Missouri, USA, and revolutionized archery with its let-off system. World Archery (then FITA, founded 1931) added compound to its world championships in the 1990s, and compound shooting has been part of the World Games program. While the Olympics use recurve bows, compound dominates hunting and 3D/field target archery, and manufacturers' technology has pushed arrow speeds above 300 fps. Stars include American archer Brady Ellison (recurve) and compound specialists such as Sara López of Colombia.
+The compound bow was invented by Holless Wilbur Allen Jr. of Missouri, USA, who in 1966 built the first working cam bow and was granted a U.S. patent in 1969 — his 1969 patent drawing, from the records of the Missouri Secretary of State, is pictured below (Wikipedia, n.d.-a). The design lets the archer hold perhaps 30–50 percent of the peak weight at full draw, allowing steadier aiming and higher arrow speeds; compound bows quickly became standard in target archery and bowhunting (Wikipedia, n.d.-a). World Archery — founded in 1931 in Lwów (then Poland) as FITA and renamed World Archery in 2011 — added compound to its world championship program in 1995 and to the World Cup in 2006; compound was included in the Youth Olympics from 2014 and will debut as a mixed team event at the Los Angeles 2028 Olympics (World Archery, n.d.-b). Dominant figures include the American Reo Wilde and Braden Gellenthien on the men's side and, among women, Sara Lopez of Colombia, the first woman to win the World Cup Final repeatedly and chasing a tenth World Cup title in 2026, Ella Gibson of Great Britain, world No. 1 for roughly 1,000 days until 2025, and Andrea Becerra of Mexico, the 2026 world No. 1 and defending World Cup champion (World Archery, 2026; Wikipedia, n.d.-b).
+
+![Holless Wilbur Allen, compound bow patent drawing, 1969](https://commons.wikimedia.org/wiki/Special:Redirect/file/Holless_Wilbur_Allen.png?width=420)
+
+*Figure: Missouri Secretary of State. (1969). Holless Wilbur Allen [Patent drawing]. Public domain (PD-US-gov). https://commons.wikimedia.org/wiki/File:Holless_Wilbur_Allen.png*
 
 ## Sources
 
-- Olympics.com. (n.d.). *Archery*. Retrieved November 20, 2026, from https://www.olympics.com/en/sports/archery/
-- World Archery. (n.d.). *Rules and disciplines*. Retrieved November 20, 2026, from https://worldarchery.sport/
+- Wikipedia. (n.d.-a). *Compound bow*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Compound_bow
+- Wikipedia. (n.d.-b). *World Archery*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Archery
+- World Archery. (n.d.-a). *Book of Rules*. Retrieved November 22, 2026, from https://www.worldarchery.sport
+- World Archery. (n.d.-b). *World ranking — compound*. Retrieved November 22, 2026, from https://www.worldarchery.sport
+- World Archery. (2026). *Hyundai Archery World Cup 2026 — stage results and Final, Saltillo*. Retrieved November 22, 2026, from https://www.worldarchery.sport
+
+### Figure Index
+
+- Beaudouin, P.-Y. (2013, September 21). *2013 FITA Archery World Cup — Women's individual compound — Final — 06* [Photograph]. Wikimedia Commons. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:2013_FITA_Archery_World_Cup_-_Women%27s_individual_compound_-_Final_-_06.jpg (CC BY-SA 3.0)
+- Missouri Secretary of State. (1969). *Holless Wilbur Allen* [Patent drawing]. Retrieved November 22, 2026, from https://commons.wikimedia.org/wiki/File:Holless_Wilbur_Allen.png (Public domain, PD-US-gov)
 
 ## Important Links
 
-- [World Archery](https://worldarchery.sport/) — world governing body; World Championships, World Cup, rule book
-- [Olympics.com — Archery](https://www.olympics.com/en/sports/archery/) — Olympic archery program and history
+- [World Archery](https://www.worldarchery.sport) — world governing body (founded 1931 as FITA); Book of Rules, calendar, world championships
+- [World Archery Ranking — compound](https://www.worldarchery.sport) — official world ranking; women's No. 1 Andrea Becerra (2026)
+- [Hyundai Archery World Cup 2026](https://www.worldarchery.sport) — Puebla, Shanghai, Antalya, Madrid, Final Saltillo 12–13 September 2026
+- [Archery](archery.html) on this site
