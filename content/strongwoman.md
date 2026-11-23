@@ -1,23 +1,30 @@
 ## Basic Information
 
-Strongwoman is the women's branch of strength athletics: athletes contest the same spectacular event types as the men "+E+" Atlas stones, yoke and frame carries, vehicle pulls, log presses and maximal deadlifts "+E+" across standalone competitions and women's divisions of major strongman contests. The discipline's flagship is the World's Strongest Woman, which revived in 2017 and joined the same professional calendar as the men's tour.
+Strongwoman is the women's division of strongman strength competition: female athletes contest the same signature events — yoke walk, log press, deadlift, atlas stones, farmer's walk, vehicle pull — with loads scaled to roughly half of the men's implements. The premier title is World's Strongest Woman, inaugurated in 1997 in Copenhagen and won that first edition by Michelle Sorensen, staged alongside World's Strongest Man by Giants Live (World's Strongest Man, n.d.; Wikipedia, n.d.). The current standard-bearer is Andrea Thompson of the USA, who won the title in 2018 and again in 2025 at the Arlington, Texas final in November 2025; other recent champions include Donna Moore (2016, 2017, 2019) and Rebecca Roberts (2021, 2023), while Britain's Lucy Underdown set a 325 kg deadlift world record in 2024 (World's Strongest Man, n.d.; Wikipedia, n.d.).
 
 ## Rules
 
-Competition follows strongman's multi-event format, with placings per event converted to points and the best cumulative total winning. Events are scaled to the women's elite field but identical in structure: stone lifts over bar or onto platforms, yoke and sandbag carries, deadlift and log press for maximum weight or repetitions, and harness pulls of vehicles. Sanctioning bodies enforce the same equipment, motion and safety standards adapted where appropriate (implement dimensions and loading increments), and contests typically run five to seven events across one or two days, with weight classes in some national federations and an open class on the professional world stage.
+Strongwoman contests mirror the men's event menu — atlas stones, yoke carry, log or dumbbell overhead press, deadlift, farmer's walk, vehicle pull and stones-to-shoulders — with each event awarding points by placing and the highest aggregate score taking the title (World's Strongest Man, n.d.). Loads are scaled down, typically to about half the men's weights, and weight classes (open, light-heavyweight, heavyweight and lighter divisions) structure the amateur scene under the IFSA (Wikipedia, n.d.). Judging, timing, suit and strap rules are identical for men and women; the only systematic differences are the implement weights and, at some amateur events, shorter time limits (World's Strongest Man, n.d.). Women compete in their own division at every major show, and the IFSA runs dedicated strongwoman world championships (Wikipedia, n.d.).
 
 ## History
 
-Women have competed in feats of strength since the strongman era of vaudeville, but modern strongwoman competition organized in the 1990s and 2000s alongside the men's sport, with early strongwoman world championships staged from 1997 onward. The World's Strongest Woman name went dormant for nearly a decade before its revival in 2017, when it began running alongside the men's elite circuit; athletes such as Donna Moore, Andrea Thompson and current champions pushed women's world records in deadlift, stone and vehicle events to elite levels. The sport has grown rapidly in the past decade with dedicated professional contests such as the World's Ultimate Strongwoman and Rogue Record Breakers showcases alongside major strongman events, national championships on several continents and record-breaking television features that has made strongwoman one of the most-watched growth sports in strength athletics.
+Women's feats of strength have a long circus and stage tradition — from the strongwoman Charmion (Laverie Vallée) in the 1890s to Katie Sandwina, who famously lifted larger men in the early 1900s — but organized strongwoman competition began only in the late 20th century (Wikipedia, n.d.). The IFSA ran its Strongwoman World Championship from 2005 to 2008, dominated by Poland's Aneta Florczyk, who won in 2003, 2005, 2006 and 2008 and is regarded as the pioneer of the modern era; World's Strongest Lady ran in 2011 (won by Nina Geria), and since then World's Strongest Woman — first held in Copenhagen in 1997 with Michelle Sorensen as the inaugural champion — has become the undisputed season finale for the women's elite (World's Strongest Man, n.d.; Wikipedia, n.d.).
+
+![Aneta Florczyk, four-time IFSA strongwoman world champion](https://commons.wikimedia.org/wiki/Special:Redirect/file/Aneta_Florczyk.JPG?width=480)
+
+*Figure: Artur Andrzej. (2009, June). Aneta Florczyk — World's Strongest Woman [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Aneta_Florczyk.JPG*
 
 ## Sources
 
-- World's Strongest Man. (n.d.). *History of the competition*. Retrieved November 21, 2026, from https://www.theworldsstrongestman.com/history/
-- Wikipedia. (n.d.). *World's Strongest Woman*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/World%27s_Strongest_Woman
-- Strongman Archives. (n.d.). *Strongwoman contest results*. Retrieved November 21, 2026, from https://strongmanarchives.com/
+- Wikipedia. (n.d.). *Strongwoman — women's strongman division; circus strongwomen Charmion and Katie Sandwina; IFSA strongwoman worlds; weight classes and scaled loads*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Strongwoman
+- World's Strongest Man. (n.d.). *World's Strongest Woman — inaugural 1997 Copenhagen won by Michelle Sorensen; champions Andrea Thompson 2018 and 2025 (Arlington, Texas, November 2025), Donna Moore 2016/2017/2019, Rebecca Roberts 2021/2023; events with loads scaled ~50%; Lucy Underdown 325 kg deadlift world record 2024; IFSA Strongwoman World Championship 2005–2008 (Aneta Florczyk 2003/2005/2006/2008); World's Strongest Lady 2011 (Nina Geria)*. Retrieved November 23, 2026, from https://www.theworldsstrongestman.com/
+
+### Figure Index
+
+- Artur Andrzej. (2009, June). *Aneta Florczyk* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Aneta_Florczyk.JPG (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Strongman](strongman.html) — the men's sport and shared event library, on this site
-- Women's strength records and showcases — the fast-rising profile of the sport, on this site
-- Powerlifting and strength training foundations — the base disciplines behind strongwoman athletes, on this site
+- [World's Strongest Woman (World's Strongest Man)](https://www.theworldsstrongestman.com/) — premier women's strength title, results and records
+- [IFSA — International Federation of Strength Athletes](https://ifsa-strength.com/) — strongwoman world championships and weight classes
+- [Strongman](strongman.html), [Powerlifting](powerlifting.html) and [Weightlifting](weightlifting.html) on this site — the men's strength disciplines

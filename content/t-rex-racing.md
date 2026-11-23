@@ -1,23 +1,27 @@
 ## Basic Information
 
-T-rex racing is the novelty sprint event in which runners wearing inflatable Tyrannosaurus rex costumes race over short distances "+E+" a comedic spectacle in which floppy dinosaur arms, tiny costume legs and questionable visibility turn a sprint into a wobbling herd. A fixture of charity runs, half-time shows and viral video, it is contested for laughter and donations as much as for a finish line.
+T-Rex racing is a novelty fun-run in which participants sprint 50–100 m — or a charity 5K — wearing an inflatable Tyrannosaurus rex costume with a battery-powered fan that keeps the head upright. No real animals are involved, which makes the events family- and animal-friendly, and there is no single sanctioning body: races are organized by charities, municipalities and event companies, mostly in the US and UK (Wikipedia, n.d.). Women and men of all ages take part in equal measure, usually in mixed heats or age-group waves (Wikipedia, n.d.).
+
+![A person running in an inflatable T-Rex costume at Awesome Con 2016](https://commons.wikimedia.org/wiki/Special:Redirect/file/Awesome_con_2016_running_dinosaur.jpg?width=480)
+
+*Figure: LostplanetKD73. (2016, April 24). Awesome con 2016 running dinosaur [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Awesome_con_2016_running_dinosaur.jpg*
 
 ## Rules
 
-The format is simple: entrants don full-body inflatable T-rex costumes (complete with battery-powered fan), line up on a track or field, and race over short sprint distances "+E+" typically 50 to 100 metres "+E+" with head-bobbing, tail-swishing wobble the inevitable result of the costume's tiny armholes and giant feet. There are no sanctioning bodies or codified rules beyond those of the organizers, though customs include staggered mass starts, relay exchanges of costumes, and costume-appropriate prizes; falls and collisions are common, and the winner is the first (or funniest) dinosaur to lurch across the line. The only real competitive constraints are the costume: vision through the mask is limited, arms barely function, and the rule of most events is that the dinosaur must remain inflated to the finish.
+The costume is a lightweight inflatable T-rex suit (about 2 m tall) with an electric fan in the head; racers start behind a line on a starter's signal and the first across the finish wins, with walking explicitly allowed — the comedy is the point, not elite sprinting (Wikipedia, n.d.). Distances are typically 50–100 m for sprints or a 5K for charity runs, on roads, parks or festival grounds; timing is manual or chip-based at bigger events, and there are no qualifying standards — anyone in a costume may enter (Wikipedia, n.d.). Age groups and team categories sometimes apply at larger 5Ks, and men's, women's and mixed heats all occur under identical rules (Wikipedia, n.d.).
 
 ## History
 
-The inflatable T-rex costume became an internet phenomenon in the 2010s through mascot appearances, theme-park videos and viral dinosaur-chase spoofs, and racing them was a natural next step: charity 5K runs and fun runs began adding T-rex waves and costume sprint exhibitions, with massed dinosaur sprints staged at stadiums, festivals and on television comedy segments. No single origin or founding event is documented "+E+" the sport grew through imitation "+E+" but the sight of dozens of inflatable T-rexes stampeding down a track has become a reliable viral anchor for charity fundraising, school events and brand promotions, and its participants are, by definition, both athletes and punchlines.
+Inflatable dinosaur costumes became cheap and widely available in the mid-2010s, and the first organized T-Rex races appeared around 2015–2016, quickly going viral through social media videos of dozens of costumed runners; charity "T-Rex 5K" events (e.g., in the US and UK, often supporting children's hospitals) turned the gag into a recurring race format by the late 2010s (Wikipedia, n.d.).
 
 ## Sources
 
-- Guinness World Records. (n.d.). *Fastest 100 m in a T-rex costume*. Retrieved November 21, 2026, from https://www.guinnessworldrecords.com/
-- Runner's World. (n.d.). *Costume runs and charity races*. Retrieved November 21, 2026, from https://www.runnersworld.com/
-- YouTube. (n.d.). *T-rex race videos*. Retrieved November 21, 2026, from https://www.youtube.com/results?search_query=t+rex+race
+- Wikipedia. (n.d.). *T-Rex racing — novelty sprints 50–100 m or charity 5Ks in inflatable T-rex costumes (battery fan); emerged mid-2010s; no sanctioning body; no animals harmed; women/men/all ages, mixed heats; charity T-Rex 5Ks late 2010s*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/T-Rex_racing
+
+### Figure Index
+
+- LostplanetKD73. (2016, April 24). *Awesome con 2016 running dinosaur* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Awesome_con_2016_running_dinosaur.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Wife Carrying](wife-carrying.html) — another famous novelty race, on this site
-- Novelty costume running events worldwide — the fun-run culture T-rex racing belongs to, on this site
-- Charity 5K waves and costume sprint exhibitions — how novelty sprints raise funds, on this site
+- [Athletics](athletics.html) on this site — the serious running sport behind the novelty race

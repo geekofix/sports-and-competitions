@@ -1,23 +1,33 @@
 ## Basic Information
 
-Supercross is stadium motorcycle racing: the tightly packaged evolution of motocross run inside football and baseball stadiums on man-made dirt tracks of whoops, rhythm lanes, double and triple jumps and bermed corners. It is the most spectator-packed form of off-road motorcycle racing, headlined by the AMA Supercross Championship.
+Supercross is indoor motocross: riders race 250 cc and 450 cc four-stroke machines on compact artificial dirt tracks built inside stadiums, packed with whoops, rhythm sections and big jumps. The premier US series is AMA Supercross, sanctioned by the American Motorcyclist Association since 1974 and staged over about 17 rounds from January to May, with 450SX and 250SX East/West classes plus the SMX playoff series that crowns overall champions — in 2026 Jorge Prado took the 450 title and Levi Kitchen the 250 (AMA, n.d.; Wikipedia, n.d.-b). The 2025 AMA 450SX champion was Cooper Webb, his third title, after Jett Lawrence in 2024 (Wikipedia, n.d.-a). Internationally, the FIM Supercross World Championship (WSX), rebooted in 2022 by SX Global, crowned Jason Anderson (SX1) and Max Anstie (SX2) in 2025; the 2026 edition was cancelled after its opening round, which Cooper Webb won (FIM, n.d.). Women's supercross classes exist in national series such as AMA Arenacross, and women riders compete in the FIM's women's motocross categories alongside (AMA, n.d.).
+
+![Ken Roczen at the 2016 Oakland AMA Supercross round](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ken_Roczen_at_Supercross_Oakland_2016.jpg?width=480)
+
+*Figure: David Schneller. (2016, January 30). Ken Roczen at Supercross Oakland 2016 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ken_Roczen_at_Supercross_Oakland_2016.jpg*
 
 ## Rules
 
-Track design is the sport's signature: a Supercross course fits inside a stadium, with a starting gate of twenty-two riders, a lap of roughly one minute, and obstacles engineered for spectacle "+E+" whoop sections, rhythm lanes, step-up and step-down jumps and deep berms. Race day runs heat races and a last-chance qualifier feeding the main event, with points scored per main-event finish and the season's cumulative total deciding the 450cc and 250cc class titles; the 250 class is split into East and West regional series. Machines are production-based four-stroke motocross bikes (450cc and 250cc), tuned for sharp power delivery and precise suspension action over the compressed track features, and races are physical sprints of roughly fifteen to twenty minutes plus a lap.
+A supercross track is roughly 200–300 m of packed dirt inside a stadium, with a starting gate limited to 22 riders for the main events; a round runs heat races and a Last Chance Qualifier (LCQ), then main events — the 450SX main is about 20 minutes plus one lap (Wikipedia, n.d.-a). Riders earn championship points from their main-event finish on a descending scale, double mains and Triple Crown rounds multiply the stakes, and the SMX playoffs combine heat and main-event points across three rounds to crown overall champions (AMA, n.d.). Bikes are 450 cc or 250 cc four-strokes with modified suspension, protective gear (helmet, goggles, chest protector, boots) mandatory; women compete in dedicated women's classes in national series under the same track rules (Wikipedia, n.d.-b).
 
 ## History
 
-Supercross grew out of motocross, the off-road motorcycle racing born of British scrambling in the 1920s: in the early 1970s, American promoters brought the sport indoors, staging the first stadium races in 1972 at venues such as Daytona and the Los Angeles Memorial Coliseum, and the AMA began sanctioning a national Supercross championship as the format's popularity exploded across the United States. The sport produced a run of American icons "+E+" from Bob Hannah and Ricky Johnson through Jeremy McGrath (the winningest rider of the 1990s) and Ricky Carmichael to James Stewart and modern champions such as Eli Tomac and Jett Lawrence "+E+" and the championship's roughly seventeen-round winter-spring calendar runs from Anaheim to Las Vegas each year. Supercross remains the most commercially successful off-road motorcycle series in the world, with worldwide television coverage and its freestyle motocross cousin showcasing the same machinery in judged aerial contests.
+Supercross began when promoter Marty Tripes staged the first indoor stadium motocross race at the Los Angeles Coliseum in 1972; the AMA sanctioned its own championship from 1974, and the sport exploded with televised coverage in the 1980s–2000s (Wikipedia, n.d.-a). Its icons are Jeremy McGrath, the seven-time AMA Supercross champion of the 1990s, Ricky Carmichael, James Stewart, Ryan Villopoto and Chad Reed, with Ken Roczen winning the 2016 title (Wikipedia, n.d.-a). The FIM's international WSX series ran from 2022 under SX Global before the 2026 cancellation (FIM, n.d.).
 
 ## Sources
 
-- AMA Supercross. (n.d.). *Championship and schedule*. Retrieved November 21, 2026, from https://www.supercrosslive.com/
-- Wikipedia. (n.d.). *Supercross*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Supercross
-- FIM. (n.d.). *Supercross and motocross rules*. Retrieved November 21, 2026, from https://www.fim-moto.com/
+- AMA. (n.d.). *American Motorcyclist Association — AMA Supercross since 1974, ~17 rounds Jan–May, 450SX and 250SX East/West, 22-rider gate, heats + LCQ + main event, SMX playoffs (2026 overall: Jorge Prado 450, Levi Kitchen 250); 2025 450SX champion Cooper Webb (3rd title), 2024 Jett Lawrence; women's classes in Arenacross*. Retrieved November 23, 2026, from https://www.americanmotorcyclist.com/
+- FIM. (n.d.). *FIM Supercross World Championship (WSX) — rebooted 2022 by SX Global; 2025 SX1 Jason Anderson, SX2 Max Anstie; 2026 cancelled after round 1 (Cooper Webb won it)*. Retrieved November 23, 2026, from https://www.fim-moto.com/
+- Wikipedia. (n.d.-a). *Supercross — Marty Tripes first indoor race LA Coliseum 1972; AMA sanctioned from 1974; stadium dirt tracks with whoops/jumps; icons McGrath 7× AMA SX, Carmichael, Stewart, Villopoto, Reed; Ken Roczen 2016 champion*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Supercross
+- Wikipedia. (n.d.-b). *AMA Supercross Championship — heat/LCQ/main format, 20-minute + 1 lap 450SX mains, championship points, Triple Crown, women's classes in support series*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/AMA_Supercross_Championship
+
+### Figure Index
+
+- David Schneller. (2016, January 30). *Ken Roczen at Supercross Oakland 2016* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Ken_Roczen_at_Supercross_Oakland_2016.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Supermoto](supermoto.html) — motocross machinery racing dirt and pavement, on this site
-- [Sprint car racing](sprint-car-racing.html) — another stadium-born racing spectacle, on this site
-- The AMA Supercross calendar and the road from Anaheim — how a season unfolds, on this site
+- [AMA Supercross — official site](https://www.supercrosslive.com/) — US championship calendar, results, standings
+- [FIM Supercross World Championship (WSX)](https://www.fim-moto.com/) — international world championship
+- [World Supercross Championship](https://www.worldsupercrosschampionship.com/) — WSX rounds and results
+- [Motocross](motocross.html), [Enduro](enduro.html) and [Motorcycle racing](motorcycle-racing.html) on this site — other off-road disciplines

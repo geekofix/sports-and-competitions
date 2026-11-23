@@ -1,23 +1,34 @@
 ## Basic Information
 
-Street workout is the outdoor strength culture built around bodyweight training in public parks: pull-up bars, parallel bars and poles become the stage for pull-ups, dips, muscle-ups and legendary static holds such as the human flag, front lever and planche. Born in urban playgrounds and popularized worldwide by online video, it has grown from neighborhood workouts into a competitive sport with world cups, national teams and weight-lifting offshoots like streetlifting.
+Street workout is competitive calisthenics performed on public park equipment — pull-up bars, parallel bars, dip stations and rings — combining raw strength elements (pull-ups, dips, muscle-ups), endurance holds and freestyle routines. It is governed internationally by the World Street Workout and Calisthenics Federation (WSWCF), founded on 8 April 2011, registered in Latvia on 17 May 2011 and headquartered in Riga; the first WSWCF World Championship was held in Riga in 2011, and the 15th-anniversary edition took place there again on 13–15 August 2026 (WSWCF, n.d.-a). Competition runs in three disciplines — Power, Endurance and Freestyle battles — through national World Cup stages and a season-ending Super Final; women compete in all disciplines, and the federation explicitly prioritizes growing the female side of the sport in Power and Endurance (WSWCF, n.d.-a). Its barbell-based cousin is streetlifting, where weighted pull-ups, dips and muscle-ups are contested for one-repetition maximums (Wikipedia, n.d.).
+
+![Street workout exercises on outdoor bars](https://commons.wikimedia.org/wiki/Special:Redirect/file/Street-workout-exercises.jpg?width=480)
+
+*Figure: Someone272. (2022, February 4). Street-workout-exercises [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Street-workout-exercises.jpg*
+
+Among current elite athletes, the 2026 WSWCF Calisthenics World Championship in Riga crowned Edgar Papoyan of Armenia as men's absolute freestyle champion, Dimitris Siderakis of Greece in endurance and Stoyan Banov of Bulgaria in power, with women's divisions contested alongside — the women's field is now a permanent part of the world championship program (WSWCF, n.d.-a; WSWCF, n.d.-b).
 
 ## Rules
 
-Athletes train and compete on pull-up and dip bars, performing repeatable strength elements (pull-ups, chin-ups, muscle-ups, push-ups, dips, squats) and static isometric skills (planche, front and back lever, human flag, L-sit) each held with strict form. Competition formats award points for strength elements and dynamic freestyle: judges score static moves on hold time and form, and freestyle routines on difficulty, execution and creativity, with discipline bodies such as the World Street Workout and Calisthenics Federation standardizing categories including timed pull-up and dip battles, weightlifting contests and battle-of-the-bar events. Streetlifting, the barbell-based cousin, contests the weighted pull-up, weighted dip and muscle-up for a one-rep maximum with strict judging of range of motion.
+WSWCF competitions run in three disciplines: Power (maximum repetitions or held elements such as the human flag or front lever within a time limit), Endurance (maximum repetitions of pull-ups, dips or muscle-ups in a set time) and Freestyle (choreographed routines of 60–90 seconds judged on difficulty, execution, composition and musicality) (WSWCF, n.d.-a). Athletes qualify through national federations and World Cup stages and meet at the annual World Championship and the Super Final; judging panels score each routine against the federation's rulebook, with deductions for falls, touches and time violations (WSWCF, n.d.-b). Equipment is minimal — bars, rings, parallettes — and athletes compete in their own weight or age categories where offered; men and women compete in parallel divisions, with mixed freestyle categories at some events (WSWCF, n.d.-a). In streetlifting, the barbell cousin, athletes lift their bodyweight plus added load for a single maximum in the pull-up, dip, muscle-up or squat (Wikipedia, n.d.).
 
 ## History
 
-Street workout descends from calisthenics, the bodyweight exercise tradition that goes back to nineteenth-century physical culture, but its modern form emerged in the urban parks of New York and post-Soviet cities in the 2000s, where outdoor pull-up courts were neighborhood institutions. YouTube's arrival in 2005 changed everything: athletes such as Hannibal For King built global audiences, and teams across Russia, Ukraine, the United States, Israel and North Africa formalized tricks and competitions on video. The World Street Workout and Calisthenics Federation (WSWCF) was founded in 2011 and began holding World Cups, national championships and world titles, while dedicated calisthenics parks spread worldwide from Los Angeles parkour gyms to Zurich riverbank courts; streetlifting now has its own national federations, and gym brands, school programs and athlete sponsorships have made the discipline one of the fastest-growing fitness movements of the century so far.
+Street workout descends from 19th-century gymnastics and military calisthenics, but its modern form grew in the 2000s in New York City parks and post-Soviet countries, where athletes trained on outdoor bars and posted videos — the 2005 YouTube era of calisthenics videos such as Hannibal For King made the sport globally visible (Wikipedia, n.d.). The WSWCF was founded on 8 April 2011 and registered in Latvia on 17 May 2011 (No. 40009178458) with its headquarters in Riga; nine countries signed the founding memorandum on 28 August 2011, the first World Championship was held in Riga later that year, and national federations have since spread the sport across Europe and beyond (WSWCF, n.d.-a).
 
 ## Sources
 
-- World Street Workout and Calisthenics Federation. (n.d.). *Competition rules*. Retrieved November 21, 2026, from https://wswcf.org/
-- Wikipedia. (n.d.). *Street workout*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Street_workout
-- Deutscher Calisthenics und Streetlifting Verband. (n.d.). *Streetlifting in Germany*. Retrieved November 21, 2026, from https://dcsv.de/
+- Wikipedia. (n.d.). *Street workout — origins in 19th-century calisthenics; 2000s NYC/post-Soviet park bars; YouTube era from 2005 (Hannibal For King); streetlifting barbell cousin (weighted pull-up/dip/muscle-up 1RM)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Street_workout
+- WSWCF. (n.d.-a). *World Street Workout and Calisthenics Federation — founded 8 April 2011, registered Latvia 17 May 2011 (No. 40009178458), HQ Riga; first World Championship 2011 Riga; nine founding countries MoU 28 August 2011; disciplines Power/Endurance/Freestyle; World Cup stages + Super Final; women's divisions*. Retrieved November 23, 2026, from https://wswcf.org/
+- WSWCF. (n.d.-b). *Calisthenics World Championship 2026, Riga, 13–15 August — men's absolute champions Edgar Papoyan (ARM, freestyle), Dimitris Siderakis (GRE, endurance), Stoyan Banov (BUL, power); judging panels; 15th anniversary*. Retrieved November 23, 2026, from https://wswcf.org/world-championship-was-held-from-13th-through-15th-august-riga-latvia/
+
+### Figure Index
+
+- Someone272. (2022, February 4). *Street-workout-exercises* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Street-workout-exercises.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- Calisthenics parks, street workout courts and the WSWCF world stage — the venues and bodies of the sport, on this site
-- [CrossFit](crossfit.html) and [Hyrox](hyrox.html) — other competitive functional-fitness sports, on this site
-- Static strength disciplines such as [Steinholding](steinholding.html) — other sports where the hold is the event, on this site
+- [World Street Workout and Calisthenics Federation](https://wswcf.org/) — world governing body; World Championship, World Cup stages, Super Final, rulebooks
+- [WSWCF results archive](https://wswcf.org/) — CWC 2025 Power/Endurance/Freestyle results
+- [Crossfit](crossfit.html) and [Hyrox](hyrox.html) on this site — other fitness-competition formats
+- [Gymnastics](gymnastics.html) on this site — the apparatus-based indoor cousin

@@ -1,23 +1,32 @@
 ## Basic Information
 
-Strongman is the sport of strength athletics: competitors contest a series of heavy, spectacular events "+E+" lifting stones, carrying yokes and anchors, pulling trucks, pressing logs overhead "+E+" testing raw power, grip and conditioning rather than a single barbell lift. Its pinnacle is the World's Strongest Man, contested annually since 1977, alongside a world circuit of grand prix contests and continental championships.
+Strongman is the competitive sport of maximal strength: athletes lift, carry, press and drag heavy implements — atlas stones, yokes, farmer's walk handles, logs, circus dumbbells, vehicles — for points awarded by placing in each event. Its flagship competition is World's Strongest Man, first held in 1977 and now run by Giants Live, while the International Federation of Strength Athletes (IFSA) runs a rival circuit; together they govern the elite open-weight scene (Giants Live, n.d.; Wikipedia, n.d.-a). The women's equivalent is strongwoman, contested with scaled-down loads at the same World's Strongest Woman events (Giants Live, n.d.). At the elite level the 2026 World's Strongest Man final in Myrtle Beach was won by Mitchell Hooper of Canada, the 2023 champion who has since become the sport's dominant figure (Wikipedia, n.d.-b).
+
+![A strongman carrying an atlas stone during competition](https://commons.wikimedia.org/wiki/Special:Redirect/file/Niclas_Lindgren_Atlassten_2013-07-23_17-13.jpg?width=480)
+
+*Figure: Nigge300. (2013, July 23). Niclas Lindgren Atlassten (atlas stone carry) [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Niclas_Lindgren_Atlassten_2013-07-23_17-13.jpg*
 
 ## Rules
 
-A strongman competition is decided across a multi-event program: classic implements include the Atlas stones (lifting increasingly heavy round stones onto platforms in sequence), the yoke walk (a loaded frame carried across the shoulders), farmer's walks with heavy handles in each hand, vehicle pulls (trucks, planes and trains harnessed to the athlete), log or circus-dumbbell presses, deadlifts for maximum weight or repetitions, and loading races that stack heavy objects onto a platform. Points are awarded per event by placing, and the athlete with the best cumulative score wins; weights and times are standardized by sanctioning bodies, which also enforce equipment rules (suits and belts permitted, straps generally banned in deadlifts), three-attempt formats for maximum lifts, and strict motion standards on carries and presses. Athletes range from about 120 to over 200 kilograms, and events are engineered to test static strength, moving strength, grip and endurance across a single weekend.
+A strongman contest consists of five to eight events, typically including the atlas stones (carrying five progressively heavier stones, 100–180+ kg, over a set distance), the yoke walk, the farmer's walk, a vehicle pull, a log or circus dumbbell overhead press and a deadlift; athletes earn points per event by placing (e.g., 10-8-6-5-4-3-2-1), and the highest total wins (Wikipedia, n.d.-a). Events are timed or judged for completion, straps and suits are regulated, and the open class has no weight limit while under-105 kg and under-90 kg classes exist at many shows (Giants Live, n.d.). Men's and women's contests use the same event menu with loads scaled to roughly half for the women's division, and both are officiated under the same judging standards — the rulebooks differ only in the weights (Giants Live, n.d.; Wikipedia, n.d.-b).
 
 ## History
 
-The modern sport crystallized in 1977, when the first World's Strongest Man contest assembled weightlifters, bodybuilders, American football players and powerlifters at Universal Studios for televised brute-strength tests in the mold of Highland games and old-time strongman shows (the earlier era of vaudeville strongmen and classic strongmen had faded decades earlier). The early decades were dominated by legends such as Bill Kazmaier, Jon Pall Sigmarsson, Magnus Ver Magnusson and Mariusz Pudzianowski, and the International Federation of Strength Athletes (IFSA, founded 1995) briefly organized its own calendar before the sport reconsolidated around the IMG-run World's Strongest Man, the Strongman Super Series and, later, the Giants Live qualifying tour. The modern era has produced its own giants "+E+" from Brian Shaw and Hafthor Julius Bjornsson to current champions like Mitchell Hooper "+E+" and the discipline thrives worldwide with national championships, the World's Strongest Man on network television, and amateur circuits feeding a professional athlete class.
+Strongman's roots are the 19th-century strongmen of circus and fairground — Louis Cyr, Eugen Sandow and the Apollon — whose feats of strength became professional entertainment; the modern contest format was created in 1977 when the US broadcaster TWI/IMG staged the first World's Strongest Man at Universal Studios in California, won by Bruce Wilhelm (Wikipedia, n.d.-b). Icons of the sport include Bill Kazmaier (1980–1982), Geoff Capes, Iceland's Jón Páll Sigmarsson (four titles 1984, 1986, 1988, 1990; died 1993), Magnús Ver Magnússon (four titles), Mariusz Pudzianowski — a record five titles (2002, 2003, 2005, 2007, 2008) — Žydrūnas Savickas and Brian Shaw (four each), Eddie Hall (2017, famous for the 500 kg deadlift), Hafþór Júlíus Björnsson (2018), Martins Licis (2019), Oleksandr Novikov (2020) and the Stoltman brothers, with Tom Stoltman winning in 2021, 2022 and 2024 (Wikipedia, n.d.-b). The IFSA was founded in 1995 and ran a split world championship in the 2000s before the scenes consolidated again (Wikipedia, n.d.-a).
 
 ## Sources
 
-- World's Strongest Man. (n.d.). *History of the competition*. Retrieved November 21, 2026, from https://www.theworldsstrongestman.com/history/
-- Wikipedia. (n.d.). *World's Strongest Man*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/World%27s_Strongest_Man
-- Strongman Archives. (n.d.). *World's Strongest Man contest results*. Retrieved November 21, 2026, from https://strongmanarchives.com/
+- Giants Live. (n.d.). *World's Strongest Man — events (atlas stones, yoke, farmer's walk, log/circus dumbbell press, vehicle pull, deadlift), placing points, open/under-105/under-90 classes; World's Strongest Woman with scaled loads; 2026 final Myrtle Beach won by Mitchell Hooper*. Retrieved November 23, 2026, from https://www.giants-live.com/
+- Wikipedia. (n.d.-a). *Strongman — event formats and placing points; IFSA founded 1995; regulation of straps, suits and judging*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Strongman
+- Wikipedia. (n.d.-b). *World's Strongest Man — first edition 1977 Universal Studios by TWI/IMG, won by Bruce Wilhelm; champions Kazmaier 1980–82, Sigmarsson 1984/86/88/90, Magnús Ver Magnússon 4×, Pudzianowski record 5× (2002–2008), Savickas 4×, Shaw 4×, Hall 2017 (500 kg deadlift), Björnsson 2018, Licis 2019, Novikov 2020, Stoltman 2021/22/24, Hooper 2023*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/World%27s_Strongest_Man
+
+### Figure Index
+
+- Nigge300. (2013, July 23). *Niclas Lindgren Atlassten* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Niclas_Lindgren_Atlassten_2013-07-23_17-13.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- The World's Strongest Man and the Giants Live qualifying tour — how athletes reach the sport's top stage, on this site
-- [Strongwoman](strongwoman.html) — the women's side of strength athletics, on this site
-- [Stone put](stone-put.html) and [Sheaf toss](sheaf-toss.html) — festival strength events that fed the sport, on this site
+- [Giants Live — World's Strongest Man](https://www.giants-live.com/) — flagship world championship and Strongman Champions League
+- [IFSA — International Federation of Strength Athletes](https://ifsa-strength.com/) — rival world championship circuit
+- [Strongman Archives](https://strongmanarchives.com/) — historical results database
+- [Strongwoman](strongwoman.html), [Weightlifting](weightlifting.html) and [Powerlifting](powerlifting.html) on this site — the other barbell strength sports
