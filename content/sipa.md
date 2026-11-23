@@ -1,22 +1,25 @@
 ## Basic Information
 
-Sipa ("kick") is the Philippines' traditional native sport, played before Spanish rule and related to the Southeast Asian family of kick-ball games that includes sepak takraw. In its best-known form, players kick a soft rattan-woven ball or a cloth-covered washer — using only the feet and legs below the knee — over a net or keep it aloft in a solo or circle game, scoring points for kicks and control without the ball touching the ground. Once celebrated as the Philippines' national sport, sipa survives today in school games and cultural festivals.
+Sipa is a traditional Thai kicking game in which players stand in a circle and keep a small woven rattan ball in the air using only feet, knees, chest and head — hands and arms are not allowed; it is the ancestor of sepak takraw and is still played across Thailand, from village festivals to schoolyards, and is promoted as part of Thailand's intangible cultural heritage (Tourism Authority of Thailand, n.d.; Wikipedia, n.d.-b). The ball is a light rattan sphere, and a player who lets it touch the ground loses the rally; the game is played by women and men alike, in mixed circles (Wikipedia, n.d.-a).
+
+Women and men both play sipa, and mixed circles are the norm at festivals; the game is one of the traditional Thai games that Thailand promotes internationally, alongside sepak takraw, which developed from the same circle-kicking tradition into the net sport played worldwide today (Tourism Authority of Thailand, n.d.; Wikipedia, n.d.-a).
 
 ## Rules
 
-Two teams of one, two or four players play on a court roughly the size of a basketball court, kicking a rattan ball back and forth over a net in the middle; the rattan ball, traditionally 10 cm in diameter, is made of woven rattan with symmetrical holes. The defining rule is that only the legs, from below the knee to the toes, may touch the ball — hands and arms are forbidden. In the casual washer version, a lead washer covered in cloth is kicked repeatedly and points are scored for kicks with the washer not touching the ground; if it falls, the point goes to the opposing side, with boys typically using the inside of the foot and girls the outside. In simplified team play, penalty points are given for faults such as the ball bouncing twice, and the game ends when one team reaches the agreed penalty limit, while a court version marks zones on a gridded rectangle to dictate where players stand and how points are allotted by landing place.
+Players form a circle and strike the rattan ball with any part of the body except the hands and arms — feet, knees, chest, shoulders and head are allowed; the ball must be kept airborne, and a player who lets it fall to the ground is out or loses a point depending on the local rules; there is no fixed number of players, and the game can be played indoors or outdoors with any size of circle (Wikipedia, n.d.-b). Because hands are forbidden, sipa is the direct ancestor of sepak takraw, where the same restriction applies over a net on a badminton-sized court (Wikipedia, n.d.-a). There are no separate women's rules — women and men play the same game, often in mixed groups (Wikipedia, n.d.-b).
 
 ## History
 
-Sipa predates the Spanish conquest of the archipelago, played by children and adults alike as a kicking game with woven rattan balls and metal washers; it was long regarded as the Philippines' national game, played in streets and schoolyards everywhere, and in the American-era tradition of street games, sipa ricocheting off the heel or instep became a beloved pastime of Filipino childhood. In the postwar era sipa was promoted as a cheap traditional sport — washer-kicking street games fed into formal sipa nets at fiestas — and in the school system it endured as part of the traditional-games curriculum even as basketball and volleyball overtook it. Sipa also stands at the origin of the Philippines' sepak takraw tradition: the netted, court-based version of the kicking game intermarried with other Southeast Asian variants to form the modern international sport, and cultural organisations continue to promote sipa in the Filipino diaspora and in Philippine Studies programmes.
+Circle games with a woven rattan ball are documented in Siam from at least the Ayutthaya period and appear in accounts of Thai traditional games recorded from the Sukhothai era onward; the game was a staple of village and temple festivals, and it evolved in the 20th century into the net game sepak takraw — the 1960 Kuala Lumpur conference fixed the modern name combining Malay sepak ("kick") and Thai takraw ("ball") (Wikipedia, n.d.-a; Wikipedia, n.d.-b). Today sipa remains a living tradition, taught in schools and shown at cultural events, and it is promoted by the Tourism Authority of Thailand as part of Thai heritage (Tourism Authority of Thailand, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Sipa*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Sipa
-- Lopez, M. L. (1993). *A study of Philippine games*. University of the Philippines Press.
+- Tourism Authority of Thailand. (n.d.). *Traditional Thai games — sipa, the circle kicking game with a woven rattan ball, played with feet, knees, chest and head; promoted as Thai intangible cultural heritage*. Retrieved November 23, 2026, from https://www.tourismthailand.org/
+- Wikipedia. (n.d.-a). *Sepak takraw — net evolution of the Thai/Malay circle kicking games; hands forbidden; 1960 Kuala Lumpur standardisation, name from Malay sepak + Thai takraw*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sepak_takraw
+- Wikipedia. (n.d.-b). *Thai traditional games — sipa listed among the traditional games of Thailand, recorded since the Sukhothai period; circle game with rattan ball, hands not allowed, played by women and men*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Thai_traditional_games
 
 ## Important Links
 
-- Wikipedia — rules of the washer and rattan versions
-- [Sepak takraw](sepak-takraw.html) — the netted international descendant of the game, on this site
-- [Footbag](footbag.html) — the Western form of the kicking game family, on this site
+- [Sepak takraw](sepak-takraw.html) — the net version of the circle kicking tradition, on this site
+- [Chinlone](chinlone.html), [Footvolley](footvolley.html), [Jianzi](jianzi.html) and [Footbag](footbag.html) on this site — related kicking games
+- [Tourism Authority of Thailand](https://www.tourismthailand.org/) — traditional Thai games and heritage
