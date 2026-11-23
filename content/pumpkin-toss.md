@@ -1,23 +1,32 @@
 ## Basic Information
 
-Pumpkin tossing — better known by its trademarked championship name, Punkin Chunkin or pumpkin chucking — is the sport of hurling a pumpkin by mechanical means for distance, using devices that range from slingshots and catapults to centrifugal machines, trebuchets and pneumatic air cannons. Competitions are staged across the United States each autumn, and the flagship World Championship Punkin Chunkin was for decades the largest annual event of the scene.
+Pumpkin tossing — better known by its trademarked championship name, Punkin Chunkin, or pumpkin chucking — is the sport of hurling a pumpkin by mechanical means for distance, using devices ranging from slingshots and catapults to centrifugal machines, trebuchets and pneumatic air cannons (Wikipedia, n.d.). Competitions are staged across the United States and Europe each autumn; the flagship World Championship Punkin Chunkin in Sussex County, Delaware drew over 100 teams and tens of thousands of spectators at its peak (World Championship Punkin Chunkin Association, n.d.). Teams are mixed and open to women and men, with youth and adult divisions (Wikipedia, n.d.).
+
+![A trebuchet at the 2008 Punkin Chunkin World Championships in Sussex County, Delaware](https://commons.wikimedia.org/wiki/Special:Redirect/file/Punkin-Chunkin-2008-Trebuchet.JPG?width=480)
+
+*Figure: GB fan. (2008, November 2). Punkin-Chunkin-2008-Trebuchet [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Punkin-Chunkin-2008-Trebuchet.JPG*
 
 ## Rules
 
-Machines compete in classes by type — air cannon, trebuchet, catapult, centrifugal and human-powered among others — with team divisions for youth and adult entrants. The core rule is that the pumpkin must remain whole after leaving the device until it hits the ground for the chunk to count; a pumpkin that bursts on launch, jocularly called "pie" (short for "pumpkin pie in the sky"), is disqualified under World Championship rules. Distances are measured from the firing line to the pumpkin's first impact, and each team typically receives several shots with its best counted. Pumpkins must be in the 8-10 pound class with thicker-rind varieties such as Casper, Lumina and La Estrella preferred because they withstand the launch forces; projectiles that leave the barrel or sling intact can travel more than a mile from the biggest air cannons.
+Machines compete in classes by type — air cannon, trebuchet, catapult, centrifugal and human-powered among others — with team divisions for youth and adults (Wikipedia, n.d.). The core rule is that the pumpkin must leave the device whole and remain whole until first impact for the chunk to count; a pumpkin that bursts on launch ("pie") is disqualified under World Championship rules. Distances are measured from the firing line to the pumpkin's first point of impact, and each team's best of several shots counts. Pumpkins must be in the 8–10 lb (3.6–4.5 kg) class, with thick-rind varieties such as Casper, Lumina and La Estrella preferred; the biggest air cannons can send intact pumpkins more than a mile (World Championship Punkin Chunkin Association, n.d.).
 
 ## History
 
-Punkin chunkin began informally among Delaware farmers in the mid-1980s, and the World Championship Punkin Chunkin, staged annually in Delaware by the World Championship Punkin Chunkin Association (WCPCA), grew into a festival drawing over 100 teams and tens of thousands of spectators, televised nationally and running annually from 1985 until legal and logistical problems made editions sporadic after 2013. The longest verified shot is 5,545.43 feet (1,690.25 m), fired by the air cannon "Big 10 Inch" on 9 September 2010 in Moab, Utah — the higher altitude and thinner air helping — and certified by Guinness World Records in 2011; the WCPCA's own record, counted only at its championship, is 4,694.68 feet (1,430.94 m) set by the American Chunker team in Bridgeville, Delaware in November 2013. In Europe, a championship has been held each year since 2004 in Bikschote, Belgium, and smaller tosses — from hand-thrown pumpkins at village fetes to college engineering competitions — keep the sport alive wherever surplus Halloween pumpkins need disposing of.
+Punkin chunkin began informally among Delaware farmers in the mid-1980s; the World Championship Punkin Chunkin Association staged it annually from 1985 in Bridgeville, Delaware, televised nationally, until legal and logistical problems made editions sporadic after 2013 (Wikipedia, n.d.). The longest verified shot is 5,545.43 feet (1,690.25 m), fired by the air cannon "Big 10 Inch" on 9 September 2010 in Moab, Utah — the altitude helping — and certified by Guinness World Records in 2011; the WCPCA championship record is 4,694.68 ft (1,430.94 m) by the American Chunker in November 2013 (Guinness World Records, 2011). In Europe a championship has been held annually since 2004 in Bikschote, Belgium (World Championship Punkin Chunkin Association, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Punkin chunkin*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Punkin_chunkin
-- World Championship Punkin Chunkin Association. (n.d.). *World Championship Punkin Chunkin*. Retrieved November 20, 2026, from https://www.punkinchunkin.com/
-- Guinness World Records. (2011, February). *Record award: Big 10 Inch pumpkin launch*. Retrieved November 20, 2026, from https://www.guinnessworldrecords.com/
+- Guinness World Records. (2011, February). *Record award: Big 10 Inch pumpkin launch, 5,545.43 ft, Moab Utah, 9 September 2010*. Retrieved November 23, 2026, from https://www.guinnessworldrecords.com/
+- Wikipedia. (n.d.). *Punkin chunkin — Delaware origins mid-1980s, WCPCA annual from 1985, machine classes, 8–10 lb pumpkins, chunk must stay whole to first impact, Moab 2010 record 1,690.25 m, Bikschote Belgium since 2004*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Punkin_chunkin
+- World Championship Punkin Chunkin Association. (n.d.). *World Championship Punkin Chunkin — Sussex County Delaware, classes, team divisions, 2013 American Chunker record 1,430.94 m*. Retrieved November 23, 2026, from https://www.punkinchunkin.com/
+
+### Figure Index
+
+- GB fan. (2008, November 2). *Punkin-Chunkin-2008-Trebuchet* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Punkin-Chunkin-2008-Trebuchet.JPG (CC BY-SA 3.0)
 
 ## Important Links
 
 - [World Championship Punkin Chunkin Association (WCPCA)](https://www.punkinchunkin.com/) — the flagship championship's organizer
 - [Punkin chunkin — history and records via Wikipedia](https://en.wikipedia.org/wiki/Punkin_chunkin) — machines, classes and records
-- [Pumpkin Regatta](pumpkin-regatta.html) — a related giant-pumpkin competition on this site
+- [Pumpkin Regatta](pumpkin-regatta.html) on this site — the related giant-pumpkin boat race
+- [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet) — the medieval siege engine used as a chunking machine

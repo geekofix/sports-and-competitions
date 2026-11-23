@@ -1,23 +1,32 @@
 ## Basic Information
 
-Pradal Serey ("free boxing"), today officially known as Kun Khmer, is Cambodia's national kickboxing style, a stand-up striking sport with punches, kicks, knees and elbows plus clinch fighting, in which bouts are won by knockout, technical knockout or on points. Its official Khmer name is Kbach Kun Pradal Khmer, and it is governed by the Cambodian Boxing Federation. The sport is a close cousin of Muay Thai, Muay Lao and Lethwei.
+Pradal Serey ("free boxing"), officially known today as Kun Khmer, is Cambodia's national kickboxing style — a stand-up striking sport with punches, kicks, knees and elbows plus clinch fighting, in which bouts are won by knockout, technical knockout or on points (Wikipedia, n.d.-b). It is governed by the Cambodian Boxing Federation, which licenses fighters, referees and judges and stages weekly televised cards at arenas such as the CTN Angkor Arena in Siem Reap (Khmer Boxing Phnom Penh, n.d.). Women's Kun Khmer is growing fast and is contested under the same rules in women's weight classes; at the 2023 Southeast Asian Games, where Kun Khmer debuted as a medal sport, Cambodian women took medals alongside the men (Wikipedia, n.d.-a).
+
+![A Kun Khmer boxing match in Battambang, Cambodia, 2006](https://commons.wikimedia.org/wiki/Special:Redirect/file/Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_1.jpg?width=480)
+
+*Figure: Ian Taylor. (2006, February 12). Cambodia Kun Khmer Battambang 2006 Ian Taylor 1 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_1.jpg*
 
 ## Rules
 
-Bouts are fought in a square ring of about six meters over five rounds of three minutes, with breaks of one to two minutes between rounds. Fighters wear boxing gloves and shorts, and a bout opens with a ritual accompanied by live traditional music. All limbs may be used: punches, kicks, knees and elbow strikes, with elbows a hallmark of the art, and clinch fighting, in which knees may be thrown while holding. Fighters are scored by judges on effective striking, aggression and technique; a fighter loses points for continuous retreating or for striking an opponent who is down, and a level score at the end of five rounds is a draw. Bouts can end at any time by knockout or technical stoppage. The Cambodian Boxing Federation licenses the referees, judges and fighters, and weekly televised cards are staged under its supervision.
+Bouts are fought in a square ring of about six metres over five rounds of three minutes with one-to-two-minute breaks; fighters wear boxing gloves and shorts, and each bout opens with the traditional *kun khmer* ritual accompanied by live music (Khmer Boxing Phnom Penh, n.d.). All limbs may be used — punches, kicks, knees and elbow strikes, with elbows a hallmark — plus clinch fighting in which knees may be thrown while holding. Judges score effective striking, aggression and technique; continuous retreating or striking a downed opponent costs points, and a level score after five rounds is a draw. Bouts end at any time by knockout or technical stoppage, and weight classes run from light flyweight up to super heavyweight, separately for men and women (Wikipedia, n.d.-b).
 
 ## History
 
-The art descends from the hand-to-hand combat systems of the Khmer Empire, depicted in the bas-reliefs of Angkor Wat, Bayon, Ta Prohm and other temples of the 9th-12th centuries; its ancestor is usually identified as the older tradition of Bokator. In the early 20th century the French colonial administration codified the local traditions into a ring sport with gloves, timed rounds, weight divisions and standardized rules, giving birth to Pradal Serey — matches earlier fought in dirt pits with rope-wrapped hands, sometimes with brutal consequences, and King Sisowath Monivong ordered the switch to western boxing gloves in the 1930s. The sport was banned and nearly extinguished under the Khmer Rouge regime, which executed many boxers, and revived slowly from the 1980s, led by surviving fighters who taught a new generation. In 2001 the Cambodian government adopted the name Kun Khmer to assert the art's Khmer identity against the Muay Thai name, a dispute that flared again at the 2023 Southeast Asian Games, where Kun Khmer debuted as a medal sport — Thai athletes boycotted the events over the name. Kun Khmer is now broadcast weekly on Cambodian television, including cards at dedicated arenas such as the CTN Angkor Arena in Siem Reap.
+The art descends from the hand-to-hand combat systems of the Khmer Empire, depicted in the bas-reliefs of Angkor Wat, the Bayon and Ta Prohm from the 9th–12th centuries; its ancestor is usually identified as the older Bokator (Wikipedia, n.d.-a). In the early 20th century the French colonial administration codified the local traditions into a ring sport with gloves, timed rounds and weight divisions — King Sisowath Monivong ordered the switch to western boxing gloves in the 1930s — giving birth to Pradal Serey. The sport was banned and nearly extinguished under the Khmer Rouge, which executed many boxers, and revived from the 1980s under surviving fighters; in 2001 the government adopted the name Kun Khmer to assert the art's Khmer identity, a dispute that flared again at the 2023 SEA Games when Thai athletes boycotted over the name (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Khmer Boxing Phnom Penh. (n.d.). *Kun Khmer: Rules and rituals*. Retrieved November 20, 2026, from https://khmerboxingphnompenh.com/guides/kun-khmer-rules-rounds-and-rituals/
-- Wikipedia. (n.d.). *Kun Khmer*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer
-- Wikipedia. (n.d.). *Kun Khmer at the 2023 SEA Games*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer_at_the_2023_SEA_Games
+- Khmer Boxing Phnom Penh. (n.d.). *Kun Khmer: rules and rituals — ring, five three-minute rounds, clinch, scoring, Cambodian Boxing Federation*. Retrieved November 23, 2026, from https://khmerboxingphnompenh.com/guides/kun-khmer-rules-rounds-and-rituals/
+- Wikipedia. (n.d.-b). *Kun Khmer — five rounds of three minutes, elbows, clinch, judges scoring, weight classes, Kun Khmer name adopted 2001, SEA Games 2023 debut with women's events*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer
+- Wikipedia. (n.d.-a). *Kun Khmer at the 2023 SEA Games — medal-sport debut; Angkor Wat bas-reliefs origins, Bokator ancestor, Khmer Rouge ban, 1980s revival*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer_at_the_2023_SEA_Games
+
+### Figure Index
+
+- Ian Taylor. (2006, February 12). *Cambodia Kun Khmer Battambang 2006 Ian Taylor 1* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_1.jpg (CC BY 4.0)
 
 ## Important Links
 
-- [Cambodian Boxing Federation coverage — Khmer Boxing Phnom Penh](https://khmerboxingphnompenh.com/guides/kun-khmer-rules-rounds-and-rituals/) — rules and rituals of the sport
-- [Kun Khmer at the 2023 SEA Games](https://en.wikipedia.org/wiki/Kun_Khmer_at_the_2023_SEA_Games) — the sport's SEA Games debut and results
-- [Muay Thai](muay-thai.html) and [Lethwei](lethwei.html) — the neighboring kickboxing styles on this site
+- [Khmer Boxing Phnom Penh — rules and rituals](https://khmerboxingphnompenh.com/guides/kun-khmer-rules-rounds-and-rituals/) — guide to the sport
+- [Kun Khmer at the 2023 SEA Games](https://en.wikipedia.org/wiki/Kun_Khmer_at_the_2023_SEA_Games) — medal-sport debut and results
+- [Muay Thai](muay-thai.html) on this site — the Thai cousin style
+- [Lethwei](lethwei.html) on this site — the Burmese cousin style
