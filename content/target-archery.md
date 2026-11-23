@@ -1,23 +1,34 @@
 ## Basic Information
 
-Target archery is the Olympic discipline of archery: archers shoot arrows at a multi-coloured target face (122-centimetre diameter at 70 metres in outdoor competition) from a stationary shooting line, scoring 10 points at the gold centre down to 1 at the outer white ring. Governed by World Archery, it is the world's most standardized and widely practiced form of the bow.
+Target archery is governed worldwide by World Archery (WA), founded in 1931 as FITA and headquartered in Lausanne, with more than 150 member national federations; the Olympic discipline is recurve at 70 m, and WA also runs compound, field, 3D and para archery with official world rankings (World Archery, n.d.). Among the current top female archers — named first — are South Korea's Lim Si-hyeon, world No. 1 and the Paris 2024 triple gold medalist (individual, team and mixed team) whose 694-point ranking round is the world record, pictured below, alongside teammates An San and Kang Chae-young and the USA's Casey Kaufhold; leading men include Kim Woo-jin (world record 709 in the ranking round, 2025), Kim Je-deok and Lee Woo-seok, the 2025 world team champions, Germany's Florian Unruh and America's Brady Ellison; in compound, Denmark's Mathias Fullerton and Great Britain's Ella Gibson lead (World Archery, n.d.) (Wikipedia, n.d.-b) (Olympics, n.d.).
+
+![Lim Si-hyeon of South Korea, world No. 1 and Paris 2024 triple gold medalist](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lim_Si-hyeon,_2025.jpg?width=480)
+
+*Figure: Trainholic. (2025, October 3). Lim Si-hyeon, 2025 — Lim Si-hyeon (KOR), world No. 1 recurve archer, at the 2025 World Archery Championships in Gwangju [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Lim_Si-hyeon,_2025.jpg*
 
 ## Rules
 
-Standard outdoor competition shoots 72 qualifying (ranking) arrows at 70 metres on the five-colour, ten-ring face, followed by match play in sets of three arrows in a head-to-head bracket, while indoor rounds (typically 18 metres) use smaller 40-centimetre faces with compound and recurve equipment classes. Recurve archers shoot from the line with sights and finger release in the Olympic discipline; compound archers use magnified sights and mechanical releases in world-championship classes, and rules govern bow weights, arrow diameter, shooting time per end (usually twenty seconds per arrow), and tie-break procedures (single-arrow shoot-offs decided by closest-to-centre). Equipment and timing rules are strictly enforced by judges, and world records are ratified per division and round by World Archery.
+In Olympic recurve target archery, men and women both shoot from 70 m at a 122 cm target face with ten scoring rings plus the inner X (counted as 10 and used to break ties); the ranking round is 72 arrows in 12 ends of 6 arrows (four minutes per end), maximum 720 (World Archery, n.d.; Wikipedia, n.d.-a). Head-to-head matches use the set system: best of five sets, three arrows per archer per set shot alternately one arrow at a time within a 20-second shot clock, 2 set points for a set win and 1 each for a draw, first to 6 set points wins, and a tied match goes to a single-arrow shoot-off (World Archery, n.d.). Compound archers shoot 50 m at an 80 cm six-ring face and may use a mechanical release; compound matches are decided by cumulative score over 15 arrows (five ends of three), maximum 150 (World Archery, n.d.). An arrow cutting a ring line scores the higher value, and field and 3D archery have their own biennial world championships; para classes include W1, compound, visually impaired and standing (World Archery, n.d.). For Los Angeles 2028 a compound mixed-team event at 50 m joins the programme (Olympics, n.d.). The official rule source is the World Archery Rulebook (World Archery, n.d.).
 
 ## History
 
-Archery's competitive history is ancient "+E+" medieval England and other European states staged organized longbow and crossbow contests "+E+" but modern target archery grew from the late nineteenth-century revival and standardized in the twentieth century: the international federation (today World Archery) was founded in 1931, and target archery entered the Olympic programme early, appearing in 1900 to 1920, then returning permanently from Munich 1972 with the modern double and later set formats. The discipline's technology story "+E+" and its standout champions, from the record-breaking Korean national team that has won the overwhelming majority of modern archery golds to world-champion compound shooters, shapes a sport that pairs traditional stillness with technical precision. Today World Archery stages world championships, a world cup circuit in recurve and compound, and the Olympic discipline that remains the sport's flagship.
+Archery is among humanity's oldest skills, and target archery as an organized sport was formalized in England — the Grand National Archery Society was founded in 1861 at York and devised the "York rounds"; women competed at the 1900 Paris Olympics (Wikipedia, n.d.-a). FITA was founded in 1931 in Lwów (then Poland) with its seat in Lausanne, archery returned to the Olympics at Munich 1972 after appearances in 1900–1920, and it has been renamed World Archery since 2011 (Wikipedia, n.d.-a). The South Korean women's team has won the Olympic team gold at every Games since 1988, and legendary American archer Howard Hill (1899–1975), famed for his hunting and trick shots, remains the sport's most celebrated historical icon (Wikipedia, n.d.-a).
 
 ## Sources
 
-- World Archery. (n.d.). *Target archery rules*. Retrieved November 21, 2026, from https://worldarchery.org/
-- Wikipedia. (n.d.). *Archery*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Archery
-- Olympics. (n.d.). *Archery at the Olympic Games*. Retrieved November 21, 2026, from https://www.olympics.com/sports/archery
+- Olympics. (n.d.). *Archery at the Olympic Games — recurve at 70 m since Munich 1972 (also 1900–1920); women's events since 1900; Paris 2024 results incl. Lim Si-hyeon's triple gold; compound mixed team added for Los Angeles 2028*. Retrieved November 23, 2026, from https://www.olympics.com/en/sports/archery/
+- Wikipedia. (n.d.-a). *Archery — ancient origins; Grand National Archery Society 1861 York, York rounds; women at the 1900 Olympics; FITA founded 1931 Lwów, HQ Lausanne; Olympic archery 1900–1920 and since 1972 Munich; renamed World Archery 2011; Howard Hill (1899–1975); Korean women's team Olympic golds every Games since 1988*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Archery
+- Wikipedia. (n.d.-b). *Lim Si-hyeon and current world No. 1s — Lim Si-hyeon (KOR) Paris 2024 individual/team/mixed gold, 694 world record; Kim Woo-jin 709 (2025); 2025 world team champions South Korea; Casey Kaufhold and Florian Unruh 2026 field champions; compound leaders Mathias Fullerton, Ella Gibson*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Lim_Si-hyeon
+- World Archery. (n.d.). *World Archery — founded 1931 as FITA, HQ Lausanne, 150+ member federations; Rulebook: recurve 70 m, 122 cm face, ranking round 72 arrows/12 ends of 6 (4 min), max 720; set system best of 5 sets, 3 arrows, 20-second alternating clock, 2/1/0 set points, first to 6, shoot-off; compound 50 m, 80 cm six-ring face, cumulative 15 arrows max 150; line-cutter rule; field/3D; para classes; world rankings*. Retrieved November 23, 2026, from https://www.worldarchery.org/
+
+### Figure Index
+
+- Trainholic. (2025, October 3). *Lim Si-hyeon, 2025* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Lim_Si-hyeon,_2025.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Field archery](field-archery.html) and [3D archery](3d-archery.html) — archery's woodland cousins, on this site
-- Archery's Olympic history and the recurve discipline — the sport at the Games, on this site
-- [Kendo](kendo.html) — another precision discipline rooted in traditional practice, on this site
+- [World Archery](https://www.worldarchery.org/) — world federation: rulebook, events, member federations
+- [World Archery Rulebook](https://www.worldarchery.sport/rulebook) — official competition rules (Book 2 target, Book 3 field/3D)
+- [World Archery Rankings](https://www.worldarchery.org/rankings) — official world rankings (recurve and compound)
+- [Olympics — Archery](https://www.olympics.com/en/sports/archery/) — Olympic results and history
+- [Archery](archery.html), [Recurve Archery](recurve-archery.html), [Shooting](shooting.html) and [Kyudo](kyudo.html) on this site — related bow and marksmanship sports

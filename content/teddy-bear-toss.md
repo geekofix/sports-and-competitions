@@ -1,23 +1,32 @@
 ## Basic Information
 
-The teddy bear toss is hockey's beloved promotion night: when the home team scores its first goal, thousands of fans throw stuffed teddy bears onto the ice, and the collected toys are gathered for charity. A staple of junior and minor-league hockey promotions across North America since the 1990s, it turns a stoppage of play into an avalanche of tens of thousands of bears.
+The teddy bear toss is an ice hockey charity tradition in which fans throw stuffed toy bears onto the ice after the home team scores its first goal of the game; the bears are collected, counted and donated to children's charities, hospitals and children in need (Wikipedia, n.d.). It began on 5 December 1993 with the Kamloops Blazers of the Western Hockey League (WHL) — marketing director Don Larson organized it after Brad Lukowich's goal (assisted by Shane Doan and Darcy Tucker) and more than 2,400 bears were thrown that night (Western Hockey League, n.d.; Wikipedia, n.d.). The tradition spread across North American junior, college and pro leagues and to Europe — Sweden's Luleå HF (27 December 2017), the UK EIHL's "Air the Bear", Australia's Melbourne Ice (2014), the Newcastle Jets (2019) and Beşiktaş (2023, for earthquake relief) — while the NHL discourages it over safety and ice-debris concerns (Wikipedia, n.d.). Teams in women's and men's leagues alike hold the event. Record collections include 102,343 bears by the Hershey Bears on 5 January 2025 (more than 566,000 since 2001) and 109,470 by Jagiellonia Białystok in October 2023, a world record for any sport (Hershey Bears, n.d.).
 
 ## Rules
 
-There are no official sporting rules beyond the promotion's own: every fan brings a new or like-new stuffed animal (many teams request soft plush toys without hard parts), waits for the home team's first goal, and hurls the bear onto the ice. Play stops while players, staff and arena crews scoop the bears into bins, and the toys are collected, cleaned where required and donated to children's hospitals and charities. The only competition is scale: clubs count the bears collected each year and compete in a friendly cross-league race for the largest toss, with tens of thousands of toys gathered on a single night at the biggest events.
+There is no league-wide rulebook — each club and league organizes its own toss — but the standard format is fixed: fans bring one stuffed bear each and, when the home team scores its first goal, throw the bears onto the ice from the stands; play pauses while the bears are collected from the rink and the boards, counted at designated collection points and loaded for delivery to children's hospitals, charities and families (Wikipedia, n.d.). The event is a charity ritual inside a regular game, not a competition with standings; arenas announce it in advance and often tie it to special causes. Because it involves families and children of all genders as both participants and beneficiaries — and is equally popular at women's and men's games — no gender or age restrictions apply (Wikipedia, n.d.).
 
 ## History
 
-The teddy bear toss is usually credited to the Western Hockey League's Kamloops Blazers in the early 1990s, a promotion that spread quickly through Canadian junior hockey; today bear-toss nights are standard across the Canadian Hockey League and minor-league hockey in North America. Record tosses have grown from a few hundred bears to tens of thousands in a single game, and videos of the shower of bears after a first goal have become a warm viral fixture of every hockey season. The idea has spread beyond hockey to other club promotions, but its home remains the rink: a first-goal trigger, a stoppage of bears, and children's hospitals receiving the bounty the next morning.
+The first teddy bear toss was held on 5 December 1993 at the Kamloops Memorial Arena when the Kamloops Blazers of the WHL, led by marketing director Don Larson, invited fans to throw bears after Brad Lukowich's first home goal of the season — assisted by Shane Doan and Darcy Tucker — and more than 2,400 bears were collected for local charities (Western Hockey League, n.d.; Wikipedia, n.d.). From the WHL and the Canadian Hockey League it spread across North America and then to Europe and Australia, with the Hershey Bears of the AHL setting the league record of 102,343 bears on 5 January 2025 and Jagiellonia Białystok of Poland collecting 109,470 in October 2023, the world record for a single game in any sport (Hershey Bears, n.d.; Wikipedia, n.d.). Beşiktaş used its 2023 toss for earthquake relief, and the NHL, while not banning the event, discourages it because of safety and ice-cleanup issues (Wikipedia, n.d.).
+
+![Teddy bear toss night inside the Spokane Arena](https://commons.wikimedia.org/wiki/Special:Redirect/file/Teddy_Bear_Toss.jpg?width=480)
+
+*Figure: Narfy8021. (2006, July 16). Teddy Bear Toss — inside the Spokane Arena on teddy bear toss night, 2006–07 WHL season [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Teddy_Bear_Toss.jpg*
 
 ## Sources
 
-- ESPN. (n.d.). *Teddy bear toss nights in hockey*. Retrieved November 21, 2026, from https://www.espn.com/
-- Wikipedia. (n.d.). *Teddy bear toss*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Teddy_bear_toss
-- CHL. (n.d.). *Teddy bear toss tradition*. Retrieved November 21, 2026, from https://www.chl.ca/
+- Hershey Bears. (n.d.). *Teddy Bear Toss — AHL record 102,343 bears on 5 January 2025; more than 566,000 collected since 2001*. Retrieved November 23, 2026, from https://www.hersheybears.com/
+- Western Hockey League. (n.d.). *Teddy Bear Toss — first held 5 December 1993 by the Kamloops Blazers (Don Larson) after Brad Lukowich's goal; spread across the WHL and CHL*. Retrieved November 23, 2026, from https://whl.ca/
+- Wikipedia. (n.d.). *Teddy bear toss — 2,400+ bears at Kamloops 1993 (Lukowich; assists Doan, Tucker); Jagiellonia Białystok world record 109,470 (October 2023); spread to Luleå HF 2017, EIHL "Air the Bear", Melbourne Ice 2014, Newcastle Jets 2019, Beşiktaş 2023 earthquake relief; NHL safety concerns; women's and men's teams alike*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Teddy_bear_toss
+
+### Figure Index
+
+- Narfy8021. (2006, July 16). *Teddy Bear Toss* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Teddy_Bear_Toss.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Ice hockey](ice-hockey.html) — the parent sport of the toss, on this site
-- [Spogomi](spogomi.html) — another sport with a charitable heart, on this site
-- Junior and minor-league hockey promotions — where the bears fly, on this site
+- [Western Hockey League](https://whl.ca/) — league where the teddy bear toss originated (Kamloops Blazers, 1993)
+- [Hershey Bears](https://www.hersheybears.com/) — AHL club holding the record collection of 102,343 bears (2025)
+- [EIHL — Air the Bear](https://www.eliteleague.co.uk/) — the UK Elite League's teddy bear toss
+- [Ice Hockey](ice-hockey.html) on this site — the sport whose arenas host the tradition

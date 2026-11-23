@@ -1,23 +1,29 @@
 ## Basic Information
 
-Tejo is Colombia's national sport: a throwing game in which players hurl a metal disc (the tejo, a few kilograms of iron) at a clay-lined target box, aiming to land it inside a small circle (the bocin) while striking small envelopes of gunpowder (mechas) that explode on impact. Rooted in indigenous tradition of the Altiplano region and now played socially and competitively across Colombia, it is as famous for its bangs as for its beer.
+Tejo is Colombia's national sport, declared so by Law 613 of 2000 and recognized as intangible cultural heritage under Law 1947 of 2019; its birthplace is said to be Turmequé in Boyacá, and it is governed by the Federación Colombiana de Tejo (Fedetejo), which received its legal personality No. 0387 on 7 February 1959 (Federación Colombiana de Tejo, n.d.). Players hurl a metal disc across a clay court toward a gunpowder-charged target ring, scoring up to 9 points per throw for a "moñona" — the sport's spectacular highlight (Wikipedia, n.d.). Tejo has been played internationally for decades through emigrant communities, and the Tejo World Championship has been held since 2023: Peru won in 2023, Switzerland in 2024, India in 2025, and the 4th edition took place in Bogotá on 2 October 2026 with 18 nations, India defeating host Colombia in the final (Wikipedia, n.d.). Women compete in Colombia's official women's tejo categories, and the youth variants ponytejo and minitejo are open to girls and boys alike (Federación Colombiana de Tejo, n.d.).
 
 ## Rules
 
-The target is a wooden or metal box filled with clay, tilted toward the thrower, with the bocin (a metal pin roughly the size of a coffee-can lid) set in the centre and mechas (triangular paper packets of gunpowder) pinned around it. From a throwing line some 15 to 20 metres away players lob the tejo under a good arc: landing inside the bocin scores six points (embocinar), exploding a mecha scores three, doing both at once (the mona) scores nine, and if nothing connects the thrower whose tejo rests closest to the bocin takes one point. Games run to a set total (often 21 or 25), throws alternate by team, and the explosions are loud enough that arena announcements and respect for the clay box are parts of the etiquette.
+The tejo cancha is a clay lane about 19.5 m long and 2.5 m wide with a metal-ringed target (bocín) set into a clay-filled box (embocinada) at each end; gunpowder-filled paper triangles (mechas) are placed on the bocín (Federación Colombiana de Tejo, n.d.; Wikipedia, n.d.). Each player throws the metal disc (the tejo, about 680 g) from behind the throwing line toward the far bocín (Wikipedia, n.d.). Scoring per throw: a "mano" — contact with the target area without explosion — is 1 point; a "mecha" (the mecha explodes) 3 points; an "embocinada" (the disc lands in the ring) 6 points; and a "moñona" (embocinada plus explosion) 9 points (Federación Colombiana de Tejo, n.d.). Matches are played to 21 or 27 points depending on the format, in individual and team modalities, with separate men's and women's categories and youth categories (minitejo, ponytejo) (Federación Colombiana de Tejo, n.d.). Stepping over the throwing line is a foul and the throw scores nothing (Wikipedia, n.d.). The official rule source is the Fedetejo regulations (Federación Colombiana de Tejo, n.d.).
 
 ## History
 
-Tejo descends from a game played for centuries in the high plateau around Bogota and Boyaca, where indigenous communities of the region threw golden discs at clay targets in a ritual pastime; the town of Turmeque gave the modern game its alternate name (turmeque), and the version with gunpowder mechas emerged with time as communities celebrated the explosion. In 2000 Colombia officially declared tejo its national sport, and today federation-run tournaments, social clubs (canchas attached to bars and restaurants) and international demonstrations keep the game alive; it remains a Bogota-and-Boyaca institution, a folk sport found wherever Colombians gather, and the loudest way to spend an evening in the country.
+Tejo descends from the Muisca game played in Turmequé (Boyacá), where players hurled a golden disc, the "zepquagoscua", at a target of gold, and it became established across Colombia during the Spanish colonial era (Wikipedia, n.d.). Law 613 of 2000 made it the national sport and Law 1947 of 2019 declared it part of Colombia's intangible cultural heritage (Federación Colombiana de Tejo, n.d.). The modern scoring system with mechas was codified in the 20th century, Fedetejo was legally constituted in 1959, and the international Tejo World Championship began in 2023 — won by Peru (2023), Switzerland (2024), India (2025) and again India at the 4th edition in Bogotá on 2 October 2026 (Wikipedia, n.d.).
+
+![Tejo being played in Salento, Colombia](https://commons.wikimedia.org/wiki/Special:Redirect/file/Playing_tejo.jpg?width=480)
+
+*Figure: fabulousfabs. (2011, July 6). Playing tejo — tejo match in Salento, Colombia [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Playing_tejo.jpg*
 
 ## Sources
 
-- Wikipedia. (n.d.). *Tejo (sport)*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Tejo_(sport)
-- Explore Parts Unknown. (n.d.). *Colombia's secret national sport*. Retrieved November 21, 2026, from https://www.explorepartsunknown.com/colombia/tejo-sports/
-- Live Lingua. (n.d.). *How to play tejo in Colombia*. Retrieved November 21, 2026, from https://www.livelingua.com/blog/how-to-play-tejo/
+- Federación Colombiana de Tejo. (n.d.). *Fedetejo — legal personality No. 0387 of 7 February 1959; regulations: cancha, tejo disc ca. 680 g, bocín and embocinada, mechas; scoring mano 1, mecha 3, embocinada 6, moñona 9; matches to 21 or 27 points; men's and women's categories; minitejo and ponytejo; Law 613 of 2000 (national sport), Law 1947 of 2019 (intangible heritage)*. Retrieved November 23, 2026, from https://fedetejocolombia.com/
+- Wikipedia. (n.d.). *Tejo — Muisca origins in Turmequé, golden disc zepquagoscua; colonial era; world championships 2023 Peru, 2024 Switzerland, 2025 India, 4th edition Bogotá 2 October 2026 (India beat Colombia, 18 nations); throwing-line foul; equipment dimensions*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Tejo
+
+### Figure Index
+
+- fabulousfabs. (2011, July 6). *Playing tejo* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Playing_tejo.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Stone put](stone-put.html) on this site — another old throwing skill
-- Colombia's traditional festivals and games — the cultural home of tejo, on this site
-- The mechas, the bocin and the mona — the scoring system of the sport, on this site
+- [Federación Colombiana de Tejo (Fedetejo)](https://fedetejocolombia.com/) — national federation: regulations, championships, ponytejo and minitejo
+- [Bowling](bowling.html), [Darts](darts.html) and [Shooting](shooting.html) on this site — other target and throwing sports

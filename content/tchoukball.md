@@ -1,23 +1,30 @@
 ## Basic Information
 
-Tchoukball is the team ball sport invented for pure skill: players score by throwing the ball against a small angled frame (a tchouk) so that it rebounds out of reach of the defence, and physical contact between opponents is forbidden entirely. Played seven-a-side indoors on a handball-size court with a frame at each end, it rewards placement, anticipation and passing speed over bodies and collisions.
+Tchoukball is a non-contact indoor team ball game invented in 1970 by the Swiss biologist and sports pedagogue Dr. Hermann Brandt, who designed it after analyzing the injury rates of other ball games (Wikipedia, n.d.). The Fédération Internationale de Tchoukball (FITB) was founded in 1971 in Geneva and today counts more than 80 countries; the European Tchoukball Federation (ETBF) followed in 2014, and tchoukball was a demonstration sport at the 2009 World Games in Kaohsiung (Fédération Internationale de Tchoukball, n.d.). It is played seven-a-side indoors and five-a-side on the beach, and at the 2023 World Championships in Prague Taiwan won the title ahead of hosts Switzerland (Fédération Internationale de Tchoukball, n.d.; Wikipedia, n.d.). Women's and mixed competitions are an integral part of the programme, and under FITB rules women play with a smaller ball than men (Fédération Internationale de Tchoukball, n.d.).
 
 ## Rules
 
-Play alternates possession with no interceptions of intent to tackle: a team may take three passes and three ball-to-floor touches before shooting, and a point is scored when the ball is thrown at the tchouk and rebounds past the defence, while a shooter's own team must not touch the rebound before it crosses the three-metre zone line. Defenders try to catch the rebound cleanly (stopping the point); a miss that leaves play grants the defence possession, and there is no interception of passes between opponents "+E+" the classic rule that keeps the game contact-free. Matches run three periods of 15 minutes on a 40 by 20-metre indoor court, points accumulate at either frame (each team attacks both ends alternately), and fouls such as dribbling or deliberate foot play turn over possession; the design leaves room for genuinely spectacular shooting angles and diving catches.
+The official FITB rules set the court at 26–29 m long and 15–17 m wide, with a 1 × 1 m rebound frame — a net inclined at 55° — centered on each end line and a forbidden semicircle of 3 m radius around each frame (Fédération Internationale de Tchoukball, n.d.). Seven players form a team; the attacking side may make at most three consecutive passes and may shoot at the same frame at most three times before switching (Fédération Internationale de Tchoukball, n.d.). The attacking team scores a point when the ball rebounds off a frame and touches the floor inside the playing area before a defender catches it, or when the rebound touches a defender; the defending team scores when a shot misses the frame, lands out of bounds, is thrown into the forbidden zone or when the attack commits a fault such as contact, blocking or intercepting a pass (Fédération Internationale de Tchoukball, n.d.; Wikipedia, n.d.). Senior matches consist of three periods of nine minutes; beach tchoukball is five-a-side on a smaller sand court, and women use a smaller ball (Fédération Internationale de Tchoukball, n.d.). The official rule source is the FITB rulebook (Fédération Internationale de Tchoukball, n.d.).
 
 ## History
 
-Tchoukball was invented in the late 1960s by the Swiss biologist Hermann Brandt, whose research into athletic injuries led him to design a team sport built entirely on skill and safety; he published his rule system through a Swiss sports federation in 1970 (he died shortly after), and the game's first international demonstration came in 1971 in Marseille. The sport spread quickly through school and club programs in Switzerland, France, Italy and beyond, with international federations forming (today under the FITB, the International Tchoukball Federation) staging world championships and cups. Its odd-sounding name is the sound the ball makes striking the frame; the game has never aimed at mass professional competition but has grown steadily on every continent, with strong communities in East Asia, Europe and the Americas playing its world championships every few years.
+Dr. Hermann Brandt created tchoukball in 1970 in Geneva, combining elements of handball, volleyball and five-a-side football into a game with no physical contact and a low injury risk; the FITB was founded in 1971 and spread the game through schools and universities, with Taiwan dominating the men's world championships since the 1980s (Wikipedia, n.d.; Fédération Internationale de Tchoukball, n.d.). Tchoukball appeared as a demonstration sport at the 2009 World Games in Kaohsiung, the ETBF was created in 2014, and at the 2023 World Championships in Prague Taiwan defeated Switzerland in the final (Fédération Internationale de Tchoukball, n.d.).
+
+![Swiss tchoukball championship final, 2006](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tchoukball.jpg?width=480)
+
+*Figure: Swiss Tchoukball Federation (photo: Pierre Roduit). (2006, May 5). Tchoukball — Swiss championship final [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Tchoukball.jpg*
 
 ## Sources
 
-- International Tchoukball Federation. (n.d.). *Rules of tchoukball*. Retrieved November 21, 2026, from https://www.tchoukball.org/
-- Wikipedia. (n.d.). *Tchoukball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Tchoukball
-- Play Tchoukball. (n.d.). *How to play*. Retrieved November 21, 2026, from https://www.playtchoukball.com/
+- Fédération Internationale de Tchoukball. (n.d.). *FITB — founded 1971 Geneva; official rules: court 26–29 × 15–17 m, 1 × 1 m frames at 55°, 3 m forbidden semicircle, 7-a-side, max 3 consecutive passes and 3 shots at the same frame, scoring on rebound, three 9-minute periods, beach 5-a-side, women play with a smaller ball; ETBF 2014; 2009 World Games Kaohsiung demonstration; 2023 World Championships Prague (Taiwan champions, Switzerland runners-up); 80+ countries*. Retrieved November 23, 2026, from https://www.tchoukball.org/
+- Wikipedia. (n.d.). *Tchoukball — invented 1970 by Dr. Hermann Brandt, Swiss biologist; injury-rate research; spread via schools; Taiwan's world titles since the 1980s; scoring rules incl. defender-touch points and attack faults*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Tchoukball
+
+### Figure Index
+
+- Swiss Tchoukball Federation (photo: Pierre Roduit). (2006, May 5). *Tchoukball* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Tchoukball.jpg (Public domain)
 
 ## Important Links
 
-- [Teqball](teqball.html) — another modern invented rebound sport, on this site
-- [Handball](handball.html) — the indoor court game tchoukball borrows its pitch from, on this site
-- The FITB world championships — tchoukball's international stage, on this site
+- [Fédération Internationale de Tchoukball (FITB)](https://www.tchoukball.org/) — world federation: rulebook, world championships, member federations
+- [The World Games — Tchoukball](https://www.theworldgames.org/) — 2009 Kaohsiung demonstration
+- [Handball](handball.html) and [Volleyball](volleyball.html) on this site — the team ball games tchoukball combines

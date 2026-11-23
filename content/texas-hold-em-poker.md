@@ -1,23 +1,29 @@
 ## Basic Information
 
-Texas hold'em is the world's most popular poker variant: each player receives two private hole cards and combines them with five community cards dealt face-up on the table, betting across four rounds as the hand unfolds. The flagship game of the World Series of Poker, online poker and every casino card room, it is the strategic contest on which modern tournament and cash poker is built.
+Texas hold'em is the world's most popular poker variant: each player receives two private "hole cards" and shares five community cards — the flop (three), the turn (one) and the river (one) — betting in four rounds (World Series of Poker, n.d.). Its flagship event is the World Series of Poker (WSOP) Main Event in Las Vegas, founded in 1970 by Benny Binion at the Horseshoe Casino; the 2026 Main Event (57th WSOP, Horseshoe and Paris casinos) drew a field of 9,208 entries at the $10,000 buy-in — the fourth largest ever — building an $85,634,400 prize pool, with the final table set on 13 July and played from 3 to 5 August 2026 (World Series of Poker, n.d.; Wikipedia, n.d.). The 22-year-old Lucas Jumalon of Spokane, Washington, won wire-to-wire, defeating Finland's Lauri Saaskilahti heads-up for the $10,000,000 first prize and the gold bracelet — the second-youngest Main Event champion in history after Joe Cada (2009, aged 21) — while the 2025 champion was Michael Mizrachi (World Series of Poker, n.d.). Women play in the same events, including the WSOP Ladies tournament, and poker is internationally recognized as a mind sport (Wikipedia, n.d.).
+
+![A game of Texas hold'em in Kenya](https://commons.wikimedia.org/wiki/Special:Redirect/file/Texas_Hold_'Em_Poker.jpg?width=480)
+
+*Figure: Hilary Murugu. (2017, October 28). Texas Hold 'Em Poker — people playing Texas hold'em poker in Kenya [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Texas_Hold_'Em_Poker.jpg*
 
 ## Rules
 
-A hand runs through preflop (after the two hole cards), flop (three community cards), turn and river (one card each), with betting before and after each reveal: players may fold, call, raise or go all-in, and the best five-card hand at showdown (from the seven available cards) wins the pot, while a hand can also be won when every opponent folds. Forced bets (blinds) rotate clockwise and create action, hand rankings follow poker's standard scale from high card to royal flush, and tournament play escalates blind levels on a clock until one player holds every chip. Cash games use fixed, pot-limit or no-limit betting structures, and formal tournament rules standardize everything from string raises to chip races.
+Hands are ranked from royal flush down through straight flush, four of a kind, full house, flush, straight, three of a kind, two pair, one pair to high card (World Series of Poker, n.d.). Blinds (small and big) and antes force the action; play proceeds clockwise with the options to check, call, bet, raise, fold or go all-in, and there are four betting rounds — pre-flop, after the flop, after the turn and after the river (World Series of Poker, n.d.). At showdown the best five-card hand is made from any combination of the two hole cards and five community cards; tied hands split the pot, and all-in situations create side pots (Wikipedia, n.d.). Tournament play follows the WSOP official rules and the Tournament Directors Association (TDA) rules (World Series of Poker, n.d.). There are no gender or age-class differences — women and men compete in the same tournaments and cash games — with minimum ages of 18 or 21 depending on jurisdiction, and online rooms mirror the live game (Wikipedia, n.d.).
 
 ## History
 
-Poker itself grew from nineteenth-century American riverboat and saloon games, and hold'em is usually credited to early-twentieth-century Texas road gamblers; it reached Las Vegas in 1967 (championed by players like Doyle Brunson and Amarillo Slim) and became the World Series of Poker's main event in the 1970s. The 2003 victory of online qualifier Chris Moneymaker in the WSOP main event ignited the poker boom, sending millions to online tables and live tournaments, and hold'em's blend of simple rules and deep mathematics has made it the game of both casual home nights and million-dollar finals. The modern game adds solver-era theory, multimillion-dollar tournament fields and international circuits, with the WSOP main event bracelet remaining poker's most recognized trophy.
+Poker's ancestors include the Persian game of as nas (10th century) and Chinese domino-card games; the game took its modern form in 17th-century France as poque, crossed to New Orleans in the 18th century, and spread on Mississippi riverboats in the 19th century (Wikipedia, n.d.). Texas hold'em developed in the early 20th century in Robstown, Texas, and became the WSOP Main Event format in 1971, when Johnny Moss won the first no-limit hold'em title (Wikipedia, n.d.). Benny Binion founded the WSOP in 1970 and the Poker Hall of Fame followed in 1979 (Wikipedia, n.d.). Deceased icons of the game include Binion (d. 1989), Johnny Moss (d. 1995), Doyle Brunson (d. 2023, ten WSOP bracelets), Stu Ungar (d. 2008) and Amarillo Slim (d. 2012) (Wikipedia, n.d.).
 
 ## Sources
 
-- World Series of Poker. (n.d.). *Texas hold'em rules*. Retrieved November 21, 2026, from https://www.wsop.com/
-- Wikipedia. (n.d.). *Texas hold 'em*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Texas_hold_%27em
-- Card Player. (n.d.). *Poker rules and strategy*. Retrieved November 21, 2026, from https://www.cardplayer.com/
+- Wikipedia. (n.d.). *Texas hold'em — origins: as nas, poque, Mississippi riverboats; hold'em developed early 20th century Robstown, Texas; WSOP founded 1970 by Benny Binion at the Horseshoe; hold'em Main Event from 1971 (Johnny Moss); Poker Hall of Fame 1979; hand rankings, blinds, betting rounds, showdown best 5 of 7, split and side pots; minimum age 18/21 by jurisdiction; WSOP Ladies event; icons Binion, Moss, Brunson, Ungar, Amarillo Slim*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Texas_hold_%27em
+- World Series of Poker. (n.d.). *WSOP — 2026 (57th) at Horseshoe and Paris Las Vegas; Main Event $10,000 buy-in, field 9,208 (4th largest), prize pool $85,634,400, final table 13 July, played 3–5 August 2026; Lucas Jumalon (22, Spokane WA) beat Lauri Saaskilahti (FIN) heads-up for $10,000,000 and the bracelet, wire-to-wire, second-youngest champion after Joe Cada (2009); 2025 champion Michael Mizrachi; official rules and TDA rules*. Retrieved November 23, 2026, from https://www.wsop.com/
+
+### Figure Index
+
+- Hilary Murugu. (2017, October 28). *Texas Hold 'Em Poker* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Texas_Hold_'Em_Poker.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- Tournament poker and the World Series of Poker — the game's biggest stage, on this site
-- [StarCraft II](starcraft-ii.html) — another high-stakes competitive discipline of the mind, on this site
-- Reading hands, pot odds and position — the strategic core of hold'em, on this site
+- [World Series of Poker (WSOP)](https://www.wsop.com/) — official rules, Main Event, bracelet events and WSOP Hall of Fame
+- [Chess](chess.html), [Darts](darts.html), [Billiards](billiards.html) and [Snooker](snooker.html) on this site — other mind and precision games
