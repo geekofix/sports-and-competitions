@@ -1,23 +1,33 @@
 ## Basic Information
 
-Straight pool, also called 14.1 continuous, is the classic pocket-billiards game in which two players attempt to pocket a set number of balls with any ball in any order, each legally pocketed ball scoring one point under a demanding call-shot standard. Once the primary professional pool game, it rewards long runs, precision and artistry in a way faster modern games rarely touch.
+Straight pool, also called 14.1 continuous, is a pocket billiards game played on a standard 9-foot pool table with 15 object balls: the shooter calls a ball and a pocket, and every legally pocketed ball scores one point until a set target — conventionally 150 points in championship play — is reached (World Pool-Billiard Association, n.d.). It is governed by the World Pool-Billiard Association (WPA), whose World Nine-ball Championship family includes straight pool exhibition and whose rules of play define the call-shot game (World Pool-Billiard Association, n.d.). The game's most famous icon was Willie Mosconi, who won the world straight-pool championship 15 times between 1941 and 1957 and famously ran 526 consecutive balls in an exhibition in 1954 (Wikipedia, n.d.). Straight pool is open to men and women alike; women compete in the same events and in women's-specific tournaments run by the WPA and the WPBA (World Pool-Billiard Association, n.d.).
+
+![A wall-mounted scoreboard for straight pool and other point-count billiard games](https://commons.wikimedia.org/wiki/Special:Redirect/file/Straight_pool_scoreboard.jpg?width=480)
+
+*Figure: Stanton McCandlish. (2007, March 4). Straight pool scoreboard [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Straight_pool_scoreboard.jpg*
 
 ## Rules
 
-Each legally pocketed ball scores one point, and the shooter must nominate ball and pocket on every shot: the called ball must go into the called pocket or the shot ends the shooter's stay, with a miss or foul ending the turn and deducting a point. When the fourteenth ball of a rack is pocketed, play pauses: the fifteen balls are re-racked with the fifteenth ball in place, and the shooter continues into the new rack "+E+" the famous continuous 14.1 cycle "+E+" trying to break the rack and keep the run alive. Fouls (scratches, disturbing balls, playing from a wrong position) cost one point and end the run; matches are races to a set total, commonly 100 points and up to 300 at the championship level, and the game's legends rest on run-building: the great specialists string together racks of position play and routinely run a hundred or more balls in a single visit.
+Straight pool is played with 15 numbered object balls racked in a diamond and the cue ball; the player must call a specific ball and a specific pocket before each shot, and only the called ball pocketed in the called pocket scores — one point per ball — while any other ball pocketed is spotted back after the shot and scores nothing (World Pool-Billiard Association, n.d.). When only one object ball remains, the other 14 are re-racked and play continues from the existing score, which is why the game is called 14.1 continuous; the game is won by the first player to reach the target score, usually 150 in professional matches, 100 in league play and 50 in casual games (Wikipedia, n.d.). Fouls — a scratch (cue ball pocketed), failing to pocket the called ball in the called pocket, driving the cue ball off the table, or touching a ball with body or cue — result in ball-in-hand for the opponent or, under WPA rules, in loss of turn with the object balls respotted; three consecutive fouls by one player lose the game immediately (World Pool-Billiard Association, n.d.). Matches are usually race-to-target or time-limited in tournaments, with men's and women's divisions at championships; there are no age classes, though junior events exist at national level (World Pool-Billiard Association, n.d.).
 
 ## History
 
-Straight pool was invented in 1910 by Jerome Keough as a way to increase the challenge of earlier continuous pool games, and its world championship became the most prestigious event in professional pool from the 1910s through the 1970s "+E+" the era of Ralph Greenleaf and Willie Mosconi, whose record runs (including a famous 526 consecutive balls in 1954) still define the discipline. Nine-ball overtook it in professional importance in the late twentieth century, both for speed and television, but straight pool never disappeared: the World Straight Pool Championship was revived in 2006 with World Pool-Billiard Association sanctioning, and annual events such as the American 14.1 Straight Pool Championship and European 14.1 championships keep the sport's longest-standing traditions alive.
+Straight pool grew out of 19th-century American poolrooms, where 14.1 continuous became the standard championship game of the straight-rail era; the Billiard Congress of America standardized the call-shot rules in the early 20th century (Wikipedia, n.d.). Willie Mosconi, born in Italy in 1913 and raised in Philadelphia, dominated the game from the 1930s, winning 15 world championships between 1941 and 1957 and running a record 526 balls in 1954; other icons of the era include Irving "Crane" Crane, after whom the "Crane shot" is named, and Rudolf "the Wunderkind" Wander, who also held the world title (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Straight pool*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Straight_pool
-- Wikipedia. (n.d.). *World Straight Pool Championship*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/World_Straight_Pool_Championship
-- Billiard Congress of America. (n.d.). *Rules of play*. Retrieved November 21, 2026, from https://bca-pool.com/
+- Wikipedia. (n.d.). *Straight pool (14.1 continuous) — 15 balls, call-shot, one point per ball, rerack at one ball remaining, target 150; fouls and three-foul rule; icons Willie Mosconi (15 world titles 1941–1957, 526-ball run 1954), Irving Crane, Rudolf Wander*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Straight_pool
+- World Pool-Billiard Association. (n.d.). *WPA — rules of play for pocket billiards including straight pool; world championships and tour events; WPBA women's professional billiards*. Retrieved November 23, 2026, from https://wpapool.com/
+
+### Figure Index
+
+- Stanton McCandlish. (2007, March 4). *Straight pool scoreboard* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Straight_pool_scoreboard.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Snooker](snooker.html) — the other great call-shot precision game, on this site
-- [Speed pool](speed-pool.html) — pool at the opposite extreme of tempo, on this site
-- The great runs of Greenleaf, Mosconi and Crane — straight pool's legendary lineage, on this site
+- [World Pool-Billiard Association (WPA)](https://wpapool.com/) — world governing body; rules of play and world championships
+- [Billiards](billiards.html) on this site — the carom parent game
+- [Snooker](snooker.html) on this site — the potting cousin
+- [8-Ball Pool](8-ball-pool.html) on this site — the popular rotation pool game
+- [9-Ball Pool](9-ball-pool.html) on this site — the WPA's main championship game
+- [Speed Pool](speed-pool.html) on this site — the timed variant

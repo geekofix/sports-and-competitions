@@ -1,23 +1,35 @@
 ## Basic Information
 
-Speedcubing is the mind sport of solving twisty puzzles at speed: the classic 3x3x3 Rubik's Cube and a whole canon of NxN cubes, pyraminxes, megaminxes, square-1 and one-handed or blindfolded events. Solves are timed to hundredths of a second under supervision, with the world's best solving the 3x3 in under four seconds.
+Speedcubing is the competitive solving of twisty puzzles at speed — the classic 3x3x3 Rubik's Cube plus 2x2, 4x4 to 7x7 cubes, pyraminx, megaminx, skewb, square-1, clock and special disciplines such as one-handed, blindfolded and fewest-moves solving — with every attempt timed to hundredths of a second under official regulations (World Cube Association, n.d.). The sport is governed by the World Cube Association (WCA), founded in 2004, which sanctions several thousand competitions a year worldwide, keeps the official world records and stages a biennial world championship, most recently in Seattle, 3–6 July 2025 (Wikipedia, n.d.-b).
 
-The community is governed by the World Cube Association (WCA), which has regulated competitions since 2004, keeps official world records and has staged world championships since 1982, with thousands of competitions a year across every continent.
+![Participants of the speedcubing event Cubehub Open](https://commons.wikimedia.org/wiki/Special:Redirect/file/Cubehub_Open.jpg?width=480)
+
+*Figure: Avinash dash1997. (2017, March 4). Cubehub Open [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cubehub_Open.jpg*
+
+Among the current leading women, Lian Yunzhi of China holds the women's 3x3 average world record of 4.27 seconds, set at a competition in Guangzhou in September 2026 after a 4.52 in Wuhan, making her the first woman to average under 4.5 seconds; Yiheng Wang holds the overall 3x3 average world record of 3.51 seconds from June 2026. Among the men, Xuanyi Geng holds the 3x3 single world record of 2.51 seconds from the Guangzhou Grand Open in October 2026, and the ten-year-old Teodor Zajder became the first solver ever under three seconds with 2.76 at Gdansk in February 2026, while Max Park's 3.13 from 2023 long stood as the benchmark (Wikipedia, n.d.-b).
 
 ## Rules
 
-WCA events each fix a puzzle and a solving circumstance — 3x3x3 one-handed, blindfolded solving with memorization, big cubes from 4x4 to 7x7, fewest-moves solving by submission, and more. In standard solving, five solves per round discard the best and worst to average the rest (three solves for blindfolded events), and rounds with cumulative time cut-offs progress from first round to final of an event. Rules fix cube inspection time of 15 seconds, penalties of +2 seconds for small misalignments and disqualification for puzzle pops or improper handling, with scramblers applying official random-state scrambles and judges verifying solutions.
+The WCA recognizes 17 official events, each fixing the puzzle and the solving circumstance — 2x2 to 7x7 cubes, pyraminx, megaminx, skewb, square-1, clock, 3x3 one-handed, 3x3 blindfolded, 3x3 fewest moves, 4x4 and 5x5 blindfolded and multi-blind — and publishes the full WCA Regulations covering equipment, scrambling, timing and penalties (World Cube Association, n.d.). In the standard format, each competitor solves five times per round, the best and worst times are dropped and the mean of the remaining three is the official average (average of 5); blindfolded and multi-blind events use a mean of 3 instead, and fewest-moves is a single graded attempt within a 60-minute limit. Solvers get up to 15 seconds of inspection before the timer starts; starting late costs +2 seconds, and exceeding 17 seconds disqualifies the attempt, while a misaligned layer of more than 45 degrees at the end costs +2 seconds and an uncorrectable or popped puzzle a DNF. Scramblers apply official random-state scrambles, StackMat timers record times, and delegates and judges verify every result. Competitions run in rounds — first round or qualification, then quarterfinal, semifinal and final — where the field is cut by ranking after each round, and some rounds carry cumulative time limits. Events are open to all genders and all ages side by side, with no separate age classes, but the WCA tracks men's and women's records separately; the women's 3x3 records currently stand at 4.27 seconds (average) for Lian Yunzhi (World Cube Association, n.d.; Wikipedia, n.d.-b).
 
 ## History
 
-The Rubik's Cube became a world craze after its international launch in 1980, and the first world championship was staged in Budapest in 1982, won by Minh Thai with a 22.95-second solve. The community formalized under the World Cube Association from 2004, which re-established world championships (currently held biennially) and local competitions with standardized scrambles and stackmat timers. Modern solving uses methods like CFOP and Roux with hundreds of algorithm moves mastered, world records have fallen below four seconds for the 3x3 and below the one-minute mark for the 3x3 blindfolded single, and the sport thrives from school clubs to continental championships.
+The puzzle behind the sport was invented on 19 May 1974 by Ernő Rubik, a Hungarian professor of architecture in Budapest, who built the first prototype to demonstrate spatial relationships to his students; after licensing to Ideal Toy Corporation it was launched internationally in 1980 and became a worldwide craze with more than 350 million units sold (Wikipedia, n.d.-a). The first world championship was held in Budapest in 1982 and won by Minh Thai of the United States with a 22.95-second solve. The modern competitive scene formalized when Ron van Bruchem and Tyson Mao founded the World Cube Association in 2004, which re-established world championships on a biennial cycle and standardized scrambles, timers and regulations; icons of the era now retired from record contention include Collin Burns, whose 5.25 in 2015 was the first official sub-6 solve, Mats Valk, who pushed the single record to 4.74 in 2016, and Australia's Feliks Zemdegs, twice world champion, whose 4.22 in 2018 stood as the record for years (Wikipedia, n.d.-a; Wikipedia, n.d.-b).
 
 ## Sources
 
-- World Cube Association: [Regulations, results and records](https://www.worldcubeassociation.org/) Retrieved November 21, 2026, from 
+- Wikipedia. (n.d.-a). *Rubik's Cube — invented 19 May 1974 by Ernő Rubik in Budapest; international launch 1980; first world championship Budapest 1982 won by Minh Thai; icons Collin Burns, Mats Valk, Feliks Zemdegs*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rubik%27s_Cube
+- Wikipedia. (n.d.-b). *Speedcubing — WCA founded 2004 by Ron van Bruchem and Tyson Mao; 17 official events; records 2.51 single, 3.51 average, women's average 4.27 Lian Yunzhi; 2025 world championship Seattle*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Speedcubing
+- World Cube Association. (n.d.). *Regulations, official events, competitions, results and world records*. Retrieved November 23, 2026, from https://www.worldcubeassociation.org/
+
+### Figure Index
+
+- Avinash dash1997. (2017, March 4). *Cubehub Open* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Cubehub_Open.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Memory Sport](memory-sport.html) — another competitive memorization discipline, on this site
-- [Chess](chess.html) — the classic competitive mind sport, on this site
-- [Sport Stacking](sport-stacking.html) — another timed hand-speed mind-and-motor sport, on this site
+- [World Cube Association](https://www.worldcubeassociation.org/) — world governing body; regulations, competitions, results and world records
+- [WCA Regulations](https://www.worldcubeassociation.org/regulations/) — the official rulebook
+- [Sport Stacking](sport-stacking.html) on this site — another timed hand-speed discipline
+- [Memory Sport](memory-sport.html) on this site — competitive memorization events
+- [Chess](chess.html) on this site — the classic competitive mind sport

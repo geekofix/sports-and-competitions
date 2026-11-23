@@ -1,23 +1,32 @@
 ## Basic Information
 
-Stoolball is the traditional English bat-and-ball sport, attested since the medieval era and centred on the county of Sussex, in which a bowler delivers a ball to a batsman defending a wicket mounted on a stake (historically a milking stool) at shoulder height. Often called cricket in the air and considered a possible ancestor of cricket and rounders, it is also notable as one of the earliest sports in which women competed publicly and by name.
+Stoolball is a traditional English bat-and-ball game from Sussex, attested in writing from 1450 and often called "cricket in the air"; it is a possible ancestor of cricket, baseball and rounders, and is still played competitively today under the National Stoolball Association (stoolball.org.uk, n.d.; Wikipedia, n.d.). Modern stoolball is played by 11-player teams — historically it was "common to women as well as men", and today women's and mixed leagues thrive, with the Smallfield Ladies one of the leading clubs (Wikipedia, n.d.). Matches are traditionally played around Easter at village grounds in Sussex, with the National Stoolball Association organizing league and cup competitions for men, women and mixed teams (stoolball.org.uk, n.d.).
+
+![The Smallfield Ladies Stoolball Team playing at Dorking, in the shadow of Box Hill](https://commons.wikimedia.org/wiki/Special:Redirect/file/Smallfield_Ladies_Stoolball_Team_playing_at_Dorking,_in_the_shadow_of_Box_Hill_-_geograph.org.uk_-_1386612.jpg?width=480)
+
+*Figure: Richard Rogerson. (2009, July 5). Smallfield Ladies Stoolball Team playing at Dorking, in the shadow of Box Hill [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Smallfield_Ladies_Stoolball_Team_playing_at_Dorking,_in_the_shadow_of_Box_Hill_-_geograph.org.uk_-_1386612.jpg*
 
 ## Rules
 
-Two teams of up to eleven players each alternate between batting and fielding on a grass pitch with two wickets roughly fourteen metres apart, each wicket a square board mounted on a post at shoulder height. The bowler delivers the ball underarm toward the board, and the batter, wielding a short paddle-shaped bat, scores runs by hitting the ball and running between the wickets; fielders dismiss batters by catching the struck ball or striking the wicket board with the thrown ball before the runner returns. Equipment is prescribed: the ball weighs 70-85 grams with a circumference of 175-207 millimetres, the bat is a wooden implement under half a metre long, and mixed-team rules cap the number of men on the field; all standards are maintained by Stoolball England, the governing body.
+A stoolball team has 11 players; the pitch is a circle of about 16 yards (14.6 m) radius with two wickets — stools of two boards 4 ft 8 in (1.42 m) wide on poles — set 16 yards (14.6 m) apart (stoolball.org.uk, n.d.). The bowler delivers underarm from a crease 10 yards from the wicket, and the ball must be bowled on the full (above a certain height) to be a good ball; the batter stands at the wicket and hits the ball into the field, then runs between the wickets scoring one run per complete circuit, as in rounders and cricket (Wikipedia, n.d.). Fielders return the ball, and a batter is out if the wicket is broken by the ball or a fielder while the batter is out of the crease, or if the batter is caught out; the innings ends after a set number of overs or when all batters are out, and the team with the most runs wins. Games are open to men, women and mixed teams, with separate men's, women's and mixed leagues under the National Stoolball Association, and school and youth divisions use smaller teams and balls (stoolball.org.uk, n.d.).
 
 ## History
 
-Stoolball is attested by name from around 1450, played in medieval and Tudor England as an Easter-season pastime, and Sussex milkmaids are credited with using their milking stools as the wicket and their milking bowl (a bittle) as the bat, hence the archaic name bittle-battle. The sport gave women some of their earliest recorded team contests, with a match of twenty-eight women documented in 1747 and an inter-county match between Sussex and Kent women in 1797, and the Glynde Butterflies of the 1860s-1880s are remembered among England's first sporting celebrities. Rules were first compiled at Glynde in 1867 and unified for the county in 1881, and Major William Grantham led an early twentieth-century revival, founding a national association at Lord's in 1923; by 1927 over a thousand clubs played, and the game reached France, Japan and Ceylon. The National Stoolball Association of 1979 survives as Stoolball England, keeping leagues alive across Sussex, Kent, Surrey and the Midlands.
+Stoolball is first attested in a 1450 court record from Sussex and was described in the 18th century as a game of milkmaids using a "bittle-battle" (a small bat) against a stool; the modern codified game was revived in 1916 by Major Grantham at Balneath Manor, Chailey, Sussex, for convalescent soldiers of the First World War, and the National Stoolball Association was formed to govern the revived game (Wikipedia, n.d.). Because the ball is hit through the air and caught or fielded freely, historians see stoolball as a plausible link between the older bat-and-ball games and both cricket and baseball (stoolball.org.uk, n.d.).
 
 ## Sources
 
-- Stoolball England. (n.d.). *The rules and history of stoolball*. Retrieved November 21, 2026, from https://www.stoolball.org.uk/
-- Wikipedia. (n.d.). *Stoolball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Stoolball
-- Weirdest Sports. (n.d.). *What is stoolball?*. Retrieved November 21, 2026, from https://weirdestsports.com/what-is-stoolball-history-and-rules
+- National Stoolball Association. (n.d.). *Rules of stoolball — 11-player teams, 16-yard pitch, stool wickets 4 ft 8 in, underarm bowling from 10 yards, runs between wickets; men's, women's and mixed leagues*. Retrieved November 23, 2026, from https://www.stoolball.org.uk/
+- Wikipedia. (n.d.). *Stoolball — attested 1450 in Sussex; milkmaid "bittle-battle" legend; revived 1916 by Major Grantham at Balneath Manor, Chailey, for convalescent soldiers; ancestor of cricket, baseball and rounders; women's teams such as Smallfield Ladies*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Stoolball
+
+### Figure Index
+
+- Richard Rogerson. (2009, July 5). *Smallfield Ladies Stoolball Team playing at Dorking, in the shadow of Box Hill* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Smallfield_Ladies_Stoolball_Team_playing_at_Dorking,_in_the_shadow_of_Box_Hill_-_geograph.org.uk_-_1386612.jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- [Cricket](cricket.html) and [Baseball](baseball.html) — the sports most often linked to stoolball's family tree, on this site
-- [Softball](softball.html) and [Fastpitch softball](fastpitch-softball.html) — small-ball cousins with their own histories, on this site
-- Stoolball England and the Sussex leagues — where the sport lives today, on this site
+- [National Stoolball Association](https://www.stoolball.org.uk/) — governing body; rules, leagues and fixtures
+- [Cricket](cricket.html) on this site — the modern descendant of the bat-and-ball tradition
+- [Baseball](baseball.html) on this site — another descendant game
+- [Rounders](rounders.html) on this site — the schoolyard cousin with similar running rules
+- [British Baseball](british-baseball.html) on this site — the Lancashire and Welsh variant

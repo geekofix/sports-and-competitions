@@ -1,23 +1,32 @@
 ## Basic Information
 
-Stand-up paddleboarding (SUP) is the water sport in which a rider stands on a large, buoyant board and propels it with a single-bladed paddle. Born from surfing and rooted in Hawaii, it spans calm-water cruising and racing, SUP surfing, whitewater, fishing and yoga, and is famed as one of the most accessible outdoor sports: in 2013 it was the outdoor activity with the most first-time participants in the United States.
+Stand-up paddleboarding (SUP) is the water sport of propelling a large board with a long single-bladed paddle while standing, used for flat-water touring, racing, surfing waves and fitness; the world governing body for competitive SUP is the International Surfing Association (ISA), which has governed SUP since the discipline's formalization and runs the annual ISA World SUP and Paddleboard Championship (International Surfing Association, n.d.). The 2025 ISA World SUP and Paddleboard Championship was held at Surf City El Salvador, 10–15 November 2025, with more than 169 athletes from 27 national teams, Spain as defending team champion, and disciplines covering technical race, distance race, sprint race, team relay and SUP surfing at El Sunzal (Wikipedia, n.d.). The professional racing circuit is the APP World Tour (Association of Paddle-surf Professionals), and the ISA publishes equipment specifications — board length, width, weight and paddle rules — in its rulebook (International Surfing Association, n.d.). Both a women's and a men's division exist at every championship, and women such as the leading distance racers on the World Tour headline the podiums alongside the men (Wikipedia, n.d.).
+
+![A paddleboard race](https://commons.wikimedia.org/wiki/Special:Redirect/file/Paddleboard-race.jpg?width=480)
+
+*Figure: Estrategy. (2008, May 2). Paddleboard-race [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Paddleboard-race.jpg*
 
 ## Rules
 
-On flat water, the paddler stands feet roughly hip-width apart with knees slightly bent, stroking the paddle on alternating sides of the board, blade perpendicular to the rail to avoid unintended steering; wide boards give beginners stability, while narrow race boards trade it for speed. Racing formats are straightforward "+E+" first paddler across the line in distance races, technical beach courses and downwind runs, with board-length classes keeping equipment fair "+E+" while SUP surfing is judged like wave-riding on a longboard, with the extra paddle used to catch waves and steer. Safety rules require a leash and, in many jurisdictions, a buoyancy aid; whitewater SUP adds helmets and body armour, and racing federations set equipment standards for sanctioned events.
+Under the ISA rulebook, SUP racing boards are divided into classes by length — typically 12'6" and under for sprint and technical races and 14' and over for distance and elite racing — with minimum width and weight limits, and paddles must be single-bladed with restrictions on blade size in some classes (International Surfing Association, n.d.). Races are started from a beach or pontoon start, with a course marked by buoys; technical race combines buoy turns and flat-water sprints over roughly 3–5 km, distance races run 10–15 km or more, and sprint races are short all-out efforts of a few hundred metres; infringements such as cutting inside a buoy or interfering with another paddler cost penalty laps or disqualification (Wikipedia, n.d.). SUP surfing is judged like surfing — waves scored on maneuvers, speed, power and flow — with heats of four and a scoring scale to 10 per wave. Events run as heats, semifinals and finals with men's and women's divisions at every level, junior and masters age groups at national championships, and para SUP classes for athletes with impairments (International Surfing Association, n.d.).
 
 ## History
 
-Standing paddle craft are ancient: propulsion of rafts and punts with a pole or paddle appears across continents millennia back, from early forms documented in Peru to China. The modern sport, however, was shaped on Waikiki in the 1940s, where Hawaiian beach instructors "+E+" notably John Ah Choy, who paddled standing to keep surfing as he aged, imitated by his sons Bobby and Leroy with Duke Kahanamoku's circle "+E+" used canoe paddles to watch over tourists and photograph surfers, giving the style its early name, beach boy surfing. In the 1990s big-wave star Laird Hamilton and his Maui crew reinvented SUP as cross-training and wave-riding, and the 2000s brought dedicated boards, races and the sport's first magazine in 2007. SUP then exploded far beyond the surf zone into the fastest-growing paddlesport scene worldwide, with federations, world championships and every discipline from yoga to racing.
+Paddleboarding has roots in Polynesian and Peruvian watercraft culture, but modern stand-up paddleboarding as a sport and fitness activity was popularized in Hawaii in the early 2000s by surfers such as Laird Hamilton and Dave Kalama, who used paddles to train and to catch waves earlier; racing and the ISA championship structure grew out of that Hawaiian scene in the 2010s, with the first ISA World SUP Championship held in 2012 and the APP World Tour professional circuit launching in the same decade (Wikipedia, n.d.). Hawaii remains the spiritual home of the sport, and Hawaiian watermen and women are still icons of SUP culture (International Surfing Association, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Standup paddleboarding*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Standup_paddleboarding
-- International Surfing Association. (n.d.). *SUP racing and surfing*. Retrieved November 21, 2026, from https://www.isasurf.org/
-- Perfect Paddles. (n.d.). *Stand up paddle boarding history and heroes*. Retrieved November 21, 2026, from https://perfectpaddles.com/stand-up-paddle-boarding-history-and-heroes/
+- International Surfing Association. (n.d.). *ISA World SUP and Paddleboard Championship — rulebook with board classes and paddle rules; 2025 championship Surf City El Salvador 10–15 November, 169 athletes, 27 national teams; para SUP*. Retrieved November 23, 2026, from https://isasurf.org/
+- Wikipedia. (n.d.). *Stand-up paddleboarding — modern popularization in Hawaii early 2000s by Laird Hamilton and Dave Kalama; first ISA World SUP Championship 2012; APP World Tour; technical, distance, sprint races and SUP surfing*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Stand_up_paddleboarding
+
+### Figure Index
+
+- Estrategy. (2008, May 2). *Paddleboard-race* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Paddleboard-race.jpg (Public domain)
 
 ## Important Links
 
-- [Surfing](surfing.html) and [Surf lifesaving](surf-lifesaving.html) — the wave and paddle sports SUP grew from, on this site
-- [Swimming](swimming.html) — the companion water sport of every paddler, on this site
-- SUP racing, downwind runs and the international race calendar — the competitive side of the sport, on this site
+- [International Surfing Association (ISA)](https://isasurf.org/) — world governing body incl. SUP; World SUP and Paddleboard Championship
+- [APP World Tour](https://appworldtour.com/) — professional SUP racing circuit
+- [Surfing](surfing.html) on this site — the wave-riding parent sport
+- [Kayaking](kayaking.html) on this site — paddle-powered racing on sit-in boats
+- [Open Water Swimming](open-water-swimming.html) on this site — endurance swimming in open water

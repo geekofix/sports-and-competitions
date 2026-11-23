@@ -1,23 +1,37 @@
 ## Basic Information
 
-Sprint car racing is the open-wheel dirt and pavement oval discipline that puts over 900 horsepower into a car weighing roughly 1,400 pounds with its driver "+E+" one of the highest power-to-weight ratios in motorsport. Popular primarily in the United States, sprint cars also race in Canada, Australia, New Zealand and South Africa, and legends from A. J. Foyt and Mario Andretti to Jeff Gordon and Kyle Larson used the class as a stepping stone before IndyCar and NASCAR.
+Sprint car racing is open-wheel dirt-track and pavement oval racing in the United States, with winged and wingless cars powered by methanol-burning V8 engines of 410 cubic inches producing over 900 horsepower and weighing at least 1,425 pounds with the driver (USAC, n.d.; World of Outlaws, n.d.). The modern era began when Tony Hulman founded the United States Auto Club (USAC) in 1956 after the AAA withdrew from racing in 1955, and USAC sanctions the AMSOIL National Sprint Car Championship (wingless 410s) plus midget and other divisions; the premier independent series is the World of Outlaws, founded in 1978 by Ted Johnson, which runs winged 410 sprint cars with a 15-inch right-rear tire, direct drive and no clutch or reverse gear (Wikipedia, n.d.-a). The season's signature events are the Knoxville Nationals — the "Granddaddy of Them All" — whose 65th running took place in 2026 with Kyle Larson as defending winner, the 59th Western World Championships at Central Arizona Raceway in October 2026, and the National Sprint Car Hall of Fame and Museum in Knoxville, Indiana (Wikipedia, n.d.-b).
+
+![Sprint cars in action at the Baypark Speedway in Tauranga](https://commons.wikimedia.org/wiki/Special:Redirect/file/Baypark_Speedway_Sprint_Cars.jpg?width=480)
+
+*Figure: Metro morgan. (2016, November 24). Baypark Speedway Sprint Cars [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Baypark_Speedway_Sprint_Cars.jpg*
+
+The series fields both men and women drivers: Shirley Muldowney, "Chaotic Chaotic" Shirley, was the first woman to qualify for and start the Indianapolis 500 in 1977 and made three Indy starts, and women have since competed in sprint car series such as the ASCS and USAC's lower divisions alongside the men (Wikipedia, n.d.-b).
 
 ## Rules
 
-Sprint cars are purpose-built single-seaters with methanol-injected 410-cubic-inch (6.7-litre) V8 engines (lower-cost 360 and 305 classes are also widespread), an in-out gearbox instead of a transmission, and no electric starter "+E+" cars must be push-started by a quad or truck. Winged sprint cars carry a large adjustable top wing plus front wings whose sideboards generate enormous downforce for grip and safety; wingless (traditional) sprint cars race without them and rely purely on driver skill through the corners. Race programs use time trials, heat races and a feature (the A-main) with grids set by qualifying and passing points; World of Outlaws sprint cars must weigh at least 1,425 pounds (646 kg) including the driver, and series rules tightly limit chassis, engine and electronics in the name of fair, fast competition.
+Sprint cars run on short ovals of a third to half a mile (paved or dirt) with steep banking; the winged World of Outlaws 410 cars carry a large top wing and smaller front wing, a methanol 410 cu in V8 of 900+ hp, a minimum weight of 1,425 lb with driver, a 15-inch-wide right-rear tire, a single-speed direct-drive gearbox and no clutch, starter or reverse — crews push the cars off and drivers rock them backward to start (World of Outlaws, n.d.). Races are typically 30–40 laps heat races and a 30- or 40-lap feature (the Knoxville Nationals feature is 100 laps), scored by finishing position with championship points; fouls include contact that stops another car, jumping the start, or rough driving, penalized by placement at the rear or disqualification, and fuel stops are not allowed in features. Classifications: winged 410s (World of Outlaws, High Limit, All Star), wingless 410s (USAC National), 360 cu in winged (ASCS), 305 cu in (USAC/CRA) and midgets, each with its own rules and points; there are no women's-only series, and women race in the same events as men under identical rules (USAC, n.d.; Wikipedia, n.d.-a).
 
 ## History
 
-The cars trace their lineage to the big cars of the 1930s and 1940s "+E+" the midget racers' larger cousins on America's state fair ovals "+E+" and the United States Auto Club (USAC) gave the wingless style its structure in the 1950s. The first winged race car, a winged super-modified, ran in 1958, and the idea spread through the 1960s and early 1970s until sideboarded top wings became standard. In 1978 promoter Ted Johnson founded the World of Outlaws, which grew into the premier winged dirt sprint car tour, anchored by marquee events such as the Knoxville Nationals each August at Knoxville Raceway in Iowa; the American Sprint Car Series, the All Star Circuit of Champions and the USAC National Sprint Cars carry the discipline today, alongside Australia's World Series Sprintcars and the National Sprint Car Hall of Fame in Knoxville.
+Sprint car racing grew out of the board-track and dirt-track racing of the 1910s–1930s; the United States Auto Club was founded in 1956 by Tony Hulman, owner of the Indianapolis Motor Speedway, after the American Automobile Association withdrew from sanctioning in 1955 following the Le Mans disaster (Wikipedia, n.d.-a). The World of Outlaws was founded in 1978 by Ted Johnson and created the winged 410 formula that dominates today. Icons of the sport, all now retired or deceased, include A.J. Foyt, Mario Andretti, Johnny Rutherford and Parnelli Jones of the 1960s, the Unser family — Al Unser Sr. and Al Unser Jr. — and Shirley Muldowney, the first woman to start the Indianapolis 500 in 1977 (Wikipedia, n.d.-b). The Triple Crown of sprint car racing — the Knoxville Nationals, the Kings Royal and the World 100 — has been swept only twice in history, in 1995 and 2003.
 
 ## Sources
 
-- Wikipedia. (n.d.). *Sprint car racing*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Sprint_car_racing
-- Wikipedia. (n.d.). *World of Outlaws*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/World_of_Outlaws
-- DIRTcar. (n.d.). *World of Outlaws Sprint Car Series rules*. Retrieved November 21, 2026, from https://dirtcar.com/rules/series-rules/world-of-outlaws-sprint-car-series/
+- USAC. (n.d.). *United States Auto Club — founded 1956 by Tony Hulman; National Sprint Car Championship regulations, 410/360/305/midget classes, points and safety rules*. Retrieved November 23, 2026, from https://www.usacracing.com/
+- Wikipedia. (n.d.-a). *Sprint car racing — history from the 1910s board tracks; USAC 1956; winged 410 formula; car specifications 900+ hp, 1,425 lb minimum, 15-inch right rear, direct drive*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sprint_car_racing
+- Wikipedia. (n.d.-b). *Sprint car racing major events — Knoxville Nationals 65th running 2026, Western World Championships, National Sprint Car Hall of Fame; icons A.J. Foyt, Mario Andretti, Johnny Rutherford, Parnelli Jones, Al Unser, Shirley Muldowney first woman to start Indy 500 1977; Triple Crown swept 1995 and 2003*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Knoxville_Nationals
+- World of Outlaws. (n.d.). *World of Outlaws — founded 1978 by Ted Johnson; winged 410 sprint car rules and schedule*. Retrieved November 23, 2026, from https://www.worldofoutlaws.com/
+
+### Figure Index
+
+- Metro morgan. (2016, November 24). *Baypark Speedway Sprint Cars* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Baypark_Speedway_Sprint_Cars.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- The Knoxville Nationals at Knoxville Raceway — sprint car racing's biggest weekend, on this site
-- The World of Outlaws tour and DIRTVision broadcasts — where the modern outlaws race, on this site
-- Midget cars, super-modifieds and other open-wheel cousins — the dirt-track family tree, on this site
+- [USAC — United States Auto Club](https://www.usacracing.com/) — sanctioning body of the National Sprint Car Championship
+- [World of Outlaws](https://www.worldofoutlaws.com/) — premier winged 410 series, founded 1978
+- [National Sprint Car Hall of Fame & Museum](https://www.sprintcarhalloffame.com/) — Knoxville, Indiana
+- [Formula One](formula-one.html) on this site — the premier open-wheel series on permanent road courses
+- [Karting](karting.html) on this site — the grassroots ladder of oval and road racing
+- [Midget Car Racing](midget-car-racing.html) on this site — USAC's small-car division

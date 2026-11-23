@@ -1,23 +1,34 @@
 ## Basic Information
 
-StarCraft II is Blizzard Entertainment's real-time strategy game of 2010 and one of the keystones of professional esports: two commanders manage economies, build armies and scout opponents in real time, blending speed, mechanics and long-form strategic thinking. Its professional scene "+E+" historically centered on South Korea "+E+" has featured the world's top RTS pros in tournaments such as the Global StarCraft II League (GSL) and international circuit events.
+StarCraft II is a competitive real-time strategy (RTS) esport in which two players command one of three asymmetric races — Terran, Zerg or Protost — building bases, gathering resources, producing armies and destroying the opponent's base; matches are played as best-of-3 or best-of-5 series on symmetrical maps (Blizzard Entertainment, n.d.). Blizzard released StarCraft II on 27 July 2010 as Wings of Liberty and made it free-to-play in 2017, and the professional scene has since been anchored by Korean team leagues — above all the GSL Code S, now Champions Korea (CK) run by SOOP — and by the Esports World Cup, whose 2024 champion was France's Clément "Clem" Deshayes (5–0 over Joona "Serral" Sotala) and whose 2025 champion was Serral (Wikipedia, n.d.). The ESL Pro Tour ran from 2020 until April 2025, and the 2026 community season centers on GSL CK, whose grand final was held on 17 May 2026 in Seoul after semifinals in which herO beat Cure 3–1 and SHIN beat Maru 3–2 (Wikipedia, n.d.).
+
+![People playing StarCraft II at Games Convention 2008](https://commons.wikimedia.org/wiki/Special:Redirect/file/People_playing_Starcraft_2_%282796666570%29.jpg?width=480)
+
+*Figure: włodi. (2008, August 23). People playing Starcraft 2 (2796666570) [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:People_playing_Starcraft_2_(2796666570).jpg*
+
+Women and men compete in the same open tournaments; among the current leading players, Canada's Sasha "Scarlett" Hostyn is the most successful woman in StarCraft II history and still competes at the top of mixed events, while the leading men in the November 2026 e-rankings are herO (rank 1), Clem (2), Serral (4), Reynor (5) and the seven-time GSL champion Maru (9) (Wikipedia, n.d.).
 
 ## Rules
 
-Each match is a duel between two of the game's three asymmetric factions "+E+" Terran, Zerg and Protoss "+E+" on a competitive map. Players harvest resources, construct production buildings, upgrade technologies and maneuver armies, all in real time with no turns: the defining skill is multitasking among economy, map control, scouting and combat, measured literally in actions per minute alongside strategic judgment. Standard competitive formats are best-of-three to best-of-seven series, with ladders and championship brackets; referee-enforced rules govern map pools, disconnects and game settings, while elite leagues such as the GSL run standings, playoffs and global finals.
+A competitive StarCraft II match is played in real time on a fixed ladder map; each player starts with 12 workers and a town hall and must gather minerals and vespene gas, construct buildings, research upgrades and produce units and structures, with the standard win condition being destruction of all opponent buildings (Blizzard Entertainment, n.d.). Professional series are best-of-3 in group stages and best-of-5 or best-of-7 in later rounds and finals; maps are vetoed alternately from the map pool before each series, and there are no draws — a tie in game time is broken by in-game tiebreak rules or a replay. There are no gender-separated leagues — women and men compete in the same open tournaments, with Scarlett as the standout female player — and no official age classes at premier events, with youth eligibility handled by the organizers. Blizzard's official rules and the map pool for each season are published on the game's esport pages (Blizzard Entertainment, n.d.; Wikipedia, n.d.).
 
 ## History
 
-StarCraft II launched in July 2010 as the sequel to the 1998 original, whose professional scene in South Korea "+E+" televised leagues, team houses and superstar players "+E+" had effectively invented modern esports; the sequel's own legacy includes the World Cyber Games and MLG circuits of the early 2010s. The title's competitive era saw expansion packs (Wings of Liberty, Heart of the Swarm, Legacy of the Void) refine balance, and the free-to-play model of 2017 opened the ladder to everyone. Professional StarCraft II has remained most prestigious in Korea, where the GSL and its team leagues continued to produce champions, while ESL's Pro Tour and world championships kept the international circuit alive; commentators still regard the game's top players as the most strategically complete performers in RTS esports.
+StarCraft II was released by Blizzard Entertainment on 27 July 2010 and became the defining esport of the 2010s, anchored by the Korean Brood War-era stars who switched over; icons of the early years, now retired, include Lee "Jaedong" Jae-dong, the legendary Zerg player, Lim "BoxeR" Yo-hwan, the first true Terran superstar, and Kim "NesTea" Jung-hoon, the first three-time GSL champion (Wikipedia, n.d.). The Wings of Liberty era (2010–2012) gave way to Heart of the Swarm (2013) and Legacy of the Void (2015), and the game went free-to-play in November 2017, keeping the competitive scene alive through community leagues and the Esports World Cup from 2024 (Blizzard Entertainment, n.d.).
 
 ## Sources
 
-- ESL Pro Tour. (n.d.). *StarCraft II esports*. Retrieved November 21, 2026, from https://pro.eslgaming.com/tour/sc2/
-- Blizzard Entertainment. (n.d.). *StarCraft II*. Retrieved November 21, 2026, from https://starcraft2.blizzard.com/
-- Liquipedia. (n.d.). *StarCraft II tournaments and results*. Retrieved November 21, 2026, from https://liquipedia.net/starcraft2/
+- Blizzard Entertainment. (n.d.). *StarCraft II — released 27 July 2010 (Wings of Liberty), free-to-play since 2017; three races Terran, Zerg, Protost; real-time base building and army control; official esport rules and map pools*. Retrieved November 23, 2026, from https://starcraft2.blizzard.com/
+- Wikipedia. (n.d.). *StarCraft II esports — GSL/Champions Korea 2026 grand final 17 May Seoul, herO over Cure 3–1 and SHIN over Maru 3–2 in semifinals; EWC 2024 Clem 5–0 over Serral, EWC 2025 Serral; ESL Pro Tour 2020–2025; icons BoxeR, Jaedong, NesTea; Scarlett most successful female pro; e-rankings Nov 2026 herO, Clem, Serral, Reynor, Maru*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/StarCraft_II
+
+### Figure Index
+
+- włodi. (2008, August 23). *People playing Starcraft 2 (2796666570)* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:People_playing_Starcraft_2_(2796666570).jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- The Global StarCraft II League and the Korean pro scene — the sport's historic heartland, on this site
-- From the original StarCraft to modern esports leagues — the lineage of professional RTS play, on this site
-- Mechanics, macro and map strategy — the skills that define top-level StarCraft II, on this site
+- [StarCraft II — official Blizzard site](https://starcraft2.blizzard.com/) — game, esport rules and news
+- [SOOP GSL — Champions Korea](https://gsl.sooplive.co.kr/) — the premier Korean StarCraft II league
+- [Liquipedia — StarCraft II](https://liquipedia.net/starcraft2) — comprehensive esport wiki with results and rankings
+- [E-Sports](e-sports.html) on this site — the broader competitive gaming scene
+- [Chess](chess.html) on this site — the classic strategy esport
