@@ -1,24 +1,34 @@
 ## Basic Information
 
-The Scottish hammer throw is a traditional heavy event of the Scottish Highland Games in which athletes throw a metal sphere fixed to a wooden shaft as far as possible. Unlike the modern Olympic hammer throw, the implement has a rigid handle rather than a wire, and the thrower's feet remain in a fixed position, making it a distinct test of strength and technique; it is regarded as the precursor of the track-and-field hammer throw.
+The Scottish hammer throw is one of the heavy athletics events at the Highland games: the thrower spins inside a marked throwing triangle (the trig) and releases a metal ball fixed to a shaft — the hammer — for maximum distance, the throw being measured to the first mark the ball head makes in the ground (NASGA, n.d.; Wikipedia, n.d.). In competition, men throw a 22 lb (9.98 kg) "heavy" hammer and a 16 lb (7.26 kg) "light" hammer, while women compete in their own events with a lighter hammer, commonly the 12 lb (5.4 kg) class; each thrower gets three attempts per weight within a time limit, and elite men exceed 35 m (115 ft) with the 22 lb hammer (NASGA, n.d.; SHGA, n.d.; Wikipedia, n.d.).
+
+![Throwing the hammer at the Carmunnock Highland Games near Glasgow](https://commons.wikimedia.org/wiki/Special:Redirect/file/Carmunnock_Highland_Games,_throwing_the_hammer,_City_of_Glasgow.jpg?width=480)
+
+*Figure: Rosser1954. (2018, May 27). Carmunnock Highland Games, throwing the hammer, City of Glasgow [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Carmunnock_Highland_Games,_throwing_the_hammer,_City_of_Glasgow.jpg*
+
+Women compete in their own hammer events with the lighter hammer at every major games alongside the men's 16 lb and 22 lb competitions, and the leading throwers come from Scotland and from the North American Scottish games circuit; there is no single world ranking, but the Scottish Highland Games Association (SHGA) and the North American Scottish Games Association (NASGA) maintain the championship rules and records (SHGA, n.d.; NASGA, n.d.).
 
 ## Rules
 
-The implement consists of a spherical metal weight attached to a shaft about four feet (1.2 m) long, of wood, bamboo, rattan or plastic: standard weights are 16 and 22 pounds for men and 12 and 16 pounds for women, contested as "light" and "heavy" hammers. The thrower stands with his back to the field, feet in a fixed position — a trig or board marks the throwing stance — and whirls the hammer around the head one to three times before releasing it over the shoulder; moving the feet or touching the ground beyond the trig during the attempt is a foul. Because no approach or spin is permitted, many athletes wear special footwear with flat blades dug into the turf to anchor against the centrifugal force — an aid allowed by all Highland games federations — and throws are measured for distance, with each competitor allowed three or four attempts depending on the games, the longest legal throw winning. Men's world bests stand at 48.03 m with the 16 lb hammer and 40.31 m with the 22 lb, both set by the American Daniel McKim in 2014.
+The hammer consists of a spherical steel head on a steel shaft with a grip; for the men's 22 lb hammer the total length from the head to the end of the shaft may not exceed 50 inches (127 cm), while the lighter hammers may be longer (NASGA, n.d.). The thrower stands inside the trig — the marked throwing triangle — makes one to three turns and releases the hammer over one shoulder; special toe spikes or hammer boots are allowed for grip, and a throw is void if the thrower steps over the trig line before releasing (NASGA, n.d.). Each competitor gets three attempts per hammer weight, with a time limit of about two minutes per round at many games; the distance is measured in a straight line from the inside edge of the trig to the first impact mark made by the ball head in the ground, and the best of the three throws counts (NASGA, n.d.; SHGA, n.d.). Men's and women's events use the same trig and measurement rules, differing only in hammer weight (SHGA, n.d.).
 
 ## History
 
-The event's ancestry is old: hammer throwing was a feat of strength in medieval and early modern Scotland and England — at the Tailteann Games tradition of Celtic contests — with blacksmiths' sledgehammers as the original implement, and Caledonian gatherings codified it as a chief heavy event alongside the stone put, weight throws, caber toss and sheaf toss. It entered the Highland games of the 19th century, such as the great Braemar Gathering, and the old style — the rigid rattan- or wooden-shafted hammer thrown from a stance — crossed into the broader athletic world: when the modern hammer throw was standardised with a wire and spinning circle in the late 19th century, the Scottish version remained in the Highland Games, where it is still practised in its two weights at every games from Braemar to the Caledonian clubs of North America. Scottish heavy athletics as a whole was formalised by bodies such as the Scottish Games Association (SGA) and North American Scottish Games Athletics (NASGA), which publish the traditional rules still used at amateur and professional games worldwide, and the greatest modern throwers — Bill Anderson in the 1960s, Matt Sandford in the late 1990s, and Daniel McKim, holder of both current world bests since 2014 — have each raised the event's distances in their generations.
+The hammer throw descends from Highland warriors testing their strength with heavy hammer-like tools and from medieval throwing contests; organised hammer throwing at the Highland games is documented from the early 19th century, with the Braemar Gathering — under royal patronage since Queen Victoria's visit in 1832 — and the Cowal Highland Gathering among the oldest and largest venues (Wikipedia, n.d.). Modern standardised rules for the heavy events were laid down in the 20th century by the SHGA in Scotland and NASGA in North America, which also publish the recognised championship records (SHGA, n.d.; NASGA, n.d.). The heavy events travel with the games circuit — caber toss, stone put, sheaf toss, weight throw and the hammer — and the men's 22 lb hammer remains the signature event of the big Scottish gatherings (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Scottish hammer throw*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Scottish_hammer_throw
-- Highland Games. (n.d.). *Heavy athletics*. Retrieved November 20, 2026, from https://highlandgames.com/heavy-athletics/
-- Scottish Heavy Athletics. (n.d.). *Athletic rules*. Retrieved November 20, 2026, from http://scottishheavyathletics.com/rules.html
+- NASGA. (n.d.). *North American Scottish Games Association — hammer throw rules: 22 lb and 16 lb hammers for men, lighter women's hammer, maximum 50 in total length for the 22 lb hammer, trig, three attempts, two-minute limit, toe spikes, measurement to the first mark of the ball head*. Retrieved November 23, 2026, from https://nasgaweb.com/
+- SHGA. (n.d.). *Scottish Highland Games Association — heavy athletics rules, women's hammer class and championship records*. Retrieved November 23, 2026, from https://shga.co.uk/
+- Wikipedia. (n.d.). *Scottish hammer throw — Highland games heavy event; hammer construction and throwing from the trig; organised throwing from the early 19th century; Braemar Gathering royal patronage since 1832; Cowal Highland Gathering*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Scottish_hammer_throw
+
+### Figure Index
+
+- Rosser1954. (2018, May 27). *Carmunnock Highland Games, throwing the hammer, City of Glasgow* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Carmunnock_Highland_Games,_throwing_the_hammer,_City_of_Glasgow.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- Wikipedia: Scottish hammer throw — implement, technique and records
-- Scottish Heavy Athletics rules — traditional rules of all the heavy events
-- [Caber Toss](caber-toss.html) and [Stone Put](stone-put.html) — related Highland Games events, on this site
-- [Athletics](athletics.html) — the modern Olympic track and field descendant's home, on this site
+- [NASGA — North American Scottish Games Association](https://nasgaweb.com/) — rules of the heavy events
+- [SHGA — Scottish Highland Games Association](https://shga.co.uk/) — Scottish games rules and records
+- [Braemar Gathering](https://www.braemargathering.co.uk/) — royal Highland gathering since 1832
+- [Caber Toss](caber-toss.html), [Sheaf Toss](sheaf-toss.html), [Stone Put](stone-put.html) and [Athletics](athletics.html) on this site — related throwing events

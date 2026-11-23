@@ -1,23 +1,31 @@
 ## Basic Information
 
-Schlagball ("hit ball") is a German bat-and-ball game in the wider European "longball" family, played between two teams who contest the right to bat on a field with a batting crease and touch posts. One of the standard team games of the German gymnastics (Turnen) movement from the 19th century, it was organised competitively by the German Gymnastics Federation until well after the Second World War and retained great popularity in Germany into the 1950s; it survives today as a revived traditional sport and school physical-education game.
+Schlagball — German for "hit ball" — is a bat-and-ball team game played on a large field or beach in which the batter tosses the ball into the air himself and strikes it with a flat wooden bat, after which the batting team's runners try to sprint between the bases while the fielding team tries to put them out with thrown balls; it became a staple of German school sport from the late 19th century until the 1950s and survives today mainly in school physical education and in the beach tournaments between the East Frisian North Sea islands, such as the annual Spiekeroog–Langeoog island tournament (Wikipedia, n.d.; Protoball, n.d.).
+
+![A Schlagball match on the beach at Spiekeroog between Spiekeroog and Langeoog](https://commons.wikimedia.org/wiki/Special:Redirect/file/Schlagball.jpg?width=480)
+
+*Figure: Hhjung2013. (2010). Schlagball [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Schlagball.jpg*
+
+Both girls and boys play Schlagball in mixed school teams, and women's and mixed teams contest the island beach tournaments; because the game is organised at school and club level rather than by a world federation, there are no official world rankings, and the modern competitive rules are maintained by Protoball (Protoball, n.d.; Wikipedia, n.d.).
 
 ## Rules
 
-Two teams of up to twelve players contest the right to bat. The batting team's players, one at a time, toss the ball up themselves and strike it, then run between the batting crease and the touch posts (or a far line) to score: unlike cricket, a full round trip back and forth is needed for a point, and a ball hit into the long-hitting field — roughly 70 metres out — scores directly. The fielding team aims for a turnover either by "plugging" a runner (hitting them with a thrown ball, as in early baseball), or by catching a struck ball in the air; catching one-handed is a speciality rule in several variants — once the fielding team has won the ball, it becomes the new batting team, and each turnover (Wechselpunkt) also counts a point to the fielding side, with penalty turnovers available to referees for unsportsmanlike conduct. Games are played to a fixed time (about an hour by classic rules) or to agreed innings, and the higher score wins; equipment consists of a flat or rounded bat and a hard leather ball.
+A long-hitting Schlagball field is about 70 m long and 25 m wide, with a batting crease (Schlagmal) and, about 10 m in front of the fielding crease, two touch posts (Fangmal) roughly 4 m apart; teams traditionally have 12 players per side, with modern variants allowing 6–12 players (Wikipedia, n.d.; Protoball, n.d.). The batter throws the ball up himself — there is no pitcher — and strikes it with the flat bat; a well-hit ball sends the batting team's runners out, and a runner scores by running from the Schlagmal to the Fangmal and back without being put out; the fielding team ends the innings by hitting a runner with a thrown ball ("plugging" or "soaking") or by taking a clean one-handed catch of a batted ball (Protoball, n.d.). A match lasts about an hour; men's, women's and mixed teams all play under the same rules (Protoball, n.d.).
 
 ## History
 
-Schlagball belongs to the ancient two-base bat-and-ball family of games — documented across early modern Europe under names such as longball (Scandinavia), palant (Poland), lapta (Russia) and oină (Romania) — in which the struggle for the batting side, plugging of runners and full circuit running were the shared essentials. German physical-education pioneers took up the game in the 19th century: it appears in Gutsmuths' and other early gymnastics manuals, and with the rise of the Turner movement of Friedrich Ludwig Jahn it became one of the usual German team sports, played at Turnfeste and in schools. Under the German Gymnastics Federation (DTB), schlagball was operated competitively as a gymnastic game until the 1950s, then shifted into school and recreational physical education; competition in the modern sport ran on into the postwar decade, and after 1950s decline the game survives today in traditional-sports festivals and as a school game in Germany and neighbouring countries, a cousin of the same family from which baseball's earliest American forms (with their "soaking" rule) also descend.
+Schlagball was codified by Johann Friedrich GutsMuths in his 1796 gymnastics manual "Gymnastik für die Jugend" and spread through German schools and Turnvereine during the 19th century, becoming the most popular German bat-and-ball game until the 1950s; it survives today chiefly in school PE lessons and in the North Sea island tournaments, for example between Spiekeroog and Langeoog, photographed above (Wikipedia, n.d.). The modern competitive ruleset — field dimensions, creases and elimination rules — is maintained by the Protoball project (Protoball, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Schlagball*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Schlagball
-- Protoball. (n.d.). *Modern rules of Schlagball*. Retrieved November 20, 2026, from https://protoball.org/Modern_rules_of_Schlagball
-- Taylor & Francis. (2020). *Batting, running, and 'burning' in early modern Europe*. Retrieved November 20, 2026, from https://www.tandfonline.com/doi/full/10.1080/09523367.2020.1714597
+- Protoball. (n.d.). *Schlagball rules — field dimensions, Schlagmal and Fangmal, self-tossed batting, runner elimination by thrown ball or one-handed catch, team sizes, modern competitive ruleset*. Retrieved November 23, 2026, from https://protoball.org/
+- Wikipedia. (n.d.). *Schlagball — German bat-and-ball game; codified by GutsMuths 1796; peak popularity in German schools until the 1950s; North Sea island tournaments Spiekeroog–Langeoog; teams of 12, field about 70x25 m*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Schlagball
+
+### Figure Index
+
+- Hhjung2013. (2010). *Schlagball* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Schlagball.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- Wikipedia: Schlagball — rules of the German game
-- Protoball: Modern rules of Schlagball — translated rules and history
-- [Baseball](baseball.html) and [Rounders](rounders.html) — distant bat-and-ball cousins, on this site
+- [Protoball](https://protoball.org/) — modern competitive Schlagball rules
+- [Baseball](baseball.html), [Softball](softball.html), [Cricket](cricket.html), [Rounders](rounders.html) and [Football](football.html) on this site — related bat-and-ball games

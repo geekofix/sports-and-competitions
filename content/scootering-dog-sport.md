@@ -1,23 +1,33 @@
 ## Basic Information
 
-Dog scootering is a dryland mushing sport in which one or two dogs, harnessed to a line, pull a rider on an unmotorised kick scooter over dirt trails — the mid-point of the canicross–bikejoring–scooter–rig family of dog-powered dryland and snow sports. It is governed internationally, alongside the other dryland classes, by the International Federation of Sleddog Sports (IFSS), which stages dryland world championships in classes from one-dog and two-dog scooter to four-, six- and eight-dog rigs, and it is a popular club sport across Europe and North America wherever trails are too dry for sleds.
+Scootering dog sport — dog scootering — is a dry-land mushing discipline in which one or two harnessed dogs pull a rider standing on an unmotorised kick scooter along forest trails and roads via a bungee shock-absorbing gangline attached to the scooter (IFSS, n.d.; Wikipedia, n.d.). It is governed internationally by the IFSS (International Federation of Sleddog Sports), which also covers canicross, bikejoring and skijoring as its dryland disciplines, and in Germany by the VDSV (Verband Deutscher Schlittenhundesportvereine), whose 2025 rulebook includes the scooter classes; the sport is distinct from human freestyle scootering, which is governed by World Skate (IFSS, n.d.; VDSV, n.d.).
+
+![A dog scootering rig with two dogs pulling a scooter](https://commons.wikimedia.org/wiki/Special:Redirect/file/Dog_scootering_side_4661927038_3f6e8ef819_o.jpg?width=480)
+
+*Figure: Sane, I. (2010, May 29). Dog scootering side 4661927038 3f6e8ef819 o [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Dog_scootering_side_4661927038_3f6e8ef819_o.jpg*
+
+Women and men compete equally as mushers in all scooter classes (one dog, two dogs), and the leading nations are the Czech Republic, Slovakia, France, Germany and the Netherlands; titles are decided at the IFSS Dryland World Championships and at national and European championships under VDSV and IFSS rules (IFSS, n.d.; VDSV, n.d.).
 
 ## Rules
 
-Under IFSS race rules, a scooter class team consists of a rider on a non-motorised scooter pulled by one dog (DS1) or two dogs (DS2) attached by a bungee line of roughly two to three metres; dogs must be at least 18 months old in scooter and bikejoring classes (12 months in canicross), and events run over courses of about 5.5 km for one-dog teams at world-championship level, shorter for juniors. Helmets are mandatory, brakes must function, spiked tyres and studs are forbidden, and mass starts are not permitted in the scooter, bikejoring and rig classes for safety — teams start individually against the clock, with passing protocols applying on the trail. Distances, age categories (junior, open and masters classes for men and women) and dog-welfare rules — such as the ban on full-length collars and on running unfit dogs, and mandatory equipment checks — are laid out in the IFSS Race Rules, and events also run relay and combined classes mixing canicross, scooter and bikejoring stages.
+The dog runs in an X-back or H-back harness attached by a gangline with an elastic bungee section to a rigid drawbar mounted on the scooter's front, so that the dog's pull is cushioned at starts and stops; the musher stands on the scooter deck, pushes with one foot when needed and steers with the handlebar, and the gangline must never drag on the ground or touch the dog (VDSV, n.d.). Scooter races are timed over courses typically between about 3 and 8 km depending on class and terrain, with one-dog and two-dog scooter classes plus relay formats at championships; dogs must meet minimum age requirements and pass a veterinary check before the race, and welfare rules on watering, rest and no drafting on the dog are enforced by the judges (IFSS, n.d.; VDSV, n.d.). There are no human weight classes — the classes are by number of dogs (and sometimes by dog size); men and women race in the same events or in parallel categories at major championships (IFSS, n.d.).
 
 ## History
 
-Dog scootering grew out of sled-dog culture as a dryland training and racing format: with snow unreliable, mushers in Europe and North America adapted kick scooters so that dogs could keep training and racing on dirt, and by the 1980s the scooter had taken its place beside canicross, bikejoring and rig classes in the emerging dryland circuit. The International Federation of Sleddog Sports, founded in 1985 to unify national sled-dog bodies and pursue international recognition standardisation, incorporated these dryland classes into its race rules, and staged its first on-snow world championships in 1990 with dryland world championships following as a separate branch; the classes were formally codified into the family that national federations race today. Europe's clubs, especially in France, Germany, the United Kingdom, the Nordic and Baltic countries, and Central Europe, drive much of the modern competition calendar, and the sport enjoys official IFSS biennial dryland world championships in classes from canicross to eight-dog rig, as well as qualification for national sled-dog and dryland championships worldwide.
+Dog scootering developed in continental Europe in the 1990s as the snow-free counterpart of sled dog racing, allowing mushers to train and race their dogs year-round on dry trails; it was incorporated into the IFSS dryland programme alongside canicross, bikejoring and skijoring, which the federation has governed internationally since the 2000s, and the VDSV formalised the scooter classes in its German national rulebook (Wikipedia, n.d.; IFSS, n.d.; VDSV, n.d.). The sport is closely related to the older skijoring, in which a dog pulls a cross-country skier (Wikipedia, n.d.).
 
 ## Sources
 
-- International Federation of Sleddog Sports. (n.d.). *IFSS race rules*. Retrieved November 20, 2026, from https://dassc.nl/wp-content/uploads/2026/07/IFSS_Race_Rules_2026_2028_29072026.pdf
-- Wikipedia. (n.d.). *International Federation of Sleddog Sports*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/International_Federation_of_Sleddog_Sports
-- EDC. (n.d.). *About canicross and dryland mushing*. Retrieved November 20, 2026, from https://edc.ee/en/veokoerasport/koerad
+- IFSS. (n.d.). *International Federation of Sleddog Sports — dryland mushing disciplines: canicross, bikejoring, skijoring and dog scootering; dryland world championships; welfare and veterinary rules*. Retrieved November 23, 2026, from https://ifss.net/
+- VDSV. (n.d.). *Verband Deutscher Schlittenhundesportvereine — rulebook 2025 including scooter classes; gangline with bungee, harness and drawbar; German championships*. Retrieved November 23, 2026, from https://www.vdsv.de/
+- Wikipedia. (n.d.). *Dog scootering — harnessed dog pulls a rider on a kick scooter via a gangline; dry-land relative of skijoring, bikejoring and canicross; developed in Europe in the 1990s*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Dog_scootering
+
+### Figure Index
+
+- Sane, I. (2010, May 29). *Dog scootering side 4661927038 3f6e8ef819 o* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Dog_scootering_side_4661927038_3f6e8ef819_o.jpg (CC BY 2.0)
 
 ## Important Links
 
-- IFSS race rules — scooter, canicross, bikejoring and rig classes
-- Wikipedia: International Federation of Sleddog Sports — history and events of the dryland and snow circuit
-- [Schutzhund](schutzhund.html) — another dog sport, on this site
+- [IFSS — International Federation of Sleddog Sports](https://ifss.net/) — dryland mushing including scootering; dryland world championships
+- [VDSV — Verband Deutscher Schlittenhundesportvereine](https://www.vdsv.de/) — German sleddog-sport association; rules and calendar
+- [Skijoring](skijoring.html), [Bikejoring](bikejoring.html), [Canicross](canicross.html), [Dog Sledding](dog-sledding.html) and [Disc Dog](disc-dog.html) on this site — related dog-powered sports
