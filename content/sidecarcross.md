@@ -1,24 +1,31 @@
 ## Basic Information
 
-Sidecarcross (sidecar motocross) is the two-crew branch of motocross, in which a driver and a passenger race a specially-built three-wheeled motocross outfit over the same closed dirt circuits as solo motocross. The earliest records suggest it began in the United Kingdom in the 1930s; today it is above all a Central and Western European sport, contested at world-championship level in the FIM Sidecar Motocross World Championship, held annually since 1980.
+Sidecarcross (sidecar motocross) is off-road motorcycle racing with a two-person outfit: the driver steers and throttles a solo motocross bike with a sidecar chassis attached, while the passenger — the "monkey" — hangs far out of the chair in corners and over jumps to keep the combination balanced, since a sidecar outfit does not lean like a solo machine (FIM, n.d.; Wikipedia, n.d.). The sport began in the United Kingdom in the 1930s, became a European championship from 1971 and the FIM Sidecar Motocross World Championship in 1980, and the 2026 season — the 46th — runs 12 Grand Prix from April to September, ending with the Sidecarcross of Nations (SQXoN) at Gueugnon, France, on 26–27 September 2026, which Team France won for the first time (FIM, n.d.; Wikipedia, n.d.).
+
+![A sidecarcross outfit at the start of a race at the international motocross in Gemert, Netherlands, 27 February 1966](https://commons.wikimedia.org/wiki/Special:Redirect/file/Motorcross_in_Gemert,_motor_met_zijspan,_Bestanddeelnr_918-8331.jpg?width=480)
+
+*Figure: Koch, E. (Anefo / Nationaal Archief). (1966, February 27). Motorcross in Gemert, motor met zijspan, Bestanddeelnr 918-8331 [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Motorcross_in_Gemert,_motor_met_zijspan,_Bestanddeelnr_918-8331.jpg*
+
+Women compete as drivers and passengers — the Belgian Sabrina van Calster scored points as a woman driver at the 2014 Swiss Grand Prix — and the 2025 world champions are the Belgian pair Koen Hermans and passenger Ben van den Bogaart (Wikipedia, n.d.).
 
 ## Rules
 
-Each team races an integrated tubular-chassis outfit built around a large-bore motocross engine (two-strokes of 350\u2013750 cc, four-strokes up to 1,000 cc, plus special sidecar engines such as the Zabel and MTH) in which the driver steers and the passenger flings their weight around to keep the machine grounded: leaning far out in corners to stop the outfit flipping, the passenger is the crew's climbing frame and its power-plant, doing much of the physical work. Grands Prix take place over a weekend, with qualifying on Saturday and two races on Sunday of 30 minutes plus two laps each; points from both races count toward the world championship, with the top twenty teams scoring in the FIM points table (25 for the winner down to 1). Minimum ages are 16 for drivers and passengers, medical fitness is required for those over 50, and teams may use up to two machines with limited repairs permitted during races. The season ends with the non-championship Sidecarcross des Nations, a team prize contested by national squads.
+A Grand Prix weekend consists of two qualifying group races on Saturday (points for the top five) and two main races on Sunday; championship points in each race go to the top 20 on the scale 25-22-20-18-16-15-14-13-12-11-10-9-8-7-6-5-4-3-2-1, and the season ends with the Sidecarcross of Nations, where national teams compete (FIM, n.d.; Wikipedia, n.d.). Chassis come from specialist builders such as VMC, BSU, AYR, EML, WSP and WHT, and engines are typically 700 cc two-strokes (Zabel), 630 cc MTH two-strokes or four-stroke KTM units; both the driver and the passenger need racing licences, and there are no gender classes — women and men compete together in the same races (FIM, n.d.; Wikipedia, n.d.).
 
 ## History
 
-Sidecarcross grew out of UK grasstrack and scrambling in the 1930s, with early outfits little more than solo machines with a sidecar bolted to the frame, and developed after the war alongside solo motocross into today's low-slung, specialised chassis built for the passenger's dynamic role. A European competition ran from 1971 (the FIM Cup, upgraded to a European Championship in 1975), and in 1980 the FIM elevated it to the Sidecar Motocross World Championship, staged ever since at top motocross venues across Europe and won by stars such as the ten-time world champion Dani\u00ebl Willemsen of the Netherlands, the dominant driver of the 1990s and 2000s, and the teams around Kristers Sergis, Ben Adriaenssen and Etienne Bax. Because the driver\u2013passenger partnership is the machine's real engine — Willemsen won with several different passengers — the most successful crews stay together for many years, and the sport enjoys its deepest participation in Belgium, the Netherlands, France, Germany, the Czech Republic and the Baltic states, with a dedicated amateur circuit (the IMBA European championship) feeding the world series.
+Sidecarcross began in the UK in the 1930s, when motocross riders added a passenger platform to their machines; a European championship ran from 1971 and the FIM made it a world championship in 1980 (FIM, n.d.; Wikipedia, n.d.). The most successful driver in history is the Dutchman Daniël Willemsen with ten world titles, and the most successful team is the Latvian pair Kristers Sergis and Artis Rasmanis with five; other multiple champions include the Belgians Adriaenssen/van den Bogaart (2013) and Hendrickx/van den Bogaart (2016), and the 2025 title went to Koen Hermans with Ben van den Bogaart; in 2014 the Belgian woman driver Sabrina van Calster scored championship points at the Swiss Grand Prix, and Britain's Stuart Brown holds the national record with 14 British titles (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Sidecarcross*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Sidecarcross
-- Wikipedia. (n.d.). *Sidecarcross World Championship*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Sidecarcross_World_Championship
-- FIM. (2025). *FIM Sidecarcross World Championship regulations*. Retrieved November 20, 2026, from https://www.fim-moto.com/
+- FIM. (n.d.). *FIM Sidecar Motocross World Championship — world championship since 1980 (European championship from 1971); Grand Prix format of two qualifying group races plus two main races; points 25-22-20-…-1 for the top 20 plus top five in qualifiers; season-ending Sidecarcross of Nations; 2026 season (46th): 12 Grand Prix April–September, SQXoN Gueugnon, France, 26–27 September 2026 won by Team France*. Retrieved November 23, 2026, from https://www.fim-moto.com/
+- Wikipedia. (n.d.). *Sidecarcross — UK origins in the 1930s; driver plus passenger "monkey" who leans out in corners and jumps; chassis VMC/BSU/AYR/EML/WSP/WHT; Zabel 700 cc, MTH 630 cc two-strokes, KTM four-strokes; Daniël Willemsen 10 world titles; Sergis/Rasmanis 5; 2013 Adriaenssen, 2016 Hendrickx, 2025 champions Koen Hermans/Ben van den Bogaart; 2014 woman driver Sabrina van Calster scored at Swiss GP; Stuart Brown 14 British titles*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sidecarcross
+
+### Figure Index
+
+- Koch, E. (Anefo / Nationaal Archief). (1966, February 27). *Motorcross in Gemert, motor met zijspan, Bestanddeelnr 918-8331* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Motorcross_in_Gemert,_motor_met_zijspan,_Bestanddeelnr_918-8331.jpg (CC0 1.0)
 
 ## Important Links
 
-- FIM regulations and Sidecarcross.com — rules, calendars and full results archive
-- [Motocross](motocross.html) — the solo parent sport, on this site
-- [Sidecar road racing](sidecar-road-racing.html) — the tarmac sibling of the sport, on this site
-- [Supercross](supercross.html) — motocross's stadium format, on this site
+- [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — world governing body; FIM Sidecar Motocross World Championship and Sidecarcross of Nations
+- [Sidecar road racing](sidecar-road-racing.html), [Motocross](motocross.html), [Motorcycle racing](motorcycle-racing.html) and [Enduro](enduro.html) on this site — related motorcycle disciplines
