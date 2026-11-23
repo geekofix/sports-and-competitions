@@ -1,23 +1,34 @@
 ## Basic Information
 
-Reindeer racing is the Arctic sport of harness-racing tethered reindeer that pull a skier along a snow track, practiced above all in Sápmi — the Sámi heartland of northern Norway, Sweden, Finland and Russia — where racing reindeer have long been bred and raced by herding communities. The flagship events are the Norwegian Reindeer Racing Championship, held on Tromsø's snow-covered main street during Sámi Week in February, and Finland's winter season, which culminates in the King of Reindeer championship race in Inari.
+Reindeer racing is the Arctic sport in which a harnessed reindeer pulls a skier-jockey on Nordic skis along a snow sprint track — the reindeer variant of [skijoring](skijoring.html), known in Norwegian as snørekjøring — practiced above all in Sápmi, the Sámi heartland of northern Norway, Sweden, Finland and Russia; women jockeys compete alongside men, and both male and female reindeer are raced, though castrated bulls bred and trained for speed are the traditional choice (Skijor International, n.d.; Wikipedia, n.d.). The flagship event is the Norwegian Reindeer Racing Championship on Tromsø's snow-covered main street Storgata during Sámi Week around the Sámi National Day (6 February): a 201-meter sprint run in heats and a final, with photo finishes of up to 2,000 frames per second, top speeds up to 60 km/h and an official world record of 14.96 seconds held by Anders Nils K. Eira of Karasjok; the 2026 championship on 8 February 2026 was won by Mikkel Alexander Olli Eira of Karasjok (MSM, n.d.; RCINet, n.d.). In Finland the winter season culminates in the King of Reindeer championship (Porokuninkaan kilpailut) in Inari as part of the Reindeer Cup circuit, and races are also held at Kautokeino in Norway, Jokkmokk in Sweden and Nadym in Russia (Wikipedia, n.d.). Like other recognized, regulated sports with trained animals (equestrianism, sled-dog racing), it is included under this site's ethics policy, with welfare rules governing training and racing (Skijor International, n.d.).
+
+![A reindeer race on Sámi National Day in Tromsø](https://commons.wikimedia.org/wiki/Special:Redirect/file/Reindeer_race,_Troms%C3%B8_Norway.jpg?width=480)
+
+*Figure: anjči. (2011, February 6). Reindeer race, Tromsø Norway [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Reindeer_race,_Troms%C3%B8_Norway.jpg*
 
 ## Rules
 
-Each team is a reindeer and a skier-jockey: the skier, holding a rope harness and wearing Nordic skis, hangs on behind a galloping reindeer over a flat snow track, typically 201 meters in Tromsø's sprint arena, with heats run head-to-head until one team remains. Top racing reindeer hit around 50-60 km/h, and any fall, loss of grip on the harness or loose rope means the race is lost; protective padding and close cooperation between reindeer trainer and jockey are central. In Finnish Lapland the events are run as part of the Reindeer Cup circuit, where the animals — specially bred and trained for speed, castrated males being the traditional choice — compete for breeding prestige in herding cooperatives as much as for prize money. Betting is informal; the real premium is on the fastest bloodlines in the herd.
+Each racing team is a reindeer and a skier-jockey: the jockey, wearing Nordic skis and holding the rope harness, hangs on behind the galloping reindeer over a flat snow track — the Tromsø sprint arena is 201 meters — with heats run head-to-head until one team remains (Skijor International, n.d.). Top racing reindeer reach about 50–60 km/h, and any fall, loss of grip on the harness or a loose rope loses the race, so protective padding and close cooperation between trainer and jockey are central (MSM, n.d.). In the Finnish Reindeer Cup, points and prize money go to the herding cooperatives as much as to the individual teams, keeping the fastest bloodlines in demand for breeding, and betting is informal — the outcome is decided by trained performance and speed, not chance (Wikipedia, n.d.). Racing reindeer are specially bred, trained and cared for by their herders, with veterinary checks at major events (Skijor International, n.d.).
 
 ## History
 
-Reindeer have been harnessed to pull skiers for centuries as a means of winter travel in the North, a practice known in Norwegian as snørekjøring, which evolved naturally into competition among Sámi herding communities. Reindeer racing became an organized sport in the mid-20th century: the first Finnish Reindeer Championship was held at Inari in 1959, and the Norwegian championships in Tromsø, staged annually as part of Sámi Week around 6 February on a snow-covered city street — now a fixture drawing thousands of spectators and the country's fastest reindeer, with a related event in Kautokeino. In Finland, the Reindeer Cup season spans the winter race meetings of Lapland and ends with the King of Reindeer championship in Inari, and races are also held at Jokkmokk in Sweden and at Nadym in Russia, keeping the sport a living part of Sámi and northern herding culture.
+For centuries the Sámi harnessed reindeer and strapped on Nordic skis as a means of winter travel across the snow — snørekjøring, "ski driving" — and competition grew naturally out of herding communities racing each other (Skijor International, n.d.). Organized racing took shape in the mid-20th century: the first Finnish Reindeer Championship was held at Inari in 1959, and the Norwegian championship has been staged in Tromsø since 2004 as the finale of Sámi Week, now drawing thousands of spectators to the city center, with a related event at Kautokeino (Wikipedia, n.d.; MSM, n.d.). Races are also held at Jokkmokk in Sweden and at Nadym in Russia, keeping reindeer racing a living part of Sámi and northern herding culture (Wikipedia, n.d.).
 
 ## Sources
 
-- Atlas Obscura. (n.d.). *Run Run Rudolph: The world of reindeer racing*. Retrieved November 20, 2026, from https://www.atlasobscura.com/articles/reindeer-racing
-- Skijor International. (n.d.). *Reindeer*. Retrieved November 20, 2026, from https://www.skijorinternational.com/reindeer
-- Wikipedia. (n.d.). *Skijoring*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Skijoring
+- MSM. (n.d.). *Sámi Week in Tromsø — Norwegian championship in reindeer racing; 201 m sprint; world record 14.96 s (Anders Nils K. Eira); up to 60 km/h; photo finishes up to 2,000 fps; held since 2004*. Retrieved November 23, 2026, from https://msm.no/en/sami-week/
+- RCINet. (n.d.). *Champion crowned in 2026 Norwegian reindeer championships — Mikkel Alexander Olli Eira of Karasjok, Tromsø, Sámi Week, 8 February 2026*. Retrieved November 23, 2026, from https://www.rcinet.ca/eye-on-the-arctic/2026/02/08/champion-crowned-in-2026-norwegian-reindeer-championships/
+- Skijor International. (n.d.). *Reindeer — centuries of snørekjøring, harness and ski-jockey racing, championships in Norway, Finland, Sweden and Russia*. Retrieved November 23, 2026, from https://www.skijorinternational.com/reindeer
+- Wikipedia. (n.d.). *Skijoring — reindeer racing tradition; first Finnish championship Inari 1959; Tromsø, Kautokeino, Jokkmokk, Nadym; Reindeer Cup and King of Reindeer in Inari*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Skijoring
+
+### Figure Index
+
+- anjči. (2011, February 6). *Reindeer race, Tromsø Norway* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Reindeer_race,_Troms%C3%B8_Norway.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Skijor International — reindeer](https://www.skijorinternational.com/reindeer) — the sport and its championships in Norway and Finland
-- [Atlas Obscura — reindeer racing](https://www.atlasobscura.com/articles/reindeer-racing) — report from the Tromsø championship
-- [Skijoring](skijoring.html) — the related sport of being towed on skis, on this site
+- [Skijor International — reindeer racing](https://www.skijorinternational.com/reindeer) — the sport and its championships
+- [MSM — Sámi Week in Tromsø](https://msm.no/en/sami-week/) — the Norwegian championship in reindeer racing and lasso throwing
+- [Eye on the Arctic (RCINet) — 2026 championship report](https://www.rcinet.ca/eye-on-the-arctic/2026/02/08/champion-crowned-in-2026-norwegian-reindeer-championships/) — Mikkel Alexander Olli Eira wins 2026
+- [Skijoring](skijoring.html) on this site — the towed-ski family of sports
+- [Dog Sledding](dog-sledding.html) on this site — the related animal-drawn winter sport
