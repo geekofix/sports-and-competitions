@@ -19,5 +19,5 @@ Humans have swum since prehistory and antiquity, but modern competitive swimming
 ## Important Links
 
 - [Swimrun](swimrun.html), [Triathlon](triathlon.html) and [Surfing](surfing.html) — the multisport and wave cousins of the pool, on this site
-- [Freediving](freediving.html) and [Spearfishing](spearfishing.html) — swimming's breath-hold relatives, on this site
+- [Freediving](freediving.html) on this site — swimming's breath-hold relative
 - Masters swimming and open-water racing — how the sport extends across all ages and waters, on this site

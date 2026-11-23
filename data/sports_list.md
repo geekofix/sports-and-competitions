@@ -634,7 +634,6 @@
 | Soccer Tennis                              | https://www.youtube.com/results?search_query=soccer+tennis                              |
 | Soft Tennis                                | https://www.youtube.com/results?search_query=soft+tennis                                |
 | Softball                                   | https://www.youtube.com/results?search_query=softball                                   |
-| Spearfishing                               | https://www.youtube.com/results?search_query=spearfishing                               |
 | Speed Climbing                             | https://www.youtube.com/results?search_query=speed+climbing                             |
 | Speed Pool                                 | https://www.youtube.com/results?search_query=speed+pool                                 |
 | Speed Skating                              | https://www.youtube.com/results?search_query=speed+skating                              |
