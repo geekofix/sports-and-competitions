@@ -1,24 +1,34 @@
 ## Basic Information
 
-Soccer tennis — known internationally as football tennis or futnet, and as nohejbal in its Czech and Slovak heartland — is a net sport played with a football: two teams of one, two or three players on a court divided by a low net, scoring points by playing the ball over the net with any part of the body except the hands and arms. Born in Czechoslovakia in the 1920s, it is governed internationally by the UNIF (Union Internationale de Futnet), with world championships staged since 1994.
+Soccer tennis — internationally known as futnet, Czech and Slovak *nohejbal* — is a ball game in which one, two or three players per side hit a football over a low net using any body part except the hands and arms, trying to make it land in the opponent's court so it cannot be returned; it is governed internationally by FIFTA (Federation International Footballtennis Association), founded in 1987, which stages World Championships — the 2026 edition 19–24 October 2026 in Famagusta — and European Championships, held since 1991 (FIFTA, n.d.-a; Wikipedia, n.d.). The sport is played in three disciplines — singles, doubles and triples — in women's, men's and junior categories, with women and juniors receiving extra bounce allowances (FIFTA, n.d.-b).
+
+![A futnet court at the parc omnisports in Vichy, France](https://commons.wikimedia.org/wiki/Special:Redirect/file/Terrain_de_futnet_dans_le_parc_omnisports_Auvergne-Rh%C3%B4ne-Alpes_%E2%80%94_Vichy_2026-07-04.JPG?width=480)
+
+*Figure: Tabl-trai. (2026, July 4). Terrain de futnet dans le parc omnisports Auvergne-Rhône-Alpes — Vichy 2026-07-04 — a futnet court in Vichy, France [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Terrain_de_futnet_dans_le_parc_omnisports_Auvergne-Rh%C3%B4ne-Alpes_%E2%80%94_Vichy_2026-07-04.JPG*
 
 ## Rules
 
-The court — typically 12.8 by 5.18 m for triples, smaller for doubles and singles — is divided by a net 1.10 m high (0.9 m in the women's game). Play follows volleyball logic adapted to football skills: each team may touch the ball up to three times before returning it (with one bounce off the ground allowed in some formats), every player may touch the ball with any body part except hands and arms, and points are scored when the ball lands in the opponent's court or the opponent faults; a set is played to 11 or 15 points with a two-point lead required, and matches are best of sets. Unlike volleyball, the serve is a kick — the server, standing behind the baseline, plays the ball over the net by foot — and judicious use of the single ground bounce gives the game its distinctive football rhythm of headers, chest control and volleys.
+The three futnet disciplines differ in team size, court and bounce rules: singles is one player on a 9 × 12.8 m court with a maximum of two touches and one bounce; doubles is two players on the same court with three touches — never two consecutive by the same player — and one bounce for men but two bounces for women and juniors; triples is three players on a 9 × 18 m court with the same touch and bounce rules (FIFTA, n.d.-b). The net is 1.10 m high; a set is won at 11 points with a two-point lead, capped at 15–14, and a match is the best of two sets (Wikipedia, n.d.). Fouls include touching the ball with hands or arms, letting it bounce more often than allowed, and touching the net; uniquely, a ball that hits the net and returns to the striker's own side may not be played again (FIFTA, n.d.-b). The ball is a glued 32-panel synthetic-leather ball that must bounce more than half a metre when properly inflated, and national associations may allow a maximum of three ball drops per match (FIFTA, n.d.-b). Serves are struck from behind the end line and alternate. Women's, men's and junior categories play on identical courts, differing only in the bounce allowance described above (FIFTA, n.d.-a).
 
 ## History
 
-Futnet was born in the 1920s in Czechoslovakia, where footballers warming up by kicking the ball over a rope or a crossbar gradually formalised the game — codified rules appeared in the 1930s, official national championships followed in 1940, and a proper federation structure arrived after the Second World War. Through the communist decades the sport boomed across Czechoslovakia — thousands of clubs playing nohejbal in schoolyards, barracks and village squares — and in 1988 the first international championship matches led to a consensus on international rules, giving rise to futnet's institutional era. The sport spread to Slovakia, Romania, and eventually across Europe and beyond: European championships have been organized since 1991 and world championships since 1994, and the International Federation (today UNIF, the Unión Internationale de Futnet) has staged the world championships quadrennially — with the Czech Republic historically the dominant power of the men's triples, with Slovakia also strong. The sport also thrives informally worldwide as a training game for footballers — the crossbar and touchline "football tennis" games of every training ground — but as an organised competition it remains most deeply rooted in Central Europe.
+Futnet began in 1922 when players of the Prague club Slavia Prague started kicking a ball over a horizontally suspended rope — "football over the rope" — which was soon replaced by a net (Wikipedia, n.d.). The first official rules were written in 1940 and the first futnet cup played the same year; between 1953 and 1961 the first league, the Trampská Liga, operated in Czechoslovakia, and in 1961 the sport was recognised by the Czechoslovak Sports Organisation (ČSTV) with a Prague Futnet Commission (Wikipedia, n.d.). The Czech Futnet Association was founded in 1971 and the Slovak one in 1974; the International Footballtennis Association (IFTA, later FIFTA) was founded in February 1987 in Biel, Switzerland, by five countries — Switzerland, England, Italy, Romania and Germany — the European Futnet Association followed in April 2010 in Marseille, and the Union Internationale de Futnet (UNIF) in 2010 (Wikipedia, n.d.). European Championships have been held since 1991 and World Championships since the first edition in 1994 at Košice, Slovakia (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Football tennis*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Football_tennis
-- History of Soccer. (n.d.). *Soccer tennis: History, rules, equipment and how to play*. Retrieved November 21, 2026, from https://historyofsoccer.info/soccer-tennis/
-- UNIF. (n.d.). *Futnet rules*. Retrieved November 21, 2026, from https://www.unifutnet.org/
+- FIFTA. (n.d.-a). *Footballtennis competition regulations — World Championships 2026 Famagusta 19–24 October, European Championships since 1991, member federations*. Retrieved November 23, 2026, from https://fifta.net/
+- FIFTA. (n.d.-b). *Laws of footballtennis — disciplines singles, doubles and triples, courts, touches, bounces, net 1.10 m, ball, serving, net-return rule*. Retrieved November 23, 2026, from https://fifta.net/
+- UNIF. (n.d.). *Union Internationale de Futnet — founded 2010, member countries, futnet as the international name*. Retrieved November 23, 2026, from https://www.futnetworld.com/
+- Wikipedia. (n.d.). *Football tennis (futnet) — 1922 Slavia Prague origins, first rules and cup 1940, Trampská Liga 1953–1961, ČSTV 1961, Czech association 1971, Slovak 1974, IFTA 1987 Biel, EFTA 2010 Marseille, UNIF 2010, set to 11 capped 15–14, best of two sets, rules summary*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Football_tennis
+
+### Figure Index
+
+- Tabl-trai. (2026, July 4). *Terrain de futnet dans le parc omnisports Auvergne-Rhône-Alpes — Vichy 2026-07-04* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Terrain_de_futnet_dans_le_parc_omnisports_Auvergne-Rh%C3%B4ne-Alpes_%E2%80%94_Vichy_2026-07-04.JPG (CC BY-SA 4.0)
 
 ## Important Links
 
-- UNIF and History of Soccer — full rules and championship history
-- [Sepak takraw](sepak-takraw.html) — the net game on the same family logic, played with a rattan ball, on this site
-- [Sepak takraw doubles](sepak-takraw-doubles.html) and [Volleyball](volleyball.html) — small net-court relatives, on this site
-- [Football](football.html) — the ball-handling game it grew from, on this site
+- [FIFTA — Federation International Footballtennis Association](https://fifta.net/) — world governing body; Laws of the Game and World Championships
+- [UNIF — Union Internationale de Futnet](https://www.futnetworld.com/) — international futnet federation founded 2010
+- [Tennis](tennis.html) on this site — the racket parent game
+- [Volleyball](volleyball.html) on this site — the net-court model
+- [Beach tennis](beach-tennis.html) on this site — a racket-over-net variant

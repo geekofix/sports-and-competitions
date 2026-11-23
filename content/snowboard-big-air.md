@@ -1,24 +1,33 @@
 ## Basic Information
 
-Snowboard big air is the Olympic and World Cup discipline of snowboarding in which riders launch off a single enormous jump and perform their most spectacular tricks — corks, flips and multi-rotation spins — with judges scoring each attempt. Big air joined the FIS World Cup circuit in the 2010s and the Winter Olympic programme at PyeongChang 2018, where Anna Gasser and Sébastien Toutant took the inaugural golds, and it remains snowboarding's biggest-single-trick spectacle.
+Snowboard big air is the discipline in which riders launch off a single massive kicker and are judged on the tricks they perform in flight — spins, flips and grabs — before landing on a steep down-slope; it is governed by the International Ski and Snowboard Federation (FIS) and has been an Olympic event since PyeongChang 2018 (FIS, n.d.-a). At the Milano Cortina 2026 Winter Olympics at Livigno Snow Park, Kira Kimura of Japan won the men's big air gold with 179.50 points, while Kokomo Murase of Japan won the women's gold with 179.00 ahead of defending champion Zoi Sadowski-Synnott of New Zealand (Wikipedia, n.d.). Among the current leading women are 2026 Olympic champion Kokomo Murase and silver medallist Zoi Sadowski-Synnott; among the men, Kira Kimura won the 2026 Olympic title (Wikipedia, n.d.).
+
+![The big air structure at Livigno Snow Park during the Milano Cortina 2026 Winter Olympics](https://commons.wikimedia.org/wiki/Special:Redirect/file/Trampolino_Big_Air_-_Livigno_-_01.jpg?width=480)
+
+*Figure: Dispe. (2026, January 31). Trampolino Big Air — Livigno — 01, the big air structure at Livigno Snow Park during the Milano Cortina 2026 Winter Olympics [Photograph]. Wikimedia Commons. CC0. https://commons.wikimedia.org/wiki/File:Trampolino_Big_Air_-_Livigno_-_01.jpg*
 
 ## Rules
 
-A big air event consists of one giant kicker (jump) with a steep landing; each rider performs a set number of runs — in Olympic finals, three jumps — of which the two best scores count, each judged 0\u2013100 on criteria including difficulty, execution, amplitude (height and distance) and landing. Falls score zero, so the classic final gamble is whether to attempt the hardest trick — triple corks and 1800s are now standard at the top — for a winning score or safer spins for a place; in the six-rider final of the Olympic format, two of three counted runs decide medallists. The same discipline is contested at FIS world championships, the X Games big air invitationals, and the World Cup big air circuit, often staged in stadiums with man-made scaffolding jumps. Equipment is unrestricted freestyle snowboarding: twin-tip boards, boots and bindings of the rider's choice, with helmets mandatory.
+Big air is contested on a course dominated by one huge jump — at Livigno Snow Park for Milano Cortina 2026 the structure was 225 metres long and 40 metres high with a kicker more than 50 metres tall — followed by a landing slope (FIS, n.d.-a). Riders take a set number of runs — three in the Olympic final with the best two counting — and each run is judged out of 100 points for difficulty, execution, amplitude, variety and landing (FIS, n.d.-b). Tricks are valued by rotation (180 to 1800 degrees) and by inversion — front flips, back flips, rodeos, corks and mistys — plus grab variety; a fall or a hand down on the landing heavily reduces the score, and the best combined total of the counting runs wins (FIS, n.d.-b). Qualification by best runs advances the field to the final; World Cup big air events use the same runs-and-judges format (FIS, n.d.-a). Women's and men's events use the same kicker and identical judging criteria at the Olympics and World Championships, with separate classifications; juniors compete at the FIS Junior World Championships (FIS, n.d.-b).
 
 ## History
 
-Big air grew out of snowboarding's contest culture of the 1990s (the quarter- and straight-jump contests of early pro events) and the X Games' superhit-style exhibition jumps, before being standardised as a judged single-jump discipline in the FIS World Cup (a dedicated big air trophy was added alongside halfpipe and slopestyle in the 2010s) and world championships from 2013 — when Roope Tonteri of Finland won the first men's world title at Stoneham. The IOC added big air to the Olympic programme for PyeongChang 2018, where Sébastien Toutant (Canada) and Anna Gasser (Austria) became the first Olympic champions; Gasser defended her title at Beijing 2022, while Kokomo Murase of Japan — who had landed the first women's triple cork in competition — won the 2026 Olympic title at Livigno. The women's progression from 900s to triple corks in barely a decade has been the discipline's defining story, with riders such as Gasser, Murase, Zoi Sadowski-Synnott, Mia Brookes and Reira Iwabuchi pushing rotations once thought impossible, while on the men's side Toutant, Chris Corning, Su Yiming (the Beijing 2022 champion) and Mons Røisland continue to raise the cork count.
+Big air grew out of the 1990s freestyle snowboard scene, when riders began building single huge jumps for photo and video shoots; ESPN X Games added a big air event in 2001, and the FIS brought big air onto the World Cup programme in the early 2000s before adding it to the Olympic programme at PyeongChang 2018 (Wikipedia, n.d.). Norway's Terje Håkonsen, the most influential rider of his generation, pioneered progressive grabbed tricks and famously boycotted the Nagano 1998 Olympics over the Olympic format before stepping away from competition (Wikipedia, n.d.). America's Travis Rice set the standard for double-corks and massive video parts through the 2000s and 2010s before retiring from competition (Wikipedia, n.d.).
 
 ## Sources
 
-- Olympics. (n.d.). *Snowboard*. Retrieved November 21, 2026, from https://www.olympics.com/en/sports/snowboard/
-- Wikipedia. (n.d.). *Snowboarding at the Winter Olympics*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Snowboarding_at_the_Winter_Olympics
-- FIS. (n.d.). *Snowboard competition rules*. Retrieved November 21, 2026, from https://www.fis-ski.com/
+- FIS. (n.d.-a). *Freestyle snowboard big air — Olympic programme since PyeongChang 2018, course and kicker specifications, qualification and final runs*. Retrieved November 23, 2026, from https://www.fis-ski.com/
+- FIS. (n.d.-b). *Judging criteria for snowboard big air — 100-point scale: difficulty, execution, amplitude, variety, landing; trick rotations and inversions*. Retrieved November 23, 2026, from https://www.fis-ski.com/
+- Wikipedia. (n.d.). *Snowboard big air — X Games big air 2001, FIS World Cup era, Olympic debut PyeongChang 2018; icons Terje Håkonsen, Travis Rice; 2026 Olympics Livigno structure 225 m and 40 m, men's gold Kira Kimura 179.50, women's gold Kokomo Murase 179.00*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Big_air_(snowboarding)
+
+### Figure Index
+
+- Dispe. (2026, January 31). *Trampolino Big Air — Livigno — 01* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Trampolino_Big_Air_-_Livigno_-_01.jpg (CC0)
 
 ## Important Links
 
-- FIS — big air World Cup calendar and results
-- [Snowboarding](snowboarding.html) — the parent sport, on this site
-- [Snowboard slopestyle](snowboard-slopestyle.html) and [Snowboard halfpipe](snowboard-halfpipe.html) — the sister freestyle disciplines, on this site
-- [Ski flying](ski-flying.html) — another single-flight spectacle of winter, on this site
+- [FIS — International Ski and Snowboard Federation](https://www.fis-ski.com/) — world governing body; snowboard rules, World Cup and World Championships
+- [Snowboarding](snowboarding.html) on this site — the umbrella sport
+- [Snowboard slopestyle](snowboard-slopestyle.html) on this site — the judged rail-and-jump discipline
+- [Snowboard halfpipe](snowboard-halfpipe.html) on this site — the pipe discipline
+- [Freestyle skiing big air](freestyle-skiing-big-air.html) on this site — the skiing counterpart

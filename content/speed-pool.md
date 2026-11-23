@@ -1,23 +1,33 @@
 ## Basic Information
 
-Speed pool ("speed billiards") is the quick-play pool discipline in which players race the clock and each other through racks of balls — shot on a standard pool table, with rulesets designed around continuous, break-neck potting rather than safety duels. It is an exhibition-and-tournament side format of pocket billiards, contested at trick-shot and bar-box events worldwide and in leagues that score accumulated time across racks, where elite players can run a full rack of 15 balls in a jaw-dropping minute or less.
+Speed pool — also called speedball — is the timed variant of pocket billiards in which a player must pocket all fifteen object balls as fast as possible, with the 8-ball last and any other order allowed; the stopwatch starts with the break and each foul adds a ten-second penalty (Wikipedia, n.d.-b). The game is played in the rules context of the World Pool-Billiard Association (WPA) and was popularised on television by the International Speed Pool Challenge broadcast on ESPN in the early 2000s, whose match format combined straight-pool and 8-ball sets with a straight-pool tiebreak (Wikipedia, n.d.-a). Men's and women's players compete on identical tables under identical rules.
+
+![A racked nine-ball setup on a pool table](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nine-ball_rack.jpg?width=480)
+
+*Figure: SMcCandlish. (2008, February 18). Nine-ball rack — one of many valid racks in the pool game of nine-ball, with the 1 ball at the apex on the foot spot and the 9 ball in the middle [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Nine-ball_rack.jpg*
 
 ## Rules
 
-Common speed pool formats set the player a fixed rack (usually 9-ball or a 15-ball rack) with a stopwatch running: the athlete breaks, then continues potting at pace — still subject to the normal rule that the cue ball may be shot only once the balls have stopped moving — until the rack is cleared, with the total time plus time-penalties for fouls deciding results. In 9-ball speed formats, each player must shoot legally in rotation order (lowest numbered ball first) and the 9's legal pot clears the rack; fouls (misses, wrong-ball-first contacts, scratches) add seconds or force re-racks at the organiser's discretion. The alternative tournament format is a direct race: two players compete at parallel tables or alternate racks, and the lower cumulative time (or the first to clear a set number of racks) wins; in all versions, break-and-run efficiency, shot selection that shapes position for the next ball, and near-instant aiming are the marks of the specialist.
+In speed pool, the player breaks the racked fifteen balls and then pockets them in any order except the 8-ball, which must be pocketed last; the clock runs from the break until the 8-ball drops, and the lowest total time wins (Wikipedia, n.d.-b). Fouls — scratching the cue ball, failing to pocket a ball, jumping the cue ball off the table or touching a ball in play — each add a ten-second penalty to the final time (WPA, n.d.). Play is on a standard 9-foot pool table (100 × 50 inch playing surface) with cue, chalk and bridge of the player's choice; coaching is not allowed during a run (WPA, n.d.). Tournament formats run timed heats, semi-finals and a final, and televised versions used best-of-sets matches mixing straight pool and 8-ball (Wikipedia, n.d.-b). The competition is open to men and women on identical equipment, with no separate gender classifications (Wikipedia, n.d.-b).
 
 ## History
 
-Speed pool grew out of the accuracy-and-showmanship culture of professional pocket billiards — trick-shot exhibitions of the early twentieth century already demanded rapid potting, and the revival era of the sport (the establishment of the professional 9-ball circuit and trick-shot tours of the 1990s\uu20132000s) saw exhibitors stage timed rack-running as a crowd spectacle. As bar-box and league culture grew, timed runout events became popular formats — shot-clock rules used in professional events from the 1990s onward to keep televised matches moving, while pure-speed events simply rewarded the fastest clear. Modern speed pool survives as both an exhibition discipline — with elite showmen running racks in extraordinary times — and a league-night format at pool halls and college clubs, and it gave pocket billiards one of its most-used training games: the timed solo runout, a staple of every serious player's practice.
+Timed pool games emerged from exhibition and bar play in American pool halls in the 1990s; the International Speed Pool Challenge, broadcast on ESPN in the early 2000s, turned speed pool into a televised spectacle with a set-based match format of straight pool and 8-ball and a straight-pool tiebreaker (Wikipedia, n.d.-a). The World Pool-Billiard Association codified speed pool within its competition rules context (WPA, n.d.). No single founder is recorded — the game grew organically out of timed exhibition play before formal competition (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Nine-ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Nine-ball
-- Billiard Congress of America. (n.d.). *Rules of play*. Retrieved November 21, 2026, from https://bca-pool.com/
-- YouTube. (n.d.). *Speed pool* runs and exhibitions. Retrieved November 21, 2026, from https://www.youtube.com/results?search_query=speed+pool
+- Wikipedia. (n.d.-a). *Speed pool — International Speed Pool Challenge on ESPN in the early 2000s, straight-pool and 8-ball sets, straight-pool tiebreak, men's and women's competition*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Speed_pool
+- Wikipedia. (n.d.-b). *Speed pool — pocket all 15 balls with the 8-ball last, stopwatch from the break, no recorded single founder*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Speed_pool
+- WPA. (n.d.). *World Pool-Billiard Association — official rules of pool, including speed pool timing and the 10-second foul penalty*. Retrieved November 23, 2026, from https://wpapool.com/
+
+### Figure Index
+
+- SMcCandlish. (2008, February 18). *Nine-ball rack* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Nine-ball_rack.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- BCA rulebook and nine-ball — the base rules speed pool adapts
-- [Straight pool](straight-pool.html) and [Snooker](snooker.html) — the classic pocket-billiards rack games, on this site
-- [Speed climbing](speed-climbing.html) — another timed race format in a very different sport, on this site
+- [WPA — World Pool-Billiard Association](https://wpapool.com/) — pool rules and world rankings
+- [8-ball pool](8-ball-pool.html) on this site — standard eight-ball
+- [9-ball pool](9-ball-pool.html) on this site — rotation pool
+- [Straight pool](straight-pool.html) on this site — the call-shot game used in speed-pool tiebreaks
+- [Billiards](billiards.html) and [Snooker](snooker.html) on this site — the cue-sport relatives

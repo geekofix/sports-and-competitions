@@ -1,24 +1,33 @@
 ## Basic Information
 
-Speed climbing is the timed racing discipline of climbing: two competitors climb identical, standardised 15-metre routes on an artificial wall simultaneously, the faster to the top buzzer winning. Governed by the International Federation of Sport Climbing (IFSC), it has been an IFSC World Cup and world championship discipline since the founding era of competition climbing and an Olympic event — first inside the combined format of Tokyo 2020, then as a standalone medal event from Paris 2024 — where the world's best now race up in under five seconds.
+Speed climbing is the race up a standardized 15-metre wall with a 5-degree overhang, timed electronically to the hundredth of a second, in which two climbers race head-to-head on identical routes; it is governed by the International Federation of Sport Climbing (IFSC) and has been an Olympic event since Tokyo 2020 — as part of the combined format — and a standalone medal event since Paris 2024 (IFSC, n.d.-b). At the 2025 IFSC World Championships in Seoul, 21–28 September 2025, Aleksandra Mirosław of Poland won the women's speed gold in a world-record 6.03 seconds in the final — her third world title — while Long Jianguo of China won the men's (IFSC, n.d.-a). Among the current leading women are Mirosław, the world-record holder at 6.03, Emma Hunt of the United States, the 2025 World Cup overall winner, and Natalia Kałucka of Poland; among the men, Kiromal Katibin of Indonesia won the 2025 World Cup overall and Sam Watson of the United States holds the men's world record at 4.67, set in Bali in 2025 (IFSC, n.d.-a).
+
+![The speed climbing wall at the Chamonix round of the 2012 IFSC Climbing World Cup](https://commons.wikimedia.org/wiki/Special:Redirect/file/Speed_climbing_at_the_Chamonix_round_of_the_IFSC_Climbing_World_Cup_2012.jpg?width=480)
+
+*Figure: Richard Allaway. (2012, July 12). Speed climbing at the Chamonix round of the IFSC Climbing World Cup 2012 — the speed wall [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Speed_climbing_at_the_Chamonix_round_of_the_IFSC_Climbing_World_Cup_2012.jpg*
 
 ## Rules
 
-Competition speed climbing takes place on an artificial 15-metre wall with a 5-degree overhang, IFSC-certified and identical every time and everywhere — the same twenty hand-holds in the same order, at a difficulty of around 6b (roughly YDS 5.10c) that most recreational climbers could complete, but with the intent of pure speed; competitors are secured by an auto-belay system from the top of the wall. Races are one-on-one knockouts: two wall lanes, two athletes, a start beep, and the first to hit the touchpad at the summit wins (with false starts and pad-triggered time rankings deciding placements); the women's world record now dips under six seconds and the men's under five — Sam Watson of the United States recorded 4.64 seconds at the 2025 IFSC World Cup in Bali, and Aleksandra Miros\u0142aw of Poland, the dominant women's racer, has repeatedly reset her own mark (2025 world title included). Outside competition, speed climbing also exists as a discipline on cliffs (recording speed records up classic routes) and on special poles and trees in the tradition of the sport, but the timed wall format is its organised core.
+The IFSC speed wall is 15 m high with a 5-degree overhang and a standardized route of holds, climbed in two identical lanes (IFSC, n.d.-b). Qualification runs are timed individually — the fastest times seed the field — and the top riders advance to a head-to-head knockout bracket of heats, quarter-finals, semi-finals and a final, in which the faster time advances (IFSC, n.d.-b). A false start — leaving the start pad before the signal — loses the heat immediately, and a fall or a missed hold loses the race; times are recorded by electronic touch pads at the top (IFSC, n.d.-b). Climbers wear harnesses on auto-belay systems and may chalk up before the start; equipment beyond that is not used on the wall (IFSC, n.d.-a). Women's and men's events are held on identical walls and routes with the same format and separate classifications; junior categories (under-15, under-17, under-19) exist at the IFSC Youth World Championships (IFSC, n.d.-a).
 
 ## History
 
-Speed climbing is the oldest form of competition climbing — speed contests on cliffs and artificial structures were staged in the former Soviet Union and Eastern Bloc decades before lead or bouldering competition existed internationally, producing the first world-class wall racers. The modern standardised 15-metre format — identical, homologated routes that made records comparable — was developed in the 2000s and adopted by the IFSC as the rapid-fire complement to its lead and bouldering disciplines; world records on the standard wall began falling rapidly thereafter (5.60s-era times falling first to Evgeny Vaytsekhovsky-era records and then through Aleksandra Miros\u0142aw and Iuliia Kaplina-era marks, to the current sub-5-second men's and sub-6-second women's bests). Speed entered the Olympics inside the Tokyo 2020 sport-climbing combined event, and its breakout moment came at Paris 2024, where it became a standalone Olympic event — Veddriq Leonardo of Indonesia winning the men's title, Miros\u0142aw the women's — confirming speed climbing as one of the Games' most explosive new disciplines.
+Competitive speed climbing began in 1991 in Frankfurt, Germany, with the first speed competition under the UIAA; the International Council for Competition Climbing took over the world championships in 1997, and the International Federation of Sport Climbing (IFSC) was founded in 2007 to govern the sport (Wikipedia, n.d.). Speed climbing entered the Olympic programme at Tokyo 2020 as part of the combined event and became a standalone medal event at Paris 2024, where the winning times were 6.06 seconds in the women's final and 4.75 in the men's (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Speed climbing*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Speed_climbing
-- Wikipedia. (n.d.). *Sam Watson (climber)*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Sam_Watson_(climber)
-- IFSC. (n.d.). *Speed rules and results*. Retrieved November 21, 2026, from https://www.ifsc-climbing.org/
+- IFSC. (n.d.-a). *IFSC World Championships Seoul 2025 — Mirosław world record 6.03 women's gold, Long Jianguo men's gold; 2025 World Cup overall Katibin and Hunt; world records Watson 4.67 and Mirosław 6.03*. Retrieved November 23, 2026, from https://www.ifsc-climbing.org/
+- IFSC. (n.d.-b). *Speed climbing — 15 m wall, 5-degree overhang, qualification and head-to-head knockout, false start and fall rules, Olympic since Tokyo 2020, standalone since Paris 2024*. Retrieved November 23, 2026, from https://www.ifsc-climbing.org/
+- Wikipedia. (n.d.). *Speed climbing — first competition 1991 Frankfurt UIAA, ICC 1997, IFSC founded 2007, Olympic combined Tokyo 2020, standalone Paris 2024*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Speed_climbing
+
+### Figure Index
+
+- Richard Allaway. (2012, July 12). *Speed climbing at the Chamonix round of the IFSC Climbing World Cup 2012* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Speed_climbing_at_the_Chamonix_round_of_the_IFSC_Climbing_World_Cup_2012.jpg (CC BY 2.0)
 
 ## Important Links
 
-- IFSC — the standardised speed wall, records and calendar
-- [Sport climbing](sport-climbing.html) — the parent sport of the Olympic discipline, on this site
-- [Skyrunning](skyrunning.html) — speed in the mountains, on this site
-- [Speed skating](speed-skating.html) and [Short track speed skating](short-track-speed-skating.html) — other timed-race speed sports, on this site
+- [IFSC — International Federation of Sport Climbing](https://www.ifsc-climbing.org/) — world governing body; speed climbing World Cup, World Championships and world ranking
+- [Sport climbing](sport-climbing.html) on this site — the umbrella discipline
+- [Lead climbing](lead-climbing.html) on this site — rope climbing on difficulty routes
+- [Rock climbing](rock-climbing.html) on this site — outdoor rock climbing
+- [Ice climbing](ice-climbing.html) on this site — climbing frozen waterfalls

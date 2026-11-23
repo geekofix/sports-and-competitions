@@ -1,23 +1,32 @@
 ## Basic Information
 
-Speedball 5-man is the five-a-side tournament format of competitive paintball, historically the standard team size of the PSP circuit and the basis of the modern Xball game. Five players — typically assigning roles such as front, mid and back players — take the airball field together, combining aggressive field movement with coordinated suppressive shooting to eliminate the other team and reach the flag or buzzer.
+Speedball 5-man is the standard five-a-side tournament paintball format: two teams of five play Xball on a mirrored inflatable-bunker field measuring 150 × 120 ft, with games of 12–15 minutes decided by points scored by pressing the opponent's start-base buzzer (NXL, n.d.-a). It is the core format of the NXL's divisional 5v5 play and of most amateur leagues, governed at the top level by the NXL's 2026 rulebooks; the women's professional division (WNXL, since 2021) plays the same 5v5 Xball (NXL, n.d.-b). The annual World Cup in Kissimmee, Florida, crowns the season champions (Wikipedia, n.d.-b).
+
+![Paintball game in Zalesie Górne near Piaseczno, Poland, 2008](https://commons.wikimedia.org/wiki/Special:Redirect/file/20080831_paintball_IMG_4074.jpg?width=480)
+
+*Figure: Piotr VaGla Waglowski. (2008, August 31). 20080831 paintball IMG 4074 — paintball game in Zalesie Górne near Piaseczno, Poland [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:20080831_paintball_IMG_4074.jpg*
 
 ## Rules
 
-The ground rules are the same as for [speedball](speedball.html): two teams start at opposite stations on a mirrored infield of inflatable bunkers, elimination comes when a paintball breaks on a player or their equipment, and a point ends when the flag is captured and hung or the opposing buzzer is pressed. In the five-man configuration, rosters may carry substitutes — teams may field a full squad of reserves and rotate them between points or games. Classic 5-man was played as a series of short timed games with scoring for eliminations, flag grabs and flag hangs, while the modern NXL Xball format uses the same five-player team size in a point-by-point match on a running game clock, with a short staging break between points and a mercy rule that ends lopsided matches early.
+In 5-man Xball, each team fields exactly five players; points are scored by reaching and pressing the opposing team's start-base buzzer, or by eliminating all five opponents, and teams play point after point until the 12–15 minute game clock expires — the most points wins, with a mercy rule ending lopsided games (NXL, n.d.-a). Staging lasts two minutes before each point; markers are capped at 10.2 balls per second; and from 2026 each player may carry a maximum of five pods plus one electronic loader per point, with new tiebreaker metrics deciding drawn games (NXL, n.d.-b). Hits on bunkers count, and a player hit with a paint-checked mark must leave the field immediately; overshooting, illegal equipment and unsportsmanlike conduct bring penalties up to ejection (NXL, n.d.-b). The 5v5 classic variant (ICPL) plays the same team size on woods, hyperball and mound fields with mechanical or capped electronic markers (NXL, n.d.-a). Women's and men's 5-man divisions use identical fields, equipment limits and rules (NXL, n.d.-b).
 
 ## History
 
-Five-man became the defining format of tournament paintball when Paintball Sports Promotions (PSP) consolidated the American circuit in the early 2000s: its compact team size made rosters affordable for amateur clubs while keeping the pace and tactical density that television producers wanted. The PSP's five-player Xball format, introduced in the early 2000s as a distinct segment of the league before being fully consolidated under the PSP banner, pushed competitive paintball toward a traditional sports model with coaches on the sidelines. After the PSP folded following the 2014 season, the revived National Xball League (NXL) kept five players per side as the standard for its professional and divisional play, a structure that continues to define the sport's highest level, and 5-man remains the most common local and regional tournament class worldwide.
+Five-a-side paintball became the standard tournament format during the speedball era of the late 1980s and with the inflatable-bunker fields introduced by Brass Eagle in 1996; the PSP ran 5-man divisions from the early 2000s to 2014, and the revived NXL made 5v5 Xball a core divisional format from 2015, alongside the 5v5 classic ICPL (Wikipedia, n.d.-b). Paintball itself was invented in 1981 by Charles Gaines, Bob Guice and Bill Cross of the Nelson Paint Company, with the first game played on 27 June 1981 on Long Island, New York (Wikipedia, n.d.-a).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Speedball (paintball)*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Speedball_(paintball)
-- Wikipedia. (n.d.). *National Xball League*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/National_Xball_League
-- Modern Paintball. (n.d.). *The history of paintball: From 1981 to today*. Retrieved November 21, 2026, from https://www.modernpb.com/history-of-paintball/
+- NXL. (n.d.-a). *5v5 Xball — field 150 × 120 ft, 12–15 minute games, buzzer scoring, 10.2 BPS cap, ICPL 5v5 classic variant on woods and hyperball fields*. Retrieved November 23, 2026, from https://www.nxlpaintball.com/
+- NXL. (n.d.-b). *2026 Divisional X-Ball rulebook — five pods plus one electronic loader per point, tiebreakers, fouls and penalties, WNXL*. Retrieved November 23, 2026, from https://www.nxlpaintball.com/
+- Wikipedia. (n.d.-a). *Paintball — invented 1981 by Gaines, Guice and Cross, Nelson Paint Company, first game 27 June 1981 Long Island*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Paintball
+- Wikipedia. (n.d.-b). *Speedball 5-man — five-a-side format, PSP 5-man divisions early 2000s–2014, NXL 5v5 from 2015, ICPL classic, World Cup Kissimmee*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Speedball_(paintball)
+
+### Figure Index
+
+- Piotr VaGla Waglowski. (2008, August 31). *20080831 paintball IMG 4074* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:20080831_paintball_IMG_4074.jpg (Public domain)
 
 ## Important Links
 
-- [Speedball](speedball.html) — the parent format and its rules, on this site
-- [Speedball 7-Man](speedball-7-man.html) — the larger NPPL-era team format, on this site
-- Divisional play at the NXL — how 5-man clubs climb from novice to professional level
+- [NXL — National Xball League](https://www.nxlpaintball.com/) — 2026 5v5 divisional rules and events
+- [Speedball](speedball.html) on this site — the umbrella tournament paintball format
+- [Speedball 7-man](speedball-7-man.html) on this site — the seven-player variant

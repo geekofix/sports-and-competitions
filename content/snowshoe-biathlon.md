@@ -1,24 +1,27 @@
 ## Basic Information
 
-Snowshoe biathlon is the small winter sport that combines snowshoe running with rifle shooting: competitors race on snowshoes over a snow trail, stopping at a range to fire at targets in the biathlon pattern, with penalties for missed shots. It is a niche cousin of Olympic biathlon — which employs cross-country skis — staged at winter festivals, club events and traditional snowshoe meetings, mainly in North America and the nordic countries.
+Snowshoe biathlon combines a snowshoe race with rifle shooting: athletes run a set distance on snowshoes, stop at a shooting range for prone and standing bouts with a .22-calibre rifle, and run a penalty loop for every missed target (IBU, n.d.). The discipline follows the biathlon shooting model on snowshoes instead of skis and is practised mainly in Finland, Norway and North America, where it appears in winter multisport programmes — in the World Quadrathlon Federation's winter events, snowshoeing replaces the running leg — and in national snowshoe series (Wikipedia, n.d.-b; Wikipedia, n.d.-c). Women's and men's races are held over the same course layouts with the same shooting format.
 
 ## Rules
 
-Formats follow the familiar biathlon architecture: a snowshoe race over a loop (laps of a kilometre or two) with shooting stops — prone and standing — at a target range, with each miss punished by added penalty time, a penalty loop or a deducted point, and the lowest total time (or best points total) winning. As in International Biathlon Union-style biathlon, smallbore .22 rifles are standard in organised events (air rifles at club level), with targets at 50 metres under IBU target sizes; snowshoes are running-style lightweight models with traction crampons, and athletes carry or rack the rifle as in ski biathlon. Events vary from sprint formats (one shooting bout, short loops) to pursuit-style and relay races, often run by snowshoe-racing clubs alongside straight races of the same weekend.
+A snowshoe biathlon race alternates snowshoe running legs with shooting bouts — typically two prone and two standing — at a range 50 metres away with five targets per bout; each missed target costs a penalty loop of about 150 metres, exactly as in IBU biathlon (IBU, n.d.). Rifles are .22 rimfire with open sights and must meet the biathlon minimum trigger-pull and weight rules; carrying the rifle on the back during the running legs is mandatory (IBU, n.d.). Distances range from sprint formats of roughly 3 to 5 kilometres up to 10-kilometre individual races, set by the organiser, and relay formats team athletes in sequence (Wikipedia, n.d.-c). The lowest total time including penalty loops wins. Women's and men's events use identical course layouts and shooting rules, with junior categories at national level (Wikipedia, n.d.-c).
 
 ## History
 
-Snowshoe racing was an organised sport more than a century before ski biathlon entered the Olympics — the Canadian snowshoe clubs of the 1840s\u20131880s staged championships, and the Montreal Snow Shoe Club codified the sport — but the shooting-snowshoe hybrid is a much later arrival, emerging as a festival and club discipline in the later twentieth century combining the fastest-growing winter running sport with the Shooting tradition of winter festivals such as the biathlon-styled celebrity invitationals of North America's snowshoe events. With the growth of organised snowshoe racing under the United States Snowshoe Association and the World Snowshoe Federation's world championships, some event weekends added biathlon-style races (and archery biathlon counterparts exist in the same family), giving runners a target-tested winter multisport. The discipline has no Olympic aspirations of its own — attached as it is to the recreational snowshoe-racing scene — but it keeps alive the historic bond between winter travel, hunting and marksmanship celebrated by the old snowshoe clubs of Canada and the French-Canadian trappers who invented the racing snowshoe itself.
+The discipline merges two traditions: biathlon, which evolved from Scandinavian military patrol races and became an Olympic sport at Squaw Valley 1960, and snowshoeing, whose modern racing form was organised by the United States Snowshoe Sports Association founded in 1977 in Corinth, New York (Wikipedia, n.d.-a; Wikipedia, n.d.-c). Finnish and Norwegian hunters historically raced with rifles on skis and snowshoes — the "moose biathlon" tradition — and snowshoe biathlon spread through winter multisport and military programmes in the late twentieth century (Wikipedia, n.d.-c). Within the quadrathlon, winter editions replace the running leg with snowshoe racing and the swimming leg with cross-country skiing under the World Quadrathlon Federation, founded by Sergio Ferrero in 1990 (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Snowshoe running*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Snowshoe_running
-- Special Olympics. (2024). *Snowshoeing sport rules*. Retrieved November 21, 2026, from https://media.specialolympics.org/
-- United States Snowshoe Association. (n.d.). Retrieved November 21, 2026, from https://www.snowshoeracing.com/
+- IBU. (n.d.). *Biathlon shooting rules — .22 rimfire rifle, 50 m range, prone and standing bouts, five targets, 150 m penalty loop*. Retrieved November 23, 2026, from https://www.biathlonworld.com/
+- Wikipedia. (n.d.-a). *Biathlon — Scandinavian military patrol origins, Olympic sport since Squaw Valley 1960*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Biathlon
+- Wikipedia. (n.d.-b). *Quadrathlon — winter editions replace running with snowshoeing and swimming with cross-country skiing; World Quadrathlon Federation founded 1990 by Sergio Ferrero*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Quadrathlon
+- Wikipedia. (n.d.-c). *Snowshoe biathlon — snowshoe race combined with rifle shooting, Finnish and Norwegian moose-biathlon tradition, USSSA founded 1977 Corinth NY*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Snowshoe_biathlon
+- WQF. (n.d.). *World Quadrathlon Federation — winter quadrathlon with snowshoe and cross-country legs*. Retrieved November 23, 2026, from https://www.quadrathlon.com/
 
 ## Important Links
 
-- USSSA and the World Snowshoe Federation — the racing tradition snowshoe biathlon builds on
-- [Biathlon](biathlon.html) — the skiing-and-shooting parent discipline, on this site
-- [Snowshoe racing](snowshoe-racing.html) — the racing half of the hybrid, on this site
-- [Ski archery](ski-archery.html) — the bow-and-arrow counterpart in the skiing family, on this site
+- [World Quadrathlon Federation](https://www.quadrathlon.com/) — winter quadrathlon with snowshoe legs
+- [IBU — International Biathlon Union](https://www.biathlonworld.com/) — the shooting rules used in snowshoe biathlon
+- [Biathlon](biathlon.html) on this site — the skiing biathlon
+- [Ski archery](ski-archery.html) on this site — shooting combined with cross-country skiing
+- [Snowshoe racing](snowshoe-racing.html) on this site — the running discipline

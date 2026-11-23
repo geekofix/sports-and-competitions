@@ -1,24 +1,25 @@
 ## Basic Information
 
-Snow volleyball 3x3 is the three-a-side format in which snow volleyball is played internationally: two teams of three players compete over a net on a snow court, under FIVB Snow Volleyball Rules adapted from beach volleyball, with the compact 3x3 line-up the standard for the CEV European Tour, the FIVB Snow Volleyball World Tour and the sport's continental championships. Since its Austrian origins the 3x3 game has been the vehicle for snow volleyball's growth from a regional curiosity toward a possible Winter Olympic discipline.
+Snow volleyball 3x3 is the official international format of snow volleyball: two teams of three players plus one substitute contest a ball over a net on a snow court, played best of three sets to 15 points under FIVB rules (FIVB, n.d.-a). The 3x3 format has been the standard at the CEV European Championships since 2018 and on the FIVB Snow Volleyball World Tour since 2019, with the 2026 World Tour stop at Uludağ, Türkiye (FIVB, n.d.-b). Women's and men's trios compete in parallel categories; the first European women's champions were Monika Povilaitytė and Ieva Dumbauskaitė of Lithuania at Wagrain-Kleinarl 2018, when the women's event was still played 2v2 before the switch to trios (Wikipedia, n.d.).
 
 ## Rules
 
-Each team fields three players on court (with a small substitutes' bench), and play follows beach-volleyball logic: up to three team touches to return the ball, no consecutive touches by the same player, rally scoring, and the block counting as a touch. The court is a snow-packed rectangle with marked lines, and the frozen surface changes the game's texture — sliding dig saves and traction footwear are part of the spectacle — while thermal layers and gloves are standard dress. Matches are played under the FIVB's Official Snow Volleyball Rules (2021\u20132024) as the best of three sets, with tie-break sets decided like beach volleyball; referees call net, double-touch and rotation-style faults as in the sand game.
+The FIVB 3x3 snow rules define the game: three starters and one substitute per team, best of three sets to 15 points with a two-point lead required, a maximum of three team contacts per rally with no consecutive contacts by the same player, a block counting as a touch but allowing the blocker to replay the ball, two substitutions and one timeout per set (FIVB, n.d.-a). The snow court is a marked rectangle on packed snow, smaller than a beach-volleyball court, with the net at official height; gloves, thermal wear and cleated traction footwear are permitted. Points are scored on every rally, and fouls — holding or catching the ball, a fourth contact, a double hit, a net touch, or crossing under the net into the opponent's space — give a point and the serve to the opponent (FIVB, n.d.-a). Women's and men's competitions use identical courts, nets and rules with separate classifications (FIVB, n.d.-b).
 
 ## History
 
-The three-a-side snow game grew straight out of the Austrian Snow Volleyball Tour founded around 2009 in Wagrain, and when the CEV adopted the sport in 2015 it chose 3x3 as its format — the European Tour from 2016, European championships from 2018 and the FIVB Snow Volleyball World Tour from 2019 all contested at three-a-side, with stops from Austria and Italy to Turkey, and extra-European events in Argentina. The format was showcased to the Olympic world at the Austria House during the PyeongChang 2018 Winter Games (with stars from volleyball and beach volleyball playing in a demonstration) and at the Lausanne 2020 Winter Youth Olympic Games festival programme, and the FIVB's stated ambition is a world championship and, ultimately, Winter Olympic admission for the 3x3 snow game — which would make volleyball the first sport on both the summer and winter programmes.
+The 3x3 game grew out of the Austrian origins of snow volleyball: after Martin Kaswurm's 2008 initiative in Wagrain, a local tour in 2009 and Austrian federation recognition in 2011, the CEV adopted the sport in 2015, ran the first European Tour in 2016 and staged the first European Championships in March 2018 at Wagrain-Kleinarl, Austria (Wikipedia, n.d.). A Snow Volleyball Night demonstration at the Austria House during the PyeongChang 2018 Winter Olympics raised the sport's international profile, and the FIVB launched the inaugural World Tour in 2019 with stops in Wagrain, Kronplatz and Bariloche, Argentina (Wikipedia, n.d.).
 
 ## Sources
 
-- FIVB. (n.d.). *Snow volleyball: The game*. Retrieved November 21, 2026, from https://www.fivb.com/snow-volleyball/the-game/
-- FIVB. (2021). *Official snow volleyball rules 2021\u20132024*. Retrieved November 21, 2026, from https://www.cev.eu/
-- Wikipedia. (n.d.). *Snow volleyball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Snow_volleyball
+- FIVB. (n.d.-a). *Snow Volleyball Rules — 3x3 format: 3 starters plus 1 substitute, best of 3 sets to 15, substitutions, timeouts, contacts and fouls*. Retrieved November 23, 2026, from https://www.fivb.com/snow-volleyball/
+- FIVB. (n.d.-b). *Snow Volleyball World Tour — inaugural 2019 Wagrain, Kronplatz, Bariloche; 2026 Uludağ Türkiye*. Retrieved November 23, 2026, from https://www.fivb.com/snow-volleyball/
+- Wikipedia. (n.d.). *Snow volleyball — 3x3 as the official format; Kaswurm 2008 Wagrain; CEV 2015; European Championships 2018 Wagrain-Kleinarl; PyeongChang 2018 showcase; World Tour 2019*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Snow_volleyball
 
 ## Important Links
 
-- FIVB and CEV — official 3x3 rules and tour calendar
-- [Snow volleyball](snow-volleyball.html) — the parent snow code, on this site
-- [Beach volleyball](beach-volleyball.html) — the summer model of the small-court game, on this site
-- [Sitting volleyball](sitting-volleyball.html) — another compact volleyball format, on this site
+- [FIVB — Fédération Internationale de Volleyball](https://www.fivb.com/) — world governing body; snow volleyball 3x3 rules and World Tour
+- [CEV — European Volleyball Confederation](https://www.cev.eu/) — European Championships and European Tour
+- [Snow volleyball](snow-volleyball.html) on this site — the umbrella sport including the original 2v2
+- [Volleyball](volleyball.html) on this site — indoor volleyball
+- [Beach volleyball](beach-volleyball.html) on this site — the sand model

@@ -1,24 +1,33 @@
 ## Basic Information
 
-Snowboard parallel giant slalom (PGS) is the head-to-head alpine racing discipline of snowboarding: two riders race simultaneously down identical, side-by-side giant slalom courses of red and blue gates, the faster of each duel advancing through knockout rounds. A fixture of the FIS World Cup and world championships, it has been on the Olympic programme since Salt Lake City 2002 — replacing the single-rider giant slalom of Nagano 1998 — and with parallel slalom and team events it completes snowboarding's alpine branch.
+Parallel giant slalom (PGS) is the head-to-head alpine snowboard race in which two riders descend parallel red and blue courses and the combined time decides the winner; it is governed by the FIS and has been an Olympic event since Salt Lake City 2002 (FIS, n.d.-b). At the Milano Cortina 2026 Winter Olympics, Benjamin Karl of Austria won the men's gold — his second Olympic gold 16 years after his 2010 silver — and Zuzana Maděrová of Czechia won the women's gold ahead of Sabine Payer (Wikipedia, n.d.). Among the current leading women are Maděrová, 2025 world champion Ester Ledecká of Slovakia, and Tsubaki Miki of Japan, the 2025–26 World Cup leader; among the men, Roland Fischnaller of Italy won the 2025 world title and competed his seventh Olympics at Milano Cortina 2026 at age 45 (FIS, n.d.-a; Wikipedia, n.d.-a).
+
+![Spc. Ryan McDonald racing parallel giant slalom at the 2005 Continental Cup in Copper Mountain](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ryan_McDonald_snowboard_PGS.jpg?width=480)
+
+*Figure: Jack Gillund. (2005, November). Ryan McDonald snowboard PGS — parallel giant slalom at the 2005 Continental Cup, Copper Mountain [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Ryan_McDonald_snowboard_PGS.jpg*
 
 ## Rules
 
-Qualification is run as a single timed leg on one course, after which riders are paired by seed into head-to-head duels. In each duel the two riders race simultaneously on parallel red and blue courses (set symmetrically so neither has an advantage), the winner advancing round by round through 1/16 or 1/8 finals to the final and small final; in two-leg duels the riders switch courses for the second leg to equalise any difference between the red and blue lines. Courses are set with giant slalom-style gates of offset turns over a vertical drop of roughly 200\u2013225 metres; a missed gate or fall loses the duel (or forces re-run in two-leg matches), and finals decide medallists by knockout. Equipment is alpine snowboarding: hard boots, plate bindings, long directional boards and full protective kit — with helmets mandatory — quite different from the freestyle disciplines' soft boots. World champions and Olympic champions are crowned annually in PGS at world championships and quadrennially at the Games, alongside a parallel slalom and a parallel mixed team event recently developed.
+In parallel giant slalom, riders first qualify individually against the clock on a single course; the top 16 then race head-to-head on parallel red and blue courses in a knockout bracket — round of 16, quarter-finals, semi-finals, then big and small finals — with each heat decided by the combined time difference over the two runs (FIS, n.d.-b). Courses are set with gates on steep, groomed slopes; riders use hard boots and directional alpine boards, and crossing into the opponent's course or impeding an opponent is penalised (FIS, n.d.-a). At the Olympics and World Championships the format is qualification plus knockout, and the mixed team event races one woman and one man per nation. Women's and men's events use the same course and identical format with separate classifications; junior events exist at the FIS Junior World Championships (FIS, n.d.-b).
 
 ## History
 
-Alpine snowboard racing began with the giant slalom of the first professional era — giant slalom and slalom were the racing formats of the 1990s tours — and the IOC chose giant slalom (alongside halfpipe) for snowboarding's Olympic debut at Nagano 1998, where Ross Rebagliati's gold (and the briefly stripped-then-restored marijuana case) made history. For Salt Lake City 2002 the event was converted to parallel giant slalom head-to-head racing — the two-rider duel bringing television-friendly direct competition — and it has stayed on the programme since; champions have included Philipp Schoch (2002, 2006), Jasey Jay Anderson (2010), Vic Wild's double (PGS and parallel slalom) at Sochi 2014, Ester Ledeck\u00e1's remarkable 2018 gold days after her Alpine skiing super-G triumph, and Benjamin Karl (2022). The FIS stages a parallel racing World Cup in which Austria's Benjamin Karl, Italy's Roland Fischnaller and Russia's Ekaterina Tudegesheva dominated the 2010s — the medal table of the 2013 world championships showing Karl, Fischnaller and Wild on the men's PGS podium — while from Beijing 2022 a mixed parallel team event joined the Games programme. Alpine snowboarding's heartland has long been Central Europe — Austria, Italy, Germany, Switzerland — with South Korea's alpine programme also strong — Lee Sang-ho took Olympic silver in 2018.
+Parallel racing grew out of snowboard alpine racing in the 1980s and 1990s; the FIS added parallel giant slalom to the Olympic programme at Salt Lake City 2002, where Switzerland's Philipp Schöch won the men's gold and France's Karine Ruby — later tragically killed in a mountaineering accident in 2009 — won the women's (Wikipedia, n.d.). The alpine era was defined by riders such as Austria's Andreas Prommegger and Italy's Vic Wild, Olympic champion at Sochi 2014, both now retired, and by the Schöch brothers of Switzerland (Wikipedia, n.d.).
 
 ## Sources
 
-- Olympics. (n.d.). *Snowboard*. Retrieved November 21, 2026, from https://www.olympics.com/en/sports/snowboard/
-- Wikipedia. (n.d.). *Snowboarding at the Winter Olympics*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Snowboarding_at_the_Winter_Olympics
-- FIS. (n.d.). *Snowboard competition rules*. Retrieved November 21, 2026, from https://www.fis-ski.com/
+- FIS. (n.d.-a). *FIS alpine snowboard regulations — PGS courses, gates, hard-boot equipment, contact and impeding penalties*. Retrieved November 23, 2026, from https://www.fis-ski.com/
+- FIS. (n.d.-b). *Parallel giant slalom — Olympic programme since Salt Lake City 2002, qualification and knockout format, mixed team event*. Retrieved November 23, 2026, from https://www.fis-ski.com/
+- Wikipedia. (n.d.). *Parallel giant slalom (snowboarding) — Olympic debut SLC 2002 Schöch and Ruby, icons Schöch, Prommegger, Wild; 2026 Olympics Karl and Maděrová gold, Fischnaller seventh Olympics at 45*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Parallel_giant_slalom
+
+### Figure Index
+
+- Jack Gillund. (2005, November). *Ryan McDonald snowboard PGS* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Ryan_McDonald_snowboard_PGS.jpg (Public domain)
 
 ## Important Links
 
-- FIS — parallel World Cup standings and rules
-- [Snowboarding](snowboarding.html) — the parent sport, on this site
-- [Snowboard cross](snowboard-cross.html) — the other Olympic snowboard racing event, on this site
-- [Skiing](skiing.html) — the giant slalom model of the parent snow code, on this site
+- [FIS — International Ski and Snowboard Federation](https://www.fis-ski.com/) — world governing body; PGS World Cup and World Championships
+- [Snowboarding](snowboarding.html) on this site — the umbrella sport
+- [Alpine skiing giant slalom](alpine-skiing-giant-slalom.html) on this site — the skiing counterpart
+- [Snowboard cross](snowboard-cross.html) on this site — the mass-start snowboard race
+- [Snowboard slopestyle](snowboard-slopestyle.html) on this site — the freestyle discipline
