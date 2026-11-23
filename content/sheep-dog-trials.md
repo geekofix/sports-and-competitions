@@ -1,22 +1,35 @@
 ## Basic Information
 
-Sheep dog trials (sheepdog trials) are a competitive test of working sheepdogs, in which a handler directs a dog — almost always a Border Collie — to gather and move a small flock of sheep through a course of gates and into a pen, using only whistled and spoken commands. The sport grew from the practical work of hill farms in the British Isles, where a good dog was an essential labourer, and it is organised nationally and internationally by bodies such as the International Sheep Dog Society (ISDS), founded in 1906. Trials are played out on farms and showgrounds across Britain, Ireland, North America, Australia and New Zealand, and the sport's best-known public face is the BBC television programme "One Man and His Dog".
+A sheep dog trial is a timed competition in which a handler directs a working dog — usually a Border Collie — by whistle and voice commands through the outrun, lift, fetch, drive, shedding ring, single and pen, with points deducted for every fault (ISDS, n.d.; Wikipedia, n.d.-a). The sport is governed internationally by the International Sheep Dog Society (ISDS), founded in 1906, which stages the World Sheepdog Trials every three years since 2002; at the 2023 trials at Gill Hall Estate, Dromore, Northern Ireland, Petter Landfald of Norway and his dog Max were crowned world champions, Team Ireland won the teams competition, and 17-year-old Tyler McKinlay of Lanark, Scotland, with her dog Heatherstane Squiggle became Young Handler world champion in the first ever all-female junior final (Wikipedia, n.d.-b).
+
+![A Border Collie at work during a sheepdog trial at Rural Hill Farm, Huntersville, North Carolina](https://commons.wikimedia.org/wiki/Special:Redirect/file/Border_Collie_sheepdog_trial.jpg?width=480)
+
+*Figure: Scot Campbell. (2007, November 4). Border Collie sheepdog trial [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Border_Collie_sheepdog_trial.jpg*
+
+Women compete on exactly equal terms with men in open trials — the 2023 World Trials even produced an all-female junior final — and the current leading women handlers include Young Handler world champion Tyler McKinlay with Heatherstane Squiggle, while the men's elite is headed by 2023 world champion Petter Landfald with his dog Max (Wikipedia, n.d.-b).
 
 ## Rules
 
-A standard course sends the dog out from the handler to gather sheep placed some distance away. The classic scoring breakdown runs to a possible 110 points: outrun (20 points), lift (10), fetch (20), driving the sheep around a triangular course (30), shedding — separating and re-grouping the sheep (10), penning them in a small enclosure (10), and a single — isolating one marked sheep (10). Points are deducted for faults at each obstacle, for sheep straying out of bounds, and for fiz dogs that grip or worry the sheep; the handler must remain at a set post and work the dog only by command. The shepherd may not touch the sheep. Competition is scored across outruns in qualifying rounds and finals, with the highest aggregate winning; courses and point weightings vary between societies and between the Double-Gather international format and simpler club trials.
+A standard ISDS course begins with the outrun, a wide arc of roughly 400 yards (366 m) behind the sheep to bring the dog to the far side, followed by the lift, when the dog walks in and brings the sheep off the hill, and the fetch, a straight line down the centre of the field to the handler's feet (ISDS, n.d.; Wikipedia, n.d.-a). The drive then sends the sheep on a triangular course of about 450 yards (411 m) through a series of gates, the shedding ring (roughly 40 yards / 37 m in diameter) requires the dog to split off three sheep, the single isolates one sheep, and the pen manoeuvres the remaining sheep into a small enclosure at the far end (Wikipedia, n.d.-a). Each element carries a maximum score and points are deducted for faults such as a wrong flank, a short outrun or a stray; gripping — the dog biting a sheep — is an immediate disqualification, and the handler with the highest total wins (ISDS, n.d.). The ISDS publishes the official Rules for Trials, and in the United States the United States Border Collie Handlers' Association (USBCHA) has run trials on the East Coast heritage since the 1880s (USBCHA, n.d.). While the Border Collie dominates, other herding breeds such as Kelpies and Huntaways also compete, and women and men compete side by side in the same open classes (Wikipedia, n.d.-a).
 
 ## History
 
-The first recorded sheep dog trial took place at Bala in Merioneth, North Wales, on 9 October 1873, organised by R. J. Lloyd Price; trials at Carnwath in Scotland followed in the mid-1870s, so the sport is as old as 1874. The International Sheep Dog Society was founded in 1906 to standardise the sport and the breeding of working dogs, and its International Supreme Championship has been held annually ever since — interrupted only by the two World Wars and the 2001 foot-and-mouth epidemic — making it one of the oldest continuous annual championships in any dog sport. The ISDS also runs a World Sheepdog Championship, first staged in 2002 and held every few years. Collies bred from trial champions transformed hill farming worldwide, and the trials field itself became a television institution in Britain with "One Man and His Dog", first broadcast in 1976; the sport remains strongest in Wales, Scotland and northern England, with strong national circuits in the USA, Canada, Australia and New Zealand.
+The International Sheep Dog Society was founded in 1906 and has run an international trial every year since, with separate national trials for England, Scotland and Wales from 1922 and for Ireland from 1961 (Wikipedia, n.d.-a). The World Sheepdog Trials, held every three years, began in 2002 at Bala, Wales; the 2017 edition at Hoogwoud in the Netherlands was won by Norway's Jaran Knive with his dog Gin, the 2020 edition was postponed because of the pandemic, and the 2023 edition at Dromore crowned Petter Landfald and Max (Wikipedia, n.d.-b). The modern Border Collie descends almost entirely from Old Hemp, born in 1893 and owned by Adam Telfer of Wales, who died in 1901 and is regarded as the foundation sire of the breed (Wikipedia, n.d.-a).
 
 ## Sources
 
-- International Sheep Dog Society. (n.d.). *About the ISDS and trials rules*. Retrieved November 20, 2026, from https://www.isds.org/
-- Wikipedia. (n.d.). *Sheepdog trial*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Sheepdog_trial
-- BBC. (n.d.). *One Man and His Dog*. Retrieved November 20, 2026, from https://www.bbc.co.uk/programmes/b006w2x2
+- ISDS. (n.d.). *International Sheep Dog Society — Rules for Trials, course elements (outrun, lift, fetch, drive, shedding, single, pen), World Sheepdog Trials*. Retrieved November 23, 2026, from https://www.isds.org/
+- USBCHA. (n.d.). *United States Border Collie Handlers' Association — American trial rules and events since the 1880s*. Retrieved November 23, 2026, from https://www.usbcha.com/
+- Wikipedia. (n.d.-a). *Sheepdog trial — course, scoring and faults, ISDS founded 1906, national trials 1922/1961, Old Hemp foundation sire*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sheepdog_trial
+- Wikipedia. (n.d.-b). *World Sheepdog Trials 2023 Dromore — Petter Landfald and Max world champions, Team Ireland teams title, Tyler McKinlay Young Handler champion, 2017 Hoogwoud Jaran Knive and Gin*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/World_Sheep_Dog_Trials
+
+### Figure Index
+
+- Scot Campbell. (2007, November 4). *Border Collie sheepdog trial* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Border_Collie_sheepdog_trial.jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- ISDS — rules, championships and dog registration
-- [Schutzhund](schutzhund.html) and [Scootering (dog sport)](scootering-dog-sport.html) — other organised dog sports, on this site
+- [ISDS — International Sheep Dog Society](https://www.isds.org/) — world governing body; Rules for Trials and World Sheepdog Trials
+- [World Sheepdog Trials](https://www.worldsheepdogtrials.org/) — official results of the triennial world championship
+- [USBCHA — United States Border Collie Handlers' Association](https://www.usbcha.com/) — North American trials
+- [Lure Coursing](lure-coursing.html), [Agility Dog Sport](agility-dog-sport.html), [Schutzhund](schutzhund.html), [Disc Dog](disc-dog.html), [Dog Sledding](dog-sledding.html) and [Canicross](canicross.html) on this site — related dog sports
