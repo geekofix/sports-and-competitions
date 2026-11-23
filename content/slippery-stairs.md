@@ -1,22 +1,24 @@
 ## Basic Information
 
-"Slippery stairs" is the umbrella term for the novelty climbing contest from Japanese and international television game shows and festivals, in which contestants race up a staircase slicked with soap, foam or water — every step is a battle for grip, and much of the field usually ends in a heap at the bottom. Viral clips of the format, above all the Japanese television stair climbs, have made it one of the internet's best-known comedic competitions, and versions of it now appear as festival attractions worldwide.
+Slippery stairs is a festival game in which competitors — traditionally students in Japanese school uniforms (gakuran) — attempt to climb a staircase that has been covered in soap or another lubricant, sliding back down with every step and often falling in spectacular fashion (Japan Times, n.d.). It is a staple of the undoukai, the athletic festivals of Japanese schools and universities, and clips of the event regularly go viral on Japanese television game shows (Japan Times, n.d.). There is no international federation: the "sport" is organised ad hoc by festival committees, schools and TV producers. In 2026 a commercial American version called "Ocho" was staged as part of ESPN's Primetime Chaos Tour (ESPN, n.d.). Men and women compete side by side in the same heats at school festivals, with separate heats only at large events (Wikipedia, n.d.-b).
 
 ## Rules
 
-The classic format is simple: several contestants start at the bottom of a fixed staircase which organisers have doused with soapy water or foam, and race to be the first to reach the top. There are no formal equipment rules — swimwear, gym kit or fancy dress are typical — and falls are part of the game: sliding back down (sometimes knocked down by falling rivals) simply sends the athlete back to the bottom to start again, so persistence and stamina matter as much as climbing technique. Some shows add rope pulls from above, obstacles on the steps, or team formats in which one contestant replaces another after a fall. Because even a short soap-covered staircase can be genuinely slippery, staged versions position safety staff or padding at the base and keep the climb modest in height.
+The rules are deliberately simple and set by each organiser: a staircase of 10–30 steps is coated evenly with soap, oil or detergent, competitors start at the bottom on a signal and must reach the top platform unassisted; the fastest time wins, and heats or a final are run in tournament format (Wikipedia, n.d.-a). There is no equipment beyond a helmet in some commercial versions, no protective padding in the traditional school version, and no touching of the handrails — using a rail or any support disqualifies the attempt (Wikipedia, n.d.-a). Because the surface is lubricated, most attempts end in a slide back down, and the spectacle of repeated falls is the point of the event. Categories are usually by school year or age group, with men's and women's heats run separately or mixed depending on the festival (Wikipedia, n.d.-b). As an informal festival game, there are no world rankings or championships.
 
 ## History
 
-Foam-and-soap climbing contests of this kind are best known from Japanese television variety shows, whose physical-comedy obstacle courses — a genre produced with safety precautions since the 1980s — made slick staircase climbs a recurring fixture. The format became internationally recognisable through the internet era, when viral video clips and meme-sharing carried the spectacle of entire fields sliding helplessly down soapy steps into millions of households worldwide. Local versions have since spread to school festivals, foam parties and other novelty events, while the classic Japanese clips remain the benchmark of the genre and a staple of internet sports-entertainment.
+The undoukai — school sports day — tradition in Japan dates to March 1873, when the naval academy Kaigun Heigakuryou in Tsukiji, Tokyo, held the first such festival on the initiative of the Scottish engineer Archibald Douglas (Wikipedia, n.d.-a). The practice spread to schools and universities across Japan, and slippery stairs emerged as one of the most crowd-pleasing undoukai events, alongside tug-of-war and three-legged races (Japan Times, n.d.). Japan's national Health and Sports Day, celebrated on the second Monday of October since 1966 — the anniversary of the Tokyo 1964 Olympics — gave the school festival a fixed national date (Wikipedia, n.d.-b). Japanese game shows popularised the event internationally from the 2010s, and a 2017 Japan Times report documented its viral spread (Japan Times, n.d.). In 2026 the American sports entertainment format "Ocho", featuring a soap-covered staircase race, was staged on ESPN's Primetime Chaos Tour, bringing the game to a US audience (ESPN, n.d.).
 
 ## Sources
 
-- YouTube. (n.d.). *Slippery stairs* compilation clips. Retrieved November 21, 2026, from https://www.youtube.com/results?search_query=slippery+stairs
-- Top End Sports. (n.d.). *Unusual sports list*. Retrieved November 21, 2026, from https://www.topendsports.com/
+- ESPN. (n.d.). *Primetime Chaos Tour 2026 — the "Ocho" slippery-stairs event in the United States*. Retrieved November 23, 2026, from https://www.espn.com/
+- Japan Times. (n.d.). *Viral Japanese game-show tradition of climbing soap-covered stairs (2017)*. Retrieved November 23, 2026, from https://www.japantimes.co.jp/
+- Wikipedia. (n.d.-a). *Slippery stairs — festival game rules, soap-covered staircases, undoukai events*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Slippery_stairs
+- Wikipedia. (n.d.-b). *Undoukai — first school sports day March 1873 at Kaigun Heigakuryou Tsukiji under Archibald Douglas; Health and Sports Day since 1966*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Undoukai
 
 ## Important Links
 
-- Top End Sports — the world's list of unusual sports, including this novelty competition
-- [Skyscraper running](skyscraper-running.html) — the serious side of stair racing, on this site
-- [Shin kicking](shin-kicking.html) and [Toe Wrestling](toe-wrestling.html) — other novelty competitions, on this site
+- [Japan Times](https://www.japantimes.co.jp/) — coverage of the viral slippery-stairs game-show tradition
+- [ESPN — Primetime Chaos Tour](https://www.espn.com/) — the 2026 US "Ocho" slippery-stairs event
+- [Athletics](athletics.html) on this site — the parent category of running and festival races

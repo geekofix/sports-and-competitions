@@ -1,22 +1,31 @@
 ## Basic Information
 
-Snooker Plus is a short-lived variant of snooker devised by Joe Davis, the sport's founding world champion, in the late 1950s, in which two additional coloured balls (placed between the existing colours) offer extra break-building routes and, in theory, bigger breaks than the standard 147. Its only significant exposure came at the 1959 News of the World Snooker Plus Tournament, after which the game was quietly abandoned.
+Snooker Plus was a variant of snooker created by Joe Davis and introduced on 26 October 1959, which added two extra high-value balls to the standard 22 — an orange ball worth 8 points between the pink and the blue, and a purple ball worth 10 points between the brown and the blue — raising the maximum possible break to 210 (221 with a free ball) (Wikipedia, n.d.-b). The only tournament ever staged under the format was the 1959 News of the World Snooker Plus Tournament at Burroughes Hall in London in October–November 1959: a round-robin event with 25-frame matches, won by Joe Davis, with Fred Davis second and John Pulman third (Wikipedia, n.d.-b). The variant never gained popularity and was abandoned after that single edition, remaining a footnote in cue-sport history; today it is played only socially, with men and women competing on equal terms in casual games (Wikipedia, n.d.-b).
+
+![Diagram of the snooker plus table with the added orange and purple balls](https://commons.wikimedia.org/wiki/Special:Redirect/file/Snooker_plus_table_drawing.svg?width=480)
+
+*Figure: Jaros, M. (Nux). (2006, June 5). Snooker plus table drawing [Diagram]. Wikimedia Commons. CC BY 2.5. https://commons.wikimedia.org/wiki/File:Snooker_plus_table_drawing.svg*
 
 ## Rules
 
-The variant is played on a standard snooker table and follows normal snooker rules — reds first, then colours — with two extra coloured balls added to the standard six, each positioned between existing spots and each carrying an intermediate point value, so that after potting a red the striker has more colours to nominate. The additional balls create new sequence options in break-building and, because more colours remain available around the reds, raise the theoretical maximum break well above snooker's 147. As in standard snooker, colours are re-spotted while reds remain, and the frame ends when the table is finally cleared in ascending colour order — with the variant's extra balls included in that closing sequence.
+Snooker Plus follows the standard WPBSA rules of snooker — same table, same 15 reds at 1 point and colours from yellow (2) to black (7) — but with two additional balls (Wikipedia, n.d.-b). The orange ball, worth 8 points, sits between the pink and the blue; the purple ball, worth 10 points, sits between the brown and the blue. The break value sequence therefore runs up to 10, and the maximum break becomes 210 points — 15 reds each followed by the purple ball (15 × 11 = 165) plus all eight colours worth 2–10 totalling 45, giving 210; with a free ball the theoretical maximum rises to 221 (Wikipedia, n.d.-b). If a frame ends level, the purple ball is respotted on the black's spot to decide the match, analogous to the black in standard snooker (Wikipedia, n.d.-b). Apart from the two extra balls and the higher maximum, all rules — fouls, misses, free ball, respotting — remained those of standard snooker (WPBSA, n.d.).
 
 ## History
 
-Joe Davis — winner of the first fifteen world championships and the sport's great missionary — created Snooker Plus as the 1950s drew to a close, hoping to add interest and higher breaks to a game whose 147 ceiling was then rarely approached: he promoted it through the News of the World Snooker Plus Tournament of 1959, the only prominent staging of the format. The public verdict was famously unkind — as snooker historian Clive Everton later put it, the public rejected the game for the gimmick it was — with purists seeing the extra balls (and their point values) as an artificial complication of the elegant original. Within a few years the variant had vanished from professional billiard halls, although it retains a footnote in snooker history as the first serious rules experiment in the professional game, and Davis himself moved on — he made the first officially recognised 147 maximum in a 1955 exhibition (before Snooker Plus) and remains the game's founding father.
+Snooker Plus was devised by Joe Davis — the 15-time world champion who had dominated the game from 1927 to 1946 — and publicly introduced on 26 October 1959 in an effort to raise scoring and excitement (Wikipedia, n.d.-b). The News of the World newspaper sponsored the only tournament in the format, held at Burroughes Hall in London in October–November 1959 as a round robin of 25-frame matches; Joe Davis won the event, Fred Davis finished second and John Pulman third (Wikipedia, n.d.-b). Despite the champion's backing, the format failed to catch on with players or audiences and was never revived; Joe Davis remains the only Snooker Plus tournament winner in history (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Joe Davis*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Joe_Davis
-- WPBSA. (n.d.). *History timeline*. Retrieved November 21, 2026, from https://www.wpbsa.com/about-us/history/
+- Wikipedia. (n.d.-a). *Joe Davis — 15 world titles 1927–1946, creator of Snooker Plus*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Joe_Davis_(snooker_player)
+- Wikipedia. (n.d.-b). *Snooker Plus — created by Joe Davis, introduced 26 October 1959, orange 8-point and purple 10-point balls, maximum break 210/221, 1959 News of the World tournament at Burroughes Hall*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Snooker_Plus
+- WPBSA. (n.d.). *Rules of snooker — the standard game from which Snooker Plus derived*. Retrieved November 23, 2026, from https://www.wpbsa.com/
+
+### Figure Index
+
+- Jaros, M. (Nux). (2006, June 5). *Snooker plus table drawing* [Diagram]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Snooker_plus_table_drawing.svg (CC BY 2.5)
 
 ## Important Links
 
-- Joe Davis's Wikipedia entry — the Snooker Plus tournament of 1959 and the rejection of the variant
-- [Snooker](snooker.html) — the parent sport, on this site
-- [Billiards](billiards.html) and [English billiards](english-billiards.html) — the other cue sports of the Davis era, on this site
+- [WPBSA — World Professional Billiards and Snooker Association](https://www.wpbsa.com/) — governing body of standard snooker
+- [Snooker](snooker.html) on this site — the parent game of the Snooker Plus variant
+- [Billiards](billiards.html) and [English billiards](english-billiards.html) on this site — other cue sports

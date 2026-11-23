@@ -1,24 +1,34 @@
 ## Basic Information
 
-Ski mountaineering (skimmo) is alpine racing on the mountain under one's own power: athletes climb steep snow slopes on touring skis with grip skins, boot up rock and ridges, then descend on free-heel Alpine turns, transitioning between climbing and skiing modes in courses that follow real mountain terrain. Races take in hundreds to thousands of metres of vertical per course.
+Ski mountaineering (skimo) is a winter racing sport in which athletes climb and descend mountains on skis with free-heel bindings, using removable climbing skins, under the governance of the International Ski Mountaineering Federation (ISMF) (ISMF, n.d.-b). The sport made its Olympic debut at the Milano Cortina 2026 Winter Olympics at the Stelvio Ski Centre in Bormio, Italy: the sprint on 19 February 2026 and the mixed relay on 21 February 2026 (Wikipedia, n.d.-a). Among the current leading women are Marianne Fatton of Switzerland, the first Olympic ski mountaineering champion in history, and Emily Harrop of France, silver in the Olympic sprint and gold in the mixed relay with Thibault Anselmet; among the men, Spain's Oriol Cardona Coll won the Olympic sprint — Spain's second Winter Olympic gold — ahead of Nikita Filippov and Thibault Anselmet (Wikipedia, n.d.-a). The 2025–26 ISMF World Cup was the 20th season, running from 6 December 2025 in Solitude, USA, to 5 April 2026 in Villars, Switzerland, and the 2025 ISMF World Championships in Morgins, Switzerland, crowned Marianne Fatton and Oriol Cardona Coll sprint world champions (ISMF, n.d.-a).
 
-The sport is governed internationally by the ISMF (International Ski Mountaineering Federation), whose world cup and world championship circuit has defined the sport since 1999, and it makes its Olympic debut at the Milano Cortina 2026 Winter Games with sprint and mixed relay events.
+![Alba De Silvestro at the ISMF World Championships 2023 in Boí Taüll](https://commons.wikimedia.org/wiki/Special:Redirect/file/Alba_De_Silvestro_-_ISMF_World_Championships_2023_-_Bo%C3%AD_Ta%C3%BCll.jpg?width=480)
+
+*Figure: Esercito Italiano. (2023, March 1). Alba De Silvestro at the ISMF World Championships 2023, Boí Taüll [Photograph]. Wikimedia Commons. CC BY 2.5. https://commons.wikimedia.org/wiki/File:Alba_De_Silvestro_-_ISMF_World_Championships_2023_-_Bo%C3%AD_Ta%C3%BCll.jpg*
 
 ## Rules
 
-ISMF race formats test the full skillset: the individual (one long course covering about 1,300 to 1,900 m of vertical with ascents, boot sections and descents), the shorter sprint format of a single few-minute climb-transition-descent, vertical races (a single uphill climb), relay and team races, plus wall-style backcountry formats. Racers carry mandatory avalanche safety gear — transceiver, probe and shovel — with helmet requirements on ISMF courses, and skins are taken off and put back on at each transition, with equipment checks and course marshals enforcing the racing line. Penalty rules cover missed equipment and false transitions.
+The ISMF governs the sport worldwide and sanctions the World Cup, World Championships, Continental Championships and the Olympic programme (ISMF, n.d.-b). The main disciplines are the sprint — a roughly three-minute individual race with a qualification heat, semi-finals and a final on a course of climbs, traverses and a short descent — the individual race — a longer mass-start event with several transitions between skiing up with skins and skiing down — the vertical race, a timed uphill-only course with at least 1,000 metres of elevation gain, and the relay, in which teams of four alternate legs; at the Olympics the relay is mixed, with two women and two men per team (ISMF, n.d.-a). Equipment is regulated: skis with free-heel tech bindings, boots, two poles, a helmet, removable skins, and a mandatory equipment list depending on the race; athletes must carry what the race regulations prescribe and pass gear checks (ISMF, n.d.-b). Men and women race in parallel elite categories on the same courses, with junior (under-20 and under-18) classes alongside; the mixed relay is the only top-level event with a fixed gender composition (ISMF, n.d.-a). Ranking points from World Cup and championship races feed the ISMF world ranking, and the sprint and mixed relay are the two Olympic medal events (ISMF, n.d.-a).
 
 ## History
 
-Ski mountaineering racing grew out of alpinists' time trials between mountain huts in the Alps, with military patrol and training races in the early twentieth century shaping course formats. The Comité International du Ski-Alpinisme course codified competition from the 1970s, and the ISMF has run the official world cup and world championships since 1999, adding sprint and relay formats suited to spectators. The sport's Olympic debut comes at the Milano Cortina 2026 Winter Games with men's and women's sprint and the mixed relay, the crowning moment of a federation campaign that also brought the sport regular youth and continental championship programmes.
+Competitive ski mountaineering grew out of military mountain skiing in the Alps in the 1920s and 1930s, with early races such as the Trofeo Mezzalama, first held in 1933 across the Italian Alps, and the Patrouille des Glaciers, first run in 1943 (Wikipedia, n.d.-b). The International Ski Mountaineering Federation (ISMF) was founded in 1991 and has organized the World Championships since the early 1990s; the sport appeared as a demonstration discipline at the Albertville 1992 Winter Olympics before its full Olympic debut at Milano Cortina 2026 (Wikipedia, n.d.-b). France's Pierre Gignoux and Switzerland's Jean-Daniel Masserey dominated the 1990s, while Italy's Martina Valmassoi and France's Laëtitia Roux — six individual world titles between 2015 and 2021 before retiring — defined the modern women's era (Wikipedia, n.d.-b). The 2026 Olympic premiere in Bormio marked the culmination of three decades of ISMF development (Wikipedia, n.d.-a).
 
 ## Sources
 
-- ISMF: [Ski mountaineering world cups and rules](https://ismf-ski.org/) Retrieved November 21, 2026, from 
-- Olympics: [Ski mountaineering at Milano Cortina 2026](https://www.olympics.com/en/sports/ski-mountaineering/) Retrieved November 21, 2026, from 
+- ISMF. (n.d.-a). *ISMF World Cup 2025–26 (20th season), 2025 World Championships Morgins and Olympic programme Milano Cortina 2026*. Retrieved November 23, 2026, from https://www.ismf-skimo.org/
+- ISMF. (n.d.-b). *Ski mountaineering — disciplines, equipment regulations and competition formats*. Retrieved November 23, 2026, from https://www.ismf-skimo.org/
+- Wikipedia. (n.d.-a). *Ski mountaineering at the 2026 Winter Olympics — Bormio, sprint 19 February and mixed relay 21 February 2026*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Ski_mountaineering_at_the_2026_Winter_Olympics
+- Wikipedia. (n.d.-b). *Ski mountaineering — origins in military mountain skiing, Trofeo Mezzalama 1933, Patrouille des Glaciers 1943, ISMF 1991, icons Gignoux, Masserey, Valmassoi, Roux*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Ski_mountaineering
+
+### Figure Index
+
+- Esercito Italiano. (2023, March 1). *Alba De Silvestro — ISMF World Championships 2023, Boí Taüll* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Alba_De_Silvestro_-_ISMF_World_Championships_2023_-_Bo%C3%AD_Ta%C3%BCll.jpg (CC BY 2.5)
 
 ## Important Links
 
-- [Skiing](skiing.html) — the parent snow sport, on this site
-- [Cross-Country Skiing](cross-country-skiing.html) — the other engine-powered snow endurance sport, on this site
-- [Mountain Biking](mountain-biking.html) — a related human-powered climbing-and-descending sport, on this site
+- [ISMF — International Ski Mountaineering Federation](https://www.ismf-skimo.org/) — world governing body; World Cup, World Championships and Olympic qualification
+- [Skiing](skiing.html) on this site — the umbrella winter sport
+- [Cross-country skiing](cross-country-skiing.html) on this site — the endurance discipline on flatter terrain
+- [Mountaineering](mountaineering.html) on this site — the summer climbing and alpine counterpart
+- [Skyrunning](skyrunning.html) on this site — mountain running without skis
