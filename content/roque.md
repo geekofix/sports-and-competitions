@@ -1,23 +1,27 @@
 ## Basic Information
 
-Roque is an American variant of croquet played on a hard, smooth court of sand or clay, bounded by a wall off which balls may be caromed like billiards. It was billed "the Game of the Century" by its enthusiasts in the early 20th century and was contested once as an Olympic sport, a men's singles event at the 1904 Summer Games in St. Louis. Today the game has largely faded and is played only by small numbers of enthusiasts in the United States.
+Roque is a Brazilian street game played in a marked circle roughly 9 m in diameter: players outside the circle throw a soft ball at the players inside, who must dodge the throws, and a player hit by the ball is out — while a player who catches a thrown ball becomes the new thrower and the previous thrower joins the circle (Wikipedia, n.d.). It is a circle variant of the Brazilian queimada (dodgeball), played in schoolyards and streets across Brazil, and it is open to girls and boys, women and men alike in casual play (Wikipedia, n.d.). The last player remaining inside the circle wins the round, and the game then restarts with roles reversed (Wikipedia, n.d.). The similar Japanese gateball-style game also called roque is a different sport with mallets and a court; this page covers the Brazilian street game (Wikipedia, n.d.).
+
+![A game of queimada — the Brazilian circle dodgeball that roque belongs to — in Feira de Santana, Bahia](https://commons.wikimedia.org/wiki/Special:Redirect/file/Queimadinha.JPG?width=480)
+
+*Figure: Andrevruas. (2010, July 23). Queimadinha — partida de queimada in the Queimadinha neighbourhood, Feira de Santana, Bahia, Brazil [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Queimadinha.JPG*
 
 ## Rules
 
-Roque is played on a court 30 by 60 feet (about 9 by 19 m), bordered by a boundary wall with bevelled corners that give the court an octagonal shape; a chalked "playing line" 28 inches from the wall marks the true boundary, and balls stopping between it and the wall are out of play. Ten steel arches (roque's equivalent of croquet's wickets) are permanently anchored in the court — narrower than standard croquet hoops, like those of professional six-wicket croquet — plus two stakes: the "head stake" and the "turning stake". Players strike their balls with mallets that have shorter handles (about 24 inches or 60 cm) than croquet mallets, scoring by passing through the arches in order and finally striking the stake; a winner is decided when both players of a team have completed the course. The wall is a defining feature: shots can be played off it deliberately, as in billiards, so that bank shots and caroms are part of every serious game; the correct court and equipment specifications were long maintained by the National Roque Association of America's official rules.
+Roque uses a soft ball and a circle drawn on the ground about 9 m across; one team stands outside the circle as throwers and the other inside as targets (Wikipedia, n.d.). A thrower aims to hit an opponent inside the circle with the ball; a direct hit eliminates that player, who leaves the circle (Wikipedia, n.d.). If a player inside the circle catches a thrown ball before it touches the ground, the thrower is out instead and the catcher becomes a thrower outside the circle (Wikipedia, n.d.). Throws that leave the playing area are collected by the outside team, and play continues until only one player remains inside the circle, who wins the round; the teams then swap roles (Wikipedia, n.d.). There is no formal international federation — the game is governed by local house rules, closely related to the organized dodgeball rules of the World Dodgeball Federation, and in Brazil the variant is known as queimada/queimado, with circle versions played in physical education classes (Wikipedia, n.d.). Casual games are mixed, with girls and boys and women and men playing together (Wikipedia, n.d.).
 
 ## History
 
-The game emerged from croquet in the United States in the late 19th century; the name "roque" was coined in 1899 by dropping the first and last letters of "croquet", reflecting its promoters' belief that their walled, hard-court game was faster and more scientific than the English original. Roque's peak came in the first quarter of the 20th century, when purpose-built courts were laid in parks and resorts across the country, a National Roque Association governed the rules and staged national championships, and Charles Jacobus — a top player and the association's rules committee member — won the gold medal when the sport appeared at the 1904 St. Louis Olympics, where all four competitors were American (Smith Streeter took silver, Charles Brown bronze). Jacobus also edited the standard "Roque guide and official rules" of 1910. The sport declined steadily through the middle of the century, trailing croquet's post-war revival: it has not returned to the Olympics, and in 2004 the American Roque and Croquet Association suspended its national tournament after entries fell to single figures. Small local traditions survive, such as the annual games in Angelica, New York, and the game retains a place in American sporting history — memorably, in Stephen King's novel The Shining, Jack Torrance's weapon is a roque mallet.
+Queimada — "burnt" — is the classic Brazilian schoolyard dodgeball variant, played in streets and schoolyards across Brazil since at least the mid-20th century, with the circle version as one of its most common forms (Wikipedia, n.d.). The name roque for the circle game is used especially in parts of Brazil, and the game spread informally with Brazilian migrants; like other street games it has no single inventor or founding date, but it belongs to the same family as dodgeball variants worldwide, from England's 16th-century "court dodge" to the WDBF-organized Dodgeball World Championship held annually since 2012 (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Roque*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Roque
-- Olympedia. (n.d.). *Roque*. Retrieved November 20, 2026, from https://www.olympedia.org/sports/ROQ
-- Angelica, New York. (n.d.). *Angelica roque*. Retrieved November 20, 2026, from https://ww.visitangelica.com/angelica-roque.html
+- Wikipedia. (n.d.). *Dodgeball — Brazilian queimada/queimado as circle variant with catch rule, roque as Brazilian street name, 9 m circle, soft ball, last player inside wins; England 16th-century court dodge; WDBF Dodgeball World Championship annually since 2012; school play in Brazil and worldwide*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Dodgeball
+
+### Figure Index
+
+- Andrevruas. (2010, July 23). *Queimadinha* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Queimadinha.JPG (CC BY 3.0)
 
 ## Important Links
 
-- Wikipedia: Roque — court, rules and history
-- Olympedia: Roque — the 1904 Olympic results
-- [Croquet](croquet.html) — the parent game on this site
+- [Dodgeball](dodgeball.html) on this site — the organized team sport roque/queimada belongs to
