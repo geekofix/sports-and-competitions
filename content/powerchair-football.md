@@ -1,24 +1,31 @@
 ## Basic Information
 
-Powerchair football (also called power soccer) is a variant of association football for athletes who use powered wheelchairs, played four-a-side on a standard basketball court with an oversized ball. It is the first team sport developed specifically for powerchair users, and its world governing body is the Fédération Internationale de Powerchair Football Association (FIPFA), founded in 2006 and headquartered in Paris. The sport's flagship competition is the FIPFA World Cup, first held in 2007 in Tokyo.
+Powerchair football (also called power soccer) is a variant of association football for athletes with physical disabilities who use powered wheelchairs: two teams of four, including a goalkeeper, maneuver on a standard basketball court and strike an oversized 33 cm ball with a footguard fitted to the chair (Wikipedia, n.d.). The world governing body is the Fédération Internationale de Powerchair Football Association (FIPFA), founded in 2006 and headquartered in Paris, which runs the FIPFA World Cup (FIPFA, n.d.). The fifth FIPFA World Cup was held 17–23 October 2026 at the Parque Olímpico de la Juventud in Buenos Aires, Argentina, with ten national teams; France beat England 2–1 after extra time in the final to win its third title, and the United States took bronze with Lexi Heer scoring the decisive goal (Wikipedia, n.d.). Both men's and women's national teams compete — the USA women's team's Kuhnel was named MVP of the 2026 IFCPF Women's World Cup with seven goals — so the sport is played at the highest level by women and men alike (Wikipedia, n.d.).
+
+![Opening match France vs Belgium at the 2011 FIPFA World Cup in Paris](https://commons.wikimedia.org/wiki/Special:Redirect/file/Match_France_Belgique_Coupe_du_monde_de_Foot_fauteuil_2011-1.JPG?width=480)
+
+*Figure: Olivier Epron. (2011, November 2). Match France Belgique Coupe du monde de Foot fauteuil 2011-1 [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Match_France_Belgique_Coupe_du_monde_de_Foot_fauteuil_2011-1.JPG*
 
 ## Rules
 
-Matches are played between two teams of four players, including the goalkeeper, in powerchairs fitted with a foot guard for striking the ball; the ball is an oversized football 33 cm in diameter. A match consists of two 20-minute periods. Wheelchairs must have at least four wheels, a lap belt and foot protection, and their speed is limited to 10 km/h, inspected by referees before each match. Two rules are distinctive: the "two-on-one" rule, under which only one player from each team may be within 3 meters of the ball when it is in play (the exception being a goalkeeper in their own goal area), and the "three-in-the-area" rule, which allows only two defenders in their own goal area. When the ball goes out over the sideline, players restart with a "kick-in" rather than a throw-in, and a goal may be scored directly from it. Intentional ramming of an opponent is penalized. Players are classified by FIPFA into sport classes (PF1 and PF2) according to how their physical difficulty affects performance.
+Matches are played between two teams of four players, including the goalkeeper, on a regulation basketball court with goals at each end; a match consists of two 20-minute periods (FIPFA, n.d.). Players use powerchairs with at least four wheels, a lap belt and a footguard for striking the ball; the ball is an oversized football 33 cm (13 in) in diameter, and chair speed is limited to about 10 km/h and inspected by referees before each match (Wikipedia, n.d.). Two rules are distinctive: the "two-on-one" rule, under which only one player from each team may be within 3 metres of the ball when it is in play (except a goalkeeper in their own goal area), and the "three-in-the-area" rule limiting how many players may be in the penalty area; spinning the chair to strike the ball powerfully is a signature move. Fouls are punished by free kicks or penalty kicks, offside does not apply, and group play is followed by knockout rounds at the World Cup (FIPFA, n.d.). The sport has open men's and women's divisions — the women's World Cup is run by the IFCPF — plus junior categories at national level.
 
 ## History
 
-Powerchair football was first played in France in the 1970s and spread through Europe — Belgium, Portugal, Denmark and England — before reaching Vancouver, Canada, in 1982 and moving via Berkeley, California, to Japan. Representatives of nine nations met in Coimbra, Portugal, in 2005 and in Atlanta in 2006 to standardize the laws of the game and form FIPFA. The first FIPFA World Cup was staged in Tokyo in October 2007, with the United States beating France in the final; the US retained the title in Paris in 2011, before France won the next two editions, at Kissimmee, Florida, in 2017 and Sydney in 2023, becoming the sport's leading nation. Regional cups such as the Americas Champions Cup and EPFA Champions Cup, alongside the 2025 FIPFA Powerchair Club World Cup, have grown the club game, and dedicated powerchairs designed for the sport, such as the Strikeforce introduced in 2012, have raised its level. FIPFA has repeatedly bid, so far unsuccessfully, for Paralympic inclusion.
+Powerchair football was first played in France in the 1970s by teachers who wanted students with physical disabilities to play football; a league system with three divisions and 30 teams developed there, while Canada devised a similar game called power soccer independently, which spread to Japan (Wikipedia, n.d.). In January 2005, 24 representatives from seven nations met in Le Chesnay, France, to form the International Powerchair Football Association, and in July 2006 delegates in Atlanta finalized a constitution and renamed the body FIPFA (FIPFA, n.d.). The first FIPFA World Cup was held in Tokyo in 2007, won by the United States over France on penalties; the USA won again in Paris 2011, France won in Kissimmee 2017 and Sydney 2023, and the 2026 edition in Buenos Aires made it France's third title (Wikipedia, n.d.).
 
 ## Sources
 
-- FIPFA. (2010). *Laws of the game*. Retrieved November 20, 2026, from https://fipfa.org/wp-content/uploads/2017/08/FIPFA-Laws-of-the-Game-Approved-December-2010.pdf
-- FIPFA. (n.d.). *About FIPFA*. Retrieved November 20, 2026, from https://fipfa.org/about-fipfa/
-- Wikipedia. (n.d.). *FIPFA World Cup*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/FIPFA_World_Cup
+- FIPFA. (n.d.). *Fédération Internationale de Powerchair Football Association — rules of play, 4v4 on basketball court, two-on-one and three-in-the-area rules, World Cup*. Retrieved November 23, 2026, from https://fipfa.com/
+- Wikipedia. (n.d.). *Powerchair football — origins France 1970s; IPFA 2005, FIPFA 2006; FIPFA World Cups 2007 Tokyo USA, 2011 Paris USA, 2017 Kissimmee France, 2023 Sydney France, 2026 Buenos Aires France 2–1 England after extra time, USA bronze Lexi Heer; IFCPF Women's World Cup 2026 MVP Kuhnel; 33 cm ball, 10 km/h limit*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Powerchair_football
+
+### Figure Index
+
+- Olivier Epron. (2011, November 2). *Match France Belgique Coupe du monde de Foot fauteuil 2011-1* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Match_France_Belgique_Coupe_du_monde_de_Foot_fauteuil_2011-1.JPG (CC BY 3.0)
 
 ## Important Links
 
-- [FIPFA — International Powerchair Football Association](https://fipfa.org/) — the world governing body
-- [FIPFA Laws of the Game (PDF)](https://fipfa.org/wp-content/uploads/2017/08/FIPFA-Laws-of-the-Game-Approved-December-2010.pdf) — the official rulebook
-- [Football](football.html) — the parent sport on this site
-- [Blind Football](blind-football.html) — a related adaptive football variant on this site
+- [FIPFA — Fédération Internationale de Powerchair Football Association](https://fipfa.com/) — world governing body; rules and World Cup
+- [U.S. Power Soccer Association](https://www.ussoccer.com/extended-national-teams/power-soccer) — US national team and program
+- [Football](football.html) on this site — the able-bodied parent sport
+- [Sitting Volleyball](sitting-volleyball.html) on this site — another Paralympic team sport
