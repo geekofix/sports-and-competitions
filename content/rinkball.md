@@ -1,24 +1,30 @@
 ## Basic Information
 
-Rinkball (Finnish: kaukalopallo) is an indoor ice team sport played on an ice hockey rink with a small blue ball instead of a puck. It originated in Sweden in the 1960s as a bandy practice drill and developed into an organised sport in Finland in the 1970s, where it remains most popular. Internationally the sport is governed by the International Rinkball Federation (IRF), founded in 1992, which has staged world championships since 1998.
+Rinkball (Finnish: *kaukalopallo*) is a winter team ice sport played on an ice hockey rink with a small blue rubber ball instead of a puck and sticks about one metre long; it originated in Sweden in the 1960s as a summer practice drill for bandy players on indoor rinks and became an organized sport in Finland in the 1970s, where it remains by far the most popular (Wikipedia, n.d.-b). The Finnish Rinkball Federation counts about 1,000 member teams, divided into eight male divisions, two female divisions and junior play, and women's international rinkball has its own European championships, first won by Finland's Hanna-Riikka Sallinen in 1989 (Wikipedia, n.d.-b). Internationally the sport is governed by the International Rinkball Federation (IRF), founded in 1992 with Russia, Hungary and Switzerland among the founding members; the first men's Rinkball World Championship was held in 1998 in Omsk, Russia (Wikipedia, n.d.-b).
+
+![The blue rinkball used in the sport](https://commons.wikimedia.org/wiki/Special:Redirect/file/Rink_bandy_ball.JPG?width=480)
+
+*Figure: Santeri Viinamäki. (2014, August 26). Rink bandy ball — the blue kaukalopallo [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Rink_bandy_ball.JPG*
 
 ## Rules
 
-Rinkball is played five-a-side plus a goaltender — four skaters and a netminder — using sticks about one metre long resembling ice hockey sticks and a small blue rubber ball roughly 6 cm in diameter and about 60 grams in weight. Body checking is prohibited, icing and offside rules are absent, and the emphasis is on speed, technique and passing play. At the top men's league level matches consist of three 20-minute periods of effective (stop-time) play, while lower divisions typically play two 30-minute periods of running time; line changes are made on the fly. A roster contains a maximum of about 17 to 20 players including two goaltenders, and helmet and neck guard are mandatory protective equipment. The rinkball goaltender is unique among stick-and-ball ice sports: they use no stick but instead catch the ball with two large "fin" gloves, whose width may not exceed 28 cm.
+Rinkball is played with five field players plus a goaltender on the ice at a time, from rosters of up to 17–20 players with two goalkeepers, and the team may pull its goalkeeper for an extra attacker (Wikipedia, n.d.-b). The ball is a bandy-style rubber ball 6 cm in diameter, about 60 g and blue; the sticks come in a single length of just over one metre, closer to ice hockey sticks than to bandy sticks (Wikipedia, n.d.-b). Field players must wear a helmet and neck guard; the goalkeeper additionally wears a mask, shin guards of at most 28 cm width and a catch glove ("fin") of at most 28 cm diameter in each hand, and the goalkeeper does not use a stick (Wikipedia, n.d.-b). In the men's league and first division, games last 3 × 20 minutes of effective playing time, while lower divisions play 2 × 30 minutes of running time with the clock stopped only in the final two minutes, overtime and penalty shots; checking, lifting an opponent's stick, offside and icing do not exist in rinkball (Wikipedia, n.d.-b). Goals are scored by shooting the ball into the opponent's net, and the Finnish championship series (Kaukalopallon SM-sarja) uses overtime and penalty shots to decide ties (Wikipedia, n.d.-b). Both women and men compete, in separate divisions domestically and in separate international championships (Wikipedia, n.d.-b).
 
 ## History
 
-Rinkball began in Sweden in the 1960s as an indoor training form of bandy, practiced on rinks too small for the full-size bandy game, and spread to Finland in the early 1970s, where the first Finnish championships were held in 1975. The first international between Finland and Sweden followed in 1984, and in 1992 the International Rinkball Federation (IRF) was founded to govern the sport worldwide. The first Rinkball World Championship was held in Omsk, Russia, in 1998. In Finland the sport runs a national league system with roughly a thousand teams across eight male and two female divisions, and internationally national teams from Russia, Sweden, Kazakhstan and other nations compete for the world title, with the game closely related to — and often played by — ice hockey and bandy players.
+Rinkball began in Sweden in the 1960s, when bandy players used indoor ice hockey rinks in the summer half of the year for a ball-and-stick drill, and it crossed into Finland in the 1970s; the first Finnish champions were crowned in 1975 (Wikipedia, n.d.-b). The sport reached the Finnish public in the 1980s with the first Finland–Sweden international in 1984, and in 1990 the Finnish men's national team beat the newly crowned Swedish bandy champions Västerås SK Bandy 13–3, underlining that rinkball had become a distinct game (Wikipedia, n.d.-b). The International Rinkball Federation was founded in 1992, and the first men's world championship followed in 1998 in Omsk, Russia, whose team was coached by Leonid Shchukin (1945–2026), a coach who also helped establish rinkball and floorball in Russia (Wikipedia, n.d.-a). On the women's side, Hanna-Riikka Sallinen (born 12 June 1973) won the European Championship gold in 1989 as the first Finnish women's European champion (Wikipedia, n.d.-b).
 
 ## Sources
 
-- Wikipedia. (n.d.). *Rinkball (kaukalopallo)*. Retrieved November 20, 2026, from https://en.wikipedia.org/wiki/Rinkball
-- Suomen Kaukalopalloliitto. (n.d.). *Kaukalopallo*. Retrieved November 20, 2026, from https://www.kaukalopallo.fi/
-- International Rinkball Federation. (n.d.). *Rinkball*. Retrieved November 20, 2026, from https://rinkball.org/
+- Wikipedia. (n.d.-a). *Leonid Shchukin — Russian coach (12 July 1945 – 11 June 2026), head coach of Russia's first Rinkball World Championship team 1998 in Omsk; helped establish rinkball and floorball*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Leonid_Shchukin
+- Wikipedia. (n.d.-b). *Rinkball — origins as Swedish bandy drill 1960s, Finland 1970s; first Finnish champions 1975; first FIN–SWE international 1984; 1990 Finland 13–3 Västerås SK Bandy; IRF founded 1992; first men's WC 1998 Omsk; rules, ball 6 cm/60 g blue, sticks just over 1 m, no checking/offside/icing, 3×20 min effective; 1,000 Finnish teams incl. 2 women's divisions; Sallinen women's European gold 1989*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rinkball
+
+### Figure Index
+
+- Santeri Viinamäki. (2014, August 26). *Rink bandy ball* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Rink_bandy_ball.JPG (CC BY 3.0)
 
 ## Important Links
 
-- Suomen Kaukalopalloliitto (Finnish Rinkball Federation) — national federation of the sport's heartland
-- Wikipedia: Rinkball — rules, history and championship overview (Finnish)
-- [Bandy](bandy.html) — the parent sport from which rinkball's training drills developed, on this site
-- [Ringette](ringette.html) and [Ice Hockey](ice-hockey.html) — related ice team sports on this site
+- [Bandy](bandy.html) on this site — the outdoor ice sport rinkball grew out of
+- [Ice Hockey](ice-hockey.html) on this site — the rink and skate base of rinkball
+- [Floorball](floorball.html) on this site — the indoor stick-and-ball cousin
