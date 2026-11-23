@@ -1,24 +1,33 @@
 ## Basic Information
 
-Run archery is the run-and-shoot discipline of World Archery: athletes run cross-country laps alternating with archery stops, shooting three arrows at small targets from 18 metres, with every miss costing a penalty loop. Like the winter biathlon, it rewards the triathlete's combination of running endurance and calm shooting under a high heart rate.
+Run archery is a cross-country discipline that combines running with target shooting, similar to biathlon; athletes run a set course in loops, stopping at shooting stations to fire arrows at targets, and each missed target costs a penalty loop — the fastest finisher wins (World Archery, n.d.; Wikipedia, n.d.-a). It was developed in the 1990s by European archery associations and admitted as an official discipline of World Archery in 2003; since then countries such as Russia, Hungary, the Netherlands and Germany have organized national championships, and World Archery Europe has run a Run Archery European Cup since 2019 (Wikipedia, n.d.-a). The 2025 European Cup in Paris was won by Nathanael Reboul of France in the men's event and Elizaveta Babushkina in the women's; Germany's Marco Kreische and Anica Werner won the 2024 edition at Sherwood in England (Wikipedia, n.d.-b). Men and women compete in parallel events under identical formats (World Archery, n.d.).
 
-It is an official World Archery discipline, admitted in 2003, with European cup series and national championships held across central Europe, and a schedule of formats from sprint (3 x 400 m) to individual races of 4 x 1000 m.
+![Run archer with recurve bow and back quiver during a competition](https://commons.wikimedia.org/wiki/Special:Redirect/file/Run_archer_with_recurve_bow_and_back_quiver_during_a_competition.JPG?width=480)
+
+*Figure: Marco. (2009, September 20). Run archer with recurve bow and back quiver during a competition [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Run_archer_with_recurve_bow_and_back_quiver_during_a_competition.JPG*
 
 ## Rules
 
-Races alternate running laps with shooting stops: at each stop the archer must hit small targets (16 cm wide faces at 18 m) with a limited number of arrows, and every missed target is punished by a penalty running loop before the athlete may continue. The bow must be carried on the back or by hand while running, and the full equipment (bow, harness, quivers, arrows) may not exceed the permitted weight; rules cover harness repairs, permitted protections and shooting order, and incorrect shooting or safety violations incur penalties. The sprint format runs three 400 m laps with two shooting stops, one of them kneeling; the individual format runs four 1000 m laps with three shooting stops, and the fastest finisher wins.
+Under the World Archery rulebook (Book 6, Miscellaneous Archery Rounds, effective January 27, 2026), run archery alternates running laps with shooting series at a 16 cm (6.3 in) target from 18 m (20 yards); any hit on the target counts, and for each missed target the athlete must run a penalty loop, with the loop length depending on the event (World Archery, n.d.; Wikipedia, n.d.-a). In the sprint format (3 × 400 m), there are two shooting bouts between the laps — six arrows to hit four targets standing, then kneeling — with a 60 m penalty loop per miss; in the 4K individual (4 × 1,000 m), there are three shooting bouts of four arrows at four targets — standing, kneeling, standing — with a 150 m penalty loop per miss (Wikipedia, n.d.-a). The bow must be carried in hand while running; arrows may be left at the shooting range or carried in a back quiver (Wikipedia, n.d.-a). Junior, senior and masters age classes and men's and women's events are offered at World Archery Europe cups (Wikipedia, n.d.-b).
 
 ## History
 
-Run archery was developed during the 1990s by European archery associations seeking a summer analogue to the winter biathlon, and national championships spread through countries such as Germany, Hungary, the Netherlands and Russia from 2000. World Archery admitted run archery as an official discipline in 2003, with rules codified in the World Archery rulebook, and the Run Archery European Cup became the sport's leading series, with Czech, German and French athletes to the fore. The discipline is now on the roadmaps of national federations across Europe as both a grass-roots and elite racing format.
+Run archery was developed during the 1990s by European archery associations as a summer analogue of ski archery (itself part of biathlon history); from 2000 national championships spread to Russia, Hungary, the Netherlands and Germany, and in 2003 run archery was officially admitted as a World Archery discipline (Wikipedia, n.d.-a). The Run Archery European Cup has been organized by World Archery Europe since 2019, with editions in Nové Město nad Metují (Czechia), Sherwood Forest (England, 2024) and Paris (2025) (Wikipedia, n.d.-b). Early winners included Russians Oskar Shaimuratov and Olga Ukolova (2019), and the discipline has grown through clubs in Germany, France, Czechia and the United Kingdom (Wikipedia, n.d.-b).
 
 ## Sources
 
-- World Archery: [Disciplines, run archery](https://www.worldarchery.sport/sport/disciplines) Retrieved November 21, 2026, from 
-- World Archery Europe: [Run archery general rules](https://www.archeryeurope.org/) Retrieved November 21, 2026, from 
+- Wikipedia. (n.d.-a). *Run archery — developed in the 1990s by European archery associations, World Archery discipline since 2003; 16 cm target at 18 m; penalty loops; bow in hand while running*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Run_archery
+- Wikipedia. (n.d.-b). *Run archery — sprint 3x400 m with two shootings, 6 arrows for 4 targets, 60 m penalty loop; 4K individual 4x1000 m with three shootings, 4 arrows for 4 targets, 150 m penalty loop; European Cup since 2019; 2024 Sherwood winners Kreische and Werner; 2025 Paris winners Reboul and Babushkina*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Run_archery#Run_Archery_European_Cup
+- World Archery. (n.d.). *Rule Book Book 6 — Miscellaneous Archery Rounds (run archery), effective January 27, 2026*. Retrieved November 23, 2026, from https://extranet.worldarchery.sport/documents/index.php/Rules/Rule_Book_versions/2026-01-27/EN-Book_6_-_2026-01-27_Version.pdf
+
+### Figure Index
+
+- Marco. (2009, September 20). *Run archer with recurve bow and back quiver during a competition* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Run_archer_with_recurve_bow_and_back_quiver_during_a_competition.JPG (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Biathlon](biathlon.html) — the skiing-and-shooting role model, on this site
-- [Laser-Run](laser-run.html) — the run-and-shoot modern pentathlon format, on this site
-- [Orienteering](orienteering.html) — cross-country racing with navigation, on this site
+- [World Archery](https://worldarchery.sport/) — world governing body; run archery is an official discipline
+- [World Archery Rule Book (Book 6)](https://extranet.worldarchery.sport/documents/index.php/Rules/Rule_Book_versions/2026-01-27/EN-Book_6_-_2026-01-27_Version.pdf) — miscellaneous rounds incl. run archery
+- [Archery](archery.html) on this site — the parent sport
+- [Biathlon](biathlon.html) on this site — the winter shooting-and-skiing relative
+- [Shooting](shooting.html) and [Ski Archery](ski-archery.html) on this site
