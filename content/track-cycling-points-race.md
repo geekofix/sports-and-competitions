@@ -1,21 +1,31 @@
 ## Basic Information
 
-The points race is track cycling's strategic bunch race: riders contest a set distance (25 to 40 kilometres at championship level) while intermediate sprints every 10 laps award 5, 3, 2 and 1 points, and a rider who gains a full lap on the field leaps up the standings on the laps-first scoring system. A classic endurance event of the world championships and omnium programme, it rewards sprint speed, patience and bold lap-taking alike.
+The points race is a long bunch race in track cycling in which riders score points at intermediate sprints and for lapping the field — the rider with the most points at the finish wins, with laps gained breaking ties (Union Cycliste Internationale, n.d.). It is a standalone event at the UCI Track Cycling World Championships — 40 km for elite men and 25 km for elite women — and the concluding race of the omnium (25 km men / 20 km women) (Union Cycliste Internationale, n.d.). Among the current leading riders — women first — are Mexico's Yareli Acevedo, the 2025 world champion in Santiago with 63 points, and Britain's Josh Tarling, the 2025 men's world champion on his elite debut, with Anna Morris (silver) and Bryony Botha (bronze) completing the women's podium in 2025 (Union Cycliste Internationale, n.d.).
+
+![Women's points race at the 2017 UEC Track Elite European Championships, Berlin](https://commons.wikimedia.org/wiki/Special:Redirect/file/2017-10-20_UEC_Track_Elite_European_Championships_170233.jpg?width=480)
+
+*Figure: Rademacher, T. (2017, October 20). 2017-10-20 UEC Track Elite European Championships 170233 — women's points race at the 2017 UEC Track Elite European Championships in Berlin, incl. Hanna Solovey (UKR) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2017-10-20_UEC_Track_Elite_European_Championships_170233.jpg*
 
 ## Rules
 
-The field races laps with a sprint bell every 10 laps: the first four across the line in each sprint take 5, 3, 2 and 1 points, and if a rider or group gains a lap on the main field they are ranked ahead on laps before points count (with points as tie-break), and losing a lap costs 20 points under championship rules. Positioning, sprint timing and breakaway management (deciding when to commit to a lap-gaining move) are the core disciplines, with track-conduct rules on movement, blocking and improper assistance; races end in a bunch finish that often decides the standings, and world championship titles are contested in standalone points races for men and women and as the finale of the omnium.
+All riders start together in a mass start; on tracks shorter than 333.33 m an intermediate sprint is held every 10 laps, on longer tracks every 5 laps (Union Cycliste Internationale, n.d.). Each sprint awards 5, 3, 2 and 1 points to the first four riders across the line, and the points in the final sprint after the full distance are doubled (10, 6, 4, 2) (Union Cycliste Internationale, n.d.). Any rider who gains a lap on the main bunch is awarded 20 points, and any rider lapped by the bunch has 20 points deducted (Union Cycliste Internationale, n.d.). The winner is the rider with the most points; riders on the same number of laps are ranked by points (Wikipedia, n.d.). A lap counter and a bell are set up at the finish line (Union Cycliste Internationale, n.d.). Standalone elite distances are 40 km for men and 25 km for women at World Championships, with shorter distances for juniors and in the omnium (25 km men / 20 km women) (Union Cycliste Internationale, n.d.). Men and women race the same rules with different distances (Union Cycliste Internationale, n.d.).
 
 ## History
 
-The points race grew out of the tactical middle distance formats raced on European tracks in the early twentieth century and matured into a world championship discipline run continuously since the 1970s. It became one of the endurance staples of the world championships and national programmes, fed the omnium when that event adopted a points-race finale, and its laps-versus-points strategic depth has produced some of track racing's most celebrated tactical rides, from lone breakaways winning by lapping the field to sprinters amassing point after point in the bunch.
+The points race grew out of the points-scoring sprints of the great six-day races of the 1920s and 1930s at Madison Square Garden and the European indoor velodromes, where intermediate sprints decided placings in long endurance races (Wikipedia, n.d.). It has been a staple of the UCI Track World Championships since the early 20th century and was an Olympic event in its own right from 1964 until 2008 before being folded into the omnium from London 2012 (Wikipedia, n.d.). Among its most famous exponents was France's Franck Perque, the 2004 world champion (Wikipedia, n.d.). At the 2025 UCI Track World Championships in Santiago, Chile, Josh Tarling of Great Britain took the men's title on his elite world debut while Yareli Acevedo of Mexico outsprinted the field — including lapping three times — for the women's rainbow jersey (Union Cycliste Internationale, n.d.).
 
 ## Sources
-- Union Cycliste Internationale. (n.d.). *Points race regulations*. Retrieved November 21, 2026, from https://www.uci.org/
-- Wikipedia. (n.d.). *Points race*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Points_race
-- Olympics. (n.d.). *Track endurance events*. Retrieved November 21, 2026, from https://www.olympics.com/sports/track-cycling
+
+- Union Cycliste Internationale. (n.d.). *UCI — points race rules: mass start; intermediate sprints every 10 laps on tracks under 333.33 m, every 5 laps on 333.33 m and longer; sprint points 5-3-2-1, doubled (10-6-4-2) in the final sprint; +20 points for gaining a lap, −20 for being lapped; most points wins, laps break ties; lap counter and bell at the finish line; elite distances 40 km men / 25 km women at World Championships, 25/20 km in the omnium; UCI rankings*. Retrieved November 23, 2026, from https://www.uci.org/discipline/track/5bBV0EMQvb3ZiTcXbKFLJz
+- Wikipedia. (n.d.). *Points race — history from six-day racing sprint scoring (Madison Square Garden era); UCI World Championship staple; standalone Olympic event 1964–2008, part of the omnium since London 2012; Franck Perque 2004 world champion; 2025 Santiago world champions Josh Tarling (GBR, men, debut) and Yareli Acevedo (MEX, women, 63 points, three laps gained; silver Anna Morris GBR, bronze Bryony Botha NZL)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Points_race
+
+### Figure Index
+
+- Rademacher, T. (2017, October 20). *2017-10-20 UEC Track Elite European Championships 170233* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:2017-10-20_UEC_Track_Elite_European_Championships_170233.jpg (CC BY-SA 4.0)
 
 ## Important Links
-- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
-- [Madison](track-cycling-madison.html) — the team points-scoring format, on this site
-- [Omnium](track-cycling-omnium.html) — the all-round event it anchors, on this site
+
+- [Union Cycliste Internationale (UCI) — Track](https://www.uci.org/discipline/track/5bBV0EMQvb3ZiTcXbKFLJz) — world federation: points race regulations, World Championships, UCI rankings
+- [UCI Track Cycling World Championships](https://www.uci.org/) — annual world titles incl. standalone points race (2025: Santiago, Chile)
+- [Olympics — Track Cycling](https://www.olympics.com/en/olympic-games/paris-2024/results/cycling-track) — Olympic track programme (points race within the omnium since 2012)
+- [Track Cycling](track-cycling.html), [Omnium](track-cycling-omnium.html), [Madison](track-cycling-madison.html) and [Scratch Race](track-cycling-scratch-race.html) on this site — the related bunch races

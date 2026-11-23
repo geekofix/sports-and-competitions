@@ -1,21 +1,31 @@
 ## Basic Information
 
-The scratch race is track cycling's purest bunch race: a field of riders contests a set distance (10 to 15 kilometres at championship level) with no sprints, no points and no eliminations, and the first rider across the finishing line on the final lap wins. Its simplicity hides real tactics, and race-craft (making the break stick or timing the perfect sprint) makes it a standard endurance event worldwide.
+The scratch race is the purest bunch race in track cycling: all riders start together over a set distance, and the first rider across the finish line wins — no sprints, no points (Union Cycliste Internationale, n.d.). At elite level it is run over 15 km for men and 10 km for women at the UCI Track Cycling World Championships, and it opens the omnium (10 km men / 7.5 km women) (Union Cycliste Internationale, n.d.). Among the current leading riders — women first — are Jennifer Valente of the United States, the 2023 world scratch champion, and Germany's Moritz Augenstein, the 2025 men's world champion in Santiago, ahead of Yanne Dorenbos (silver) and Iuri Leitão (bronze) (Union Cycliste Internationale, n.d.).
+
+![Women's scratch race final at the 2011-12 UCI Track World Cup in London](https://commons.wikimedia.org/wiki/Special:Redirect/file/2011-12_Track_Cycling_World_Cup_in_London,_women's_scratch.jpg?width=480)
+
+*Figure: Wilkinson, P. (2013, February 17). 2011-12 Track Cycling World Cup in London, women's scratch — women's scratch final, Olympic test event at the London Velopark [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:2011-12_Track_Cycling_World_Cup_in_London,_women's_scratch.jpg*
 
 ## Rules
 
-All riders start together and race the full distance: attacking riders who gain a lap on the field are contenders on equal terms (a caught breakaway or a lapped rider finishing in the field is judged accordingly), neutral service rules rarely apply, and victory requires crossing the line first on the final lap, whether from a successful break, a small-group sprint after an escape lap, or a bunch gallop. Rules enforce track conduct standards (no improper blocking, no pushing, riding the line), distances are standardized by category (men's world championship commonly 15 kilometres, women 10, youth events shorter), and the scratch race appears both as a standalone championship event and as part of the omnium programme.
+The scratch race is a mass-start race over a fixed distance — 15 km for elite men and 10 km for elite women at World Championships, 10 km / 7.5 km in the omnium, with shorter distances for juniors and U23 — and the first rider across the line wins (Union Cycliste Internationale, n.d.). There are no intermediate sprints and no points; the only award is for the final placing, and tactical racing, attacks and chases decide the outcome (Wikipedia, n.d.). A recognized mishap (crash, mechanical problem) stops the race and it is restarted immediately; a rider suffering a second mishap in the restart is eliminated (DNF) (Union Cycliste Internationale, n.d.). A lap counter and bell mark the final lap (Union Cycliste Internationale, n.d.). Men and women race the identical format at different distances (Union Cycliste Internationale, n.d.).
 
 ## History
 
-The format descends from the massed-start racing of the velodrome's early decades, and the modern standardized scratch race became part of the world championship programme in the 2000s, joining the Olympic Games as an omnium component. It remains the entry-level international bunch race (nationals and world cups run it widely) and a stage for breakaway heroics that the points and elimination formats convert into pure tactical contests.
+The scratch race descends from the main "chase" races of the six-day meetings of the 1920s and 1930s, where the field raced a set distance and the first home won; it became a permanent fixture of the UCI Track World Championships and was an Olympic event from 1964 to 2008 before joining the omnium from London 2012 (Wikipedia, n.d.). Among its icons is Switzerland's Franco Marvulli, the 2004 Olympic scratch champion who retired in 2016, and on the women's side Britain's Laura Kenny, Olympic omnium champion three times running, whose 2012 omnium began with a scratch-race victory (Wikipedia, n.d.). At the 2025 World Championships in Santiago, Chile, Moritz Augenstein of Germany won the men's scratch ahead of Yanne Dorenbos and Iuri Leitão (Union Cycliste Internationale, n.d.).
 
 ## Sources
-- Union Cycliste Internationale. (n.d.). *Scratch race regulations*. Retrieved November 21, 2026, from https://www.uci.org/
-- Wikipedia. (n.d.). *Scratch race*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Scratch_race
-- Olympics. (n.d.). *Omnium and track events*. Retrieved November 21, 2026, from https://www.olympics.com/sports/track-cycling
+
+- Union Cycliste Internationale. (n.d.). *UCI — scratch race rules: mass start over a set distance, first across the line wins; elite distances 15 km men / 10 km women (World Championships), 10 km / 7.5 km in the omnium; recognized mishap stops and restarts the race once, second mishap = DNF; lap counter and bell at the finish line; UCI rankings*. Retrieved November 23, 2026, from https://www.uci.org/discipline/track/5bBV0EMQvb3ZiTcXbKFLJz
+- Wikipedia. (n.d.). *Scratch race — origins in six-day "chase"/main races of the 1920s–30s; UCI World Championship fixture; standalone Olympic event 1964–2008, part of the omnium since London 2012; Franco Marvulli (SUI) 2004 Olympic champion, retired 2016; Laura Kenny 2012 omnium opened with scratch win; 2025 Santiago men's champion Moritz Augenstein (GER), silver Yanne Dorenbos (NED), bronze Iuri Leitão (POR); 2023 women's world champion Jennifer Valente (USA)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Scratch_race
+
+### Figure Index
+
+- Wilkinson, P. (2013, February 17). *2011-12 Track Cycling World Cup in London, women's scratch* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:2011-12_Track_Cycling_World_Cup_in_London,_women's_scratch.jpg (CC BY 2.0)
 
 ## Important Links
-- [Track cycling](track-cycling.html) — the parent velodrome sport, on this site
-- [Points race](track-cycling-points-race.html) and [Elimination race](track-cycling-elimination-race.html) — the sister bunch-race formats, on this site
-- [Omnium](track-cycling-omnium.html) — the all-round event that includes it, on this site
+
+- [Union Cycliste Internationale (UCI) — Track](https://www.uci.org/discipline/track/5bBV0EMQvb3ZiTcXbKFLJz) — world federation: scratch race regulations, World Championships, UCI rankings
+- [UCI Track Cycling World Championships](https://www.uci.org/) — annual world titles incl. scratch race (2025: Santiago, Chile)
+- [Olympics — Track Cycling](https://www.olympics.com/en/olympic-games/paris-2024/results/cycling-track) — Olympic track programme (scratch within the omnium since 2012)
+- [Track Cycling](track-cycling.html), [Omnium](track-cycling-omnium.html), [Points Race](track-cycling-points-race.html) and [Elimination Race](track-cycling-elimination-race.html) on this site — the related bunch races
