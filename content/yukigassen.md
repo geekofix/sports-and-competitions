@@ -1,24 +1,34 @@
 ## Basic Information
 
-Yukigassen — Japanese for "snow battle" — is a competitive team snowball fight with codified rules, played between two teams of seven players on a snow field with barriers and flags, in which teams try to capture the opponent's flag or eliminate their players by hitting them with snowballs. Players wear helmets (with face protection) as standard equipment, and matches are fast, tactical and decided in a few three-minute periods.
+Yukigassen — Japanese for "snow battle" (yuki, snow, plus kassen, battle) — is a codified competitive team snowball fight played between two teams of seven players on a snow court 36 m long and 10 m wide, with five shelters, two châteaux and a flag on each half (Japan Yukigassen Federation, n.d.). A set is won by capturing the opponent's flag — pulling the flagpole out of its holder — or by eliminating every opposing player with a snowball hit, and the match is best of three sets of three minutes' active play (Wikipedia, n.d.). Each team uses 90 pre-made snowballs of 6.5–7 cm diameter per set, players wear helmets with face shields, and women have competed since the first women's tournament in 1991 — today women's, men's and mixed teams all take part on equal terms (Wikipedia, n.d.). The world championship is held annually in February in Sōbetsu, Hokkaidō, and at the end of this section the current leading teams are the reigning world champions from the 2025 Sōbetsu event (Japan Yukigassen Federation, n.d.).
 
-Born in Japan, the sport is played internationally with world championships held annually in regions such as Hokkaido and far-north communities from Lapland to Canada, with rules governed by the Japan and international yukigassen organisations.
+![A yukigassen snowball-fight meet in Koide, Uonuma](https://commons.wikimedia.org/wiki/Special:Redirect/file/UonumaPhoto_Yukigassen_Koide_Snowball_Fight_Meet_201802.jpg?width=480)
+
+*Figure: Uonuma City Tourism Association. (2018, February 4). UonumaPhoto Yukigassen Koide Snowball Fight Meet 201802 — the 2nd International Yukigassen Tournament photographed at Koide Park, Uonuma, Niigata [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:UonumaPhoto_Yukigassen_Koide_Snowball_Fight_Meet_201802.jpg*
 
 ## Rules
 
-A match is played on a 10 by 36 (or similar standard) metre snow court with barriers and snow structures for cover, between seven-player teams with 90 pre-made snowballs per team per period and three three-minute periods; a team wins the period by capturing the opponent's flag with an untouched run or by hitting all opposing players "out," and periods won decide the match. Direct hits eliminate a player, caught balls do not eliminate the thrower, and the flag must be carried over the center line in the flag-capture gameplay; helmets are required, deliberate dangerous contact is prohibited.
+Under the official rules of the Japan Yukigassen Federation, the 36 × 10 m court has sidelines, end lines, a centerline and a backline, and each half contains five shelters, two châteaux and the team flag (Japan Yukigassen Federation, n.d.). Seven players per team are on the court — forwards attack, backs replenish snowballs, defenders guard — plus reserves; each team prepares exactly 90 snowballs 15 minutes before play, each 6.5–7 cm in diameter (Japan Yukigassen Federation, n.d.). A player hit by any snowball that has left the thrower's hand — even a teammate's — is out and must leave the court; throwing at own teammates is forbidden; balls may be handed over, placed on the ground, rolled or set on shelters, but forwards may not fetch their own ammunition (Wikipedia, n.d.). A match is three sets of three minutes with one-minute breaks, the first team to win two sets takes the match, and a draw can be settled by a "victory throw" at a target (Yukigassen International, n.d.). Helmets with face shields are mandatory, green helmets are reserved for referees, and deliberate dangerous contact is penalised (Japan Yukigassen Federation, n.d.).
 
 ## History
 
-Yukigassen was formalised in 1988 in Soōbetsu, Hokkaido in Japan, growing from the winter snowball fights of the region's snowy way of life into a structured sport with uniforms, referees and dedicated snow courts, and the town hosts the annual Yukigassen world championship festival each February. The concept travels well to other snowy regions — Finland (Showball games), Canada, Norway's arctic communities and the far-east Russian north leagues formed clubs, and international championships rotate besideth annual Soōbetsu etc., keeping the sport anchored in Japan but international in reach.
+The rules of Sports Yukigassen were established in 1988 in the town of Sōbetsu on Hokkaidō, whose officials wanted to boost winter tourism, and the first tournament — the "1st Shōwa-Shinzan International Yukigassen" — was held in 1989 at the foot of the Shōwa-Shinzan volcano with 70 teams (Japan Yukigassen Federation, n.d.). The first women's tournament followed in 1991, the Japan Yukigassen Federation was formed in 1993, and an international association was created in 2013 (Wikipedia, n.d.). The game first spread abroad in 1992 — Australia hosted the first tournament outside Japan and Finland played that same year — reaching the United States in 2001, Norway in 1996, Sweden in 2009 and Austria in 2024, and by 2025 ten countries had joined Yukigassen International (Wikipedia, n.d.). Today the world championship is held every February in Sōbetsu, with further championships in Kemijärvi (Finland, European), Vardø (Norway, Nordic), Luleå (Sweden), Murmansk (Russia), Mount Buller/Mount Baw Baw (Australia), Anchorage (Alaska), Aparan (Armenia), Jasper and Saskatoon (Canada) and Filzmoos (Austria), and Japan counted around 2000 teams by 2011 — the federation continues to lobby for yukigassen's inclusion in the Winter Olympics (Yukigassen International, n.d.).
 
 ## Sources
 
-- Wikipedia: [Yukigassen](https://en.wikipedia.org/wiki/Yukigassen) Retrieved November 21, 2026, from 
-- Sobetsu official yukigassen information: [Show Yukigassen information](https://www.town.sobetsu.hokkaido.jp/) Retrieved November 21, 2026, from 
+- Japan Yukigassen Federation. (n.d.). *Official rules — court 36 × 10 m, 5 shelters and 2 châteaux plus flag per side, 7 players per team, 90 snowballs of 6.5–7 cm per set, helmets with face shields; history: rules established 1988 in Sōbetsu, first tournament 1989*. Retrieved November 23, 2026, from https://jyf.or.jp/english/
+- Wikipedia. (n.d.). *Yukigassen — team snowball fight, 36 × 10 m pitch, flag capture or elimination wins the set, three sets of three minutes; founded in Sōbetsu, Hokkaidō, 1989; first women's tournament 1991; Japan Yukigassen Federation 1993; international association 2013; spread to Australia 1992, USA 2001, Norway 1996, Sweden 2009, Austria 2024*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Yukigassen
+- Yukigassen International. (n.d.). *Laws of the game — Showa-Shinzan International Yukigassen; victory throw tiebreak; championship tournaments in Sōbetsu, Kemijärvi, Vardø, Luleå, Murmansk, Mount Buller, Anchorage, Aparan, Jasper, Saskatoon, Filzmoos*. Retrieved November 23, 2026, from http://www.yukigassen-intl.com
+
+### Figure Index
+
+- Uonuma City Tourism Association. (2018, February 4). *UonumaPhoto Yukigassen Koide Snowball Fight Meet 201802* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:UonumaPhoto_Yukigassen_Koide_Snowball_Fight_Meet_201802.jpg (CC BY 4.0)
 
 ## Important Links
 
-- [Snow Volleyball](snow-volleyball.html) — another winter team sport, on this site
-- [Winter Triathlon](winter-triathlon.html) — a competitive snow-season sport, on this site
-- [Bandy](bandy.html) — a winter team ball sport on ice, on this site
+- [Japan Yukigassen Federation — official rules](https://jyf.or.jp/english/)
+- [Yukigassen International](http://www.yukigassen-intl.com)
+- [Snow Volleyball](snow-volleyball.html) on this site — a winter team sport on snow
+- [Snow Rugby](snow-rugby.html) on this site — rugby on snow
+- [Winter Triathlon](winter-triathlon.html) on this site — a competitive snow-season endurance sport
+- [Bandy](bandy.html) on this site — winter team ball sport on ice

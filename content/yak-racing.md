@@ -1,24 +1,34 @@
 ## Basic Information
 
-Yak racing is a traditional festival sport of the Himalayan region in which decorated yaks — often adorned with colourful harnesses, bells and ceremonial paint — are ridden or driven along a racecourse by handlers, featuring at traditional gatherings in Mongolia, Tibet, Nepal, Bhutan and parts of northern India and China. Races are short sprints over distances from tens to a few hundred metres, with the yak's lumbering but surprisingly quick charge the highlight of high-altitude festivals.
+Yak racing is a spectator sport held at traditional festivals of Tibet, Kazakhstan, Kyrgyzstan, Gilgit-Baltistan, Ladakh and Mongolia, where riders — women and men alike — mount decorated yaks and race them across open ground (Wikipedia, n.d.). Fields commonly number ten to twelve yaks, though major festival races now enter nearly 150 animals, and the modern festival track is around 2000 m long, covered in roughly eight minutes (Wikipedia, n.d.). The yaks and their riders appear in striking costume — red tassels on the head, horns wrapped in colourful silk, ribbons on the ears and a fan-shaped cloth on the tail — and the winning yak and rider are treated with great respect (Wikipedia, n.d.). Like horse racing, the sport carries real risks of falls and collisions, and festival rules therefore include welfare provisions for the animals (Travel All Mongolia, n.d.).
 
-Events are surrounded by ceremony and festival tradition (linked to Tibetan and Mongolian celebrations within communities that keep yaks), and the sport's comic unpredictability — yaks stopping, turning or bolting — is a celebrated part of the spectacle.
+![A yak race at Shimshal Pass, Gilgit-Baltistan](https://commons.wikimedia.org/wiki/Special:Redirect/file/YakRace.jpg?width=480)
+
+*Figure: Pm.pfeiffer. (2009, July 28). YakRace — a yak race at Shimshal Pass, Gilgit-Baltistan, Pakistan [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:YakRace.jpg*
 
 ## Rules
 
-Race formats are set by each festival and local organizing community: yaks race in heats over a marked straight course, either ridden by a handler who clings to the yak's hump and rope or running behind with lead ropes, with the first yak across the finish line winning. Distances are kept short (typically 100 to 200 metres) because yaks gallop briefly rather than over long stretches, and rules focus on animal welfare (spurring and whipping restrictions, hindrance penalties) with categories for decorated animals and junior handlers in the programme of many festivals.
+Race formats are set by each festival's organising community: yaks run in heats or a single mass race over a marked course in open fields, each ridden by a handler clinging to the hump and ropes, with the first yak across the finish line winning (Wikipedia, n.d.). Courses are typically around 2000 m because yaks sprint only over short stretches, and rules restrict whipping and spurring while penalising hindrance, reflecting the same welfare expectations as horse racing (Travel All Mongolia, n.d.). Festival programmes add side categories — most famously the "Best-Decorated Yak" beauty contest — and some festivals include junior riders; men's and women's riders compete in the same races without separate classifications (View Mongolia, n.d.). Betting is not part of the tradition; prizes are honour, goods and cash awards from sponsors.
 
 ## History
 
-Yak racing belongs to the pastoral cultures of the Himalayas and the Tibetan plateau, tied to the yak as the region's essential pack animal and cultural icon of the mountains, showing at horse-and-yak festival days of monasteries and summer gatherings for centuries — documented colorful photographs of the Sikkim and Tibetan festival circuit draw heritage accounts today. Festivals such as those in Mongolia and Tibet and the Indian Himalayan regions run acknowledged race days today with the yaks raced by local herding families, and the sport's festival profile continues as a cultural attraction alongside nomadic games and other animal events (the Mongolian Naadam cultural tradition related).
+Yak racing belongs to the pastoral cultures of the Himalayas and the Tibetan Plateau, where the yak has been the essential pack animal for millennia, and race days have accompanied monastery and summer festivals for centuries (Wikipedia, n.d.). In China, yak racing became an integral part of the Jyekundo (Yushu) Horse Festival in 2006 — held 20 km south of Jyekundo near Batang with more than 20,000 spectators — and of the 19-day Darma Festival at Gyantse and the Damxung Horse Festival (Dajyur); on the Qinghai–Tibetan plateau, annual yak races celebrate the harvest at the Wangguo Festival in August (Wikipedia, n.d.). In Mongolia, the traditional Yak Festival near Lake Terkhiin Tsagaan Nuur in the Khangai Mountains is held on the first two days of August, and the Yak Festival at Bat-Ölzii in the Orkhon Valley on 23 July combines yak racing, yak polo and beauty contests (View Mongolia, n.d.). The sport sits alongside Naadam's famous cross-country horse races of 15–30 km, which use child jockeys aged 5 to 13 (Travel All Mongolia, n.d.).
 
 ## Sources
 
-- Local festival and tourism coverage: [Atlas of humanity, high mountain festivals](https://www.atlasofhumanity.com/) Retrieved November 21, 2026, from 
-- Wikipedia: [Yak](https://en.wikipedia.org/wiki/Yak) Retrieved November 21, 2026, from 
+- Travel All Mongolia. (n.d.). *Travel All Mongolia — Mongolian festival events: Naadam horse racing 15–30 km with child jockeys aged 5–13, and yak-herder awards including Best-Decorated Yak*. Retrieved November 23, 2026, from http://www.travelallmongolia.com/tourist-events.html
+- View Mongolia. (n.d.). *View Mongolia — Mongolian Yak Festival on 23 July in the Orkhon Valley at Bat-Ulziit with yak racing, yak polo and beauty contests*. Retrieved November 23, 2026, from https://www.viewmongolia.com/mongolia-yak-festival.html
+- Wikipedia. (n.d.). *Yak racing — spectator sport at festivals of Tibet, Kazakhstan, Kyrgyzstan, Gilgit-Baltistan, Ladakh and Mongolia; fields of 10–12 up to 150 yaks; 2000 m track in about 8 minutes; decoration of yaks; Jyekundo Horse Festival 2006, Darma and Damxung festivals, Wangguo harvest festival*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Yak_racing
+
+### Figure Index
+
+- Pm.pfeiffer. (2009, July 28). *YakRace* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:YakRace.jpg (Public domain)
 
 ## Important Links
 
-- [Barrel Racing](barrel-racing.html) — a timed racing event on horseback, on this site
-- [Reindeer Racing](reindeer-racing.html) — another northern animal racing tradition, on this site
-- [Dog Sledding](dog-sledding.html) — another working-animal sport, on this site
+- [View Mongolia — Mongolian Yak Festival](https://www.viewmongolia.com/mongolia-yak-festival.html)
+- [Travel All Mongolia — festival events](http://www.travelallmongolia.com/tourist-events.html)
+- [Reindeer Racing](reindeer-racing.html) on this site — another northern animal racing tradition
+- [Camel Racing](camel-racing.html) on this site — desert festival racing
+- [Dog Sledding](dog-sledding.html) on this site — a working-animal sport
+- [Skijoring](skijoring.html) on this site — horse-powered skiing

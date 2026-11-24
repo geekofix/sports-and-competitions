@@ -1,24 +1,33 @@
 ## Basic Information
 
-Zorbing is the recreational activity of rolling downhill inside a zorb — a large transparent plastic sphere, typically about three metres in diameter, with an inner capsule suspended by thousands of nylon ropes holding one to three riders — at outdoor adventure sites, with riders either strapped into harnesses (harnessed zorbing) or free to tumble loose inside the ball (hydro zorbing with water inside). Descents roll at speeds of around 20 to 40 km/h down groomed slopes.
+Zorbing — also called globe-riding, sphereing or orbing — is the recreational sport of rolling downhill inside a zorb, a transparent double-walled plastic ball about 3 m (3.2 m) in outer diameter with a smaller inner ball of about 1.9 m held by thousands of ties and an air cushion of roughly 14 m³ between the walls, carrying one to three riders either strapped into a harness or free to tumble (Wikipedia, n.d.). Descents on groomed tracks reach speeds of around 50–60 km/h, water variants (hydro-zorbing or aquazorbing) let riders walk or roll across water, and women and men ride on exactly equal terms — there are no separate classifications (ZORB New Zealand, n.d.). The fastest recorded descent was reported at 52 km/h by Keith Kolver on the Rotorua hill on 7 November 2006, and at the end of this section the current scene is the worldwide network of commercial zorb sites, with Rotorua, New Zealand, remaining the original and most famous (Sydney Morning Herald, n.d.).
 
-Invented in New Zealand in the 1990s, zorbing has also developed racing variants: downhill race zorbing at commercial sites and occasional competitive events at festivals with timed runs.
+![A rider inside a zorb at the original ZORB site in Rotorua](https://commons.wikimedia.org/wiki/Special:Redirect/file/Zorb_01.jpg?width=480)
+
+*Figure: Harry Malsch. (2009, April 21). Zorb 01 — a rider inside a zorb ball rolling at the original ZORB site in Rotorua, New Zealand [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Zorb_01.jpg*
 
 ## Rules
 
-Recreational zorbing is governed by site rules and commercial safety standards rather than international sporting rules: operators check ball integrity, terrain gradients and launch procedures and run-out zones, riders strap into the harness or receive loose riding instructions, and descents proceed on dedicated rolled tracks with catch fencing and staff at the finish. Where zorbing competitions exist — festival races in which zorbs are released downhill on mapped courses — winners are decided by fastest descent time or first to the line between rolled balls, categories by ball type (harness, hydro or walking).
+Zorbing has no international federation and is governed by the safety standards of the commercial operators, above all ZORB New Zealand, which runs the original site: balls are inspected for integrity (the walls are only about 1 mm thick TPU/PVC), terrain gradients, launch platforms, run-out zones and catch fencing are checked, and trained staff supervise every descent (ZORB New Zealand, n.d.). Riders enter through a zippered tunnel, are either harnessed in or ride loose, and hydro-zorbing adds a few litres of water or soap solution inside to prevent friction burns (Wikipedia, n.d.). Where competitive racing exists — festival events in which zorbs are released downhill on mapped courses — the winner is decided by fastest timed descent or first to the finish, with categories by ball type (harnessed, free or hydro) (Wikipedia, n.d.). After fatal accidents in uncontrolled settings — Dombai, Russia, in 2013 and the Czech Republic in 2009 — operators restrict riding to dedicated, fenced tracks with controlled launch and stop zones (Wikipedia, n.d.).
 
 ## History
 
-Zorbing was invented in Rotorua, New Zealand in 1994 when Dwane van der Sluis and Andrew Akers built the first human-sized hamster balls and founded the world's first commercial zorbing site down Rotorua hills, the term zorb trademarked alongside the business and spread through franchise sites worldwide. Adventure tourism brought zorbing to dozens of countries in the 200Os, with hydro variants popular in warm climates and downhill sites advertising the strange activity marquee lists — and media appearances from travel-show hosts being rolled down hills pop culture episodes cemented the sport. Rotorua remains the sport's spiritual home and the original site still operates commercial rolling today.
+Human-sized rolling spheres have precursors from the 1970s — the Dangerous Sports Club built a giant 23 m sphere in the early 1980s, and steel "Atlaspheres" appeared on the TV show Gladiators in 1990 — but the modern zorb was invented and named in 1994 by New Zealanders Dwane van der Sluis and Andrew Akers in Auckland (Wikipedia, n.d.). They founded ZORB Limited in 1994 and opened the first commercial zorbing site outside Rotorua, New Zealand; the word "zorbing" entered English dictionaries in 2001 (Sydney Morning Herald, n.d.). The craze spread through franchises — by 2005 the ZORB homepage listed sites in 23 countries, a Tennessee site opened in 2007, and musician Peter Gabriel famously used a zorb on stage during his 2003 Growing Up tour (Wikipedia, n.d.). Andrew and his brother David Akers later ran a rival operation, OGO, and in 2019 bought the ZORB brand back, with the original Rotorua site still operating today (ZORB New Zealand, n.d.).
 
 ## Sources
 
-- Zorb New Zealand: [Original zorbing site](https://www.zorb.com/) Retrieved November 21, 2026, from 
-- Wikipedia: [Zorbing](https://en.wikipedia.org/wiki/Zorbing) Retrieved November 21, 2026, from 
+- Sydney Morning Herald. (n.d.). *How a giant inflatable ball took the world by Zorb — Andrew Akers and Dwane van der Sluis invented the zorb in 1994 in New Zealand; the Rotorua OGO/ZORB site; 45,000 riders a year at the peak*. Retrieved November 23, 2026, from https://www.smh.com.au/business/how-a-giant-inflatable-ball-took-the-world-by-zorb-20160104-glymyg.html
+- Wikipedia. (n.d.). *Zorbing — double-walled transparent plastic ball, outer about 3.2 m, inner about 1.9 m, 14 m³ of air, 80–90 kg, one to three riders; invented and named 1994 by Akers and van der Sluis; water variants; speeds up to 50–60 km/h; fatal accidents at Dombai 2013 and Czech Republic 2009; Dangerous Sports Club sphere and Gladiators Atlaspheres precursors; Peter Gabriel 2003*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Zorbing
+- ZORB New Zealand. (n.d.). *The inventors of ZORB Rotorua — the 1994 invention by Andrew Akers and Dwane van der Sluis, the original Rotorua site, ball manufacture (about 1 mm TPU/PVC, ~30 balls a year) and the 2019 buy-back of the ZORB brand*. Retrieved November 23, 2026, from https://zorb.com/about-us/by-the-inventors/
+
+### Figure Index
+
+- Harry Malsch. (2009, April 21). *Zorb 01* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Zorb_01.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Wife Carrying](wife-carrying.html) — another famous novelty outdoor activity, on this site
-- [Zorbing cousin Sphering](wheelbarrow-olympics.html) — a comparably comic race activity, on this site
-- [Wingsuit Flying](wingsuit-flying.html) — another gravity-based adventure sport, on this site
+- [ZORB New Zealand — the original zorbing site](https://zorb.com)
+- [The inventors of ZORB Rotorua](https://zorb.com/about-us/by-the-inventors/)
+- [Wife Carrying](wife-carrying.html) on this site — another famous novelty outdoor contest
+- [Wheelbarrow Olympics](wheelbarrow-olympics.html) on this site — a comparably comic race activity
+- [Wingsuit Flying](wingsuit-flying.html) on this site — another gravity-based adventure sport
