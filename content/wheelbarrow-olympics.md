@@ -1,24 +1,29 @@
 ## Basic Information
 
-Wheelbarrow Olympics is the umbrella name for novelty festival contests in which teams race wheelbarrows — one teammate pushing and one riding or legs-in-hands in the classic partner format — often combined with obstacle sections, water carries and other comic tasks. Like other "Olympics"-themed village festival games, the point is spectacle and shared laughter rather than athletic record-keeping.
+The wheelbarrow Olympics are novelty races staged at fêtes, charity events and festivals in which a driver pushes a wheelbarrow carrying a passenger — or a load of cargo — around a marked course against the clock, with time penalties for mishaps (Wikipedia, n.d.). Categories typically include a straight sprint, a relay with a passenger swap and a cargo run, and the fastest adjusted time wins; Guinness World Records recognises marks such as the fastest 100 m wheelbarrow race (Guinness World Records, n.d.). The races are a fixture of British town celebrations — for example the wheelbarrow race at London's Field Day festival in June 2016 — and of village fêtes and miners' galas across the UK. Men and women compete alike, as drivers and as passengers, in mixed pairs.
 
-Such events are common at village fetes, charity fund-raisers and team-building days, with local organisers inventing their own course designs and scoring, from straight sprints to relay heats between teams fielding several wheelbarrows.
+![A wheelbarrow race at Field Day London 2016](https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_Day_2016_Saturday_wheelbarrow_race_1.jpg?width=480)
+
+*Figure: Jwslubbock. (2016, June 11). A wheelbarrow race at Field Day London 2016 — a driver pushes a barrow with a passenger along the course [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Field_Day_2016_Saturday_wheelbarrow_race_1.jpg*
 
 ## Rules
 
-Typical race formats pit teams of two against each other on a marked course: the "driver" holds the handles of the wheelbarrow while the "passenger" rides in it or walks ahead steering, with several changeover points required at which driver and passenger swap. Courses are run as straight sprints against the clock, head-to-head heats, or multi-task relays in which teams must carry cargo such as water balloons or sandbags without losing loads, navigate obstacles, and cross the finish line with the barrow upright and cargo intact. Time penalties are added for spilled loads, missed gates or improper swaps, and arrangements vary by event because each festival writes its own light-hearted rule sheet.
+Teams are usually a pair — one driver pushing the barrow and one passenger seated in it — though solo cargo runs are also staged (Wikipedia, n.d.). From a standing start behind a line, the clock runs until the barrow crosses the finish line; the driver must keep both hands on the handles and may not carry the barrow, and the passenger must remain seated for the whole run. Dropping the passenger, spilling the cargo or leaving the course adds penalty seconds — commonly 5 to 10 per offence — to the raw time, and heats feed a final. Because every fête sets its own house rules, course length, penalties and barrow type vary; single-wheeled garden barrows are standard (Guinness World Records, n.d.).
 
 ## History
 
-The wheelbarrow race is a long-standing staple of British and American community gatherings, dating back generations as the comic centrepiece of school sports days and village fairs alongside sack races and egg-and-spoon contests. Through the twentieth century, local committees elaborated the basic race into "Wheelbarrow Olympics" formats with parades of themed barrows, costume classes and cargo challenges, and events of this name are held in towns from England to Australia — for instance in charity events in Newcastle-under-Lyme, whose badge-making industry once supplied the spectacle. The tradition continues today, especially as a charity fund-raiser format.
+Wheelbarrow racing belongs to the old British tradition of fête and harvest-home novelty races — alongside bed races, sack races and greasy-pole climbs — and wheelbarrow heats appear in fête programmes from the nineteenth century onward, including miners' galas in the industrial districts (Wikipedia, n.d.). The modern wheelbarrow Olympics format, with passenger races, swap relays and penalty rules, crystallised at mid-twentieth-century charity events, and Guinness World Records has kept official marks for wheelbarrow racing since the 1980s, including the 100 m sprint record (Guinness World Records, n.d.).
 
 ## Sources
 
-- Guinness World Records community sources on novelty races: [Wheelbarrow race records](https://www.guinnessworldrecords.com/) Retrieved November 21, 2026, from 
-- Local event listings, for example Newcastle-under-Lyme wheelbarrow events, via borough tourism: [Visit Newcastle under Lyme](https://www.visitnewcastleunderlyme.co.uk/) Retrieved November 21, 2026, from 
+- Guinness World Records. (n.d.). *Wheelbarrow racing records — fastest 100 m wheelbarrow race and related marks, kept since the 1980s*. Retrieved November 23, 2026, from https://www.guinnessworldrecords.com/
+- Wikipedia. (n.d.). *Wheelbarrow racing — novelty fête races with driver and passenger, penalty rules, history in British fêtes and miners' galas; Guinness records*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wheelbarrow_racing
+
+### Figure Index
+
+- Jwslubbock. (2016, June 11). *Field Day 2016 Saturday wheelbarrow race 1* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Field_Day_2016_Saturday_wheelbarrow_race_1.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Wife Carrying](wife-carrying.html) — the most famous partner-carrying novelty race, on this site
-- [Zorbing](zorbing.html) — another gravity-based novelty outdoor activity, on this site
-- [Worm Charming](worm-charming.html) — a comparable village-festival contest, on this site
+- [Guinness World Records](https://www.guinnessworldrecords.com/) — official wheelbarrow-racing records
+- [Bed racing](bed-racing.html), [Corgi racing](corgi-racing.html), [Hen racing](hen-racing.html), [Wife carrying](wife-carrying.html), [Worm charming](worm-charming.html) and [Extreme ironing](extreme-ironing.html) on this site — other novelty fête competitions

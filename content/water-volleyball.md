@@ -1,24 +1,30 @@
 ## Basic Information
 
-Water volleyball is a relaxed variant of volleyball played in a swimming pool, with the net stretched across the water and players standing waist- or chest-deep, unable to move quickly — which turns a familiar game into a slow, buoyant contest of positioning and soft touches. It is popular as a recreational and club activity, especially in warmer climates and at pool-based fitness programmes, and is sometimes played competitively in local leagues.
+Water volleyball is a relaxed variant of volleyball played in a swimming pool: the net is stretched across the water and players stand waist- or chest-deep, so the water supports most of their weight and turns a familiar game into a slow, buoyant contest of positioning and soft touches (Wikipedia, n.d.). Teams of three to six players per side are common, and because no single international federation governs the game, it is played under house rules at clubs, aqua-fitness programmes, summer camps and retirement communities — the U.S. National Archives even documented residents of Florida's Century Village playing water volleyball every evening in the 1970s (National Archives and Records Administration, n.d.). Men and women usually play together in mixed teams, and the low-impact nature makes the game especially popular with senior groups and as cross-training for swimmers and water polo players.
 
-Because the water supports most of the player's weight, the sport is gentle on joints while still demanding teamwork and ball control, making it a favourite cross-training and social game.
+![Players contest the ball during a game of aquatic volleyball in a swimming pool](https://commons.wikimedia.org/wiki/Special:Redirect/file/Water_Volleyball_2010.jpg?width=480)
+
+*Figure: Dogittie. (2010, May 27). Water Volleyball 2010 — aquatic volleyball game in a swimming pool [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Water_Volleyball_2010.jpg*
 
 ## Rules
 
-Rules mirror standard volleyball in softened form: two teams of three to six players per side, arranged either side of a net hung above the water at a reduced height. Teams have up to three touches to return the ball over the net, and a point is scored when the ball lands in the opposing half or is not returned legally. Serving, rotation and rally scoring are simplified in most recreational versions, and since players cannot jump or sprint in water, long strategic rallies replace power play. Because no single international body governs the game, house rules on net height, team size, scoring targets and pool depth vary from venue to venue.
+The playing area is a swimming pool, with a net hung above the water at a reduced height — often an adjustable floating net — and two teams of three to six players per side rally the ball over it with at most three touches per team, exactly as in indoor volleyball (Wikipedia, n.d.). A point is scored when the ball touches the water on the opponents' side, is played out of bounds or cannot be returned legally. Serving, rotation and rally scoring are simplified in most recreational versions: many venues play to 11, 15 or 21 points, and some require the serve to land in a marked service zone. Because players cannot jump or sprint in water, power play is replaced by long, tactical rallies of soft sets and dinks. Fouls mirror volleyball — touching the net, carrying the ball, more than three touches — but are judged leniently by volunteer referees. There is no separate elite men's or women's structure, since the sport is recreational: mixed teams of women and men are the norm, and house rules on net height, team size, scoring target and pool depth vary from venue to venue (Wikipedia, n.d.).
 
 ## History
 
-Water volleyball developed informally at hotel, resort and municipal pools during the twentieth century as a poolside pastime adapting standard volleyball to shallow water. Over time, dedicated floating nets and pool volleyball sets turned it into a permanent fixture of aqua-fitness programmes and community pool activity. It remains strongest as a grassroots recreational sport with local club groups organising informal leagues rather than a professionally governed competition, and historically it has been used in aqua aerobics sessions and by senior swimming groups.
+Water volleyball developed informally at hotel, resort and municipal pools during the mid-twentieth century as a poolside pastime adapting standard volleyball — invented in 1895 by William G. Morgan in Holyoke, Massachusetts — to shallow water. Dedicated floating pool-volleyball nets appeared in the later twentieth century and turned the game into a permanent fixture of aqua-fitness and senior recreation programmes, documented for example at the Century Village retirement community in Florida, whose residents played every evening in the 1970s (National Archives and Records Administration, n.d.). Local clubs now organise informal leagues in many countries, but the sport has never been adopted by World Aquatics as a governed discipline and remains a grassroots game defined by venue house rules (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Water volleyball](https://en.wikipedia.org/wiki/Water_volleyball) Retrieved November 21, 2026, from 
-- Aqua aerobics resources on pool games: [Pool volleyball](https://www Pooler/) Retrieved November 21, 2026, from 
+- National Archives and Records Administration. (n.d.). *Catalog record — residents of the Century Village retirement community, Florida, play water volleyball each evening, 1970s; water volleyball in senior recreation programmes*. Retrieved November 23, 2026, from https://catalog.archives.gov/
+- Wikipedia. (n.d.). *Water volleyball — pool variant of volleyball, net stretched across the water, three to six players per side, three touches, simplified scoring and house rules*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Water_volleyball
+
+### Figure Index
+
+- Dogittie. (2010, May 27). *Water Volleyball 2010* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Water_Volleyball_2010.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Volleyball](volleyball.html) — the parent sport played on land, on this site
-- [Sitting Volleyball](sitting-volleyball.html) — the other seated/stationary volleyball variant, on this site
-- [Water Polo](water-polo.html) — the major competitive team sport of the pool, on this site
+- [World Aquatics](https://www.worldaquatics.com/) — world governing body of the pool sports (swimming, diving, water polo); water volleyball itself remains recreational
+- [Volleyball](volleyball.html), [Beach volleyball](beach-volleyball.html), [Sitting volleyball](sitting-volleyball.html), [Snow volleyball](snow-volleyball.html) and [Standing volleyball](standing-volleyball.html) on this site — the volleyball family
+- [Water polo](water-polo.html) on this site — the major competitive team sport of the pool

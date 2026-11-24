@@ -1,24 +1,31 @@
 ## Basic Information
 
-Weight for height (also known as weight for height overhead press in strongman) is a strength event in which athletes lift a heavy implement — usually a bar, log, anvil or specially built apparatus — from the ground to overhead, with the weight being set relative to the athlete's height class and the lifter credited with the heaviest successful lift. It is a traditional strongman event that tests raw overhead pressing power together with the technique needed to move an awkward object from the floor.
+Weight for height — also called the overhead weight lift in strongman and known in its Highland games form as the weight throw for height — is a strength event in which the athlete takes a heavy implement such as a log, bar, anvil or purpose-built frame from the ground and presses or drives it to full lockout overhead, and the heaviest implement successfully held wins (Wikipedia, n.d.). Formats vary: in strongman contests each lifter takes up to three attempts at the heaviest weight they can manage, while in the rising-bar Highland format the bar is raised after each round until one athlete remains. The event is a staple of World's Strongest Man, which has run since 1977, and of heritage strength festivals, and amateur meets offer women's divisions with lighter implements, so women and men compete in parallel classes (Strongman Champions League, n.d.).
 
-The event appears at strongman contests in several formats, most commonly as a maximum lift for each athlete within a defined height band, and it remains a spectator favourite at heritage strength gatherings.
+![An athlete competing in the weight-for-height event at the Bute Highland Games 2010](https://commons.wikimedia.org/wiki/Special:Redirect/file/Weight_for_Height.JPG?width=480)
+
+*Figure: Middleton, A. (2010, August 21). The Weight for Height at the Bute Highland Games 2010 — an athlete in the weight-over-bar throw-for-height event on the Isle of Bute, Scotland [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Weight_for_Height.JPG*
 
 ## Rules
 
-In the classic format, the athlete takes the implement from the floor with a two-hand grip and presses or drives it to full lockout overhead — arms extended, feet in line, and a hold showing control before the referee's command ends the attempt. Downward pressure on the legs or double-dipping under the implement is judged like the press in Olympic weightlifting, and finishes must show the implement balanced overhead, not held forward. The athlete's bodyweight and height place them in a class, and the judge records the heaviest implement successfully locked out within the permitted attempts, typically three per lifter.
+The implement starts on the floor; the lifter grips it two-handed and must finish with arms fully extended and locked, elbows and knees straight, feet in line with the bar, and the weight visibly under control until the referee's down signal — any downward movement of the bar during the lift, and any leg drive or re-bending under the implement, is judged as in the strict press and voids the attempt (Wikipedia, n.d.). Each athlete normally gets three attempts, and the heaviest valid lift is recorded; where classes are used, bodyweight or height bands determine the division. In the rising-bar format the bar is raised in increments after every cleared round, and a thrower with three misses at a height is eliminated, with the fewest misses breaking ties (Strongman Champions League, n.d.).
 
 ## History
 
-Weight for height was popularised in the early strongman contests of the twentieth century, deriving from showman feats of lifting anvils, barrels and other odd objects overhead, and it appeared in early versions of strongman programming alongside events like the weight over bar. As the World's Strongest Man circuit and its national qualifiers grew from 1977 onward, implement designs were standardised and the event entered regular rotation in strongman shows, where it continues as a respected test of overhead strength at both professional and amateur heritage games.
+Weight for height descends from the showman feats of early-twentieth-century strongmen, who pressed anvils, barrels, kegs and odd-shaped stones overhead for circus and fair crowds, and from the Highland games weight-over-bar tradition. When the World's Strongest Man circuit began in 1977, implements were standardised and overhead-lift events — including the rising-bar weight over bar introduced to WSM in 1980 — entered regular rotation, making weight-for-height a permanent fixture of professional strongman shows and heritage games alike (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Strongman (strength athlete)](https://en.wikipedia.org/wiki/Strongman_(strength_athlete)) Retrieved November 21, 2026, from 
-- Strongman Champions League: [Event descriptions](https://strongmanchampionsleague.com/) Retrieved November 21, 2026, from 
+- Strongman Champions League. (n.d.). *Event guide — weight for height and overhead-lift events at professional strongman competitions: lockout judging, three attempts, heaviest-lift-wins*. Retrieved November 23, 2026, from https://strongmanchampionsleague.com/
+- Wikipedia. (n.d.). *Strongman (strength athlete) — event roster including weight for height; World's Strongest Man since 1977; weight over bar introduced to WSM 1980; showman overhead-lift heritage; weight throw for height at Highland games (Bute 2010)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Strongman_(strength_athlete)
+
+### Figure Index
+
+- Middleton, A. (2010, August 21). *Weight for Height* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Weight_for_Height.JPG (CC BY 2.0)
 
 ## Important Links
 
-- [Weight Over Bar](weight-over-bar.html) — the related Highland Games throwing event for maximum height, on this site
-- [Weightlifting](weightlifting.html) — the Olympic barbell sport of overhead lifting, on this site
-- [Strongman](strongman.html) — the overall sport in which this event features, on this site
+- [Strongman Champions League](https://strongmanchampionsleague.com/) — professional strongman circuit featuring overhead-lift events
+- [Weight over bar](weight-over-bar.html) on this site — the Highland rising-bar version of the event
+- [Weightlifting](weightlifting.html) on this site — the Olympic barbell sport of overhead lifting
+- [Strongman](strongman.html) on this site — the overall sport in which the event is contested
