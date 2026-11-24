@@ -1,21 +1,33 @@
 ## Basic Information
 
-Wado-ryu is the Japanese karate style founded by Hironori Otsuka in 1939 (with its roots in his earlier 1934 work): a style built on Shotokan-era karate technique fused with Otsuka's deep jujutsu heritage, famous for its evasion, body-shifting (tai sabaki) and the principle of taking the opponent's technique and posture rather than meeting force with force. One of the four original styles recognized in the modern karate style structure, Wado-ryu is practiced worldwide with international federations and championship traditions in both kumite and kata.
+Wadō-ryū is one of the four major traditional karate styles — alongside Shotokan, Gōjū-ryū and Shitō-ryū — founded by Hironori Ōtsuka (1892–1982), who fused his mastery of Shindō Yōshin-ryū jujutsu with Okinawan karate; the style is famous for tai sabaki (body-shifting and evasion) and the principle of redirecting the opponent's force rather than meeting it head-on — "wa" meaning harmony, not pacifism (Wadokai, n.d.; Wikipedia, n.d.). Women and men train in the same dojos and compete in parallel women's and men's kata and kumite divisions at every Wadō and WKF championship, and the style is governed internationally by Wadō organizations under the World Karate Federation's competition rules (World Karate Federation, n.d.).
+
+![Floor pattern of the kata Heian Yondan, practiced in Wadō-ryū](https://commons.wikimedia.org/wiki/Special:Redirect/file/Karate_Kata_Heian_Yondan_Pattern.jpg?width=480)
+
+*Figure: Haresh karate. (2017, October 6). Karate Kata Heian Yondan Pattern — the floor pattern of the kata Heian Yondan (Peaceful Way, 4th level), a core form of Wadō-ryū [Diagram]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Karate_Kata_Heian_Yondan_Pattern.jpg*
 
 ## Rules
 
-The style's practice centers on classical karate structure with Wado's distinctive method: kata (including the five Pinan series Wado refined from Okinawan originals, plus the advanced Kushanku and others), kihon (fundamentals of striking, kicking and evasion), idori and tanto-dori (kneeling and knife-defence paired forms preserved from jujutsu, unique to Wado) and kumite (sparring) emphasizing timing and the ten-i principle of evading and countering in one motion. Competition formats follow karate's standard division into kata (judged on precision, power and presentation) and free kumite (bouts scored for controlled strikes under WKF or federation rules), belts progress from kyu to dan grades under examining boards, and the style's federations hold world and national championships governing age and weight classes.
+Wadō-ryū practice centers on kata — including the five Pinan forms Ōtsuka refined from Okinawan originals, plus Naihanchi and Kushanku — kihon (fundamentals), and the jujutsu-derived paired forms idori (kneeling self-defence) and tantō-dori (knife defence) unique to the style, alongside kumite sparring that emphasizes evasion and countering in one motion (Wadokai, n.d.; Wikipedia, n.d.). Competition follows karate's standard split into kata (judged on precision, power, breathing and presentation) and kumite (scored bouts under WKF rules: yuko, waza-ari and ipon scoring, with weight classes, age categories and separate men's and women's divisions); grading runs from kyu to dan under examining boards (World Karate Federation, n.d.). The Wadō-ryū organizations hold national and world championships — the first World Wadō Cup was held in London in 1989 (Wikipedia, n.d.).
 
 ## History
 
-Hironori Otsuka (1892 to 1982) was already a master of Shindo Yoshin-ryu jujutsu when he began studying karate with Gichin Funakoshi in Tokyo in the 1920s, later refining his synthesis with Kenwa Mabuni and Choki Motobu's influence; he organized his own style first as Dai Nippon Karate-do Shinko Club in 1934 and formally registered Wado-ryu in 1939, the first karate style to diverge from the main Shotokan lineage. After the war Otsuka's system (his son Jiro continuing the leadership) spread worldwide through the Wado Kai and international organizations, with the style's practitioners prominent in early international karate competition; today Wado federations contest world championships while teaching the style's hallmark tenets: harmony, evasion and the fusion of hard striking arts with soft jujutsu principle.
+Hironori Ōtsuka was born on June 1, 1892, in Shimodate, Ibaraki Prefecture, began jujutsu at age five under his great-uncle Chojiro Ebashi, and studied Shindō Yōshin-ryū under Tatsusaburo Nakayama from 1905, receiving menkyo kaiden in 1921; he began training in Funakoshi's Shotokan karate in 1922 and also studied with Kenwa Mabuni and Chōki Motobu (Wadokai, n.d.; Wikipedia, n.d.). On April 1, 1934, Ōtsuka opened his own school, the Dai Nippon Karate Shinkō Kai in Kanda, Tokyo, blending Shotokan with Shindō Yōshin-ryū; his style was registered with the Dai Nippon Butoku Kai in 1938 under the name "Shinshu Wadō-ryū Karate-Jūjutsu" — reflecting its hybrid character — and in 1940 at the Butokukai in Kyoto, together with Shotokan, Shitō-ryū and Gōjū-ryū, under the shortened name Wadō-ryū (Wikipedia, n.d.). After the postwar ban on martial arts was lifted, Ōtsuka organized competitions and sent his students Tatsuo Suzuki, Toru Arakawa and Hajime Takashima on a 1964 tour of Europe and the United States; in 1972 he became the first karateka awarded the title Meijin, and in 1966 received the Order of the Rising Sun, Fifth Class (Wikipedia, n.d.). He died on January 29, 1982; his son Jiro Ōtsuka succeeded him as second grandmaster in 1983, taking the name Hironori Ōtsuka II (Wikipedia, n.d.).
 
 ## Sources
-- Wado International Karate-Do Federation. (n.d.). *History and syllabus*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wado-ryu
-- Wikipedia. (n.d.). *Wado-ryu*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wad%C5%8D-ry%C5%AB
-- Wikipedia. (n.d.). *Hironori Otsuka*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Hironori_%C5%8Ctsuka
+
+- Wadokai. (n.d.). *History of Wadō-ryū — founder Hironori Ōtsuka born June 1, 1892, in Shimodate, Ibaraki; Shindō Yōshin-ryū under Tatsusaburo Nakayama 1905–1921, menkyo kaiden 1921; Shotokan under Funakoshi; registered "Shinshu Wadō-ryū Karate-Jūjutsu" with the Dai Nippon Butoku Kai in 1938*. Retrieved November 23, 2026, from https://wadokai.dk/language/en/history/
+- Wikipedia. (n.d.). *Wadō-ryū — one of the four major karate styles; Ōtsuka (1892–1982); school Dai Nippon Karate Shinkō Kai opened April 1, 1934, Kanda, Tokyo; Butokukai registration 1940 with Shotokan, Shitō-ryū, Gōjū-ryū; Meijin 1972 (first karateka); Order of the Rising Sun 1966; 1964 Europe/US tour (Suzuki, Arakawa, Takashima); son Jiro Ōtsuka succeeded 1983 as Hironori Ōtsuka II; first World Wadō Cup London 1989; Pinan kata series, idori and tantō-dori*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wad%C5%8D-ry%C5%AB
+- World Karate Federation. (n.d.). *WKF — recognizes Wadō-ryū among the main styles; kata and kumite competition rules, scoring (yuko/waza-ari/ippon), weight classes, age categories, men's and women's divisions*. Retrieved November 23, 2026, from https://www.wkf.net/
+
+### Figure Index
+
+- Haresh karate. (2017, October 6). *Karate Kata Heian Yondan Pattern* [Diagram]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Karate_Kata_Heian_Yondan_Pattern.jpg (CC BY-SA 4.0)
 
 ## Important Links
-- [Karate](karate.html), [Shotokan karate](shotokan-karate.html) and [Shito-ryu karate](shito-ryu-karate.html) — style pages of the karate family, on this site
-- [Judo](judo.html) and jujutsu: Wado's soft heritage — on this site
-- Wado kata and competition formats — the style's disciplines, on this site
+
+- [World Karate Federation (WKF)](https://www.wkf.net/) — international competition rules for kata and kumite
+- [Wadokai](https://wadokai.dk/language/en/history/) — Wadō-ryū organization and history of the founder
+- [Karate](karate.html), [Shotokan karate](shotokan-karate.html), [Shitō-ryū karate](shito-ryu-karate.html) and [Gōjū-ryū karate](goju-ryu-karate.html) on this site — the four major styles
+- [Judo](judo.html) and [Brazilian jiu-jitsu](brazilian-jiu-jitsu.html) on this site — Wadō-ryū's jujutsu heritage
+- [Kyokushin karate](kyokushin-karate.html) on this site — the full-contact karate cousin

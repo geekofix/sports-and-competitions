@@ -1,21 +1,33 @@
 ## Basic Information
 
-Walking football is football's low-impact form for older players and those returning from injury: the classic small-sided game with one defining rule, no running (jogging, sprinting and jumping prohibited), played by mixed-age and over-50 communities in growing numbers worldwide. Developed in England in the 2010s, it is organized by national football bodies with dedicated leagues, festivals and international tournaments.
+Walking football is association football's low-impact variant, invented in England in 2011 by John Croot, chair of Chesterfield FC, whose Community Trust developed it as part of the Extra Time Initiative to keep over-50s active and combat social isolation — Chesterfield is recognized by a 2024 blue plaque as the birthplace of the sport (Chesterfield FC Community Trust, n.d.; Wikipedia, n.d.). The defining rule is the gait: no running or jogging at any time, with walking judged by at least one foot remaining on the ground while in motion, plus no physical contact and the ball kept below a set height (Football Association, n.d.). Today the game is played in roughly 80 countries, with the FA's Laws of Walking Football and the Walking Football Association's laws in England, UEFA's toolkit, and the Federation of International Walking Football Associations running the World Nations Cup; women's, mixed and over-50/60 categories all play, with thousands of weekly sessions across the UK (Wikipedia, n.d.).
+
+![Hereford FC's walking football team giving a half-time demonstration](https://commons.wikimedia.org/wiki/Special:Redirect/file/Walking_football.jpg?width=480)
+
+*Figure: Webb, R. (Geograph Britain and Ireland). (2019, August 13). Walking football — Hereford FC's walking football team putting on a half-time demonstration in Hereford, England [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Walking_football.jpg*
 
 ## Rules
 
-The laws adapt small-sided football: play is walking-only (the definition contested by one foot always in contact, with jogging and running penalized by a free kick to the opponent), the ball must stay below head height (a set height limit, often two metres), and physical contact is minimized with no tackling headers or sliding, free kicks from fouls, kick-ins instead of throw-ins and sin-bins for persistent breaches. Formats run five, six or seven-a-side on smaller pitches with modified goals (no offside, smaller ball in some circuits), matches are timed in two halves, and national and international rules govern age categories (over 50, over 60 and mixed), the definition of walking, height limits and penalty procedures.
+Under the FA's Laws of Walking Football, players must walk at all times — one foot on the ground whenever moving — and running or jogging is penalized with a free kick to the opponent; there is no deliberate physical contact, no tackling, no heading, and the ball must not be played above waist height (Football Association, n.d.). Play is small-sided — typically five to seven a side on a reduced pitch with smaller goals — kick-ins replace throw-ins, offside is usually not applied, and matches run in two timed halves (Football Association, n.d.; Wikipedia, n.d.). Age and gender categories are explicit: over-50s and over-60s are the classic divisions, and women's and mixed teams compete alongside men's in national cups and the World Nations Cup (Wikipedia, n.d.).
 
 ## History
 
-Walking football is credited to the Chesterfield-sanctioned community programs of 2011 in England (pilot sessions run to attract older players back to the game, often cited with the local Derbyshire roots), from where clubs, county associations and the national Football Association picked up the format; dedicated walking football associations formed, leagues and festivals spread across Britain, and international play (European and world festivals) emerged through the late 2010s. The sport's growth owes to public-health research on activity in older adults (the health benefits used to promote the format by football bodies worldwide and grow the game's base) and its status as one of the fastest-growing community football formats of recent decades, with tens of thousands of registered players in the sport's heartlands.
+The format was created in 2011 by John Croot at Chesterfield FC Community Trust after older club members asked for a version of football they could still play, and it came to wider public attention in July 2014 through a Barclays television advertisement (Wikipedia, n.d.). From Chesterfield the game spread through county FAs and community trusts across England, then internationally — national associations now exist in around 80 countries, UEFA published a walking football toolkit in 2025, and the Federation of International Walking Football Associations (FIWFA) organizes the World Nations Cup with men's and women's tournaments (Wikipedia, n.d.). Public-health research on staying active in later life underpins its promotion by football bodies worldwide, and it is now one of the fastest-growing community football formats, with Chesterfield's pioneering role marked by a blue plaque in 2024 (Chesterfield FC Community Trust, n.d.).
 
 ## Sources
-- The FA. (n.d.). *Walking football*. Retrieved November 21, 2026, from https://www.thefa.com/
-- Walking Football United. (n.d.). *Rules and festivals*. Retrieved November 21, 2026, from https://www.walkingfootballunited.co.uk/
-- Wikipedia. (n.d.). *Walking football*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Walking_football
+
+- Chesterfield FC Community Trust. (n.d.). *Walking football — developed by the Trust as part of the Extra Time Initiative in 2011 to remove running and keep over-50s active; world's first walking football club; blue plaque awarded 2024 marking Chesterfield as the birthplace of the sport*. Retrieved November 23, 2026, from https://cfcct.org.uk/walking-football/
+- Football Association. (n.d.). *The FA's Laws of Walking Football — no running (one foot on the ground at all times), no contact, no tackling, ball below waist height, kick-ins, small-sided formats, two halves*. Retrieved November 23, 2026, from https://www.thefa.com/
+- Wikipedia. (n.d.). *Walking football — invented 2011 by John Croot, Chair of Chesterfield FC; wider attention via the 2014 Barclays ad; FA Laws and Walking Football Association laws; UEFA toolkit 2025; FIWFA World Nations Cup; about 80 countries; over-50/60 categories plus women's and mixed teams*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Walking_football
+
+### Figure Index
+
+- Webb, R. (Geograph Britain and Ireland). (2019, August 13). *Walking football* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Walking_football.jpg (CC BY-SA 2.0)
 
 ## Important Links
-- [Football](football.html) — the parent game, on this site
-- [Walking rugby](walking-rugby.html) — the same format for rugby, on this site
-- Leagues, festivals and international walking football — the sport's structures, on this site
+
+- [The Football Association — Laws of Walking Football](https://www.thefa.com/)
+- [Chesterfield FC Community Trust — birthplace of walking football](https://cfcct.org.uk/walking-football/)
+- [Walking rugby](walking-rugby.html) on this site — the other major walking sport
+- [Football](football.html) on this site — the parent game
+- [Beach soccer](beach-soccer.html) and [Futsal](futsal.html) on this site — other small-sided football variants

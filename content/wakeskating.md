@@ -1,21 +1,31 @@
 ## Basic Information
 
-Wakeskating is wakeboarding's bindings-free sibling: riders stand on a grip-taped wakeskate (a smaller, lighter board covered like a skateboard deck) behind a boat or on a cable, using the same kickers, rails and wake airs but free to ollie, shuvit and flip the board under their feet. Popular since the early 2000s, it brings skateboard-style tricks to the water and contests a devoted professional scene through cable parks and boat sessions.
+Wakeskating is wakeboarding's bindings-free sibling: the rider stands on a smaller, lighter wakeskate — a board with a grip-taped or foam top like a skateboard deck and no foot straps — towed by boat or cable, and performs skateboarding-style tricks: ollies, shuvits, kickflips and board slides on kickers and rails (Wikipedia, n.d.; World Wake Association, n.d.). It emerged in the 1990s from wakeboarders' experiments with binding-free boards and is contested through cable parks, boat sessions and the world wake associations, with men's and women's divisions side by side at events (World Wake Association, n.d.).
+
+![A wakeskater launching off a jump at a cable park in Brühl, Germany](https://commons.wikimedia.org/wiki/Special:Redirect/file/Wakeskate.JPG?width=480)
+
+*Figure: Nabloking. (2012, June 22). Wakeskate — a wakeskater performing a jump start (Sprungstart) at the cable park in Brühl, Germany [Photograph]. Wikimedia Commons. CC0 1.0 (public domain). https://commons.wikimedia.org/wiki/File:Wakeskate.JPG*
 
 ## Rules
 
-Equipment is the core difference: the wakeskate has no bindings, with a foam or grip-tape top surface the rider's shoes (or bare feet, in some styles) stand on, so tricks draw on skateboarding's ollie-based vocabulary rather than the strapped-in flips of wakeboarding. Competition formats are judged similar to wakeboarding (a timed run at the cable, hit features, or two boat passes) with scoring on style, difficulty, consistency and the flow of the line, and falls end a pass; the rules of the organizing bodies (cable circuits and the world wake associations) govern obstacle use, run lengths and judging standards for men's, women's and open divisions.
+The defining rule is the equipment: no bindings — the rider's shoes stand freely on the gripped deck, so the board can be flipped and shuvited under the feet exactly as on a skateboard, unlike the strapped-in flips of wakeboarding (Wikipedia, n.d.). Competition formats mirror wakeboarding: at cable parks riders run a timed line hitting kickers, rails and other features, and boat events use the boat's wake; judging scores style, difficulty, consistency and flow, and a fall ends the run (World Wake Association, n.d.). Event organizers publish obstacle, run-length and judging standards, and divisions are open or split by gender and age at the larger series (World Wake Association, n.d.).
 
 ## History
 
-Wakeskating evolved in the 1990s from wakeboarders' experiments with binding-free, skateboard-styled boards, with the first purpose-built wakeskates (gripped, smaller profiles) popularized by the Hyperlite-era manufacturers and the sport's early X Games-era coverage. The 2000s brought the wakeskate boom (cable parks, DVD film culture from the wakeskate film era that made its stars legends of the sport) with features like the kicker and flat-bar becoming both a training and contest staple; the sport's commitment to technical flat-ground tricks, independence and style has kept it a smaller but devoted scene that shares water with its strapped sibling, still admired as the purest translation of skateboarding to the lake.
+Wakeskating evolved in the 1990s out of wakeboarding culture as riders — many of them skateboarders — began removing the bindings to bring skate tricks to the water; the first purpose-built wakeskates, smaller gripped decks, were popularized by board manufacturers in the late 1990s and early 2000s, and the sport grew a devoted scene around cable parks and boat sessions, with its own film and contest culture alongside wakeboarding's boom (Wikipedia, n.d.). Because a wakeskate can be ridden like a small surf/skate hybrid off the wake as well as on features, it became the entry point for many skateboarders into towed water sports, and it remains a distinct discipline contested at world wake series events (World Wake Association, n.d.).
 
 ## Sources
-- World Wake Association. (n.d.). *Wakeskating events*. Retrieved November 21, 2026, from https://www.thewwa.com/
-- Wikipedia. (n.d.). *Wakeskating*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wakeskating
-- Wikipedia. (n.d.). *The wakeskating scene and its riders*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wakeskating
+
+- Wikipedia. (n.d.). *Wakeskating — binding-free adaptation of wakeboarding that emerged in the 1990s from wakeboarders' experiments with skateboard-style decks; grip-taped/foam-top boards; ollie-based trick vocabulary; cable-park and boat contests*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wakeskating
+- World Wake Association. (n.d.). *Wakeskating events — cable and boat series, features (kickers, rails), run formats, judging standards (style, difficulty, consistency, flow), men's and women's divisions*. Retrieved November 23, 2026, from https://www.thewwa.com/
+
+### Figure Index
+
+- Nabloking. (2012, June 22). *Wakeskate* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Wakeskate.JPG (CC0 1.0)
 
 ## Important Links
-- [Wakeboarding](wakeboarding.html) — the parent sport with bindings, on this site
-- [Wakesurfing](wakesurfing.html) — the third of the towed-board siblings, on this site
-- [Skateboarding](skateboarding.html) — the land discipline wakeskating imitates, on this site
+
+- [World Wake Association (WWA)](https://www.thewwa.com/) — events and series for wakeskating
+- [Wakeboarding](wakeboarding.html) on this site — the strapped-in parent sport
+- [Wakesurfing](wakesurfing.html) on this site — the third towed-board sibling
+- [Skateboarding](skateboarding.html) on this site — the land discipline wakeskating imitates
