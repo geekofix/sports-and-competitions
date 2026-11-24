@@ -22,9 +22,9 @@ Archers shoot one arrow per target — two arrows per target at World Archery 3D
 - International Bowhunting Organization. (n.d.). *IBO — rules and tournaments*. Retrieved November 21, 2026, from https://ibohunt.com/
 - National Field Archery Association. (n.d.). *NFAA constitution — official rounds (3-D rules and regulations)*. Retrieved November 21, 2026, from https://nfaausa.com/about/constitution/official-nfaa-rounds
 - USA Archery. (n.d.). *USA Archery — national governing body*. Retrieved November 21, 2026, from https://www.usashooting.org/
+- Wikipedia. (n.d.). *3D archery*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/3D_archery
 - World Archery. (n.d.-a). *Field and 3D archery*. Retrieved November 21, 2026, from https://worldarchery.sport/
 - World Archery. (n.d.-b). *2026 World Archery 3D Championships, Yankton*. Retrieved November 21, 2026, from https://worldarchery.sport/competition/29775
-- Wikipedia. (n.d.). *3D archery*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/3D_archery
 
 ### Figure Index
 

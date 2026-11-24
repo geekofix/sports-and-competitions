@@ -16,7 +16,7 @@ Robert G. Reid of Hanover, Pennsylvania, conceived the game around 1999, filed t
 
 ## Sources
 
-- Ladder Golf LLC. (n.d.-a). *Official rules of Ladder Golf — ladders, bolas, scoring to 21, bust rule*. Retrieved November 22, 2026, from https://www.laddergolf.com/
+- Ladder Golf LLC. (n.d.). *Official rules of Ladder Golf — ladders, bolas, scoring to 21, bust rule*. Retrieved November 22, 2026, from https://www.laddergolf.com/
 - Wikipedia. (n.d.-a). *Ladder toss*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ladder_toss
 - Wikipedia. (n.d.-b). *Ladder toss — Robert G. Reid patent 1999/2002, Ladder Golf LLC 2005, first tournament San Diego 2005, house variations*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ladder_toss
 

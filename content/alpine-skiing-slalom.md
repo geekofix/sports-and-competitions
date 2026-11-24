@@ -1,6 +1,6 @@
 ## Basic Information
 
-Slalom (SL) is the most technical alpine skiing discipline: the shortest course with the tightest, quickest turns around a series of gates set in pairs, raced twice with the times combined. It is governed by the FIS and has been an Olympic event since Garmisch-Partenkirchen 1936 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.).
+Slalom (SL) is the most technical alpine skiing discipline: the shortest course with the tightest, quickest turns around a series of gates set in pairs, raced twice with the times combined. It is governed by the FIS and has been an Olympic event since Garmisch-Partenkirchen 1936 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.) (International Ski and Snowboard Federation, n.d.-a) (International Ski and Snowboard Federation, n.d.-b) (International Ski and Snowboard Federation, n.d.-c).
 
 Among the athletes who shape the discipline today, the leading women come first: the United States' Mikaela Shiffrin — with more than 100 World Cup victories the most successful alpine skier of all time — won Olympic slalom gold at Milano-Cortina 2026 in 1:39.10. Among the men, Switzerland's Loïc Meillard took Olympic gold in 1:53.61, ahead of Austria's Fabio Gstrein and Norway's Henrik Kristoffersen (FIS, n.d.-a; FIS, n.d.-b).
 

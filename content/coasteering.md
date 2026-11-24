@@ -6,6 +6,8 @@ Coasteering is an outdoor adventure sport in which participants travel along a s
 
 *Figure: ITookSomePhotos. (2026, June 16). Coasteering at Dancing Ledge, Dorset, England (1) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Coasteering_at_Dancing_Ledge,_Dorset,_England_(1).jpg*
 
+Women and men coasteer in the same races, with women competing at elite level.
+
 ## Rules
 
 Coasteering has no single official rulebook because there is no world federation; in the UK the de facto standard is the National Coasteering Charter's safety guidance, developed with the RNLI and RoSPA, which governs guided groups (National Coasteering Charter, n.d.). Participants wear a 4–5 mm wetsuit, a helmet certified to BS EN 1385 (water sports helmet), a buoyancy aid / personal flotation device and closed-toe footwear that is secured so it cannot be lost in the surf; the group stays together under a qualified guide (National Coasteering Charter, n.d.; Wikipedia, n.d.). Entry requirements for guided sessions are typically a minimum age of about 10 years and the ability to swim 25 m confidently in open water; younger children join family "mini" routes (National Coasteering Charter, n.d.). Routes are graded for difficulty, and timed races exist on some coasts, but the standard activity is untimed and non-competitive — the "rules" are really safety rules: stay within the group, jump only where the guide has checked depth, and never enter the water alone (National Coasteering Charter, n.d.). There are no gender or age categories in competition because coasteering is predominantly a guided leisure activity open to mixed groups; organized races, where they exist, are usually mixed or split simply into adult and junior classes (Wikipedia, n.d.).

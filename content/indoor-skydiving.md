@@ -18,7 +18,7 @@ The vertical wind tunnel was invented for military parachute training: the first
 
 ## Sources
 
-- Fédération Aéronautique Internationale. (n.d.-a). *Indoor skydiving (bodyflying) — FAI World Cup, World Championships and competition regulations*. Retrieved November 22, 2026, from https://www.fai.org/
+- Fédération Aéronautique Internationale. (n.d.). *Indoor skydiving (bodyflying) — FAI World Cup, World Championships and competition regulations*. Retrieved November 22, 2026, from https://www.fai.org/
 - The Wind Games. (n.d.). *The Wind Games — annual bodyflying competition, results and athletes*. Retrieved November 22, 2026, from https://thewindgames.com/
 - Wikipedia. (n.d.-a). *Indoor skydiving*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indoor_skydiving
 - Wikipedia. (n.d.-b). *Indoor skydiving — history of vertical wind tunnels, WISC 2014/2015, disciplines and icons*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indoor_skydiving

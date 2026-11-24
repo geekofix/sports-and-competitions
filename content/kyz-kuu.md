@@ -18,7 +18,7 @@ Kyz kuu belongs to the equestrian traditions of the Turkic peoples of the steppe
 
 - Wikipedia. (n.d.-a). *Kyz kuu*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyz_kuu
 - Wikipedia. (n.d.-b). *Kyz kuu — chase rules, kiss and whip, World Nomad Games 2014/2026, CENTRASBAT 2000*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyz_kuu
-- World Nomad Games. (n.d.-a). *World Nomad Games — equestrian programme incl. kyz kuu, 2026 Cholpon-Ata*. Retrieved November 22, 2026, from https://worldnomadgames.org/
+- World Nomad Games. (n.d.). *World Nomad Games — equestrian programme incl. kyz kuu, 2026 Cholpon-Ata*. Retrieved November 22, 2026, from https://worldnomadgames.org/
 
 ### Figure Index
 

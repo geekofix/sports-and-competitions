@@ -1,6 +1,6 @@
 ## Basic Information
 
-Drag racing is a straight-line acceleration contest in which two vehicles race side by side over a measured 1,000-foot (305 m) course from a standing start, with the first across the finish line \u2014 or the one closer to its dial-in in handicap classes \u2014 winning (NHRA, n.d.-b). In the United States the sport is governed by the National Hot Rod Association (NHRA), founded by Wally Parks in 1951, whose 2026 Mission Foods Drag Racing Series marked the 71st season and the NHRA's 75th anniversary with 20 national events (NHRA, n.d.-b). The 2026 champions were crowned at the In-N-Out Burger NHRA Finals in Pomona, California: Shawn Langdon (Top Fuel, his second title), J.R. Todd (Funny Car, his second), Dallas Glenn (Pro Stock, his second straight) and Gaige Herrera (Pro Stock Motorcycle) \u2014 while 16-time Funny Car champion John Force retired after the 2025 season (NHRA, n.d.-a). Internationally, the FIA also sanctions professional drag racing (FIA, n.d.). At the end of 2026, the leading current drivers are the 2026 NHRA champions named above, with Top Fuel world champion Shawn Langdon and Funny Car champion J.R. Todd leading the fields (NHRA, n.d.-a).
+Drag racing is a straight-line acceleration contest in which two vehicles race side by side over a measured 1,000-foot (305 m) course from a standing start, with the first across the finish line \u2014 or the one closer to its dial-in in handicap classes \u2014 winning (NHRA, n.d.-b). In the United States the sport is governed by the National Hot Rod Association (NHRA), founded by Wally Parks in 1951, whose 2026 Mission Foods Drag Racing Series marked the 71st season and the NHRA's 75th anniversary with 20 national events (NHRA, n.d.-b). The 2026 champions were crowned at the In-N-Out Burger NHRA Finals in Pomona, California: Shawn Langdon (Top Fuel, his second title), J.R. Todd (Funny Car, his second), Dallas Glenn (Pro Stock, his second straight) and Gaige Herrera (Pro Stock Motorcycle) \u2014 while 16-time Funny Car champion John Force retired after the 2025 season (NHRA, n.d.-a). Internationally, the FIA also sanctions professional drag racing (FIA, n.d.). At the end of 2026, the leading current drivers are the 2026 NHRA champions named above, with Top Fuel world champion Shawn Langdon and Funny Car champion J.R. Todd leading the fields (NHRA, n.d.-a) — the sections below cover rules, history and more.
 
 ![Drag racing cars side by side at Firebird Motorsports Park](https://commons.wikimedia.org/wiki/Special:Redirect/file/Drag_Racing_Cars.jpg?width=560)
 
@@ -9,6 +9,8 @@ Drag racing is a straight-line acceleration contest in which two vehicles race s
 ![Opening competition drag race in Tiraspol, 2019](https://commons.wikimedia.org/wiki/Special:Redirect/file/Competition_Drag_Racing.jpg?width=560)
 
 *Figure: Natalia Bazilenco. (2019, May 11). Competition Drag Racing [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Competition_Drag_Racing.jpg*
+
+Women compete as drivers at every level of drag racing, including the NHRA's top professional classes.
 
 ## Rules
 

@@ -16,10 +16,10 @@ Tanding developed from the combative side of Indonesian silat as the art was sta
 
 ## Sources
 
-- International Pencak Silat Federation (IPSF-PERSILAT). (2026, February 25). *Competition rules and regulations — tanding categories*. Retrieved November 22, 2026, from https://worldpencaksilat.org/wp-content/uploads/2026/02/IPSF-PERSILAT-Competition-Rules-Regs-25-Feb-2026.pdf
 - International Pencak Silat Federation (IPSF-PERSILAT). (n.d.). *Rules and regulations*. Retrieved November 22, 2026, from https://worldpencaksilat.org/rules-regulations/
+- International Pencak Silat Federation (IPSF-PERSILAT). (2026). *Competition rules and regulations — tanding categories*. Retrieved November 22, 2026, from https://worldpencaksilat.org/wp-content/uploads/2026/02/IPSF-PERSILAT-Competition-Rules-Regs-25-Feb-2026.pdf
 - National Olympic Committee of Indonesia. (2025). *SEA Games Thailand 2025: Pencak silat technical handbook*. Retrieved November 22, 2026, from https://nocindonesia.ap-south-1.linodeobjects.com/document/sea-games-thailand-2025---technical-handbook---pencak-silat-1757308654.pdf
-- Singapore Silat Federation. (2024, April 17). *Pesta Sukan 2024: Pencak silat competition rules and regulations*. Retrieved November 22, 2026, from https://6212555.fs1.hubspotusercontent-na1.net/hubfs/6212555/Pesta%20Sukan%202024/Rules%20and%20Regulations/Silat/PESTA%20SUKAN%202024%20RULES%20AND%20REGULATIONS_17April.pdf
+- Singapore Silat Federation. (2024). *Pesta Sukan 2024: Pencak silat competition rules and regulations*. Retrieved November 22, 2026, from https://6212555.fs1.hubspotusercontent-na1.net/hubfs/6212555/Pesta%20Sukan%202024/Rules%20and%20Regulations/Silat/PESTA%20SUKAN%202024%20RULES%20AND%20REGULATIONS_17April.pdf
 - Wikipedia. (n.d.). *Pencak silat at the 2011 Southeast Asian Games*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pencak_silat_at_the_2011_SEA_Games
 
 ### Figure Index

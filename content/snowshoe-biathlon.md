@@ -1,6 +1,6 @@
 ## Basic Information
 
-Snowshoe biathlon combines a snowshoe race with rifle shooting: athletes run a set distance on snowshoes, stop at a shooting range for prone and standing bouts with a .22-calibre rifle, and run a penalty loop for every missed target (IBU, n.d.). The discipline follows the biathlon shooting model on snowshoes instead of skis and is practised mainly in Finland, Norway and North America, where it appears in winter multisport programmes — in the World Quadrathlon Federation's winter events, snowshoeing replaces the running leg — and in national snowshoe series (Wikipedia, n.d.-b; Wikipedia, n.d.-c). Women's and men's races are held over the same course layouts with the same shooting format.
+Snowshoe biathlon combines a snowshoe race with rifle shooting: athletes run a set distance on snowshoes, stop at a shooting range for prone and standing bouts with a .22-calibre rifle, and run a penalty loop for every missed target (IBU, n.d.). The discipline follows the biathlon shooting model on snowshoes instead of skis and is practised mainly in Finland, Norway and North America, where it appears in winter multisport programmes — in the World Quadrathlon Federation's winter events, snowshoeing replaces the running leg — and in national snowshoe series (Wikipedia, n.d.-b; Wikipedia, n.d.-c). Women's and men's races are held over the same course layouts with the same shooting format (Wikipedia, n.d.-a).
 
 ## Rules
 

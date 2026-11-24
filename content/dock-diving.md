@@ -1,10 +1,12 @@
 ## Basic Information
 
-Dock diving is a competitive dog sport in which a dog runs down a raised dock and leaps into a pool of water, judged on the distance of the jump, the height of the leap or the speed of a toy retrieval (DockDogs, n.d.-b). The leading sanctioning body is DockDogs, founded in 2003 by Grant Suskie, which runs more than 200 events a year across North America and Europe and stages the annual DockDogs World Championship \u2014 the 2026 edition in Madison, Wisconsin \u2014 while the USDAA (United States Dog Agility Association) also sanctions dock jumping within its performance program (DockDogs, n.d.-b; DockDogs, n.d.-a; USDAA, n.d.). The main divisions are Big Air (a long jump measured from the dock edge to where the dog's tail base breaks the water surface), Extreme Vertical (height of the leap after a suspended bumper), Speed Retrieve (retrieving a toy within 60 seconds) and the Iron Dog all-around title combining the three (DockDogs, n.d.-b). Junior divisions allow young handlers to compete with their dogs under supervision (DockDogs, n.d.-a).
+Dock diving is a competitive dog sport in which a dog runs down a raised dock and leaps into a pool of water, judged on the distance of the jump, the height of the leap or the speed of a toy retrieval (DockDogs, n.d.-b). The leading sanctioning body is DockDogs, founded in 2003 by Grant Suskie, which runs more than 200 events a year across North America and Europe and stages the annual DockDogs World Championship \u2014 the 2026 edition in Madison, Wisconsin \u2014 while the USDAA (United States Dog Agility Association) also sanctions dock jumping within its performance program (DockDogs, n.d.-b; DockDogs, n.d.-a; USDAA, n.d.). The main divisions are Big Air (a long jump measured from the dock edge to where the dog's tail base breaks the water surface), Extreme Vertical (height of the leap after a suspended bumper), Speed Retrieve (retrieving a toy within 60 seconds) and the Iron Dog all-around title combining the three (DockDogs, n.d.-b). Junior divisions allow young handlers to compete with their dogs under supervision (DockDogs, n.d.-a) — the sections below cover rules, history and more.
 
 ![A dog mid-leap during a dock jumping competition](https://commons.wikimedia.org/wiki/Special:Redirect/file/Gauge_Dock_Jumping.jpg?width=360)
 
 *Figure: Victoria Rak. (2011, September 27). Gauge Dock Jumping [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Gauge_Dock_Jumping.jpg*
+
+Women and men compete in separate and mixed categories at dock diving events.
 
 ## Rules
 

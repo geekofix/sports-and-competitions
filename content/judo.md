@@ -16,7 +16,7 @@ Jigoro Kano, a jujutsu expert of the Tenjin Shinyo-ryu and Kito-ryu schools, ope
 
 ## Sources
 
-- International Judo Federation. (n.d.-a). *IJF — contest rules 2026–28 (ippon, waza-ari, yuko, hansoku-make, golden score), weight classes, World Championships, World Judo Tour*. Retrieved November 22, 2026, from https://www.ijf.org/
+- International Judo Federation. (n.d.). *IJF — contest rules 2026–28 (ippon, waza-ari, yuko, hansoku-make, golden score), weight classes, World Championships, World Judo Tour*. Retrieved November 22, 2026, from https://www.ijf.org/
 - International Olympic Committee. (n.d.). *Judo at the Olympic Games — Tokyo 1964 men, Barcelona 1992 women*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports?slug=judo
 - Kodokan. (n.d.). *Kodokan — founded 1882 by Jigoro Kano, history and principles*. Retrieved November 22, 2026, from https://www.kodokan.org/
 - Wikipedia. (n.d.-a). *Judo*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Judo

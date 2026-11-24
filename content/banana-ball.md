@@ -8,6 +8,8 @@ Banana Ball keeps baseball's core — nine innings, three outs, balls and strike
 
 *Figure: baseballmapper. (2021, March 27). Party Animals at Savannah Bananas, 2021 [Photograph]. Wikimedia Commons. CC0 1.0 (public domain). https://commons.wikimedia.org/wiki/File:Party_Animals_at_Savannah_Bananas,_2021-03-27_170717.jpg*
 
+The game is open to women and men alike in mixed teams.
+
 ## Rules
 
 Under the official Banana Ball rules, each of the nine innings starts with a "bat-off": both leadoff hitters swing simultaneously and whoever hits farther leads off. Foul balls count as strikes (except on a third strike, which is not an out), and a foul ball caught by a fan in the stands is an out. If a pitcher walks a batter, the catcher may throw the ball down to get the runner out at any base — "steal first" is automatic on an uncaught third strike, and the batter becomes a runner. There is no bunting, no mound visits, and no slide-in restrictions beyond safety; games are typically two hours, and if tied after nine innings, extra innings are decided by the bat-off winner hitting first (Banana Ball, n.d.-a).

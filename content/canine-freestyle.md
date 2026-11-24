@@ -10,6 +10,8 @@ Canine freestyle — also called musical canine freestyle, freestyle dance or, i
 
 *Figure: Sat-Electric. (2015, August 23). Canine freestyle — dancing with a dog, Sokolniki show, Moscow [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Canine_freestyle.JPG*
 
+Women and men compete together in canine freestyle, and many of the sport's top handlers and choreographers are women.
+
 ## Rules
 
 In heelwork to music, the dog must remain in heel position — close to the handler on either side or in face-to-face and other close positions — for at least two-thirds of the routine; judges deduct 0.1–1.0 points from the technical-merit score for each loss of heelwork proximity. In freestyle, at least two-thirds of the routine is free movement: leg weaving, distance work, jumps, spins, bowing, rolling and finishing tricks such as jumping into the handler's arms are allowed. Routines typically last 1.5–2.5 minutes, are performed off-leash with no food or training aids, and are judged on technical content, artistic interpretation of the music and teamwork; musicality matters — routines that do not follow the rhythm score poorly (WCFO, n.d.). Competitions run in classes (novice, intermediate, advanced; HTM and freestyle divisions), with qualification for the Crufts finals through premier shows during the year; single dog-and-handler, pairs and teams of three or more may compete. At the FCI Dog Dancing World Championship the same HTM/freestyle split is used with national teams and individual titles (The Kennel Club, n.d.; World Dog Show 2026, n.d.). Exhibition freestyle (with props, cues and costumes) is allowed only outside championship classes (WCFO, n.d.).
@@ -22,8 +24,8 @@ Musical canine freestyle began almost simultaneously around 1989 in Canada, Engl
 
 - The Kennel Club. (n.d.). *Heelwork to music — Crufts 2026 finals and qualifying*. Retrieved November 22, 2026, from https://www.crufts.org.uk/dog-exhibitors/heelwork-to-music
 - WCFO — World Canine Freestyle Organization. (n.d.). *Heelwork to music rules*. Retrieved November 22, 2026, from https://www.worldcaninefreestyle.org/heelwork-to-music
-- World Dog Show 2026. (n.d.). *FCI Dog Dancing World Championship, Bologna, 4–7 June 2026*. Retrieved November 22, 2026, from https://wds2026.it/en/fci-dog-dancing-world-championship/overview
 - Wikipedia. (n.d.). *Musical canine freestyle*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Musical_canine_freestyle
+- World Dog Show 2026. (n.d.). *FCI Dog Dancing World Championship, Bologna, 4–7 June 2026*. Retrieved November 22, 2026, from https://wds2026.it/en/fci-dog-dancing-world-championship/overview
 
 ### Figure Index
 

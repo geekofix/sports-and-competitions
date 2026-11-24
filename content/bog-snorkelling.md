@@ -19,7 +19,7 @@ The World Bog Snorkelling Championships were first held in 1985 at Llanwrtyd Wel
 ## Sources
 
 - BBC. (2026). *World Bog Snorkelling Championships 2026, Llanwrtyd Wells*. Retrieved November 21, 2026, from https://www.bbc.co.uk/news/articles/cpdzy9vqw70o
-- Green Events. (n.d.-a). *World Bog Snorkelling Championships — rules, records and history*. Retrieved November 21, 2026, from https://www.greenevents.co.uk/
+- Green Events. (n.d.). *World Bog Snorkelling Championships — rules, records and history*. Retrieved November 21, 2026, from https://www.greenevents.co.uk/
 
 ### Figure Index
 

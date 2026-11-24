@@ -17,7 +17,7 @@ Despite a supposed manuscript of rules from 1585, the game was in fact invented 
 ## Sources
 
 - BBC. (n.d.). *The art of dwile flonking*. Retrieved November 22, 2026, from https://www.bbc.com/suffolk/going_out/pubs/2003/09/dwile_flonking/introduction.shtml
-- Wikipedia. (n.d.-a). *Dwile flonking*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dwile_flonking
+- Wikipedia. (n.d.). *Dwile flonking*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dwile_flonking
 - Worldwide Words. (n.d.). *Dwile flonking: English pub game origins and rules*. Retrieved November 22, 2026, from https://www.worldwidewords.org/ww-dwi1.html
 
 ### Figure Index

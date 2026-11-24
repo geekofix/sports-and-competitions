@@ -16,9 +16,9 @@ Organized pillow fighting predates the PFC in several forms: a World Pillow Figh
 
 ## Sources
 
-- Guinness World Records. (2022, September). *Pro pillow fighting: All you need to know about the new combat sport*. Retrieved November 22, 2026, from https://www.guinnessworldrecords.com/news/2022/9/pro-pillow-fighting-all-you-need-to-know-about-the-new-combat-sport-716160
+- Guinness World Records. (2022). *Pro pillow fighting: All you need to know about the new combat sport*. Retrieved November 22, 2026, from https://www.guinnessworldrecords.com/news/2022/9/pro-pillow-fighting-all-you-need-to-know-about-the-new-combat-sport-716160
 - Pillow Fight Championship. (n.d.). *Official PFC rules*. Retrieved November 22, 2026, from https://fightpfc.com/rules/
-- Sporting News. (2022, January). *Pillow Fight Championship rules, explained*. Retrieved November 22, 2026, from https://www.sportingnews.com/us/tsn/news/pillow-fight-championship-rules-mixed-martial-arts-cushions/813dfbe4b1ea0762b8a70b3f
+- Sporting News. (2022). *Pillow Fight Championship rules, explained*. Retrieved November 22, 2026, from https://www.sportingnews.com/us/tsn/news/pillow-fight-championship-rules-mixed-martial-arts-cushions/813dfbe4b1ea0762b8a70b3f
 - Wikipedia. (n.d.). *Pillow fight*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pillow_fight
 
 ### Figure Index

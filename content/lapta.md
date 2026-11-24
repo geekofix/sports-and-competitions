@@ -12,7 +12,7 @@ Lapta is documented as early as the 14th century: mentions appear in medieval ma
 
 ## Sources
 
-- All-Russian Lapta Federation. (n.d.-a). *Rules and organization of Russian lapta — federation founded 2003, 46 regions, championships since 1990*. Retrieved November 22, 2026, from https://ruslapta.ru/
+- All-Russian Lapta Federation. (n.d.). *Rules and organization of Russian lapta — federation founded 2003, 46 regions, championships since 1990*. Retrieved November 22, 2026, from https://ruslapta.ru/
 - Wikipedia. (n.d.-a). *Lapta (game)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lapta_(game)
 - Wikipedia. (n.d.-b). *Lapta (game) — 14th-century Novgorod finds, Peter the Great, championships 1958, decree 1986*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lapta_(game)
 

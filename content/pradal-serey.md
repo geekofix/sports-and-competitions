@@ -17,8 +17,8 @@ The art descends from the hand-to-hand combat systems of the Khmer Empire, depic
 ## Sources
 
 - Khmer Boxing Phnom Penh. (n.d.). *Kun Khmer: rules and rituals — ring, five three-minute rounds, clinch, scoring, Cambodian Boxing Federation*. Retrieved November 23, 2026, from https://khmerboxingphnompenh.com/guides/kun-khmer-rules-rounds-and-rituals/
-- Wikipedia. (n.d.-b). *Kun Khmer — five rounds of three minutes, elbows, clinch, judges scoring, weight classes, Kun Khmer name adopted 2001, SEA Games 2023 debut with women's events*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer
 - Wikipedia. (n.d.-a). *Kun Khmer at the 2023 SEA Games — medal-sport debut; Angkor Wat bas-reliefs origins, Bokator ancestor, Khmer Rouge ban, 1980s revival*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer_at_the_2023_SEA_Games
+- Wikipedia. (n.d.-b). *Kun Khmer — five rounds of three minutes, elbows, clinch, judges scoring, weight classes, Kun Khmer name adopted 2001, SEA Games 2023 debut with women's events*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Kun_Khmer
 
 ### Figure Index
 

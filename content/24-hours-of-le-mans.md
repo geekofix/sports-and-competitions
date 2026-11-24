@@ -1,6 +1,6 @@
 ## Basic Information
 
-The 24 Hours of Le Mans is the world's oldest active endurance race, held annually since 1923 on the Circuit de la Sarthe near Le Mans, France. It is organized by the Automobile Club de l'Ouest (ACO), forms the centerpiece rounds of the FIA World Endurance Championship — see also [World Endurance Championship](world-endurance-championship.html) on this site — and is one leg of motorsport's Triple Crown alongside the Monaco Grand Prix and the Indianapolis 500.
+The 24 Hours of Le Mans is the world's oldest active endurance race, held annually since 1923 on the Circuit de la Sarthe near Le Mans, France. It is organized by the Automobile Club de l'Ouest (ACO), forms the centerpiece rounds of the FIA World Endurance Championship — see also [World Endurance Championship](world-endurance-championship.html) on this site — and is one leg of motorsport's Triple Crown alongside the Monaco Grand Prix and the Indianapolis 500 (FIA World Endurance Championship, n.d.-a) (FIA World Endurance Championship, n.d.-b).
 
 The most recent edition, held on 13–14 June 2026, was won by the No. 7 Toyota GR010 Hybrid of Mike Conway, Kamui Kobayashi and Nyck de Vries, ending Ferrari's three-year winning streak of 2023–2025 (FIA World Endurance Championship [FIA WEC], n.d.-b). Among the current top teams is the all-female Iron Dames squad, which races a Lamborghini in the LMGT3 class.
 
@@ -36,7 +36,7 @@ The manufacturer eras came in waves: Bentley and Alfa Romeo dominated the interw
 
 - Automobile Club de l'Ouest. (n.d.). *24 Hours of Le Mans — official race website*. Retrieved November 21, 2026, from https://www.24h-lemans.com/en/
 - Automobile Club de l'Ouest. (2025). *2025 24 Hours of Le Mans — supplementary regulations (Version 2)*. https://assets.lemans.org/explorer/pdf/courses/2025/24-heures-du-mans/regulations/2025-24-hours-of-le-mans-supplementary-regulations.pdf
-- DailySportcar. (2025, June 11). *2025 Le Mans 24 Hours special regulations, an overview*. https://www.dailysportscar.com/2025/06/11/2025-le-mans-24-hours-special-regulations-an-overview.html
+- DailySportcar. (2025). *2025 Le Mans 24 Hours special regulations, an overview*. https://www.dailysportscar.com/2025/06/11/2025-le-mans-24-hours-special-regulations-an-overview.html
 - Encyclopedia Britannica. (n.d.). *24 Hours of Le Mans*. Retrieved November 21, 2026, from https://www.britannica.com/sports/24-Hours-of-Le-Mans
 - FIA World Endurance Championship. (n.d.-a). *FIA World Endurance Championship*. Retrieved November 21, 2026, from https://www.fiawec.com/
 - FIA World Endurance Championship. (n.d.-b). *Standings and race results*. Retrieved November 21, 2026, from https://www.fiawec.com/en/page/manufacturers-classification

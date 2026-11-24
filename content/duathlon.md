@@ -16,7 +16,7 @@ Duathlon developed in the 1980s when multisport athletes began dropping the swim
 
 ## Sources
 
-- Wikipedia. (n.d.-a). *Duathlon*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Duathlon
+- Wikipedia. (n.d.). *Duathlon*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Duathlon
 - World Triathlon. (n.d.-a). *Duathlon formats and competition rules*. Retrieved November 22, 2026, from https://triathlon.org/sports/duathlon/
 - World Triathlon. (n.d.-b). *World Triathlon Duathlon Championships 2026 Abu Dhabi — results*. Retrieved November 22, 2026, from https://triathlon.org/
 

@@ -16,7 +16,7 @@ Imi Lichtenfeld, born 26 May 1910 in Budapest and died 9 January 1998 in Netanya
 
 ## Sources
 
-- International Krav Maga Federation. (n.d.-a). *About the IKMF — founded 1996, grading system Practitioner/Graduate/Expert, curricula*. Retrieved November 22, 2026, from https://kravmaga-ikmf.com/
+- International Krav Maga Federation. (n.d.). *About the IKMF — founded 1996, grading system Practitioner/Graduate/Expert, curricula*. Retrieved November 22, 2026, from https://kravmaga-ikmf.com/
 - Wikipedia. (n.d.-a). *Krav Maga*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Krav_Maga
 - Wikipedia. (n.d.-b). *Krav Maga — Lichtenfeld 1910–1998, Bratislava 1930s, Wingate Institute 1948–1964, IKMA 1978, IKMF 1996, KMG 2010*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Krav_Maga
 

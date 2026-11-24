@@ -17,7 +17,7 @@ Extreme ironing was invented in 1997 in Leicester, England, by Chris Mills, who 
 ## Sources
 
 - Extreme Ironing Bureau. (n.d.). *Extreme ironing world championships — rules, categories and history*. Retrieved November 22, 2026, from https://www.extremeironing.com/
-- Wikipedia. (n.d.-a). *Extreme ironing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Extreme_ironing
+- Wikipedia. (n.d.). *Extreme ironing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Extreme_ironing
 
 ### Figure Index
 

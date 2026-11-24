@@ -1,6 +1,6 @@
 ## Basic Information
 
-Eventing is the equestrian triathlon: each horse-and-rider combination contests three phases — dressage, cross-country and show jumping — over one to four days, and the pair with the fewest penalty points wins (Fédération Equestre Internationale [FEI], n.d.-b). It is governed worldwide by the FEI and is one of the three Olympic equestrian disciplines. At the FEI World Championships Aachen 2026, 11–23 August 2026, Great Britain took the eventing team gold with Rosalind Canter, Laura Collett, Tom McEwen and Gemma Stevens, while Germany's Michael Jung won the individual title — adding another world championship to his collection — in a finale at the historic Main Stadium where 20 of 85 starters failed to complete the demanding cross-country course (FEI, n.d.-a). At the end of 2026, the leading current riders are — in the women's field — team gold medallist Rosalind Canter and her teammates Laura Collett and Gemma Stevens of Great Britain, and — in the men's field — individual world champion Michael Jung of Germany and team silver medallist Tom McEwen of Great Britain (FEI, n.d.-a).
+Eventing is the equestrian triathlon: each horse-and-rider combination contests three phases — dressage, cross-country and show jumping — over one to four days, and the pair with the fewest penalty points wins (Fédération Equestre Internationale [FEI], n.d.-b). It is governed worldwide by the FEI and is one of the three Olympic equestrian disciplines. At the FEI World Championships Aachen 2026, 11–23 August 2026, Great Britain took the eventing team gold with Rosalind Canter, Laura Collett, Tom McEwen and Gemma Stevens, while Germany's Michael Jung won the individual title — adding another world championship to his collection — in a finale at the historic Main Stadium where 20 of 85 starters failed to complete the demanding cross-country course (FEI, n.d.-a). At the end of 2026, the leading current riders are — in the women's field — team gold medallist Rosalind Canter and her teammates Laura Collett and Gemma Stevens of Great Britain, and — in the men's field — individual world champion Michael Jung of Germany and team silver medallist Tom McEwen of Great Britain (FEI, n.d.-a) (Fédération Equestre Internationale, n.d.-a) (Fédération Equestre Internationale, n.d.-b).
 
 ## Rules
 
@@ -18,7 +18,7 @@ Eventing descends from the all-round cavalry horse tests of the nineteenth centu
 
 - Fédération Equestre Internationale. (n.d.-a). *2026 FEI World Championships Aachen — eventing team and individual results*. Retrieved November 22, 2026, from https://www.fei.org/
 - Fédération Equestre Internationale. (n.d.-b). *Eventing rules — phases, penalties, minimum ages and protective equipment*. Retrieved November 22, 2026, from https://www.fei.org/discipline/eventing
-- Wikipedia. (n.d.-a). *Eventing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Eventing
+- Wikipedia. (n.d.). *Eventing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Eventing
 
 ### Figure Index
 

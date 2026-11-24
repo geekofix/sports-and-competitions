@@ -14,7 +14,7 @@ Slap fighting circulated as viral internet content — Russian slap competitions
 
 - Nevada State Athletic Commission. (n.d.). *Unarmed combat regulations — sanctioning of slap fighting competitions*. Retrieved November 22, 2026, from https://www.nvsac.com/
 - Power Slap. (n.d.). *Official rules of Power Slap bouts*. Retrieved November 22, 2026, from https://www.powerslap.com/rules/
-- Wikipedia. (n.d.-a). *Power Slap*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Power_Slap
+- Wikipedia. (n.d.). *Power Slap*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Power_Slap
 
 ## Important Links
 

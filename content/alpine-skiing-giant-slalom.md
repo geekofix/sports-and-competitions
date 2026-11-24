@@ -1,6 +1,6 @@
 ## Basic Information
 
-Giant slalom (GS) is the classic alpine skiing discipline: athletes make two runs on different courses set on a long slope with wide-spaced gates, and the two times are added — combining speed with clean, rhythmic turning. It is governed by the FIS and has been an Olympic event since Garmisch-Partenkirchen 1936 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.).
+Giant slalom (GS) is the classic alpine skiing discipline: athletes make two runs on different courses set on a long slope with wide-spaced gates, and the two times are added — combining speed with clean, rhythmic turning. It is governed by the FIS and has been an Olympic event since Garmisch-Partenkirchen 1936 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.) (International Ski and Snowboard Federation, n.d.-a) (International Ski and Snowboard Federation, n.d.-b) (International Ski and Snowboard Federation, n.d.-c).
 
 Among the athletes who shape the discipline today, the leading women come first: Italy's Federica Brignone won Olympic giant slalom gold at Milano-Cortina 2026 in 2:13.50, and the United States' Mikaela Shiffrin — the most successful World Cup racer of all time — also stands at the top of the standings. Among the men, Brazil's Lucas Pinheiro Braathen won Olympic gold in 2:25.00 — the first Olympic alpine skiing gold medal for Brazil — and Switzerland's Marco Odermatt is the reigning World Cup overall champion (FIS, n.d.-a; FIS, n.d.-b).
 

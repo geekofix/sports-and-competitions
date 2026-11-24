@@ -16,7 +16,7 @@ Punkin chunkin began informally among Delaware farmers in the mid-1980s; the Wor
 
 ## Sources
 
-- Guinness World Records. (2011, February). *Record award: Big 10 Inch pumpkin launch, 5,545.43 ft, Moab Utah, 9 September 2010*. Retrieved November 23, 2026, from https://www.guinnessworldrecords.com/
+- Guinness World Records. (2011). *Record award: Big 10 Inch pumpkin launch, 5,545.43 ft, Moab Utah, 9 September 2010*. Retrieved November 23, 2026, from https://www.guinnessworldrecords.com/
 - Wikipedia. (n.d.). *Punkin chunkin — Delaware origins mid-1980s, WCPCA annual from 1985, machine classes, 8–10 lb pumpkins, chunk must stay whole to first impact, Moab 2010 record 1,690.25 m, Bikschote Belgium since 2004*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Punkin_chunkin
 - World Championship Punkin Chunkin Association. (n.d.). *World Championship Punkin Chunkin — Sussex County Delaware, classes, team divisions, 2013 American Chunker record 1,430.94 m*. Retrieved November 23, 2026, from https://www.punkinchunkin.com/
 

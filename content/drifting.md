@@ -20,7 +20,7 @@ Drifting as a driving technique grew out of 1970s Japanese touring-car racing an
 
 ## Sources
 
-- D1 Grand Prix. (n.d.-a). *D1 Grand Prix series history, rules and 2026 standings*. Retrieved November 22, 2026, from https://www.d1gp.co.jp/
+- D1 Grand Prix. (n.d.). *D1 Grand Prix series history, rules and 2026 standings*. Retrieved November 22, 2026, from https://www.d1gp.co.jp/
 - Formula DRIFT. (n.d.). *Formula DRIFT PRO Championship 2026 — rules, calendar and results*. Retrieved November 22, 2026, from https://www.formulad.com/
 - Wikipedia. (n.d.-a). *D1 Grand Prix*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/D1_Grand_Prix
 - Wikipedia. (n.d.-b). *Drifting*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Drifting

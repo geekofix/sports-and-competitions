@@ -18,7 +18,7 @@ Enduro grew out of early twentieth-century reliability trials, in which motorcyc
 
 - FIM. (n.d.-a). *2026 FIM Enduro World Championship — calendar, classes and champions*. Retrieved November 22, 2026, from https://www.fim-moto.com/
 - FIM. (n.d.-b). *Enduro technical regulations — special tests, liaison, classes and safety*. Retrieved November 22, 2026, from https://www.fim-moto.com/
-- Wikipedia. (n.d.-a). *FIM Enduro World Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIM_Enduro_World_Championship
+- Wikipedia. (n.d.). *FIM Enduro World Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIM_Enduro_World_Championship
 
 ### Figure Index
 

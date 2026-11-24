@@ -20,7 +20,7 @@ The game was devised in 1902 by Nico Broekhuysen, a Dutch teacher working at the
 - International Korfball Federation. (n.d.-b). *Rules of Korfball 2026 — court, korf, ball, mixed-team and guarding rules*. Retrieved November 22, 2026, from https://korfball.sport/rules/
 - Wikipedia. (n.d.-a). *Korfball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Korfball
 - Wikipedia. (n.d.-b). *Korfball — Broekhuysen 1902, IKF 1933, World Championship 1978, World Games 1985, beach korfball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Korfball
-- World Korfball. (n.d.-a). *Live results and rankings — World Korfball Championships*. Retrieved November 22, 2026, from https://worldkorfball.sport/
+- World Korfball. (n.d.). *Live results and rankings — World Korfball Championships*. Retrieved November 22, 2026, from https://worldkorfball.sport/
 
 ### Figure Index
 

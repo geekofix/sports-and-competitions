@@ -8,7 +8,9 @@ Dragon boat racing is a team paddling sport in which crews of 20 paddlers, a dru
 
 ![Dragon boat race on the Bürmooser See, Austria, 2006](https://commons.wikimedia.org/wiki/Special:Redirect/file/B%C3%BCrmooser_See_-_Drachenboot-Rennen_-_2006_06_18_%281%29.jpg?width=560)
 
-*Figure: Eweht. (2006, June 18). Bürmooser See - Drachenboot-Rennen - 2006 06 18 (1) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:B%C3%BCrmooser_See_-_Drachenboot-Rennen_-_2006_06_18_%281%29.jpg*
+*Figure: Eweht. (2006, June 18). Bürmooser See — Drachenboot-Rennen - 2006 06 18 (1) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:B%C3%BCrmooser_See_-_Drachenboot-Rennen_-_2006_06_18_%281%29.jpg*
+
+Women's, men's and mixed crews are standard categories at the world dragon boat championships.
 
 ## Rules
 

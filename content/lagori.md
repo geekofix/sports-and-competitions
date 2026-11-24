@@ -16,7 +16,7 @@ Lagori is among the oldest known ball games of India — the Bhagavata Purana de
 
 ## Sources
 
-- Amateur Lagori Federation of India. (n.d.-a). *Rules of lagori — 12-player teams, 7 stones, 3-minute sets, scoring; World Cup*. Retrieved November 22, 2026, from https://www.indialagori.in/
+- Amateur Lagori Federation of India. (n.d.). *Rules of lagori — 12-player teams, 7 stones, 3-minute sets, scoring; World Cup*. Retrieved November 22, 2026, from https://www.indialagori.in/
 - Wikipedia. (n.d.-a). *Seven stones — Bhagavata Purana, Maharashtra origin, World Cup 2015/2017, ILPL 2017*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Seven_stones
 - Wikipedia. (n.d.-b). *Seven stones (lagori)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Seven_stones
 

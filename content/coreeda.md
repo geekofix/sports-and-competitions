@@ -13,7 +13,7 @@ The Dreaming story of Coreeda tells of Beereun, a lizard man who was instructed 
 ## Sources
 
 - Creative Spirits. (n.d.). *Coreeda: Aboriginal wrestling*. Retrieved November 22, 2026, from https://www.creativespirits.info/aboriginalculture/sport/coreeda-aboriginal-wrestling
-- SBS NITV. (2014, January 14). *Ancient martial art taught in remote Indigenous communities*. Retrieved November 22, 2026, from https://www.sbs.com.au/nitv/article/ancient-martial-art-taught-in-remote-indigenous-communities/qg6c29is1
+- SBS NITV. (2014). *Ancient martial art taught in remote Indigenous communities*. Retrieved November 22, 2026, from https://www.sbs.com.au/nitv/article/ancient-martial-art-taught-in-remote-indigenous-communities/qg6c29is1
 - Traditional Sports. (n.d.). *Australia, Oceania, Pacific — Coreeda*. Retrieved November 22, 2026, from https://www.traditionalsports.org/traditional-sports/australia-oceania-pacyfic.html
 - Wikipedia. (n.d.). *Coreeda*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Coreeda
 

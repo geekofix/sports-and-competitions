@@ -12,7 +12,7 @@ Vik Mikheev began organizing small CarJitsu tournaments among friends in October
 
 ## Sources
 
-- Defector. (2026, August). *CarJitsu is precisely as dumb as it sounds*. Retrieved November 22, 2026, from https://defector.com/carjitsu-is-precisely-as-dumb-as-it-sounds
+- Defector. (2026). *CarJitsu is precisely as dumb as it sounds*. Retrieved November 22, 2026, from https://defector.com/carjitsu-is-precisely-as-dumb-as-it-sounds
 - Gaming Today. (n.d.). *CarJitsu: Driving niche sports into the limelight*. Retrieved November 22, 2026, from https://www.gamingtoday.com/news/carjitsu-driving-niche-sports-into-limelight/
 - MixedMartialArts.com. (n.d.). *Car Jitsu is now a thing*. Retrieved November 22, 2026, from https://mixedmartialarts.com/editorial/car-jitsu-is-now-a-thing/
 - Pro League Network. (n.d.). *Car Jitsu*. Retrieved November 22, 2026, from https://www.proleaguenetwork.com/car-jitsu/

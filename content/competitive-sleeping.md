@@ -12,9 +12,9 @@ Napping competitions have been held in Spain since the 2010s as part of Madrid's
 
 ## Sources
 
-- AFP. (2026, October). *Ready, set, snooze: Japan holds sleeping championship*. Retrieved November 22, 2026, from https://www.afp.com/en/
+- AFP. (2026). *Ready, set, snooze: Japan holds sleeping championship*. Retrieved November 22, 2026, from https://www.afp.com/en/
 - Guinness World Records. (n.d.). *Longest time voluntarily without sleep*. Retrieved November 22, 2026, from https://www.guinnessworldrecords.com/world-records/longest-time-without-sleep
-- The Japan Times. (2026, October 13). *Japan's 'Matt Race' sleeping championship draws 47,000 applicants*. Retrieved November 22, 2026, from https://www.japantimes.co.jp/news/2026/10/13/japan/matt-race-sleep/
+- The Japan Times. (2026). *Japan's 'Matt Race' sleeping championship draws 47,000 applicants*. Retrieved November 22, 2026, from https://www.japantimes.co.jp/news/2026/10/13/japan/matt-race-sleep/
 - Wikipedia. (n.d.). *Competitive sleeping*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Competitive_sleeping
 
 ## Important Links

@@ -19,7 +19,7 @@ Rugby league was born in 1895 when 21 clubs in northern England broke away from 
 ## Sources
 
 - International Rugby League. (n.d.). *2026 International Laws of the Game — 13 players, six tackles, play-the-ball, scoring 4/2/2/1, sin bin*. Retrieved November 23, 2026, from https://www.internationalrugbyleague.com/uploads/docs/International_Rugby_League_Laws_of_the_Game.pdf
-- Sky Sports. (2026, November). *Rugby League World Cup 2026: full results from men's, women's and wheelchair tournaments — Australia win men's and women's, England wheelchair*. Retrieved November 23, 2026, from https://www.skysports.com/rugby-league/news/13598071/
+- Sky Sports. (2026). *Rugby League World Cup 2026: full results from men's, women's and wheelchair tournaments — Australia win men's and women's, England wheelchair*. Retrieved November 23, 2026, from https://www.skysports.com/rugby-league/news/13598071/
 - Wikipedia. (n.d.-a). *Rugby league — 1895 Northern Union split, 1922 RFL rename, 1954 first World Cup, field 112-122 x 68 m, try 4/conversion 2/penalty 2/drop goal 1, NRL and Super League*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rugby_league
 - Wikipedia. (n.d.-b). *2026 Rugby League World Cup — 15 Oct to 19 Nov 2026 Australia/NZ/PNG, 10 men's and 8 women's and wheelchair teams; finals 15 Nov Brisbane Kangaroos 32-12 Kiwis, Jillaroos 34-6 Kiwi Ferns, Jack Bostock POTM; icons Wally Lewis, Cameron Smith, Jamie Peacock, Ali Brigginshaw; women's World Cup since 2000*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/2026_Rugby_League_World_Cup
 

@@ -24,7 +24,7 @@ Footvolley was created in 1965 in Rio de Janeiro by Octavio de Moraes, originall
 
 - European Footvolley League. (n.d.). *EFVL — official European footvolley federation, League of Champions 2026*. Retrieved November 22, 2026, from https://footvolleyeurope.com/
 - Federação Nacional de Futevólei. (n.d.). *Footvolley World Tour Albufeira 2026*. Retrieved November 22, 2026, from https://futevolei.pt/en
-- Wikipedia. (n.d.-a). *Footvolley*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Footvolley
+- Wikipedia. (n.d.). *Footvolley*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Footvolley
 
 ### Figure Index
 

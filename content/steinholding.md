@@ -16,8 +16,8 @@ Stones of strength have been lifted in Scotland and the Alps for centuries — t
 
 ## Sources
 
-- Wikipedia. (n.d.-b). *Steinholding and stones of strength — timed hold of a heavy stone with a straight arm; Manhood Stone Clach Cuid Fir; Bavarian Maß-hold tradition; three attempts, heaviest or longest wins*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Steinholding
 - Wikipedia. (n.d.-a). *Highland games — heavy athletics events including steinholding-style holds; SHAG and NASGA; men's and women's divisions, youth classes; Louis Cyr, strongest man of his era (1863–1912)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Highland_games
+- Wikipedia. (n.d.-b). *Steinholding and stones of strength — timed hold of a heavy stone with a straight arm; Manhood Stone Clach Cuid Fir; Bavarian Maß-hold tradition; three attempts, heaviest or longest wins*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Steinholding
 
 ### Figure Index
 

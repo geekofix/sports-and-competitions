@@ -6,6 +6,8 @@ The Hemp Olympics — also called Hemp Olympix — are a series of satirical nov
 
 *Figure: Terry, P. (Mombas2). (2008, September 15). Joint-rolling at the Nimbin MardiGrass festival, New South Wales [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Mardigrass_Joint_protest.jpg*
 
+Women and men compete alike at the Hemp Olympics.
+
 ## Rules
 
 The Hemp Olympix have no formal rulebook; the organizers publish event guidelines on the MardiGrass participation page (MardiGrass, n.d.). In the classic events, contestants roll a cannabis joint — in the artistic event judged on neatness and style within a time limit (historically ten minutes), in the speed roll purely against the clock, and in the blindfolded roll without sight; the bong throw is judged for distance like a javelin, with the thrower's technique free; munchies contests judge eating within set rules announced on the day (Wikipedia, n.d.-b; MardiGrass, n.d.). Prizes are humorous rather than monetary, and the events are open to all genders in mixed competition; participation is part of the festival programme and follows the festival's general rules of conduct (MardiGrass, n.d.). Because the events are a parody of sport and of prohibition-era policy rather than an athletic competition, there are no age or gender classes and no world ranking (Wikipedia, n.d.-b).

@@ -17,7 +17,7 @@ Yodeling arose in the Alpine regions of Switzerland, Austria, Bavaria and South 
 ## Sources
 
 - Britannica. (n.d.). *Yodel*. Retrieved November 22, 2026, from https://www.britannica.com/art/yodel
-- Wikipedia. (n.d.-a). *Yodeling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Yodeling
+- Wikipedia. (n.d.). *Yodeling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Yodeling
 
 ### Figure Index
 

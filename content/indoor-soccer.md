@@ -19,7 +19,7 @@ Futsal was invented in the 1930s in Montevideo, Uruguay, by the Uruguayan physic
 ## Sources
 
 - Asociación Mundial de Futsal. (n.d.). *AMF — Futsal World Championships and AMF rulebook*. Retrieved November 22, 2026, from https://www.amfutsal.com/
-- FIFA. (n.d.-a). *Futsal Laws of the Game 2025/26*. Retrieved November 22, 2026, from https://www.theifab.com/laws/latest/futsal/
+- FIFA. (n.d.). *Futsal Laws of the Game 2025/26*. Retrieved November 22, 2026, from https://www.theifab.com/laws/latest/futsal/
 - UEFA. (n.d.). *UEFA Futsal EURO 2026 — qualifiers and competition*. Retrieved November 22, 2026, from https://www.uefa.com/uefaeuro/
 - Wikipedia. (n.d.-a). *Futsal*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Futsal
 - Wikipedia. (n.d.-b). *Futsal — history, Juan Carlos Ceriani, FIFUSA 1985, FIFA 1989, icons*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Futsal

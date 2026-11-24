@@ -17,8 +17,8 @@ Sambo was developed in the 1920s–1930s in the Soviet Red Army as a military co
 ## Sources
 
 - FIAS. (n.d.). *History of sambo*. Retrieved November 22, 2026, from https://www.sambo.sport
-- FIAS. (2026a). *50th World SAMBO Championships — Tashkent, 6–8 November 2026*. Retrieved November 22, 2026, from https://www.sambo.sport
-- FIAS. (2026b). *Combat Sambo Rules 2026 (approved 31 March 2026)*. Retrieved November 22, 2026, from https://www.sambo.sport
+- FIAS. (2026). *50th World SAMBO Championships — Tashkent, 6–8 November 2026*. Retrieved November 22, 2026, from https://www.sambo.sport
+- FIAS. (2026). *Combat Sambo Rules 2026 (approved 31 March 2026)*. Retrieved November 22, 2026, from https://www.sambo.sport
 - Wikipedia. (n.d.). *Sambo (martial art)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Sambo_(martial_art)
 
 ### Figure Index

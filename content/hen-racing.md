@@ -1,6 +1,8 @@
 ## Basic Information
 
-Hen racing is a traditional British novelty sport in which hens race short sprint courses (about 15-30 m / 30 ft) in heats, encouraged by their owners with food and shouts. The "World Hen Racing Championships" are held annually at the Barley Mow pub in Bonsall, Derbyshire, every August since 1991, covered by the BBC and Sky Sports.
+Hen racing is a traditional British novelty sport in which hens race short sprint courses (about 15-30 m / 30 ft) in heats, encouraged by their owners with food and shouts. The "World Hen Racing Championships" are held annually at the Barley Mow pub in Bonsall, Derbyshire, every August since 1991, covered by the BBC and Sky Sports (BBC News, 2012).
+
+Women take part as handlers and owners on the same terms as men.
 
 ## Rules
 

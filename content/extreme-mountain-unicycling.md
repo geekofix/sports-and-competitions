@@ -12,7 +12,7 @@ Unicycling as a sport dates to the late nineteenth century, and the IUF was foun
 
 ## Sources
 
-- International Unicycling Federation. (n.d.-a). *Unicon 22 Steyr 2026 — MUni disciplines, rulebook and results*. Retrieved November 22, 2026, from https://unicycling.org/unicon/
+- International Unicycling Federation. (n.d.). *Unicon 22 Steyr 2026 — MUni disciplines, rulebook and results*. Retrieved November 22, 2026, from https://unicycling.org/unicon/
 - Wikipedia. (n.d.-a). *Unicon (unicycling)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Unicon_(unicycling)
 - Wikipedia. (n.d.-b). *Unicycle*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Unicycle
 

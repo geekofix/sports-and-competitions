@@ -16,12 +16,12 @@ Kemari was introduced to Japan from China during the Asuka period and rose to pr
 
 ## Sources
 
+- Japan News (Yomiuri Shimbun). (2026). *Kemari ancient ball game recreated in Japan annual New Year event; 15-square-meter court at Shimogamo Shrine*. https://japannews.yomiuri.co.jp/features/travel-spots/20260105-302216/
 - Kokugakuin University. (n.d.). *Kemari and its deep connection to shrines*. Retrieved November 22, 2026, from https://www.kokugakuin.ac.jp/en/article/53496
 - Nippon.com. (n.d.). *Kemari: Japan's ancient ball game of the imperial court*. Retrieved November 22, 2026, from https://www.nippon.com/en/guide-to-japan/cs00057/
+- The Mainichi. (2026). *New Year's display of ancient Japanese football draws visitors to Kyoto shrine — Shukiku Hozonkai, chairman Takashi Yamamoto*. https://mainichi.jp/english/articles/20260105/p2a/00m/0na/017000c
 - Wikipedia. (n.d.-a). *Kemari*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kemari
 - Wikipedia. (n.d.-b). *Kemari — history, Fujiwara no Narimichi, Emperor Go-Toba, women players, Meiji revival*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kemari
-- Japan News (Yomiuri Shimbun). (2026, January 5). *Kemari ancient ball game recreated in Japan annual New Year event; 15-square-meter court at Shimogamo Shrine*. https://japannews.yomiuri.co.jp/features/travel-spots/20260105-302216/
-- The Mainichi. (2026, January 5). *New Year's display of ancient Japanese football draws visitors to Kyoto shrine — Shukiku Hozonkai, chairman Takashi Yamamoto*. https://mainichi.jp/english/articles/20260105/p2a/00m/0na/017000c
 
 ### Figure Index
 

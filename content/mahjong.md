@@ -17,10 +17,10 @@ Mahjong developed in China in the mid-to-late 19th century from earlier card gam
 ## Sources
 
 - European Mahjong Association. (n.d.). *EMA — founded June 2005 Nijmegen by Martin Rep; OEMC and European Riichi Championship, rankings*. Retrieved November 22, 2026, from http://mahjong-europe.org/
-- World Riichi Championship. (n.d.). *WRC — founded 2014 by Quentin and Valérian Thomas (Tri Nitro Tiles); 1st edition Puteaux 2014, 4th Tokyo 2025, next 2028 New York*. Retrieved November 22, 2026, from https://www.worldriichi.org/
 - Wikipedia. (n.d.-a). *Mahjong — tiles, hand structure, chi/pon/kan, MCR scoring*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mahjong
 - Wikipedia. (n.d.-b). *Japanese mahjong / riichi — riichi declaration, dora, mangan, han/fu*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Japanese_mahjong
 - Wikipedia. (n.d.-c). *Open European Mahjong Championship — 2002 Tokyo world championship (Masato Chiba), EMA 2005, Hargitai first female European champion 2011; European Riichi Championship winners incl. Grimberg, Heemskerk, Veremenko*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Open_European_Mahjong_Championship
+- World Riichi Championship. (n.d.). *WRC — founded 2014 by Quentin and Valérian Thomas (Tri Nitro Tiles); 1st edition Puteaux 2014, 4th Tokyo 2025, next 2028 New York*. Retrieved November 22, 2026, from https://www.worldriichi.org/
 
 ### Figure Index
 

@@ -1,6 +1,6 @@
 ## Basic Information
 
-Aquabike is the official name of jet ski racing: personal watercraft (PWC) compete in closed-circuit, offshore, endurance and freestyle events, in runabout (seated) and ski (stand-up) classes. The sport is governed by the UIM — Union Internationale Motonautique, the IOC-recognized world federation of powerboating — and the UIM Aquabike World Championship, organized with H2O Racing, has been held since 1992 (Aquabike World Championship [AWC], n.d.-a; UIM, n.d.).
+Aquabike is the official name of jet ski racing: personal watercraft (PWC) compete in closed-circuit, offshore, endurance and freestyle events, in runabout (seated) and ski (stand-up) classes. The sport is governed by the UIM — Union Internationale Motonautique, the IOC-recognized world federation of powerboating — and the UIM Aquabike World Championship, organized with H2O Racing, has been held since 1992 (Aquabike World Championship [AWC], n.d.-a; UIM, n.d.) (Aquabike World Championship, n.d.-a) (Aquabike World Championship, n.d.-b).
 
 Among the leading riders today, the women come first: Jessica Chavanne is the 2026 Ski Ladies GP1 world champion and Annemarie Oiemets the Runabout Ladies GP4 world champion. Among the men, Belgium's Quinten Bossche swept the 2026 Ski GP1 titles, Gyorgy Kasza won Runabout GP1 at the GP of Shanghai on October 3, 2026, Samuel Johansson took the Runabout GP1 world title at the GP of Italy in Olbia on October 16–18, 2026, and freestyle star Rashid Al Mulla claimed his seventh career freestyle world title in 2026 (AWC, n.d.-a; AWC, n.d.-b).
 

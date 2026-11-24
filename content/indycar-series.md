@@ -16,7 +16,7 @@ The Indianapolis 500 was first run on 30 May 1911, won by Ray Harroun in a Marmo
 
 ## Sources
 
-- IndyCar. (n.d.-a). *NTT IndyCar Series — 2026 season, calendar, rules and standings*. Retrieved November 22, 2026, from https://www.indycar.com/
+- IndyCar. (n.d.). *NTT IndyCar Series — 2026 season, calendar, rules and standings*. Retrieved November 22, 2026, from https://www.indycar.com/
 - Penske Entertainment. (n.d.). *Indianapolis Motor Speedway and IndyCar — ownership since 2020*. Retrieved November 22, 2026, from https://www.penskeentertainment.com/
 - Wikipedia. (n.d.-a). *IndyCar Series*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/IndyCar_Series
 - Wikipedia. (n.d.-b). *IndyCar Series — history, 1996 IRL split, Indianapolis 500, icons*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/IndyCar_Series

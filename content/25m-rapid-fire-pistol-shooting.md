@@ -1,6 +1,6 @@
 ## Basic Information
 
-25m Rapid Fire Pistol is an ISSF shooting discipline: fast, timed strings of five shots at five turning targets 25 meters away. It is the only shooting event on the current Olympic program that dates back to the first modern Games in Athens 1896, and it is contested today as a men's Olympic event — women shoot the 25m pistol event with precision and rapid-fire stages instead. See also [10m Air Pistol Shooting](10m-air-pistol-shooting.html) and [Shooting](shooting.html) on this site.
+25m Rapid Fire Pistol is an ISSF shooting discipline: fast, timed strings of five shots at five turning targets 25 meters away. It is the only shooting event on the current Olympic program that dates back to the first modern Games in Athens 1896, and it is contested today as a men's Olympic event — women shoot the 25m pistol event with precision and rapid-fire stages instead. See also [10m Air Pistol Shooting](10m-air-pistol-shooting.html) and [Shooting](shooting.html) on this site (International Shooting Sport Federation, n.d.-a) (International Shooting Sport Federation, n.d.-b).
 
 At the Paris 2024 Olympics the men's gold went to Li Yuehong of China; the ISSF world ranking in November 2026 is led by Clément Bessaguet of France. In the women's counterpart event, the 25m pistol, the Paris 2024 title went to Yang Ji-in of South Korea and the current world ranking leader is Erica Sessa of Italy (International Olympic Committee [IOC], n.d.; ISSF, n.d.-b).
 
@@ -31,7 +31,7 @@ Germany's Ralf Schumann is widely considered the greatest rapid fire shooter of 
 - International Olympic Committee. (n.d.). *Shooting*. Olympics.com. Retrieved November 21, 2026, from https://olympics.com/en/sports/shooting/
 - International Shooting Sport Federation. (n.d.-a). *International Shooting Sport Federation*. Retrieved November 21, 2026, from https://www.issf-sports.org/
 - International Shooting Sport Federation. (n.d.-b). *World ranking*. Retrieved November 21, 2026, from https://www.issf-sports.org/competitions/worldranking
-- International Shooting Sport Federation. (2016, August 13). *Reitz nails men's 25m Rapid Fire Pistol title in Rio, it's another golden day for Germany*. https://www.issf-sports.org/news/2663
+- International Shooting Sport Federation. (2016). *Reitz nails men's 25m Rapid Fire Pistol title in Rio, it's another golden day for Germany*. https://www.issf-sports.org/news/2663
 - International Shooting Sport Federation. (2023). *ISSF rules: General technical and pistol rules (Edition 2022, first print January 2023)*. Retrieved November 21, 2026, from https://www.issf-sports.org/rules
 - USA Shooting. (n.d.). *USA Shooting — national governing body*. Retrieved November 21, 2026, from https://www.usashooting.org/
 

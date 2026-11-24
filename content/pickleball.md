@@ -19,8 +19,8 @@ The game was created in the summer of 1965 by Joel Pritchard, a congressman, and
 - DUPR. (n.d.). *DUPR world pickleball rankings*. Retrieved November 22, 2026, from https://www.dupr.com/
 - International Pickleball Federation. (n.d.). *IFP/IPF — world governing body, Bainbridge Cup, member countries*. Retrieved November 22, 2026, from https://theipf.org/
 - Sports & Fitness Industry Association (SFIA). (2025). *Pickleball participation report*. Retrieved November 22, 2026, from https://www.sfia.org/
-- USA Pickleball. (2026). *2026 Official Rulebook*. Retrieved November 22, 2026, from https://usapickleball.org/docs/rules/USAP-Official-Rulebook.pdf
 - USA Pickleball. (n.d.). *Official rules overview*. Retrieved November 22, 2026, from https://usapickleball.org/rules/
+- USA Pickleball. (2026). *2026 Official Rulebook*. Retrieved November 22, 2026, from https://usapickleball.org/docs/rules/USAP-Official-Rulebook.pdf
 - Wikipedia. (n.d.). *Pickleball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pickleball
 
 ### Figure Index

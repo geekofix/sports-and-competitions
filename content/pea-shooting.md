@@ -13,9 +13,9 @@ The championship was created in 1971 by John Tyson, the village schoolmaster of 
 ## Sources
 
 - Atlas Obscura. (n.d.). *World Pea Shooting Championship in Witcham*. Retrieved November 22, 2026, from https://www.atlasobscura.com/places/world-peashooting-championship
-- British Broadcasting Corporation. (2014, December 13). *World Pea Shooting champion Rob Bresler retains title*. Retrieved November 22, 2026, from https://www.bbc.com/news/uk-england-cambridgeshire-28284719
-- Witcham Village Hall. (n.d.). *Pea shooting: World Peashooting Championship — official rules*. Retrieved November 22, 2026, from https://www.witchamvillagehall.org.uk/pea-shooting
+- British Broadcasting Corporation. (2014). *World Pea Shooting champion Rob Bresler retains title*. Retrieved November 22, 2026, from https://www.bbc.com/news/uk-england-cambridgeshire-28284719
 - Wikipedia. (n.d.). *World Peashooting Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Peashooting_Championship
+- Witcham Village Hall. (n.d.). *Pea shooting: World Peashooting Championship — official rules*. Retrieved November 22, 2026, from https://www.witchamvillagehall.org.uk/pea-shooting
 - World Peashooting Championship. (n.d.). *Rules*. Retrieved November 22, 2026, from https://worldpeashoot.com/peashoot-rules/
 
 ## Important Links

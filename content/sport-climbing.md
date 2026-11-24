@@ -18,8 +18,8 @@ Competitive climbing began in the 1980s, with the first international competitio
 
 ## Sources
 
-- Wikipedia. (n.d.-b). *Sport climbing — first international competition Bardonecchia 1985; ICC founded 1989; IFSC founded 2007; Olympic debut Tokyo 2020; disciplines lead, boulder, speed and combined; age categories and para climbing*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sport_climbing
 - Wikipedia. (n.d.-a). *Sport climbing at the 2024 Summer Olympics and 2025 World Championships — Janja Garnbret titles, Oriane Bertone, Seo Chae-hyun, Aleksandra Mirosław speed world record 6.03; icons Catherine Destivelle, Lynn Hill, Patxi Usobiaga*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sport_climbing_at_the_2024_Summer_Olympics
+- Wikipedia. (n.d.-b). *Sport climbing — first international competition Bardonecchia 1985; ICC founded 1989; IFSC founded 2007; Olympic debut Tokyo 2020; disciplines lead, boulder, speed and combined; age categories and para climbing*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sport_climbing
 - World Climbing. (n.d.). *IFSC renamed World Climbing 2025; rulebooks for lead, boulder, speed and combined; World Cup circuit; 2025 World Championships Seoul; LA 2028 three separate disciplines*. Retrieved November 23, 2026, from https://www.worldclimbing.com/
 
 ### Figure Index

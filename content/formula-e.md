@@ -18,13 +18,13 @@ Formula E was conceived by Spanish businessman Alejandro Agag together with FIA 
 
 ## Sources
 
+- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
 - FIA. (n.d.-a). *2025–26 ABB FIA Formula E World Championship — calendar, standings and results*. Retrieved November 22, 2026, from https://www.fiaformulae.com/
 - FIA. (n.d.-b). *Formula E — the championship, Gen3 Evo and Gen4 cars*. Retrieved November 22, 2026, from https://www.fia.com/championship/fia-formula-e-world-championship
 - FIA. (n.d.-c). *FIA Formula E Sporting Regulations 2025–26*. Retrieved November 22, 2026, from https://www.fia.com/regulations/formula-e-regulations
-- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
 - Formula E. (n.d.-a). *About Formula E*. Retrieved November 22, 2026, from https://www.fiaformulae.com/en/about
 - Formula E. (n.d.-b). *Champions and season results*. Retrieved November 22, 2026, from https://www.fiaformulae.com/en/results
-- Wikipedia. (n.d.-a). *Formula E*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Formula_E
+- Wikipedia. (n.d.). *Formula E*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Formula_E
 
 ### Figure Index
 

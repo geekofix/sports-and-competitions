@@ -1,6 +1,6 @@
 ## Basic Information
 
-Lead climbing is the rope-and-quickdraw discipline of competition climbing: the climber ties into a rope at the base of an artificial wall, clips the rope into fixed quickdraws as they ascend a route of at least 15 m, and scores for the highest hold reached (World Climbing, n.d.-a; Wikipedia, n.d.-a). A fall does not end the attempt — the climber may re-enter the rope and continue, but the score stops at the highest point reached (World Climbing, n.d.-a). Lead is one of the three Olympic disciplines alongside bouldering and speed, and the international federation — long known as the International Federation of Sport Climbing (IFSC), founded in 2007 in Frankfurt — rebranded as World Climbing on 10 December 2025, with the IFSC World Cup becoming the World Climbing Series from the 2026 season (World Climbing, n.d.-b; Wikipedia, n.d.-b). Men and women compete under identical rules in separate categories, and the women's field is led by Slovenia's Janja Garnbret, who had collected 34 lead World Climbing Series victories by November 2026 — the most of any lead climber — while Japan's Neo Suzuki won the men's 2026 lead series (Wikipedia, n.d.-c).
+Lead climbing is the rope-and-quickdraw discipline of competition climbing: the climber ties into a rope at the base of an artificial wall, clips the rope into fixed quickdraws as they ascend a route of at least 15 m, and scores for the highest hold reached (World Climbing, n.d.-a; Wikipedia, n.d.-a). A fall does not end the attempt — the climber may re-enter the rope and continue, but the score stops at the highest point reached (World Climbing, n.d.-a). Lead is one of the three Olympic disciplines alongside bouldering and speed, and the international federation — long known as the International Federation of Sport Climbing (IFSC), founded in 2007 in Frankfurt — rebranded as World Climbing on 10 December 2025, with the IFSC World Cup becoming the World Climbing Series from the 2026 season (World Climbing, n.d.-b; Wikipedia, n.d.-b). Men and women compete under identical rules in separate categories, and the women's field is led by Slovenia's Janja Garnbret, who had collected 34 lead World Climbing Series victories by November 2026 — the most of any lead climber — while Japan's Neo Suzuki won the men's 2026 lead series (Wikipedia, n.d.-c) (World Climbing, n.d.-b).
 
 ![Georg Parma competing in lead climbing at the European Youth Cup in Dornbirn](https://commons.wikimedia.org/wiki/Special:Redirect/file/Georg_Parma_-_European_Youth_Cup_-_Lead_Climbing,_Dornbirn_%28AUT%29_2015.jpg?width=560)
 
@@ -20,11 +20,11 @@ Competition climbing grew out of rock climbing and alpine culture: the Internati
 
 ## Sources
 
-- World Climbing. (n.d.-a). *Competition rules — lead, boulder, speed, scoring and disqualifications*. Retrieved November 22, 2026, from https://www.worldclimbing.com/
-- World Climbing. (n.d.-b). *World Climbing launches new global identity — IFSC rebranded 10 December 2025; World Climbing Series from 2026; founded 2007, IOC recognition 2010*. Retrieved November 22, 2026, from https://www.worldclimbing.com/news/world-climbing-launches-new-global-identity
 - Wikipedia. (n.d.-a). *Lead climbing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lead_climbing
 - Wikipedia. (n.d.-b). *Sport climbing — history, UIAA/ICC 1997, IFSC 2007, Olympic debut Tokyo 2020, icons Hill, Eiter, Ondra, Sharma*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Sport_climbing
 - Wikipedia. (n.d.-c). *2026 World Climbing Series — lead winners Garnbret (34th victory), Neo Suzuki*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lead_climbing_at_the_2026_World_Climbing_Series
+- World Climbing. (n.d.-a). *Competition rules — lead, boulder, speed, scoring and disqualifications*. Retrieved November 22, 2026, from https://www.worldclimbing.com/
+- World Climbing. (n.d.-b). *World Climbing launches new global identity — IFSC rebranded 10 December 2025; World Climbing Series from 2026; founded 2007, IOC recognition 2010*. Retrieved November 22, 2026, from https://www.worldclimbing.com/news/world-climbing-launches-new-global-identity
 
 ### Figure Index
 

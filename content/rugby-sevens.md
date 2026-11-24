@@ -21,8 +21,8 @@ Rugby sevens was invented in 1883 by Ned Haig, a butcher from Melrose in the Sco
 - Wikipedia. (n.d.-a). *Rugby sevens — Ned Haig invented sevens at Melrose 1883; Hong Kong Sevens 1976; Commonwealth Games 1998; Olympics 2016; field 100x70 m; scoring 5/2/3; 7-minute halves; cup/plate/bowl/shield format*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rugby_sevens
 - Wikipedia. (n.d.-b). *Rugby sevens at the 2024 Summer Olympics — France 28-7 Fiji men's final, women's podium New Zealand, Canada, USA; 2022 World Cup Sevens Cape Town Fiji and Australia won; icons Gollings, Afrika, Woodman, Cherry*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rugby_sevens_at_the_2024_Summer_Olympics
 - Wikipedia. (n.d.-c). *2025–26 SVNS — 8 core teams each, 9 events, World Championship finale; series champions South Africa men and New Zealand women*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/2025%E2%80%9326_SVNS
-- World Rugby. (n.d.-a). *Laws of the Game 2026 and sevens variations — 7 players, 2x7-minute halves, 3-a-side scrums, drop-kick conversions, tap restart, sudden-death extra time; SVNS format*. Retrieved November 23, 2026, from https://www.world.rugby/the-game/laws/variations/3/sevens/
-- World Rugby. (2024, July 27). *France crowned men's rugby sevens Olympic champions in Paris — France 28-7 Fiji, Antoine Dupont two tries, 69,000 crowd at Stade de France*. Retrieved November 23, 2026, from https://www.world.rugby/news/947504/
+- World Rugby. (n.d.). *Laws of the Game 2026 and sevens variations — 7 players, 2x7-minute halves, 3-a-side scrums, drop-kick conversions, tap restart, sudden-death extra time; SVNS format*. Retrieved November 23, 2026, from https://www.world.rugby/the-game/laws/variations/3/sevens/
+- World Rugby. (2024). *France crowned men's rugby sevens Olympic champions in Paris — France 28-7 Fiji, Antoine Dupont two tries, 69,000 crowd at Stade de France*. Retrieved November 23, 2026, from https://www.world.rugby/news/947504/
 
 ### Figure Index
 

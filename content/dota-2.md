@@ -1,6 +1,6 @@
 ## Basic Information
 
-Dota 2 is a multiplayer online battle arena (MOBA) esports game developed and published by Valve Corporation, released in 2013, in which two teams of five players each destroy the opposing team's Ancient \u2014 the central structure in their base \u2014 while controlling heroes with unique abilities (Valve Corporation, n.d.). The competitive scene centers on Valve's annual world championship, The International (TI), whose prize pool is crowdfunded by the in-game Battle Pass. The International 2026 (TI 15) ran 13\u201323 August 2026 at the Shanghai Oriental Sports Center in China with 16 teams: a Swiss-stage group phase 13\u201316 August and playoffs 20\u201323 August (HLTV, 2026). In the grand final on 23 August 2026, Team Spirit beat Team Vision 3\u20132 to lift the Aegis of Champions for the third time, after 2021 and 2023; Team Falcons had won TI 2025 in Hamburg (HLTV, 2026). At the end of 2026, the leading current professional players are the members of Team Spirit's 2026 championship roster \u2014 Yaroslav "Yatoro" Naidenov, Stanislav "Larl" Sivtsev, Magomed "Collapse" Khalilov, Danil "not_me" Skutin and Daler "rue" Minakov \u2014 and the runners-up of Team Vision (HLTV, 2026; Liquipedia, n.d.).
+Dota 2 is a multiplayer online battle arena (MOBA) esports game developed and published by Valve Corporation, released in 2013, in which two teams of five players each destroy the opposing team's Ancient \u2014 the central structure in their base \u2014 while controlling heroes with unique abilities (Valve Corporation, n.d.). The competitive scene centers on Valve's annual world championship, The International (TI), whose prize pool is crowdfunded by the in-game Battle Pass. The International 2026 (TI 15) ran 13\u201323 August 2026 at the Shanghai Oriental Sports Center in China with 16 teams: a Swiss-stage group phase 13\u201316 August and playoffs 20\u201323 August (HLTV, 2026). In the grand final on 23 August 2026, Team Spirit beat Team Vision 3\u20132 to lift the Aegis of Champions for the third time, after 2021 and 2023; Team Falcons had won TI 2025 in Hamburg (HLTV, 2026). At the end of 2026, the leading current professional players are the members of Team Spirit's 2026 championship roster \u2014 Yaroslav "Yatoro" Naidenov, Stanislav "Larl" Sivtsev, Magomed "Collapse" Khalilov, Danil "not_me" Skutin and Daler "rue" Minakov \u2014 and the runners-up of Team Vision (HLTV, 2026; Liquipedia, n.d.) — the sections below cover rules, history and more.
 
 ![Players at The International 2018 in Rogers Arena, Vancouver](https://commons.wikimedia.org/wiki/Special:Redirect/file/The_International_2018_%2842379849940%29.jpg?width=560)
 
@@ -9,6 +9,8 @@ Dota 2 is a multiplayer online battle arena (MOBA) esports game developed and pu
 ![Valve's booth hosting The International at Gamescom 2011](https://commons.wikimedia.org/wiki/Special:Redirect/file/The_International_Dota_2_video_game_tournament.jpg?width=560)
 
 *Figure: YJ. (2011, August 17). The International Dota 2 video game tournament [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:The_International_Dota_2_video_game_tournament.jpg*
+
+Women compete alongside men in open qualifiers, and dedicated women's teams and tournaments exist in the Dota 2 scene.
 
 ## Rules
 

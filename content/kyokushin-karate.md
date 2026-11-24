@@ -16,7 +16,7 @@ Masutatsu Oyama, born Choi Young-eui on 27 July 1923 in Gimje, Korea, moved to J
 
 ## Sources
 
-- International Karate Organization. (n.d.-a). *Competition rules — knockdown karate, World Open Championships*. Retrieved November 22, 2026, from https://www.kyokushinkaikan.org/
+- International Karate Organization. (n.d.). *Competition rules — knockdown karate, World Open Championships*. Retrieved November 22, 2026, from https://www.kyokushinkaikan.org/
 - Wikipedia. (n.d.-a). *Kyokushin — knockdown rules, no punches to the head, kicks to head allowed*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyokushin
 - Wikipedia. (n.d.-b). *Kyokushin — Oyama 1923–1994, Oyama Dojo 1953, IKO 1964, World Open 1975/2023, 100-man kumite, Seidokaikan/K-1*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyokushin
 

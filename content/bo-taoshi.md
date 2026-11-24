@@ -1,6 +1,6 @@
 ## Basic Information
 
-Bo-taoshi ("pole toppling") is a Japanese team sport in which two teams try to push over the opposing team's pole while defending their own. The best-known version is played at the National Defense Academy of Japan (National Defense Academy of Japan [NDA], n.d.-a), where the annual academy festival each November — the academy anniversary festival — features a demonstration match that has run for over a century. Each team fields about 150 players: 75 attackers and 75 defenders.
+Bo-taoshi ("pole toppling") is a Japanese team sport in which two teams try to push over the opposing team's pole while defending their own. The best-known version is played at the National Defense Academy of Japan (National Defense Academy of Japan [NDA], n.d.-a), where the annual academy festival each November — the academy anniversary festival — features a demonstration match that has run for over a century. Each team fields about 150 players: 75 attackers and 75 defenders (National Defense Academy of Japan, n.d.-a) (National Defense Academy of Japan, n.d.-b).
 
 The women's variant, called bo-hiki, is played with the same pole-toppling objective at women's festivals and schools; mixed and girls' matches are common in the school game, and the sport is part of physical education in many Japanese schools (NDA, n.d.-a).
 

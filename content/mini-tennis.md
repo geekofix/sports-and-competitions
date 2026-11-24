@@ -6,6 +6,8 @@ Mini tennis — branded Tennis10s by the International Tennis Federation (ITF) �
 
 *Figure: Smiley.toerist. (2026, September 18). Rennes 2026 1 — mini tennis court at the Place de la Gare in Rennes [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Rennes_2026_1.jpg*
 
+Women and men compete alike at every level of mini-tennis, from junior to senior.
+
 ## Rules
 
 Under the ITF Rules of Tennis 2026 (Appendices VII and VIII), mini tennis is organized in three color-coded stages (International Tennis Federation, n.d.-b). Red stage (up to 8 years): a court of about 11 m × 5.5 m (36 ft × 18 ft; some federations such as the LTA allow 11–12 m × 5–6 m), a net at 80 cm (31.5 in), rackets no longer than 58 cm (23 in), and a red foam ball 8–9 cm in diameter (or a felt ball 7–8 cm) that bounces about 75 percent slower than a yellow ball. Orange stage (8–9 years): an 18 m × 6.4 m (60 ft × 21 ft) court with the net still at 80 cm and an orange ball about 50 percent slower than yellow. Green stage (9–10 years): the full-size court with a net at 91.4 cm (3 ft) at the center and a green ball about 25 percent slower than yellow. Scoring can be shortened — short sets, tie-breaks at 3–3 or 4–4, or a match tie-break — so that matches fit young players' attention spans; from age 11 the standard yellow ball and the full rules of [tennis](tennis.html) apply. Girls and boys compete together in the same events at all three stages, with no separate girls' or boys' draws (United States Tennis Association, n.d.).

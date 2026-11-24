@@ -16,7 +16,7 @@ Ice speedway is generally credited to Staten Lorenz of Michigan, who in 1975 org
 
 ## Sources
 
-- Fédération Internationale de Motocyclisme. (n.d.-a). *FIM Ice Speedway World Championship — regulations, calendar and results*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- Fédération Internationale de Motocyclisme. (n.d.). *FIM Ice Speedway World Championship — regulations, calendar and results*. Retrieved November 22, 2026, from https://www.fim-moto.com/
 - Wikipedia. (n.d.-a). *Ice speedway*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ice_speedway
 - Wikipedia. (n.d.-b). *Individual Ice Racing World Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Individual_Ice_Racing_World_Championship
 

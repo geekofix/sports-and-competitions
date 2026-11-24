@@ -19,7 +19,7 @@ Cliff diving has roots in the Hawaiian tradition of *lele kawa* — diving into 
 - Red Bull Cliff Diving. (n.d.). *Cliff Diving World Series — events, format and champions*. Retrieved November 22, 2026, from https://www.redbull.com/cliffdiving
 - Wikipedia. (n.d.-a). *High diving*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/High_diving
 - Wikipedia. (n.d.-b). *Cliff diving and Red Bull Cliff Diving World Series*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Red_Bull_Cliff_Diving_World_Series
-- World Aquatics. (n.d.-a). *High diving — competition rules and regulations*. Retrieved November 22, 2026, from https://www.worldaquatics.com/high-diving
+- World Aquatics. (n.d.). *High diving — competition rules and regulations*. Retrieved November 22, 2026, from https://www.worldaquatics.com/high-diving
 
 ### Figure Index
 

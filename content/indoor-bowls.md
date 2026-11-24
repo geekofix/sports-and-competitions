@@ -16,7 +16,7 @@ Bowls has ancient roots — polished stone bowls have been found in Egyptian tom
 
 ## Sources
 
-- Wikipedia. (n.d.-a). *World Indoor Bowls Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Indoor_Bowls_Championship
+- Wikipedia. (n.d.). *World Indoor Bowls Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Indoor_Bowls_Championship
 - World Bowls. (n.d.-a). *World Indoor Bowls Championship 2026 — Potters Resorts Hopton-on-Sea, 9–25 January 2026*. Retrieved November 22, 2026, from https://www.worldbowls.com/
 - World Bowls. (n.d.-b). *World Bowls Indoor Championships 2026 — Ocean Grove, Australia, 11–16 May 2026; rankings*. Retrieved November 22, 2026, from https://www.worldbowls.com/
 

@@ -1,6 +1,6 @@
 ## Basic Information
 
-Pelota purépecha, called Úrukua Ch'anakua ("a game with sticks") in the Purépecha language, is an indigenous Mexican stick-and-ball sport from the state of Michoacán, similar to the hockey family and played with a heavy wooden ball and L-shaped wooden sticks (Secretaría de Cultura, 2022). In the variant called pasárukua the ball is set on fire and played at night. The sport is one of the oldest living Mexican games, with roots going back some 3,500 years, and it has a league, several practicing communities and about 800 players across Mexico (Pueblos Originarios, n.d.). Traditionally a men's game, pelota purépecha today also has women's teams in several communities of the Purépecha region, and mixed day-and-night matches are staged in the modern leagues (Comisión Nacional de Deportes, n.d.). The traditional playing field, the cancha, is pictured below.
+Pelota purépecha, called Úrukua Ch'anakua ("a game with sticks") in the Purépecha language, is an indigenous Mexican stick-and-ball sport from the state of Michoacán, similar to the hockey family and played with a heavy wooden ball and L-shaped wooden sticks (Secretaría de Cultura, 2022). In the variant called pasárukua the ball is set on fire and played at night. The sport is one of the oldest living Mexican games, with roots going back some 3,500 years, and it has a league, several practicing communities and about 800 players across Mexico (Pueblos Originarios, n.d.). Traditionally a men's game, pelota purépecha today also has women's teams in several communities of the Purépecha region, and mixed day-and-night matches are staged in the modern leagues (Comisión Nacional de Deportes, n.d.). The traditional playing field, the cancha, is pictured below (Wikipedia, n.d.-b).
 
 ![Purepecha Ball's field (cancha de pelota purépecha)](https://commons.wikimedia.org/wiki/Special:Redirect/file/Cancha_pelota_purepecha.jpg?width=500)
 
@@ -18,7 +18,7 @@ The game is rooted in the Purépecha tradition, which holds that it commemorates
 
 - Comisión Nacional de Deportes (CONADE). (n.d.). *Pelota p'urhépucha* — Gobierno de México. Retrieved November 22, 2026, from https://indigenas2021.conade.gob.mx/pelota_purepecha.html
 - Pueblos Originarios. (n.d.). *Uarhukua Chanakua: Juego de pelota, cultura purépecha*. Retrieved November 22, 2026, from https://pueblosoriginarios.com/meso/occidente/purepecha/pelota.html
-- Secretaría de Cultura. (2022, November 19). *El juego de pelota purépecha*. Google Arts & Culture, Gobierno de México. Retrieved November 22, 2026, from https://artsandculture.google.com/story/the-pur%C3%A9pecha-ball-game-secretar%C3%ADa-de-cultura/iQWRfAXOAq82tA
+- Secretaría de Cultura. (2022). *El juego de pelota purépecha*. Google Arts & Culture, Gobierno de México. Retrieved November 22, 2026, from https://artsandculture.google.com/story/the-pur%C3%A9pecha-ball-game-secretar%C3%ADa-de-cultura/iQWRfAXOAq82tA
 - Wikipedia. (n.d.-a). *Pelota purépecha*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pelota_pur%C3%A9pecha
 - Wikipedia. (n.d.-b). *Mesoamerican ballgame*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mesoamerican_ballgame
 

@@ -16,8 +16,8 @@ Artistic forms have been part of pencak silat since the art's village origins, w
 
 ## Sources
 
-- International Pencak Silat Federation (IPSF-PERSILAT). (2026, February 25). *Competition rules and regulations — seni categories*. Retrieved November 22, 2026, from https://worldpencaksilat.org/wp-content/uploads/2026/02/IPSF-PERSILAT-Competition-Rules-Regs-25-Feb-2026.pdf
 - International Pencak Silat Federation (IPSF-PERSILAT). (n.d.). *Rules and regulations*. Retrieved November 22, 2026, from https://worldpencaksilat.org/rules-regulations/
+- International Pencak Silat Federation (IPSF-PERSILAT). (2026). *Competition rules and regulations — seni categories*. Retrieved November 22, 2026, from https://worldpencaksilat.org/wp-content/uploads/2026/02/IPSF-PERSILAT-Competition-Rules-Regs-25-Feb-2026.pdf
 - UNESCO. (2019). *Traditions of Pencak Silat*. Representative List of the Intangible Cultural Heritage of Humanity. Retrieved November 22, 2026, from https://ich.unesco.org/en/RL/traditions-of-pencak-silat-01391
 - Wikipedia. (n.d.). *Pencak silat*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pencak_silat
 

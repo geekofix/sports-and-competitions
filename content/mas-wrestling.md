@@ -17,7 +17,7 @@ Mas-wrestling is a traditional Yakut sport with roots in the Ysyakh summer festi
 ## Sources
 
 - International Mas-Wrestling Federation. (n.d.). *IMWF — rules of mas-wrestling, world championships; VIII World Championship among men and women, Kazan, 26–30 November 2026*. Retrieved November 22, 2026, from https://www.mas-wrestling.com/en/
-- Wikipedia. (n.d.-a). *Mas-wrestling — board, mas stick, best-of-three, weight classes, Ysyakh origins, codification mid-20th century*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mas-wrestling
+- Wikipedia. (n.d.). *Mas-wrestling — board, mas stick, best-of-three, weight classes, Ysyakh origins, codification mid-20th century*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Mas-wrestling
 
 ### Figure Index
 

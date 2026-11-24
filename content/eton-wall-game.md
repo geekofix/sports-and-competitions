@@ -2,6 +2,8 @@
 
 The Eton wall game is a unique form of football played only at Eton College in Berkshire, England, on a strip of ground 5 m wide and 110 m long called The Furrow, next to a slightly curved brick wall erected in 1717 (Wikipedia, n.d.-a; Eton College, n.d.). Two teams of ten try to move a ball along the wall toward the opponent's end, scoring a shy (one point) by raising the ball against the wall in the calx at either end and touching it while shouting "got it!", or a goal (nine points) by throwing the ball at the opposing target — a door at one end and a tree at the other (Wikipedia, n.d.-a). The traditional and most important match of the year is played on St Andrew's Day (30 November) between the Collegers (King's Scholars, a house of about 70 boys) and the Oppidans (the rest of the school, around 1,250 boys), with a second fixture on Ascension Day on the roof of College Chapel; as of the latest counts the Oppidans lead the series 48 victories to 43 with the remainder drawn, and no goal has been scored in the St Andrew's Day match since 1909 (Wikipedia, n.d.-a; Eton College, n.d.). There is no governing body beyond the school itself — the Keeper of College Wall controls access to the Furrow — and only Eton boys, former pupils and masters play (Eton College, n.d.).
 
+Women and men today play the related game of wall ball at schools and universities.
+
 ## Rules
 
 The game is played under the Laws of the Eton Wall Game (first codified in 1874): the match lasts an hour, beginning with a bully — a scrum-like mass of players pressed against the wall with the ball — formed in the middle, and goals change at half time (Wikipedia, n.d.-a). Two umpires, appointed one by each side, enforce the rules, put the ball in, break up the bully and keep score (Wikipedia, n.d.-a). The ball is put back into play gently along the ground against the wall; a player who has kicked the ball within the chalk line may go for a shy without waiting for a bully (Wikipedia, n.d.-a). Within the calx a team scores a shy worth one point — one player raises the ball against the wall with his foot while another touches it with his hand and shouts "got it!", and the umpire answers "given" — and after a shy the attacking team may still attempt a goal worth nine points by hurling the ball at the opponent's target, the door or the tree (Wikipedia, n.d.-a; Eton College, n.d.). Positions include the second at the wall, who kneels on the ball, and the fly, long and lines players who cover the open ground; punching is a foul and the obscure offence of "furking" is also policed by the umpires (Eton College, n.d.). Only boys play — the women's counterpart at Eton is the Eton field game's mixed tradition off the wall — and scratch matches run throughout the Michaelmas and Lent terms (Wikipedia, n.d.-a).
@@ -21,7 +23,7 @@ No one knows exactly when the wall game began at Eton; an 1821 letter mentions f
 ## Sources
 
 - Eton College. (n.d.). *A most Eton sport: the Wall Game — rules and fixtures*. Retrieved November 22, 2026, from https://www.etoncollege.com/news-and-diary/school-news/a-most-eton-sport-the-wall-game/
-- Wikipedia. (n.d.-a). *Eton wall game*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Eton_wall_game
+- Wikipedia. (n.d.). *Eton wall game*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Eton_wall_game
 
 ### Figure Index
 

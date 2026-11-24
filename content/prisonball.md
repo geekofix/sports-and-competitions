@@ -13,8 +13,8 @@ Prisonball descends from the folk tradition of dodgeball-type schoolyard and gym
 ## Sources
 
 - PE Scholar. (2014). *Dodgeball variations* (PDF) — prisonball and related variants. Retrieved November 23, 2026, from https://www.pescholar.com/wp-content/uploads/2014/03/Dodgeball-variations.pdf
-- Wikipedia. (n.d.-b). *Prisonball — prison/jail release rules, variants, game end when all imprisoned*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Prisonball
 - Wikipedia. (n.d.-a). *Dodgeball games — list of variations incl. prisonball, jailball, queimada, Völkerball, balle au prisonnier*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Dodgeball_games
+- Wikipedia. (n.d.-b). *Prisonball — prison/jail release rules, variants, game end when all imprisoned*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Prisonball
 
 ## Important Links
 

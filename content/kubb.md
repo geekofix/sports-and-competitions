@@ -16,8 +16,8 @@ The game has been played on Gotland for centuries and is first documented in pho
 
 ## Sources
 
-- Kubb World Championship. (n.d.-a). *Kubb-VM — World Championship on Gotland, rules and results*. Retrieved November 22, 2026, from https://kubbvm.com/
-- USA Kubb. (n.d.-a). *Rules of kubb — pitch, kubbs, batons, king, US National Championship*. Retrieved November 22, 2026, from https://www.usakubb.org/
+- Kubb World Championship. (n.d.). *Kubb-VM — World Championship on Gotland, rules and results*. Retrieved November 22, 2026, from https://kubbvm.com/
+- USA Kubb. (n.d.). *Rules of kubb — pitch, kubbs, batons, king, US National Championship*. Retrieved November 22, 2026, from https://www.usakubb.org/
 - Wikipedia. (n.d.-a). *Kubb*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kubb
 - Wikipedia. (n.d.-b). *Kubb — Gotland origins, early 20th-century documentation, codification around 1990*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kubb
 

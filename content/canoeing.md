@@ -1,6 +1,6 @@
 ## Basic Information
 
-Canoeing is the activity of paddling a canoe — an open boat propelled from a kneeling position with a single-bladed paddle; in much of Europe the word "canoeing" covers kayaking as well, with the open canoe called a "Canadian" (Wikipedia, n.d.). Canoeing is the umbrella term for all competitive and recreational paddle sports, governed worldwide by the International Canoe Federation (ICF), headquartered in Lausanne, Switzerland — 175 national federations were affiliated as of 2026, and at its Congress in Oklahoma City on 26 July 2026 the ICF announced its rebrand as Paddle Worldwide (ICF, n.d.; Paddle UK, 2026). The federation governs ten disciplines: canoe sprint, canoe slalom, paracanoe, canoe marathon, canoe polo, wildwater canoeing, canoe freestyle, canoe ocean racing, dragon boat and stand-up paddleboarding, plus recognized disciplines such as canoe sailing, va'a and surf ski (ICF, n.d.). Canoeing has been on the Olympic program since Berlin 1936 (sprint), with slalom added at Munich 1972 (permanently since 1992) and paracanoe since Rio 2016 (Olympedia, n.d.). Among today's leading athletes, the women's stars include Canada's Sophia Jensen (2026 world champion in C1 500 m), Australia's Jess Fox (Olympic canoe slalom champion 2024) and New Zealand's Lisa Carrington (five Olympic sprint gold medals), alongside men such as Hungary's Balázs Adolf (2026 world champion, C1 5,000 m) (SIRC, 2026; Wikipedia, n.d.).
+Canoeing is the activity of paddling a canoe — an open boat propelled from a kneeling position with a single-bladed paddle; in much of Europe the word "canoeing" covers kayaking as well, with the open canoe called a "Canadian" (Wikipedia, n.d.). Canoeing is the umbrella term for all competitive and recreational paddle sports, governed worldwide by the International Canoe Federation (ICF), headquartered in Lausanne, Switzerland — 175 national federations were affiliated as of 2026, and at its Congress in Oklahoma City on 26 July 2026 the ICF announced its rebrand as Paddle Worldwide (ICF, n.d.; Paddle UK, 2026). The federation governs ten disciplines: canoe sprint, canoe slalom, paracanoe, canoe marathon, canoe polo, wildwater canoeing, canoe freestyle, canoe ocean racing, dragon boat and stand-up paddleboarding, plus recognized disciplines such as canoe sailing, va'a and surf ski (ICF, n.d.). Canoeing has been on the Olympic program since Berlin 1936 (sprint), with slalom added at Munich 1972 (permanently since 1992) and paracanoe since Rio 2016 (Olympedia, n.d.). Among today's leading athletes, the women's stars include Canada's Sophia Jensen (2026 world champion in C1 500 m), Australia's Jess Fox (Olympic canoe slalom champion 2024) and New Zealand's Lisa Carrington (five Olympic sprint gold medals), alongside men such as Hungary's Balázs Adolf (2026 world champion, C1 5,000 m) (SIRC, 2026; Wikipedia, n.d.) (ICF / Paddle Worldwide, n.d.-a) (ICF / Paddle Worldwide, n.d.-b) (Wikipedia, n.d.-a) (Wikipedia, n.d.-b) (Wikipedia, n.d.-c).
 
 ![Canoeing in the Maldives](https://commons.wikimedia.org/wiki/Special:Redirect/file/Canoeing_%28325905343%29.jpg?width=560)
 
@@ -20,16 +20,16 @@ Canoes are among the oldest watercraft, used by indigenous peoples on every cont
 
 ## Sources
 
+- ICF / Paddle Worldwide. (n.d.-a). *Canoe and kayak history*. Retrieved November 22, 2026, from https://www.canoeicf.com/history
+- ICF / Paddle Worldwide. (n.d.-b). *Rules and regulations*. Retrieved November 22, 2026, from https://www.canoeicf.com/rules
 - ICF / Paddle Worldwide. (2024). *International Canoe Federation celebrates 100th birthday*. Retrieved November 22, 2026, from https://www.canoeicf.com/news/international-canoe-federation-celebrates-100th-birthday
-- ICF / Paddle Worldwide. (n.d.). *Canoe and kayak history*. Retrieved November 22, 2026, from https://www.canoeicf.com/history
-- ICF / Paddle Worldwide. (n.d.). *Rules and regulations*. Retrieved November 22, 2026, from https://www.canoeicf.com/rules
 - MacGregor, J. (1866). *A thousand miles in the Rob Roy canoe on rivers and lakes of Europe*. Project Gutenberg. Retrieved November 22, 2026, from https://www.gutenberg.org/files/40238/40238-h/40238-h.htm
 - Olympedia. (n.d.). *International Canoe Federation*. Retrieved November 22, 2026, from https://www.olympedia.org/organizations/52
 - Paddle UK. (2026). *International Canoe Federation evolves into Paddle Worldwide*. Retrieved November 22, 2026, from https://paddleuk.org.uk/international-canoe-federation-evolves-into-paddle-worldwide/
-- Sport Information Resource Centre. (2026, August 31). *Golden moments: Jensen claims first senior world title in Poznań*. Retrieved November 22, 2026, from https://sirc.ca/news/golden-moments-jensen-claims-first-senior-world-title-in-poznan/
-- Wikipedia. (n.d.). *Canoeing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Canoeing
-- Wikipedia. (n.d.). *Paddle Worldwide*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Paddle_Worldwide
-- Wikipedia. (n.d.). *Verlen Kruger*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Verlen_Kruger
+- Sport Information Resource Centre. (2026). *Golden moments: Jensen claims first senior world title in Poznań*. Retrieved November 22, 2026, from https://sirc.ca/news/golden-moments-jensen-claims-first-senior-world-title-in-poznan/
+- Wikipedia. (n.d.-a). *Canoeing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Canoeing
+- Wikipedia. (n.d.-b). *Paddle Worldwide*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Paddle_Worldwide
+- Wikipedia. (n.d.-c). *Verlen Kruger*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Verlen_Kruger
 
 ### Figure Index
 

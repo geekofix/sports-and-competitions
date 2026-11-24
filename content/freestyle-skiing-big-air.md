@@ -21,7 +21,7 @@ Big air grew out of freestyle skiing's 1990s new-school era and was added to the
 - FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — big air calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
 - FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — big air*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
 - Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — big air results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
-- Wikipedia. (n.d.-a). *Freestyle skiing big air*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_big_air
+- Wikipedia. (n.d.). *Freestyle skiing big air*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_big_air
 
 ### Figure Index
 

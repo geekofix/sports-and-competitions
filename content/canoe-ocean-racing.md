@@ -14,10 +14,10 @@ Surfski racing developed in South Africa in the 1950s–1960s — the "surf ski"
 
 - Costa Blanca Digital. (2026). *Canoe Ocean Racing World Championship 2026 — Villajoyosa, 8–11 October*. Retrieved November 22, 2026, from https://costablanca.digital/canoe-ocean-racing-world-championship-villajoyosa-2026/
 - ICF / Paddle Worldwide. (2026). *2026 ICF Canoe Ocean Racing World Championships — La Vila Joiosa, 9–11 October 2026*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-ocean-racing-world-championships/la-vila-joiosa-2026
-- PaddleStats. (2026, October). *Ocean Racing World Championships 2026 recap — Vilajoyosa*. Retrieved November 22, 2026, from https://paddlestats.eu/news/ocean-racing-world-championships-2026-recap-en
+- PaddleStats. (2026). *Ocean Racing World Championships 2026 recap — Vilajoyosa*. Retrieved November 22, 2026, from https://paddlestats.eu/news/ocean-racing-world-championships-2026-recap-en
 - Surfski.tv. (n.d.). *ICF world championships history — surfski results by year*. Retrieved November 22, 2026, from https://www.surfski.tv/racing/icf-world-championships
-- Todo Alicante. (2026, September 25). *Villajoyosa gathers more than 750 paddlers from 36 countries for Canoe Ocean Racing World Championship*. Retrieved November 22, 2026, from https://www.todoalicante.es/english/villajoyosa-gathers-more-than-20260925120938-nt.html
-- TotalPaddler. (2026, October). *2026 Surfski World Championships — results, livestream and schedule*. Retrieved November 22, 2026, from https://www.totalpaddler.com/news/2026-surfski-world-championships-results/
+- Todo Alicante. (2026). *Villajoyosa gathers more than 750 paddlers from 36 countries for Canoe Ocean Racing World Championship*. Retrieved November 22, 2026, from https://www.todoalicante.es/english/villajoyosa-gathers-more-than-20260925120938-nt.html
+- TotalPaddler. (2026). *2026 Surfski World Championships — results, livestream and schedule*. Retrieved November 22, 2026, from https://www.totalpaddler.com/news/2026-surfski-world-championships-results/
 - Wikipedia. (n.d.). *ICF Canoe Ocean Racing World Championships*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/ICF_Canoe_Ocean_Racing_World_Championships
 
 ## Important Links

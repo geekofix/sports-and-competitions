@@ -16,7 +16,7 @@ Nine-pin bowling developed from medieval European kegeln games played in guild h
 
 ## Sources
 
-- Wikipedia. (n.d.-a). *Nine-pin bowling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Nine-pin_bowling
+- Wikipedia. (n.d.). *Nine-pin bowling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Nine-pin_bowling
 - World Ninepin Bowling Association. (n.d.). *WNBA — world governing body of nine-pin bowling; World Championships and rules*. Retrieved November 22, 2026, from https://www.world-ninepins.org/
 
 ### Figure Index

@@ -21,7 +21,7 @@ Slopestyle emerged from the new-school freestyle movement of the late 1990s–20
 - FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — slopestyle calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
 - FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — slopestyle*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
 - Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — slopestyle results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
-- Wikipedia. (n.d.-a). *Freestyle skiing slopestyle*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_slopestyle
+- Wikipedia. (n.d.). *Freestyle skiing slopestyle*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_slopestyle
 
 ### Figure Index
 

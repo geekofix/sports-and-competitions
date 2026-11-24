@@ -20,10 +20,10 @@ Lethwei's roots stretch back centuries in Myanmar, where bare-knuckle fighting w
 
 ## Sources
 
-- World Lethwei Championship. (n.d.). *WLC — rules, five rounds, headbutts allowed, women's bouts, history since 2013*. Retrieved November 22, 2026, from https://www.worldlethweichampionship.com/
 - Wikipedia. (n.d.-a). *Lethwei — bare-knuckle boxing, nine limbs, rounds, TKO and draw rules*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lethwei
 - Wikipedia. (n.d.-b). *Lethwei — women's lethwei, televised women's bouts*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Lethwei
 - Wikipedia. (n.d.-c). *Dave Leduc — six-time World Lethwei champion; Tun Tun Min*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dave_Leduc
+- World Lethwei Championship. (n.d.). *WLC — rules, five rounds, headbutts allowed, women's bouts, history since 2013*. Retrieved November 22, 2026, from https://www.worldlethweichampionship.com/
 
 ### Figure Index
 

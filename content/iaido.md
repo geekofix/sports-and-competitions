@@ -16,7 +16,7 @@ The art of drawing and cutting in one motion developed among the samurai of Japa
 
 ## Sources
 
-- All Japan Kendo Federation. (n.d.-a). *Iaido — ZNKR iaido, the 12 Seitei kata, All Japan Iaido Championship*. Retrieved November 22, 2026, from https://www.kendo.or.jp/
+- All Japan Kendo Federation. (n.d.). *Iaido — ZNKR iaido, the 12 Seitei kata, All Japan Iaido Championship*. Retrieved November 22, 2026, from https://www.kendo.or.jp/
 - International Kendo Federation. (n.d.). *World Kendo Championships — iaido events and member nations*. Retrieved November 22, 2026, from https://www.kendo-fik.com/
 - Wikipedia. (n.d.-a). *Iaido*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Iaido
 - Wikipedia. (n.d.-b). *Seitei iai*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Seitei_iai

@@ -20,8 +20,8 @@ Lucha canaria descends from the wrestling of the Guanches, the pre-Hispanic inha
 
 ## Sources
 
-- Federación de Lucha Canaria. (2019). *Reglas del deporte de la lucha canaria* (últimas modificaciones aprobadas en asamblea general extraordinaria de 05/10/2019). Retrieved November 22, 2026, from https://fedluchacanaria.com/archivos/reglasDeporteLuchaCanaria.pdf
 - Federación de Lucha Canaria. (n.d.). *Inicio — noticias, competiciones y clasificaciones de luchadores y luchadoras*. Retrieved November 22, 2026, from https://fedluchacanaria.com/
+- Federación de Lucha Canaria. (2019). *Reglas del deporte de la lucha canaria* (últimas modificaciones aprobadas en asamblea general extraordinaria de 05/10/2019). Retrieved November 22, 2026, from https://fedluchacanaria.com/archivos/reglasDeporteLuchaCanaria.pdf
 - Gobierno de Canarias. (n.d.). *Lucha canaria — CanariWiki*. Retrieved November 22, 2026, from https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Lucha_canaria
 - Wikipedia. (n.d.). *Canarian wrestling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Canarian_wrestling
 

@@ -18,7 +18,7 @@ Handball courts have existed in Ireland since the Middle Ages — the ball alley
 
 ## Sources
 
-- Gaelic Athletic Association. (n.d.-a). *GAA Handball — codes, rules and National Handball Centre, Croke Park*. Retrieved November 22, 2026, from https://www.gaa.ie/the-gaa/gaa-handball/
+- Gaelic Athletic Association. (n.d.). *GAA Handball — codes, rules and National Handball Centre, Croke Park*. Retrieved November 22, 2026, from https://www.gaa.ie/the-gaa/gaa-handball/
 - Wikipedia. (n.d.-a). *Gaelic handball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Gaelic_handball
 - Wikipedia. (n.d.-b). *Handball (wallball) — 60 × 30 softball and hardball rules*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Handball_(wallball)
 

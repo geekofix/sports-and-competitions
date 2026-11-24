@@ -1,6 +1,6 @@
 ## Basic Information
 
-The FIA Formula 3 Championship is the FIA's second feeder series below Formula One, contested as support to selected Formula 1 and Formula 2 events; the 2026 season is the 8th under the F3 name, with all cars built by Dallara (F3 2025 chassis) and powered by a Mecachrome 3.4-litre naturally aspirated V6 on Pirelli tyres (FIA, n.d.-b; FIA, n.d.-a). The 2026 drivers' champion is Ugo Ugochukwu of the USA, driving for Campos Racing, who clinched the title with a second place in the final race at the new Madring circuit in Madrid, while Campos Racing also defended the teams' championship; the 2025 champion was Rafael Câmara of Brazil, who won as a rookie for Trident before graduating to Formula 2 (FIA, n.d.-a). The 2026 calendar included the new Madrid round at Madring alongside classic venues (FIA, n.d.-a).
+The FIA Formula 3 Championship is the FIA's second feeder series below Formula One, contested as support to selected Formula 1 and Formula 2 events; the 2026 season is the 8th under the F3 name, with all cars built by Dallara (F3 2025 chassis) and powered by a Mecachrome 3.4-litre naturally aspirated V6 on Pirelli tyres (FIA, n.d.-b; FIA, n.d.-a). The 2026 drivers' champion is Ugo Ugochukwu of the USA, driving for Campos Racing, who clinched the title with a second place in the final race at the new Madring circuit in Madrid, while Campos Racing also defended the teams' championship; the 2025 champion was Rafael Câmara of Brazil, who won as a rookie for Trident before graduating to Formula 2 (FIA, n.d.-a). The 2026 calendar included the new Madrid round at Madring alongside classic venues (FIA, n.d.-a) (FIA, n.d.-b).
 
 On the women's side, the leading young female single-seater talents come through the F1 Academy and national F4 series, which feed into FIA F3 — the championship itself is open to all genders (F1 Academy, n.d.).
 
@@ -18,11 +18,11 @@ The modern FIA Formula 3 Championship was created in 2019 when the GP3 Series (f
 
 ## Sources
 
+- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
 - FIA. (n.d.-a). *2026 FIA Formula 3 Championship — calendar, standings and results*. Retrieved November 22, 2026, from https://www.fiaformula3.com/
 - FIA. (n.d.-b). *FIA Formula 3 Championship — about the series and car*. Retrieved November 22, 2026, from https://www.fia.com/championship/fia-formula-3-championship
 - FIA. (n.d.-c). *FIA Formula 3 Sporting Regulations 2026*. Retrieved November 22, 2026, from https://www.fia.com/regulations/formula-3-regulations-2026
-- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
-- Wikipedia. (n.d.-a). *FIA Formula 3 Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIA_Formula_3_Championship
+- Wikipedia. (n.d.). *FIA Formula 3 Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIA_Formula_3_Championship
 
 ### Figure Index
 

@@ -13,7 +13,7 @@ Spreadsheet modeling competitions grew out of university finance and accounting 
 ## Sources
 
 - Financial Modeling World Cup. (n.d.). *Microsoft Excel World Championship 2026 — format, rules and results*. Retrieved November 22, 2026, from https://fmwc.com/
-- Wikipedia. (n.d.-a). *Esports*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Esports
+- Wikipedia. (n.d.). *Esports*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Esports
 
 ## Important Links
 

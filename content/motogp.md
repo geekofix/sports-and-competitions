@@ -16,10 +16,10 @@ The FIM motorcycle world championship began in 1949, and the premier 500 cc clas
 
 ## Sources
 
-- FIM. (n.d.-a). *Technical Regulations — MotoGP premier class; world championship since 1949; spec ECU; gender-neutral regulations*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- FIM. (n.d.). *Technical Regulations — MotoGP premier class; world championship since 1949; spec ECU; gender-neutral regulations*. Retrieved November 22, 2026, from https://www.fim-moto.com/
 - MotoGP.com. (n.d.-a). *MotoGP — premier class; 2026 the final 1000 cc/Michelin season; 2027 switch to 850 cc, six engines, aero restrictions, ride-height device ban, Pirelli tires 2027–2031, 20 L tank, new weekend format with Sprint qualifying*. Retrieved November 22, 2026, from https://www.motogp.com/
 - MotoGP.com. (n.d.-b). *2026 champion Marc Márquez crowned at the Portuguese GP 20–22 November 2026 — eighth premier-class title equalling Agostini; 102-point comeback*. Retrieved November 22, 2026, from https://www.motogp.com/
-- Wikipedia. (n.d.-a). *MotoGP World Championship — 500 cc until 2001, 990 cc 2002–2006, 800 cc 2007–2011, 1000 cc 2012–2026; icons Agostini (15 titles), Rossi (9, five straight 2001–2005), Doohan (five straight 1994–1998), Stoner*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/MotoGP_World_Championship
+- Wikipedia. (n.d.). *MotoGP World Championship — 500 cc until 2001, 990 cc 2002–2006, 800 cc 2007–2011, 1000 cc 2012–2026; icons Agostini (15 titles), Rossi (9, five straight 2001–2005), Doohan (five straight 1994–1998), Stoner*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/MotoGP_World_Championship
 
 ### Figure Index
 

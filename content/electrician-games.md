@@ -12,7 +12,7 @@ Skilled trades have been tested in public competitions since the guilds of the M
 
 ## Sources
 
-- Wikipedia. (n.d.-a). *Electrician*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Electrician
+- Wikipedia. (n.d.). *Electrician*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Electrician
 - WorldSkills International. (n.d.). *Skill competitions — electrical installations and WorldSkills Competition*. Retrieved November 22, 2026, from https://worldskills.org/
 
 ## Important Links

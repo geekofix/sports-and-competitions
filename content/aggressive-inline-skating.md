@@ -4,6 +4,8 @@ Aggressive inline skating is the discipline of performing technical tricks on in
 
 Among the athletes shaping the sport today are the competitors of the 2025 Roller Freestyle World Championships in Sakai, Japan (November 22–27, 2025), which drew 70 athletes from 21 countries across park and street, senior and junior, with Brazil and France dominating the podiums (World Skate, n.d.-b). The 2026 World Skate Games in Asunción, Paraguay, host the next world-level events (World Skate, n.d.-c).
 
+Women compete on equal terms with men, including a dedicated women's division at the world championships.
+
 ## Rules
 
 In park and street contests, skaters perform runs or best-trick rounds on a course of rails, ledges, stairs, ramps and bowls, and are scored on difficulty, execution, variety and use of the course. Protective gear — helmet, and often knee, elbow and wrist pads — is mandatory at most contests. The skates are hard-boot aggressive skates with a soul plate and H-block for grinding, typically set up with four wheels in a flat or anti-rocker configuration for stability on tricks (World Skate, n.d.-a). There are separate men's and women's divisions at championships, judged under the same scoring system, plus junior categories (World Skate, n.d.-b).

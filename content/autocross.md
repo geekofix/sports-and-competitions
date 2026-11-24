@@ -1,12 +1,14 @@
 ## Basic Information
 
-Autocross — called Solo in the United States — is a timed motorsport in which one car at a time drives through a temporary course marked out with traffic cones on a large paved area such as an airfield or parking lot. The driver with the fastest clean run wins; each cone knocked over adds a two-second penalty. In the United States the discipline is governed by the Sports Car Club of America (SCCA), whose Tire Rack SCCA Solo National Championships are the pinnacle of the sport — the 53rd edition was held at Lincoln Airpark in Nebraska from September 7–11, 2026, with more than 1,200 drivers, roughly 8,400 timed runs and about 80 car classes, including dedicated Ladies classes (Sports Car Club of America [SCCA], n.d.-a). In Europe, autocross is also run as FIA-sanctioned racing on unpaved surfaces, with the FIA European Autocross Championship as its top series (FIA, n.d.).
+Autocross — called Solo in the United States — is a timed motorsport in which one car at a time drives through a temporary course marked out with traffic cones on a large paved area such as an airfield or parking lot. The driver with the fastest clean run wins; each cone knocked over adds a two-second penalty. In the United States the discipline is governed by the Sports Car Club of America (SCCA), whose Tire Rack SCCA Solo National Championships are the pinnacle of the sport — the 53rd edition was held at Lincoln Airpark in Nebraska from September 7–11, 2026, with more than 1,200 drivers, roughly 8,400 timed runs and about 80 car classes, including dedicated Ladies classes (Sports Car Club of America [SCCA], n.d.-a). In Europe, autocross is also run as FIA-sanctioned racing on unpaved surfaces, with the FIA European Autocross Championship as its top series (FIA, n.d.) (Sports Car Club of America, n.d.-a) (Sports Car Club of America, n.d.-b).
 
 The sport is one of the most accessible forms of four-wheel motorsport: competitors drive their own road cars, classified from near-stock "Stock" classes through "Street" and "Street Touring" up to heavily modified "Modified" classes, and a ProSolo variant adds a drag-race-style start with starting lights. Because the courses are short — typically 40–70 seconds — autocross is often called grassroots motorsport in its purest form (SCCA, n.d.-b).
 
 ![A participant racing a 1987 Chevrolet Corvette down the autocross course at Marine Corps Air Station Cherry Point, North Carolina](https://commons.wikimedia.org/wiki/Special:Redirect/file/Autocross_September_17,_2022_%281%29.jpg?width=560)
 
 *Figure: Lopez, C. J. (U.S. Marine Corps). (2022, September 17). A participant races his 1987 Chevrolet Corvette down the autocross course at Marine Corps Air Station Cherry Point, North Carolina [Photograph]. Wikimedia Commons. Public domain (PD US Marines). https://commons.wikimedia.org/wiki/File:Autocross_September_17,_2022_%281%29.jpg*
+
+Women compete in their own ladies' classes as well as the open categories at autocross events.
 
 ## Rules
 

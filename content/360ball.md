@@ -2,6 +2,8 @@
 
 360ball (styled 360BALL) is a young racquet sport played on a circular court with no fixed sides: players use a racquet to hit a rubber ball onto a centrally placed concave disc, which rebounds the ball in an unpredictable direction. Because every player can be reached from 360° around the disc, the game rewards anticipation and court coverage rather than fixed positions. In doubles, teammates may pass the ball to each other between strikes. The sport is promoted internationally by the Collins brothers' company Magnetic South, and leagues exist in South Africa, Spain, France and Germany (360ball, n.d.; Nautilus, n.d.). There is not yet a world governing federation or an official world ranking — see Important Links below.
 
+Women and men play 360ball in mixed and single-sex teams alike, and women's national teams compete at the world championships.
+
 ## Rules
 
 360ball is played as singles (1v1) or doubles (2v2) on a circular court. Three court types are used: a permanent court with surrounding walls, a mobile inflatable court, or simply a boundary rope with a starter set, so the game can be set up almost anywhere (360ball, n.d.). Players rotate 360° around the central disc, and a point is won when the ball bounces on the disc and the opponent cannot return it, when the ball is hit out of court, or on an opponent's fault. Matches are played in sets with a scoring system similar to tennis. Because there is no single world rulebook yet, exact scoring, court dimensions and disc sizes vary between the national leagues — a typical feature of a young sport whose official rules are still being standardized (360ball, n.d.; Knysna-Plett Herald, 2017).
@@ -14,7 +16,7 @@
 
 - 360ball. (n.d.). *Official website — rules, equipment and courts*. Retrieved November 21, 2026, from https://www.360ball.com/
 - ISPO. (2011). *ISPO Brand New Award — 360ball*. https://www.ispo.com/
-- Knysna-Plett Herald. (2017, July 10). *A whole new ball game*. https://www.knysnaplettherald.com/Sport/Article/Other/a-whole-new-ball-game-20170710
+- Knysna-Plett Herald. (2017). *A whole new ball game*. https://www.knysnaplettherald.com/Sport/Article/Other/a-whole-new-ball-game-20170710
 - Nautilus. (n.d.). *Four ball games you've never heard of*. Retrieved November 21, 2026, from https://nautil.us/four-ball-games-youve-never-heard-of-236075
 - Wikipedia. (n.d.). *360ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/360ball
 

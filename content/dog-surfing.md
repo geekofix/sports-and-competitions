@@ -8,7 +8,9 @@ Dog surfing is a competitive sport in which dogs ride ocean waves on surfboards,
 
 ![Two surf dogs riding a wave at the 2013 Surfing Dog Spectacular in Noosa](https://commons.wikimedia.org/wiki/Special:Redirect/file/2013_Surfing_Dog_Spectacular_-_photo_164.jpg?width=560)
 
-*Figure: Vetshopaustralia. (2013, March 10). 2013 Surfing Dog Spectacular - photo 164 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2013_Surfing_Dog_Spectacular_-_photo_164.jpg*
+*Figure: Vetshopaustralia. (2013, March 10). 2013 Surfing Dog Spectacular — photo 164 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2013_Surfing_Dog_Spectacular_-_photo_164.jpg*
+
+Women and men compete with their dogs on equal terms in dog surfing.
 
 ## Rules
 
@@ -21,7 +23,7 @@ The first dog surfing competition is credited to Imperial Beach, California, in 
 ## Sources
 
 - Associated Press. (2026). *Dogs ride the waves at annual World Dog Surfing Championships*. Retrieved November 22, 2026, from https://apnews.com/article/world-dog-surfing-championship-a16c43580b10624d2d343d59c3e94e59
-- Los Angeles Times. (2026, June 23). *Surf dogs Iza and Rippin' Rosie take top marks at Huntington Beach event*. Retrieved November 22, 2026, from https://www.latimes.com/socal/daily-pilot/news/story/2026-06-23/surf-dogs-iza-rippin-rosie-take-top-marks-at-huntington-beach-event
+- Los Angeles Times. (2026). *Surf dogs Iza and Rippin' Rosie take top marks at Huntington Beach event*. Retrieved November 22, 2026, from https://www.latimes.com/socal/daily-pilot/news/story/2026-06-23/surf-dogs-iza-rippin-rosie-take-top-marks-at-huntington-beach-event
 - Surf City Surf Dog. (n.d.). *Surf City Surf Dog competition rules and history*. Retrieved November 22, 2026, from https://surfdogevents.com/
 - Wikipedia. (n.d.). *Dog surfing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dog_surfing
 - World Dog Surfing Championships. (n.d.). *Official results \u2014 2026 World Dog Surfing Championships, Pacifica*. Retrieved November 22, 2026, from https://surfdogchampionships.com/

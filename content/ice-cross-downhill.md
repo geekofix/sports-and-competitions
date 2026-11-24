@@ -16,7 +16,7 @@ The first Crashed Ice event was held in 2001 in Quebec City, Canada, and Red Bul
 
 ## Sources
 
-- All Terrain Skate Cross Federation. (n.d.-a). *ATSX competition rules — heats of four, levels 1000/500/250/100, world ranking and world championship*. Retrieved November 22, 2026, from https://www.atsx.org/
+- All Terrain Skate Cross Federation. (n.d.). *ATSX competition rules — heats of four, levels 1000/500/250/100, world ranking and world championship*. Retrieved November 22, 2026, from https://www.atsx.org/
 - Wikipedia. (n.d.-a). *Ice cross downhill*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ice_cross_downhill
 - Wikipedia. (n.d.-b). *Crashed Ice*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Crashed_Ice
 

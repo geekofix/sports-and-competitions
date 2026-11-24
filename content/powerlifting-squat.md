@@ -17,8 +17,8 @@ Squatting with a barbell on the shoulders descends from 19th- and early-20th-cen
 ## Sources
 
 - International Powerlifting Federation. (2026). *Technical rules book 2026 — squat commands squat/rack, depth rule, faults, three attempts, equipment*. Retrieved November 23, 2026, from https://www.powerlifting.sport/fileadmin/ipf/data/rules/technical-rules/english/2026_IPF_Technical_Rulebook__effective_01_March_2026__v3.pdf
-- Wikipedia. (n.d.-b). *Squat (exercise) — barbell squat technique, depth rule, competition commands*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Squat_(exercise)
 - Wikipedia. (n.d.-a). *Bonica Brown — classic squat world record 280 kg 2023, equipped 310.5 kg 2017 World Games, 84+ kg class records*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Bonica_Brown
+- Wikipedia. (n.d.-b). *Squat (exercise) — barbell squat technique, depth rule, competition commands*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Squat_(exercise)
 
 ### Figure Index
 

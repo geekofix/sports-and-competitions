@@ -1,6 +1,6 @@
 ## Basic Information
 
-Matkot (the name comes from the Hebrew matka, "paddle") is a beach paddleball game played mainly in Israel, where it is often called the national beach sport (Wikipedia, n.d.-a; CBC News, n.d.). Two or more players — men and women alike — stand on the sand and hit a small rubber ball back and forth with solid wooden paddles, trying to keep the rally going for as many shots as possible (Wikipedia, n.d.-a). The exact origin of the word is debated (Haaretz, n.d.). Closely related games are played elsewhere: frescobol in Brazil and kadima in the United States use similar paddles and rally rules (Wikipedia, n.d.-a). Because the classic game has no winners or losers, it is as much a social ritual as a sport — on Tel Aviv beaches the sound of the paddle on the ball is ubiquitous in summer, and women play as often as men (CBC News, n.d.; Haaretz, n.d.).
+Matkot (the name comes from the Hebrew matka, "paddle") is a beach paddleball game played mainly in Israel, where it is often called the national beach sport (Wikipedia, n.d.-a; CBC News, n.d.). Two or more players — men and women alike — stand on the sand and hit a small rubber ball back and forth with solid wooden paddles, trying to keep the rally going for as many shots as possible (Wikipedia, n.d.-a). The exact origin of the word is debated (Haaretz, n.d.). Closely related games are played elsewhere: frescobol in Brazil and kadima in the United States use similar paddles and rally rules (Wikipedia, n.d.-a). Because the classic game has no winners or losers, it is as much a social ritual as a sport — on Tel Aviv beaches the sound of the paddle on the ball is ubiquitous in summer, and women play as often as men (CBC News, n.d.; Haaretz, n.d.) (Wikipedia, n.d.-b).
 
 ![Matkot players rallying a ball on the beach in Tel Aviv](https://commons.wikimedia.org/wiki/Special:Redirect/file/Matkot_players_on_the_beach_in_Tel_Aviv_Israel.jpg?width=560)
 
@@ -21,8 +21,8 @@ Matkot has been played on the beaches of Tel Aviv since the 1920s, during the Br
 ## Sources
 
 - CBC News. (n.d.). *Tic-tac-tic: Matkot is the sound of summer on Israel's beaches*. Retrieved November 22, 2026, from https://www.cbc.ca/news/world/tic-tac-tic-matkot-is-the-sound-of-summer-on-israel-s-beaches-1.4805966
-- Hadassah Magazine. (n.d.). *Matkot, Israel's beachside ball game*. Retrieved November 22, 2026, from https://www.hadassahmagazine.org/2016/06/08/israels-beachside-ball-game/
 - Haaretz. (n.d.). *The gold-medal fantasy of Israeli matkot*. Retrieved November 22, 2026, from https://www.haaretz.com/israel-news/travel/2012-08-22/ty-article/the-gold-medal-fantasy-of-israeli-matkot/0000017f-dc09-df62-a9ff-dcdfd5650000
+- Hadassah Magazine. (n.d.). *Matkot, Israel's beachside ball game*. Retrieved November 22, 2026, from https://www.hadassahmagazine.org/2016/06/08/israels-beachside-ball-game/
 - Times of Israel. (n.d.). *Thwack! Matkot and the start-up nation — origins lost to history, Gutman 1932 painting, matkot museum*. Retrieved November 22, 2026, from https://blogs.timesofisrael.com/thwack-matkot-and-the-start-up-nation/
 - Wikipedia. (n.d.-a). *Matkot — equipment, squash ball, kadima, frescobol, first competition 2000*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Matkot
 - Wikipedia. (n.d.-b). *Matkot — played on Tel Aviv beaches since the 1920s, Nahum Gutman 1932 painting*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Matkot

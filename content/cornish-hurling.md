@@ -16,8 +16,8 @@ Hurling is of Celtic origin and was once played across Cornwall on feast and fai
 
 ## Sources
 
-- BBC News. (2018, February 13). *Shrove Tuesday hurling tradition continues in Cornish town*. Retrieved November 22, 2026, from https://www.bbc.co.uk/news/uk-england-cornwall-43047317
-- Cornish Times. (2025, March 5). *Hurling history: Historian Barry West traces the origins of the ancient sport*. Retrieved November 22, 2026, from https://www.cornish-times.co.uk/news/hurling-history-historian-barry-west-traces-the-origins-of-the-ancient-sport-771312
+- BBC News. (2018). *Shrove Tuesday hurling tradition continues in Cornish town*. Retrieved November 22, 2026, from https://www.bbc.co.uk/news/uk-england-cornwall-43047317
+- Cornish Times. (2025). *Hurling history: Historian Barry West traces the origins of the ancient sport*. Retrieved November 22, 2026, from https://www.cornish-times.co.uk/news/hurling-history-historian-barry-west-traces-the-origins-of-the-ancient-sport-771312
 - Visit Newquay. (n.d.). *Hurling of the Silver Ball at St Columb Major*. Retrieved November 22, 2026, from https://www.visitnewquay.org/whats-on/hurling-of-the-silver-ball-at-st-columb-major-p1488133
 - Wikipedia. (n.d.). *Cornish hurling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Cornish_hurling
 

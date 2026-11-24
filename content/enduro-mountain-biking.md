@@ -18,7 +18,7 @@ Enduro mountain biking was born in the late 2000s at Finale Ligure on the Italia
 
 - UCI. (n.d.-a). *2026 UCI Enduro World Cup overall and UCI Enduro World Championships Finale Ligure — results*. Retrieved November 22, 2026, from https://www.uci.org/
 - UCI. (n.d.-b). *Mountain bike regulations — enduro format, stages, equipment and classes*. Retrieved November 22, 2026, from https://www.uci.org/discipline/mountain-bike
-- Wikipedia. (n.d.-a). *Enduro (mountain biking)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Enduro_(mountain_biking)
+- Wikipedia. (n.d.). *Enduro (mountain biking)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Enduro_(mountain_biking)
 
 ### Figure Index
 

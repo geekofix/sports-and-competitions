@@ -13,9 +13,9 @@ Short-sided rugby league grew out of Australian pre-season tournaments in the 19
 ## Sources
 
 - International Rugby League. (n.d.). *International Laws of the Game — modified formats including nines*. Retrieved November 23, 2026, from https://www.internationalrugbyleague.com/uploads/docs/International_Rugby_League_Laws_of_the_Game.pdf
-- NRL. (2019, July 19). *World Rugby League Nines 2019: all you need to know — 12 men's and 4 women's teams at Bankwest Stadium, Sydney*. Retrieved November 23, 2026, from https://www.nrl.com/news/2019/07/19/world-nines-2019-all-you-need-to-know/
+- NRL. (2019). *World Rugby League Nines 2019: all you need to know — 12 men's and 4 women's teams at Bankwest Stadium, Sydney*. Retrieved November 23, 2026, from https://www.nrl.com/news/2019/07/19/world-nines-2019-all-you-need-to-know/
 - Rugby League Zone. (n.d.). *The rise and fall of rugby league sevens and nines — 2019 World Cup 9s format: two 9-minute halves, golden try, bonus zone, drop-kick restart; nines established 1996*. Retrieved November 23, 2026, from https://rugbyleaguezone.com/the-rise-and-fall-of-rugby-league-sevens-and-nines-over-time-364956/
-- Wikipedia. (n.d.-a). *Rugby league nines — squad 15, 9 on field, bench 4, unlimited interchanges, 18 minutes in two 9-minute halves, sin bin, 2019 World Cup 9s Australia beat New Zealand*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rugby_league_nines
+- Wikipedia. (n.d.). *Rugby league nines — squad 15, 9 on field, bench 4, unlimited interchanges, 18 minutes in two 9-minute halves, sin bin, 2019 World Cup 9s Australia beat New Zealand*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rugby_league_nines
 
 ## Important Links
 

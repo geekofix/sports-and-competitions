@@ -1,6 +1,6 @@
 ## Basic Information
 
-Indiaca (also known as *peteca*) is the net sport in which two teams hit a shuttlecock-like ball — a small head with four unbroken feathers — back and forth over a net with the hand, palm or forearm (International Indiaca Association [IIA], n.d.-a; Wikipedia, n.d.-a). The game was invented in 1972 in Brazil by the German physical education teacher Karlhans Ehlert, who adapted the indigenous Brazilian hand game *peteca*, and it is today governed worldwide by the International Indiaca Association (IIA) under its Official Indiaca Rules (OIR) (Wikipedia, n.d.-a). International competition includes the Indiaca World Championships — the 7th edition was held in Tartu, Estonia, in August 2025 — and the 12th IIA General Assembly in 2026 (IIA, n.d.-b). Teams consist of four players on a court about 12.2 × 6.1 m divided by a net, play uses rally-point scoring with a maximum of three contacts per side, and men and women compete in equal men's, women's and mixed categories under identical rules (IIA, n.d.-a; Wikipedia, n.d.-a).
+Indiaca (also known as *peteca*) is the net sport in which two teams hit a shuttlecock-like ball — a small head with four unbroken feathers — back and forth over a net with the hand, palm or forearm (International Indiaca Association [IIA], n.d.-a; Wikipedia, n.d.-a). The game was invented in 1972 in Brazil by the German physical education teacher Karlhans Ehlert, who adapted the indigenous Brazilian hand game *peteca*, and it is today governed worldwide by the International Indiaca Association (IIA) under its Official Indiaca Rules (OIR) (Wikipedia, n.d.-a). International competition includes the Indiaca World Championships — the 7th edition was held in Tartu, Estonia, in August 2025 — and the 12th IIA General Assembly in 2026 (IIA, n.d.-b). Teams consist of four players on a court about 12.2 × 6.1 m divided by a net, play uses rally-point scoring with a maximum of three contacts per side, and men and women compete in equal men's, women's and mixed categories under identical rules (IIA, n.d.-a; Wikipedia, n.d.-a) (International Indiaca Association, n.d.-a) (International Indiaca Association, n.d.-b).
 
 ![Indiaca (peteca) ball](https://commons.wikimedia.org/wiki/Special:Redirect/file/Indiaca.jpg?width=480)
 
@@ -18,7 +18,7 @@ Indiaca was created in 1972 in Brazil by Karlhans Ehlert, a German physical educ
 
 - International Indiaca Association. (n.d.-a). *Official Indiaca Rules (OIR)*. Retrieved November 22, 2026, from https://www.indiaca-iia.com/
 - International Indiaca Association. (n.d.-b). *World Championships — Tartu 2025 — and General Assembly 2026*. Retrieved November 22, 2026, from https://www.indiaca-iia.com/
-- Wikipedia. (n.d.-a). *Indiaca*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indiaca
+- Wikipedia. (n.d.). *Indiaca*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Indiaca
 
 ### Figure Index
 

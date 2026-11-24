@@ -1,6 +1,6 @@
 ## Basic Information
 
-8-Ball Pool is the most widely played pool (pocket billiards) game in the world: on a 9-foot table, 15 object balls — seven solids, seven stripes and the black 8-ball — are played with the cue ball. Professional play follows the World Pool-Billiard Association (WPA) rules, and the WPA sanctions an official World Eight-ball Championship (World Pool-Billiard Association [WPA], n.d.-c). See also [9-Ball Pool](9-ball-pool.html), [10-Ball Pool](10-ball-pool.html), [Billiards](billiards.html), [Straight Pool](straight-pool.html) and [Carom Billiards](carom-billiards.html) on this site.
+8-Ball Pool is the most widely played pool (pocket billiards) game in the world: on a 9-foot table, 15 object balls — seven solids, seven stripes and the black 8-ball — are played with the cue ball. Professional play follows the World Pool-Billiard Association (WPA) rules, and the WPA sanctions an official World Eight-ball Championship (World Pool-Billiard Association [WPA], n.d.-c). See also [9-Ball Pool](9-ball-pool.html), [10-Ball Pool](10-ball-pool.html), [Billiards](billiards.html), [Straight Pool](straight-pool.html) and [Carom Billiards](carom-billiards.html) on this site (World Pool-Billiard Association, n.d.-a) (World Pool-Billiard Association, n.d.-b) (World Pool-Billiard Association, n.d.-c).
 
 Among the players shaping the game today are the Philippines' Chezka Centeno, who won the 2026 WPA Women's World Eight-ball Championship 9–6 over Kelly Fisher in Green Bay, Wisconsin, on July 26, 2026, and Singapore's Aloysius Yapp, who won the 2026 WPA World Eight-ball Championship 10–4 over Francisco Sánchez Ruiz in St. Louis on April 8, 2026 (WPA, n.d.-b). Austria's Jasmin Ouschan, the 2025 women's world champion (9–8 over Centeno) and head of the WPA women's ranking, is another leading figure on the women's side (WPA, n.d.-a; WPA, n.d.-b).
 
@@ -28,11 +28,11 @@ After the break the table is "open" until a player legally pockets a ball; that 
 
 - Cue Sports International. (n.d.). *Official rules of play*. Retrieved November 21, 2026, from https://www.playcsipool.com/
 - Matchroom Pool. (n.d.). *Rankings*. Retrieved November 21, 2026, from https://matchroompool.com/rankings/
+- Wikipedia. (n.d.). *Eight-ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Eight-ball
 - World Pool-Billiard Association. (n.d.-a). *Rankings*. Retrieved November 21, 2026, from https://wpapool.com/rankings/
 - World Pool-Billiard Association. (n.d.-b). *World champions*. Retrieved November 21, 2026, from https://wpapool.com/world-champions/
 - World Pool-Billiard Association. (n.d.-c). *World Pool-Billiard Association*. Retrieved November 21, 2026, from https://wpapool.com/
 - World Pool-Billiard Association. (2025). *Rules of play* (effective September 15, 2025). https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf
-- Wikipedia. (n.d.). *Eight-ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Eight-ball
 
 ### Figure Index
 

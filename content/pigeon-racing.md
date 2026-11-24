@@ -17,8 +17,8 @@ Homing pigeons carried messages from antiquity — the practice is documented in
 ## Sources
 
 - Fédération Columbophile Internationale (FCI). (n.d.). *Race rules and world championships*. Retrieved November 22, 2026, from https://www.pigeonsfci.net/
-- Royal Pigeon Racing Association. (2026). *Official rule book 2026*. Retrieved November 22, 2026, from https://www.rpra.org/wp-content/uploads/2026/09/2026-RPRA-OFFICIAL-RULE-BOOK-1.pdf
 - Royal Pigeon Racing Association. (n.d.). *About the RPRA and getting started in one loft racing*. Retrieved November 22, 2026, from https://www.rpra.org/about-rpra/
+- Royal Pigeon Racing Association. (2026). *Official rule book 2026*. Retrieved November 22, 2026, from https://www.rpra.org/wp-content/uploads/2026/09/2026-RPRA-OFFICIAL-RULE-BOOK-1.pdf
 - Wikipedia. (n.d.). *Pigeon racing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pigeon_racing
 
 ### Figure Index

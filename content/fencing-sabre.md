@@ -1,6 +1,6 @@
 ## Basic Information
 
-Sabre is the cutting-and-thrusting weapon of fencing — derived from the 19th-century cavalry saber — in which the valid target is everything above the waist, including head and arms, the rules of right of way decide priority, and the bouts are the fastest and most explosive of the three weapons (Wikipedia, n.d.-a). Men's sabre has been contested at every Olympic Games since Athens 1896, and women's sabre joined the Olympic program at Athens 2004 (Olympics.com, n.d.). The weapon is governed by the Fédération Internationale d'Escrime (FIE), whose 2026 World Championships in Hong Kong (22–30 July 2026) included men's and women's individual and team sabre among the twelve events (FIE, n.d.-a). See [Fencing](fencing.html) on this site for the shared rules of the sport.
+Sabre is the cutting-and-thrusting weapon of fencing — derived from the 19th-century cavalry saber — in which the valid target is everything above the waist, including head and arms, the rules of right of way decide priority, and the bouts are the fastest and most explosive of the three weapons (Wikipedia, n.d.-a). Men's sabre has been contested at every Olympic Games since Athens 1896, and women's sabre joined the Olympic program at Athens 2004 (Olympics.com, n.d.). The weapon is governed by the Fédération Internationale d'Escrime (FIE), whose 2026 World Championships in Hong Kong (22–30 July 2026) included men's and women's individual and team sabre among the twelve events (FIE, n.d.-a). See [Fencing](fencing.html) on this site for the shared rules of the sport (Fédération Internationale d'Escrime, n.d.-a) (Fédération Internationale d'Escrime, n.d.-b).
 
 In the 2026/27 season the women's sabre is led by France's Toscane Tori and Bulgaria's Yoana Ilieva, while the men's sabre rankings are headed by France's Sébastien Patrice; Hungary's Áron Szilágyi, three-time individual Olympic champion from 2012 to 2020, remains the reference of the weapon (FIE, n.d.-b).
 
@@ -29,7 +29,7 @@ Hungary has historically dominated the weapon: Aladár Gerevich (1910–1991) wo
 - Fédération Internationale d'Escrime. (n.d.-a). *2026 World Championships in Hong Kong — 22–30 July 2026, twelve events and results*. Retrieved November 22, 2026, from https://www.fie.org/
 - Fédération Internationale d'Escrime. (n.d.-b). *FIE rules — sabre conventions, target area and right of way (August 2026 edition)*. Retrieved November 22, 2026, from https://fie.org/documents/rules
 - Olympics.com. (n.d.). *Sabre at the Olympic Games*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/fencing
-- Wikipedia. (n.d.-a). *Sabre (fencing)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Sabre_(fencing)
+- Wikipedia. (n.d.). *Sabre (fencing)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Sabre_(fencing)
 
 ### Figure Index
 

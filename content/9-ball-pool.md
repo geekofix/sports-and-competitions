@@ -1,6 +1,6 @@
 ## Basic Information
 
-9-Ball Pool is the premier professional pool (rotation) game: played on a 9-foot table with balls 1 through 9 plus the cue ball, racked in a diamond. It is the main event at major tournaments — including the million-dollar World Pool Championship — and is governed by the World Pool-Billiard Association (WPA) (World Pool-Billiard Association [WPA], n.d.-c). See also [8-Ball Pool](8-ball-pool.html), [10-Ball Pool](10-ball-pool.html), [Billiards](billiards.html), [Straight Pool](straight-pool.html) and [Carom Billiards](carom-billiards.html) on this site.
+9-Ball Pool is the premier professional pool (rotation) game: played on a 9-foot table with balls 1 through 9 plus the cue ball, racked in a diamond. It is the main event at major tournaments — including the million-dollar World Pool Championship — and is governed by the World Pool-Billiard Association (WPA) (World Pool-Billiard Association [WPA], n.d.-c). See also [8-Ball Pool](8-ball-pool.html), [10-Ball Pool](10-ball-pool.html), [Billiards](billiards.html), [Straight Pool](straight-pool.html) and [Carom Billiards](carom-billiards.html) on this site (World Pool-Billiard Association, n.d.-a) (World Pool-Billiard Association, n.d.-b) (World Pool-Billiard Association, n.d.-c).
 
 Among the players shaping the game today are the Philippines' Chezka Centeno, one of the leading women in professional pool, and Austria's Jasmin Ouschan, who heads the WPA women's world ranking (WPA, n.d.-a; WPA, n.d.-b). On the men's side, the Philippines' Carlo Biado won the 2025 WPA World Nine-ball Championship in Jeddah 15–13 over Fedor Gorst of the USA, and the November 2026 world tour (WNT) rankings are led by Singapore's Aloysius Yapp, followed by Biado, Spain's Francisco Sánchez Ruiz and Gorst (Matchroom Pool, n.d.; WPA, n.d.-b).
 
@@ -28,11 +28,11 @@ Under WPA rules the cue ball must contact the lowest-numbered ball on the table 
 
 - Cue Sports International. (n.d.). *Official rules of play*. Retrieved November 21, 2026, from https://www.playcsipool.com/
 - Matchroom Pool. (n.d.). *Rankings*. Retrieved November 21, 2026, from https://matchroompool.com/rankings/
+- Wikipedia. (n.d.). *Nine-ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Nine-ball
 - World Pool-Billiard Association. (n.d.-a). *Rankings*. Retrieved November 21, 2026, from https://wpapool.com/rankings/
 - World Pool-Billiard Association. (n.d.-b). *World champions*. Retrieved November 21, 2026, from https://wpapool.com/world-champions/
 - World Pool-Billiard Association. (n.d.-c). *World Pool-Billiard Association*. Retrieved November 21, 2026, from https://wpapool.com/
 - World Pool-Billiard Association. (2025). *Rules of play* (effective September 15, 2025). https://wpapool.com/wp-content/uploads/2025/09/2025.09.15-WPA-Rules.pdf
-- Wikipedia. (n.d.). *Nine-ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Nine-ball
 
 ### Figure Index
 

@@ -23,7 +23,7 @@ Skateboarding emerged in California in the late 1940s–1950s when surfers wante
 ## Sources
 
 - Olympics. (n.d.). *Skateboarding at the Olympic Games*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/skateboarding
-- Wikipedia. (n.d.-a). *Skateboarding*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Skateboarding
+- Wikipedia. (n.d.). *Skateboarding*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Skateboarding
 - World Skate. (n.d.-a). *Skateboarding competition rules — street and park*. Retrieved November 22, 2026, from https://www.worldskate.org/skateboarding
 - World Skate. (n.d.-b). *World Skate Games 2026 Asunción and 2026 results*. Retrieved November 22, 2026, from https://www.worldskate.org/events
 

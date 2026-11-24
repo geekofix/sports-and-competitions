@@ -1,6 +1,6 @@
 ## Basic Information
 
-Kyūdō is the Japanese art of archery, practiced with the long asymmetrical yumi bow (about 2.21 m) at a 28 m distance toward a 36 cm target, and organized in Japan by the All Nippon Kyudo Federation (ANKF), which was formed in 1949 and counted 135,660 members in 2021 across 47 prefectural federations (All Nippon Kyudo Federation, n.d.-a). Internationally the sport is governed by the International Kyudo Federation (IKYF), founded in May 2006, which now has 32 member nations and organizes the World Kyudo Taikai — held in Tokyo 2010, Paris 2014, Tokyo 2018 and Tokyo 2022 (International Kyudo Federation, n.d.-a). Women are a large and growing share of ANKF membership and compete in every competition, from club championships to the All Japan Kyudo Taikai and the World Taikai, on equal terms with men in both individual and team events (All Nippon Kyudo Federation, n.d.-a). The 2014 Kyudo World Cup in Paris, pictured below, was the second edition of that international team competition.
+Kyūdō is the Japanese art of archery, practiced with the long asymmetrical yumi bow (about 2.21 m) at a 28 m distance toward a 36 cm target, and organized in Japan by the All Nippon Kyudo Federation (ANKF), which was formed in 1949 and counted 135,660 members in 2021 across 47 prefectural federations (All Nippon Kyudo Federation, n.d.-a). Internationally the sport is governed by the International Kyudo Federation (IKYF), founded in May 2006, which now has 32 member nations and organizes the World Kyudo Taikai — held in Tokyo 2010, Paris 2014, Tokyo 2018 and Tokyo 2022 (International Kyudo Federation, n.d.-a). Women are a large and growing share of ANKF membership and compete in every competition, from club championships to the All Japan Kyudo Taikai and the World Taikai, on equal terms with men in both individual and team events (All Nippon Kyudo Federation, n.d.-a). The 2014 Kyudo World Cup in Paris, pictured below, was the second edition of that international team competition (Wikipedia, n.d.-a).
 
 ![Kyūdōka in team competition at the 2014 Kyudo World Cup in Paris](https://commons.wikimedia.org/wiki/Special:Redirect/file/2014_Kyudo_World_Cup_09.jpg?width=480)
 
@@ -16,8 +16,8 @@ Kyūdō descends from kyūjutsu, the archery of the samurai, which was practiced
 
 ## Sources
 
-- All Nippon Kyudo Federation. (n.d.-a). *ANKF — founded 1949, 47 prefectural federations, Kyudo Kyohon, competitions and gradings*. Retrieved November 22, 2026, from https://www.kyudo.jp/
-- International Kyudo Federation. (n.d.-a). *IKYF — founded 2006, 32 member nations, World Taikai and World Cup*. Retrieved November 22, 2026, from https://www.ikyf.org/
+- All Nippon Kyudo Federation. (n.d.). *ANKF — founded 1949, 47 prefectural federations, Kyudo Kyohon, competitions and gradings*. Retrieved November 22, 2026, from https://www.kyudo.jp/
+- International Kyudo Federation. (n.d.). *IKYF — founded 2006, 32 member nations, World Taikai and World Cup*. Retrieved November 22, 2026, from https://www.ikyf.org/
 - Wikipedia. (n.d.-a). *Kyudo*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyudo
 - Wikipedia. (n.d.-b). *Kyudo — kyūjutsu origins, name adopted 1919, hassetsu, 28 m kinteki*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kyudo
 

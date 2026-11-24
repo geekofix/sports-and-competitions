@@ -6,6 +6,8 @@ The crying baby festival — Naki-zumo, the "crying sumo" ritual — is a more t
 
 *Figure: Brinacor. (2018, April 28). Naki Sumo Crying Baby Festival Sensoji Asakusa 2018 1 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Naki_Sumo_Crying_Baby_Festival_Sensoji_Asakusa_2018_1.jpg*
 
+Women and men alike enter their babies — the festival makes no distinction by the parents' gender.
+
 ## Rules
 
 There is no international federation for this temple-organized ritual competition; the format is set by Senso-ji (Sensō-ji Temple, n.d.). Babies between roughly 6 and 18 months old are eligible in Tokyo, while the Aomori variant accepts infants from 4 months to 2 years (Wikipedia, n.d.). Each bout is a display contest: the gyoji holds the baby and attempts to make it cry, and the first baby to cry wins the bout; simultaneous crying is decided in favor of the louder or longer cry (Sensō-ji Temple, n.d.). Around 100 babies take part per edition, and the atmosphere is festive rather than scored — there is no points table, only the sequence of bouts (Kyodo News, 2026, April 25). Men and women participate equally as parents, and boys and girls compete on the same terms in the bouts (Wikipedia, n.d.).
@@ -16,7 +18,7 @@ The festival's roots at Senso-ji reach back more than 400 years into the Edo per
 
 ## Sources
 
-- Kyodo News. (2026, April 25). *Crying baby festival held at Tokyo's Sensoji temple*. https://english.kyodonews.net/
+- Kyodo News. (2026). *Crying baby festival held at Tokyo's Sensoji temple*. https://english.kyodonews.net/
 - Sensō-ji Temple. (n.d.). *Naki-zumo (crying baby festival)*. Retrieved November 22, 2026, from https://www.sensoji.or.jp/
 - Wikipedia. (n.d.). *Naki-zumō*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Naki-zum%C5%8D
 

@@ -32,7 +32,7 @@ Camel racing has been part of Bedouin culture on the Arabian Peninsula for centu
 
 - Dubai Camel Racing Club. (n.d.). *DCRC — Al Marmoom Heritage Festival 2026, Al Marmoom Camel Racetrack*. Retrieved November 21, 2026, from https://dubaicrc.ae/
 - Human Rights Watch. (n.d.). *UAE — child jockeys in camel racing; 2002 ban and robot jockeys*. Retrieved November 21, 2026, from https://www.hrw.org/
-- The World (PRX). (2016, July 30). *Camel festivals: Wrestling, racing, jumping and a beauty contest*. https://theworld.org/stories/2016/07/30/camel-festivals-wrestling-racing-jumping-and-beauty-contest
+- The World (PRX). (2016). *Camel festivals: Wrestling, racing, jumping and a beauty contest*. https://theworld.org/stories/2016/07/30/camel-festivals-wrestling-racing-jumping-and-beauty-contest
 
 ### Figure Index
 

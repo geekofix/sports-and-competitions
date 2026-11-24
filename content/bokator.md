@@ -22,8 +22,8 @@ Bokator's origins reach back to the Angkor period (9th–15th centuries), when b
 
 ## Sources
 
-- SEA Games Federation. (n.d.-a). *Bokator at the 32nd SEA Games Phnom Penh 2023 — competition format*. Retrieved November 21, 2026, from https://www.seagamesfederation.org/
-- UNESCO. (n.d.-a). *Bokator, traditional martial arts in Cambodia — intangible cultural heritage listing*. Retrieved November 21, 2026, from https://ich.unesco.org/en/USL/bokator-traditional-martial-arts-in-cambodia-01766
+- SEA Games Federation. (n.d.). *Bokator at the 32nd SEA Games Phnom Penh 2023 — competition format*. Retrieved November 21, 2026, from https://www.seagamesfederation.org/
+- UNESCO. (n.d.). *Bokator, traditional martial arts in Cambodia — intangible cultural heritage listing*. Retrieved November 21, 2026, from https://ich.unesco.org/en/USL/bokator-traditional-martial-arts-in-cambodia-01766
 
 ### Figure Index
 

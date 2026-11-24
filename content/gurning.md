@@ -13,7 +13,7 @@ Egremont Crab Fair was chartered by Henry III in 1267 and is one of England's ol
 ## Sources
 
 - BBC News. (2026). *Actor Will Mellor beaten in Cumbria world gurning championships*. https://www.bbc.com/news/articles/crjw5p03qqpvo
-- Cumbria Crack. (2026, September 20). *World Gurning Championships 2026: Ged Eccles takes crown*. https://cumbriacrack.com/2026/09/20/world-gurning-championships-2026-ged-eccles-takes-crown/
+- Cumbria Crack. (2026). *World Gurning Championships 2026: Ged Eccles takes crown*. https://cumbriacrack.com/2026/09/20/world-gurning-championships-2026-ged-eccles-takes-crown/
 - Egremont Crab Fair. (n.d.). *World Gurning Championships — Egremont Crab Fair*. Retrieved November 22, 2026, from https://www.egremontcrabfair.com/
 - Guinness World Records. (n.d.). *Gurning — records and history*. Retrieved November 22, 2026, from https://www.guinnessworldrecords.com/
 - Wikipedia. (n.d.-a). *Egremont Crab Fair*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Egremont_Crab_Fair

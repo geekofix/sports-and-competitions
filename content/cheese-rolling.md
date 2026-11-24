@@ -20,9 +20,9 @@ The earliest known written attestation of the Cooper's Hill Cheese-Rolling and W
 
 ## Sources
 
-- BBC News. (2026, May 25). *Cheese rolling 2026: German YouTuber Tom Kopke among Cooper's Hill winners*. Retrieved November 22, 2026, from https://www.bbc.com/news/articles/c98rrde2d9no
+- BBC News. (2026). *Cheese rolling 2026: German YouTuber Tom Kopke among Cooper's Hill winners*. Retrieved November 22, 2026, from https://www.bbc.com/news/articles/c98rrde2d9no
 - Guinness World Records. (n.d.). *Most Cooper's Hill cheese-rolling race wins*. Retrieved November 22, 2026, from https://www.guinnessworldrecords.com
-- Stroud News and Journal. (2026, May 25). *Cooper's Hill cheese-rolling: Full winners revealed*. Retrieved November 22, 2026, from https://www.stroudnewsandjournal.co.uk/news/26144447.coopers-hill-cheese-rolling-full-winners-revealed/
+- Stroud News and Journal. (2026). *Cooper's Hill cheese-rolling: Full winners revealed*. Retrieved November 22, 2026, from https://www.stroudnewsandjournal.co.uk/news/26144447.coopers-hill-cheese-rolling-full-winners-revealed/
 - Wikipedia. (n.d.). *Cooper's Hill Cheese-Rolling and Wake*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake
 
 ### Figure Index

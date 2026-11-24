@@ -1,6 +1,6 @@
 ## Basic Information
 
-American football is a contact team sport played with an oval ball: 11 players per side try to advance the ball into the opponent's end zone by running or passing, in four 15-minute quarters. The National Football League (NFL) is the top professional league in the United States; internationally the sport is governed by the International Federation of American Football (IFAF), and flag football — the non-contact variant — will make its Olympic debut at Los Angeles 2028, open to women and men (International Federation of American Football [IFAF], n.d.-b).
+American football is a contact team sport played with an oval ball: 11 players per side try to advance the ball into the opponent's end zone by running or passing, in four 15-minute quarters. The National Football League (NFL) is the top professional league in the United States; internationally the sport is governed by the International Federation of American Football (IFAF), and flag football — the non-contact variant — will make its Olympic debut at Los Angeles 2028, open to women and men (International Federation of American Football [IFAF], n.d.-b) (International Federation of American Football, n.d.-a) (International Federation of American Football, n.d.-b) (National Football League, n.d.-a) (National Football League, n.d.-b).
 
 The most recent championship season ended with Super Bowl LX on February 8, 2026 at Levi's Stadium in Santa Clara, California, where the Seattle Seahawks defeated the New England Patriots 29–13 to win their second Lombardi Trophy (after Super Bowl XLVIII in 2014). Running back Kenneth Walker III was named Super Bowl MVP after 135 rushing yards, quarterback Sam Darnold led the offense under head coach Mike Macdonald, and kicker Jason Myers set a Super Bowl record with five field goals; the Patriots were led by quarterback Drake Maye, and Bad Bunny headlined the halftime show (National Football League [NFL], n.d.-b). On the women's side, national teams compete at the IFAF Women's World Championship, and women's professional and semi-professional leagues operate in the United States (IFAF, n.d.-a).
 
@@ -11,10 +11,6 @@ The most recent championship season ended with Super Bowl LX on February 8, 2026
 ## Rules
 
 A game consists of four 15-minute quarters on a field 120 yards (360 ft) long and 53 1/3 yards (160 ft) wide, including two 10-yard end zones, with yard lines marked every 5 yards. The offense has four downs (plays) to advance the ball at least 10 yards; failing that, possession turns over. Scoring: touchdown 6 points, field goal 3, safety 2, point-after-touchdown kick 1, two-point conversion 2. After a scored touchdown the scoring team kicks off to the opponent. The defense can score via interceptions, fumble recoveries and safeties. Penalties — holding, offside, pass interference and others — cost 5 to 15 yards, and the two-minute warning stops the clock late in each half. College football (NCAA) differs in some details (hash marks, clock stops), and [Flag Football](flag-football.html) — played without contact by pulling a flag from the ball carrier — is the Olympic variant (NFL, n.d.-a).
-
-![American football field, top view — 100-yard field with yard lines every 5 yards and two 10-yard end zones](../assets/img/american-football-field.svg)
-
-*Figure: Sports & Competitions Encyclopedia. (2026). American football field, top view — 100 yd playing field plus two 10 yd end zones, yard lines every 5 yd [Diagram]. Own diagram.*
 
 ## History
 

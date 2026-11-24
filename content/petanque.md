@@ -17,8 +17,8 @@ Pétanque was born in 1907 in La Ciotat near Marseille, when the former jeu prov
 ## Sources
 
 - FIPJP. (n.d.). *Official rules of pétanque — circle, jack distance, scoring to 13, world championships categories incl. women's and mixed*. Retrieved November 23, 2026, from https://www.fipjp.com/
-- Wikipedia. (n.d.-b). *Pétanque World Championships — FIPJP founded 8 March 1958 Marseille; first men's triples 1959 Spa; 2026 Khon Kaen Thailand 20–24 November, 48 countries; Mondial la Marseillaise 2026 record 4,832 triplettes, women's GP Paprec Picard/Baussian-Protat/Boriès*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/P%C3%A9tanque_World_Championships
 - Wikipedia. (n.d.-a). *Pétanque — invented 1907 La Ciotat by Jules Lenoir, formalized by Pitiot brothers 1910; Obut 1955; 50 cm circle, jack 6–10 m, scoring to 13; World Games 1985*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/P%C3%A9tanque
+- Wikipedia. (n.d.-b). *Pétanque World Championships — FIPJP founded 8 March 1958 Marseille; first men's triples 1959 Spa; 2026 Khon Kaen Thailand 20–24 November, 48 countries; Mondial la Marseillaise 2026 record 4,832 triplettes, women's GP Paprec Picard/Baussian-Protat/Boriès*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/P%C3%A9tanque_World_Championships
 
 ### Figure Index
 

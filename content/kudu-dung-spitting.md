@@ -1,6 +1,8 @@
 ## Basic Information
 
-Kudu dung-spitting is a novelty competition in which contestants spit dried dung pellets of the kudu — a large antelope native to southern Africa — for maximum distance. It originated as a joke among farmers and hunters in South Africa and has become an organized championship event held in the Eastern Cape, where participants compete in categories for distance, and the sport attracts crowds and media attention as an eccentric but beloved part of South African rural festival culture.
+Kudu dung-spitting is a novelty competition in which contestants spit dried dung pellets of the kudu — a large antelope native to southern Africa — for maximum distance. It originated as a joke among farmers and hunters in South Africa and has become an organized championship event held in the Eastern Cape, where participants compete in categories for distance, and the sport attracts crowds and media attention as an eccentric but beloved part of South African rural festival culture (News24, n.d.).
+
+Women and men compete on equal terms in kudu dung spitting.
 
 ## Rules
 

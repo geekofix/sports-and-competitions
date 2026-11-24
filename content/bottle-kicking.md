@@ -23,7 +23,7 @@ Records of bottle-kicking date to the late 18th century, though local lore trace
 ## Sources
 
 - BBC. (2026). *Hallaton bottle kicking 2026 — Easter Monday report*. Retrieved November 21, 2026, from https://www.bbc.co.uk/news/articles/cpdzy9vqw70o
-- Harborough Museum. (n.d.-a). *The Hallaton bottle-kicking tradition and museum collection*. Retrieved November 21, 2026, from https://www.harboroughmuseum.org.uk/
+- Harborough Museum. (n.d.). *The Hallaton bottle-kicking tradition and museum collection*. Retrieved November 21, 2026, from https://www.harboroughmuseum.org.uk/
 
 ### Figure Index
 

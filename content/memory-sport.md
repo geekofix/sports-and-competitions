@@ -13,9 +13,9 @@ Trained memory has been taught since ancient Greece — the "art of memory" with
 ## Sources
 
 - Art of Memory. (n.d.). *World Memory Championships — WMSC founded by Tony Buzan and Ray Keene 1991; IAM split 2016, both worlds from 2017; 2026 editions Ho Chi Minh City 11–13 Dec and Kuta, Bali 17–19 Dec; ten disciplines*. Retrieved November 22, 2026, from https://artofmemory.com/wiki/World_Memory_Championships/
-- World Memory Sports Council. (n.d.). *World Memory Championships — results, statistics, world rankings, ten disciplines and scoring*. Retrieved November 22, 2026, from https://www.worldmemorychampionships.com/results-and-statistics/
 - Wikipedia. (n.d.-a). *Memory sport — WMSC and IAM champions (Naranzul Otgon-Ulaan, Vishvaa Rajakumar), Katie Kermode record, disciplines*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Memory_sport
 - Wikipedia. (n.d.-b). *World Memory Championships and world memory champions — O'Brien 8×, Bell/Pridmore/Mullen 3×, Ryu Song I, Narmandakh, Wang Feng; Tony Buzan 1942–2019*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Memory_Championships
+- World Memory Sports Council. (n.d.). *World Memory Championships — results, statistics, world rankings, ten disciplines and scoring*. Retrieved November 22, 2026, from https://www.worldmemorychampionships.com/results-and-statistics/
 
 ## Important Links
 

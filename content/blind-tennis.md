@@ -1,6 +1,6 @@
 ## Basic Information
 
-Blind tennis — also called blind and low-vision (BLV) tennis or sound tennis — is tennis adapted for players who are blind or have a vision impairment. It is played with a larger ball that contains bearings so it makes noise, on a smaller court with tactile lines for the lowest vision class, and with audible calls before every serve. The International Blind Tennis Association (International Blind Tennis Association [IBTA], n.d.-a) runs the world championships; in September 2025 the IBTA signed a memorandum of understanding with the International Blind Sports Federation (IBSA), and in October 2025 with the International Tennis Federation (International Tennis Federation [ITF], n.d.-a), after which IBSA formed a Blind Tennis Committee in August 2026 to oversee global governance. The sport is not on the Paralympic programme.
+Blind tennis — also called blind and low-vision (BLV) tennis or sound tennis — is tennis adapted for players who are blind or have a vision impairment. It is played with a larger ball that contains bearings so it makes noise, on a smaller court with tactile lines for the lowest vision class, and with audible calls before every serve. The International Blind Tennis Association (International Blind Tennis Association [IBTA], n.d.-a) runs the world championships; in September 2025 the IBTA signed a memorandum of understanding with the International Blind Sports Federation (IBSA), and in October 2025 with the International Tennis Federation (International Tennis Federation [ITF], n.d.-a), after which IBSA formed a Blind Tennis Committee in August 2026 to oversee global governance. The sport is not on the Paralympic programme (International Blind Tennis Association, n.d.-a) (International Blind Tennis Association, n.d.-b).
 
 At the 2026 IBTA World Championships at the SEB Arena in Vilnius, Lithuania (August 24–29, 2026), more than 120 athletes from over 20 countries played about 320 matches across the B1–B4 classes, and Australia defended its team title; the first world women's BLV tennis tournament followed in Benidorm, Spain (September 3–5, 2026) (IBTA, n.d.-a). On the women's side, national federations such as the United States Blind Tennis Association (founded 2022) are building the first permanently lined blind tennis courts, and the 2026 Benidorm event marked the first standalone world women's championship (IBTA, n.d.-b).
 
@@ -16,7 +16,7 @@ Blind tennis was created in 1984 in Japan by Miyoshi Takei (c. 1942–2011), who
 
 - International Blind Tennis Association. (n.d.-a). *IBTA World Championships 2026, Vilnius — classes and rules*. Retrieved November 21, 2026, from https://www.ibsasports.org/
 - International Blind Tennis Association. (n.d.-b). *World women's blind tennis tournament 2026, Benidorm*. Retrieved November 21, 2026, from https://www.ibsasports.org/
-- International Tennis Federation. (n.d.-a). *Blind tennis governance and IBTA–ITF cooperation*. Retrieved November 21, 2026, from https://www.itftennis.com/
+- International Tennis Federation. (n.d.). *Blind tennis governance and IBTA–ITF cooperation*. Retrieved November 21, 2026, from https://www.itftennis.com/
 
 ## Important Links
 

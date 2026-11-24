@@ -1,6 +1,6 @@
 ## Basic Information
 
-Super-G (super giant slalom) is the alpine skiing speed discipline that sits between downhill and giant slalom: one timed run on a long course with fewer, wider turns than giant slalom, producing high speeds. It is governed by the FIS, joined the World Ski Championships in 1987 and the Olympic program at Calgary 1988 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.).
+Super-G (super giant slalom) is the alpine skiing speed discipline that sits between downhill and giant slalom: one timed run on a long course with fewer, wider turns than giant slalom, producing high speeds. It is governed by the FIS, joined the World Ski Championships in 1987 and the Olympic program at Calgary 1988 (International Ski and Snowboard Federation [FIS], n.d.-a; Olympics.com, n.d.) (International Ski and Snowboard Federation, n.d.-a) (International Ski and Snowboard Federation, n.d.-b) (International Ski and Snowboard Federation, n.d.-c).
 
 Among the athletes who shape the discipline today, the leading women come first: Italy's Federica Brignone won Olympic super-G gold at Milano-Cortina 2026 in 1:23.41. On the men's side, Switzerland's Franjo von Allmen took Olympic gold in 1:25.32, and compatriot Marco Odermatt is the reigning World Cup overall champion (FIS, n.d.-a; FIS, n.d.-b).
 

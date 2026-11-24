@@ -16,8 +16,8 @@ Paddle tennis was invented in 1898 by Frank Peer Beal, an Episcopal minister in 
 
 ## Sources
 
-- USTA. (n.d.). *POP Tennis — official rules and court dimensions*. Retrieved November 22, 2026, from https://www.usta.com/en/home/play/recreational-tennis/programs/pop-tennis.html
 - USA Pickleball. (n.d.). *History of pickleball and paddle tennis*. Retrieved November 22, 2026, from https://usapickleball.org/
+- USTA. (n.d.). *POP Tennis — official rules and court dimensions*. Retrieved November 22, 2026, from https://www.usta.com/en/home/play/recreational-tennis/programs/pop-tennis.html
 - Wikipedia. (n.d.). *Paddle tennis*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Paddle_tennis
 
 ### Figure Index

@@ -18,8 +18,8 @@ Psyonix, founded in 2000 by Dave Hagewood, released its first game, Supersonic A
 
 - BLAST. (n.d.). *RLCS — Rocket League Championship Series organized by BLAST; formats 3v3/2v2/1v1; minimum age 15; women's circuits alongside the open event*. Retrieved November 23, 2026, from https://www.blast.tv/
 - Psyonix. (n.d.). *Rocket League — released July 2015, sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars 2008, Psyonix founded 2000 by Dave Hagewood; 3v3 Soccar, 5-minute matches, golden goal, 100 boost*. Retrieved November 23, 2026, from https://www.rocketleague.com/
-- Wikipedia. (n.d.-b). *Rocket League — esports history, 40 million players by 2018, RLCS since 2016 season 1 iBUYPOWER Cosmic, world champions Kaydop 4×, Fairy Peak!, M0nkey M00n, Turbo; 2025 worlds NRG beat Falcons 4–1 at LDLC Arena Lyon 14 September 2025*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rocket_League
 - Wikipedia. (n.d.-a). *Rocket League Championship Series — 2026 World Championship 15–20 September 2026 Dickies Arena Fort Worth, 20 teams, $1.2M pool, $300k champion, Falcons beat Spacestation Gaming 4–0, Kiileerrz MVP, 1v1 champion nass; Karmine Corp 2026 major titles; 2v2 and 1v1 circuits added 2026*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rocket_League_Championship_Series
+- Wikipedia. (n.d.-b). *Rocket League — esports history, 40 million players by 2018, RLCS since 2016 season 1 iBUYPOWER Cosmic, world champions Kaydop 4×, Fairy Peak!, M0nkey M00n, Turbo; 2025 worlds NRG beat Falcons 4–1 at LDLC Arena Lyon 14 September 2025*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Rocket_League
 
 ### Figure Index
 

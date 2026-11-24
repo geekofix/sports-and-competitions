@@ -18,8 +18,8 @@ Punto descends from ancient boules games and was codified with pétanque in Prov
 
 ## Sources
 
-- Confederazione Boccistica Internazionale. (n.d.-b). *World Seniors Bocce Championship 2026 — punto events, Garibaldi*. Retrieved November 21, 2026, from https://cbi-prv.org/
-- World Petanque and Bowls Federation. (n.d.-a). *Pétanque/punto — rules, equipment and scoring*. Retrieved November 21, 2026, from https://wpbf-fmbp.org/
+- Confederazione Boccistica Internazionale. (n.d.). *World Seniors Bocce Championship 2026 — punto events, Garibaldi*. Retrieved November 21, 2026, from https://cbi-prv.org/
+- World Petanque and Bowls Federation. (n.d.). *Pétanque/punto — rules, equipment and scoring*. Retrieved November 21, 2026, from https://wpbf-fmbp.org/
 
 ### Figure Index
 

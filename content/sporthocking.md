@@ -12,7 +12,7 @@ Sporthocking was invented in 2007 in Germany by the brothers Michael and Stephen
 
 ## Sources
 
-- The Local Germany. (2025, October 7). *Jugger to Sporthocking: six off-the-wall German sports everybody should try — Sporthocking invented 2007 by brothers Michael and Stephen Landschutz; stool tricks combining rhythmic gymnastics, skateboarding and breakdance*. Retrieved November 23, 2026, from https://www.thelocal.de/20251007/jugger-to-sporthocking-six-off-the-wall-german-sports-everybody-should-try
+- The Local Germany. (2025). *Jugger to Sporthocking: six off-the-wall German sports everybody should try — Sporthocking invented 2007 by brothers Michael and Stephen Landschutz; stool tricks combining rhythmic gymnastics, skateboarding and breakdance*. Retrieved November 23, 2026, from https://www.thelocal.de/20251007/jugger-to-sporthocking-six-off-the-wall-german-sports-everybody-should-try
 - Topend Sports. (n.d.). *Sporthocking — an unusual German sport, a mix of skateboarding and sitting down; rubber-lined stool that becomes two wheels; Hannes Roth of the Landschutz brothers' official team; ranked team categories in Germany*. Retrieved November 23, 2026, from https://www.topendsports.com/sport/unusual/sporthocking.htm
 
 ## Important Links

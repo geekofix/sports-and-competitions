@@ -20,11 +20,11 @@ Sprint canoeing was demonstrated at the 1924 Paris Olympics and became a medal s
 
 ## Sources
 
-- ICF / Paddle Worldwide. (2026). *2026 Canoe Sprint and Paracanoe World Championships — Poznań*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-sprint-world-championships/poznan-2026
 - ICF / Paddle Worldwide. (n.d.). *Rules and regulations*. Retrieved November 22, 2026, from https://www.canoeicf.com/rules
-- Olympics.com. (2026). *Canoe Sprint World Championships 2026: full schedule, all final results & medals*. Retrieved November 22, 2026, from https://www.olympics.com/en/news/canoe-sprint-world-championships-2026-schedule-results-medals
+- ICF / Paddle Worldwide. (2026). *2026 Canoe Sprint and Paracanoe World Championships — Poznań*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-sprint-world-championships/poznan-2026
 - Olympedia. (n.d.). *International Canoe Federation*. Retrieved November 22, 2026, from https://www.olympedia.org/organizations/52
-- Sport Information Resource Centre. (2026, August 31). *Golden moments: Jensen claims first senior world title in Poznań*. Retrieved November 22, 2026, from https://sirc.ca/news/golden-moments-jensen-claims-first-senior-world-title-in-poznan/
+- Olympics.com. (2026). *Canoe Sprint World Championships 2026: full schedule, all final results & medals*. Retrieved November 22, 2026, from https://www.olympics.com/en/news/canoe-sprint-world-championships-2026-schedule-results-medals
+- Sport Information Resource Centre. (2026). *Golden moments: Jensen claims first senior world title in Poznań*. Retrieved November 22, 2026, from https://sirc.ca/news/golden-moments-jensen-claims-first-senior-world-title-in-poznan/
 - Wikipedia. (n.d.). *2026 ICF Canoe Sprint World Championships*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/2026_ICF_Canoe_Sprint_World_Championships
 
 ### Figure Index

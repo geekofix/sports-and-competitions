@@ -6,6 +6,8 @@ Canadian football is the football code played under the rules of the Canadian Fo
 
 *Figure: Cmm3. (2022, October 8). The Grey Cup trophy [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Grey_Cup,_2022.jpg*
 
+Women's tackle football has a long tradition in Canada through leagues such as the Women's Football Alliance, and women's flag football is a leading Olympic-path programme.
+
 ## Rules
 
 Under the CFL rulebook, each team has three downs to advance the ball 10 yards; a team may field 12 players on offense, defense and kicking teams, and the field is 110 yards long between goal lines, 65 yards wide, with 20-yard end zones (CFL, n.d.). Scoring: touchdown 6 points, convert (kick 1, two-point conversion 2), field goal 3, safety 2, single (rouge) 1. A missed field goal that goes out of bounds through the end zone, or a punt through the end zone, yields a single; if a dead-ball kick hits the goal post without scoring, the receiving team takes over at its own 40-yard line. Overtime in the regular season uses a mini-game format with alternating two-point conversion attempts from the 3-yard line if still tied, and the Replay Centre automatically reviews every turnover on downs (CFL, 2026). Differences from American football include the three-down system, the 12th player, the larger field, the single point for kicks into the end zone, and the unlimited motion of one backfield player toward the line of scrimmage before the snap (CFL, n.d.). Rosters carry 45 active players per game day; the 2026 salary cap was $6,330,514, about $140,755 per roster spot (CFL, 2026). Women play in the league's growing women's flag-football initiative and in the separate professional women's leagues, while the CFL itself fields male rosters (CFL, n.d.).
@@ -20,10 +22,10 @@ Organized Canadian football grew out of rugby football in the 1860s–1880s, cod
 
 ## Sources
 
-- CBC Sports. (2026, November 13). *Edmonton and Montreal battle for the last Grey Cup of this era*. Retrieved November 22, 2026, from https://www.cbc.ca/sports/football/cfl/the-buzzer-grey-cup-weekend-preview-nov-13-9.7421569
-- Calgary Herald. (2026, November 15). *One last run to the 55-yard line: Grey Cup closes a Canadian football era*. Retrieved November 22, 2026, from https://calgaryherald.com/sports/football/cfl/one-last-run-55-yard-line-grey-cup-closes-cfl-era
+- Calgary Herald. (2026). *One last run to the 55-yard line: Grey Cup closes a Canadian football era*. Retrieved November 22, 2026, from https://calgaryherald.com/sports/football/cfl/one-last-run-55-yard-line-grey-cup-closes-cfl-era
 - Canadian Football League. (n.d.). *CFL rulebook and 2026 season guide*. Retrieved November 22, 2026, from https://www.cfl.ca/
 - Canadian Football League. (2026). *2026 CFL season — 113th Grey Cup*. Retrieved November 22, 2026, from https://www.cfl.ca/2026-cfl-season/
+- CBC Sports. (2026). *Edmonton and Montreal battle for the last Grey Cup of this era*. Retrieved November 22, 2026, from https://www.cbc.ca/sports/football/cfl/the-buzzer-grey-cup-weekend-preview-nov-13-9.7421569
 - Wikipedia. (n.d.). *113th Grey Cup* and *Grey Cup*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/113th_Grey_Cup
 
 ### Figure Index

@@ -20,7 +20,7 @@ Sheaf tossing originated at country fairs and agricultural shows in Scotland and
 
 - NASGA. (n.d.). *North American Scottish Games Association — Highland Games heavy and sheaf events*. Retrieved November 23, 2026, from https://www.nasgaweb.com/
 - ScottishAthletics. (n.d.). *Scottish Athletics International — tossing the sheaf: 20 lb men, 12 lb women, 16 lb masters, three attempts per height*. Retrieved November 23, 2026, from https://www.scottishathleticsint.org/heavy-events/tossing-the-sheaf
-- Wikipedia. (n.d.-a). *Sheaf toss — weights, three-attempt elimination format, shared pitchfork, Basque and Irish variants, world records Tyler 11.30 m (2019) and Riley 12.80 m (2017) and record progression*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sheaf_toss
+- Wikipedia. (n.d.). *Sheaf toss — weights, three-attempt elimination format, shared pitchfork, Basque and Irish variants, world records Tyler 11.30 m (2019) and Riley 12.80 m (2017) and record progression*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sheaf_toss
 - WomensHighlandGames. (n.d.). *Women's Highland Games world records — sheaf toss 10 lb Nikita Marzano 36 ft 0 in (2019), 12 lb Victoria Bunchek 32 ft 6 in (2017)*. Retrieved November 23, 2026, from http://womenshighlandgames.com/world-records/
 
 ### Figure Index

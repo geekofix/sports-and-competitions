@@ -1,6 +1,8 @@
 ## Basic Information
 
-Mud cow racing refers to traditional cattle races held in muddy, flooded rice fields, best known as pacu jawi in Tanah Datar, West Sumatra, Indonesia, and as the cattle race festival of An Giang in the Mekong Delta of Vietnam. In pacu jawi a jockey stands barefoot on a simple wooden plough that is loosely tied to a pair of bulls and holds their tails while the animals race through a muddy track of about 60 to 250 m in a harvested rice paddy, with mud up to 30 cm deep. Despite the name, the bulls do not race directly against each other and no formal winner is announced; the event celebrates the harvest and lets owners show off their animals to buyers.
+Mud cow racing refers to traditional cattle races held in muddy, flooded rice fields, best known as pacu jawi in Tanah Datar, West Sumatra, Indonesia, and as the cattle race festival of An Giang in the Mekong Delta of Vietnam. In pacu jawi a jockey stands barefoot on a simple wooden plough that is loosely tied to a pair of bulls and holds their tails while the animals race through a muddy track of about 60 to 250 m in a harvested rice paddy, with mud up to 30 cm deep. Despite the name, the bulls do not race directly against each other and no formal winner is announced; the event celebrates the harvest and lets owners show off their animals to buyers (Mirror, n.d.).
+
+Women compete as riders on the same terms as men in mud cow racing.
 
 ## Rules
 

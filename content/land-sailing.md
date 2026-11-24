@@ -16,8 +16,8 @@ Wind-driven carriages date back centuries — a Chinese land-sailing carriage is
 
 ## Sources
 
-- FISLY. (n.d.-a). *International Sand and Land Yacht Racing Rules — classes 1–8, records, minimum ages*. Retrieved November 22, 2026, from https://fisly.org/
-- NALSA. (n.d.-a). *North American Land Sailing Association — US records, classes, youth rules*. Retrieved November 22, 2026, from https://www.nalsa.org/
+- FISLY. (n.d.). *International Sand and Land Yacht Racing Rules — classes 1–8, records, minimum ages*. Retrieved November 22, 2026, from https://fisly.org/
+- NALSA. (n.d.). *North American Land Sailing Association — US records, classes, youth rules*. Retrieved November 22, 2026, from https://www.nalsa.org/
 - Wikipedia. (n.d.-a). *Land sailing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Land_sailing
 - Wikipedia. (n.d.-b). *Land sailing — 1626/1785 carriages, FISLY 1962, Greenbird 202.9 km/h 2009 Ivanpah, blokart*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Land_sailing
 

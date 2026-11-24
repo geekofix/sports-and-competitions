@@ -1,6 +1,6 @@
 ## Basic Information
 
-10m Air Rifle is the flagship precision event of the ISSF shooting program: athletes shoot standing at a target 10 meters away on an indoor range. It has been on the Olympic program since Los Angeles 1984 and anchors the ISSF World Championships, World Cups, continental championships and Youth Olympic Games, with team, mixed-team and junior events completing the program. See also [10m Air Pistol Shooting](10m-air-pistol-shooting.html), [50m Rifle 3 Positions Shooting](50m-rifle-3-positions-shooting.html) and [Shooting](shooting.html) on this site.
+10m Air Rifle is the flagship precision event of the ISSF shooting program: athletes shoot standing at a target 10 meters away on an indoor range. It has been on the Olympic program since Los Angeles 1984 and anchors the ISSF World Championships, World Cups, continental championships and Youth Olympic Games, with team, mixed-team and junior events completing the program. See also [10m Air Pistol Shooting](10m-air-pistol-shooting.html), [50m Rifle 3 Positions Shooting](50m-rifle-3-positions-shooting.html) and [Shooting](shooting.html) on this site (International Shooting Sport Federation, n.d.-a) (International Shooting Sport Federation, n.d.-b).
 
 At the Paris 2024 Olympic Games Sheng Lihao of China won the men's gold and Ban Hyo-jin of South Korea the women's gold (International Olympic Committee [IOC], n.d.). The ISSF world ranking in November 2026 is led by Victor Lindgren of Sweden in the men's event (ISSF, n.d.-b).
 

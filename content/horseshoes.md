@@ -1,6 +1,6 @@
 ## Basic Information
 
-Horseshoes (horseshoe pitching) is a precision throwing game in which players pitch U-shaped iron or steel shoes at a steel stake set in a clay or sand pit, trying to encircle the stake ("ringer") or land closest to it; in North America it is governed by the National Horseshoe Pitchers Association (NHPA) — a federation of 54 state charters with around 15,000 members that sanctions the annual NHPA World Tournament (the 2027 edition is in Kennewick, Washington) — while an estimated 15 million people pitch horseshoes recreationally in the United States and Canada (National Horseshoe Pitchers Association [NHPA], n.d.-a, n.d.-b). The NHPA crowns world champions in men's, women's, boys' and girls' divisions, and play spans ages from 5 to over 85; women pitch from a shorter foul line than men and have their own world championship division (NHPA, n.d.-a).
+Horseshoes (horseshoe pitching) is a precision throwing game in which players pitch U-shaped iron or steel shoes at a steel stake set in a clay or sand pit, trying to encircle the stake ("ringer") or land closest to it; in North America it is governed by the National Horseshoe Pitchers Association (NHPA) — a federation of 54 state charters with around 15,000 members that sanctions the annual NHPA World Tournament (the 2027 edition is in Kennewick, Washington) — while an estimated 15 million people pitch horseshoes recreationally in the United States and Canada (National Horseshoe Pitchers Association [NHPA], n.d.-a, n.d.-b). The NHPA crowns world champions in men's, women's, boys' and girls' divisions, and play spans ages from 5 to over 85; women pitch from a shorter foul line than men and have their own world championship division (NHPA, n.d.-a) (National Horseshoe Pitchers Association, n.d.-a) (National Horseshoe Pitchers Association, n.d.-b).
 
 ![Horseshoes game](https://commons.wikimedia.org/wiki/Special:Redirect/file/Horseshoes_game.jpg?width=480)
 
@@ -18,7 +18,7 @@ Horseshoe pitching descends from quoits — England set up the first written rul
 
 - National Horseshoe Pitchers Association. (n.d.-a). *NHPA rulebook — distances, equipment, scoring and divisions*. Retrieved November 22, 2026, from https://www.horseshoepitching.com/
 - National Horseshoe Pitchers Association. (n.d.-b). *History of horseshoe pitching and the World Tournament*. Retrieved November 22, 2026, from https://www.horseshoepitching.com/gameinfo/history.html
-- Wikipedia. (n.d.-a). *Horseshoes (game)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Horseshoes_(game)
+- Wikipedia. (n.d.). *Horseshoes (game)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Horseshoes_(game)
 
 ### Figure Index
 

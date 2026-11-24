@@ -1,6 +1,6 @@
 ## Basic Information
 
-Equestrian vaulting is gymnastics and dance performed on a moving horse: individuals, pairs (pas-de-deux) or squads of up to three vaulters execute compulsory and free exercises on a cantering horse that is led in a circle by a lunger (Fédération Equestre Internationale [FEI], n.d.-a). It is governed by the FEI and contested at the FEI Vaulting World Championships; at the FEI World Championships Aachen 2026, held 11–23 August 2026, the German squad won the team gold on home soil, with individual and pas-de-deux titles decided in the compulsory, technical and free tests (FEI, n.d.-a). At the end of 2026, the leading current vaulters are the 2026 Aachen world champions in the individual female, individual male and pas-de-deux competitions, with Germany's squads and the Dutch and Swiss teams behind them (FEI, n.d.-a). Men and women compete together — in individual, pas-de-deux (mixed pairs) and squad events — under identical rules (FEI, n.d.-b).
+Equestrian vaulting is gymnastics and dance performed on a moving horse: individuals, pairs (pas-de-deux) or squads of up to three vaulters execute compulsory and free exercises on a cantering horse that is led in a circle by a lunger (Fédération Equestre Internationale [FEI], n.d.-a). It is governed by the FEI and contested at the FEI Vaulting World Championships; at the FEI World Championships Aachen 2026, held 11–23 August 2026, the German squad won the team gold on home soil, with individual and pas-de-deux titles decided in the compulsory, technical and free tests (FEI, n.d.-a). At the end of 2026, the leading current vaulters are the 2026 Aachen world champions in the individual female, individual male and pas-de-deux competitions, with Germany's squads and the Dutch and Swiss teams behind them (FEI, n.d.-a). Men and women compete together — in individual, pas-de-deux (mixed pairs) and squad events — under identical rules (FEI, n.d.-b) (Fédération Equestre Internationale, n.d.-a) (Fédération Equestre Internationale, n.d.-b).
 
 ## Rules
 
@@ -18,7 +18,7 @@ Acrobatics on horseback are ancient — depicted in Minoan and Greek art and pra
 
 - Fédération Equestre Internationale. (n.d.-a). *Vaulting rules and FEI Vaulting World Championships Aachen 2026 results*. Retrieved November 22, 2026, from https://www.fei.org/
 - Fédération Equestre Internationale. (n.d.-b). *Vaulting — discipline overview, equipment and safety*. Retrieved November 22, 2026, from https://www.fei.org/discipline/vaulting
-- Wikipedia. (n.d.-a). *Vaulting*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Vaulting
+- Wikipedia. (n.d.). *Vaulting*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Vaulting
 
 ### Figure Index
 

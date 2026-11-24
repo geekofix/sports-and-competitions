@@ -18,7 +18,7 @@ Organized inline speed skating began in the 1930s, with unofficial world champio
 
 - Wikipedia. (n.d.-a). *Inline speed skating*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Inline_speed_skating
 - Wikipedia. (n.d.-b). *Inline speed skating — history, world championships since 1937/1966, Colombia, icons*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Inline_speed_skating
-- World Skate. (n.d.-a). *Speed skating — 2026 Speed Rulebook, World Championships, World Skate Games*. Retrieved November 22, 2026, from https://www.worldskate.org/speed
+- World Skate. (n.d.). *Speed skating — 2026 Speed Rulebook, World Championships, World Skate Games*. Retrieved November 22, 2026, from https://www.worldskate.org/speed
 
 ### Figure Index
 

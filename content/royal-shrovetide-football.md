@@ -18,7 +18,7 @@ Shrovetide ball games have been played in England since at least the 12th centur
 
 - Ashbourne Town Council. (n.d.). *Ashbourne Royal Shrovetide football — official rules, teams and turn-up ceremony*. Retrieved November 23, 2026, from https://www.ashbournetowncouncil.gov.uk/ashbourne-shrovetide
 - BBC. (2026). *Up'Ards earn 3-0 win in Royal Shrovetide Football game*. BBC News. Retrieved November 23, 2026, from https://www.bbc.co.uk/news/articles/c07j89gx1n7o
-- DerbyshireLive. (2026, February 18). *Ashbourne Royal Shrovetide 2026 live: Up'ards win 3-0 as play ends; 2025 Down'ards 1-0; first 3-0 since 1967*. Retrieved November 23, 2026, from https://www.derbytelegraph.co.uk/whats-on/whats-on-news/live-asbourne-royal-shrovetide-2026-10818401
+- DerbyshireLive. (2026). *Ashbourne Royal Shrovetide 2026 live: Up'ards win 3-0 as play ends; 2025 Down'ards 1-0; first 3-0 since 1967*. Retrieved November 23, 2026, from https://www.derbytelegraph.co.uk/whats-on/whats-on-news/live-asbourne-royal-shrovetide-2026-10818401
 - Wikipedia. (n.d.-a). *Royal Shrovetide Football — goals at Sturston and Clifton, 1996 riverbank goals, Royal title 1922, turn-ups 1928/2003, H. Hind ball 1887*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Royal_Shrovetide_Football
 - Wikipedia. (n.d.-b). *Royal Shrovetide Football — history from c. 1667, 1797 Arkwright account, 1860s amalgamation, Shrovetide Anthem 1891, WWI play in France; mob football since 12th century*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Mob_football
 

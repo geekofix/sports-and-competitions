@@ -22,10 +22,10 @@ Grand Prix motor racing began with the 1906 French Grand Prix at Le Mans, organi
 
 ## Sources
 
+- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
 - FIA. (n.d.-a). *2026 FIA Formula One World Championship — season review, calendar and standings*. Retrieved November 22, 2026, from https://www.fia.com/championship/fia-formula-one-world-championship
 - FIA. (n.d.-b). *Formula One Sporting Regulations 2026*. Retrieved November 22, 2026, from https://www.fia.com/regulations/formula-one-sporting-regulations-2026
 - FIA. (n.d.-c). *Formula One Technical Regulations 2026*. Retrieved November 22, 2026, from https://www.fia.com/regulations/formula-one-technical-regulations-2026
-- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
 - Formula 1. (n.d.-a). *Formula1.com — 2026 results, standings and race reports*. Retrieved November 22, 2026, from https://www.formula1.com/en/racing/2026
 - Formula 1. (n.d.-b). *Kimi Antonelli crowned 2026 world champion in Mexico City*. Retrieved November 22, 2026, from https://www.formula1.com/
 - Wikipedia. (n.d.-a). *Formula One*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Formula_One

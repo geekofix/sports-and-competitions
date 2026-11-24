@@ -16,11 +16,11 @@ Weapon arts developed in the Ryukyu Kingdom from the 14th century onward, fed by
 
 ## Sources
 
-- Nihon Kobudo Kyokai. (n.d.-a). *Kobudo — history, disciplines and the Nihon Kobudo Kyokai founded 1979*. Retrieved November 22, 2026, from https://www.kobudo.jp/
+- Nihon Kobudo Kyokai. (n.d.). *Kobudo — history, disciplines and the Nihon Kobudo Kyokai founded 1979*. Retrieved November 22, 2026, from https://www.kobudo.jp/
 - Wikipedia. (n.d.-a). *Kobudo*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kobudo
 - Wikipedia. (n.d.-b). *Kobudo — Satsuma 1609 weapons ban, Taira Shinken 1897–1970, 42 kata, Hozon Shinko Kai 1955*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Kobudo
-- World Budokan. (n.d.-a). *Kobudo discipline — weapons, kata and lineage*. Retrieved November 22, 2026, from https://worldbudokan.com/worlbudokanhome/disciplines/kobudo/
-- World Ryukyu Kobudo Federation. (n.d.-a). *World Ryukyu Kobudo Championships — kata and koshiki kumite, 2026 event*. Retrieved November 22, 2026, from https://wrkcokinawa.jp/en/
+- World Budokan. (n.d.). *Kobudo discipline — weapons, kata and lineage*. Retrieved November 22, 2026, from https://worldbudokan.com/worlbudokanhome/disciplines/kobudo/
+- World Ryukyu Kobudo Federation. (n.d.). *World Ryukyu Kobudo Championships — kata and koshiki kumite, 2026 event*. Retrieved November 22, 2026, from https://wrkcokinawa.jp/en/
 
 ### Figure Index
 

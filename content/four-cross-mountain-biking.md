@@ -20,7 +20,7 @@ Four-cross evolved from dual slalom, the head-to-head downhill format popular in
 
 - UCI. (n.d.-a). *UCI Mountain Bike World Championships 2026 — Val di Sole*. Retrieved November 22, 2026, from https://www.uci.org/discipline/mountain-bike
 - UCI. (n.d.-b). *UCI MTB Regulations, Part 4 — four-cross, and UCI 4X ranking*. Retrieved November 22, 2026, from https://www.uci.org/regulations/mountain-bike
-- Wikipedia. (n.d.-a). *Four-cross mountain biking*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Four-cross_mountain_biking
+- Wikipedia. (n.d.). *Four-cross mountain biking*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Four-cross_mountain_biking
 
 ### Figure Index
 

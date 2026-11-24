@@ -18,7 +18,7 @@ Wrestling in India dates back millennia — malla-yuddha is described in ancient
 
 - Wikipedia. (n.d.-a). *Pehlwani (kushti) — akhara, mud pit, langot, no strikes*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pehlwani
 - Wikipedia. (n.d.-b). *Pehlwani — Mughal origins, Great Gama 1878–1963, Dara Singh, Kartar Singh*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pehlwani
-- Wrestling Federation of India. (n.d.-a). *Dangal tournaments and national kushti competition*. Retrieved November 22, 2026, from https://wrestlingfederationofindia.org/
+- Wrestling Federation of India. (n.d.). *Dangal tournaments and national kushti competition*. Retrieved November 22, 2026, from https://wrestlingfederationofindia.org/
 
 ### Figure Index
 

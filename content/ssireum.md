@@ -19,8 +19,8 @@ Ssireum's origins reach back to the 4th century, depicted in the Goguryeo tomb m
 ## Sources
 
 - UNESCO. (n.d.). *Ssireum, traditional Korean wrestling — inscribed on the Representative List of the Intangible Cultural Heritage of Humanity in 2018*. Retrieved November 23, 2026, from https://ich.unesco.org/en/RL/ssireum-traditional-korean-wrestling-01320
-- Wikipedia. (n.d.-b). *Ssireum — origins in 4th-century Goguryeo murals; sand ring 7 m, satba belt, kneeling start, win at knee level; women's ssireum under the same rules; World Ssireum Federation championships Šiauliai*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Ssireum
 - Wikipedia. (n.d.-a). *Korean ssireum professional league — weight classes Taebaek 80 kg, Geumgang 90 kg, Halla 105 kg, Baekdu 160 kg; cheonhajangsa title and ox; icons Lee Man-gi, Kang Ho-dong, Choi Hong-man*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Ssireum#Professional_ssireum
+- Wikipedia. (n.d.-b). *Ssireum — origins in 4th-century Goguryeo murals; sand ring 7 m, satba belt, kneeling start, win at knee level; women's ssireum under the same rules; World Ssireum Federation championships Šiauliai*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Ssireum
 
 ### Figure Index
 

@@ -20,9 +20,9 @@ Slalom canoeing developed in Europe in the 1920s–1930s on Alpine rivers; the f
 
 ## Sources
 
-- American Canoe Association. (2026, July). *USA Canoe/Kayak team shines at home: 2026 ICF Canoe Slalom World Championships recap*. Retrieved November 22, 2026, from https://americancanoe.org/usa-canoe-kayak-team-shines-at-home-2026-icf-canoe-slalom-world-championships-recap/
-- ICF / Paddle Worldwide. (2026). *2026 ICF Canoe Slalom World Championships — Oklahoma City, 20–25 July 2026*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-slalom-world-championships/oklahoma-city-2026
+- American Canoe Association. (2026). *USA Canoe/Kayak team shines at home: 2026 ICF Canoe Slalom World Championships recap*. Retrieved November 22, 2026, from https://americancanoe.org/usa-canoe-kayak-team-shines-at-home-2026-icf-canoe-slalom-world-championships-recap/
 - ICF / Paddle Worldwide. (n.d.). *Rules — canoe slalom and kayak cross*. Retrieved November 22, 2026, from https://www.canoeicf.com/rules
+- ICF / Paddle Worldwide. (2026). *2026 ICF Canoe Slalom World Championships — Oklahoma City, 20–25 July 2026*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-slalom-world-championships/oklahoma-city-2026
 - Olympics.com. (2026). *ICF Canoe Slalom World Championships 2026: stars, schedule, how to watch*. Retrieved November 22, 2026, from https://www.olympics.com/en/news/icf-canoe-slalom-world-championships-2026-stars-schedule-how-to-watch
 - Wikipedia. (n.d.). *2026 ICF Canoe Slalom World Championships*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/2026_ICF_Canoe_Slalom_World_Championships
 

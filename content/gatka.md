@@ -21,7 +21,7 @@ Gatka emerged in 15th-century Punjab as part of *Shastar Vidya*, the Sikh scienc
 - National Gatka Association of India. (n.d.). *12th Punjab State Gatka Championship 2026 — Rupnagar, 18–19 April 2026; rules and categories*. Retrieved November 22, 2026, from https://gatkaa.com/
 - Wikipedia. (n.d.-a). *Gatka*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Gatka
 - Wikipedia. (n.d.-b). *Gatka — history, akharas and Hola Mohalla*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Gatka
-- World Gatka Federation. (n.d.-a). *Official rule book — equipment, khel and rasmi formats*. Retrieved November 22, 2026, from https://punjabgatkaassociation.com/
+- World Gatka Federation. (n.d.). *Official rule book — equipment, khel and rasmi formats*. Retrieved November 22, 2026, from https://punjabgatkaassociation.com/
 
 ### Figure Index
 

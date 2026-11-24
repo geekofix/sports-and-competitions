@@ -16,12 +16,12 @@ Motorcycle racing began in the late 19th century, the FIM was founded in 1904, a
 
 ## Sources
 
-- FIM. (n.d.-a). *Fédération Internationale de Motocyclisme (founded 1904) — disciplines: Grand Prix road racing (MotoGP/Moto2/Moto3), WorldSBK/SSP/WCR, MXGP, enduro, road racing on public roads (TT)*. Retrieved November 22, 2026, from https://www.fim-moto.com/
+- FIM. (n.d.). *Fédération Internationale de Motocyclisme (founded 1904) — disciplines: Grand Prix road racing (MotoGP/Moto2/Moto3), WorldSBK/SSP/WCR, MXGP, enduro, road racing on public roads (TT)*. Retrieved November 22, 2026, from https://www.fim-moto.com/
 - Isle of Man TT. (n.d.). *2026 Isle of Man TT, 25 May–6 June — Dean Harrison won the Superbike TT and was declared 2026 Senior TT winner; new Sportbike TT class; sidecar class suspended; 60.72 km Mountain Course*. Retrieved November 22, 2026, from https://www.iomtt.com/
-- WorldSBK. (n.d.). *2026 WorldSBK champion Nicolò Bulega (Ducati) — record 32 wins, 25 consecutive, first manufacturer to win every race of a season since Ducati 2003; Razgatlıoğlu 3× champion moved to MotoGP 2026; WorldSSP champion Albert Arenas*. Retrieved November 22, 2026, from https://www.worldsbk.com/
 - Wikipedia. (n.d.-a). *FIM Women's Circuit Racing World Championship (WorldWCR) — launched 2024 on Yamaha R7; 2024 champion Ana Carrasco, 2025 Maria Herrera; Carrasco 2018 first woman to win a solo FIM world championship race (SSP300)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIM_Women%27s_Circuit_Racing_World_Championship
 - Wikipedia. (n.d.-b). *Isle of Man TT — first race 1907; icons Mike Hailwood (14 wins), Joey Dunlop (26 wins)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Isle_of_Man_TT
 - Wikipedia. (n.d.-c). *Superbike World Championship — 2026 champion Bulega; Razgatlıoğlu three-time champion; Grand Prix championship since 1949, MotoGP since 2002*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Superbike_World_Championship
+- WorldSBK. (n.d.). *2026 WorldSBK champion Nicolò Bulega (Ducati) — record 32 wins, 25 consecutive, first manufacturer to win every race of a season since Ducati 2003; Razgatlıoğlu 3× champion moved to MotoGP 2026; WorldSSP champion Albert Arenas*. Retrieved November 22, 2026, from https://www.worldsbk.com/
 
 ### Figure Index
 

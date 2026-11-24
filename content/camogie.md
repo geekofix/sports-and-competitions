@@ -24,10 +24,10 @@ Camogie shares its roots with hurling, one of the world's oldest field games, an
 
 ## Sources
 
-- GAA. (2026, August). *Cork regain the Glen Dimplex All-Ireland senior camogie title*. Retrieved November 22, 2026, from https://www.gaa.ie/article/cork-regain-the-glen-dimplex-all-ireland-senior-camogie-title
 - GAA. (n.d.). *Camogie — rules of play*. Retrieved November 22, 2026, from https://www.gaa.ie/
+- GAA. (2026). *Cork regain the Glen Dimplex All-Ireland senior camogie title*. Retrieved November 22, 2026, from https://www.gaa.ie/article/cork-regain-the-glen-dimplex-all-ireland-senior-camogie-title
 - Moran, M. (2011). *A game of our own: The history of camogie*. Dublin: Cumann Camógaíochta. (As cited by The Camogie Association)
-- RTÉ Sport. (2026, August 6). *Camogie All-Ireland finals: All you need to know*. Retrieved November 22, 2026, from https://www.rte.ie/sport/camogie/2026/0806/1586773-camogie-all-ireland-finals-all-you-need-to-know/
+- RTÉ Sport. (2026). *Camogie All-Ireland finals: All you need to know*. Retrieved November 22, 2026, from https://www.rte.ie/sport/camogie/2026/0806/1586773-camogie-all-ireland-finals-all-you-need-to-know/
 - The Camogie Association. (n.d.). *Camogie — about, rules and competitions*. Retrieved November 22, 2026, from https://camogie.ie/
 - Wikipedia. (n.d.). *Camogie*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Camogie
 

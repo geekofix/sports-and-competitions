@@ -16,9 +16,9 @@ Krabi–krabong was developed by the warriors of the Ayutthaya Kingdom for battl
 
 ## Sources
 
+- The Thaiger. (2023). *Krabi Krabong: the poetry in motion of Thai martial arts*. Retrieved November 22, 2026, from https://thethaiger.com/guides/krabi-krabong-the-poetry-in-motion-of-thai-martial-arts
 - Wikipedia. (n.d.-a). *Krabi–krabong*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Krabi%E2%80%93krabong
 - Wikipedia. (n.d.-b). *Krabi–krabong — Naresuan elephant duel 1593, de la Loubère 1688, Buddhaisawan school, Mesamana, khan gradings, 1936/1975*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Krabi%E2%80%93krabong
-- The Thaiger. (2023, November). *Krabi Krabong: the poetry in motion of Thai martial arts*. Retrieved November 22, 2026, from https://thethaiger.com/guides/krabi-krabong-the-poetry-in-motion-of-thai-martial-arts
 
 ### Figure Index
 

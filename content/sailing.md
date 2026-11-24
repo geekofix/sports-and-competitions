@@ -23,7 +23,7 @@ Organized yacht racing began in 1815 with the founding of the New York Yacht Clu
 - Wikipedia. (n.d.-c). *Sailing at the 2028 Summer Olympics — Port of Los Angeles San Pedro and Belmont Shore, 16-28 July 2028; 10 events, 330 sailors, 165 men and 165 women; iQFoil, Formula Kite, ILCA 6/7, 470, 49er/49erFX, Nacra 17*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Sailing_at_the_2028_Summer_Olympics
 - Wikipedia. (n.d.-d). *America's Cup — first raced 1851 around the Isle of Wight by schooner America; icons Dennis Conner, Peter Burling, Ben Ainslie (5 Olympic medals 1996-2016)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/America%27s_Cup
 - World Sailing. (n.d.). *World Sailing — founded 1907 as IYRU, renamed 2015; Racing Rules of Sailing; Olympic classes*. Retrieved November 23, 2026, from https://www.sailing.org/
-- World Sailing. (2025, November 13). *LA28 kicks off with kites — Olympic sailing event programme and schedule announced: 16-28 July 2028, Belmont Shore Long Beach (kite/iQFoil) and Port of Los Angeles San Pedro (boats)*. Retrieved November 23, 2026, from https://www.sailing.org/2025/11/13/la28-kicks-off-with-kites-olympic-sailing-event-programme-and-schedule-announced/
+- World Sailing. (2025). *LA28 kicks off with kites — Olympic sailing event programme and schedule announced: 16-28 July 2028, Belmont Shore Long Beach (kite/iQFoil) and Port of Los Angeles San Pedro (boats)*. Retrieved November 23, 2026, from https://www.sailing.org/2025/11/13/la28-kicks-off-with-kites-olympic-sailing-event-programme-and-schedule-announced/
 
 ### Figure Index
 

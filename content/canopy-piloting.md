@@ -17,10 +17,10 @@ Ram-air ("parafoil") canopies, patented by the Canadian engineer Domina Jalbert 
 ## Sources
 
 - Canadian Sport Parachuting Association. (n.d.). *USPA canopy piloting competition rules (hosted PDF)*. Retrieved November 22, 2026, from https://www.cspa.ca/sites/default/files/USPA%20CP%20Rules_0.pdf
-- FAI — World Air Sports Federation. (2026). *2026 FAI World Championships in Artistic Events, Canopy Piloting, Canopy Piloting Freestyle, Formation Skydiving and Speed Skydiving — Eloy, 18–24 Oct 2026*. Retrieved November 22, 2026, from https://www.fai.org/event/2026-fai-world-championships-artistic-events-canopy-piloting-canopy-piloting-freestyle
 - FAI — World Air Sports Federation. (n.d.). *Competition rules — Section 5 (Parachuting)*. Retrieved November 22, 2026, from https://www.fai.org/page/competition-rules-section-5
-- Skydivemag. (2026, October). *World champions crowned in Eloy*. Retrieved November 22, 2026, from https://www.skydivemag.com/new/world-champions-crowned-in-eloy/
-- Skydive Arizona. (2026, November). *2026 FAI World Skydiving Championships — recap*. Retrieved November 22, 2026, from https://www.skydiveaz.com/blog/2026-fai-world-skydiving-championships-recap/
+- FAI — World Air Sports Federation. (2026). *2026 FAI World Championships in Artistic Events, Canopy Piloting, Canopy Piloting Freestyle, Formation Skydiving and Speed Skydiving — Eloy, 18–24 Oct 2026*. Retrieved November 22, 2026, from https://www.fai.org/event/2026-fai-world-championships-artistic-events-canopy-piloting-canopy-piloting-freestyle
+- Skydive Arizona. (2026). *2026 FAI World Skydiving Championships — recap*. Retrieved November 22, 2026, from https://www.skydiveaz.com/blog/2026-fai-world-skydiving-championships-recap/
+- Skydivemag. (2026). *World champions crowned in Eloy*. Retrieved November 22, 2026, from https://www.skydivemag.com/new/world-champions-crowned-in-eloy/
 - United States Parachute Association. (n.d.). *Skydiver's Competition Manual, Chapter 12 — Canopy Piloting*. Retrieved November 22, 2026, from https://uspa.org/SCM/12
 - Wikipedia. (n.d.). *Domina Jalbert*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Domina_Jalbert
 

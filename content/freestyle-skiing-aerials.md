@@ -21,7 +21,7 @@ Competitive aerials grew out of hot-dog skiing shows in the 1930s–60s and was 
 - FIS. (n.d.-a). *2025–26 FIS Freestyle Ski World Cup — aerials calendar, results and Crystal Globes*. Retrieved November 22, 2026, from https://www.fis.ski/discipline/freestyle-skiing
 - FIS. (n.d.-b). *FIS Freestyle Skiing competition rules — aerials*. Retrieved November 22, 2026, from https://www.fis.ski/regulations
 - Olympics. (n.d.). *Freestyle skiing at the Milano Cortina 2026 Winter Olympics — aerials results*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/milano-cortina-2026/results/freestyle-skiing
-- Wikipedia. (n.d.-a). *Freestyle skiing aerials*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_aerials
+- Wikipedia. (n.d.). *Freestyle skiing aerials*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Freestyle_skiing_aerials
 
 ### Figure Index
 

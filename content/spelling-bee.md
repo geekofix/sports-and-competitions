@@ -19,8 +19,8 @@ The Scripps National Spelling Bee began on 17 June 1925 at the Mayflower Hotel i
 ## Sources
 
 - Scripps National Spelling Bee. (n.d.). *Official rules, eligibility, prizes and competition format of the Scripps National Spelling Bee*. Retrieved November 23, 2026, from https://spellingbee.com/
-- Wikipedia. (n.d.-b). *Scripps National Spelling Bee — founded 17 June 1925 by the Louisville Courier-Journal; Scripps sponsorship 1941; Merriam-Webster arbiter 1958; eligibility grade 8 or below, under 15; written test then oral rounds; prize over $50,000*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Scripps_National_Spelling_Bee
 - Wikipedia. (n.d.-a). *Scripps National Spelling Bee champions — Faizan Zaki 2025 champion, Sarvadnya Kadam runner-up; Shrey Parikh 2026 champion; 2019 eight co-champions; Vanya Shivashankar 2015 co-champion*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/List_of_Scripps_National_Spelling_Bee_champions
+- Wikipedia. (n.d.-b). *Scripps National Spelling Bee — founded 17 June 1925 by the Louisville Courier-Journal; Scripps sponsorship 1941; Merriam-Webster arbiter 1958; eligibility grade 8 or below, under 15; written test then oral rounds; prize over $50,000*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Scripps_National_Spelling_Bee
 
 ### Figure Index
 

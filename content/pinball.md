@@ -16,8 +16,8 @@ Pinball descends from the 18th-century French bagatelle and, in its modern coin-
 
 ## Sources
 
-- International Flipper Pinball Association. (2020). *PAPA/IFPA complete competition rules* (PDF). Retrieved November 22, 2026, from https://www.ifpapinball.com/wp/wp-content/uploads/2020/12/PAPA_IFPA-Complete-Competition-Rules-1.pdf
 - International Flipper Pinball Association. (n.d.). *PAPA/IFPA tournament rules and world rankings*. Retrieved November 22, 2026, from https://www.ifpapinball.com/rules/
+- International Flipper Pinball Association. (2020). *PAPA/IFPA complete competition rules* (PDF). Retrieved November 22, 2026, from https://www.ifpapinball.com/wp/wp-content/uploads/2020/12/PAPA_IFPA-Complete-Competition-Rules-1.pdf
 - Professional and Amateur Pinball Association. (n.d.). *World Pinball Championships*. Retrieved November 22, 2026, from https://lfs.papa.org/rules.php
 - Wikipedia. (n.d.). *Pinball*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pinball
 

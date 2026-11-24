@@ -20,9 +20,9 @@ Marathon canoe racing has roots in the voyageur canoe brigades of North America 
 
 ## Sources
 
-- ICF / Paddle Worldwide. (2026). *2026 ICF Canoe Marathon World Championships — Gualeguaychú, 22–25 October 2026*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-marathon-world-championships/gualeguaychu-2026
 - ICF / Paddle Worldwide. (n.d.). *Canoe marathon — discipline page, rules and results database*. Retrieved November 22, 2026, from https://www.canoeicf.com/disciplines/canoe-marathon
-- PaddleStats. (2026, October 21). *Masters Canoe Marathon Worlds 2026: Fisher, Hartley*. Retrieved November 22, 2026, from https://paddlestats.eu/news/masters-canoe-marathon-worlds-2026-day-1-fisher-hartley-en
+- ICF / Paddle Worldwide. (2026). *2026 ICF Canoe Marathon World Championships — Gualeguaychú, 22–25 October 2026*. Retrieved November 22, 2026, from https://www.canoeicf.com/canoe-marathon-world-championships/gualeguaychu-2026
+- PaddleStats. (2026). *Masters Canoe Marathon Worlds 2026: Fisher, Hartley*. Retrieved November 22, 2026, from https://paddlestats.eu/news/masters-canoe-marathon-worlds-2026-day-1-fisher-hartley-en
 - Wikipedia. (n.d.). *ICF Canoe Marathon World Championships*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/ICF_Canoe_Marathon_World_Championships
 
 ### Figure Index

@@ -20,7 +20,7 @@ Futsal traces its organized origins to 1930 in Montevideo, Uruguay, where Juan C
 
 - FIFA. (n.d.-a). *Futsal Laws of the Game 2025/26*. Retrieved November 22, 2026, from https://www.fifa.com/tournaments/futsalworldcup
 - FIFA. (n.d.-b). *FIFA Futsal World Cup and FIFA Futsal Women's World Cup — results, world ranking, bidding 2028/2029*. Retrieved November 22, 2026, from https://www.fifa.com/futsal
-- UEFA. (n.d.-a). *UEFA Futsal Euro 2026 — Latvia, Lithuania, Slovenia, 21 January – 7 February 2026; Spain champions*. Retrieved November 22, 2026, from https://www.uefa.com/futsaleuro/
+- UEFA. (n.d.). *UEFA Futsal Euro 2026 — Latvia, Lithuania, Slovenia, 21 January – 7 February 2026; Spain champions*. Retrieved November 22, 2026, from https://www.uefa.com/futsaleuro/
 - Wikipedia. (n.d.-a). *Futsal*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Futsal
 - Wikipedia. (n.d.-b). *UEFA Futsal Euro 2026*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/UEFA_Futsal_Euro_2026
 - Wikipedia. (n.d.-c). *2025 FIFA Futsal Women's World Cup*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/2025_FIFA_Futsal_Women%27s_World_Cup

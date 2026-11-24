@@ -16,7 +16,7 @@ Ladies' Gaelic football emerged in the early 1970s as women's teams sought the s
 
 ## Sources
 
-- GAA. (n.d.-a). *Gaelic Athletic Association — governance of Gaelic games incl. ladies' Gaelic football since 1982*. Retrieved November 22, 2026, from https://gaa.ie/
+- GAA. (n.d.). *Gaelic Athletic Association — governance of Gaelic games incl. ladies' Gaelic football since 1982*. Retrieved November 22, 2026, from https://gaa.ie/
 - Ladies Gaelic Football Association. (n.d.-a). *About the LGFA — founded 1974 Thurles, structure, membership*. Retrieved November 22, 2026, from https://ladiesgaelic.ie/
 - Ladies Gaelic Football Association. (n.d.-b). *Playing Rules 2026 and Official Guide 2026 — championships*. Retrieved November 22, 2026, from https://ladiesgaelic.ie/
 - Wikipedia. (n.d.-a). *Ladies' Gaelic football*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Ladies%27_Gaelic_football

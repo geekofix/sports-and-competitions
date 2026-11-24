@@ -22,7 +22,7 @@ Cammag is the Manx descendant of the Gaelic stick-and-ball games; the Manx word 
 
 - BBC News. (n.d.). *Isle of Man's festive sport "with no rules" returns to St John's*. Retrieved November 22, 2026, from https://www.bbc.co.uk/news/articles/clyk6dlrygdo
 - Culture Vannin. (n.d.). *Cammag*. Retrieved November 22, 2026, from https://culturevannin.im/
-- Isle of Man Today. (2026, January 7). *Pictures as record-breaking cammag crowd sees match decided by penalty shootout*. Retrieved November 22, 2026, from https://www.iomtoday.co.im/news/pictures-as-record-breaking-cammag-crowd-sees-match-decided-by-penalty-shootout-867446
+- Isle of Man Today. (2026). *Pictures as record-breaking cammag crowd sees match decided by penalty shootout*. Retrieved November 22, 2026, from https://www.iomtoday.co.im/news/pictures-as-record-breaking-cammag-crowd-sees-match-decided-by-penalty-shootout-867446
 - Manx Hockey Association. (2015). *Isle of Man hockey* (K. Gawne, Ed.). Retrieved November 22, 2026, from https://mha.org.im/wp-content/uploads/2022/05/Hockey-Book-2015.pdf
 - Transceltic. (n.d.). *Isle of Man: Work off your Christmas turkey with a game of cammag!*. Retrieved November 22, 2026, from https://www.transceltic.com/blog/isle-of-man-work-your-christmas-turkey-game-of-cammag
 - Wikipedia. (n.d.). *Cammag*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Cammag

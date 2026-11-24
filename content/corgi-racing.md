@@ -1,6 +1,8 @@
 ## Basic Information
 
-Corgi racing is a novelty event in which Welsh corgis sprint down a short grass course while spectators bet on the winner. The best-known event is the Corgi Derby at Musselburgh Racecourse near Edinburgh, Scotland, first held in 2022 to mark Queen Elizabeth II's Platinum Jubilee and now run every Easter Saturday over about 70 m, with around 15 dogs per race selected by ballot. The starter at early editions was Judy Murray, mother of tennis players Andy and Jamie Murray.
+Corgi racing is a novelty event in which Welsh corgis sprint down a short grass course while spectators bet on the winner. The best-known event is the Corgi Derby at Musselburgh Racecourse near Edinburgh, Scotland, first held in 2022 to mark Queen Elizabeth II's Platinum Jubilee and now run every Easter Saturday over about 70 m, with around 15 dogs per race selected by ballot. The starter at early editions was Judy Murray, mother of tennis players Andy and Jamie Murray (Associated Press, 2025).
+
+Women take part as owners, handlers and spectators on the same terms as men.
 
 ## Rules
 

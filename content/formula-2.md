@@ -1,6 +1,6 @@
 ## Basic Information
 
-The FIA Formula 2 Championship is the FIA's premier single-seater feeder series directly below Formula One, contested by two-car teams on the support program of most Formula 1 Grands Prix; the 2026 season is the 10th under the F2 name, running from March 7 in Melbourne to December 6 in Abu Dhabi over 14 rounds, with all cars built by Dallara (F2 2024 chassis) and powered by a Mecachrome 3.4-litre turbocharged V6 on Pirelli tyres (FIA, n.d.-b; FIA, n.d.-a). The Bahrain and Jeddah rounds were cancelled because of the regional conflict and replaced by the championship's first North American rounds in Miami and Montreal, while Baku was "supersized" with two feature races (FIA, n.d.-a). As of November 22, 2026, Rafael Câmara leads the drivers' standings by 7 points over Nikola Tsolov, with Alex Dunne still in the fight, and the Lusail (November 28–29) and Abu Dhabi (December 5–6) rounds remain; Câmara has already been confirmed as a Haas F1 driver for 2027 (FIA, n.d.-a). The reigning teams' champion is Invicta, and 2024 champion Gabriel Bortoleto graduated to Formula 1 (FIA, n.d.-a).
+The FIA Formula 2 Championship is the FIA's premier single-seater feeder series directly below Formula One, contested by two-car teams on the support program of most Formula 1 Grands Prix; the 2026 season is the 10th under the F2 name, running from March 7 in Melbourne to December 6 in Abu Dhabi over 14 rounds, with all cars built by Dallara (F2 2024 chassis) and powered by a Mecachrome 3.4-litre turbocharged V6 on Pirelli tyres (FIA, n.d.-b; FIA, n.d.-a). The Bahrain and Jeddah rounds were cancelled because of the regional conflict and replaced by the championship's first North American rounds in Miami and Montreal, while Baku was "supersized" with two feature races (FIA, n.d.-a). As of November 22, 2026, Rafael Câmara leads the drivers' standings by 7 points over Nikola Tsolov, with Alex Dunne still in the fight, and the Lusail (November 28–29) and Abu Dhabi (December 5–6) rounds remain; Câmara has already been confirmed as a Haas F1 driver for 2027 (FIA, n.d.-a). The reigning teams' champion is Invicta, and 2024 champion Gabriel Bortoleto graduated to Formula 1 (FIA, n.d.-a) (FIA, n.d.-b).
 
 On the women's side of the feeder ladder, the all-female F1 Academy — run as an F1 support series since 2023 — is where the leading young women race, and its graduates are the most visible female talents on the path to Formula 1 and Formula 2 (F1 Academy, n.d.).
 
@@ -18,11 +18,11 @@ The championship traces its lineage through the European Formula Two championshi
 
 ## Sources
 
+- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
 - FIA. (n.d.-a). *2026 FIA Formula 2 Championship — calendar, standings and results*. Retrieved November 22, 2026, from https://www.fiaformula2.com/
 - FIA. (n.d.-b). *FIA Formula 2 Championship — about the series and car*. Retrieved November 22, 2026, from https://www.fia.com/championship/fia-formula-2-championship
 - FIA. (n.d.-c). *FIA Formula 2 Sporting Regulations 2026*. Retrieved November 22, 2026, from https://www.fia.com/regulations/formula-2-regulations-2026
-- F1 Academy. (n.d.). *F1 Academy — the all-female racing series*. Retrieved November 22, 2026, from https://www.f1academy.com/
-- Wikipedia. (n.d.-a). *FIA Formula 2 Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIA_Formula_2_Championship
+- Wikipedia. (n.d.). *FIA Formula 2 Championship*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/FIA_Formula_2_Championship
 
 ### Figure Index
 

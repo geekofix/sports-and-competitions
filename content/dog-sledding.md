@@ -4,7 +4,7 @@ Dog sledding (mushing) is a winter sport in which a musher on a sled is pulled b
 
 ![A sled dog team racing at the Kemmerer Stage Stop Dog Sled Race 2023](https://commons.wikimedia.org/wiki/Special:Redirect/file/Kemmerer_Stage_Stop_Dog_Sled_Race_2023_-_52663195692.jpg?width=560)
 
-*Figure: strangebiology. (2023, February 1). Kemmerer Stage Stop Dog Sled Race 2023 - 52663195692 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Kemmerer_Stage_Stop_Dog_Sled_Race_2023_-_52663195692.jpg*
+*Figure: strangebiology. (2023, February 1). Kemmerer Stage Stop Dog Sled Race 2023 — 52663195692 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Kemmerer_Stage_Stop_Dog_Sled_Race_2023_-_52663195692.jpg*
 
 ![Musher Heidi Sutter and her dog sled team at a checkpoint in Alaska](https://commons.wikimedia.org/wiki/Special:Redirect/file/Musher_Heidi_Sutter_and_dog_sled_team_%2816644205662%29.jpg?width=560)
 

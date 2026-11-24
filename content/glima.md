@@ -18,10 +18,10 @@ Glima is first recorded in the Icelandic law code *Jónsbók* of 1325, and sagas
 
 ## Sources
 
-- Íþrótta- og Ólympíusamband Íslands. (n.d.-a). *Glima — rules, Grettisbelt and Icelandic Glima Championships*. Retrieved November 22, 2026, from https://www.isl.is/
 - Wikipedia. (n.d.-a). *Glima*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Glima
 - Wikipedia. (n.d.-b). *Glima — history, Jónsbók 1325, Grettisbelt, icons*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Glima
 - World Ethnosport. (n.d.). *Glima — traditional wrestling of Iceland*. Retrieved November 22, 2026, from https://worldethnosport.org/
+- Íþrótta- og Ólympíusamband Íslands. (n.d.). *Glima — rules, Grettisbelt and Icelandic Glima Championships*. Retrieved November 22, 2026, from https://www.isl.is/
 
 ### Figure Index
 

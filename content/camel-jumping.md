@@ -15,7 +15,7 @@ The sport is said to have begun generations ago as a dare between two Zaraniq tr
 ## Sources
 
 - Smithsonian Magazine. (n.d.). *The sport of camel jumping* (photo essay by Adam Reynolds). Retrieved November 21, 2026, from https://www.smithsonianmag.com/travel/the-sport-of-camel-jumping-54958431/
-- The World (PRX). (2016, July 30). *Camel festivals: Wrestling, racing, jumping and a beauty contest*. https://theworld.org/stories/2016/07/30/camel-festivals-wrestling-racing-jumping-and-beauty-contest
+- The World (PRX). (2016). *Camel festivals: Wrestling, racing, jumping and a beauty contest*. https://theworld.org/stories/2016/07/30/camel-festivals-wrestling-racing-jumping-and-beauty-contest
 - Topend Sports. (n.d.). *Camel jumping in Yemen — rules and records*. Retrieved November 21, 2026, from https://www.topendsports.com/sport/unusual/camel-jumping.htm
 
 ## Important Links

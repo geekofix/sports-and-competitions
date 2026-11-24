@@ -12,10 +12,10 @@ Picking up objects from the ground at a gallop was a training exercise of the no
 
 ## Sources
 
+- The Astana Times. (2024). *Tenge Ilu: traditional Kazakh equestrian sport*. Retrieved November 22, 2026, from https://astanatimes.com/2024/07/tenge-ilu-traditional-kazakh-equestrian-sport/
 - Wikipedia. (n.d.-a). *Tenge ilu / kumis alu*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Tenge_ilu
 - Wikipedia. (n.d.-b). *World Nomad Games — equestrian programme incl. tenge ilu, 2014–2026 editions*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Nomad_Games
-- World Ethnosport. (n.d.-a). *Tenge Ilu — rules: 120 m course, five objects at 10 m intervals, scoring*. Retrieved November 22, 2026, from https://worldethnosport.org/tenge-ilu
-- The Astana Times. (2024, July). *Tenge Ilu: traditional Kazakh equestrian sport*. Retrieved November 22, 2026, from https://astanatimes.com/2024/07/tenge-ilu-traditional-kazakh-equestrian-sport/
+- World Ethnosport. (n.d.). *Tenge Ilu — rules: 120 m course, five objects at 10 m intervals, scoring*. Retrieved November 22, 2026, from https://worldethnosport.org/tenge-ilu
 
 ## Important Links
 

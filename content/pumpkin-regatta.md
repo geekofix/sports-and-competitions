@@ -16,7 +16,7 @@ The first pumpkin regatta was organized by Danny Dill and held in 1999 at Lake P
 
 ## Sources
 
-- Bangor Daily News. (2025, October 3). *How 2 locals started Damariscotta's tradition of racing pumpkin boats — Buzz Pinkham and Billy Clark 2005*. Retrieved November 23, 2026, from https://www.bangordailynews.com/2025/10/03/midcoast/midcoast-culture/damariscotta-pumpkinfest-regatta-history/
+- Bangor Daily News. (2025). *How 2 locals started Damariscotta's tradition of racing pumpkin boats — Buzz Pinkham and Billy Clark 2005*. Retrieved November 23, 2026, from https://www.bangordailynews.com/2025/10/03/midcoast/midcoast-culture/damariscotta-pumpkinfest-regatta-history/
 - Damariscotta Pumpkinfest & Regatta. (n.d.). *Regatta — paddle and motor divisions, heats and relays from the town dock to the buoy and back*. Retrieved November 23, 2026, from https://www.mainepumpkinfest.com/regatta
 - Wikipedia. (n.d.). *Pumpkin regatta — first 1999 Windsor Nova Scotia by Danny Dill, Lake Pesaquid; spread to Goffstown 2001, Tualatin 2004, Madison 2005; Atlantic giant pumpkins, costumes*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Pumpkin_regatta
 

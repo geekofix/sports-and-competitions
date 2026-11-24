@@ -22,8 +22,8 @@ Boules games are ancient — the Greeks and Romans played versions with stone ba
 
 ## Sources
 
-- Confederazione Boccistica Internazionale. (n.d.-a). *World Seniors Bocce Championship 2026, Garibaldi, Brazil*. Retrieved November 21, 2026, from https://cbi-prv.org/
-- World Petanque and Bowls Federation. (n.d.-b). *Pétanque, raffa and volo — rules and world championships*. Retrieved November 21, 2026, from https://wpbf-fmbp.org/
+- Confederazione Boccistica Internazionale. (n.d.). *World Seniors Bocce Championship 2026, Garibaldi, Brazil*. Retrieved November 21, 2026, from https://cbi-prv.org/
+- World Petanque and Bowls Federation. (n.d.). *Pétanque, raffa and volo — rules and world championships*. Retrieved November 21, 2026, from https://wpbf-fmbp.org/
 
 ### Figure Index
 

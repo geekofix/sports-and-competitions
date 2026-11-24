@@ -1,6 +1,6 @@
 ## Basic Information
 
-Foil is the lightest of the three fencing weapons — a thrusting-only sword of at most 500 g — in which a touch counts only on the opponent's torso, covered by the conductive lamé, and the rules of right of way decide priority when both fencers land a hit in the same action (Wikipedia, n.d.-a). Men's foil has been contested at every Olympic Games since Athens 1896, and women's foil was the first women's Olympic fencing event, introduced at Paris 1924 (Olympics.com, n.d.). The weapon is governed by the Fédération Internationale d'Escrime (FIE), whose 2026 World Championships in Hong Kong (22–30 July 2026) included men's and women's individual and team foil among the twelve events (FIE, n.d.-a). See [Fencing](fencing.html) on this site for the shared rules of the sport.
+Foil is the lightest of the three fencing weapons — a thrusting-only sword of at most 500 g — in which a touch counts only on the opponent's torso, covered by the conductive lamé, and the rules of right of way decide priority when both fencers land a hit in the same action (Wikipedia, n.d.-a). Men's foil has been contested at every Olympic Games since Athens 1896, and women's foil was the first women's Olympic fencing event, introduced at Paris 1924 (Olympics.com, n.d.). The weapon is governed by the Fédération Internationale d'Escrime (FIE), whose 2026 World Championships in Hong Kong (22–30 July 2026) included men's and women's individual and team foil among the twelve events (FIE, n.d.-a). See [Fencing](fencing.html) on this site for the shared rules of the sport (Fédération Internationale d'Escrime, n.d.-a) (Fédération Internationale d'Escrime, n.d.-b).
 
 In the 2026/27 season the women's foil is led by Italy's Martina Favaretto and Anna Cristino, with the American Olympic champion Lee Kiefer and Lauren Scruggs among the chasing pack; on the men's side the Czech Alexander Choupenitch tops the FIE world rankings in foil (FIE, n.d.-b).
 
@@ -29,7 +29,7 @@ Among the icons of the weapon are the Italians Nedo Nadi (1894–1940), who won 
 - Fédération Internationale d'Escrime. (n.d.-a). *2026 World Championships in Hong Kong — 22–30 July 2026, twelve events and results*. Retrieved November 22, 2026, from https://www.fie.org/
 - Fédération Internationale d'Escrime. (n.d.-b). *FIE rules — foil conventions, target area and right of way (August 2026 edition)*. Retrieved November 22, 2026, from https://fie.org/documents/rules
 - Olympics.com. (n.d.). *Foil at the Olympic Games*. Retrieved November 22, 2026, from https://www.olympics.com/en/olympic-games/olympic-sports/fencing
-- Wikipedia. (n.d.-a). *Foil (fencing)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Foil_(fencing)
+- Wikipedia. (n.d.). *Foil (fencing)*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Foil_(fencing)
 
 ### Figure Index
 

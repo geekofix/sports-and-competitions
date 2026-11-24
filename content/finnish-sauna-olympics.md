@@ -1,6 +1,8 @@
 ## Basic Information
 
-The Finnish Sauna Olympics (Maailman saunakisat, World Sauna Championships) were held annually in Heinola, Finland, from 1999 to 2010, crowning the world's best sauna-enduring competitors in a 110 °C sauna. The competition ended after the death of a Russian finalist in 2010; the Finnish Sauna Society had long opposed the extreme format.
+The Finnish Sauna Olympics (Maailman saunakisat, World Sauna Championships) were held annually in Heinola, Finland, from 1999 to 2010, crowning the world's best sauna-enduring competitors in a 110 °C sauna. The competition ended after the death of a Russian finalist in 2010; the Finnish Sauna Society had long opposed the extreme format (Divapor, n.d.).
+
+Women and men have competed in the World Sauna Championships in separate and mixed categories.
 
 ## Rules
 
@@ -12,8 +14,8 @@ The World Sauna Championships were organized in Heinola from 1999 (first held 19
 
 ## Sources
 
-- Sauna World Championships / saunamm.fi. (n.d.). *World Sauna Championships rules and history*. Retrieved November 20, 2026, from https://www.saunamm.fi/
 - Divapor. (n.d.). *History of the World Sauna Championships in Heinola*. Retrieved November 20, 2026, from https://www.divapor.com/
+- Sauna World Championships / saunamm.fi. (n.d.). *World Sauna Championships rules and history*. Retrieved November 20, 2026, from https://www.saunamm.fi/
 - SaunaGeek. (n.d.). *The end of the World Sauna Championships after 2010*. Retrieved November 20, 2026, from https://www.saunageek.com/
 
 ## Important Links

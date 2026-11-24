@@ -1,6 +1,6 @@
 ## Basic Information
 
-10m Air Pistol is a precision shooting discipline governed by the International Shooting Sport Federation (ISSF). Shooters fire one-handed at a target 10 meters away on an indoor range. It has been an Olympic event since Seoul 1988 and is also contested at the ISSF World Championships, World Cups and continental championships, alongside a mixed-team event that debuted at the Tokyo 2020 Games. See also [10m Air Rifle Shooting](10m-air-rifle-shooting.html) and [Shooting](shooting.html) on this site.
+10m Air Pistol is a precision shooting discipline governed by the International Shooting Sport Federation (ISSF). Shooters fire one-handed at a target 10 meters away on an indoor range. It has been an Olympic event since Seoul 1988 and is also contested at the ISSF World Championships, World Cups and continental championships, alongside a mixed-team event that debuted at the Tokyo 2020 Games. See also [10m Air Rifle Shooting](10m-air-rifle-shooting.html) and [Shooting](shooting.html) on this site (International Shooting Sport Federation, n.d.-a) (International Shooting Sport Federation, n.d.-b).
 
 At the Paris 2024 Olympic Games the gold medals went to Xie Yu of China in the men's event and to Oh Ye-jin of South Korea in the women's event, ahead of her compatriot Kim Ye-ji (International Olympic Committee [IOC], n.d.). The ISSF world ranking in November 2026 is led by Bu Shuaihang of China in the men's event and by Esha Singh of India in the women's event (ISSF, n.d.-b).
 
