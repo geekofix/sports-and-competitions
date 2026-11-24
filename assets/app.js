@@ -22,6 +22,23 @@ if (document.getElementById('tableBody')) {
   const resultCount = document.getElementById('resultCount');
   const visibleCount = document.getElementById('visibleCount');
 
+  const activeTags = new Set();
+  const tagBar = document.getElementById('tagBar');
+  const tagChips = tagBar ? Array.from(tagBar.querySelectorAll('.tag-chip')) : [];
+  tagChips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      const tag = chip.dataset.tag;
+      if (activeTags.has(tag)) {
+        activeTags.delete(tag);
+        chip.classList.remove('active');
+      } else {
+        activeTags.add(tag);
+        chip.classList.add('active');
+      }
+      filterRows();
+    });
+  });
+
   const letterSet = new Set();
   rows.forEach(r => {
     const c = r.querySelector('.name-text').textContent.trim()[0].toUpperCase();
@@ -64,8 +81,14 @@ if (document.getElementById('tableBody')) {
       const name = nameEl.textContent;
       const desc = descEl.textContent;
       let show = true;
-      if (activeLetter) show = name.trim()[0].toUpperCase() === activeLetter;
-      else if (q) show = name.toLowerCase().includes(q) || desc.toLowerCase().includes(q);
+      if (activeTags.size) {
+        const rowTags = (r.dataset.tags || '').split(' ').filter(Boolean);
+        show = rowTags.some(t => activeTags.has(t));
+      }
+      if (show) {
+        if (activeLetter) show = name.trim()[0].toUpperCase() === activeLetter;
+        else if (q) show = name.toLowerCase().includes(q) || desc.toLowerCase().includes(q);
+      };
       r.classList.toggle('hidden', !show);
       if (q && show) {
         nameEl.innerHTML = highlight(name, q);
@@ -78,7 +101,7 @@ if (document.getElementById('tableBody')) {
     });
     noResults.style.display = visible === 0 ? 'block' : 'none';
     visibleCount.textContent = visible;
-    resultCount.textContent = (q || activeLetter) ? visible + ' result' + (visible !== 1 ? 's' : '') : '';
+    resultCount.textContent = (q || activeLetter || activeTags.size) ? visible + ' result' + (visible !== 1 ? 's' : '') : '';
   }
 
   searchInput.addEventListener('input', () => {

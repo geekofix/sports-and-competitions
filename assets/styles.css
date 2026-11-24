@@ -160,6 +160,22 @@ a.brand:hover { color: var(--accent); }
 
 .alpha-bar { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 14px; }
 
+.tag-bar { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+
+.tag-chip {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text);
+  padding: 5px 12px;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+.tag-chip:hover { border-color: var(--accent); color: var(--accent); }
+.tag-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 700; }
+
 .alpha-bar button {
   width: 28px;
   height: 26px;

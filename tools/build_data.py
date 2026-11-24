@@ -4,7 +4,7 @@
 The canonical list of sports/competitions lives in data/sports_list.md
 (two-column Markdown table: name + YouTube search URL). The short
 descriptions shown on the index page come from data/descriptions.csv
-(columns: slug, description).
+(columns: slug, description, tags).
 
 Usage:
     python3 tools/build_data.py
@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 OUT = DATA / "sports.csv"
 
-FIELDS = ["slug", "name", "youtube_url", "description", "description_source"]
+FIELDS = ["slug", "name", "youtube_url", "description", "description_source", "tags"]
 
 
 def slugify(name):
@@ -39,7 +39,7 @@ def parse_list():
 
 
 def parse_descriptions_csv():
-    """Curated descriptions: data/descriptions.csv (slug, description)."""
+    """Curated descriptions: data/descriptions.csv (slug, description, tags)."""
     path = DATA / "descriptions.csv"
     by_slug = {}
     if not path.exists():
@@ -48,8 +48,9 @@ def parse_descriptions_csv():
         for row in csv.DictReader(f):
             slug = (row.get("slug") or "").strip()
             desc = (row.get("description") or "").strip()
+            tags = (row.get("tags") or "").strip()
             if slug and desc:
-                by_slug[slug] = desc
+                by_slug[slug] = {"description": desc, "tags": tags}
     return by_slug
 
 
@@ -79,6 +80,7 @@ def main():
     used_slugs = set()
     rows = []
     matched = 0
+    tagged = 0
     for e in entries:
         slug = slugify(e["name"])
         base = slug
@@ -88,15 +90,20 @@ def main():
             i += 1
         used_slugs.add(slug)
 
-        desc = by_slug_desc.get(slug, "")
+        desc_row = by_slug_desc.get(slug, {})
+        desc = desc_row.get("description", "")
+        tags = desc_row.get("tags", "")
         if desc:
             matched += 1
+        if tags:
+            tagged += 1
         rows.append({
             "slug": slug,
             "name": e["name"],
             "youtube_url": e["youtube_url"],
             "description": desc,
             "description_source": "descriptions.csv" if desc else "",
+            "tags": tags,
         })
 
     with OUT.open("w", encoding="utf-8", newline="") as f:
@@ -106,6 +113,7 @@ def main():
 
     print(f"Wrote {len(rows)} entries to {OUT.relative_to(ROOT)}")
     print(f"Entries with description: {matched} of {len(rows)}")
+    print(f"Entries with tags: {tagged} of {len(rows)}")
     sync_readme_count(len(rows))
 
 

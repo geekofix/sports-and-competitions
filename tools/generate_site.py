@@ -251,6 +251,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     <span class="badge"><strong id="visibleCount">{total}</strong> of {total} entries</span>
     <button id="randomBtn" class="btn" type="button" title="Open a random sports or competition page">&#127922; Random sport</button>
   </div>
+  <div class="tag-bar" id="tagBar">{tag_chips}</div>
   <div class="alpha-bar" id="alphaBar"></div>
   <div class="table-wrap">
     <table>
@@ -277,13 +278,41 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 """
 
 
+TAG_LABELS = {
+    "ball": "Ball sport",
+    "racquet": "Racquet sport",
+    "combat": "Combat sport",
+    "winter": "Winter",
+    "water": "Water",
+    "air": "Air",
+    "mind": "Mind sport",
+    "esports": "Esports",
+    "traditional": "Traditional/festival",
+    "motorsport": "Motorsport",
+    "cycling": "Cycling",
+    "skate": "Skate & wheels",
+    "athletics": "Running & athletics",
+    "climbing": "Climbing",
+    "equestrian": "Equestrian",
+    "precision": "Precision",
+    "strength": "Strength",
+    "gymnastics": "Gymnastics & acrobatics",
+    "dog": "Dog sports",
+}
+
+
+def slug_tags(row):
+    return [t for t in (row.get("tags") or "").split(";") if t in TAG_LABELS]
+
+
 def build_row(index, row):
     slug = row["slug"]
     name = row["name"]
     desc = row["description"]
     yt = row["youtube_url"]
+    tags_attr = " ".join(slug_tags(row))
     return (
-        f'      <tr>\n'
+        f'      <tr data-tags="{tags_attr}">\n'
         f'        <td class="num">{index}</td>\n'
         f'        <td class="sport-name"><a href="sports/{esc(slug)}.html"><span class="name-text">{esc(name)}</span></a></td>\n'
         f'        <td class="desc">{esc(desc)}</td>\n'
@@ -328,12 +357,22 @@ def main():
         (d for d in (last_reviewed(r["slug"]) for r in rows) if d),
         default="&mdash;",
     )
+    tag_counts = {}
+    for r in rows:
+        for t in slug_tags(r):
+            tag_counts[t] = tag_counts.get(t, 0) + 1
+    tag_chips = "\n".join(
+        f'    <button type="button" class="tag-chip" data-tag="{esc(t)}"'
+        f' title="Show all {TAG_LABELS[t]} entries">{esc(TAG_LABELS[t])} ({tag_counts[t]})</button>'
+        for t in TAG_LABELS if t in tag_counts
+    )
     index_html = INDEX_TEMPLATE.format(
         site=SITE_TITLE,
         total=total,
         theme_script=THEME_SCRIPT,
         theme_button=THEME_BUTTON,
         rows="\n".join(build_row(i, r) for i, r in enumerate(rows, 1)),
+        tag_chips=tag_chips,
         cc=CC_URL,
         repo=REPO_URL,
         vibe=VIBE_URL,

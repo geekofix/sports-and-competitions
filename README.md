@@ -34,7 +34,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 
 ## What you get
 
-- A searchable, filterable index of all entries (live search + A–Z quick filter + ▶ YouTube button per entry + 🎲 Random sport button).
+- A searchable, filterable index of all entries (live search + category tag chips + A–Z quick filter + ▶ YouTube button per entry + 🎲 Random sport button).
 - Light and dark theme (toggle in the header) with large, high-contrast, readable type.
 - A **"Last reviewed" date in the footer of every page**, generated automatically at build time from the last commit that touched the page's content file (the index footer shows the most recent review date across all entries).
 - One dedicated page per sport or competition. Every page has exactly the same structure:
@@ -51,7 +51,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 | Path | Purpose |
 | --- | --- |
 | `data/sports_list.md` | Canonical list: one row per sport/competition with its YouTube search link |
-| `data/descriptions.csv` | Curated short descriptions (slug, description) shown on the index page |
+| `data/descriptions.csv` | Curated short descriptions (slug, description) and category tags (semicolon-separated) shown on the index page |
 | `data/sports.csv` | Generated from the list and the curated descriptions — the data source for the site |
 | `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`, `## Sources`, `## Important Links`) |
 | `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + `data/descriptions.csv` and syncs the entry count in `README.md` |
