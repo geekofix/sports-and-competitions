@@ -53,6 +53,22 @@ def parse_descriptions_csv():
     return by_slug
 
 
+def sync_readme_count(total):
+    """Keep the hardcoded count in README.md in sync with the entry count.
+
+    Replaces the number in the intro line ("**N sports and competitions**")
+    so adding/removing list rows automatically updates the README.
+    """
+    readme = ROOT / "README.md"
+    text = readme.read_text(encoding="utf-8")
+    pattern = re.compile(r"\*\*\d+ sports and competitions\*\*")
+    replacement = f"**{total} sports and competitions**"
+    new_text, n = pattern.subn(replacement, text, count=1)
+    if n and new_text != text:
+        readme.write_text(new_text, encoding="utf-8")
+        print(f"Updated README.md entry count to {total}")
+
+
 def main():
     entries = parse_list()
     if not entries:
@@ -90,6 +106,7 @@ def main():
 
     print(f"Wrote {len(rows)} entries to {OUT.relative_to(ROOT)}")
     print(f"Entries with description: {matched} of {len(rows)}")
+    sync_readme_count(len(rows))
 
 
 if __name__ == "__main__":

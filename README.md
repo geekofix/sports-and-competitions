@@ -1,6 +1,6 @@
 # Sports & Competitions — Open Encyclopedia
 
-An open-source encyclopedia of **804 sports and competitions** from around the world — from the Olympic core programme to the most obscure village traditions on five continents. Everything is free to read, use and contribute to.
+An open-source encyclopedia of **798 sports and competitions** from around the world — from the Olympic core programme to the most obscure village traditions on five continents. Everything is free to read, use and contribute to.
 
 **Live website (GitHub Pages):** https://geekofix.github.io/sports-and-competitions/
 
@@ -52,7 +52,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 | `data/descriptions.csv` | Curated short descriptions (slug, description) shown on the index page |
 | `data/sports.csv` | Generated from the list and the curated descriptions — the data source for the site |
 | `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`, `## Sources`, `## Important Links`) |
-| `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + `data/descriptions.csv` |
+| `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + `data/descriptions.csv` and syncs the entry count in `README.md` |
 | `tools/generate_site.py` | Generates `index.html` and all `sports/*.html` pages from the CSV + content files |
 | `index.html`, `sports/`, `assets/` | The generated static website (served by GitHub Pages): pages, styles, scripts and images |
 | `.nojekyll` | Tells GitHub Pages to serve the files as-is, no build step |
