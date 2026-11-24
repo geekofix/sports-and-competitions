@@ -1,24 +1,33 @@
 ## Basic Information
 
-The World Porridge Eating Championship is an annual speed-eating contest held in Dorking in England, in which competitors race to finish a bowl of hot oatmeal porridge faster than their rivals. A comic festival event in the tradition of British novelty food contests, it rewards appetite and speed rather than the cooking skill celebrated by the better-known porridge making championships.
+Competitive porridge eating is the British festival novelty contest in which competitors race to eat bowls of porridge against the clock, headquartered at the revived World Porridge Eating Championship in Corby, Northamptonshire — distinct from the older World Porridge Making Championship held annually at Carrbridge in the Scottish Highlands since 1994, where the Golden Spurtle trophy is awarded (Wikipedia, n.d.). The original eating contest dates to 1969, when John Coyle of Ireland won the first championship at a Highland gathering by eating 23 bowls of instant oatmeal in ten minutes out of a field of 35 — a result famously read out to the Apollo 11 crew by CAPCOM (BBC, n.d.). Today's revived eating contest runs heats of two bowls and a three-bowl final, with separate heats for women, men and children, so female competitors take the stage on exactly the same terms as men (Northamptonshire Telegraph, n.d.).
 
-The contest draws local entrants and spectators for an afternoon of oat-powered spectacle, with the winner claiming the title of world porridge eating champion.
+![A bowl of porridge, the food of the championship](https://commons.wikimedia.org/wiki/Special:Redirect/file/Porridge.jpg?width=480)
+
+*Figure: VirtualSteve. (2006, February 17). Porridge — a bowl of oat porridge, the food eaten at the World Porridge Eating Championship [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Porridge.jpg*
 
 ## Rules
 
-Contestants receive identical bowls of freshly cooked porridge and, on the starter's signal, eat their bowls as quickly as possible. The first to finish with an empty bowl wins, and rules typically forbid wasting porridge, leaving the table or unsportsmanlike interference with other eaters. Because events of this kind are run by local organisers rather than an international federation, details such as bowl size, entry rules and category splits are set by each contest.
+In the eating championship, each competitor sits at a table with bowls of porridge and must consume them as fast as possible with hands behind the back or holding the bowl — the bowls may not be thrown, and the first to finish the required number of bowls wins the heat (Northamptonshire Telegraph, n.d.). Heats are run over two bowls and the final over three, with a children's heat held alongside; the all-comers format means women and men enter separate but equal heats (Wikipedia, n.d.). The Carrbridge making championship is stricter: teams must cook their porridge from oats, water and salt only, stirred with a wooden spurtle, and judges score consistency, texture and taste, with the fastest consistently good porridge taking the Golden Spurtle (Wikipedia, n.d.). Food-safety rules require all porridge to be consumed or discarded on site.
 
 ## History
 
-Competitive eating arrived in Britain through pub and festival fringe events in the late twentieth century, and porridge — cheap, filling and unmistakably British — proved a natural comic medium. Dorking's annual porridge-eating contest grew out of that tradition, establishing its world championship billing alongside other novelty competitions held across English towns, and the event continues to be run locally as part of the village and town fete calendar.
+The eating championship was founded in 1969 by Colin Milburn at a Highland gathering, with John Coyle's 23-bowl effort in ten minutes becoming the legendary benchmark — the result was even relayed to the Apollo 11 astronauts on the moon (BBC, n.d.). After decades of dormancy the eating contest was revived in Corby, Northamptonshire, with a children's heat added, while the separate porridge *making* world championship began at Carrbridge, Scotland, in 1994 and has been held annually since, awarding the coveted Golden Spurtle (Wikipedia, n.d.). The two events — eating versus making — are often confused, but both are now fixtures of the British competitive-eating calendar (Northamptonshire Telegraph, n.d.).
 
 ## Sources
 
-- Local event coverage: [Visit Dorking and Surrey events](https://www.visitsurrey.com/) Retrieved November 21, 2026, from 
-- Wikipedia: [Competitive eating](https://en.wikipedia.org/wiki/Competitive_eating) Retrieved November 21, 2026, from 
+- BBC. (n.d.). *News — the 1969 World Porridge Eating Championship won by John Coyle with 23 bowls in ten minutes, and the Apollo 11 radio link-up*. Retrieved November 23, 2026, from https://www.bbc.co.uk/news
+- Northamptonshire Telegraph. (n.d.). *Northamptonshire Telegraph — reports on the revived World Porridge Eating Championship in Corby, heats, finals and the children's heat*. Retrieved November 23, 2026, from https://www.northamptonshiretelegraph.co.uk
+- Wikipedia. (n.d.). *World Porridge Making Championship and competitive eating — Carrbridge making championship since 1994 with the Golden Spurtle; eating contest history since 1969*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/World_Porridge_Making_Championship
+
+### Figure Index
+
+- VirtualSteve. (2006, February 17). *Porridge* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Porridge.jpg (CC BY-SA 2.5)
 
 ## Important Links
 
-- [World Gurning Championships](world-gurning-championships.html) — another English novelty world championship, on this site
-- [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — a food-based novelty championship, on this site
-- [Spogomi](spogomi.html) — an unconventional competitive activity, on this site
+- [BBC News — porridge championship coverage](https://www.bbc.co.uk/news)
+- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — another British festival contest
+- [Worm Charming](worm-charming.html) on this site — the World Worm Charming Championships
+- [Cheese Rolling](cheese-rolling.html) on this site — another British eccentric championship
+- [Wife Carrying](wife-carrying.html) on this site — a quirky world championship

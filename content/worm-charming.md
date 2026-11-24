@@ -1,24 +1,36 @@
 ## Basic Information
 
-Worm charming is a competitive sport of luring earthworms out of the ground, traditionally by vibrating the soil through techniques such as dancing, twanging a garden fork in the earth or drumming on it — with the team collecting the most worms in a set time winning. Celebrated most famously at the World Worm Charming Championships held in Nantwich in Cheshire, England, the pastime has both folk roots in naturalist practice and scientific application, since the same vibration techniques are used to sample earthworm populations.
+Worm charming is the competitive sport of luring earthworms to the surface of the ground by vibrating the soil — through dancing, drumming, or twanging a garden fork in the earth — with the team collecting the most worms in a set time winning (Wikipedia, n.d.). The World Worm Charming Championships are held every year at Willaston County Primary School in Willaston, near Nantwich, Cheshire, and competitors of every age take part, with women and men competing side by side in the same teams (World Worm Charming Championships, n.d.). The current benchmark record is 567 worms, charmed in 30 minutes by ten-year-old Sophie Smith on 29 June 2009 (Guinness World Records, n.d.).
 
-Worm charming events draw wide media interest as a beloved example of genuinely eccentric British rural sport, with teams of all ages competing.
+![The worm-charming ground at Willaston](https://commons.wikimedia.org/wiki/Special:Redirect/file/Willaston_-_Worm_Charming.jpg?width=480)
+
+*Figure: Graham Shaw. (2006, June 24). Willaston Worm Charming — the worm-charming ground in Willaston, Cheshire, venue of the World Worm Charming Championships since 1980 [Photograph]. Geograph Britain and Ireland via Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Willaston_-_Worm_Charming.jpg*
 
 ## Rules
 
-At the World Worm Charming Championships, a team of up to four people works a three-metre square plot of grassland for 30 minutes, using any vibration-based technique to encourage worms to surface — digging, forking, and using water or electrical tools are forbidden in the traditional rules — and all worms collected are counted at the end to decide the winning team. The team's plot is allocated at the start of the event, and ethics require that all worms be safely returned to the ground afterwards. Local charity versions of the contest apply the same basics with adjusted times or plot sizes.
+Under the eighteen rules of the International Federation of Competitive Worm Charming, a team works a 3 × 3 m plot of grass for 30 minutes using only vibration-based techniques — music, dancing or vibrating a garden fork — while digging, forking the soil mechanically, pouring on liquids and using electrical devices are all banned (World Worm Charming Championships, n.d.). Worms that surface are counted at the end of the half hour, and animal-welfare rules require every worm to be returned safely to the ground at the day's end so that birds are not left exposed (Wikipedia, n.d.). At the world event even water is prohibited; in some local copycat contests, such as Blackawton in Devon where Dave Kelland started the tradition in 1983, water was historically allowed (Nantwich News, n.d.). Teams may number up to four people, and the plot is allocated by draw at the start.
 
 ## History
 
-The sport's competitive form began in Nantwich in 1980, when Tom Shufflebotham and a local pub crowd staged the first World Worm Charming Championships as a charity fundraiser — Tom himself charming a record hundreds of worms in half an hour early in the event's history. The championship grew into an annual fixture each summer covered by national and international press, and it notes a friendly relationship scientific work on earthworm sampling. Its rules — the vibration-only, no-tools, humane tradition — shaped copycat events in Canada, the United States and elsewhere.
+The competitive form of the sport began on Saturday 5 July 1980 at Willaston County Primary School, where deputy headmaster John Bailey wrote the rules and local farmer's son Tom Shufflebotham charmed a remarkable 511 worms out of the ground in half an hour, amazing a disbelieving world (Guinness World Records, n.d.). The championship has been held annually ever since and is covered by national and international press; the 2009 event saw Sophie Smith, aged ten, set the standing record of 567 worms (Nantwich News, n.d.). The vibration-only, humane tradition also inspired scientific earthworm sampling, and copycat events now run in Blackawton (Devon, from 1984), Falmouth (Cornwall, from 2021), Shelburne (Canada, 2012) and Sopchoppy (Florida, USA, the "Worm Gruntin' Festival" since 2000) (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Worm charming](https://en.wikipedia.org/wiki/Worm_charming) Retrieved November 21, 2026, from 
-- World Worm Charming Championships: [Nantwich event](https://wormcharming.com/) Retrieved November 21, 2026, from 
+- Guinness World Records. (n.d.). *Worm charming — record of 567 worms charmed by Sophie Smith at Willaston on 29 June 2009; Tom Shufflebotham's 511 worms in 1980*. Retrieved November 23, 2026, from https://www.guinnessworldrecords.com
+- Nantwich News. (n.d.). *Nantwich News — coverage of the World Worm Charming Championships at Willaston, the 18 rules and the local tradition since 1980*. Retrieved November 23, 2026, from https://www.nantwichnews.co.uk
+- Wikipedia. (n.d.). *Worm charming — Willaston 1980 origin, 3 × 3 m plot, 30 minutes, vibration-only rules, worms returned; copycat events in Devon, Cornwall, Canada and Florida*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Worm_charming
+- World Worm Charming Championships. (n.d.). *Official site — the 18 rules of the International Federation of Competitive Worm Charming: no digging, no liquids at the world event, garden-fork vibration allowed*. Retrieved November 23, 2026, from https://wormcharming.com
+
+### Figure Index
+
+- Graham Shaw. (2006, June 24). *Willaston — Worm Charming* [Photograph]. Geograph Britain and Ireland via Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Willaston_-_Worm_Charming.jpg (CC BY-SA 2.0)
 
 ## Important Links
 
-- [World Gurning Championships](world-gurning-championships.html) — another great British rural championship, on this site
-- [Watermelon Seed Spitting](watermelon-seed-spitting.html) — a rural festival novelty contest, on this site
-- [Wife Carrying](wife-carrying.html) — another eccentric world championship, on this site
+- [World Worm Charming Championships — official site](https://wormcharming.com)
+- [Guinness World Records — worm charming record](https://www.guinnessworldrecords.com)
+- [World Gurning Championships](world-gurning-championships.html) on this site — another great British rural championship
+- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — hen racing at Bonsall
+- [World Stone Skimming Championships](world-stone-skimming-championships.html) on this site — stone skimming at Easdale
+- [Watermelon Seed Spitting](watermelon-seed-spitting.html) on this site — a rural festival novelty contest
+- [Wife Carrying](wife-carrying.html) on this site — another eccentric world championship
