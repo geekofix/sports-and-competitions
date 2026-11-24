@@ -231,6 +231,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     </div>
     <span id="resultCount"></span>
     <span class="badge"><strong id="visibleCount">{total}</strong> of {total} entries</span>
+    <button id="randomBtn" class="btn" type="button" title="Open a random sports or competition page">&#127922; Random sport</button>
   </div>
   <div class="alpha-bar" id="alphaBar"></div>
   <div class="table-wrap">

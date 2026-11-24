@@ -86,4 +86,14 @@ if (document.getElementById('tableBody')) {
     activeLetter = null;
     filterRows();
   });
+
+  const randomBtn = document.getElementById('randomBtn');
+  if (randomBtn) {
+    randomBtn.addEventListener('click', () => {
+      const pool = rows.filter(r => !r.classList.contains('hidden'));
+      const set = pool.length ? pool : rows;
+      const href = set[Math.floor(Math.random() * set.length)].querySelector('.sport-name a').getAttribute('href');
+      window.location.href = href;
+    });
+  }
 }

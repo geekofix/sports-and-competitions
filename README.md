@@ -34,7 +34,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 
 ## What you get
 
-- A searchable, filterable index of all entries (live search + A–Z quick filter + ▶ YouTube button per entry).
+- A searchable, filterable index of all entries (live search + A–Z quick filter + ▶ YouTube button per entry + 🎲 Random sport button).
 - Light and dark theme (toggle in the header) with large, high-contrast, readable type.
 - One dedicated page per sport or competition. Every page has exactly the same structure:
   1. **Basic Information** — a short introduction to the sport or competition
