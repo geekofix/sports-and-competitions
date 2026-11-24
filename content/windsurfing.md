@@ -1,24 +1,36 @@
 ## Basic Information
 
-Windsurfing is a surface water sport combining elements of surfing and sailing, in which a rider stands on a board holding a rig (sail, mast, boom and universal joint) that swivels freely — steering by tilting the sail and shifting body weight rather than with a rudder. Practised on lakes, bays and open sea, it spans casual cruising, wave sailing, freestyle tricks and course racing, with equipment sizes varying from large light-wind boards to tiny wave sails.
+Windsurfing is the surface water sport that combines surfing and sailing: the rider stands on a board and holds a rig — sail, mast, boom and universal joint — that swivels freely, steering by tilting the sail and shifting body weight rather than with a rudder (World Sailing, n.d.). Practised on lakes, bays and open sea, it spans Olympic course racing, slalom, speed sailing, freestyle and wave sailing, with equipment ranging from large light-wind boards to small wave sails (Wikipedia, n.d.).
 
-Windsurfing has been an Olympic class since Los Angeles 1984 and is governed internationally under World Sailing, with world championships in racing, freestyle, waves and formula disciplines.
+Windsurfing has been an Olympic sport since Los Angeles 1984, initially in the one-design Windsurfer class, then RS:X from Beijing 2008 to Rio 2016, and since Tokyo 2020 in the foiling iQFOiL class; it is governed internationally by World Sailing (Olympics, n.d.). At the Paris 2024 Olympics in Marseille — the iQFOiL events ran from 29 July to 3 August at the Roucas-Blanc marina — Italy's Marta Maggetti won the women's gold ahead of Sharon Kantor of Israel and Emma Wilson of Great Britain, while Tom Reuveny of Israel took the men's title (Wikipedia, n.d.).
 
 ## Rules
 
-Racing formats include course racing around buoys in fleets, slalom over reaching courses, and speed events over a fixed distance — with the sailor's rig and fin choices governed by class rules for equipment. Right-of-way rules follow the international sailing racing rules with specific windsurfing appendices: board on port must give way to starboard, windward board keeps clear of leeward, and overtaking boards keep clear while manoeuvring. Freestyle competition is judged on the variety and difficulty of moves such as loops, spocks and flakas scored by a judging panel, while wave events score rides on jumps and wave performance over heats with a priority system for wave selection.
+Racing formats include course racing around buoys in fleets, slalom on reaching courses, and speed events over a measured distance, with equipment governed by class rules; in the Olympic iQFOiL class, fleets race qualifying heats with the leading sailors advancing to a final medal race (World Sailing, n.d.). Right-of-way follows the international sailing racing rules as adapted for boards: a board on port tack gives way to starboard, the windward board keeps clear of the leeward board, and an overtaking board keeps clear while manoeuvring (Wikipedia, n.d.). Freestyle contests are judged on the variety, difficulty and execution of tricks such as spocks, flakas and loops, while wave events score rides and jumps on the wave over heats with a priority system for wave selection (World Sailing, n.d.). Men's and women's fleets compete separately on identical equipment in the Olympic classes (Olympics, n.d.).
 
 ## History
 
-Windsurfing's breakthrough came in the late 1960s in California when Jim Drake, a NASA engineer, and Hoyle Schweitzer developed the freely articulated sail-on-board — patented in 1968 — building on earlier sailboard experiments. The sport boomed in the 1980s with mass production, professional world cup tours and Olympic status after the windsurfer class joined the Games in 1984, After several equipment generations, the iQFOiL foiling class raced at the Paris 2024 Olympics. It remains a worldwide sport with strong scenes in Hawaii, Spain, Germany, France, Australia and Brazil.
+Windsurfing's breakthrough came in the late 1960s in California, when Jim Drake, a NASA engineer, and Hoyle Schweitzer developed the freely articulating sail-on-board and patented the "Windsurfer" in 1968, building on earlier sailboard experiments (Wikipedia, n.d.). The sport boomed in the 1980s with mass production and professional World Cup tours, and it entered the Olympic programme at Los Angeles 1984 (Olympics, n.d.). One of its defining icons was Robby Naish (b. 1963), the Hawaiian who won 24 windsurfing world titles across slalom, wave and course racing in the 1980s and 1990s and is pictured below at the 2006 World Cup on Sylt (Wikipedia, n.d.). After several equipment generations — from the original Windsurfer through the RS:X — the foiling iQFOiL class has raced at the Olympics since Tokyo 2020 (World Sailing, n.d.).
+
+![Robby Naish windsurfing at the World Cup Sylt 2006](https://commons.wikimedia.org/wiki/Special:Redirect/file/Robby_Naish_a-1.jpg?width=480)
+
+*Figure: Tap, J. (HOCH ZWEI). (2006, September). Robby Naish a-1 — windsurfing legend Robby Naish (b. 1963, 24 world titles) competing at the Windsurf World Cup Sylt 2006 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Robby_Naish_a-1.jpg*
 
 ## Sources
 
-- Wikipedia: [Windsurfing](https://en.wikipedia.org/wiki/Windsurfing) Retrieved November 21, 2026, from 
-- World Sailing: [Windsurfing classes and events](https://www.sailing.org/) Retrieved November 21, 2026, from 
+- Olympics. (n.d.). *Windsurfing at the Olympic Games — on the programme since Los Angeles 1984 (Windsurfer class), RS:X 2008–2020, foiling iQFOiL since Tokyo 2020; Paris 2024 iQFOiL in Marseille, 29 July–3 August*. Retrieved November 23, 2026, from https://www.olympics.com/en/sports/sailing/
+- Wikipedia. (n.d.). *Windsurfing — invented and patented 1968 by Jim Drake (NASA engineer) and Hoyle Schweitzer; Olympic since LA 1984; right of way: port yields to starboard, windward keeps clear of leeward, overtaking keeps clear; freestyle judged, wave heats with priority; Paris 2024 iQFOiL: women's gold Marta Maggetti (ITA), silver Sharon Kantor (ISR), bronze Emma Wilson (GBR); men's gold Tom Reuveny (ISR); Robby Naish (b. 1963) 24 world titles*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Windsurfing
+- World Sailing. (n.d.). *Windsurfing — world governing body: Olympic iQFOiL class, course racing, slalom, speed, freestyle and wave disciplines, world championships and class rules*. Retrieved November 23, 2026, from https://www.sailing.org/
+
+### Figure Index
+
+- Tap, J. (HOCH ZWEI). (2006, September). *Robby Naish a-1* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Robby_Naish_a-1.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [Wing Foiling](wing-foiling.html) — the newer handheld-wing offshoot of windsurfing, on this site
-- [Kitesurfing](kitesurfing.html) — the kite-propelled board sport sibling, on this site
-- [Surfing](surfing.html) — the wave-riding parent sport, on this site
+- [World Sailing — windsurfing](https://www.sailing.org/) — world governing body: Olympic iQFOiL class, racing, slalom, wave and freestyle disciplines, world championships
+- [Olympics — sailing and windsurfing](https://www.olympics.com/en/sports/sailing/) — Olympic programme including the iQFOiL class since Tokyo 2020
+- [Sailing](sailing.html) on this site — the parent sail-powered sport
+- [Surfing](surfing.html) on this site — the wave-riding parent sport
+- [Kitesurfing](kitesurfing.html) on this site — the kite-propelled board-sport sibling
+- [Wing Foiling](wing-foiling.html) on this site — the newer handheld-wing board sport

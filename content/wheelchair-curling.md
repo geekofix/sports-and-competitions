@@ -1,24 +1,35 @@
 ## Basic Information
 
-Wheelchair curling is the Paralympic adaptation of curling, played on the same standard ice sheet with the same granite stones but with two defining differences: athletes deliver stones from a stationary wheelchair using a delivery stick rather than a sliding motion, and sweeping is not allowed — placing a premium on delicate line and weight control from a seated position. Teams are mixed, with each side fielding men and women together.
+Wheelchair curling is the Paralympic adaptation of curling, played on the same standard ice sheet with the same granite stones but with two defining differences: athletes deliver stones from a stationary wheelchair — by hand or with a delivery stick — and sweeping is not allowed, placing a premium on delicate line and weight control from a seated position (World Curling Federation, n.d.). Teams are mixed by regulation, with each side fielding two men and two women together, so the women's game is fully integrated at the highest level rather than run as a separate discipline (Wikipedia, n.d.).
 
-It became a Paralympic medal sport in 2006 and has since grown into an international championship discipline under the World Curling Federation, with strong programmes in Canada, China, Norway, Sweden, Scotland and South Korea.
+It became a Paralympic medal sport at the Turin 2006 Winter Paralympics and is governed internationally by the World Curling Federation alongside able-bodied curling, with World Wheelchair Curling Championships held in the years between the Paralympics (International Paralympic Committee, n.d.). The reigning Paralympic champions are China, whose rink — skipped by Wang Meng — defeated Sweden 8–3 in the Beijing 2022 final, and Canada remains the most successful nation with gold medals in 2006, 2010 and 2014; at the Milano Cortina 2026 Paralympics the programme was expanded with a mixed doubles event, won by China in its inaugural edition (Wikipedia, n.d.).
+
+![Canada's wheelchair curling team after winning gold at the Vancouver 2010 Paralympics](https://commons.wikimedia.org/wiki/Special:Redirect/file/Wheelchair_Curling,_Canada_gold,_Vancouver_2010_Paralympics.jpg?width=480)
+
+*Figure: popejon2. (2010, March 20). Wheelchair Curling, Canada gold, Vancouver 2010 Paralympics — Canada's wheelchair curling team celebrating its gold medal at the Vancouver 2010 Winter Paralympics [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Wheelchair_Curling,_Canada_gold,_Vancouver_2010_Paralympics.jpg*
 
 ## Rules
 
-Teams of two men and two women play eight-end games using standard curling rules on a regular-size curling sheet, with scores counted the same way. Stones must be delivered from a stationary wheelchair with the athlete in constant seat contact during delivery, using a curling pole or throwing the stone by hand; no sweeping is allowed at any time, so the delivered stone travels unassisted. Doubles and mixed doubles formats exist alongside the classic team game, and games follow standard hog-line and free-guard-zone provisions with delivery from a fixed position behind the hack.
+Teams of four — two men and two women — play eight-end games on a regular-size curling sheet, and scoring follows standard curling rules: after all stones are played, the team with the stone closest to the button scores one point per closer stone (World Curling Federation, n.d.). The key adaptations concern delivery and sweeping: stones must be delivered from a stationary wheelchair with the athlete in constant contact with the seat, using either the hand or a delivery stick, and no sweeping is permitted at any time, so the stone travels unassisted after release (Wikipedia, n.d.). Standard hog-line and free-guard-zone provisions apply, power wheelchairs have been permitted in international competition since April 2010, and ties are broken by an extra end. Beyond the four-player team game, mixed doubles wheelchair curling is contested internationally and joined the Paralympic programme at Milano Cortina 2026 (International Paralympic Committee, n.d.).
 
 ## History
 
-Wheelchair curling developed in Europe in the 1990s and was formally sanctioned by the World Curling Federation in 2000, with the first world championship held in Switzerland in January 2002. After its debut as an official sport at the 2006 Turin Winter Paralympics, whose inaugural title was won by the Canadian rink, world championships have continued in years between the four-year Paralympic cycle. Programs such as the highly successful Chinese team, winning Paralympic gold in 2018 and 2022, showcase the sport's growth into a genuinely global discipline.
+Wheelchair curling developed in Europe in the late 1990s, with the first recorded bonspiel held in Sursee, Switzerland, in 2001, and it reached North America around 2002 (Wikipedia, n.d.). The first World Wheelchair Curling Championship was staged in Sursee in 2002, where the host Swiss rink defeated Canada 7–6 in the final, and the International Paralympic Committee granted the sport full medal status in March 2002 (International Paralympic Committee, n.d.). It made its Paralympic debut at Turin 2006, where Canada won gold ahead of Great Britain and Sweden, and world championships have since been held in the years between the Winter Paralympics, with China emerging as the dominant force by winning Paralympic gold in 2018 and 2022 (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Wheelchair curling](https://en.wikipedia.org/wiki/Wheelchair_curling) Retrieved November 21, 2026, from 
-- World Curling Federation: [Wheelchair curling](https://worldcurling.org/wheelchair-curling/) Retrieved November 21, 2026, from 
+- International Paralympic Committee. (n.d.). *Wheelchair curling — Paralympic medal sport since Turin 2006; medal status granted March 2002; Milano Cortina 2026 adds mixed doubles*. Retrieved November 23, 2026, from https://www.paralympic.org/wheelchair-curling
+- Wikipedia. (n.d.). *Wheelchair curling — first bonspiel Sursee 2001; first World Championship Sursee 2002 (Switzerland beat Canada 7–6); no sweeping; delivery from stationary wheelchair by hand or stick; power chairs allowed since April 2010; mixed teams of two men and two women; Canada gold 2006/2010/2014; China gold 2018 (beat Norway) and 2022 (beat Sweden 8–3, skip Wang Meng)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wheelchair_curling
+- World Curling Federation. (n.d.). *Wheelchair curling — rules and competitions: teams of four (two men, two women), eight ends, no sweeping, delivery stick or hand, hog line and free guard zone; World Wheelchair Curling Championships*. Retrieved November 23, 2026, from https://worldcurling.org/wheelchair-curling/
+
+### Figure Index
+
+- popejon2. (2010, March 20). *Wheelchair Curling, Canada gold, Vancouver 2010 Paralympics* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Wheelchair_Curling,_Canada_gold,_Vancouver_2010_Paralympics.jpg (CC BY 2.0)
 
 ## Important Links
 
-- [Curling](curling.html) — the parent ice sport, on this site
-- [Wheelchair Rugby](wheelchair-rugby.html) — the coed full-contact Paralympic chair sport, on this site
-- [Sledge Hockey](sledge-hockey.html) — the other major Paralympic winter team sport on ice, on this site
+- [World Curling Federation — wheelchair curling](https://worldcurling.org/wheelchair-curling/) — world governing body for wheelchair curling, rules and World Championships
+- [International Paralympic Committee — wheelchair curling](https://www.paralympic.org/wheelchair-curling) — Paralympic programme and results
+- [Curling](curling.html) on this site — the able-bodied parent sport on the same ice
+- [Sledge Hockey](sledge-hockey.html) on this site — the other major Paralympic winter team sport on ice
+- [Wheelchair Basketball](wheelchair-basketball.html), [Wheelchair Rugby](wheelchair-rugby.html) and [Wheelchair Tennis](wheelchair-tennis.html) on this site — fellow Paralympic chair sports

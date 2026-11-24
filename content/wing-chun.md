@@ -1,24 +1,34 @@
 ## Basic Information
 
-Wing Chun is a southern Chinese martial art famous for close-range striking efficiency — built around quick straight punches, low kicks, simultaneous attack and defence, and a triangular, rooted stance rather than the showy kicks and acrobatics of sports-oriented styles. Its central concept is economy of motion: the shortest, most direct technique wins, supported by sensitivity drills that develop reflexive reaction to an opponent's pressure.
+Wing Chun (*Ving Tsun*) is a southern Chinese martial art built around close-range striking efficiency — quick straight punches, low kicks, simultaneous attack and defence, and a rooted triangular stance — with economy of motion as its central principle: the shortest, most direct technique wins (International WingTsun Association, n.d.). Its signature training is the chi-sau ("sticking hands") sensitivity drill, practised with a partner and against the wooden dummy, and the style is practised worldwide in traditional schools and modern self-defence contexts, with women training and competing in association tournaments alongside men (Wikipedia, n.d.).
 
-Popularised globally by film star Bruce Lee's training lineage and by the Ip Man films, Wing Chun is practised in traditional schools worldwide alongside modern self-defence contexts, with families of lineages descending from the teacher Ip Man in Hong Kong.
+The style was popularised globally through the Hong Kong lineage of Ip Man and by his student Bruce Lee, and by the Ip Man films; today the International WingTsun Association (IWTA), founded by Leung Ting, spans more than 60 countries (International WingTsun Association, n.d.).
+
+![Chi-sau sticking-hands drill between Sifu Sean Mann and Grand Master Ip Chun](https://commons.wikimedia.org/wiki/Special:Redirect/file/Wing_Chun_Sifu_Sean_Mann_playing_Chi_Sau_With_Grand_Master_Ip_Chun_-_Copy.png?width=480)
+
+*Figure: Mannsifu. (2017, April 24). Wing Chun Sifu Sean Mann playing Chi Sau with Grand Master Ip Chun - Copy — chi-sau sticking-hands drill between Sifu Sean Mann and Grand Master Ip Chun, son of Ip Man [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wing_Chun_Sifu_Sean_Mann_playing_Chi_Sau_With_Grand_Master_Ip_Chun_-_Copy.png*
 
 ## Rules
 
-Traditional Wing Chun has no rules-based competition of its own; training progresses through forms (siu nim tau, chum kiu and biu jee), the wooden dummy set chi-sao sticking-hands reaction drill with a partner, and chi-gerk leg sensitivity drills. Grading and competitions vary by association: where contests exist they use light-contact formats scored for clean strikes and control, with protective equipment, weight classes and timed rounds defined case by case; the art's competitive profile is minor, unlike its cousin sports wushu.
+Traditional Wing Chun has no unified ruleset or world championship of its own; training progresses through three hand forms — Siu Nim Tau, Chum Kiu and Biu Jee — the wooden-dummy form (mok yan jong), chi-sau and the chi-gerk leg drills (International WingTsun Association, n.d.). Where association tournaments exist, they use light-contact (semi-contact) formats: protective equipment, weight classes and timed rounds are defined by each organising association, and bouts are scored for controlled, clean techniques rather than knockout power (Wikipedia, n.d.). Gradings, sparring etiquette and competition formats therefore vary between lineages — the IWTA system and independent associations each run their own events — so there are no standardised weight classes, ring dimensions or scoring systems across the art as a whole (Wikipedia, n.d.).
 
 ## History
 
-The origins of Wing Chun are shrouded in legend attributing its creation to the nun Ng Mui and her student Yim Wing Chun after whose name the art was named, developed in southern China's Cantonese regions and the Red Boat opera troupes of the nineteenth century. The modern lineage traces to the teacher Ip Man, who began teaching in Hong Kong in 1949 and shaped the style's modern curriculum and teacher lineage; his student Bruce Lee took its principles to create his own art and helped popularize the style worldwide. After Ip Man's death in 1972 various branches developed, including those of his sons and of Leung Ting, whose association internationalized the art's teaching and today worldwide Wing Chun associations preserve it as both cultural practice and practical self-defence.
+The origins of Wing Chun are shrouded in legend attributing its creation to the Buddhist nun Ng Mui and her student Yim Wing Chun, after whom the art is named, in southern China's Guangdong region (Wikipedia, n.d.). The modern lineage traces to Ip Man (1893–1972), who taught in Foshan before moving to Hong Kong in 1949 and shaping the style's modern curriculum, forms and teacher lineage; his student Bruce Lee (1940–1973) drew on its principles to create Jeet Kune Do and brought the art to worldwide film audiences (International WingTsun Association, n.d.). After Ip Man's death in 1972, his sons Ip Chun and Ip Ching continued the family lineage, while Leung Ting (b. 1947), a student of Leung Sheung and of Ip Man, founded the International WingTsun Association in 1973 and internationalised the teaching of the art across more than 60 countries (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Wing Chun](https://en.wikipedia.org/wiki/Wing_Chun) Retrieved November 21, 2026, from 
-- International Wing Tsun Association: [History and training](https://iwta.com/) Retrieved November 21, 2026, from 
+- International WingTsun Association. (n.d.). *WingTsun — Leung Ting (b. 1947) founded the IWTA on 24 July 1973 and has taught since 1967; forms Siu Nim Tau, Chum Kiu, Biu Jee; wooden dummy (mok yan jong); chi-sau; association present in more than 60 countries*. Retrieved November 23, 2026, from https://leungtingwingtsun.com/wingtsun/iwta/
+- Wikipedia. (n.d.). *Wing Chun — legend of Ng Mui and Yim Wing Chun; Ip Man (1893–1972) taught in Foshan then Hong Kong from 1949; Bruce Lee (1940–1973) student, creator of Jeet Kune Do; sons Ip Chun and Ip Ching; Leung Ting (b. 1947) founded the IWTA in 1973; light-contact association tournaments with protectors, weight classes and timed rounds; women train and compete*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wing_Chun
+
+### Figure Index
+
+- Mannsifu. (2017, April 24). *Wing Chun Sifu Sean Mann playing Chi Sau with Grand Master Ip Chun - Copy* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Wing_Chun_Sifu_Sean_Mann_playing_Chi_Sau_With_Grand_Master_Ip_Chun_-_Copy.png (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Wushu Taolu](wushu-taolu.html) — the performance-oriented Chinese martial art sport, on this site
-- [Karate](karate.html) — a striking martial art with formal competition, on this site
-- [Krav Maga](krav-maga.html) — another self-defence-oriented system, on this site
+- [International WingTsun Association (IWTA)](https://leungtingwingtsun.com/wingtsun/iwta/) — Leung Ting's worldwide association, history and training system
+- [Leung Ting — International WingTsun Association](https://leungting.com/international-wingtsun-association) — association history since 1973
+- [Wushu Taolu](wushu-taolu.html) and [Wushu Sanda](wushu-sanda.html) on this site — the competitive Chinese martial-arts sports
+- [Karate](karate.html) and [Taekwondo](taekwondo.html) on this site — striking arts with formal world championships
+- [Krav Maga](krav-maga.html) and [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html) on this site — modern self-defence and grappling systems

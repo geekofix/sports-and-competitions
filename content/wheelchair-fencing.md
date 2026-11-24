@@ -1,24 +1,34 @@
 ## Basic Information
 
-Wheelchair fencing is the Paralympic adaptation of fencing for athletes with lower-limb impairments, in which competitors fence from fixed wheelchairs on a stationary frame holding both chairs in place — so that distance work is done entirely with the upper body and blade, rather than footwork. Weapons contested are the foil, épée and sabre, with foil and épée long established as Paralympic medal events.
+Wheelchair fencing (Para fencing) is the Paralympic adaptation of fencing for athletes with lower-limb impairments: competitors fence from fixed wheelchairs clamped to a metal frame on the piste, so distance is managed entirely with the upper body and blade rather than footwork (World Abilitysport, n.d.). All three weapons are contested — foil, épée and sabre — in individual and team events for men and women, with women's foil on the programme since the very first Paralympics in Rome 1960 (International Paralympic Committee, n.d.).
 
-It is one of only two sports to have appeared at every Paralympic Games since 1960 (alongside athletics) and is governed internationally under the International Wheelchair and Amputee Sports Federation with world championships on the Paralympic cycle.
+It is one of only two sports to have appeared at every Paralympic Games since Rome 1960, alongside athletics, and is governed worldwide by World Abilitysport (formerly the International Wheelchair and Amputee Sports Federation, IWAS) (Wikipedia, n.d.). At Paris 2024, 96 of 97 entered athletes competed across 16 medal events — eight for women and eight for men — with China and Ukraine contesting the women's épée final shown below, and France remaining the most decorated nation in the sport's history (Wikipedia, n.d.).
+
+![Women's wheelchair fencing épée match, China v Ukraine, at the Paris 2024 Paralympics](https://commons.wikimedia.org/wiki/Special:Redirect/file/2024_Summer_Paralympics_women's_wheelchair_fencing,_China_v_Ukraine_-_%C3%A9p%C3%A9e_%28102%29.jpg?width=480)
+
+*Figure: Like tears in rain. (2024, September 7). 2024 Summer Paralympics women's wheelchair fencing, China v Ukraine — épée (102) — women's épée medal match at the Paris 2024 Paralympics, Grand Palais [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2024_Summer_Paralympics_women's_wheelchair_fencing,_China_v_Ukraine_-_%C3%A9p%C3%A9e_%28102%29.jpg*
 
 ## Rules
 
-The two wheelchairs are clamped to a frame at a set distance between them for each weapon, and fencers may lean and duck but cannot rise or move the chair forward; the target area and valid hits follow each weapon's conventional rules — foil target is the torso, épée the whole body, sabre above the waist — refereed with electric scoring apparatus. Athletes are classified into categories by functional ability (governing fencing from the chair with or without trunk and hand adaptation), and bouts go to 5 or 15 touches as in able-bodied fencing, with team relay events contested alongside individuals.
+Both wheelchairs are clamped to two plates on a metal frame set on the 14 m piste, and the distance between the fencers is set by the athlete with the shorter reach; fencers may lean and duck but may not rise from the seat or move the chair (World Abilitysport, n.d.). Target areas follow conventional fencing: foil scores on the torso, épée on the whole body, and sabre above the waist including arms and head, all registered by electric scoring apparatus (International Paralympic Committee, n.d.). Athletes are classified into category A (good trunk control) and category B (impaired trunk balance) — category C is not part of the Paralympic programme — and bouts run to 5 or 15 hits over three periods of three minutes, with direct elimination plus a repechage round at major championships; team events are relay bouts between teams of three (World Abilitysport, n.d.). The Paralympic programme comprises individual foil, épée and sabre plus team épée and foil, with mixed team events planned for Los Angeles 2028 (International Paralympic Committee, n.d.).
 
 ## History
 
-Fencing was among the sports developed at Stoke Mandeville hospital by Sir Ludwig Guttmann as part of the rehabilitation programme after the Second World War, wheelchair fencing forming one pillar of the early movement. It appeared at the first Stoke Mandeville Games in 1948 and at every Paralympic Games since Rome 1960, with the fencing-specific world championship structure maturing under the International Stoke Mandeville Games Federation and its successors. The sport has been dominated over the years by European nations, with strong programmes in Italy, France, Hungary, Poland and China, and Hong Kong producing multiple champions.
+Wheelchair fencing grew out of the rehabilitation programme at Stoke Mandeville Hospital under Sir Ludwig Guttmann after the Second World War and appeared at the first Stoke Mandeville Games in 1948 (Wikipedia, n.d.). At the Rome 1960 Paralympics it was among the founding sports, offering men's sabre individual and team plus women's foil individual; Tokyo 1964 added the women's foil team and men's épée, and Seoul 1988 added women's épée, gradually building today's full programme (International Paralympic Committee, n.d.). Over the decades the medal table has been dominated by European nations — France, Italy, Hungary, Poland — and by China and Hong Kong in Asia; at the Athens 2004 Games Thailand's Saysunee Jana won épée category B gold, the first Paralympic gold ever won by a Thai female athlete (Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Wheelchair fencing](https://en.wikipedia.org/wiki/Wheelchair_fencing) Retrieved November 21, 2026, from 
-- International Wheelchair and Amputee Sports Federation: [Wheelchair fencing rules](https://www.iwasf.com/) Retrieved November 21, 2026, from 
+- International Paralympic Committee. (n.d.). *Wheelchair fencing — at every Paralympic Games since Rome 1960; Rome 1960 men's sabre individual/team and women's foil individual; Tokyo 1964 women's foil team and men's épée; Seoul 1988 women's épée; Paris 2024: 16 events (8 men, 8 women), categories A and B; mixed team events planned for LA 2028*. Retrieved November 23, 2026, from https://www.paralympic.org/wheelchair-fencing
+- Wikipedia. (n.d.). *Wheelchair fencing — Stoke Mandeville 1948 origins under Sir Ludwig Guttmann; chairs clamped to frame on the piste, shorter-reach athlete sets distance, fencers cannot rise from the seat; targets: foil torso, épée whole body, sabre above waist; bouts 5/15 touches over 3 × 3-min periods; repechage at Paris 2024; Saysunee Jana (Thailand) first Thai female Paralympic gold, Athens 2004 épée B*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wheelchair_fencing
+- World Abilitysport. (n.d.). *Para fencing — world governing body (formerly IWAS): rules, classification categories A/B/C, weapons foil/épée/sabre, individual and team events, World Championships*. Retrieved November 23, 2026, from https://www.worldabilitysport.org/
+
+### Figure Index
+
+- Like tears in rain. (2024, September 7). *2024 Summer Paralympics women's wheelchair fencing, China v Ukraine — épée (102)* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:2024_Summer_Paralympics_women's_wheelchair_fencing,_China_v_Ukraine_-_%C3%A9p%C3%A9e_%28102%29.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Fencing](fencing.html) — the running parent sport, on this site
-- [Wheelchair Basketball](wheelchair-basketball.html) — another major Paralympic chair sport, on this site
-- [Wheelchair Tennis](wheelchair-tennis.html) — the racket Paralympic discipline, on this site
+- [World Abilitysport — Para fencing](https://www.worldabilitysport.org/) — world governing body (formerly IWAS), rules, classification and World Championships
+- [International Paralympic Committee — wheelchair fencing](https://www.paralympic.org/wheelchair-fencing) — Paralympic programme since Rome 1960
+- [Fencing](fencing.html) on this site — the able-bodied parent sport with the same three weapons
+- [Wheelchair Basketball](wheelchair-basketball.html), [Wheelchair Rugby](wheelchair-rugby.html) and [Wheelchair Tennis](wheelchair-tennis.html) on this site — fellow Paralympic chair sports
