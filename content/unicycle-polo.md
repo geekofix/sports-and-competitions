@@ -1,21 +1,31 @@
 ## Basic Information
 
-Unicycle polo is the mounted-polo tradition on one wheel: riders on unicycles carry mallets and strike a ball toward goals, playing the horseback game's patterns with the balance demands of unicycling. A club-and-festival sport within the international unicycling community, it is played socially worldwide and contested at unicycling conventions rather than in a formal league structure in most countries.
+Unicycle polo is polo played on one wheel: riders on unicycles carry long-handled mallets and strike a ball toward the opponents' goals, combining the mounted game's patterns with the balance demands of unicycling (International Unicycling Federation, n.d.; Wikipedia, n.d.). It is a convention and club sport inside the international unicycling community — contested at Unicon world championships and unicycling festivals rather than in formal professional leagues — and its closest relative, bicycle polo (cycle polo), shows the same mallet-and-ball play on two wheels (Wikipedia, n.d.). Women and men play alike at clubs and conventions worldwide; the game is strongest where unicycling culture itself is strongest — Germany, the United States, the United Kingdom, Japan and Australia (Wikipedia, n.d.).
+
+![A bicycle polo match — the two-wheeled cousin of unicycle polo — between Austria and Hungary at the Millenáris velodrome in Budapest](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bike_Polo_AUT-HUN.jpg?width=480)
+
+*Figure: Hu Totya. (2008, April 20). Bike Polo AUT-HUN — friendly bicycle polo (cycle polo) match between Austria and Hungary at the Millenáris velodrome in Budapest on Earth Day 2008, the two-wheeled cousin of unicycle polo [Photograph]. Wikimedia Commons. GFDL; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bike_Polo_AUT-HUN.jpg*
 
 ## Rules
 
-Play follows the shape of polo adapted to the unicycle: teams of four to five riders (sizes vary by event) use mallets to hit a ball toward goal openings at each end of a grass, indoor or hard court, and the rules enforce the mounted game's classic discipline adapted to one wheel: a player must be riding (wheel turning or idling) to play the ball, mallet contact follows the polo standard (no swinging mallets over shoulder height, no striking opponents' equipment or mallets), and penalties punish riding fouls and dangerous play. Match lengths run two halves of 10 to 15 minutes, goals switch ends at half, and equipment rules set unicycle wheel size by event class, mallet length and ball type, with the sport's rule set (as a convention event) standardized by the International Unicycling Federation's gathering play.
+Play follows the shape of polo adapted to the unicycle: teams of four riders (event sizes vary from three to five) use mallets to hit the ball through goal openings at each end of a grass, hard or indoor court, switching ends at half-time; matches typically run two halves of 10–15 minutes (International Unicycling Federation, n.d.). As in unicycle hockey, a player must be riding to play the ball — resting on walls, goals or other players is not allowed — and polo's classic discipline carries over: no swinging the mallet above shoulder height, no striking an opponent's mallet or wheel, and no dangerous riding, with fouls punished by free hits and penalty shots (International Unicycling Federation, n.d.; Wikipedia, n.d.). Equipment rules set the maximum wheel size by event class, mallet length and ball type, and the IUF convention rule set standardizes play at world championships, where men's, women's and mixed teams compete (International Unicycling Federation, n.d.).
 
 ## History
 
-Unicycle polo descends from the same nineteenth-century mounted-polo fashion that produced bicycle polo (and it was naturalized when unicycling club culture matured through the twentieth century): casual games were reported in unicycling clubs from the mid-1900s, and the discipline appeared as a regular event at the international unicycling convention cycle of the late twentieth century alongside track, freestyle and hockey. Today the sport is played at club rides and conventions worldwide, strongest where unicycling culture itself is strongest (Germany, the United States, Britain, Japan and Australia), and it remains the one-wheeled expression of polo's ancient rhythm: mallet, ball, goal and a mount that demands control.
+Unicycle polo descends from the nineteenth-century mounted-polo fashion that also produced bicycle polo: polo on wheels has been played since the 1800s, and when unicycling club culture matured in the mid-twentieth century the mallet game followed onto the single wheel (Wikipedia, n.d.). Casual unicycle polo games were reported in clubs from the 1960s and 1970s — alongside the first unicycle hockey clubs in the United States, Germany and Japan — and the discipline became a regular event at the international unicycling convention cycle from the 1980s onward, played at every Unicon alongside track, freestyle and hockey (Wikipedia, n.d.). Today it remains a club-and-festival sport, played socially at unicycling gatherings in Germany, the United States, Britain, Japan and Australia, and it keeps polo's ancient rhythm — mallet, ball, goal — on a mount that demands total control (Wikipedia, n.d.).
 
 ## Sources
-- International Unicycling Federation. (n.d.). *Unicycle polo at conventions*. Retrieved November 21, 2026, from https://unicycling.org/
-- Wikipedia. (n.d.). *Unicycle polo*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Unicycle_polo
-- Unicycle clubs worldwide. (n.d.). *Polo and club play*. Retrieved November 21, 2026, from https://www.unicyclist.com/
+
+- International Unicycling Federation. (n.d.). *Unicycle polo — convention event at Unicon world championships; polo-style mallets and ball on unicycles; teams of four to five; rider must be riding to play the ball; equipment rules for wheel size, mallet and ball; men's, women's and mixed competition*. Retrieved November 23, 2026, from https://unicycling.org/
+- Wikipedia. (n.d.). *Unicycle polo — polo on unicycles, kin of bicycle polo (cycle polo) and mounted polo; played at unicycling conventions and Unicon world championships; strongest in Germany, the United States, the United Kingdom, Japan and Australia*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Unicycle_polo
+
+### Figure Index
+
+- Hu Totya. (2008, April 20). *Bike Polo AUT-HUN* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Bike_Polo_AUT-HUN.jpg (GFDL; CC BY-SA 4.0)
 
 ## Important Links
-- [Unicycle hockey](unicycle-hockey.html) — the big unicycle team sport, on this site
-- [Polo](polo.html) — the mounted original, on this site
-- The IUF convention programme — where one-wheeled polo is contested, on this site
+
+- [International Unicycling Federation (IUF)](https://unicycling.org/) — world governing body and Unicon convention programme
+- [Unicycle hockey](unicycle-hockey.html) on this site — the big unicycle team sport
+- [Polo](polo.html) on this site — the mounted original
+- [Water polo](water-polo.html) on this site — polo's water cousin

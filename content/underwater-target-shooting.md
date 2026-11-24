@@ -1,20 +1,33 @@
 ## Basic Information
 
-Underwater target shooting is CMAS's precision discipline of shooting with elastic-powered spearguns at fixed targets underwater: divers in a pool or open water aim at suspended target boards at set distances, scoring for accuracy like a submerged archery match. A diving-club sport born alongside spearfishing culture, it is contested internationally by CMAS with world championships in multiple event formats.
+Underwater target shooting (French: tir sur cible subaquatique) is CMAS's precision discipline of firing a speargun at stationary target panels under water: competitors in mask, fins and snorkel hold their breath and shoot from a fixed shooting line at target boards mounted near the pool floor, scoring ring points like a submerged archery match (CMAS, n.d.; FFESSM, n.d.). The sport was developed in France in the early 1980s as a winter training discipline for spearfishing divers, was organized by the French federation FFESSM from 1987, and has been contested at European championships since 1998 and world championships since 1999 under the CMAS Target Shooting Commission (Wikipedia, n.d.). Only stationary targets are used — no live animals are ever involved. Individual events award separate men's and women's titles to competitors aged 18 and over, with explicit gender differences in the time limits — for example the biathlon allows 2:30 for men and 3:00 for women — and a mixed team relay rounds out the programme (FFESSM, n.d.; Wikipedia, n.d.).
+
+![A speargun of the type used in underwater target shooting](https://commons.wikimedia.org/wiki/Special:Redirect/file/Speargun.jpg?width=480)
+
+*Figure: nugunslinger. (2007, July 2). Speargun — a speargun of the elastic/pneumatic type used in CMAS underwater target shooting at stationary pool targets [Photograph]. Wikimedia Commons (originally posted to Flickr). CC BY 2.0. https://commons.wikimedia.org/wiki/File:Speargun.jpg*
 
 ## Rules
 
-Standard competition is staged in open water or a pool at fixed depths: divers use elastic-band spear guns (or pneumatic spearguns, per class rules) to fire shafts at target boards set at distances from 1 to several metres, at various depths and system configurations; events include shooting from varying positions (with flippers and without, with an entry from the surface, at vertical or slanted boards) and biathlon-style combinations that alternate a swim with shooting stations, with each target's rings scored for accuracy. Safety rules govern speargun loading and handling at all times (loaded only toward the target, never toward persons), the number of shots per target, and time limits per station per event; scoring is by total ring points, with accuracy, breath-hold economy and discipline deciding medals.
+Competition takes place in a pool at least 25 × 10 m, 1.8–5 m deep, with water at 23 ± 5 °C; the target panels measure 33 × 35 cm and are fixed with their center 80 cm above the pool bottom, spaced 2.5 m apart, with the shooting line 4 m from the face of the targets and a starting line 10 m behind it (FFESSM, n.d.). Equipment is mask, fins, snorkel, wetsuit, weight belt and a speargun: rubber-band, pneumatic and roller guns are allowed, wooden spearguns are prohibited, torches, lasers and telescopic sights are banned, and every spear must be tethered to the gun by a line (CMAS, n.d.; FFESSM, n.d.). The main events are Precision — ten shots at a five-target sheet within five minutes, in two rounds — Biathlon, five shots against the clock with a 2:30 time limit for men and 3:00 for women, and the mixed team Relay, in which two or three competitors share nine shots inside 4:30; the FFESSM also runs a Super Biathlon variant (FFESSM, n.d.). Scoring is by ring points on the target faces, men and women compete in separate individual categories at 18+, and the relay is mixed (FFESSM, n.d.; Wikipedia, n.d.).
 
 ## History
 
-Underwater target shooting was formalized in the 1980s by the world underwater federation CMAS, an outgrowth of spearfishing's target practice and diving-club contests in the Mediterranean spearfishing nations (France, Italy, Spain and Croatia); the discipline was adopted as a CMAS world-championship sport (contested since the 1980s with men's, women's and combined classifications) and remains a fixture of the diving club calendar, showcasing precision, breath-hold control and the safe handling culture of the underwater hunter's tool. Its modern championships gather the sport's small, dedicated international field, and its training method remains the standard introduction to spear-gun marksmanship for spearfishing clubs worldwide.
+Underwater target shooting grew out of the spearfishing culture of the Mediterranean diving clubs: French spearfishers developed it in the early 1980s as a way to keep their marksmanship sharp during the winter months when open-water hunting was impossible (Wikipedia, n.d.). The Fédération Française d'Études et de Sports Sous-Marins (FFESSM) created a dedicated target-shooting commission in 1987 and held the first French national championship in 1990; the first European championship followed in 1998 and the first CMAS world championship in 1999 (Wikipedia, n.d.). Since then the discipline has been a regular fixture of CMAS world championships under its own commission inside the world underwater federation, and it remains today both a competitive sport and the standard safe-handling introduction to the speargun in diving clubs across France, Italy, Spain and beyond (CMAS, n.d.; Wikipedia, n.d.).
 
 ## Sources
-- CMAS. (n.d.). *Underwater target shooting rules*. Retrieved November 21, 2026, from https://www.cmas.org/
-- Wikipedia. (n.d.). *Underwater target shooting*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Underwater_target_shooting
-- Spearfishing clubs worldwide. (n.d.). *Target training culture*. Retrieved November 21, 2026, from https://www.cmas.org/
+
+- CMAS. (n.d.). *Target shooting — CMAS Target Shooting Commission rules and world championships; stationary targets only (no live animals); speargun classes (rubber-band, pneumatic, roller allowed; wooden guns prohibited; no torches, lasers or telescopic sights; tethered spear); separate men's and women's individual titles, 18+ internationally; world championships since 1999*. Retrieved November 23, 2026, from https://www.cmas.org/
+- FFESSM. (n.d.). *Tir sur cible subaquatique — target-shooting commission created 1987; first French championship 1990; pool minimum 25 × 10 m, depth 1.8–5 m, water 23 ± 5 °C; 33 × 35 cm targets with center 80 cm above the bottom, 2.5 m apart; shooting line 4 m from the target face, starting line 10 m behind; Precision (10 shots/5 min), Biathlon (5 shots; 2:30 men, 3:00 women), mixed team Relay (2–3 competitors, 9 shots, 4:30), Super Biathlon*. Retrieved November 23, 2026, from https://www.ffessm.fr/
+- Wikipedia. (n.d.). *Underwater target shooting — developed in France in the early 1980s as winter spearfishing training; FFESSM commission 1987; first French nationals 1990; European championships 1998; CMAS world championships 1999; separate men's and women's titles, mixed relay*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Underwater_target_shooting
+
+### Figure Index
+
+- nugunslinger. (2007, July 2). *Speargun* [Photograph]. Wikimedia Commons (via Flickr). Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Speargun.jpg (CC BY 2.0)
 
 ## Important Links
-- [Target archery](target-archery.html) and [Trap shooting](trap-shooting.html) — the dry-precision target sports, on this site
-- [Freediving](freediving.html) — the breath-hold foundation, on this site
+
+- [CMAS — Confédération Mondiale des Activités Subaquatiques, Target Shooting Commission](https://www.cmas.org/) — world governing body
+- [FFESSM — Fédération Française d'Études et de Sports Sous-Marins](https://www.ffessm.fr/) — French federation, founding nation of the discipline
+- [Underwater rugby](underwater-rugby.html) and [Underwater hockey](underwater-hockey.html) on this site — the other CMAS pool sports
+- [Freediving](freediving.html) and [Finswimming](finswimming.html) on this site — breath-hold and fin disciplines of the same federation
+- [Target archery](target-archery.html) on this site — the dry-land precision cousin

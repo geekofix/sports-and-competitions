@@ -1,21 +1,33 @@
 ## Basic Information
 
-Valorant is Riot Games' tactical first-person shooter of 2020: two teams of five compete in round-based objective play (planting or defusing the Spike), with precise gunplay plus a set of agents whose unique abilities give each match a tactical layer beyond shooting. One of the world's leading esports titles, it supports professional scenes on every continent with world championships run under the game's partnership league and international tournament structure.
+Valorant is Riot Games' tactical first-person shooter, released on June 2, 2020: two teams of five fight round-based objective duels over the Spike — a bomb that the attackers plant and the defenders must defuse — combining precise gunplay with agents whose unique abilities add a tactical layer to every round (Riot Games, n.d.; Wikipedia, n.d.). Women and players of marginalized genders compete at the highest level on the dedicated VCT Game Changers circuit, launched in February 2021: the 2025 Game Changers world champion was Team Liquid Brazil, following G2 Gozen (2022) and Shopify Rebellion (2023), while the 2025 Valorant Champions in Paris was won by NRG with a $2.25 million prize pool (VLR.gg, n.d.). The professional scene runs through the Valorant Champions Tour (VCT) — regional partner leagues feeding international Masters events and the annual Champions — across the Americas, EMEA, the Pacific and China (Riot Games, n.d.).
+
+![Opening day of the 2023 Valorant Champions Tour at the Shrine Auditorium in Los Angeles, NAVI v Team Liquid](https://commons.wikimedia.org/wiki/Special:Redirect/file/Valorant_Champions_Los_Angeles_2023.jpg?width=480)
+
+*Figure: Jiang, D. (2023, August 6). Valorant Champions Los Angeles 2023 — opening day of the 2023 Valorant Champions Tour at the Shrine Auditorium and Expo Hall in Los Angeles, California; NAVI v Team Liquid [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Valorant_Champions_Los_Angeles_2023.jpg*
 
 ## Rules
 
-Matches are played on a fixed map pool in round-based formats: in the standard mode, attackers aim to plant the bomb (the Spike) at one of several sites and defenders aim to prevent or defuse it, with rounds won by objective completion or by eliminating the entire enemy team. The economy system (round loss bonus, saving and buying) shapes the tactical cycle of a match, a map is played to 13 rounds with overtime rules, and the agent system assigns each player a character with signature abilities (walls, flashes, smokes, reconnaissance and resurrection-type options) on cooldowns. Additional execution rules enforced in esports include the attack/defense rotation, agent drafting with pick-and-ban phases, and the bracket formats of the international circuit.
+A standard match is played on a map from the fixed pool in a best-of-three format (best-of-five in some finals); each map is a race to 13 rounds — won by two, with overtime at 12–12 — and a round is won by eliminating the enemy team, by planting the Spike and letting it detonate after 45 seconds, or by defusing it after a plant (7 seconds, halved with a defuse kit) (Riot Games, n.d.). Before each round, teams buy weapons and abilities with credits earned from round results, including a loss bonus for saving; at round 12 the teams switch from attack to defense (Riot Games, n.d.). Each player picks an agent with four signature abilities on cooldowns plus an ultimate, and professional matches open with a pick-and-ban agent draft; the VCT rule set adds overtime, timeout and pause regulations for tournament play (Riot Games, n.d.; VLR.gg, n.d.).
 
 ## History
 
-Valorant was released by Riot Games in June 2020 (after a closed beta that tumbled streaming records) as the studio's first shooter, built to combine the deliberate gunplay of classic tactical shooters with the character-ability design of hero shooters; within months of launch it became one of the most-watched competitive games on earth. Riot built a top-down esports structure from the start with regional partnership leagues feeding international Masters and Champions events (played in front of arena audiences with multimillion-dollar prize pools from the first year) and a women's competitive circuit, and the game's ecosystem now spans the world (strongest leagues in the Americas, EMEA, Pacific and China). Its biggest franchises and champions carry the profile of state-of-the-art esports, with the game's ranked system and creator ecosystem feeding the largest pipeline of new professional talent in tactical shooters.
+Valorant was announced by Riot Games on October 15, 2019 under the codename "Project A" and entered a closed beta on April 7, 2020 whose Twitch launch broke concurrent-viewing records; the full release followed on June 2, 2020 (Wikipedia, n.d.). Riot built the esports structure top-down from the start: the Valorant Champions Tour was announced in November 2020 with its inaugural 2021 season of regional leagues, Masters events and a first Champions tournament — won by Acend at Berlin 2021, followed by LOUD at Istanbul 2022, Evil Geniuses at Los Angeles 2023, EDG at London 2024 (the first Chinese world champions) and NRG at Paris 2025 (Riot Games, n.d.; VLR.gg, n.d.). Alongside the open circuit, Riot launched VCT Game Changers in February 2021 as the dedicated elite competition for women and marginalized genders, with its own world championship every year (Riot Games, n.d.).
 
 ## Sources
-- Riot Games. (n.d.). *Valorant esports*. Retrieved November 21, 2026, from https://valorant.riotgames.com/
-- VLR.gg. (n.d.). *Match results and rankings*. Retrieved November 21, 2026, from https://www.vlr.gg/
-- Wikipedia. (n.d.). *Valorant esports*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Valorant_esports
+
+- Riot Games. (n.d.). *Valorant — released June 2, 2020 after the "Project A" announcement (October 2019) and a record-breaking closed beta (April 2020); 5v5 Spike plant/defuse rounds to 13 (win by two, overtime at 12–12); buy phase and economy with loss bonus; side switch at round 12; agents with signature abilities and ultimates; VCT announced November 2020, inaugural 2021 season; Game Changers launched February 2021*. Retrieved November 23, 2026, from https://valorant.riotgames.com/
+- VLR.gg. (n.d.). *Valorant Champions results — 2021 Berlin Acend; 2022 Istanbul LOUD; 2023 Los Angeles Evil Geniuses; 2024 London EDG (first Chinese champions); 2025 Paris NRG ($2.25M prize pool); Game Changers world champions 2022 G2 Gozen, 2023 Shopify Rebellion, 2025 Team Liquid Brazil*. Retrieved November 23, 2026, from https://www.vlr.gg/
+- Wikipedia. (n.d.). *Valorant — developed by Riot Games under codename Project A, announced October 15, 2019; closed beta April 7, 2020; launched June 2, 2020; tactical shooter combining classic gunplay with agent abilities; esports via regional leagues, Masters and Champions*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Valorant
+
+### Figure Index
+
+- Jiang, D. (2023, August 6). *Valorant Champions Los Angeles 2023* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Valorant_Champions_Los_Angeles_2023.jpg (CC BY-SA 4.0)
 
 ## Important Links
-- [StarCraft II](starcraft-ii.html) and [Texas hold'em poker](texas-hold-em-poker.html) and other mind games — the other esports-mind sports, on this site
-- Masters, Champions and the regional league system — Valorant's competitive calendar, on this site
-- The agent draft and the economy system — the game's tactical layers, on this site
+
+- [Riot Games — official Valorant site](https://valorant.riotgames.com/) — game and VCT
+- [VCT — Valorant Champions Tour](https://www.valorantesports.com/) — international circuit, Masters and Champions
+- [VLR.gg — results, rankings and stats](https://www.vlr.gg/)
+- [StarCraft II](starcraft-ii.html) on this site — the sibling real-time strategy esport
+- [Texas hold'em poker](texas-hold-em-poker.html) on this site — the mind-sport card game
