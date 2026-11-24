@@ -26,4 +26,4 @@ Wheelbarrow racing belongs to the old British tradition of fête and harvest-hom
 ## Important Links
 
 - [Guinness World Records](https://www.guinnessworldrecords.com/) — official wheelbarrow-racing records
-- [Bed racing](bed-racing.html), [Corgi racing](corgi-racing.html), [Hen racing](hen-racing.html), [Wife carrying](wife-carrying.html), [Worm charming](worm-charming.html) and [Extreme ironing](extreme-ironing.html) on this site — other novelty fête competitions
+- [Bed racing](bed-racing.html), [Wife carrying](wife-carrying.html), [Worm charming](worm-charming.html) and [Extreme ironing](extreme-ironing.html) on this site — other novelty fête competitions

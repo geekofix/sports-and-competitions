@@ -1,10 +1,10 @@
-# Ethics-flagged entries (decision pending)
+# Ethics-flagged entries (resolved — removed)
 
-Flagged on 2026-11-23 while deepening the list. Per the ethics policy in [README.md](README.md) ("What is included — and what is not") and the project rule "report first, do not change unilaterally", these entries are documented here and reported in [GitHub issue #1](https://github.com/geekofix/sports-and-competitions/issues/1) for a decision by the repository owner.
-
-**Do not remove any row yet.** List positions are row N = line N+2 in `data/sports_list.md`; deleting rows would renumber every later position while entries 681–803 are still being deepened, and entries would be skipped.
+Flagged on 2026-11-23 while deepening the list. Per the ethics policy in [README.md](README.md) ("What is included — and what is not") and the project rule "report first, do not change unilaterally", these entries were documented here and reported in [GitHub issue #1](https://github.com/geekofix/sports-and-competitions/issues/1) for a decision by the repository owner.
 
 **Owner decision (2026-11-23):** rows 163, 319, 386, 441 and related row 791 may be removed once all 803 entries have been processed; row 248 stays in the collection.
+
+**Executed (2026-11-24):** all 803 entries had been processed, so the five flagged rows (163, 319, 386, 441, 791) were removed from `data/sports_list.md` and `data/descriptions.csv`, their `content/<slug>.md` pages deleted, and inbound internal links removed. The list was renumbered in one pass, so `index.html` row numbers and `data/sports.csv` line numbers stay identical (row N = CSV line N+1 = list line N+2). The collection now has 798 entries; row 248 (`finnish-sauna-olympics`) stays per the owner decision.
 
 | List row | CSV line | Slug | Entry | Concern | README rule violated |
 |---|---|---|---|---|---|

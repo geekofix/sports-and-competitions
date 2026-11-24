@@ -28,6 +28,5 @@ Easdale's slate quarries, worked from the 18th century, were flooded by a great 
 
 - [World Stone Skimming Championships — official site](https://www.stoneskimming.com)
 - [Guinness World Records — stone skimming records](https://www.guinnessworldrecords.com)
-- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — a rival British eccentric championship
 - [Worm Charming](worm-charming.html) on this site — the World Worm Charming Championships
 - [World Gurning Championships](world-gurning-championships.html) on this site — another British novelty championship

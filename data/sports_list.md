@@ -162,7 +162,6 @@
 | Compound Archery                           | https://www.youtube.com/results?search_query=compound+archery                           |
 | Contract Bridge                            | https://www.youtube.com/results?search_query=contract+bridge                            |
 | Coreeda                                    | https://www.youtube.com/results?search_query=coreeda                                     |
-| Corgi Racing                               | https://www.youtube.com/results?search_query=corgi+racing                               |
 | Cornhole                                   | https://www.youtube.com/results?search_query=cornhole                                   |
 | Cornish Hurling                            | https://www.youtube.com/results?search_query=cornish+hurling                            |
 | Counter-Strike                             | https://www.youtube.com/results?search_query=counter-strike                             |
@@ -318,7 +317,6 @@
 | Harness Racing                             | https://www.youtube.com/results?search_query=harness+racing                             |
 | Headis                                     | https://www.youtube.com/results?search_query=headis                                     |
 | Hemp Olympics                              | https://www.youtube.com/results?search_query=hemp+olympics                              |
-| Hen Racing                                 | https://www.youtube.com/results?search_query=hen+racing                                 |
 | Heptathlon                                 | https://www.youtube.com/results?search_query=heptathlon                                 |
 | High Diving                                | https://www.youtube.com/results?search_query=high+diving                                |
 | Highlining                                 | https://www.youtube.com/results?search_query=highlining                                 |
@@ -385,7 +383,6 @@
 | Krabi-Krabong                              | https://www.youtube.com/results?search_query=krabi-krabong                              |
 | Krav Maga                                  | https://www.youtube.com/results?search_query=krav+maga                                  |
 | Kubb                                       | https://www.youtube.com/results?search_query=kubb                                       |
-| Kudu Dung-spitting                         | https://www.youtube.com/results?search_query=kudu+dung-spitting                         |
 | Kumis Alu                                  | https://www.youtube.com/results?search_query=kumis+alu                                   |
 | Kurash                                     | https://www.youtube.com/results?search_query=kurash                                     |
 | Kushti                                     | https://www.youtube.com/results?search_query=kushti                                     |
@@ -440,7 +437,6 @@
 | Mounted Games                              | https://www.youtube.com/results?search_query=mounted+games                              |
 | Muay Boran                                 | https://www.youtube.com/results?search_query=muay+boran                                 |
 | Muay Thai                                  | https://www.youtube.com/results?search_query=muay+thai                                  |
-| Mud Cow Racing                             | https://www.youtube.com/results?search_query=mud+cow+racing                             |
 | Mud Snorkeling                             | https://www.youtube.com/results?search_query=mud+snorkeling                             |
 | Mud-Pit Belly Flop                         | https://www.youtube.com/results?search_query=mud-pit+belly+flop                         |
 | Mullet Championships                       | https://www.youtube.com/results?search_query=mullet+championships                       |
@@ -790,7 +786,6 @@
 | World Chase Tag                            | https://www.youtube.com/results?search_query=world+chase+tag                            |
 | World Endurance Championship               | https://www.youtube.com/results?search_query=world+endurance+championship               |
 | World Gurning Championships                | https://www.youtube.com/results?search_query=world+gurning+championships                |
-| World Hen Racing Championships             | https://www.youtube.com/results?search_query=world+hen+racing+championships             |
 | World Porridge Eating Championship         | https://www.youtube.com/results?search_query=world+porridge+eating+championship         |
 | World Rally Championship                   | https://www.youtube.com/results?search_query=world+rally+championship                   |
 | World Stone Skimming Championships         | https://www.youtube.com/results?search_query=world+stone+skimming+championships         |

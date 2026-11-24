@@ -31,6 +31,5 @@ The Egremont Crab Fair dates to 1267, when King Henry III granted the Lord of Eg
 
 - [Egremont Crab Fair — official site](https://www.egremontcrabfair.com/) — the fair and the World Gurning Championships
 - [Guinness World Records — gurning championships](https://www.guinnessworldrecords.com/world-records/758640-longest-running-gurning-world-championships) — record holders and history
-- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — another British rural festival world championship
 - [World Stone Skimming Championships](world-stone-skimming-championships.html) on this site — a Scottish island world championship
 - [Worm Charming](worm-charming.html) on this site — another famous rural contest

@@ -27,7 +27,6 @@ The eating championship was founded in 1969 by Colin Milburn at a Highland gathe
 ## Important Links
 
 - [BBC News — porridge championship coverage](https://www.bbc.co.uk/news)
-- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — another British festival contest
 - [Worm Charming](worm-charming.html) on this site — the World Worm Charming Championships
 - [Cheese Rolling](cheese-rolling.html) on this site — another British eccentric championship
 - [Wife Carrying](wife-carrying.html) on this site — a quirky world championship

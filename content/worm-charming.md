@@ -30,7 +30,6 @@ The competitive form of the sport began on Saturday 5 July 1980 at Willaston Cou
 - [World Worm Charming Championships — official site](https://wormcharming.com)
 - [Guinness World Records — worm charming record](https://www.guinnessworldrecords.com)
 - [World Gurning Championships](world-gurning-championships.html) on this site — another great British rural championship
-- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — hen racing at Bonsall
 - [World Stone Skimming Championships](world-stone-skimming-championships.html) on this site — stone skimming at Easdale
 - [Watermelon Seed Spitting](watermelon-seed-spitting.html) on this site — a rural festival novelty contest
 - [Wife Carrying](wife-carrying.html) on this site — another eccentric world championship
