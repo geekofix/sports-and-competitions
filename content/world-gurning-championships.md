@@ -1,24 +1,36 @@
 ## Basic Information
 
-The World Gurning Championships is an annual face-pulling contest held at the Egremont Crab Fair in Cumbria, England — competitors screw their faces through a horse collar frame into the most grotesque grimace possible, judged by audience reaction. Gurning, the art of pulling an ugly face, has been part of the fair's tradition since the event began in 1267, making the contest one of the oldest continuous comic competitions in the world.
+The World Gurning Championships are held every September at the Egremont Crab Fair in Egremont, Cumbria, England — a harvest fair granted a royal charter by King Henry III in 1267 and one of the oldest surviving festivals in the world (Guinness World Records, n.d.; Wikipedia, n.d.). Contestants push their heads through a leather horse collar — the "braffin" — and pull the ugliest, most distorted face they can; judges award the title to whoever shows the starkest transformation, and the competition has dedicated men's, women's and juniors' categories, with entrants coming from across the UK and abroad (BBC, n.d.; Egremont Crab Fair, n.d.). The reigning women's world champion is Lynn Proctor, who took the 2025 title, while the men's record belongs to Tommy Mattinson with 19 titles (BBC, n.d.).
 
-Contestants of all ages compete, and the winners of the men's, women's and junior classes become local celebrities whose faces are remembered far beyond Cumbria.
+Gurning — "to snarl like a dog, look savage, distort the countenance" — has been part of the Crab Fair since at least 1852, and Guinness World Records recognises the Egremont event as the longest-running gurning world championships; having no teeth is traditionally regarded as an advantage (Guinness World Records, n.d.). The 2026 championships take place on 19 September in Egremont's Market Hall (Egremont Crab Fair, n.d.).
+
+![A young woman gurning](https://commons.wikimedia.org/wiki/Special:Redirect/file/A_young_woman_gurning.jpg?width=480)
+
+*Figure: Iista516. (2013, July 10). A young woman gurning — an example of a gurn, the distorted facial expression at the heart of the World Gurning Championships [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:A_young_woman_gurning.jpg*
 
 ## Rules
 
-Competitors place their head through a braided horse collar (the "braffin") and have a set moment on stage to contort their face before the audience and judges. Judging is by popular reaction: the loudest applause decides who has pulled the most unsettling face, with separate categories for men, women and juniors often including special classes. No props are allowed traditionally, though contestants commonly enhance the effect by jutting the jaw, rolling the eyes and folding the face from side to side; removing or adjusting false teeth is a time-honoured technique, and many celebrated gurners achieve much of their effect from an exaggerated underbite.
+There are no props: the competitor places their head through the braffin (the braided horse collar) and, within a set moment on stage, contorts their face as much as possible — jutting the jaw, rolling the eyes, and folding the face — before the judges (Wikipedia, n.d.). Judging rewards the most unsettling transformation between the contestant's normal face and their gurning face, traditionally by audience reaction and panel judgement, with separate competitions for men, women and juniors; removing or adjusting false teeth is a time-honoured technique, and an exaggerated underbite is prized (Guinness World Records, n.d.; BBC, n.d.). The winners of the senior men's and women's competitions are crowned World Gurning Champions, with the junior winner taking the junior crown (Egremont Crab Fair, n.d.).
 
 ## History
 
-The Egremont Crab Fair dates to 1267, when the lord of the manor gave crab apples to the poor, and the gurning contest grew up alongside the fair's revels in medieval centuries — an unbroken fair tradition. The championships brought fame to celebrated champions such as Tommy Mattinson and Anne Woods, whose repeated titles made them the sport's icons, and national media and documentary coverage has made the contest internationally famous, with the fair continuing every September.
+The Egremont Crab Fair dates to 1267, when King Henry III granted the Lord of Egremont a charter to hold an annual harvest festival of crab apples for the poor; the gurning contest grew up alongside the fair's revels and has been a major part of it since at least 1852 (Guinness World Records, n.d.). The championship was initially a combined men's and women's competition, a separate women's category was properly introduced in 1978, and the first junior contest followed in 1979; Marie Quinn of the USA remains the only woman to finish in the top three of the combined era, taking second place in 1974 (Wikipedia, n.d.). Celebrated champions include Gordon Mattinson, who won the men's title ten times between 1967 and 1977, his son Tommy Mattinson — who won the first junior competition at age 11, his first men's title in 1986 and a record 19th in 2024, a Guinness World Record — and long-time women's champion Claire Lister, who took her eighth title in 2024; Anne Woods is another of the contest's legendary multiple winners (Guinness World Records, n.d.; BBC, n.d.; Wikipedia, n.d.).
 
 ## Sources
 
-- Wikipedia: [Gurning at the Egremont Crab Fair](https://en.wikipedia.org/wiki/Gurning) Retrieved November 21, 2026, from 
-- Egremont Crab Fair: [Fair and championships](https://www.egremontcrabfair.com/) Retrieved November 21, 2026, from 
+- BBC. (n.d.). *Egremont Crab Fair: Meet the champion gurners of Cumbria — 2024 championships: Tommy Mattinson a record 19th men's win, Claire Lister the women's title (her eighth); fair founded 1267; gurning rules little changed*. Retrieved November 23, 2026, from https://www.bbc.com/news/articles/cpw5dryr27qo
+- Egremont Crab Fair. (n.d.). *Egremont Crab Fair and World Gurning Championships — fair and gurning contest every September; 2026 championships on 19 September in Egremont Market Hall; men's, women's and juniors' categories*. Retrieved November 23, 2026, from https://www.egremontcrabfair.com/
+- Guinness World Records. (n.d.). *Longest-running gurning world championships — Egremont Crab Fair held annually since 1267 (or 1297) under a royal charter from Henry III; gurning contest a major part since at least 1852; braffin horse collar; three classes: men, women, juniors; most male titles: Tommy Mattinson, 19 (2024)*. Retrieved November 23, 2026, from https://www.guinnessworldrecords.com/world-records/758640-longest-running-gurning-world-championships
+- Wikipedia. (n.d.). *Gurning — Egremont Crab Fair; combined competition until a separate women's category in 1978; first junior contest 1979; Marie Quinn only woman top three (2nd, 1974); Tommy Mattinson first junior winner aged 11, first men's title 1986, record 19 titles; Gordon Mattinson 10 wins 1967–77; Anne Woods multiple champion; 2025 champions Ryan Barton (men) and Lynn Proctor (women)*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Gurning
+
+### Figure Index
+
+- Iista516. (2013, July 10). *A young woman gurning* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:A_young_woman_gurning.jpg (CC BY-SA 3.0)
 
 ## Important Links
 
-- [World Hen Racing Championships](world-hen-racing-championships.html) — another British rural festival world championship, on this site
-- [World Stone Skimming Championships](world-stone-skimming-championships.html) — a Scottish island world championship, on this site
-- [Worm Charming](worm-charming.html) — another famous rural contest, on this site
+- [Egremont Crab Fair — official site](https://www.egremontcrabfair.com/) — the fair and the World Gurning Championships
+- [Guinness World Records — gurning championships](https://www.guinnessworldrecords.com/world-records/758640-longest-running-gurning-world-championships) — record holders and history
+- [World Hen Racing Championships](world-hen-racing-championships.html) on this site — another British rural festival world championship
+- [World Stone Skimming Championships](world-stone-skimming-championships.html) on this site — a Scottish island world championship
+- [Worm Charming](worm-charming.html) on this site — another famous rural contest

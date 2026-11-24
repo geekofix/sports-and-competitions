@@ -1,24 +1,35 @@
 ## Basic Information
 
-Wingsuit flying is the skydiving discipline in which a jumper wears a fabric suit with inflatable arm and leg wings, greatly increasing the glide ratio — the flyer falls more slowly and travels further sideways than a conventional body position allows, at typical forward speeds well over 100 km/h — flying formation patterns or acrobatics before deploying a parachute. Distance, time and acrobatic records have all been flown in wingsuits through sanctioned competition.
+Wingsuit flying is the skydiving discipline in which the jumper wears a fabric suit with wings between the arms and torso and between the legs, greatly increasing glide — vertical speed drops and horizontal speed rises, with typical forward speeds well over 100 km/h — before the pilot flares and deploys a parachute (Wikipedia, n.d.). The Fédération Aéronautique Internationale (FAI) recognises two international competition disciplines: performance flying, which measures time, horizontal distance and horizontal speed, and acrobatic flying, in which teams perform judged routines filmed by a camera flyer; women compete in all disciplines and formations alongside men (Fédération Aéronautique Internationale, n.d.).
 
-A specialist refinement known as proximity flying combines wingsuit flight with terrain flight at low altitude over mountain slopes, which carries extreme risk and sits outside mainstream skydiving competition.
+Competition formats were ratified by the FAI in 2015 — the first FAI World Cup in performance flying was held that year and the first FAI World Wingsuit Performance Flying Championships in 2016 — and the FAI registers world records: as of 2026 the ratified performance records include 326.8 km/h for speed (Chris Geiler, 26 October 2021), 5.572 km horizontal distance (Alexey Galda, 25 August 2023) and 112.0 seconds for time (Galda, 17 August 2025) (Wikipedia, n.d.). A specialist extreme refinement, proximity flying, sends pilots terrain-flying metres from mountainsides and sits outside mainstream competition (International Skydiving Association, n.d.).
+
+![A wingsuit pilot flying over Langar Airfield, UK](https://commons.wikimedia.org/wiki/Special:Redirect/file/Wingsuit_Flying_over_Langar_Airfield_UK.jpg?width=480)
+
+*Figure: Wingsuiting. (2012, March 11). Wingsuit Flying over Langar Airfield UK — a wingsuit pilot flying over fields at Langar Airfield (Parachute/Skydive School), United Kingdom [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wingsuit_Flying_over_Langar_Airfield_UK.jpg*
 
 ## Rules
 
-In competition, wingsuit pilots exit from aircraft and fly set tasks scored for performance: speed over a fixed vertical kilometre, time flown in the fastest descent, and distance covered — in a format governed by the FAI skydiving structures, measured with GPS loggers within defined exit-altitude windows. Acrobatic wingsuit flying is judged on compulsory and free figures in head-up and head-down orientation — formations, rotations and grips — by air-to-air video. All flights require standard skydiving licences, reserve parachutes, and deployment altitudes per federation rules.
+In performance competition, pilots exit from an aircraft and fly set tasks within a defined vertical window — typically a one-kilometre scoring band — with GPS loggers measuring speed over ground, horizontal distance and flight time; the fastest speed, longest distance and longest time each carry their own record and contest categories (Fédération Aéronautique Internationale, n.d.). Acrobatic wingsuit flying is judged on compulsory and free routines — formations, rotations and grips in head-up and head-down orientations — scored from the camera flyer's video (Wikipedia, n.d.). All flights require a valid skydiving licence, a reserve parachute and minimum deployment altitudes per federation rules; wingsuit BASE jumping from fixed objects follows separate, stricter exit and equipment rules, and proximity flying is explicitly outside sanctioned competition (International Skydiving Association, n.d.).
 
 ## History
 
-The winged-jump idea dates to early crash-prone experiments such as Rex Finney's 1930s plank suits, but working wingsuits only arrived in the mid-1990s when French skydiver Patrick de Gayardon developed ram-air inflatable wings that made flares and safe flight practical. Commercial suits followed from the company Bird-Man founded by Jari Kuosma, aided by pioneering jumpers who flew from cliffs and through rock gaps, and federations began logging records over the 2000s. Competitive structures for speed and acrobatics entered skydiving programmes in the 2010s, while marquee feats like jumps from aircraft high above Mont Blanc and race-plane formation flights kept expanding perception of the sport.
+The winged-jump idea dates to the early twentieth century — tailor Franz Reichelt was killed in 1912 testing a wearable parachute suit from the Eiffel Tower, and American parachutist Rex G. Finney demonstrated fabric "bat wing" suits in the 1930s — but working wingsuits only arrived in the mid-1990s, when French skydiver Patrick de Gayardon (1960–1998) developed the ram-air inflatable suit that made flares and controlled flight practical, unveiled publicly on 31 October 1997; he died in a BASE accident in Hawaii on 13 April 1998 (Wikipedia, n.d.). After his death, Robert Pečnik of Croatia and Jari Kuosma of Finland (b. 1969, Helsinki) developed a related design and began producing BirdMan suits in 1999 — the first commercially available wingsuit, released in June 1999 — and Kuosma wrote the first wingsuit training program, requiring a minimum of 200 jumps, in 1999 (International Skydiving Association, n.d.). Federations began logging records over the 2000s, the FAI ratified competition formats in 2015, and the first FAI World Cup and World Championships followed in 2015 and 2016 (Fédération Aéronautique Internationale, n.d.).
 
 ## Sources
 
-- Wikipedia: [Wingsuit flying](https://en.wikipedia.org/wiki/Wingsuit_flying) Retrieved November 21, 2026, from 
-- FAI skydiving records: [Wingsuit performance flying](https://www.fai.org/sport/skydiving) Retrieved November 21, 2026, from 
+- Fédération Aéronautique Internationale. (n.d.). *Skydiving — wingsuit performance flying and acrobatic flying as FAI competition disciplines; formats ratified 2015; first FAI World Cup 2015, first FAI World Wingsuit Performance Flying Championships 2016; world records via GPS*. Retrieved November 23, 2026, from https://www.fai.org/sport/skydiving
+- International Skydiving Association. (n.d.). *Wingsuiting history — Patrick de Gayardon's ram-air wingsuit unveiled 31 October 1997, died 13 April 1998; Jari Kuosma and Robert Pečnik founded BirdMan 1999, first commercial wingsuit June 1999; first wingsuit training program 1999 (minimum 200 jumps); proximity flying risks*. Retrieved November 23, 2026, from https://internationalskydivingassociation.com/wingsuiting/wingsuiting-history/
+- Wikipedia. (n.d.). *Wingsuit flying — Franz Reichelt 1912 Eiffel Tower; Rex G. Finney 1930s; performance records: 326.8 km/h speed Chris Geiler 26 Oct 2021, 5.572 km distance and 112.0 s time Alexey Galda 2023/2025; acrobatics judged from camera-flyer footage; large-formation records*. Retrieved November 23, 2026, from https://en.wikipedia.org/wiki/Wingsuit_flying
+
+### Figure Index
+
+- Wingsuiting. (2012, March 11). *Wingsuit Flying over Langar Airfield UK* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Wingsuit_Flying_over_Langar_Airfield_UK.jpg (CC BY-SA 4.0)
 
 ## Important Links
 
-- [Skydiving](skydiving.html) — the parent freefall sport, on this site
-- [BASE Jumping](base-jumping.html) — the low-altitude jump discipline wingsuit pilots cross into, on this site
-- [Hang Gliding](hang-gliding.html) — another unpowered gliding air sport, on this site
+- [FAI — skydiving and wingsuit competition](https://www.fai.org/sport/skydiving) — world governing airsports body, wingsuit records and championships
+- [International Skydiving Association — wingsuiting history](https://internationalskydivingassociation.com/wingsuiting/wingsuiting-history/) — history and safety training standards
+- [Skydiving](skydiving.html) on this site — the parent freefall sport
+- [BASE Jumping](base-jumping.html) on this site — the fixed-object jump discipline wingsuit pilots cross into
+- [Hang Gliding](hang-gliding.html) on this site — another unpowered gliding air sport
