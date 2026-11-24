@@ -16,6 +16,7 @@ Usage:
 import csv
 import html
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -56,6 +57,22 @@ THEME_BUTTON = (
 
 def esc(text):
     return html.escape(str(text), quote=True)
+
+
+def last_reviewed(slug):
+    path = CONTENT / f"{slug}.md"
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%as", "--", str(path.relative_to(ROOT))],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+        date = result.stdout.strip()
+        return date or None
+    except (OSError, subprocess.CalledProcessError):
+        return None
 
 
 def md_inline(text):
@@ -194,6 +211,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <footer class="site-footer">
   <div class="wrap footer-row">
     <span>{site} &middot; {total} entries &middot; content licensed <a href="{cc}" target="_blank" rel="noopener">CC BY-SA 4.0</a></span>
+    <span>Last reviewed: {reviewed}</span>
     <span><a href="{repo}" target="_blank" rel="noopener">Source on GitHub</a></span>
   </div>
 </footer>
@@ -249,6 +267,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <footer class="site-footer">
   <div class="wrap footer-row">
     <span>{site} &middot; content licensed <a href="{cc}" target="_blank" rel="noopener">CC BY-SA 4.0</a> &middot; developed with support from <a href="{vibe}" target="_blank" rel="noopener">Mistral Vibe Code</a></span>
+    <span>Last reviewed: {reviewed}</span>
     <span><a href="{repo}" target="_blank" rel="noopener">Source on GitHub</a></span>
   </div>
 </footer>
@@ -281,6 +300,7 @@ def main():
 
     written = 0
     for i, row in enumerate(rows, 1):
+        reviewed = last_reviewed(row["slug"]) or "&mdash;"
         sections = load_content(row["slug"])
         body = {}
         for key, _label in SECTIONS:
@@ -299,10 +319,15 @@ def main():
             links=body["important-links"],
             cc=CC_URL,
             repo=REPO_URL,
+            reviewed=reviewed,
         )
         (SPORTS / f"{row['slug']}.html").write_text(page, encoding="utf-8")
         written += 1
 
+    site_reviewed = max(
+        (d for d in (last_reviewed(r["slug"]) for r in rows) if d),
+        default="&mdash;",
+    )
     index_html = INDEX_TEMPLATE.format(
         site=SITE_TITLE,
         total=total,
@@ -312,6 +337,7 @@ def main():
         cc=CC_URL,
         repo=REPO_URL,
         vibe=VIBE_URL,
+        reviewed=site_reviewed,
     )
     (ROOT / "index.html").write_text(index_html, encoding="utf-8")
 
