@@ -2,13 +2,20 @@
 
 Competitive sleeping is a novelty contest in which participants try to fall asleep fastest and sleep most deeply within a set time, monitored by sleep-tracking wearables — the opposite of the endurance "lie-flat" contests in which contestants stay awake or motionless as long as possible (AFP, 2026; Wikipedia, n.d.). The best-known event was the "Matt Race" by Koala in Tokyo on 5 October 2026, where contestants slept for 90 minutes inside a venue in the Japanese capital and the winner — combining speed of sleep onset and depth of sleep — took a 2 million yen prize; around 47,000 people applied for the limited places, making it a viral mainstream-media event (The Japan Times, 2026; AFP, 2026). Spain hosts the "Dormilón" napping championship in Madrid, rooted in the siesta tradition, and China has held "lie-flat" endurance contests in Baotou, Inner Mongolia, where the 2024 winner stayed flat for 33 hours 35 minutes (Wikipedia, n.d.). There is no international federation and no single rulebook: each organizer sets its own format, and Guinness World Records keeps the inverse benchmark — the longest time voluntarily without sleep, 264.4 hours by Randy Gardner in San Diego in 1964 — which sleep scientists cite when warning about the health risks of such contests (Guinness World Records, n.d.). The 2026 Tokyo event is open to men and women alike, and its 2026 winner is the current headline name of the novelty (The Japan Times, 2026).
 
+![A man sleeping](https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Uncle.JPG?width=480)
+
+*Figure: Bizoy Mahmud BD. (2014, May 16). Sleeping Uncle — A man asleep — in competitive sleeping contests, judges score how long and how soundly contestants sleep [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sleeping_Uncle.JPG*
+
+
 ## Rules
 
 In timed napping contests such as Tokyo's Matt Race, competitors lie on mattresses for a fixed period — 90 minutes in 2026 — while wearable devices record sleep stages; winners are ranked by a combination of sleep-onset time, total sleep time and deep-sleep share, with penalties for getting up or leaving the mat before the buzzer (AFP, 2026). Endurance variants, the "lie-flat" contests, are ranked purely by total duration of continuous lying flat, under medical supervision, with disqualification for leaving the marked area (Wikipedia, n.d.). Rules are set by each organizer — venue, mattress, monitoring device, time limit and scoring formula differ from event to event — because, unlike mainstream sport, competitive sleeping has no international federation and no unified rulebook (Wikipedia, n.d.). There are no gender or age categories at the major novelty events: men and women compete together, and most events require adult participants who pass a basic health screening; the Guinness-sanctioned record category (longest time without sleep) is explicitly dangerous and is no longer promoted, which is why organizers emphasize the short, supervised napping format instead (Guinness World Records, n.d.; AFP, 2026).
 
+
 ## History
 
 Napping competitions have been held in Spain since the 2010s as part of Madrid's siesta culture — the "Dormilón" championship stages public napping sessions in the capital — and Chinese "lie-flat" endurance contests became popular in the 2010s and 2020s, with the Baotou 2024 event won after 33 hours 35 minutes (Wikipedia, n.d.). The concept reached mainstream international media on 5 October 2026 with the Koala "Matt Race" in Tokyo, whose 2 million yen prize and roughly 47,000 applicants showed the commercial appeal of organized sleep (The Japan Times, 2026; AFP, 2026). The scientific backdrop is the famous 1964 experiment in which 17-year-old Randy Gardner of San Diego stayed awake for 264.4 hours (11 days) under medical supervision — a Guinness-recognized record that demonstrated the dangers of sleep deprivation and that organizers of sleeping contests now cite as the reason to keep events short and supervised (Guinness World Records, n.d.). Women have taken part in napping and lie-flat contests from the beginning, and the mixed-gender format of the Tokyo event continues that tradition (AFP, 2026).
+
 
 ## Sources
 
@@ -16,6 +23,12 @@ Napping competitions have been held in Spain since the 2010s as part of Madrid's
 - Guinness World Records. (n.d.). *Longest time voluntarily without sleep*. Retrieved November 22, 2026, from https://www.guinnessworldrecords.com/world-records/longest-time-without-sleep
 - The Japan Times. (2026). *Japan's 'Matt Race' sleeping championship draws 47,000 applicants*. Retrieved November 22, 2026, from https://www.japantimes.co.jp/news/2026/10/13/japan/matt-race-sleep/
 - Wikipedia. (n.d.). *Competitive sleeping*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Competitive_sleeping
+
+### Figure Index
+
+- Bizoy Mahmud BD. (2014, May 16). *Sleeping Uncle* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Sleeping_Uncle.JPG (CC BY-SA 4.0)
+
+
 
 ## Important Links
 

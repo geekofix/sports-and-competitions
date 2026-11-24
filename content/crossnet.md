@@ -4,19 +4,32 @@ CROSSNET is a four-player racket-and-ball sport that combines volleyball with fo
 
 Women and men play crossnet in mixed teams.
 
+![A four square court marked on pavement](https://commons.wikimedia.org/wiki/Special:Redirect/file/Four_square_court.jpg?width=480)
+
+*Figure: Seaneffel. (2009, April 26). Four square court — A four square court — CrossNet (Crossnet) is four square with a net stretched across the middle of the court [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Four_square_court.jpg*
+
+
 ## Rules
 
 Under the official CROSSNET rules, the court is a square divided into four equal quadrants (each roughly 5 × 5 ft) by two volleyball-style nets crossing at the center; the net is higher in the middle and lower at the edges (CROSSNET, n.d.). Each player owns one quadrant. The serve is hit from square 4 diagonally into square 2, and play continues with each player allowed one hit per return — the ball is volleyed over the net into any other quadrant and may not be caught or held, exactly as in volleyball (CROSSNET, n.d.). If the ball lands in a player's quadrant, or the player faults (catches the ball, hits it out, or touches the net), that player is eliminated for the rally and the remaining players rotate one quadrant clockwise; with eight players (2v2v2v2) both players of a square share the quadrant (CROSSNET, n.d.). Only the player in square 4 can score: one point for making the ball land in an opponent's quadrant that they fail to return; a "spike" — hitting the ball down into an opponent's square — can be used to attack (CROSSNET, n.d.). Games are played to 11 points, win by two, and matches are best of three games; the rotation and scoring rules are identical in casual and USA Volleyball-sanctioned play (CROSSNET, n.d.; USA Volleyball, 2021).
 
+
 ## History
 
 In May 2017, Chris Meade — then an account executive at Uber in San Francisco — met his brother Greg Meade, a student at Eastern Connecticut State University, and their childhood friend Mike Delpapa in their hometown of Woodstock, Connecticut, and the three spent a night brainstorming; the surviving idea was a four-square volleyball game (Wikipedia, n.d.). They built a makeshift prototype from Walmart volleyball nets in January 2018, patented and trademarked the concept, found a Chinese manufacturer via Alibaba for a $250 prototype, and began selling in June 2018 from a converted record store in Willimantic, Connecticut (Wikipedia, n.d.). Revenue jumped from $74,000 in 2018 to $2.25 million in 2019, the company was named to the Forbes 30 Under 30 sports list in 2021, and on 20 July 2021 USA Volleyball announced an official partnership to sanction competitive CROSSNET play, with branded events at major volleyball tournaments through 2024 (USA Volleyball, 2021; Wikipedia, n.d.). Televised prize events followed — the $10,000 Chula Vista tournament aired on ESPN8 The Ocho in 2021 and 2023 — and the founders expanded the brand with related games such as Smashnet under the Good Sport label (Wikipedia, n.d.). By 2022 over 100,000 CROSSNET sets were in use across 49 countries, and 1,000 sets had been donated to underfunded schools in 2020 (Wikipedia, n.d.).
+
 
 ## Sources
 
 - CROSSNET. (n.d.). *Official rules, court setup and competitive events*. Retrieved November 22, 2026, from https://www.crossnetbrand.com/
 - USA Volleyball. (2021). *USA Volleyball partners with CROSSNET to put new spin on the game*. Retrieved November 22, 2026, from https://usavolleyball.org/story/usa-volleyball-partners-with-crossnet-to-put-new-spin-on-the-game/
 - Wikipedia. (n.d.). *Crossnet*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Crossnet
+
+### Figure Index
+
+- Seaneffel. (2009, April 26). *Four square court* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Four_square_court.jpg (CC BY-SA 3.0)
+
+
 
 ## Important Links
 

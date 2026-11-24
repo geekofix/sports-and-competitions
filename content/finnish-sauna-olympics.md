@@ -4,19 +4,32 @@ The Finnish Sauna Olympics (Maailman saunakisat, World Sauna Championships) were
 
 Women and men have competed in the World Sauna Championships in separate and mixed categories.
 
+![Traditional Finnish sauna whisking and löyly steam](https://commons.wikimedia.org/wiki/Special:Redirect/file/Traditional_Finnish_sauna_whisking_and_l%C3%B6yly.jpg?width=560)
+
+*Figure: Ville Kurki. (2023, February 13). Traditional Finnish sauna whisking and löyly — traditional Finnish sauna whisking (vihtominen) with birch branches and löyly steam — sauna culture at the heart of the Finnish Sauna Olympics [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Traditional_Finnish_sauna_whisking_and_l%C3%B6yly.jpg*
+
+
 ## Rules
 
 In the World Sauna Championships, contestants sat on a bench in a sauna heated to 110 °C (230 °F) with 100 liters of water thrown on the stones every 30 seconds to raise humidity; each round lasted 6 minutes, and the last person still in the sauna (able to sit upright, not burned, conscious) advanced or won. Burns more severe than first-degree or leaving the sauna for any reason meant elimination; medical staff monitored heart rate and skin. Men and women competed in separate heats, with a final. Rules were set by the organizing association (Saunaseura / saunamm.fi), which specified the stove, bench height, water amount and temperature measurement points.
 
+
 ## History
 
 The World Sauna Championships were organized in Heinola from 1999 (first held 1999, organized by the local sauna society) until 2010, drawing international media attention and contestants from Russia, Germany, the Netherlands and elsewhere. The 2010 final ended in tragedy when Russian competitor Vladimir Ladyzhensky died after collapsing with severe burns, and Finnish finalist Timo Kaukonen was hospitalized in critical condition; the competition was discontinued immediately and has not been held since. The Finnish Sauna Society (Suomen Saunaseura) had repeatedly warned that 110 °C contests were dangerous and contrary to sauna culture. Ordinary sauna bathing in Finland remains a UNESCO-listed intangible cultural heritage practice.
+
 
 ## Sources
 
 - Divapor. (n.d.). *History of the World Sauna Championships in Heinola*. Retrieved November 20, 2026, from https://www.divapor.com/
 - Sauna World Championships / saunamm.fi. (n.d.). *World Sauna Championships rules and history*. Retrieved November 20, 2026, from https://www.saunamm.fi/
 - SaunaGeek. (n.d.). *The end of the World Sauna Championships after 2010*. Retrieved November 20, 2026, from https://www.saunageek.com/
+
+### Figure Index
+
+- Ville Kurki. (2023, February 13). *Traditional Finnish sauna whisking and löyly* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Traditional_Finnish_sauna_whisking_and_l%C3%B6yly.jpg (CC BY-SA 4.0)
+
+
 
 ## Important Links
 

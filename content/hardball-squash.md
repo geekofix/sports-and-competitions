@@ -2,13 +2,20 @@
 
 Hardball squash is the North American variant of squash played with a harder, faster rubber ball — sometimes called the "American version" of the game — which dominated play in Canada, the United States and Mexico from the late 19th century until the 1980s and early 1990s, when most players switched to the international "softball" game; today hardball survives mainly in doubles, which continues to thrive on its larger court (Wikipedia, n.d.-a). The game is administered in North America by U.S. Squash (formerly the United States Squash Racquets Association, USSRA) and internationally the World Squash Federation publishes the International Hardball Doubles Rules (2024 edition, effective 1 January 2024, with changes approved at the WSF EGM 2025), while the professional doubles circuit and the biennial World Hardball Doubles Championships are organized by the Squash Doubles Association (U.S. Squash, n.d.-b; World Squash Federation, n.d.-b; Squash Doubles Association, n.d.). As of 2026, the leading women in hardball doubles are the U.S. national champions Lauren West and Georgina Stoker (2025 and 2026), while the 2026 men's champions are David J. Rosen and Steven A. Scharff and the mixed champions Thomas W. Harrity and Radhika Cobb (U.S. Squash, n.d.-b) (Wikipedia, n.d.-b) (Wikipedia, n.d.-c) (World Squash Federation, n.d.-b).
 
+![A squash racquet and hard rubber ball](https://commons.wikimedia.org/wiki/Special:Redirect/file/Squash-racquet-and-ball.jpg?width=480)
+
+*Figure: Jalessio. (2004, March). Squash-racquet-and-ball — a squash racquet and the hard rubber ball used in hardball squash — unlike softball squash, hardball squash is played with a harder, faster rubber ball [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Squash-racquet-and-ball.jpg*
+
+
 ## Rules
 
 Hardball singles is played on a court 32 ft (9.75 m) long and 18½ ft (5.6 m) wide with a front-wall "tin" 17 in (430 mm) high — the width was standardized in 1924 and official court plans were sold by the USSRA (now U.S. Squash) from 1929 — compared with the international court of 21 ft (6.4 m) wide with a 19-in (480 mm) tin (Wikipedia, n.d.-a; U.S. Squash, n.d.-a). The hardball is harder and livelier than the international ball and is suited to the narrower court; games use point-a-rally scoring with the serve alternating on each point; the ball must be struck before the second bounce, volleys are allowed, and lets and strokes follow the same service-box rules as international squash (Wikipedia, n.d.-a). Hardball doubles is played on a much larger court 45 ft (13.72 m) long and 25 ft (7.6 m) wide, with a game to 15 points and no requirement to win by two; strategy centers on attacking cross-court shots that move both opponents and open gaps, rather than the side-wall game of singles (Wikipedia, n.d.-a). The World Squash Federation's International Hardball Doubles Rules (2024, effective 1 January 2024) govern the international doubles game on the 32 × 25 ft (9.75 × 7.62 m) court approved by the WSF in 1992, and the biennial World Hardball Doubles Championships are run by the Squash Doubles Association on the 45 × 25 ft court — the last edition listed was in St. Louis in 2017 (World Squash Federation, n.d.-a, n.d.-b; Squash Doubles Association, n.d.). Women and men compete under identical rules in men's, women's and mixed doubles categories (U.S. Squash, n.d.-b).
 
+
 ## History
 
 Records of squash in Canada go back to the 1880s, where the softer British balls proved unsuitable for cold winter halls, so a harder rubber ball and narrower court were developed; by 1924 the 18½-ft width was standardized and from 1929 the USSRA sold official court plans, bringing the game under controlled growth (Wikipedia, n.d.-a). Hardball was the only form of the game in North America until the 1980s, and by 1996 some 80% of squash ball sales in the United States were international-format balls as players converted to 21-ft courts (Wikipedia, n.d.-a; World Squash Federation, n.d.-a). The two greatest hardball players are widely considered to be Sharif Khan (b. 1945, Pakistan-born, Toronto-based; son of Hashim Khan) — who won the North American Open a record 12 times in 13 years from 1969 to 1981 and the US Professional Championship nine times in ten years from 1970 to 1979, and became the first non-US citizen inducted into the U.S. Squash Hall of Fame in 2004 — and Mark Talbott of the United States, who dominated from the mid-1980s to the mid-1990s; members of the Khan family including Hashim, Jahangir, Jansher, Azam and Mo Khan also played top-level hardball (Wikipedia, n.d.-a, n.d.-b).
+
 
 ## Sources
 
@@ -20,6 +27,12 @@ Records of squash in Canada go back to the 1880s, where the softer British balls
 - Wikipedia. (n.d.-c). *World Squash Doubles Championships*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/World_Squash_Doubles_Championships
 - World Squash Federation. (n.d.-a). *History of squash — the hardball era in North America*. Retrieved November 22, 2026, from https://www.worldsquash.sport/wsf-information/squash-history/
 - World Squash Federation. (n.d.-b). *International hardball doubles rules 2024*. Retrieved November 22, 2026, from https://www.worldsquash.sport/
+
+### Figure Index
+
+- Jalessio. (2004, March). *Squash-racquet-and-ball* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Squash-racquet-and-ball.jpg (Public domain)
+
+
 
 ## Important Links
 

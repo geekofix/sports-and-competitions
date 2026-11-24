@@ -4,18 +4,31 @@ Fire-ball soccer (also called fire football or flaming-ball football) is an info
 
 The game is played equally by men and women at informal gatherings, beaches and festivals, in mixed teams without any classification, simply for entertainment (Wikipedia, n.d.).
 
+![A soccer ball glowing as if molten, evoking the burning ball of fire ball soccer](https://commons.wikimedia.org/wiki/Special:Redirect/file/Molten_soccer_ball.jpg?width=480)
+
+*Figure: Vee Satayamas. (2009, June 5). Molten soccer ball — a soccer ball glowing like molten metal — evocative of the burning, fuel-soaked ball used in fire ball soccer, a fiery variant of football [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Molten_soccer_ball.jpg*
+
+
 ## Rules
 
 There is no codified rule set; local variants share a common pattern: a ball (usually an old football or a ball of rags) is wrapped in absorbent cloth, soaked with kerosene, petrol or lighter fluid, set alight and placed on open ground away from flammable materials, and players then play a casual game of [Football](football.html) — five-a-side or small-sided — with the burning ball, typically 5–10 minutes per half (Wikipedia, n.d.). In some variants the ball is doused with water immediately before kick-off so that only smoke and sparks remain; in others it is genuinely kicked while burning. Goals, kick-ins and throw-ins follow ordinary football conventions, with no offside in most street versions (Wikipedia, n.d.). Safety rules that responsible organizers apply are: play only on sand, wet grass or bare earth; keep a bucket of water and a fire extinguisher at the touchline; never use synthetic balls that can melt and drip burning plastic; and stop play immediately if the ball splits open (Wikipedia, n.d.). There are no age, gender or skill classifications — everyone plays at their own risk, and formal youth play is discouraged because of the burn hazard (Wikipedia, n.d.).
+
 
 ## History
 
 Playing with fire has ancient roots in fire festivals across Europe and in the Mesoamerican burning-ball games, but fire-ball soccer as a street pastime became known in the late 20th century, when videos of young people kicking flaming balls on beaches and at parties spread through early internet video platforms (Wikipedia, n.d.). The Mexican Purépecha *pasáratakua* — a hockey-like game with a burning wooden ball played at night — was broadcast internationally in the 1980s and inspired imitations in which a football was set on fire (Wikipedia, n.d.). No governing body was ever founded; the "sport" exists only as a recreational stunt, and many fire departments and safety authorities explicitly warn against it because of severe burn injuries (Wikipedia, n.d.).
 
+
 ## Sources
 
 - Encyclopaedia Britannica. (n.d.). *Mesoamerican ballgame*. Retrieved November 22, 2026, from https://www.britannica.com/sports/Mesoamerican-ballgame
 - Wikipedia. (n.d.). *Pelota purépecha*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Pelota_purepecha
+
+### Figure Index
+
+- Vee Satayamas. (2009, June 5). *Molten soccer ball* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Molten_soccer_ball.jpg (CC BY 4.0)
+
+
 
 ## Important Links
 

@@ -2,13 +2,20 @@
 
 Carjitsu (car jitsu) is a combat sport in which two fighters grapple inside the confined interior of a parked, standard-size car — usually a sedan — until one submits or the judges decide (Wikipedia, n.d.; Pro League Network, n.d.). It was invented in October 2020 by Vik Mikheev, a Russian-American judo and Brazilian jiu-jitsu black belt who was then a mathematics doctoral student at Kansas State University, as a realistic self-defense scenario for fighting an attacker in a vehicle (Wikipedia, n.d.; Defector, 2026). The New York-based Pro League Network (PLN), which produces televised niche-sports shows, acquired the rights and stages the official CarJitsu Championship, with around 30 regular fighters and a waiting list of roughly 200 candidates, all Brazilian jiu-jitsu practitioners; former UFC world champion Mark Coleman works as a commentator, and PLN claims an average of 5 million weekly views on social media (Wikipedia, n.d.). The league filmed its first bouts in autumn 2022 in a warehouse in Branson, Missouri — mostly inside a Scion — broadcast its first live event in March 2024, was carried by ESPN's unusual-sports showcase "The Ocho" in 2024, and in June 2024 New Jersey became the first state to legalize sports betting on the CarJitsu Championship (Wikipedia, n.d.). In February 2026 the Nissan Magnite CarJitsu Showdown at the Coca-Cola Arena in Dubai, held during a Professional Fighters League fight week, became the first CarJitsu Championship event outside the United States (Wikipedia, n.d.). Both men and women compete in the league (Yahoo Sports, n.d.).
 
+![Karate skills demonstration by a soldier](https://commons.wikimedia.org/wiki/Special:Redirect/file/Russian_paratroopers_-_martial_arts_demonstration.jpg?width=560)
+
+*Figure: SSgt Lance Cheung, U.S. Air Force. (1996, August 22). Russian paratroopers - martial arts demonstration — Karate demonstration by a soldier in Bosnia — Carjitsu applies martial-arts techniques to cars [Photograph]. Wikimedia Commons. Public domain (U.S. military work). https://commons.wikimedia.org/wiki/File:Russian_paratroopers_-_martial_arts_demonstration.jpg*
+
+
 ## Rules
 
 An official CarJitsu bout takes place inside a stationary, standard-size car with a referee and two trained BJJ officials supervising from either side of the vehicle (Wikipedia, n.d.; Gaming Today, n.d.). Both competitors start buckled into the front seats, hands on their knees, and the fight begins on the signal; a bout is fought in two or three rounds of three minutes, and if the score is tied after two rounds the third round is fought on the back seat, with the fighters swapping driver and passenger seats between rounds (Wikipedia, n.d.). The ruleset is Brazilian jiu-jitsu: no punches or kicks, with positional dominance and submissions deciding the fight; every element of the car interior may be used to gain advantage — including the seatbelt, frequently used as a choking tool — while detaching any part of the vehicle to use as a weapon is forbidden (Pro League Network, n.d.; Wikipedia, n.d.). The windows remain open, and fighters may lean partially out of the car but may not touch the ground; in overtime, the first jiu-jitsu point scored wins (Wikipedia, n.d.). The car is stripped of loose objects and medical staff are present at events (Wikipedia, n.d.). Men's and women's divisions follow identical rules; because the space is so tight, the fight is pure grappling.
 
+
 ## History
 
 Vik Mikheev began organizing small CarJitsu tournaments among friends in October 2020 to study how jiu-jitsu applies in a confined space, and posted videos of the bouts on his YouTube channel, which drew millions of views (MixedMartialArts.com, n.d.; Wikipedia, n.d.). The first official tournament was held on 25 October 2020 at Midwest Defense LLC in Wamego, Kansas, co-organized by Mikheev and the gym's owner, Buck Peddicord, specifically to test jiu-jitsu applications in vehicles (MixedMartialArts.com, n.d.). The Pro League Network, co-founded by Mike Salvaris, then acquired the rights and built the CarJitsu Championship into a televised league, filmed from autumn 2022 in Branson, Missouri, with its first live broadcast in March 2024 and its ESPN "Ocho" appearance and New Jersey betting legalization in 2024; the Dubai showdown in February 2026 marked its first event abroad (Wikipedia, n.d.). The concept also spread to Russia, where Mikheev's videos sparked a full-blown championship scene (Wikipedia, n.d.).
+
 
 ## Sources
 
@@ -18,6 +25,12 @@ Vik Mikheev began organizing small CarJitsu tournaments among friends in October
 - Pro League Network. (n.d.). *Car Jitsu*. Retrieved November 22, 2026, from https://www.proleaguenetwork.com/car-jitsu/
 - Wikipedia. (n.d.). *Car-jitsu*. Retrieved November 22, 2026, from https://fr.wikipedia.org/wiki/Car-jitsu
 - Yahoo Sports. (n.d.). *Inside the bizarre world of Carjitsu — the sport where seat belt chokes and confined brawling drive fans wild*. Retrieved November 22, 2026, from https://sports.yahoo.com/inside-bizarre-world-carjitsu-sport-161606161.html
+
+### Figure Index
+
+- SSgt Lance Cheung, U.S. Air Force. (1996, August 22). *Russian paratroopers - martial arts demonstration* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Russian_paratroopers_-_martial_arts_demonstration.jpg (Public domain (U.S. military work))
+
+
 
 ## Important Links
 

@@ -4,13 +4,20 @@ The do-nothing contest, internationally known as the Space-Out Competition, is a
 
 Women and men compete on equal terms in the do-nothing contest.
 
+![A man relaxing on a couch, doing nothing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Man-relaxing.jpg?width=480)
+
+*Figure: Amin. (2014, March 3). Man-relaxing — a man relaxing on a couch doing absolutely nothing — the essence of the Do Nothing Contest, where competitors are judged on their ability to idle [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Man-relaxing.jpg*
+
+
 ## Rules
 
 Contestants sit on chairs in a public space and must do nothing for 90 minutes: no sleeping, no talking, no laughing out loud, no phone use and no standing up or wandering around (BBC Newsround, 2020). Heart rate is measured every 15 minutes, and at the end the competitor with the most stable heart rate \u2014 the smallest drop from the starting measurement \u2014 is ranked first, with audience applause votes breaking close ties (The Independent, 2024). Anyone who falls asleep, laughs, talks or disturbs other participants is disqualified, so the winning strategy is radical calm. There are no age or nationality restrictions, spectators watch in silence, and the winner receives the Thinker-shaped trophy (Times of India, 2024). Organizers in each host city apply the same 90-minute format with local adaptations approved by the original Seoul organizers (Wikipedia, n.d.).
 
+
 ## History
 
 Woopsyang organized the first Space-Out Competition in Seoul in 2014 with 36 participants, and it quickly became an international media phenomenon because it inverted the logic of achievement culture: the prize was doing nothing at all (BBC Newsround, 2020). The format spread within a few years to other cities \u2014 editions were held in Tokyo in 2023 and in Hong Kong in 2024, each organized with local artists \u2014 and the contest has been covered by outlets such as the BBC, The Independent and the Times of India, which describe it both as performance art and as a meditation on modern stress (The Independent, 2024; Times of India, 2024). Recent Seoul editions drew more than 100 contestants each; the 2025 winner was Byung-jin Park and the 2026 winner was Kwon So-a (The Independent, 2024).
+
 
 ## Sources
 
@@ -18,6 +25,12 @@ Woopsyang organized the first Space-Out Competition in Seoul in 2014 with 36 par
 - The Independent. (2024). *Tokyo, Hong Kong hold "do nothing" Space-Out contests*. Retrieved November 22, 2026, from https://www.the-independent.com/life-style/tokyo-hong-kong-space-out-contest-doing-nothing-b2629395.html
 - Times of India. (2024). *6 things to know about Korea's do-nothing competition*. Retrieved November 22, 2026, from https://timesofindia.indiatimes.com/etimes/trending/6-things-to-know-about-koreas-do-nothing-competition/photostory/110267892.cms
 - Wikipedia. (n.d.). *Space-Out Competition*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Space-Out_Competition
+
+### Figure Index
+
+- Amin. (2014, March 3). *Man-relaxing* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Man-relaxing.jpg (CC BY-SA 4.0)
+
+
 
 ## Important Links
 

@@ -4,13 +4,20 @@ Goanna pulling is a uniquely Australian strength contest in which two competitor
 
 At the end of 2026 the leading women are the reigning champions of the women's under-70 kg and over-70 kg divisions at Wooli, with women competing in their own weight classes alongside the men's under-63 kg, 63–82 kg, 82–95 kg and over-95 kg divisions (Oddity Central, n.d.; NSW Government, n.d.).
 
+![A goanna, the Australian monitor lizard used in goanna pulling](https://commons.wikimedia.org/wiki/Special:Redirect/file/Goanna._Australia._%252821481066719%2529.jpg?width=560)
+
+*Figure: Bernard Spragg. (2015, August 30). Goanna. Australia. (21481066719) — a goanna (Australian monitor lizard) — in goanna pulling, contestants try to pull a live goanna off a post, an event at Australian bush shows [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Goanna._Australia._%252821481066719%2529.jpg*
+
+
 ## Rules
 
 Two competitors lie prone facing each other on a pulling pad, propped on their arms with their palms behind a white line, in the stance of a goanna; the referee places a double-loop leather belt over each competitor's head so that the strap runs between them across the center line (Oddity Central, n.d.; Top End Sports, n.d.). On the starter's signal both pull backward using head, neck, back and leg strength; the bout is lost by whoever is pulled across the center line or whose head slips out of the leather strap, and bouts are decided in knockout rounds within weight divisions (Oddity Central, n.d.). Events at the Wooli championships are divided into men's weight classes — under 63 kg, 63–82 kg, 82–95 kg and over 95 kg — and women's classes under and over 70 kg, plus junior divisions; winners receive cash prizes and the perpetual "Australian Open" championship shield (Oddity Central, n.d.; Australian National Goanna Pulling Championships, n.d.). The championship day is a festival: goanna pulling is accompanied by wood chopping, tug-of-war and novelty races on the same sports ground (NSW Government, n.d.; Australian National Goanna Pulling Championships, n.d.). No animal is used at any point — the contest is purely between the two human competitors (Top End Sports, n.d.).
 
+
 ## History
 
 The origins of goanna pulling are traced to 19th-century Australian bush and mining camps, where men informally tested neck and back strength in contests with a strap or belt (Oddity Central, n.d.; Wikipedia, n.d.). The first organized Australian National Goanna Pulling Championships were held in Wooli, New South Wales, in 1984–85, when the new sports ground was completed, and the event has run every October long weekend since, becoming the flagship festival of the small coastal town and attracting visitors from across Australia (Australian National Goanna Pulling Championships, n.d.; NSW Government, n.d.). By its 30th edition in 2015 the championships were firmly established on "Goanna Mountain" at the Wooli Sports Ground, and the event remains covered by regional and national media as one of Australia's most distinctive novelty sports — a pure human strength contest in which, as the organizers emphasize, no animal is ever used (Oddity Central, n.d.; Top End Sports, n.d.).
+
 
 ## Sources
 
@@ -19,6 +26,12 @@ The origins of goanna pulling are traced to 19th-century Australian bush and min
 - Oddity Central. (n.d.). *Goanna pulling — playing tug-of-war with your neck*. Retrieved November 22, 2026, from https://www.odditycentral.com/events/goanna-pulling-playing-tug-of-war-with-your-neck.html
 - Top End Sports. (n.d.). *Goanna pulling — tug-of-war using the neck*. Retrieved November 22, 2026, from https://www.topendsports.com/sport/unusual/goanna-pulling.htm
 - Wikipedia. (n.d.). *Goanna pulling*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Goanna_pulling
+
+### Figure Index
+
+- Bernard Spragg. (2015, August 30). *Goanna. Australia. (21481066719)* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Goanna._Australia._%252821481066719%2529.jpg (CC0 1.0)
+
+
 
 ## Important Links
 

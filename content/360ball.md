@@ -4,13 +4,20 @@
 
 Women and men play 360ball in mixed and single-sex teams alike, and women's national teams compete at the world championships.
 
+![Racquetball racquet and ball](https://commons.wikimedia.org/wiki/Special:Redirect/file/Racquetball_-_Schl%C3%A4ger_und_Ball.jpg?width=480)
+
+*Figure: Preiselbeere. (2007, February 18). Racquetball - Schläger und Ball — racquetball racquet and ball; 360ball grew out of racquetball and is played on a circular court around a central concave disc [Photograph]. Wikimedia Commons. CC BY-SA 2.0 DE. https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg*
+
+
 ## Rules
 
 360ball is played as singles (1v1) or doubles (2v2) on a circular court. Three court types are used: a permanent court with surrounding walls, a mobile inflatable court, or simply a boundary rope with a starter set, so the game can be set up almost anywhere (360ball, n.d.). Players rotate 360° around the central disc, and a point is won when the ball bounces on the disc and the opponent cannot return it, when the ball is hit out of court, or on an opponent's fault. Matches are played in sets with a scoring system similar to tennis. Because there is no single world rulebook yet, exact scoring, court dimensions and disc sizes vary between the national leagues — a typical feature of a young sport whose official rules are still being standardized (360ball, n.d.; Knysna-Plett Herald, 2017).
 
+
 ## History
 
 360ball was invented in South Africa by the brothers Mark and John Collins: an early version dates back to 1990, and the brothers recreated and refined the game in 2010 in Knysna on the Garden Route (Knysna-Plett Herald, 2017). In 2011 the sport won the ISPO Brand New award at the ISPO trade fair in Munich, billed as the first genuinely new ball sport in decades (ISPO, 2011). Since then Magnetic South has promoted 360ball internationally, with leagues forming in South Africa, Spain, France and Germany (Nautilus, n.d.).
+
 
 ## Sources
 
@@ -19,6 +26,12 @@ Women and men play 360ball in mixed and single-sex teams alike, and women's nati
 - Knysna-Plett Herald. (2017). *A whole new ball game*. https://www.knysnaplettherald.com/Sport/Article/Other/a-whole-new-ball-game-20170710
 - Nautilus. (n.d.). *Four ball games you've never heard of*. Retrieved November 21, 2026, from https://nautil.us/four-ball-games-youve-never-heard-of-236075
 - Wikipedia. (n.d.). *360ball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/360ball
+
+### Figure Index
+
+- Preiselbeere. (2007, February 18). *Racquetball - Schläger und Ball* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg (CC BY-SA 2.0 DE)
+
+
 
 ## Important Links
 

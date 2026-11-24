@@ -2,13 +2,20 @@
 
 Coreeda — meaning "kangaroo spirit" in the Ngiyampaa language — is an Aboriginal Australian team combat sport from the Ngiyampaa Country around Cobar, western New South Wales. It combines a traditional kangaroo-dance warm-up with a wrestling-style contest in which teams of six compete and individual points add up to a team score; the modern form has been taught since 1998 by the Coreeda Association, whose founders worked with Koori children in western Sydney and combined freestyle wrestling and judo techniques into the training under coach Peter Williams (Creative Spirits, n.d.; Traditional Sports, n.d.). The sport is used today as a youth program to channel aggression, build fitness and strengthen community ties — notably on Mornington Island in the Gulf of Carpentaria — and the association is planning a "First Nations Coreeda Championship" plus a professional league called ProCor (SBS NITV, 2014; Wikipedia, n.d.). Shane Parker, a Coreeda practitioner, represented Australia in Greco-Roman wrestling at the 2010 Delhi Commonwealth Games, showing the pathway from the traditional game into elite sport (Wikipedia, n.d.). Coreeda is open to women and men alike — mixed teams train and compete together, and no separate gender categories exist in the traditional format (Creative Spirits, n.d.). At the end of 2026, the sport's most visible current figure is Shane Parker, who continues to coach and promote Coreeda through the Coreeda Association and community programs in New South Wales and Queensland (Traditional Sports, n.d.). See also [Wrestling](wrestling.html), [Greco-Roman Wrestling](greco-roman-wrestling.html) and [Capoeira](capoeira.html) on this site.
 
+![Kids double-dutch jump rope on the White House South Lawn](https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelle_Obama_and_kids_double-dutch_jump_rope_-_P071511CK-0303_%25286047842208%2529.jpg?width=560)
+
+*Figure: The White House (photo: Chuck Kennedy). (2011, July 15). Michelle Obama and kids double-dutch jump rope - P071511CK-0303 (6047842208) — Double Dutch long-rope jumping on the White House South Lawn — coreeda is the Korean long-rope jumping game, a close relative of Double Dutch [Photograph]. Wikimedia Commons. Public domain (U.S. government work). https://commons.wikimedia.org/wiki/File:Michelle_Obama_and_kids_double-dutch_jump_rope_-_P071511CK-0303_%25286047842208%2529.jpg*
+
+
 ## Rules
 
 A Coreeda bout takes place in a circle 4.5 m in diameter, painted yellow with black and red borders — the colors of the Aboriginal flag. Competitors wear knee-length pants, a wide sash belt and a grabbable jersey, so opponents can grip the clothing as in traditional wrestling (Creative Spirits, n.d.). Combat is divided into a maximum of four rounds, each lasting up to two minutes; a bout is won by pushing or pulling the opponent out of the circle or by establishing ground control, and points for each individual match-up are summed into the team score, which is why Coreeda is described as a team sport of individual bouts — teams field six competitors (Creative Spirits, n.d.; Traditional Sports, n.d.). Before each match, wrestlers perform warm-up movements imitating boxing kangaroos, the kangaroo dance from which the style takes its name. There are no weight-class or gender divisions in the traditional rules — men and women, young and old, compete in the same circle, with safety supervised by the coaches of the Coreeda Association (Creative Spirits, n.d.; SBS NITV, 2014). The governing body for the modern sport is the Coreeda Association of Australia, which publishes the teaching curriculum and organizes school and community tournaments (Traditional Sports, n.d.).
 
+
 ## History
 
 The Dreaming story of Coreeda tells of Beereun, a lizard man who was instructed by a giant snake to watch the red kangaroo bucks so he could learn to fight without weapons; he brought these techniques back to his clan and started a wrestling tournament as a peace-keeping ceremony, an era of prosperity for the Ngiyampaa people (SBS NITV, 2014). The story was told in the town of Cobar in western New South Wales and kept alive by a local Elder in the 1990s, after Bill Griffiths related the tale he had heard from his grandfather; ochre paintings of Coreeda tournaments on the rock walls of the Mt Grenfell historic site, about 40 km from Cobar, date the practice back as far as 10,000–30,000 years, making Coreeda one of the oldest documented folk wrestling styles in the world (SBS NITV, 2014; Traditional Sports, n.d.). The traditional game was known until the 1870s, when the disruption of invasion broke many tribal traditions; the modern form was recreated from 1998 onward by the founders of the Coreeda Association, working with Aboriginal children in western Sydney, with Peter Williams — from the same Ngiyampaa cultural region as Bill Griffiths — adding freestyle wrestling and judo to the training (Creative Spirits, n.d.; Traditional Sports, n.d.). Since then clubs have been founded in Bourke, Melbourne and the Gold Coast, with further clubs planned for Adelaide, Canberra and Broome, and Shane Parker carried the art onto the international stage as Australia's Greco-Roman wrestler at the 2010 Commonwealth Games in Delhi (Wikipedia, n.d.; Traditional Sports, n.d.).
+
 
 ## Sources
 
@@ -16,6 +23,12 @@ The Dreaming story of Coreeda tells of Beereun, a lizard man who was instructed 
 - SBS NITV. (2014). *Ancient martial art taught in remote Indigenous communities*. Retrieved November 22, 2026, from https://www.sbs.com.au/nitv/article/ancient-martial-art-taught-in-remote-indigenous-communities/qg6c29is1
 - Traditional Sports. (n.d.). *Australia, Oceania, Pacific — Coreeda*. Retrieved November 22, 2026, from https://www.traditionalsports.org/traditional-sports/australia-oceania-pacyfic.html
 - Wikipedia. (n.d.). *Coreeda*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Coreeda
+
+### Figure Index
+
+- The White House (photo: Chuck Kennedy). (2011, July 15). *Michelle Obama and kids double-dutch jump rope - P071511CK-0303 (6047842208)* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:Michelle_Obama_and_kids_double-dutch_jump_rope_-_P071511CK-0303_%25286047842208%2529.jpg (Public domain (U.S. government work))
+
+
 
 ## Important Links
 

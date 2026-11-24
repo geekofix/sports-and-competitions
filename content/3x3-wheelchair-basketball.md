@@ -4,13 +4,20 @@
 
 Women's wheelchair basketball is a full Paralympic medal discipline, and female athletes compete at the highest level of the 3x3 format alongside men.
 
+![Wheelchair basketball match at the 2000 Sydney Paralympics seen from above](https://commons.wikimedia.org/wiki/Special:Redirect/file/141100_-_Wheelchair_basketball_from_above_-_3b_-_2000_Sydney_match_photo.jpg?width=560)
+
+*Figure: Sport the Library (Australian Paralympic Committee). (2000, November 14). 141100 - Wheelchair basketball from above - 3b - 2000 Sydney match photo — Australian men's wheelchair basketball team seen from above during a 2000 Sydney Paralympics match — 3x3 is the half-court variant of the same sport [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:141100_-_Wheelchair_basketball_from_above_-_3b_-_2000_Sydney_match_photo.jpg*
+
+
 ## Rules
 
 The game follows the FIBA 3x3 framework — half court, one basket, 12-second shot clock, game to 21 points or 10 minutes, 1 point inside the arc and 2 points from beyond it — with IWBF modifications for wheelchair play (IWBF, n.d.-a). Players are classified from 1.0 (lowest functional ability) to 4.5 (highest), and the combined classification points of the three players on court are capped so that teams must balance high- and low-point players. Dribbling rules are adapted to wheel pushes: a limited number of pushes on the wheels counts as a dribble, and lifting both hands off the wheels and the ball constitutes travelling. Contact and foul rules are wheelchair-specific, including the prohibition on lifting off the seat during play. Some national leagues play shortened games or 4x4 formats, and the classification-point cap differs between the 3x3 and 5x5 formats (IWBF, n.d.-a; IPC, n.d.). Men's and women's competitions are run separately under the same rule set.
 
+
 ## History
 
 Wheelchair basketball itself was invented around 1945–1948 at Stoke Mandeville Hospital by Sir Ludwig Guttmann, who used the game in the rehabilitation of patients with spinal cord injuries; it has been part of every Paralympic Games since Rome 1960 for men and since 1968 for women, and the US men's team and the Australian women's "Gliders" are among the most successful national programs (IPC, n.d.). The 3x3 format was not included in the Tokyo 2020 or Paris 2024 Paralympic program — both Games featured only 5x5, with the IPC declining 3x3 for Paris 2024 — and the IWBF is campaigning for Paralympic inclusion at Los Angeles 2028 (IPC, n.d.; IWBF, n.d.-a). At Tokyo 2020 the US men won gold 64–60 over Japan, with Steve Serio leading the Americans, and the Netherlands women won gold 50–31 over China; at Paris 2024 the US men again took gold and the Netherlands women defeated the United States 63–49, with Bo Kramer and Mariska Beijer starring (IPC, n.d.). Outside the Paralympics, 3x3 wheelchair basketball tournaments have been staged in Japan since 2022 — including the 2023 Osaka Cup — and the IWBF now runs an annual 3x3 Open World Championships, first held at elite level with the 2026 edition in Cairo (IWBF, n.d.-b).
+
 
 ## Sources
 
@@ -18,6 +25,12 @@ Wheelchair basketball itself was invented around 1945–1948 at Stoke Mandeville
 - International Wheelchair Basketball Federation. (n.d.-a). *3x3 wheelchair basketball*. Retrieved November 21, 2026, from https://www.iwbf.org/3x3
 - International Wheelchair Basketball Federation. (n.d.-b). *2026 IWBF 3x3 Open World Championships*. Retrieved November 21, 2026, from https://www.iwbf.org/events/2026-iwbf-3x3-open-world-championships
 - Wikipedia. (n.d.). *Wheelchair basketball*. Retrieved November 21, 2026, from https://en.wikipedia.org/wiki/Wheelchair_basketball
+
+### Figure Index
+
+- Sport the Library (Australian Paralympic Committee). (2000, November 14). *141100 - Wheelchair basketball from above - 3b - 2000 Sydney match photo* [Photograph]. Wikimedia Commons. Retrieved November 24, 2026, from https://commons.wikimedia.org/wiki/File:141100_-_Wheelchair_basketball_from_above_-_3b_-_2000_Sydney_match_photo.jpg (CC BY-SA 3.0)
+
+
 
 ## Important Links
 
