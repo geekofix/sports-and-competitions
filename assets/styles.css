@@ -299,6 +299,8 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 .page h1 { font-size: 37px; letter-spacing: -0.02em; margin-bottom: 6px; }
 
 .toc { display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0 26px; }
+
+.page-meta { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
 .toc.pin {
   position: sticky;
   top: 0;

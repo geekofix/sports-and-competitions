@@ -182,6 +182,11 @@ def content_image_titles():
     return titles
 
 
+def reading_time(body):
+    text = re.sub(r"<[^>]+>", " ", "\n".join(body.get(key, "") for key, _ in SECTIONS))
+    return max(1, round(len(text.split()) / 200))
+
+
 def og_image_tags(first_img):
     if not first_img:
         return ""
@@ -326,6 +331,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 </header>
 <main class="wrap page" id="main">
   <h1>{title}</h1>
+  <p class="page-meta">&#8776; {read_time} min read</p>
   <nav class="toc">
     <a href="#basic-information">Basic Information</a>
     <a href="#rules">Rules</a>
@@ -531,6 +537,7 @@ def main():
             cc=CC_URL,
             repo=REPO_URL,
             reviewed=reviewed,
+            read_time=reading_time(body),
         )
         (SPORTS / f"{row['slug']}.html").write_text(page, encoding="utf-8")
         written += 1
