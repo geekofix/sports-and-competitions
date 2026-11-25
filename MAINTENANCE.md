@@ -73,6 +73,8 @@ entries in this file: the next session reads the current state from the repo
   (falls back to all entries when the filter yields nothing visible).
 - "Reset filters" control: clears search, A–Z selection and chips in one click.
 - Stats line under the header: categories, photos, last content update.
+- Share menu in the header (same position and behavior as on detail pages;
+  share text is the site title, not duplicated).
 
 ### Detail pages (`sports/<slug>.html`)
 - Exactly the five H2 sections (Basic Information, Rules, History, Sources,
@@ -149,6 +151,8 @@ entries in this file: the next session reads the current state from the repo
 - Favorites via `localStorage` (star per entry, "show favorites" filter).
 - Lightbox keyboard operability (`tabindex` on images + Enter to open).
 - Optional: re-enable a grid only for 3+ consecutive images (full-width for 2).
+
+| Share menu extended to the index header | `78d4913` | identical position/behavior as detail pages |
 
 ## Session prompt templates
 
