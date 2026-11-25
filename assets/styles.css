@@ -260,6 +260,38 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 }
 .skip-link:focus { left: 0; }
 
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  transform-origin: 0 0;
+  transform: scaleX(0);
+  z-index: 90;
+  pointer-events: none;
+}
+
+.to-top {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  z-index: 80;
+  transition: border-color 0.15s, color 0.15s;
+}
+.to-top:hover { border-color: var(--accent); color: var(--accent); }
+.to-top[hidden] { display: none; }
+
 /* ---------- detail pages ---------- */
 
 .page { padding: 34px 20px 52px; max-width: 880px; overflow-wrap: break-word; }
@@ -379,7 +411,9 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
   .tag-bar,
   .toc,
   .site-footer,
-  .skip-link { display: none !important; }
+  .skip-link,
+  .progress-bar,
+  .to-top { display: none !important; }
   body { background: #fff; color: #000; font-size: 12pt; }
   .page section {
     background: #fff;

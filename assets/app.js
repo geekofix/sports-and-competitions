@@ -9,6 +9,35 @@ if (toc) {
   }).observe(sentinel);
 }
 
+// Reading progress bar + back-to-top button (all pages); both are
+// invisible at scroll position 0, so full-page screenshots stay clean.
+const progressBar = document.createElement('div');
+progressBar.className = 'progress-bar';
+document.body.appendChild(progressBar);
+
+const toTop = document.createElement('button');
+toTop.type = 'button';
+toTop.className = 'to-top';
+toTop.setAttribute('aria-label', 'Back to top');
+toTop.textContent = '\u2191';
+toTop.hidden = true;
+document.body.appendChild(toTop);
+toTop.addEventListener('click', () => scrollTo({ top: 0, behavior: 'smooth' }));
+
+let scrollTicking = false;
+const onScroll = () => {
+  if (scrollTicking) return;
+  scrollTicking = true;
+  requestAnimationFrame(() => {
+    const max = document.documentElement.scrollHeight - innerHeight;
+    progressBar.style.transform = 'scaleX(' + (max > 0 ? scrollY / max : 0) + ')';
+    toTop.hidden = scrollY < 600;
+    scrollTicking = false;
+  });
+};
+addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');
 if (themeBtn) {
