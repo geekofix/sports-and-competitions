@@ -160,6 +160,19 @@ a.brand:hover { color: var(--accent); }
 }
 .badge strong { color: var(--accent); }
 
+.reset-filters {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--accent);
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.reset-filters:hover { color: var(--accent-2); }
+
 .alpha-bar { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 14px; }
 
 .tag-bar { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }

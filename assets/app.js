@@ -168,6 +168,18 @@ if (document.getElementById('tableBody')) {
     filterRows();
   });
 
+  const resetBtn = document.getElementById('resetFilters');
+  if (resetBtn) {
+    resetBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      activeLetter = null;
+      activeTags.clear();
+      document.querySelectorAll('#alphaBar button.active').forEach(b => b.classList.remove('active'));
+      tagChips.forEach(c => c.classList.remove('active'));
+      filterRows();
+    });
+  }
+
   const randomBtn = document.getElementById('randomBtn');
   if (randomBtn) {
     randomBtn.addEventListener('click', () => {

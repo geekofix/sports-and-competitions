@@ -407,6 +407,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     <span id="resultCount"></span>
     <span class="badge"><strong id="visibleCount">{total}</strong> of {total} entries</span>
     <button id="randomBtn" class="btn" type="button" title="Open a random sports or competition page">&#127922; Random sport</button>
+    <button id="resetFilters" class="reset-filters" type="button" title="Clear search, A–Z filter and category chips">Reset filters</button>
   </div>
   <div class="tag-bar" id="tagBar">{tag_chips}</div>
   <div class="alpha-bar" id="alphaBar"></div>
