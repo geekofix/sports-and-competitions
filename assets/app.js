@@ -87,10 +87,9 @@ if (shareBtn && shareMenu) {
   });
 }
 
-// Pair images with their "Figure:" captions and grid them (detail pages).
+// Pair images with their "Figure:" captions (detail pages).
 // Progressive enhancement: wraps <img> + following caption <p><em>Figure:
-// ...</em></p> into <figure class="img-pair">, then consecutive figures into
-// a grid so multi-photo pages sit side by side. Figures go straight into the
+// ...</em></p> into <figure class="img-pair">. Figures go straight into the
 // DOM at the image's original position; the whole enhancement is guarded so
 // it can never take down other features.
 try {
@@ -120,24 +119,6 @@ try {
       pendingImg = null;
       pendingP = null;
     });
-    let i = 0;
-    while (i < figures.length) {
-      const group = [figures[i]];
-      let next = figures[i].nextElementSibling;
-      while (next && next.tagName === 'FIGURE' && next.classList.contains('img-pair')) {
-        group.push(next);
-        next = next.nextElementSibling;
-      }
-      if (group.length > 1) {
-        const grid = document.createElement('div');
-        grid.className = 'img-grid';
-        group[0].parentNode.insertBefore(grid, group[0]);
-        group.forEach(f => grid.appendChild(f));
-        i += group.length;
-      } else {
-        i += 1;
-      }
-    }
   });
 } catch (e) { /* enhancement only */ }
 
