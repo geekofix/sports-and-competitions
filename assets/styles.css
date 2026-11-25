@@ -461,10 +461,11 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 
 .img-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; margin: 12px 0; }
 .img-grid .img-pair { margin: 0; }
+.img-grid > *, .img-pair { min-width: 0; max-width: 100%; }
 .img-pair { margin: 12px 0; }
-.img-pair img { margin: 0 0 6px; width: 100%; }
+.img-pair img { margin: 0 0 6px; width: 100%; max-width: 100%; height: auto; }
 .img-pair em { display: block; font-size: 13px; color: var(--muted); line-height: 1.5; }
-@media (max-width: 560px) { .img-grid { grid-template-columns: 1fr; } }
+@media (max-width: 560px) { .img-grid { grid-template-columns: minmax(0, 1fr); } }
 
 #sources ul { list-style: none; margin-left: 0; }
 #sources li { padding-left: 1.4em; text-indent: -1.4em; }
@@ -481,9 +482,40 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 .site-footer a:hover { color: var(--accent); }
 
 @media (max-width: 640px) {
+  html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
   body { font-size: 16px; }
+  .site-header { padding: 20px 0; }
   .brand { font-size: 25px; }
-  .page h1 { font-size: 29px; }
+  .controls { gap: 8px; }
+  .controls .badge { font-size: 12px; padding: 4px 10px; }
+  #searchInput { padding: 9px 12px; font-size: 15px; }
+
+  .table-wrap { border-radius: 10px; }
+  table { border-collapse: separate; }
+  thead th { font-size: 10.5px; padding: 8px 8px; }
+  td { padding: 8px; font-size: 13.5px; }
+  td.num { width: 26px; font-size: 11px; }
+  td.sport-name { white-space: normal; font-size: 14.5px; }
+  td.sport-name .name-text { overflow-wrap: anywhere; }
+  td.desc { font-size: 12.5px; line-height: 1.45; }
+  td.yt { width: 40px; }
+  td.yt a { width: 28px; height: 24px; font-size: 10px; }
+
+  .page { padding: 24px 12px 40px; }
+  .page h1 { font-size: 24px; line-height: 1.2; letter-spacing: normal; overflow-wrap: anywhere; }
+  .page section { padding: 16px 14px; border-radius: 10px; }
+  .page section h2 { letter-spacing: 0.04em; }
+  .page section p { text-align: left; }
+
+  .header-actions { width: 100%; }
+  .tag-bar { gap: 5px; }
+  .tag-chip { font-size: 12px; padding: 4px 10px; }
+  .alpha-bar { gap: 3px; }
+  .alpha-bar button { padding: 5px 8px; font-size: 13px; }
+  .toc { gap: 6px; }
+  .toc a { font-size: 12.5px; padding: 5px 10px; border-left-width: 4px; }
+  .share-menu { min-width: 150px; }
+  .footer-row { font-size: 13px; }
 }
 
 h1, h2, h3, .brand {
