@@ -1,9 +1,50 @@
 ## Basic Information
 
+Para alpine skiing is alpine skiing for athletes with a physical impairment or visual impairment at the Paralympic Winter Games, governed by the International Paralympic Committee (IPC) with the FIS course rules; it has been on the Paralympic programme since the first Winter Paralympics at Örnsköldsvik, Sweden, in 1976 — originally just slalom and giant slalom for amputees and visually impaired athletes (International Paralympic Committee, n.d.-b; Wikipedia, n.d.-a). The Milano Cortina 2026 Paralympics (6–15 March 2026, 79 medal events in six sports, 611 athletes from 55 nations, the 50th anniversary of Örnsköldsvik) staged 30 para alpine medal events — five disciplines (downhill, super-G, giant slalom, slalom, super combined) for men and women in three categories: standing, sitting and visually impaired — at the Tofane Alpine Skiing Centre in Cortina d'Ampezzo, 7–15 March 2026 (International Paralympic Committee, n.d.-b; Wikipedia, n.d.-b).
+
+Among the athletes defining the 2026 Games, the women lead: Austria's Veronika Aigner (pictured), a six-time Paralympic champion, won gold in the visually impaired slalom with her guide (and sister) Elisabeth Aigner and reached the podium in all five of her races; on the men's side France's Arthur Bauchet made a celebrated comeback to win gold, Canada's Kurt Oatway took bronze in the men's sitting downhill, and Kalle Eriksson bronze in the visually impaired slalom with guide Sierra Smith (Wikipedia, n.d.-b, n.d.-c).
+
+![Veronika Aigner of Austria, six-time Paralympic champion in para alpine skiing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Veronika_Aigner_-_Tag_des_Sports_2026.JPG?width=480)
+
+*Figure: C.Stadler/Bwag. (2026, September 26). Veronika Aigner of Austria, six-time Paralympic champion in para alpine skiing [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Veronika_Aigner_-_Tag_des_Sports_2026.JPG*
+
 ## Rules
+
+Athletes compete in one of three categories: standing (two skis), sitting (a monoski — sit-ski — with two outriggers, small forearm crutches with mini-skis) and visually impaired (racing with a sighted guide who skis ahead and gives instructions via a Bluetooth headset, times adjusted by a factored-time system) (International Paralympic Committee, n.d.-b). Within the categories, sport classes group athletes by the impact of their impairment — from 2026 the new visually impaired alpine classes AS1–AS4 replaced the former B1–B3 classes (Wikipedia, n.d.-b).
+
+The five disciplines follow the FIS alpine rules — downhill and super-G on steep speed courses, giant slalom and slalom on technical courses, and the super combined as one speed run plus one slalom run; standing skiers reach speeds above 125 km/h, sit-skiers up to 115 km/h and guided visually impaired skiers around 100 km/h; helmets are mandatory and equipment must meet FIS safety standards; men and women compete in separate events in each class (International Paralympic Committee, n.d.-b; FIS, n.d.).
 
 ## History
 
+Para alpine skiing began at the first Winter Paralympics in Örnsköldsvik 1976 with slalom and giant slalom; downhill was added in Innsbruck 1984, super-G at Lillehammer 1994, and super combined at Vancouver 2010; sit-skiing became a medal sport at the Nagano 1998 Games, and the United States won its first para alpine golds in Geilo 1980 (Doug Keil and Cindy Castellano in slalom and giant slalom) (International Paralympic Committee, n.d.-b; Wikipedia, n.d.-a).
+
+Austria is the most successful nation in Paralympic alpine skiing, and the Aigner family of Salzburg embodies its dynasty — Veronika, Johannes and Barbara all medalled with guides at Beijing 2022; Italy's Giacomo Bertagnolli won two golds at PyeongChang 2018 and two more at Beijing 2022 in the visually impaired events (Wikipedia, n.d.-b, n.d.-c). The Beijing 2022 venue at Yanqing is pictured.
+
+![Alpine finishing area at the Yanqing venue during the Beijing 2022 Winter Paralympics](https://commons.wikimedia.org/wiki/Special:Redirect/file/Alpine_finishing_area_Yanqing_Mountain_1_of_3.jpg?width=560)
+
+*Figure: Kate McLoughlin. (2022, March 7). Alpine finishing area at the Yanqing venue during the Beijing 2022 Winter Paralympics [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Alpine_finishing_area_Yanqing_Mountain_1_of_3.jpg*
+
 ## Sources
 
+- FIS. (n.d.). *FIS — alpine skiing discipline: courses, gates and equipment rules also used in para alpine*. Retrieved November 25, 2026, from https://www.fis-ski.com/discipline/alpine-skiing
+- International Paralympic Committee. (n.d.-a). *International Paralympic Committee — Paralympic Games, classification and results*. Retrieved November 25, 2026, from https://www.paralympic.org/
+- International Paralympic Committee. (n.d.-b). *Milano Cortina 2026 — everything you need to know about Para alpine skiing (IPC feature)*. Retrieved November 25, 2026, from https://www.paralympic.org/feature/milano-cortina-2026-introduction-para-alpine-skiing
+- International Paralympic Committee. (n.d.-c). *Paris 2024 Paralympic Games — cycling results archive*. Retrieved November 25, 2026, from https://www.paralympic.org/paris-2024-paralympic-games/results/cycling
+- Olympics. (n.d.). *Para alpine skiing results — Milano Cortina 2026 Paralympic Winter Games*. Retrieved November 25, 2026, from https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/alpine-skiing
+- Wikipedia. (n.d.-a). *2026 Winter Paralympics*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/2026_Winter_Paralympics
+- Wikipedia. (n.d.-b). *Alpine skiing at the Winter Paralympics*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Alpine_skiing_at_the_Winter_Paralympics
+- Wikipedia. (n.d.-c). *Veronika Aigner*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Veronika_Aigner
+
+### Figure Index
+
+- C.Stadler/Bwag. (2026, September 26). *Veronika Aigner of Austria, six-time Paralympic champion in para alpine skiing* [Photograph]. Wikimedia Commons. Retrieved November 25, 2026, from https://commons.wikimedia.org/wiki/File:Veronika_Aigner_-_Tag_des_Sports_2026.JPG (CC BY 4.0)
+- Kate McLoughlin. (2022, March 7). *Alpine finishing area at the Yanqing venue during the Beijing 2022 Winter Paralympics* [Photograph]. Wikimedia Commons. Retrieved November 25, 2026, from https://commons.wikimedia.org/wiki/File:Alpine_finishing_area_Yanqing_Mountain_1_of_3.jpg (CC BY-SA 3.0)
+
 ## Important Links
+
+- [International Paralympic Committee (IPC)](https://www.paralympic.org/) — Paralympic Games, classification, results
+- [IPC — Milano Cortina 2026: everything you need to know about Para alpine skiing](https://www.paralympic.org/feature/milano-cortina-2026-introduction-para-alpine-skiing) — disciplines, categories, classes
+- [Olympics — para alpine skiing results, Milano Cortina 2026 Paralympics](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/alpine-skiing) — official results
+- [FIS — Alpine skiing discipline](https://www.fis-ski.com/discipline/alpine-skiing) — course and equipment rules
+- [Skiing](skiing.html) and [Alpine skiing downhill](alpine-skiing-downhill.html) on this site — the able-bodied counterparts
+- [Para cross-country skiing](para-cross-country-skiing.html), [Para biathlon](para-biathlon.html) and [Para snowboard](para-snowboard.html) on this site — the other Paralympic winter snow sports
