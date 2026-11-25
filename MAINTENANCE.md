@@ -7,6 +7,25 @@ in working sessions and what is still open.
 
 Last updated: 2026-11-25 (site features as of commit `e958b31` + lightbox; content: 798/798 deepened, Pages build green).
 
+## Project intent — where suggestions come from
+
+The mission behind this collection: **celebrate the whole spectrum of human
+competition** — global professionalism and local ritual, modern leagues and
+ancient traditions — because a complete picture of world sport only emerges
+when it shows what people actually play, everywhere. Unknown, traditional and
+culturally rooted sports and competitions get **the same care and structure**
+(often better pictures, deeper rule sections and more loving sources) as the
+famous ones, and to keep everything **open**: the data, the content and the
+code.
+
+The site is deliberately a place of **discovery**. Suggestions are always
+welcome — they should extend this mission: make the obscure findable (search,
+tags, Random button, future related-entries/favorites work), make the famous
+less overwhelming in the mix, and never let an entry slide into cruelty or
+cheapness (see the ethics rules in `README.md`; flag anything borderline
+instead of changing it unasked). When you work a session, judge ideas against
+this intent, not only against technical niceness.
+
 ## Keep this file current — binding for every session
 
 **Every session, regardless of which model runs it, MUST update this file as
