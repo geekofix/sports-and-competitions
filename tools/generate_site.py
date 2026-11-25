@@ -189,7 +189,8 @@ def content_image_titles():
 
 
 def share_menu(canonical, name):
-    text = urllib.parse.quote(f"{name} · {SITE_TITLE}")
+    label = name if name == SITE_TITLE else f"{name} · {SITE_TITLE}"
+    text = urllib.parse.quote(label)
     url = urllib.parse.quote(canonical)
     targets = [
         ("Mastodon", f"https://toot.kytta.dev/?text={text}%20{url}", "Share via Mastodon (choose your instance)"),
@@ -435,7 +436,10 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
         <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; {total} entries &middot; alphabetical order</p>
         <p class="stats-line">{cats} categories &middot; {photos} photos &middot; last content update {updated}</p>
       </div>
-      {theme_button}
+      <div class="header-actions">
+{index_share_menu}
+        {theme_button}
+      </div>
     </div>
   </div>
 </header>
@@ -599,6 +603,7 @@ def main():
         f' title="Show all {TAG_LABELS[t]} entries">{esc(TAG_LABELS[t])} ({tag_counts[t]})</button>'
         for t in TAG_LABELS if t in tag_counts
     )
+    index_share = share_menu(SITE_URL, SITE_TITLE)
     index_og = OG_FACEBOOK.format(
         og_type="website",
         site=SITE_TITLE,
@@ -627,6 +632,7 @@ def main():
         theme_button=THEME_BUTTON,
         fonts=FONTS_HEAD,
         favicon=index_favicon,
+        index_share_menu=index_share,
         canonical=SITE_URL,
         og_tags=index_og,
         cats=len(tag_counts),

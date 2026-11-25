@@ -36,7 +36,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 
 - A searchable, filterable index of all entries (live search + category tag chips + A–Z quick filter + ▶ YouTube button per entry + 🎲 Random sport button).
 - A **sticky section navigation on every detail page** that pins while you scroll — rendered in place, unpinned, in full-page screenshots and print so long captures stay clean.
-- A **Share menu** on every detail page with Mastodon and Bluesky first, then X, WhatsApp, Signal, Telegram, Facebook, LinkedIn and email, plus copy-link.
+- A **Share menu** on the index and every detail page with Mastodon and Bluesky first, then X, WhatsApp, Signal, Telegram, Facebook, LinkedIn and email, plus copy-link.
 - **In-page search** on every detail page: highlights matches in the article, with match counter and next/previous navigation.
 - Light and dark theme (toggle in the header) with large, high-contrast, readable type and a distinctive display typeface (Bricolage Grotesque) for headings.
 - One dedicated page per sport or competition. Every page has exactly the same structure:
