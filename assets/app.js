@@ -38,6 +38,22 @@ const onScroll = () => {
 addEventListener('scroll', onScroll, { passive: true });
 onScroll();
 
+// Copy section anchor links (detail pages)
+document.querySelectorAll('.copy-anchor').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const url = location.origin + location.pathname + btn.dataset.anchor;
+    if (!navigator.clipboard) return;
+    navigator.clipboard.writeText(url).then(() => {
+      btn.classList.add('copied');
+      btn.textContent = '\u2713';
+      setTimeout(() => {
+        btn.classList.remove('copied');
+        btn.textContent = '\u{1F517}';
+      }, 1500);
+    }).catch(() => {});
+  });
+});
+
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');
 if (themeBtn) {

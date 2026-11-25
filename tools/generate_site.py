@@ -334,23 +334,23 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <a href="#important-links">Important Links</a>
   </nav>
   <section id="basic-information">
-    <h2>Basic Information</h2>
+    <h2>Basic Information <button type="button" class="copy-anchor" data-anchor="#basic-information" aria-label="Copy link to the Basic Information section">&#128279;</button></h2>
 {basic}
   </section>
   <section id="rules">
-    <h2>Rules</h2>
+    <h2>Rules <button type="button" class="copy-anchor" data-anchor="#rules" aria-label="Copy link to the Rules section">&#128279;</button></h2>
 {rules}
   </section>
   <section id="history">
-    <h2>History</h2>
+    <h2>History <button type="button" class="copy-anchor" data-anchor="#history" aria-label="Copy link to the History section">&#128279;</button></h2>
 {history}
   </section>
   <section id="sources">
-    <h2>Sources</h2>
+    <h2>Sources <button type="button" class="copy-anchor" data-anchor="#sources" aria-label="Copy link to the Sources section">&#128279;</button></h2>
 {sources}
   </section>
   <section id="important-links">
-    <h2>Important Links</h2>
+    <h2>Important Links <button type="button" class="copy-anchor" data-anchor="#important-links" aria-label="Copy link to the Important Links section">&#128279;</button></h2>
 {links}
   </section>
 </main>

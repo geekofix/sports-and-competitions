@@ -347,6 +347,24 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
   border-left: 6px solid var(--accent);
 }
 .page { counter-reset: h2section; }
+.copy-anchor {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 2px;
+  font-size: 12px;
+  text-transform: none;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: var(--text);
+  opacity: 0;
+  transition: opacity 0.15s, color 0.15s;
+}
+.page section h2:hover .copy-anchor,
+.copy-anchor:focus-visible { opacity: 0.45; }
+.copy-anchor:hover { opacity: 1; }
+.copy-anchor.copied { color: var(--c-rules); opacity: 1; }
 .page section h2::before {
   counter-increment: h2section;
   content: counter(h2section);
@@ -413,7 +431,8 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
   .site-footer,
   .skip-link,
   .progress-bar,
-  .to-top { display: none !important; }
+  .to-top,
+  .copy-anchor { display: none !important; }
   body { background: #fff; color: #000; font-size: 12pt; }
   .page section {
     background: #fff;
