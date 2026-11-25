@@ -123,6 +123,44 @@ a.brand:hover { color: var(--accent); }
 }
 .btn:hover { border-color: var(--accent); color: var(--accent); }
 
+.share-wrap { position: relative; display: inline-block; }
+
+.share-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  min-width: 170px;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  z-index: 60;
+}
+.share-menu a,
+.share-menu .share-copy {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+  border: none;
+  background: none;
+  color: var(--text);
+  font-size: 14px;
+  font-family: inherit;
+  text-decoration: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.share-menu a:hover,
+.share-menu .share-copy:hover { background: var(--accent-soft); color: var(--accent); }
+
+@media (max-width: 640px) {
+  .share-menu { right: auto; left: 0; }
+}
+
 .controls {
   display: flex;
   align-items: center;
@@ -449,7 +487,8 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
   .skip-link,
   .progress-bar,
   .to-top,
-  .copy-anchor { display: none !important; }
+  .copy-anchor,
+  .share-wrap { display: none !important; }
   body { background: #fff; color: #000; font-size: 12pt; }
   .page section {
     background: #fff;

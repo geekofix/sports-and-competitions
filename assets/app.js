@@ -54,6 +54,37 @@ document.querySelectorAll('.copy-anchor').forEach(btn => {
   });
 });
 
+// Share menu (detail pages)
+const shareBtn = document.getElementById('shareBtn');
+const shareMenu = document.getElementById('shareMenu');
+if (shareBtn && shareMenu) {
+  const closeShare = () => {
+    shareMenu.hidden = true;
+    shareBtn.setAttribute('aria-expanded', 'false');
+  };
+  shareBtn.addEventListener('click', () => {
+    shareMenu.hidden = !shareMenu.hidden;
+    shareBtn.setAttribute('aria-expanded', String(!shareMenu.hidden));
+  });
+  document.addEventListener('click', e => {
+    if (!shareMenu.hidden && !shareMenu.contains(e.target) && e.target !== shareBtn) closeShare();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !shareMenu.hidden) {
+      closeShare();
+      shareBtn.focus();
+    }
+  });
+  const shareCopy = shareMenu.querySelector('.share-copy');
+  shareCopy.addEventListener('click', () => {
+    if (!navigator.clipboard) return;
+    navigator.clipboard.writeText(location.href).then(() => {
+      shareCopy.textContent = 'Copied!';
+      setTimeout(() => { shareCopy.textContent = 'Copy link'; }, 1500);
+    }).catch(() => {});
+  });
+}
+
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');
 if (themeBtn) {

@@ -182,6 +182,37 @@ def content_image_titles():
     return titles
 
 
+def share_menu(canonical, name):
+    text = urllib.parse.quote(f"{name} · {SITE_TITLE}")
+    url = urllib.parse.quote(canonical)
+    targets = [
+        ("Mastodon", f"https://toot.kytta.dev/?text={text}%20{url}", "Share via Mastodon (choose your instance)"),
+        ("Bluesky", f"https://bsky.app/intent/compose?text={text}%20{url}", "Share on Bluesky"),
+        ("X (Twitter)", f"https://twitter.com/intent/tweet?url={url}&text={text}", "Share on X (Twitter)"),
+        ("WhatsApp", f"https://wa.me/?text={text}%20{url}", "Share via WhatsApp"),
+        ("Signal", f"sgnl://send?text={text}%20{url}", "Share via the Signal app (mobile)"),
+        ("Telegram", f"https://t.me/share/url?url={url}&text={text}", "Share via Telegram"),
+        ("Facebook", f"https://www.facebook.com/sharer/sharer.php?u={url}", "Share on Facebook"),
+        ("LinkedIn", f"https://www.linkedin.com/sharing/share-offsite/?url={url}", "Share on LinkedIn"),
+        ("Email", f"mailto:?subject={text}&body={url}", "Share via email"),
+    ]
+    items = "\n".join(
+        '      <li><a href="' + html.escape(href, quote=True) + '" target="_blank" '
+        'rel="noopener" title="' + esc(note) + '">' + esc(label) + '</a></li>'
+        for label, href, note in targets
+    )
+    return (
+        '<div class="share-wrap">\n'
+        '      <button id="shareBtn" class="btn" type="button" aria-haspopup="true" '
+        'aria-expanded="false" title="Share this page">&#128257; Share</button>\n'
+        '      <ul class="share-menu" id="shareMenu" hidden>\n'
+        f'{items}\n'
+        '      <li><button type="button" class="share-copy">Copy link</button></li>\n'
+        '      </ul>\n'
+        '    </div>'
+    )
+
+
 def reading_time(body):
     text = re.sub(r"<[^>]+>", " ", "\n".join(body.get(key, "") for key, _ in SECTIONS))
     return max(1, round(len(text.split()) / 200))
@@ -324,6 +355,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
       </div>
       <div class="header-actions">
         <a class="btn" href="../index.html">&larr; All sports ({total})</a>
+{share_menu}
         {theme_button}
       </div>
     </div>
@@ -540,6 +572,7 @@ def main():
             repo=REPO_URL,
             reviewed=reviewed,
             read_time=reading_time(body),
+            share_menu=share_menu(canonical, row["name"]),
         )
         (SPORTS / f"{row['slug']}.html").write_text(page, encoding="utf-8")
         written += 1
