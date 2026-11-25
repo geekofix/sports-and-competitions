@@ -35,8 +35,8 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 ## What you get
 
 - A searchable, filterable index of all entries (live search + category tag chips + A–Z quick filter + ▶ YouTube button per entry + 🎲 Random sport button).
+- A **sticky section navigation on every detail page** that pins while you scroll — rendered in place, unpinned, in full-page screenshots and print so long captures stay clean.
 - Light and dark theme (toggle in the header) with large, high-contrast, readable type.
-- A **"Last reviewed" date in the footer of every page**, generated automatically at build time from the last commit that touched the page's content file (the index footer shows the most recent review date across all entries).
 - One dedicated page per sport or competition. Every page has exactly the same structure:
   1. **Basic Information** — a short introduction to the sport or competition
   2. **Rules** — the official rules used at the biggest events (world championships, European championships, …), including notes where different rule variants exist (e.g. the Netball "Super Shot" in the Australian women's leagues)
@@ -45,6 +45,8 @@ If you believe an entry in this collection crosses these lines, or you spot an e
   5. **Important Links** — key federations and competitions (world federation first, then major championships, then national bodies), ordered by importance
 - All content in English (US), using the international name of a sport where one exists (original names such as *Pesäpallo*, *Schwingen* or *Glima* are kept where they are the established international designation).
 - A **"Last reviewed" date in the footer of every page**, generated automatically at build time from the last commit that touched the page's content file (the index footer shows the most recent review date across all entries).
+- **Open Graph / Twitter meta on every page** (title, description, preview image from the page's first Commons photo) so shared links render as rich cards, plus a site-wide favicon/logo and accessible markup (skip link, labeled theme toggle).
+- Images are embedded with verified intrinsic dimensions (cached in `data/image_sizes.csv`) to prevent layout shift.
 
 ## How the repository works
 
@@ -54,6 +56,8 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 | `data/descriptions.csv` | Curated short descriptions (slug, description) and category tags (semicolon-separated) shown on the index page |
 | `data/sports.csv` | Generated from the list and the curated descriptions — the data source for the site |
 | `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`, `## Sources`, `## Important Links`) |
+| `data/image_sizes.csv` | Cached intrinsic dimensions of all embedded Commons images, fetched via the Commons API on first build |
+| `tools/make_favicon.py` | Regenerates the raster favicon variants from the emblem in `assets/img/favicon.svg` |
 | `tools/build_data.py` | Builds `data/sports.csv` from `data/sports_list.md` + `data/descriptions.csv` and syncs the entry count in `README.md` |
 | `tools/generate_site.py` | Generates `index.html` and all `sports/*.html` pages from the CSV + content files |
 | `index.html`, `sports/`, `assets/` | The generated static website (served by GitHub Pages): pages, styles, scripts and images |

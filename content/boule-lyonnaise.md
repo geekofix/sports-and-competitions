@@ -12,9 +12,9 @@ On the women's side, women compete in all formats and championships with slightl
 
 *Figure: TwoWings. (2008, May). Tournoi de la Pentecôte [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Tournoi_de_la_Pentec%C3%B4te.jpg*
 
-![Boule lyonnaise terrain with players in Hungary](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lyonnaise,_p%C3%A1lyagoly%C3%B3ll%C3%A1ll%C3%A1s_1.jpg?width=480)
+![Boule lyonnaise terrain with players in Hungary](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lyonnaise,_p%C3%A1lyagoly%C3%B3%C3%A1ll%C3%A1s_1.jpg?width=480)
 
-*Figure: Lóth Ágnes. (2007). Lyonnaise, pályagolyólláls 1 [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Lyonnaise,_p%C3%A1lyagoly%C3%B3ll%C3%A1ll%C3%A1s_1.jpg*
+*Figure: Lóth Ágnes. (2007). Lyonnaise, pályagolyóállás 1 [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Lyonnaise,_p%C3%A1lyagoly%C3%B3%C3%A1ll%C3%A1s_1.jpg*
 
 ## Rules
 
@@ -45,7 +45,7 @@ Internationally, the Fédération Internationale de Boules was founded in 1946 a
 ### Figure Index
 
 - Agence Rol. (1932, August 13). *13-8-32, jeux de boules (lyonnaises) à Vincennes* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:13-8-32,_jeux_de_boules_%28lyonnaises%29_%C3%A0_Vincennes_-_btv1b53260806b.jpg (Public domain)
-- Lóth, Á. (2007). *Lyonnaise, pályagolyólláls 1* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Lyonnaise,_p%C3%A1lyagoly%C3%B3ll%C3%A1ll%C3%A1s_1.jpg (CC BY-SA 2.5)
+- Lóth, Á. (2007). *Lyonnaise, pályagolyóállás 1* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Lyonnaise,_p%C3%A1lyagoly%C3%B3%C3%A1ll%C3%A1s_1.jpg (CC BY-SA 2.5)
 - Renhour48. (2016, July 24). *Boule lyonnaise — Championnat de France à Arbresle* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Boule_lyonnaise_-_Championnat_de_France_%C3%A0_Arbresle.jpg (CC0 1.0)
 - TwoWings. (2008, May). *Tournoi de la Pentecôte* [Photograph]. Wikimedia Commons. Retrieved November 21, 2026, from https://commons.wikimedia.org/wiki/File:Tournoi_de_la_Pentec%C3%B4te.jpg (Public domain)
 

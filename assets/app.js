@@ -1,9 +1,22 @@
+// Section nav on detail pages: pins only after the user scrolls past it,
+// so full-page screenshots and print output render it in place, unpinned.
+const toc = document.querySelector('.toc');
+if (toc) {
+  const sentinel = document.createElement('div');
+  toc.parentNode.insertBefore(sentinel, toc);
+  new IntersectionObserver(entries => {
+    toc.classList.toggle('pin', !entries[0].isIntersecting);
+  }).observe(sentinel);
+}
+
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');
 if (themeBtn) {
   const icon = themeBtn.querySelector('.icon');
   const syncIcon = () => {
-    icon.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '\u2600\uFE0F' : '\uD83C\uDF19';
+    const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+    icon.textContent = dark ? '\u2600\uFE0F' : '\uD83C\uDF19';
+    themeBtn.setAttribute('aria-pressed', String(dark));
   };
   syncIcon();
   themeBtn.addEventListener('click', () => {

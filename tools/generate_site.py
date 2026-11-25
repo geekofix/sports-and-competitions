@@ -15,8 +15,12 @@ Usage:
 
 import csv
 import html
+import json
 import re
 import subprocess
+import urllib.parse
+import urllib.request
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,6 +29,7 @@ CONTENT = ROOT / "content"
 SPORTS = ROOT / "sports"
 
 SITE_TITLE = "Sports & Competitions Encyclopedia"
+SITE_URL = "https://geekofix.github.io/sports-and-competitions/"
 REPO_URL = "https://github.com/geekofix/sports-and-competitions"
 CC_URL = "https://creativecommons.org/licenses/by-sa/4.0/"
 VIBE_URL = "https://mistral.ai/products/vibe/code/"
@@ -50,13 +55,143 @@ THEME_SCRIPT = (
 )
 
 THEME_BUTTON = (
-    '<button id="theme-toggle" class="theme-btn" title="Toggle dark mode">'
+    '<button id="theme-toggle" class="theme-btn" title="Toggle dark mode" '
+    'aria-label="Toggle dark mode" aria-pressed="false">'
     '<span class="icon">&#127769;</span></button>'
+)
+FAVICON_BASE = (
+    '<link rel="icon" type="image/svg+xml" href="{prefix}assets/img/favicon.svg">\n'
+    '<link rel="icon" type="image/png" sizes="32x32" href="{prefix}assets/img/favicon-32x32.png">\n'
+    '<link rel="apple-touch-icon" href="{prefix}assets/img/apple-touch-icon.png">'
+)
+
+OG_FACEBOOK = (
+    '<meta property="og:type" content="{og_type}">\n'
+    '<meta property="og:site_name" content="{site}">\n'
+    '<meta property="og:title" content="{og_title}">\n'
+    '<meta property="og:description" content="{og_description}">\n'
+    '<meta property="og:url" content="{og_url}">\n'
+)
+
+OG_TWITTER = (
+    '<meta name="twitter:card" content="summary_large_image">\n'
+    '<meta name="twitter:title" content="{og_title}">\n'
+    '<meta name="twitter:description" content="{og_description}">\n'
 )
 
 
 def esc(text):
     return html.escape(str(text), quote=True)
+
+
+IMG_DIMS = {}
+IMG_DIMS_CACHE = DATA / "image_sizes.csv"
+UA_HEADER = {
+    "User-Agent": "sports-and-competitions-site-builder/1.0 "
+    "(github.com/geekofix/sports-and-competitions)"
+}
+
+
+def canonical_file_title(url):
+    if "Special:Redirect/file/" not in url:
+        return None
+    name = html.unescape(url.split("Special:Redirect/file/")[1].split("?")[0])
+    name = urllib.parse.unquote(name)
+    if "%28" in name or "%29" in name:
+        name = urllib.parse.unquote(name)
+    return "File:" + name.replace("_", " ")
+
+
+def img_dims_attrs(url):
+    title = canonical_file_title(url)
+    if not title:
+        return ""
+    qs = urllib.parse.parse_qs(urllib.parse.urlparse(html.unescape(url)).query)
+    try:
+        disp_w = int(qs.get("width", ["320"])[0])
+    except ValueError:
+        disp_w = 320
+    size = IMG_DIMS.get(title)
+    if not size:
+        return f' width="{disp_w}"'
+    ow, oh = size
+    disp_h = max(1, round(disp_w * oh / ow))
+    return f' width="{disp_w}" height="{disp_h}"'
+
+
+def load_img_dims():
+    if not IMG_DIMS_CACHE.exists():
+        return
+    with IMG_DIMS_CACHE.open(encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            IMG_DIMS[row["file"]] = (int(row["width"]), int(row["height"]))
+
+
+def fetch_img_dims(titles):
+    missing = [t for t in titles if t not in IMG_DIMS]
+    for i in range(0, len(missing), 50):
+        batch = missing[i:i + 50]
+        query = urllib.parse.urlencode({
+            "action": "query",
+            "titles": "|".join(batch),
+            "prop": "imageinfo",
+            "iiprop": "size",
+            "format": "json",
+        })
+        data = None
+        for attempt in range(4):
+            req = urllib.request.Request(
+                f"https://commons.wikimedia.org/w/api.php?{query}",
+                headers=UA_HEADER,
+            )
+            try:
+                data = json.load(urllib.request.urlopen(req, timeout=30))
+                break
+            except (OSError, ValueError) as err:
+                if attempt == 3:
+                    print(f"Image dims: batch {i // 50 + 1} skipped ({err})")
+                else:
+                    time.sleep(20 * (attempt + 1))
+        if not data:
+            continue
+        for page in data.get("query", {}).get("pages", {}).values():
+            if not isinstance(page, dict):
+                continue
+            info = (page.get("imageinfo") or [None])[0]
+            if isinstance(info, dict) and "width" in info:
+                IMG_DIMS[page["title"]] = (info["width"], info["height"])
+        time.sleep(2)
+
+
+def save_img_dims():
+    with IMG_DIMS_CACHE.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["file", "width", "height"])
+        for title in sorted(IMG_DIMS):
+            writer.writerow([title, str(IMG_DIMS[title][0]), str(IMG_DIMS[title][1])])
+
+
+def content_image_titles():
+    titles = set()
+    for path in CONTENT.glob("*.md"):
+        text = path.read_text(encoding="utf-8")
+        for m in re.finditer(r"!\[([^\]]*)\]\(([^)\s]+)\)", text):
+            title = canonical_file_title(m.group(2))
+            if title:
+                titles.add(title)
+    return titles
+
+
+def og_image_tags(first_img):
+    if not first_img:
+        return ""
+    base = first_img.group(1).split("?")[0] + "?width=640"
+    alt = re.search(r'alt="([^"]*)"', first_img.group(0)).group(1)
+    return (
+        f'<meta property="og:image" content="{base}">\n'
+        f'<meta property="og:image:alt" content="{alt}">\n'
+        f'<meta name="twitter:image" content="{base}">\n'
+    )
 
 
 def last_reviewed(slug):
@@ -78,7 +213,12 @@ def last_reviewed(slug):
 def md_inline(text):
     t = esc(text)
     t = re.sub(r"`([^`]+)`", r"<code>\1</code>", t)
-    t = re.sub(r"!\[([^\]]*)\]\(([^)\s]+)\)", r'<img src="\2" alt="\1">', t)
+    t = re.sub(
+        r"!\[([^\]]*)\]\(([^)\s]+)\)",
+        lambda m: '<img src="' + m.group(2) + '" alt="' + m.group(1) + '"'
+        + img_dims_attrs(m.group(2)) + ' loading="lazy" decoding="async">',
+        t,
+    )
     t = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", t)
     t = re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", t)
     t = re.sub(
@@ -161,9 +301,15 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <title>{title} &middot; {site}</title>
 <meta name="description" content="{title} &mdash; basic information, rules, history, sources and important links. Part of the {site}.">
 {theme_script}
+<link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png">
+<link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
+<link rel="canonical" href="{canonical}">
+{og_tags}
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap">
     <div class="header-row">
@@ -178,7 +324,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     </div>
   </div>
 </header>
-<main class="wrap page">
+<main class="wrap page" id="main">
   <h1>{title}</h1>
   <nav class="toc">
     <a href="#basic-information">Basic Information</a>
@@ -228,9 +374,13 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <title>{site}</title>
 <meta name="description" content="Open-source encyclopedia of {total} sports and competitions from around the world, each with its own page.">
 {theme_script}
+{favicon}
+<link rel="canonical" href="{canonical}">
+{og_tags}
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap">
     <div class="header-row">
@@ -242,7 +392,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
     </div>
   </div>
 </header>
-<div class="wrap">
+<div class="wrap" id="main">
   <div class="controls">
     <div class="search-wrap">
       <input type="search" id="searchInput" placeholder="Search sport or description&hellip;" autocomplete="off">
@@ -326,21 +476,53 @@ def main():
         rows = list(csv.DictReader(f))
     total = len(rows)
     SPORTS.mkdir(exist_ok=True)
+    load_img_dims()
+    before = len(IMG_DIMS)
+    all_titles = content_image_titles()
+    missing = len(all_titles - set(IMG_DIMS))
+    if missing:
+        fetch_img_dims(all_titles)
+        save_img_dims()
+        print(f"Image dimensions: fetched {len(IMG_DIMS) - before}, cache now {len(IMG_DIMS)} ({missing} were missing)")
+    else:
+        print(f"Image dimensions: cache complete ({len(IMG_DIMS)})")
 
     written = 0
+    index_favicon = FAVICON_BASE.format(prefix="")
     for i, row in enumerate(rows, 1):
         reviewed = last_reviewed(row["slug"]) or "&mdash;"
+        canonical = f"{SITE_URL}sports/{row['slug']}.html"
+        og_description = html.escape(
+            f"{row['name']} — basic information, rules, history, sources and important "
+            f"links. Part of the {SITE_TITLE}.", quote=True,
+        )
+        og_base = {
+            "og_type": "article",
+            "site": SITE_TITLE,
+            "og_title": esc(row["name"]),
+            "og_description": og_description,
+            "og_url": canonical,
+        }
         sections = load_content(row["slug"])
         body = {}
         for key, _label in SECTIONS:
             raw = sections.get(key, "")
             body[key] = md_to_html(raw) if raw else PLACEHOLDER
+        first_img = re.search(
+            r'<img src="([^"]+)"[^>]*alt="([^"]*)"',
+            "\n".join(body[key] for key, _ in SECTIONS),
+        )
+        og_tags = OG_FACEBOOK.format(**og_base) + og_image_tags(first_img) \
+            + OG_TWITTER.format(**og_base)
         page = PAGE_TEMPLATE.format(
             title=esc(row["name"]),
             site=SITE_TITLE,
             total=total,
             theme_script=THEME_SCRIPT,
             theme_button=THEME_BUTTON,
+            favicon=FAVICON_BASE.format(prefix="../"),
+            canonical=canonical,
+            og_tags=og_tags,
             basic=body["basic-information"],
             rules=body["rules"],
             history=body["history"],
@@ -366,11 +548,35 @@ def main():
         f' title="Show all {TAG_LABELS[t]} entries">{esc(TAG_LABELS[t])} ({tag_counts[t]})</button>'
         for t in TAG_LABELS if t in tag_counts
     )
+    index_og = OG_FACEBOOK.format(
+        og_type="website",
+        site=SITE_TITLE,
+        og_title=SITE_TITLE,
+        og_description=html.escape(
+            f"An open-source encyclopedia of {total} sports and competitions from "
+            "around the world, each with basic information, rules, history, sources "
+            "and important links.", quote=True,
+        ),
+        og_url=SITE_URL,
+    ) + (
+        f'<meta property="og:image" content="{SITE_URL}assets/img/apple-touch-icon.png">\n'
+        f'<meta name="twitter:image" content="{SITE_URL}assets/img/apple-touch-icon.png">\n'
+    ) + OG_TWITTER.format(
+        og_title=SITE_TITLE,
+        og_description=html.escape(
+            f"An open-source encyclopedia of {total} sports and competitions from "
+            "around the world, each with basic information, rules, history, sources "
+            "and important links.", quote=True,
+        ),
+    )
     index_html = INDEX_TEMPLATE.format(
         site=SITE_TITLE,
         total=total,
         theme_script=THEME_SCRIPT,
         theme_button=THEME_BUTTON,
+        favicon=index_favicon,
+        canonical=SITE_URL,
+        og_tags=index_og,
         rows="\n".join(build_row(i, r) for i, r in enumerate(rows, 1)),
         tag_chips=tag_chips,
         cc=CC_URL,
