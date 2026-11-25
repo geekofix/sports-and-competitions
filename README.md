@@ -38,7 +38,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 - A **sticky section navigation on every detail page** that pins while you scroll — rendered in place, unpinned, in full-page screenshots and print so long captures stay clean.
 - A **Share menu** on every detail page with Mastodon and Bluesky first, then X, WhatsApp, Signal, Telegram, Facebook, LinkedIn and email, plus copy-link.
 - **In-page search** on every detail page: highlights matches in the article, with match counter and next/previous navigation.
-- Light and dark theme (toggle in the header) with large, high-contrast, readable type.
+- Light and dark theme (toggle in the header) with large, high-contrast, readable type and a distinctive display typeface (Bricolage Grotesque) for headings.
 - One dedicated page per sport or competition. Every page has exactly the same structure:
   1. **Basic Information** — a short introduction to the sport or competition
   2. **Rules** — the official rules used at the biggest events (world championships, European championships, …), including notes where different rule variants exist (e.g. the Netball "Super Shot" in the Australian women's leagues)

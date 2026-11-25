@@ -48,6 +48,12 @@ PLACEHOLDER = (
     "rel=\"noopener\">GitHub repository</a>.</p>"
 )
 
+FONTS_HEAD = (
+    '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
+    '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
+    '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&display=swap">'
+)
+
 THEME_SCRIPT = (
     "<script>try{var t=localStorage.getItem('theme');"
     "if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}"
@@ -337,6 +343,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <title>{title} &middot; {site}</title>
 <meta name="description" content="{title} &mdash; basic information, rules, history, sources and important links. Part of the {site}.">
 {theme_script}
+{fonts}
 <link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png">
 <link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
@@ -419,6 +426,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <title>{site}</title>
 <meta name="description" content="Open-source encyclopedia of {total} sports and competitions from around the world, each with its own page.">
 {theme_script}
+{fonts}
 {favicon}
 <link rel="canonical" href="{canonical}">
 {og_tags}
@@ -567,6 +575,7 @@ def main():
             total=total,
             theme_script=THEME_SCRIPT,
             theme_button=THEME_BUTTON,
+            fonts=FONTS_HEAD,
             favicon=FAVICON_BASE.format(prefix="../"),
             canonical=canonical,
             og_tags=og_tags,
@@ -623,6 +632,7 @@ def main():
         total=total,
         theme_script=THEME_SCRIPT,
         theme_button=THEME_BUTTON,
+        fonts=FONTS_HEAD,
         favicon=index_favicon,
         canonical=SITE_URL,
         og_tags=index_og,
