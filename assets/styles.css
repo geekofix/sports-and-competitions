@@ -354,6 +354,37 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 .toc { display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0 26px; }
 
 .page-meta { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
+
+.page-search { display: flex; align-items: center; gap: 8px; margin: 0 0 16px; }
+.page-search input {
+  width: 220px;
+  max-width: 60vw;
+  padding: 7px 12px;
+  font-size: 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+}
+.page-search input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.page-search-count { color: var(--muted); font-size: 13px; min-width: 60px; }
+.page-search button {
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  font-family: inherit;
+}
+.page-search button:hover { border-color: var(--accent); color: var(--accent); }
+
+.page mark.ps-match { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3px; }
+.page mark.ps-match.current { background: var(--accent); color: #fff; }
 .toc.pin {
   position: sticky;
   top: 0;
@@ -488,7 +519,9 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
   .progress-bar,
   .to-top,
   .copy-anchor,
-  .share-wrap { display: none !important; }
+  .share-wrap,
+  .page-search { display: none !important; }
+  .page mark.ps-match { background: transparent !important; padding: 0; }
   body { background: #fff; color: #000; font-size: 12pt; }
   .page section {
     background: #fff;
