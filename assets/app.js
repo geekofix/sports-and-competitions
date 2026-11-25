@@ -180,6 +180,59 @@ if (pageSearchInput) {
   });
 }
 
+// Pair images with their "Figure:" captions and grid them (detail pages).
+// Progressive enhancement: wraps <img> + following caption <p><em>Figure:
+// ...</em></p> into <figure class="img-pair">, then consecutive figures into
+// a grid so multi-photo pages sit side by side.
+document.querySelectorAll('.page section').forEach(section => {
+  const pairs = [];
+  let pendingImg = null;
+  let pendingP = null;
+  Array.from(section.children).forEach(el => {
+    if (el.matches('p') && el.querySelectorAll('img').length === 1 && el.children.length === 1) {
+      pendingImg = el.firstElementChild;
+      pendingP = el;
+      return;
+    }
+    if (pendingImg && el.matches('p') && el.children.length === 1
+        && el.firstElementChild.tagName === 'EM' && /^Figure:/i.test(el.textContent)) {
+      const fig = document.createElement('figure');
+      fig.className = 'img-pair';
+      fig.appendChild(pendingImg);
+      fig.appendChild(el.firstElementChild);
+      pendingP.remove();
+      el.remove();
+      pairs.push(fig);
+      pendingImg = null;
+      pendingP = null;
+      return;
+    }
+    pendingImg = null;
+    pendingP = null;
+  });
+  if (!pairs.length) return;
+  let group = [];
+  const flushGroup = () => {
+    if (group.length === 1) {
+      group[0].classList.add('solo');
+      group = [];
+      return;
+    }
+    if (group.length > 1) {
+      const grid = document.createElement('div');
+      grid.className = 'img-grid';
+      group[0].parentNode.insertBefore(grid, group[0]);
+      group.forEach(f => grid.appendChild(f));
+      group = [];
+    }
+  };
+  Array.from(section.children).forEach(el => {
+    if (el.classList && el.classList.contains('img-pair')) group.push(el);
+    else flushGroup();
+  });
+  flushGroup();
+});
+
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');
 if (themeBtn) {
