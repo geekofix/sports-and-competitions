@@ -1,13 +1,15 @@
 // Section nav on detail pages: pins only after the user scrolls past it,
 // so full-page screenshots and print output render it in place, unpinned.
-const toc = document.querySelector('.toc');
-if (toc) {
-  const sentinel = document.createElement('div');
-  toc.parentNode.insertBefore(sentinel, toc);
-  new IntersectionObserver(entries => {
-    toc.classList.toggle('pin', !entries[0].isIntersecting);
-  }).observe(sentinel);
-}
+try {
+  const toc = document.querySelector('.toc');
+  if (toc && typeof IntersectionObserver !== 'undefined') {
+    const sentinel = document.createElement('div');
+    toc.parentNode.insertBefore(sentinel, toc);
+    new IntersectionObserver(entries => {
+      toc.classList.toggle('pin', !entries[0].isIntersecting);
+    }).observe(sentinel);
+  }
+} catch (e) { /* enhancement only */ }
 
 // Reading progress bar + back-to-top button (all pages); both are
 // invisible at scroll position 0, so full-page screenshots stay clean.
@@ -183,55 +185,56 @@ if (pageSearchInput) {
 // Pair images with their "Figure:" captions and grid them (detail pages).
 // Progressive enhancement: wraps <img> + following caption <p><em>Figure:
 // ...</em></p> into <figure class="img-pair">, then consecutive figures into
-// a grid so multi-photo pages sit side by side.
-document.querySelectorAll('.page section').forEach(section => {
-  const pairs = [];
-  let pendingImg = null;
-  let pendingP = null;
-  Array.from(section.children).forEach(el => {
-    if (el.matches('p') && el.querySelectorAll('img').length === 1 && el.children.length === 1) {
-      pendingImg = el.firstElementChild;
-      pendingP = el;
-      return;
-    }
-    if (pendingImg && el.matches('p') && el.children.length === 1
-        && el.firstElementChild.tagName === 'EM' && /^Figure:/i.test(el.textContent)) {
-      const fig = document.createElement('figure');
-      fig.className = 'img-pair';
-      fig.appendChild(pendingImg);
-      fig.appendChild(el.firstElementChild);
-      pendingP.remove();
-      el.remove();
-      pairs.push(fig);
+// a grid so multi-photo pages sit side by side. Figures go straight into the
+// DOM at the image's original position; the whole enhancement is guarded so
+// it can never take down other features.
+try {
+  document.querySelectorAll('.page section').forEach(section => {
+    const figures = [];
+    let pendingImg = null;
+    let pendingP = null;
+    Array.from(section.children).forEach(el => {
+      if (el.tagName === 'P' && el.children.length === 1 && el.children[0].tagName === 'IMG') {
+        pendingImg = el.children[0];
+        pendingP = el;
+        return;
+      }
+      if (pendingImg && el.tagName === 'P' && el.children.length === 1
+          && el.children[0].tagName === 'EM' && /^Figure:/i.test(el.textContent)) {
+        const fig = document.createElement('figure');
+        fig.className = 'img-pair';
+        fig.appendChild(pendingImg);
+        fig.appendChild(el.children[0]);
+        pendingP.replaceWith(fig);
+        el.remove();
+        figures.push(fig);
+        pendingImg = null;
+        pendingP = null;
+        return;
+      }
       pendingImg = null;
       pendingP = null;
-      return;
+    });
+    let i = 0;
+    while (i < figures.length) {
+      const group = [figures[i]];
+      let next = figures[i].nextElementSibling;
+      while (next && next.tagName === 'FIGURE' && next.classList.contains('img-pair')) {
+        group.push(next);
+        next = next.nextElementSibling;
+      }
+      if (group.length > 1) {
+        const grid = document.createElement('div');
+        grid.className = 'img-grid';
+        group[0].parentNode.insertBefore(grid, group[0]);
+        group.forEach(f => grid.appendChild(f));
+        i += group.length;
+      } else {
+        i += 1;
+      }
     }
-    pendingImg = null;
-    pendingP = null;
   });
-  if (!pairs.length) return;
-  let group = [];
-  const flushGroup = () => {
-    if (group.length === 1) {
-      group[0].classList.add('solo');
-      group = [];
-      return;
-    }
-    if (group.length > 1) {
-      const grid = document.createElement('div');
-      grid.className = 'img-grid';
-      group[0].parentNode.insertBefore(grid, group[0]);
-      group.forEach(f => grid.appendChild(f));
-      group = [];
-    }
-  };
-  Array.from(section.children).forEach(el => {
-    if (el.classList && el.classList.contains('img-pair')) group.push(el);
-    else flushGroup();
-  });
-  flushGroup();
-});
+} catch (e) { /* enhancement only */ }
 
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');

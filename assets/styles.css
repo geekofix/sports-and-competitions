@@ -493,7 +493,6 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 .img-pair { margin: 12px 0; }
 .img-pair img { margin: 0 0 6px; width: 100%; }
 .img-pair em { display: block; font-size: 13px; color: var(--muted); line-height: 1.5; }
-.img-pair.solo { margin: 12px 0; }
 @media (max-width: 560px) { .img-grid { grid-template-columns: 1fr; } }
 
 #sources ul { list-style: none; margin-left: 0; }
