@@ -1,9 +1,51 @@
 ## Basic Information
 
+Artistic gymnastics is the Olympic discipline in which gymnasts perform short, choreographed routines on apparatus — men on six (floor exercise, pommel horse, still rings, vault, parallel bars, horizontal bar), women on four (vault, uneven bars, balance beam, floor exercise) — combining strength, flexibility, balance and artistry; it is governed worldwide by the Fédération Internationale de Gymnastique, founded in 1881 in Liège and the oldest international sports federation (Fédération Internationale de Gymnastique, n.d.-d; Wikipedia, n.d.-b). At the 54th World Artistic Gymnastics Championships in Rotterdam Ahoy, 17–25 October 2026, with 452 gymnasts from 82 nations, Japan won the men's team title for the third consecutive time (251.928) and China the women's team title (165.674), 0.233 ahead of the United States — the first non-USA women's team win in 16 years — and the event served as the first qualifier for the Los Angeles 2028 Olympic team competition (Fédération Internationale de Gymnastique, n.d.-b; Wikipedia, n.d.-a).
+
+Among the athletes defining the 2026 season, the women lead: Skye Blakely of the United States (pictured), the 2026 world all-around champion with 55.733, followed by Paris 2024 podium medallists Simone Biles (USA, team and all-around gold, vault gold), Rebeca Andrade (BRA, silver all-around, floor gold) and Sunisa Lee (USA), Paris 2024 uneven bars champion Kaylia Nemour of Algeria — the first African Olympic gymnastics gold medallist — and reigning world all-around champion Angelina Melnikova (Wikipedia, n.d.-a, n.d.-c; Olympics, n.d.). On the men's side, Paris 2024 all-around champion Shinnosuke Oka and Tokyo 2020 champion Daiki Hashimoto lead the 2026 world champion team of Japan, alongside Paris 2024 floor and vault champion Carlos Yulo of the Philippines — his nation's first Olympic gymnastics golds — pommel horse champion Rhys McClenaghan of Ireland and parallel bars champion Zou Jingyuan of China (Wikipedia, n.d.-a; Olympics, n.d.).
+
+![Skye Blakely of the United States celebrating her all-around gold medal at the 2026 World Artistic Gymnastics Championships in Rotterdam](https://commons.wikimedia.org/wiki/Special:Redirect/file/Skye_Blakely_wins_Gold_All-around_at_2026_Worlds.jpg?width=520)
+
+*Figure: Ocoudis. (2026, October 22). Skye Blakely of the United States celebrating her all-around gold medal at the 2026 World Artistic Gymnastics Championships in Rotterdam [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Skye_Blakely_wins_Gold_All-around_at_2026_Worlds.jpg*
+
 ## Rules
+
+The official rulebook is the FIG Code of Points, renewed each Olympic cycle — the 2025–2028 edition governs the 2026 season; each routine is scored by a D-panel (difficulty: value of the eight best counting elements plus connection bonuses) and an E-panel (execution, starting from 10.0 with deductions of 0.1 to 1.0 per fault), plus neutral deductions for time, behaviour and out-of-bounds; from 1 January 2026 the dismount is credited first and a stuck-landing bonus applies (Fédération Internationale de Gymnastique, n.d.-a). Apparatus dimensions are fixed by the FIG Apparatus Norms (edition 2026): floor 12 × 12 m with safety border, balance beam 5 m × 10 cm at 1.25 m high, uneven bars at 2.50 m (high) and 1.70 m (low), vaulting table 1.25 m high for women and 1.35 m for men (1.60 m long), pommel horse 1.15 m high and 1.60 m long, rings hanging about 2.8 m above the floor, parallel bars about 2 m high with 3.50 m rails, horizontal bar about 2.8 m high (Fédération Internationale de Gymnastique, n.d.-c).
+
+Competition runs from qualification to team final (5–4–4 format: five gymnasts per team, four scores counting per apparatus), all-around final and apparatus finals (top eight), with Olympic team size five; routines are time-limited on floor (max 70 s men / 90 s women, women's floor with music) and beam (max 90 s), while pommel horse, rings, bars have no time limit but a fall costs 0.5 plus further deductions; a gymnast may continue within 30 s after a fall except on vault (Fédération Internationale de Gymnastique, n.d.-e; Fédération Internationale de Gymnastique, n.d.-a). Men and women compete in separate competitions on their own apparatus sets; senior gymnasts must be 16 in the Olympic year and a junior (under-18) category exists, and the same rules apply at the World Championships, World Cup series and continental championships (Fédération Internationale de Gymnastique, n.d.-e).
 
 ## History
 
+Modern artistic gymnastics was codified in 19th-century Europe — Friedrich Ludwig Jahn's *Turnen* in Germany and Swedish gymnastics shaped the apparatus — and the FIG was founded in 1881 in Liège by Nicolas Cupérus with three nations, renamed FIG in 1921; men's artistic gymnastics has been on the Olympic programme since Athens 1896, women since Amsterdam 1928, and the first World Championships were held in Antwerp in 1903 for men, women added in Budapest 1934 (Wikipedia, n.d.-b, n.d.-c). Among the icons are Nadia Comăneci of Romania, pictured, who scored the first perfect 10.0 in Olympic history at Montreal 1976 and won five Olympic golds, Kohei Uchimura of Japan, all-around champion at London 2012 and Rio 2016, and Sawao Kato, with eight Olympic golds across 1968–1976 (Wikipedia, n.d.-b).
+
+![Nadia Comăneci of Romania, three-time Olympic champion and the first gymnast to score a perfect 10.0 at the Olympics (Montreal 1976)](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nadia_Comaneci_tripla_campioana_olimpica.jpg?width=420)
+
+*Figure: I.P. „Filaret”. (1970). Nadia Comăneci of Romania, three-time Olympic champion and the first gymnast to score a perfect 10.0 at the Olympics (Montreal 1976) [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Nadia_Comaneci_tripla_campioana_olimpica.jpg*
+
 ## Sources
 
+- Fédération Internationale de Gymnastique. (n.d.-a). *Code of Points 2025–2028 (MAG and WAG) — D-score + E-score, element tables, judging*. Retrieved November 25, 2026, from https://www.gymnastics.sport/publicdir/rules/files/en_1.1%20-%20MAG%20Code%20of%20Points%202025-2028.pdf
+- Fédération Internationale de Gymnastique. (n.d.-b). *Competition calendar and results — World Championships, World Cup series*. Retrieved November 25, 2026, from https://www.gymnastics.sport/
+- Fédération Internationale de Gymnastique. (n.d.-c). *FIG Apparatus Norms, edition 2026 — official dimensions of all apparatus*. Retrieved November 25, 2026, from https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms%20I-III.pdf
+- Fédération Internationale de Gymnastique. (n.d.-d). *International Gymnastics Federation (FIG) — founded 1881 in Liège, disciplines, federation*. Retrieved November 25, 2026, from https://www.gymnastics.sport/
+- Fédération Internationale de Gymnastique. (n.d.-e). *Technical Regulations 2025 — competition format, qualification, age categories, conduct*. Retrieved November 25, 2026, from https://www.gymnastics.sport/publicdir/rules/files/en_1.1%20-%20Technical%20Regulations%202025.pdf
+- Olympics. (n.d.). *Artistic gymnastics at the Olympic Games — programme, results and history*. Retrieved November 25, 2026, from https://www.olympics.com/en/sports/artistic-gymnastics/
+- Wikipedia. (n.d.-a). *2026 World Artistic Gymnastics Championships*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/2026_World_Artistic_Gymnastics_Championships
+- Wikipedia. (n.d.-b). *Artistic gymnastics*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Artistic_gymnastics
+- Wikipedia. (n.d.-c). *Gymnastics at the Summer Olympics*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Gymnastics_at_the_Summer_Olympics
+
+### Figure Index
+
+- Ocoudis. (2026, October 22). *Skye Blakely of the United States celebrating her all-around gold medal at the 2026 World Artistic Gymnastics Championships in Rotterdam* [Photograph]. Wikimedia Commons. Retrieved November 25, 2026, from https://commons.wikimedia.org/wiki/File:Skye_Blakely_wins_Gold_All-around_at_2026_Worlds.jpg (CC BY 4.0)
+- I.P. „Filaret”. (1970). *Nadia Comăneci of Romania, three-time Olympic champion and the first gymnast to score a perfect 10.0 at the Olympics (Montreal 1976)* [Photograph]. Wikimedia Commons. Retrieved November 25, 2026, from https://commons.wikimedia.org/wiki/File:Nadia_Comaneci_tripla_campioana_olimpica.jpg (Public domain)
+
 ## Important Links
+
+- [FIG — Fédération Internationale de Gymnastique](https://www.gymnastics.sport/) — world governing body (founded 1881); Code of Points, apparatus norms, calendar, results
+- [FIG Code of Points 2025–2028 (PDF)](https://www.gymnastics.sport/publicdir/rules/files/en_1.1%20-%20MAG%20Code%20of%20Points%202025-2028.pdf) — official scoring rules
+- [FIG Apparatus Norms 2026 (PDF)](https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms%20I-III.pdf) — official apparatus dimensions
+- [World Artistic Gymnastics Championships](https://www.gymnastics.sport/) — 54th edition Rotterdam 2026; first LA 2028 team qualifier
+- [Olympics — artistic gymnastics](https://www.olympics.com/en/sports/artistic-gymnastics/) — Olympic programme and results
+- [Gymnastics Europe](https://www.gymnastics.sport/) — continental federation (European Championships)
+- [Floor exercise](gymnastics-floor-exercise.html), [Pommel horse](gymnastics-pommel-horse.html), [Still rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel bars](gymnastics-parallel-bars.html), [Horizontal bar](gymnastics-horizontal-bar.html), [Uneven bars](gymnastics-uneven-bars.html), [Balance beam](gymnastics-balance-beam.html) on this site — the eight apparatus events
+- [Gymnastics](gymnastics.html), [Rhythmic gymnastics](rhythmic-gymnastics.html), [Trampoline gymnastics](trampoline-gymnastics.html), [Aerobic gymnastics](aerobic-gymnastics.html), [Acrobatic gymnastics](acrobatic-gymnastics.html), [Tumbling](tumbling.html) on this site — the other FIG disciplines
