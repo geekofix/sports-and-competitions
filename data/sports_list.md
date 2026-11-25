@@ -63,6 +63,7 @@
 | Artistic Gymnastics                        | https://www.youtube.com/results?search_query=artistic+gymnastics                        |
 | Artistic Swimming                          | https://www.youtube.com/results?search_query=artistic+swimming                          |
 | Athletics                                  | https://www.youtube.com/results?search_query=athletics                                  |
+| Audaryspak                                 | https://www.youtube.com/results?search_query=audaryspak                                 |
 | Australian Rules Football                  | https://www.youtube.com/results?search_query=australian+rules+football                  |
 | Autocross                                  | https://www.youtube.com/results?search_query=autocross                                  |
 | Axe Throwing                               | https://www.youtube.com/results?search_query=axe+throwing                               |
@@ -74,6 +75,7 @@
 | Backhold Wrestling                         | https://www.youtube.com/results?search_query=backhold+wrestling                         |
 | Backstroke Swimming                        | https://www.youtube.com/results?search_query=backstroke+swimming                        |
 | Badminton                                  | https://www.youtube.com/results?search_query=badminton                                  |
+| Baiga                                      | https://www.youtube.com/results?search_query=baiga                                      |
 | Baja 1000                                  | https://www.youtube.com/results?search_query=baja+1000                                  |
 | Ball Hockey                                | https://www.youtube.com/results?search_query=ball+hockey                                |
 | Balle Pelote                               | https://www.youtube.com/results?search_query=balle+pelote                               |

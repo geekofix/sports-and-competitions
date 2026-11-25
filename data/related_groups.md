@@ -4,7 +4,7 @@ Working list for later cross-linking passes (owner request 2026-11-25): each gro
 sports/disciplines that are closely related (same family, shared history or derivation).
 When a group is worked on, add cross-references in the texts of its members (Important Links
 "... on this site" entries and in-text mentions), e.g. the boules family or the athletics
-disciplines. Slugs were validated against data/sports.csv at creation time (913 entries).
+disciplines. Slugs were validated against data/sports.csv (915 entries since 2026-11-25).
 
 Cross-cutting group: `para-sports` (its members also appear in their base-sport groups).
 
@@ -204,7 +204,7 @@ All four-wheeled and two-wheeled racing series and disciplines incl. rally, rall
 
 All horse sports incl. rodeo events and racing disciplines.
 
-`dressage`, `show-jumping`, `eventing`, `cross-country-equestrian`, `combined-driving`, `reining`, `endurance-riding`, `mounted-games`, `tent-pegging`, `working-cow-horse`, `para-equestrian-dressage`, `thoroughbred-racing`, `harness-racing`, `barrel-racing`, `rodeo`, `chariot-racing`, `camel-racing`, `reindeer-racing`, `yak-racing`, `cutting`
+`dressage`, `show-jumping`, `eventing`, `cross-country-equestrian`, `combined-driving`, `reining`, `endurance-riding`, `mounted-games`, `tent-pegging`, `working-cow-horse`, `para-equestrian-dressage`, `thoroughbred-racing`, `harness-racing`, `barrel-racing`, `rodeo`, `chariot-racing`, `camel-racing`, `reindeer-racing`, `yak-racing`, `cutting`, `baiga`, `audaryspak`
 
 ## Dog sports (`dog-sports`)
 
