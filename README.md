@@ -48,7 +48,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 - All content in English (US), using the international name of a sport where one exists (original names such as *Pesäpallo*, *Schwingen* or *Glima* are kept where they are the established international designation).
 - A **"Last reviewed" date in the footer of every page**, generated automatically at build time from the last commit that touched the page's content file (the index footer shows the most recent review date across all entries).
 - **Open Graph / Twitter meta on every page** (title, description, preview image from the page's first Commons photo) so shared links render as rich cards, plus a site-wide favicon/logo and accessible markup (skip link, labeled theme toggle).
-- Images are embedded with verified intrinsic dimensions (cached in `data/image_sizes.csv`) to prevent layout shift.
+- Images are embedded with verified intrinsic dimensions (cached in `data/image_sizes.csv`) to prevent layout shift; **clicking an image opens it enlarged as a lightbox** that fits the window height, showing the APA caption, closed by a second click or Escape.
 
 ## How the repository works
 

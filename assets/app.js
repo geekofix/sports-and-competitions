@@ -141,6 +141,49 @@ try {
   });
 } catch (e) { /* enhancement only */ }
 
+// Lightbox: click any article image to view it enlarged, fit to the window
+// height; click anywhere (or press Escape) to close and return to the same
+// scroll position.
+try {
+  const lightbox = document.createElement('div');
+  lightbox.className = 'lightbox';
+  lightbox.hidden = true;
+  lightbox.setAttribute('role', 'dialog');
+  lightbox.setAttribute('aria-label', 'Enlarged image');
+  const lbImg = document.createElement('img');
+  lbImg.alt = '';
+  const lbCap = document.createElement('p');
+  lbCap.className = 'lightbox-caption';
+  lightbox.appendChild(lbImg);
+  lightbox.appendChild(lbCap);
+  document.body.appendChild(lightbox);
+
+  const closeLightbox = () => {
+    lightbox.hidden = true;
+    lbImg.src = '';
+    document.body.classList.remove('no-scroll');
+  };
+
+  lightbox.addEventListener('click', closeLightbox);
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !lightbox.hidden) closeLightbox();
+  });
+
+  document.querySelectorAll('.page img').forEach(img => {
+    img.addEventListener('click', () => {
+      let src = img.getAttribute('src') || '';
+      if (src.includes('Special:Redirect/file/')) src = src.split('?')[0] + '?width=640';
+      lbImg.src = src;
+      const fig = img.closest('figure');
+      const cap = fig ? fig.querySelector('em') : null;
+      lbCap.textContent = cap ? cap.textContent.trim() : '';
+      lbCap.hidden = !lbCap.textContent;
+      lightbox.hidden = false;
+      document.body.classList.add('no-scroll');
+    });
+  });
+} catch (e) { /* enhancement only */ }
+
 // Theme toggle (all pages)
 const themeBtn = document.getElementById('theme-toggle');
 if (themeBtn) {
