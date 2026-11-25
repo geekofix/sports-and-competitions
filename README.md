@@ -55,6 +55,7 @@ If you believe an entry in this collection crosses these lines, or you spot an e
 | Path | Purpose |
 | --- | --- |
 | `data/sports_list.md` | Canonical list: one row per sport/competition with its YouTube search link |
+| `MAINTENANCE.md` | Project state, working conventions and open ideas — kept current by every working session (design/content tooling memory) |
 | `data/descriptions.csv` | Curated short descriptions (slug, description) and category tags (semicolon-separated) shown on the index page |
 | `data/sports.csv` | Generated from the list and the curated descriptions — the data source for the site |
 | `content/<slug>.md` | Hand-written content for a sport page (`## Basic Information`, `## Rules`, `## History`, `## Sources`, `## Important Links`) |

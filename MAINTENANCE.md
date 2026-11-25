@@ -1,0 +1,185 @@
+# MAINTENANCE — Project State & Working Conventions
+
+This file is the durable memory for non-content work (site design, tooling,
+workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
+live in those two files and stay authoritative; this file adds what happened
+in working sessions and what is still open.
+
+Last updated: 2026-11-25 (site features as of commit `e958b31` + lightbox; content: 798/798 deepened, Pages build green).
+
+## Keep this file current — binding for every session
+
+**Every session, regardless of which model runs it, MUST update this file as
+part of its task** before committing and pushing:
+
+- Implemented something? Add it to "Current feature state" and record the
+  decision (what, why, commit hash) in the "Decision history" table.
+- Removed/reverted something? Move the entry from "Current feature state" to
+  "Decision history" with the reason.
+- New idea discussed but not implemented? Add one line to "Backlog";
+  implemented backlog items get deleted from there.
+- Update the "Last updated" line at the top (date + one-clause summary).
+- Prompt templates in "Session prompt templates" are reference material for
+  the owner — sessions must NOT edit them.
+
+If a change touches content work (the owner may run a content-model session
+separately), only entries that also concern the site/tooling belong here;
+content decisions themselves are documented in the commit message of the
+content commit.
+
+## Model responsibilities (who does what)
+
+The owner runs different models in different sessions. Every session — no
+matter the model — reads the repo first and follows these conventions:
+
+| Session type | Model used by the owner | Scope |
+| --- | --- | --- |
+| Design | GLM 5.3 Flash | Site appearance/UX: `assets/`, page templates in `tools/generate_site.py` |
+| Content | Mistral Large 4 | `content/*.md`, `data/` (descriptions/tags), facts, sources, images |
+| Coding | DeepSeek V4.1 Flash | Point fixes in `tools/`, `assets/app.js`, build/QS details |
+| Architecture | GLM 5.3 | Larger structural changes; plan first, wait for approval |
+
+Handovers between session types happen through pushes to `main` plus the
+entries in this file: the next session reads the current state from the repo
+(this file, `README.md`, `CONTRIBUTING.md`) and the commit history.
+
+## Current feature state (live on the site)
+
+### Index (`index.html`)
+- Live search, A–Z quick filter, YouTube search link per entry.
+- Category tag chips: 19 tags (`data/descriptions.csv` column `tags`,
+  passed through `sports.csv`), multi-select OR, combinable with search and
+  A–Z filter; chips show per-category counts.
+- 🎲 Random sport button: jumps to a random entry; respects active filters
+  (falls back to all entries when the filter yields nothing visible).
+- "Reset filters" control: clears search, A–Z selection and chips in one click.
+- Stats line under the header: categories, photos, last content update.
+
+### Detail pages (`sports/<slug>.html`)
+- Exactly the five H2 sections (Basic Information, Rules, History, Sources,
+  Important Links) with numbered color-matched badges (CSS counters, uses the
+  section's own color via `currentColor` — no separate palette).
+- Sticky section TOC that pins only after the user scrolls past it.
+- Reading time ("≈ N min read") from the article word count (200 wpm).
+- "Last reviewed: YYYY-MM-DD" in the footer, generated from the last commit
+  that touched the content file (git log at build time; index footer shows
+  the most recent date across all entries).
+- Share menu: Mastodon (instance chooser) and Bluesky first, then X,
+  WhatsApp, Signal (mobile app link `sgnl://`), Telegram, Facebook, LinkedIn,
+  Email, plus Copy link. Server-rendered links (canonical URL + page title),
+  Escape/outside-click close, hidden in print.
+- Images: verified intrinsic dimensions (`data/image_sizes.csv` cache,
+  fetched via the Commons API with proper User-Agent + backoff/retry) →
+  width/height attributes, `loading="lazy"`, `decoding="async"`, no layout
+  shift. Each image + its "Figure:" caption paragraph is paired into a
+  `<figure class="img-pair">` at the image's original position; subtle
+  shadow. Full-width single figures (the former two-up grid was removed by
+  owner decision — see history below).
+- Lightbox: clicking an article image opens it enlarged in a dark overlay,
+  fitted to the window height (width proportional; Wikimedia sources
+  upgraded to width=640), APA caption shown below; second click or Escape
+  closes; body scroll frozen while open.
+- OG/Twitter meta per page (first Commons photo as preview image) + canonical
+  URLs; generic OG on the index.
+- Site-wide favicon: ball emblem (`assets/img/favicon.svg` + 32 px PNG +
+  180 px apple-touch PNG), regeneratable via `tools/make_favicon.py`.
+- Skip link, aria-labeled theme toggle (with `aria-pressed`), print
+  stylesheet (nav chrome hidden, black on white, no breaks inside
+  sections/images).
+
+## Design conventions (binding for site work)
+
+- **One active session at a time.** The owner works sequentially across
+  chats (design / content / coding models), never in parallel. If a push is
+  rejected: pull, rebuild (`build_data.py` + `generate_site.py`), push again.
+  Never force-push to main.
+- **Atomic, revertible commits.** Every feature/fix/decided-removal is its
+  own commit so `git revert <hash>` can undo it individually. History on
+  main is never rewritten; corrections go forward.
+- **Screenshot-safe components.** Anything scroll-positioned (progress bar,
+  back-to-top, pinned TOC) must be invisible/at rest at scroll position 0 so
+  full-page screenshots stay clean, and must be hidden in print styles.
+- **Mobile matters.** All layout work must fit 412 px CSS width (Samsung
+  A51 test device): tables wrap instead of scrolling, text is left-aligned
+  on narrow screens, images can never overflow (`min-width: 0`, `max-width`
+  guards), `text-size-adjust: 100%` prevents Firefox font boosting. Desktop
+  styles stay untouched (changes live inside media queries).
+- **Desktop look is stable.** Visual changes should not alter the established
+  desktop appearance (colors, justified text on wide screens, section card
+  design) unless the owner explicitly asks.
+
+## Decision history (what and why)
+
+| Decision | Commit | Note |
+| --- | --- | --- |
+| Random sport button | `419be31` | respects filters |
+| "Last reviewed" footer dates | `58d1227` | generated from content commits |
+| Tag chips + tags column | `be5ab0f` | 19 categories, all 798 entries tagged |
+| Sticky TOC, favicon, OG meta, a11y/perf | `9785a79` | incl. `data/image_sizes.csv` |
+| Group 1 quick wins (numbers, progress bar, back-to-top, copy anchors, reading time, stats line, reset) | `9473028`…`1d2aa40` | one commit each |
+| Group 2 (share menu, in-page search, image grid, display font) | `631cbfe`…`0875782` | one commit each |
+| Fixed image-loss regression in figure pairing | `9cbe3c4` | figures inserted in place + try/catch guards |
+| In-page search REMOVED (owner: was too much) | `614dfb6` | browser search is enough |
+| Full-width images, two-up grid REMOVED (owner prefers journalistic flow + readability) | `585cdbd` | figure pairing, shadows and lightbox kept |
+| Lightbox added | `e958b31` | fits window height, APA caption in overlay |
+
+## Backlog (discussed, not implemented — owner may pick anytime)
+
+- "Related entries" box at the end of detail pages, derived from tag overlap.
+- Category icons/emoji in the index.
+- Favorites via `localStorage` (star per entry, "show favorites" filter).
+- Lightbox keyboard operability (`tabindex` on images + Enter to open).
+- Optional: re-enable a grid only for 3+ consecutive images (full-width for 2).
+
+## Session prompt templates
+
+The repo (README, CONTRIBUTING, this file) carries the context — prompts only
+need the task, preferences and scope. Pick the short template that fits:
+
+### Content (Mistral Large 4)
+```
+Project: sports-and-competitions (main, push directly). First read README.md,
+CONTRIBUTING.md and MAINTENANCE.md — they are binding.
+Task: deepen content for <sport(s) or list positions N–M>, <specific wishes>.
+Full standard workflow: verify facts, deepen all 5 H2 sections, APA-7 sources,
+hotlinked images with captions/Figure Index, double build (798), commit
+"Expand and deepen content for <sport(s)>", push, check Pages build.
+```
+
+### Design (GLM 5.3 Flash)
+```
+Project: sports-and-competitions (main, push directly). Read README.md +
+MAINTENANCE.md first — design conventions (mobile 412px, screenshot-safe,
+isolated revertible commits) are binding.
+Task: <design change>. Ship as one isolated commit.
+```
+
+### Coding (DeepSeek V4.1 Flash)
+```
+Repo: sports-and-competitions. Files/behavior: <exact file or symptom>.
+Task: <what should change>, definition of done: node --check, double build 798,
+isolated commit, push, Pages check.
+```
+
+### Architecture (GLM 5.3)
+```
+Project context: see README.md + MAINTENANCE.md in the repo.
+Goal: <target state>. Constraints: static GitHub Pages setup, single-session
+workflow, reversible atomic steps.
+First propose a plan with the concrete file changes; wait for approval
+before editing.
+```
+
+## Build & QA quick reference
+
+```
+python3 tools/build_data.py && python3 tools/generate_site.py   # expect 798 entries
+python3 tools/build_data.py && python3 tools/generate_site.py   # double build = idempotent check
+node --check assets/app.js                                       # JS syntax gate
+git push origin main
+gh api repos/geekofix/sports-and-competitions/pages/builds/latest --jq '{status, commit}'
+```
+
+Note: `generate_site.py` reads the image-dimension cache (offline from
+`data/image_sizes.csv`) and refreshes it via the Commons API only when new
+images appear — page builds after content additions may take a moment.
