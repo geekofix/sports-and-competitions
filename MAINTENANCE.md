@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-25 (site features as of commit `e958b31` + lightbox; 915 entries: 812/915 deepened after batch 1 (14 athletics running pages), 103 skeleton entries still open; Pages build green).
+Last updated: 2026-11-25 (site features as of commit `e958b31` + lightbox; 915 entries: 827/915 deepened after batch 2 (14 athletics running + 15 hurdles/walks/jumps/throws/steeplechase pages), 88 skeleton entries still open; Pages build green).
 
 ## Project intent — where suggestions come from
 
@@ -151,7 +151,7 @@ entries in this file: the next session reads the current state from the repo
 - Favorites via `localStorage` (star per entry, "show favorites" filter).
 - Lightbox keyboard operability (`tabindex` on images + Enter to open).
 - Optional: re-enable a grid only for 3+ consecutive images (full-width for 2).
-- Fill the remaining 103 skeleton entries (added 2026-11-25: athletics/swimming/gymnastics/cycling/skiing/skating/shooting disciplines, para sports, and other missing sports, plus Baiga and Audaryspak from the Kazakh equestrian games) with full content, images and sources; batch 1 (14 running events: 100m/200m/400m/800m/1500m/5000m/10000m, half marathon, marathon, ultramarathon, trail running, cross country, 4x100m/4x400m relays) is done.
+- Fill the remaining 88 skeleton entries (added 2026-11-25: athletics/swimming/gymnastics/cycling/skiing/skating/shooting disciplines, para sports, and other missing sports, plus Baiga and Audaryspak from the Kazakh equestrian games) with full content, images and sources; batches done so far: batch 1 (14 running events: 100m/200m/400m/800m/1500m/5000m/10000m, half marathon, marathon, ultramarathon, trail running, cross country, 4x100m/4x400m relays) and batch 2 (15 pages: 100m/110m/400m hurdles, 20km/35km/50km race walk, high jump, pole vault, long jump, triple jump, shot put, discus throw, javelin throw, hammer throw, 3000m steeplechase — incl. the 2026 switch to half marathon/marathon race walk).
 - Work through the related-sports groups in `data/related_groups.md` one by one to add cross-links in the texts (boules family, football codes, racket sports, athletics disciplines, para sports, ...).
 
 | Share menu extended to the index header | `78d4913` | identical position/behavior as detail pages |
