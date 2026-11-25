@@ -86,6 +86,8 @@ a.brand:hover { color: var(--accent); }
 
 .subtitle { color: var(--muted); margin-top: 4px; font-size: 15px; }
 
+.stats-line { color: var(--muted); font-size: 13px; margin: 4px 0 0; }
+
 .header-actions { display: flex; align-items: center; gap: 10px; }
 
 .theme-btn {

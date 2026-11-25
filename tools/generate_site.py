@@ -393,6 +393,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
       <div>
         <h1 class="brand">{site}</h1>
         <p class="subtitle">An open-source encyclopedia of sports and competitions &middot; {total} entries &middot; alphabetical order</p>
+        <p class="stats-line">{cats} categories &middot; {photos} photos &middot; last content update {updated}</p>
       </div>
       {theme_button}
     </div>
@@ -584,6 +585,9 @@ def main():
         favicon=index_favicon,
         canonical=SITE_URL,
         og_tags=index_og,
+        cats=len(tag_counts),
+        photos=len(IMG_DIMS),
+        updated=site_reviewed,
         rows="\n".join(build_row(i, r) for i, r in enumerate(rows, 1)),
         tag_chips=tag_chips,
         cc=CC_URL,
