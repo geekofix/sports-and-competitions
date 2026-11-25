@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-25 (site features as of commit `e958b31` + lightbox; content: 798/798 deepened, Pages build green).
+Last updated: 2026-11-25 (site features as of commit `e958b31` + lightbox; 913 entries: 798/913 deepened, 115 new skeleton entries for previously missing sports/disciplines; Pages build green).
 
 ## Project intent — where suggestions come from
 
@@ -151,6 +151,8 @@ entries in this file: the next session reads the current state from the repo
 - Favorites via `localStorage` (star per entry, "show favorites" filter).
 - Lightbox keyboard operability (`tabindex` on images + Enter to open).
 - Optional: re-enable a grid only for 3+ consecutive images (full-width for 2).
+- Fill the 115 new skeleton entries (added 2026-11-25: athletics/swimming/gymnastics/cycling/skiing/skating/shooting disciplines, para sports, and other missing sports) with full content, images and sources.
+- Work through the related-sports groups in `data/related_groups.md` one by one to add cross-links in the texts (boules family, football codes, racket sports, athletics disciplines, para sports, ...).
 
 | Share menu extended to the index header | `78d4913` | identical position/behavior as detail pages |
 
