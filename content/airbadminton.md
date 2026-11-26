@@ -6,6 +6,7 @@ AirBadminton is the outdoor variant of badminton launched by the Badminton World
 
 *Figure: beach-sports. (2017, August 4). Beachminton-beachcrossminton-speedminton-im-sand-berlin — Outdoor shuttlecock set (speedminton/beachminton) in the sand — AirBadminton is the BWF outdoor game played with the wind-resistant AirShuttle [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Beachminton-beachcrossminton-speedminton-im-sand-berlin.jpg*
 
+ Within the air sports family on this site, its closest relatives are [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,3 +36,4 @@ The BWF developed AirBadminton between 2018 and 2019 as part of its strategy to 
 - [BWF AirBadminton rules and equipment](https://development.bwfbadminton.com/airbadminton/) — court setups, AirShuttle specifications, free app
 - [Badminton World Federation (BWF)](https://bwfbadminton.com/) — world governing body of badminton
 - [Badminton](badminton.html) — the indoor original, on this site
+- Related on this site: [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Base Jumping](base-jumping.html), [Wingsuit Flying](wingsuit-flying.html), [Hot Air Ballooning](hot-air-ballooning.html), [Gliding](gliding.html), [Canopy Piloting](canopy-piloting.html), [Aeromodelling](aeromodelling.html), [Air Racing](air-racing.html) and [Drone Racing](drone-racing.html) — the air sports

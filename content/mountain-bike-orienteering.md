@@ -10,6 +10,8 @@ Mountain bike orienteering (MTBO) is [orienteering](orienteering.html) on a moun
 
 *Figure: Reindahl, S. (2022, July 16). World MTB Orienteering Championships 2022 relay women Danish silver (P1040931) — the Danish women's silver team including Nikoline Splittorff at the WMTBOC 2022 in Falun, Sweden [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:World_MTB_Orienteering_Championships_2022_relay_women_Danish_silver_%28P1040931%29.jpg*
 
+ Within the orienteering and adventure family on this site, its closest relatives are [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the individual disciplines (sprint, middle, long distance) riders start at intervals and must visit the controls in the given order; the rider with the lowest total time wins, and riding outside allowed paths or receiving outside assistance brings disqualification (International Orienteering Federation, n.d.-a). In the mass start all competitors start together and the first across the finish line wins; in the relay each team's riders run or ride their legs in sequence and the combined time decides (International Orienteering Federation, n.d.-b). Maps follow the ISMTBOM specification, usually at 1:10,000 or 1:15,000 scale (1:7,500 for masters aged 70 and over), with the sprint run on a smaller-scale, more detailed map; riders must carry map and compass and may use no GPS or other electronic navigation aids. Women and men compete in separate individual classes (W21/W35/W40 … and M21 …) and together in the mixed relay class (International Orienteering Federation, n.d.-b).
@@ -37,5 +39,5 @@ MTBO emerged in the Nordic countries in the 1990s, when orienteers began using m
 ## Important Links
 
 - [International Orienteering Federation — MTBO](https://orienteering.sport/) — world governing body; WMTBOC, World Cup and rules
-- [Orienteering](orienteering.html) on this site — the on-foot parent sport
+- Related on this site: [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html), [Coasteering](coasteering.html) and [Canyoning](canyoning.html) — the orienteering and adventure racing sports
 - [Foot orienteering](foot-orienteering.html), [Ski orienteering](ski-orienteering.html) and [Mountain biking](mountain-biking.html) on this site — related disciplines and the bike used

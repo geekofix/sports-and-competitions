@@ -12,6 +12,8 @@ At the end of 2026 the leading women are Simona Aebersold (SUI), the 2026 sprint
 
 *Figure: Petr Kadeřávek (crop by Ariam). (2026, July 7). Hanna Lundberg WOC 2026 sprint 06 (cropped) — Hanna Lundberg at the 2026 World Orienteering Championships sprint in Genova [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Hanna_Lundberg_WOC_2026_sprint_06_(cropped).jpg*
 
+ Within the orienteering and adventure family on this site, its closest relatives are [Orienteering](orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The IOF Competition Rules define four individual disciplines: sprint (winning times of about 12–15 minutes on a 1:4,000 or 1:5,000 map in urban or park terrain), middle distance (30–35 minutes, 1:10,000), long distance (60–90 minutes, 1:15,000 or 1:10,000 for elite classes) and relay (IOF, n.d.-b). At every event each competitor receives the map only at the start and must navigate alone — any outside assistance leads to disqualification — and every control must be visited in order and punched with the electronic SI card; a missing or mispunched control means disqualification (IOF, n.d.-b). Start systems differ by discipline: mass start for long distance, interval start for middle distance, and a qualification system for sprint, where the knock-out sprint (introduced in 2001, full sprint program since 2019) runs heats of six athletes, of whom the top two plus the two fastest overall advance to the next round (IOF, n.d.-b). Relays are run by teams of four (men's and women's) or as a mixed sprint relay in a woman–man–man–woman leg order (IOF, n.d.-b). Men and women compete in the same elite classes on identical courses; age classes exist for juniors (U20 at the Junior World Orienteering Championships), youth (U18 at EYOF) and masters (World Masters Orienteering Championships), and there are separate disciplines for mountain bike orienteering (MTBO), ski orienteering and trail orienteering (IOF, n.d.-b; Wikipedia, n.d.-a). The official IOF world ranking is published continuously from World Cup and championship results (IOF, n.d.-d).
@@ -40,7 +42,4 @@ Orienteering as a competitive sport began in Sweden in the late 19th century —
 - [IOF World Orienteering Championships](https://orienteering.sport/events/) — WOC 2026 Genova (sprint, July 7–11, 2026), WOC 2027 Hungary, WOC 2028 Spain
 - [IOF World Cup and world ranking](https://ranking.orienteering.sport/) — official IOF ranking and 2026 World Cup results
 - [European Orienteering Championships 2026](https://orienteering.sport/) — Lithuania 2026
-- [Orienteering](orienteering.html) on this site
-- [Ski Orienteering](ski-orienteering.html) on this site
-- [Mountain Bike Orienteering](mountain-bike-orienteering.html) on this site
-- [Trail Orienteering](trail-orienteering.html) on this site
+- Related on this site: [Orienteering](orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html), [Coasteering](coasteering.html) and [Canyoning](canyoning.html) — the orienteering and adventure racing sports

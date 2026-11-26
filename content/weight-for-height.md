@@ -6,6 +6,8 @@ Weight for height — also called the overhead weight lift in strongman and know
 
 *Figure: Middleton, A. (2010, August 21). The Weight for Height at the Bute Highland Games 2010 — an athlete in the weight-over-bar throw-for-height event on the Isle of Bute, Scotland [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Weight_for_Height.JPG*
 
+ Within the strength and lifting family on this site, its closest relatives are [Weight Over Bar](weight-over-bar.html), [Weightlifting](weightlifting.html), [Strongman](strongman.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The implement starts on the floor; the lifter grips it two-handed and must finish with arms fully extended and locked, elbows and knees straight, feet in line with the bar, and the weight visibly under control until the referee's down signal — any downward movement of the bar during the lift, and any leg drive or re-bending under the implement, is judged as in the strict press and voids the attempt (Wikipedia, n.d.). Each athlete normally gets three attempts, and the heaviest valid lift is recorded; where classes are used, bodyweight or height bands determine the division. In the rising-bar format the bar is raised in increments after every cleared round, and a thrower with three misses at a height is eliminated, with the fewest misses breaking ties (Strongman Champions League, n.d.).
@@ -26,6 +28,4 @@ Weight for height descends from the showman feats of early-twentieth-century str
 ## Important Links
 
 - [Strongman Champions League](https://strongmanchampionsleague.com/) — professional strongman circuit featuring overhead-lift events
-- [Weight over bar](weight-over-bar.html) on this site — the Highland rising-bar version of the event
-- [Weightlifting](weightlifting.html) on this site — the Olympic barbell sport of overhead lifting
-- [Strongman](strongman.html) on this site — the overall sport in which the event is contested
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Para Powerlifting](para-powerlifting.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight Over Bar](weight-over-bar.html), [Steinholding](steinholding.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html), [Haggis Hurling](haggis-hurling.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

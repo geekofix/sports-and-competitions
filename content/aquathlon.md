@@ -2,6 +2,8 @@
 
 Aquathlon is a multisport discipline of World Triathlon in which athletes race run–swim–run: at the official World Championship distance, 2.5 km of running, then 1 km of open-water swimming, then 2.5 km of running again (World Triathlon [WT], n.d.-a). The Aquathlon World Championships have been held since 1998 and, since 2017, are staged within the World Triathlon Multisport World Championships. At the 2026 Multisport World Championships in Abu Dhabi (November 13–22, 2026, on Hudayriyat Island), the Aquathlon World Championship was held on November 20: among the women, Russia's Valentina Riasova took gold ahead of Garabedian and Iana Chenskaia (both RUS), and among the men Great Britain's Chris Perham won gold ahead of Kevin Tarek Viñuela and Damián Suárez of Spain (WT, n.d.-b). At the 2025 World Championships in Pontevedra, Spain, Hungary's Márton Kropkó and Hanna Maksimava (AIN) were the champions (WT, n.d.-b) (World Triathlon, n.d.-a) (World Triathlon, n.d.-b).
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The race starts with the first run leg, continues with the swim leg on a marked open-water course — wetsuits are required or optional according to the water-temperature rules — and finishes with the second run leg, with a transition area between the legs. In the swim leg, drafting behind another competitor is prohibited. Distances vary by category, with the standard World Championship distance of 2.5 km run, 1 km swim and 2.5 km run, plus sprint and age-group formats; elite and age-group athletes, men and women, race in the same events (WT, n.d.-a).
@@ -27,5 +29,5 @@ Aquathlon's roots lie in the surf-lifesaving and lifeguard racing of 1950s Austr
 
 - [World Triathlon — Aquathlon](https://triathlon.org/multisports/aquathlon) — official rules, distances and Multisport World Championships
 - [World Triathlon](https://triathlon.org/) — world governing body of triathlon, duathlon and aquathlon; results and rankings
-- [Triathlon](triathlon.html) — the swim–bike–run original, on this site
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races
 - [Swimming](swimming.html) and [Open Water Swimming](open-water-swimming.html) — the pool and open-water legs, on this site

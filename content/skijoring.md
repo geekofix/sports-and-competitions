@@ -6,6 +6,7 @@ Skijoring is a winter racing sport in which a skier is pulled across snow by a h
 
 *Figure: Kaila Angello. (2009, March 8). Leadville Ski Joring.jpg — A Leadville Ski Joring team at the 2009 event in Leadville, Colorado — a skier pulled by a horse [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Leadville_Ski_Joring.jpg*
 
+ Within the dog sports family on this site, its closest relatives are [Dog Sledding](dog-sledding.html), [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html), [Flyball](flyball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,5 +36,5 @@ Skijoring takes its name from the Norwegian skikjøring, "ski driving", practise
 - [ISDRA — International Sled Dog Racing Association](https://www.isdra.org/) — international dog skijoring and sled-dog racing body; world championships and rules
 - [SkijorUSA](https://www.skijorusa.org/) — United States skijoring association; race calendar
 - [White Turf St. Moritz](https://www.whiteturf.ch/) — historic horse racing and skijoring on the frozen lake since 1907
-- [Dog sledding](dog-sledding.html) on this site — the sled-dog racing family
+- Related on this site: [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html), [Flyball](flyball.html), [Weight Pulling Dog Sport](weight-pulling-dog-sport.html), [Sheep Dog Trials](sheep-dog-trials.html), [Lure Coursing](lure-coursing.html), [Schutzhund](schutzhund.html), [Dock Diving](dock-diving.html), [Dog Surfing](dog-surfing.html), [Scootering Dog Sport](scootering-dog-sport.html), [Canine Freestyle](canine-freestyle.html), [Dog Sledding](dog-sledding.html) and [Duck Herding](duck-herding.html) — the dog sports
 - [Skiing](skiing.html) on this site — the skiing umbrella sport

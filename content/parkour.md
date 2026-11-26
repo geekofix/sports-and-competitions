@@ -6,6 +6,8 @@ Parkour (from the French parcours du combattant, "obstacle course") is a movemen
 
 *Figure: Danhje. (2008, December 14). A traceur performing a "speed vault" [Photograph]. Wikimedia Commons. Public domain (PD-self). https://commons.wikimedia.org/wiki/File:Parkour_speed_vault.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Parkour Speed](parkour-speed.html), [Parkour Freestyle](parkour-freestyle.html), [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 As a practice, parkour has no points and no competition: the goal is efficient, controlled movement, and traceurs choose their own lines (Wikipedia, n.d.-a). In competitive parkour under the FIG, speedrun athletes race a standardized obstacle course against the clock — fastest time wins, with falls and missed obstacles costing time penalties — while freestyle athletes perform a 60-90 second routine on a course, judged on difficulty, execution, flow and creativity (International Gymnastics Federation, n.d.). Courses are built from standardized modules — walls, rails, boxes — and must be safety-inspected; athletes compete in men's and women's categories, plus junior and senior age groups, under identical course rules (International Gymnastics Federation, n.d.). Safety rules require helmets in some junior events, medical cover at all FIG events, and prohibit dangerous stunts in freestyle (International Gymnastics Federation, n.d.).
@@ -34,8 +36,7 @@ Parkour was developed in the early 1990s in Lisses, near Paris, by David Belle a
 - [International Gymnastics Federation (FIG) — parkour](https://www.gymnastics.sport/) — world governing body; speedrun and freestyle, World Cup and World Championships
 - [Parkour — Wikipedia](https://en.wikipedia.org/wiki/Parkour) — David Belle, Yamakasi and Lisses in the 1990s
 - [David Belle — Wikipedia](https://en.wikipedia.org/wiki/David_Belle) — founder of parkour
-- [Parkour Speed](parkour-speed.html) on this site — the timed speedrun format
-- [Parkour Freestyle](parkour-freestyle.html) on this site — the judged freestyle format
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour Freestyle](parkour-freestyle.html), [Parkour Speed](parkour-speed.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports
 - [Gymnastics](gymnastics.html) on this site — the parent FIG discipline
 - [Obstacle Course Racing](obstacle-course-racing.html) on this site — timed obstacle racing
 - [Ninja Sport](ninja-sport.html) on this site — the ninja-style obstacle format

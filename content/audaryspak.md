@@ -12,6 +12,8 @@ The sport is open to men and women alike at festival level — women's bouts are
 
 *Figure: Theklan. (2015, July 25). Horseback wrestlers locked in a bout on the steppe in Kyrgyzstan [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Horseback_wrestlers_in_Kyrgyzstan.jpg*
 
+ Within the equestrian family on this site, its closest relatives are [Baiga](baiga.html), [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each bout starts from a mounted face-off: the two riders grip each other (or each other's clothing and saddle) and each tries to unseat the other by strength and balance; the first rider pulled off the horse — or thrown to the ground — loses, and striking the opponent or the horse is forbidden, as is touching the ground while mounted except to lose (E-history.kz, n.d.-c).
@@ -43,4 +45,4 @@ Since the first World Nomad Games in 2014 at Issyk-Kul, audaryspak/oodarysh has 
 - [E-history.kz — Baiga and audaryspak](https://e-history.kz/en/news/show/28688) — rules: two riders, unseat the opponent; World Nomad Games discipline
 - [E-history.kz — Traditional Kazakh games](https://e-history.kz/en/news/show/8294) — warrior training and festival use
 - [World Nomad Games](https://en.wikipedia.org/wiki/World_Nomad_Games) — audaryspak on the programme since 2014
-- Related on this site: [baiga](baiga.html), [wrestling](wrestling.html), [horseball](horseball.html)
+- Related on this site: [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html), [Combined Driving](combined-driving.html), [Reining](reining.html), [Endurance Riding](endurance-riding.html), [Mounted Games](mounted-games.html), [Tent Pegging](tent-pegging.html), [Working Cow Horse](working-cow-horse.html), [Para Equestrian Dressage](para-equestrian-dressage.html), [Thoroughbred Racing](thoroughbred-racing.html), [Harness Racing](harness-racing.html), [Barrel Racing](barrel-racing.html), [Rodeo](rodeo.html), [Chariot Racing](chariot-racing.html), [Camel Racing](camel-racing.html), [Reindeer Racing](reindeer-racing.html), [Yak Racing](yak-racing.html), [Cutting](cutting.html) and [Baiga](baiga.html) — the equestrian sports and horse racing

@@ -6,6 +6,7 @@ Quadrathlon (also quadriathlon or tetrathlon) is an endurance multisport of four
 
 *Figure: Roderikk. (2008, October 11). K4 Kayak Marathon in pursuit.jpg — K4 kayak marathon boats in pursuit at the De Rijp Marathon in the Netherlands — kayaking is one of the four legs of a quadrathlon (swim–kayak–bike–run) [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:K4_Kayak_Marathon_in_pursuit.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,5 +33,5 @@ After failed attempts to launch a four-sport formula in the early 1980s, the Ita
 
 - [World Quadrathlon Federation (WQF)](https://www.quadrathlon.org/) — world governing body; World Cup and world championships
 - [British Quadrathlon Association](https://www.britishquad.org/) — national body in Great Britain
-- [Triathlon](triathlon.html) on this site — the three-discipline parent sport
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races
 - [Swimming](swimming.html), [Kayaking](kayaking.html) and [Road Cycling](road-cycling.html) on this site — the component disciplines

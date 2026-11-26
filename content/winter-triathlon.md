@@ -8,6 +8,8 @@ A Canadian variant called winter triathlon S3 — since 2013 — consists of 12 
 
 *Figure: TomasNotThomas. (2020, February 1). 2020 Winterlude Triathlon Skaters — pack of skaters competing on the skating leg of the 2020 Winterlude Triathlon on Dow's Lake, Ottawa, Ontario [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2020_Winterlude_Triathlon_Skaters.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The standard race runs the three legs — run, mountain bike, cross-country ski — back to back over marked snow courses, with transition areas for changing footwear and equipment as in summer triathlon; mountain bikes follow regulations on tyre width and studs, and the ski leg uses groomed tracks in free technique (World Triathlon, n.d.). Drafting rules mirror triathlon's and are legal or restricted per event format; elite and age-group waves start separately, and national federations set local rules for cold-weather clothing and course safety (USA Triathlon, n.d.). The S3 variant substitutes ice skating and snowshoeing for the run and bike, the winter duathlon drops the bike leg, and the mixed team relay has three athletes per nation completing roughly 2 km run, 5 km bike and 3 km ski each before tagging the next teammate (Wikipedia, n.d.). The sport was denied inclusion at the 2014 Sochi Winter Olympics but remains on World Triathlon's programme with annual world championships (Wikipedia, n.d.).
@@ -30,7 +32,7 @@ The first winter triathlons appeared in Spain in 1987 — triathletes chasing a 
 
 - [World Triathlon — winter triathlon](https://triathlon.org/multisports/winter-triathlon) — world governing body, World Championships and rules
 - [USA Triathlon — winter triathlon](https://www.usatriathlon.org/about/multisport/disciplines/winter-triathlon) — discipline overview and relay format
-- [Triathlon](triathlon.html) on this site — the parent summer sport
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races
 - [Cross-Country Skiing](cross-country-skiing.html) on this site — the ski leg's parent discipline
 - [Mountain Biking](mountain-biking.html) on this site — the bike leg's parent discipline
 - [Speed Skating](speed-skating.html) on this site — the S3 variant's skating leg

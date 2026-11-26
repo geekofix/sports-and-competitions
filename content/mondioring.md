@@ -6,6 +6,8 @@ Mondioring is the popular name for disc dog competition — also called canine d
 
 *Figure: Armstrong, R. (2007, April 28). Border Collie discdog jump — a border collie leaping to catch a flying disc [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Border_Collie_discdog_jump.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In toss and fetch, the team has 60 seconds to make as many catches as possible; points are awarded for the distance of the catch, accuracy bonuses apply, and extra points are given for each second the disc is airborne (Wikipedia, n.d.-b). In freestyle, the pair performs a judged routine of 90 seconds to two minutes, typically to music, scored for difficulty, execution, teamwork and showmanship. In long distance, catches are scored by the zone in which the dog catches the disc, with the farthest zones worth the most points. Dogs may be of any breed, and men and women handlers compete in the same divisions without separate classes (Wikipedia, n.d.-b). Fouls such as the handler crossing the throwing line early or a dropped disc result in lost points under the Skyhoundz rulebook (Skyhoundz, n.d.).
@@ -29,3 +31,4 @@ Disc dog began on 5 August 1974, when Alex Stein and his dog Ashley Whippet ran 
 - [Skyhoundz — World Canine Disc Championship](https://skyhoundz.com/) — the premier disc dog organization; world championship 2026 in Chattanooga/East Ridge, TN
 - [Disc dog](disc-dog.html) on this site — the same sport under its international name
 - [Canine freestyle](canine-freestyle.html) and [Agility dog sport](agility-dog-sport.html) on this site — related dog sports
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races

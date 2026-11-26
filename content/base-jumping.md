@@ -10,6 +10,8 @@ BASE jumping is strictly an adult sport: participants must be at least 18 years 
 
 *Figure: WikiWingsuit. (2020, October 18). The four phases of a wingsuit BASE jump — 1) exit, 2) flight, 3) deployment, 4) landing [Diagram]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wingsuit_BASE_jumping.svg*
 
+ Within the air sports family on this site, its closest relatives are [Wingsuit Flying](wingsuit-flying.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In competitive wingsuit BASE racing, the course is marked by ground reference points, and pilots must pass within a defined window; the clock starts at exit and stops at the finish gate. Penalties are assessed for missed gates, and the fastest valid time wins. At the World BASE Race, heats are flown in groups and the fastest advance; the final is head-to-head or timed against the clock depending on conditions (World BASE Race, n.d.).
@@ -44,4 +46,4 @@ On the women's side, female pioneers such as Ellen Brennan and later wingsuit ra
 
 - [World BASE Race](https://www.worldbaserace.com/) — premier wingsuit BASE race in Romsdalen, Norway; rules, qualification and results
 - [BASE Jump Extreme World Cup (EWC)](https://www.basejumpewc.com/) — fixed-object world cup at the Gran Hotel Bali, Benidorm, Spain
-- [Wingsuit Flying](wingsuit-flying.html), [Skydiving](skydiving.html) and [Indoor Skydiving](indoor-skydiving.html) on this site
+- Related on this site: [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Wingsuit Flying](wingsuit-flying.html), [Hot Air Ballooning](hot-air-ballooning.html), [Gliding](gliding.html), [Canopy Piloting](canopy-piloting.html), [Aeromodelling](aeromodelling.html), [Air Racing](air-racing.html), [Drone Racing](drone-racing.html) and [Airbadminton](airbadminton.html) — the air sports

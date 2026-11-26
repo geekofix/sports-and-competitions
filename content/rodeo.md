@@ -10,6 +10,8 @@ Women have been central to professional rodeo since the WPRA's founding: barrel 
 
 *Figure: Chris Woodrich. (2025, July 26). Bull riding at the Kingsville Pro Rodeo, Woodslee, Ontario, 26 July 2025 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bull_riding,_Kingsville_Pro_Rodeo,_Woodslee,_Ontario,_2025-07-26_01.jpg*
 
+ Within the equestrian family on this site, its closest relatives are [Barrel Racing](barrel-racing.html), [Show Jumping](show-jumping.html), [Thoroughbred Racing](thoroughbred-racing.html), [Baiga](baiga.html), [Audaryspak](audaryspak.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The PRCA sanctions seven championship events: bareback riding, saddle bronc riding and bull riding (the "roughstock", judged 0–100 per ride with an 8-second qualified ride), steer wrestling (hazer + wrestler, fastest time), tie-down roping, team roping (header and heeler) and breakaway roping; women compete in barrel racing (a timed cloverleaf pattern around three barrels), breakaway roping and team roping as heeler (Wikipedia, n.d.-a; Wikipedia, n.d.-b).
@@ -45,4 +47,4 @@ Legends include Jim Shoulders (16 world championships), Ty Murray (seven all-aro
 
 - [PRCA — prorodeo.com](https://prorodeo.com/) — world governing body of men's professional rodeo; standings, results, 2025 rule book
 - [WPRA — wpra.com](https://wpra.com/) — Women's Professional Rodeo Association; barrel racing and breakaway roping world championships
-- Related on this site: [barrel racing](barrel-racing.html), [show jumping](show-jumping.html), [thoroughbred racing](thoroughbred-racing.html), [baiga](baiga.html), [audaryspak](audaryspak.html)
+- Related on this site: [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html), [Combined Driving](combined-driving.html), [Reining](reining.html), [Endurance Riding](endurance-riding.html), [Mounted Games](mounted-games.html), [Tent Pegging](tent-pegging.html), [Working Cow Horse](working-cow-horse.html), [Para Equestrian Dressage](para-equestrian-dressage.html), [Thoroughbred Racing](thoroughbred-racing.html), [Harness Racing](harness-racing.html), [Barrel Racing](barrel-racing.html), [Chariot Racing](chariot-racing.html), [Camel Racing](camel-racing.html), [Reindeer Racing](reindeer-racing.html), [Yak Racing](yak-racing.html), [Cutting](cutting.html), [Baiga](baiga.html) and [Audaryspak](audaryspak.html) — the equestrian sports and horse racing

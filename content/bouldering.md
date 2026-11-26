@@ -12,6 +12,8 @@ At the Paris 2024 Olympics at the Le Bourget Sport Climbing Venue (August 5–10
 
 *Figure: steph3xx. (2024, August 9). Sorato Anraku (JAP) 2024, 2024 Summer Olympics [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Sorato_Anraku_%28JAP%29_2024.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Rock Climbing](rock-climbing.html), [Ice Climbing](ice-climbing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In competition bouldering, each problem is attempted within a four- or five-minute time limit; a "zone" is a controlled intermediate hold and a "top" completes the problem. Scoring rewards tops first, then zones, with fewer attempts ("fewer tries") breaking ties — the countback goes top, zone, then number of attempts, and a flash (first-try top) beats any non-flash (IFSC, n.d.-a). Athletes get a set number of problems (four in Olympic semifinals/finals, up to five or more in World Climbing Series rounds), with rest between attempts; falls and time-outs are recorded. The wall is standardized: holds on standardized panels, problems set by an international route-setting team. Men's and women's events use identical formats, though the route setters may set slightly different difficulty profiles; youth categories (U16/U18/U20) use fewer problems and lower grades, and paraclimbing has its own classes (IFSC, n.d.-b).
@@ -34,4 +36,4 @@ Bouldering grew out of Fontainebleau's boulder fields near Paris in the late 19t
 
 - [IFSC — World Climbing](https://www.ifsc-climbing.org/) — world governing body (renamed from IFSC in December 2025); rules, calendar, rankings
 - [Olympics.com — Sport Climbing](https://olympics.com/en/sports/sport-climbing/) — Olympic history, Paris 2024 results
-- [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html) and [Rock Climbing](rock-climbing.html) on this site
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html), [Parkour Speed](parkour-speed.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports

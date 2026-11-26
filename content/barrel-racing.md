@@ -8,6 +8,8 @@ Barrel racing is overwhelmingly a women's event at the elite level — the WPRA 
 
 *Figure: VanDerWerf, P. (2014, May 24). A barrel racer at a competition held at Andwemet Farm as part of the Maine Barrel Racing Association [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Barrel_Racer_%2814078884670%29.jpg*
 
+ Within the equestrian family on this site, its closest relatives are [Show Jumping](show-jumping.html), [Dressage](dressage.html), [Cross Country Equestrian](cross-country-equestrian.html), [Eventing](eventing.html), [Combined Driving](combined-driving.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under WPRA rules, the standard cloverleaf pattern places the first barrel 20–21 ft (6–6.5 m) from the start line, with 30–35 ft (9–10.5 m) between barrels; the rider may choose a left or right first turn. The clock starts when the horse's nose crosses the start/finish line and stops when it crosses back after the pattern. Knocking over a barrel adds a 5-second penalty per barrel. There is no prescribed speed limit; elite times run 15–17 seconds in a large arena (WPRA, n.d.-a).
@@ -37,4 +39,4 @@ Legendary barrel racers include Charmayne James, the first woman to win $1 milli
 - [Women's Professional Rodeo Association (WPRA)](https://www.wpra.com/) — world governing body of women's pro barrel racing; standings, NFR and rules
 - [WPRA National Finals Rodeo](https://www.wpra.com/nfr/) — the season-ending championship in Las Vegas each December
 - [PRCA](https://www.prcarodeo.com/) — Professional Rodeo Cowboys Association; sanctions barrel racing alongside other rodeo events
-- [Show Jumping](show-jumping.html), [Dressage](dressage.html) and [Cross-Country Equestrian](cross-country-equestrian.html) on this site
+- Related on this site: [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html), [Combined Driving](combined-driving.html), [Reining](reining.html), [Endurance Riding](endurance-riding.html), [Mounted Games](mounted-games.html), [Tent Pegging](tent-pegging.html), [Working Cow Horse](working-cow-horse.html), [Para Equestrian Dressage](para-equestrian-dressage.html), [Thoroughbred Racing](thoroughbred-racing.html), [Harness Racing](harness-racing.html), [Rodeo](rodeo.html), [Chariot Racing](chariot-racing.html), [Camel Racing](camel-racing.html), [Reindeer Racing](reindeer-racing.html), [Yak Racing](yak-racing.html), [Cutting](cutting.html), [Baiga](baiga.html) and [Audaryspak](audaryspak.html) — the equestrian sports and horse racing

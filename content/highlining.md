@@ -6,6 +6,8 @@ Highlining is the acrobatics discipline of walking, balancing and performing tri
 
 *Figure: Bricetofly. (2022, June 11). Highlining in Switzerland [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Highlining_Switzerland.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A highline consists of a flat webbing typically 25–50 mm wide, tensioned to several kilonewtons between two redundant anchor systems (trees, rock anchors or structures) rigged to ISA safety standards, with a separate backup line; a fall is always arrested by the athlete's leash attached to the line, because at height a ground fall would be fatal (ISA, n.d.-a; Wikipedia, n.d.-a). In speed highlining, athletes cross a set line — commonly several tens of meters — in heats and knockout rounds, and the fastest times advance; in freestyle highlining, athletes perform tricks (bounces, rodeos, slack-to-leash transitions) on the line while judges score difficulty, execution and style, and the highest total wins (ISA, n.d.-a). Competitions award world ranking points by placement, and the ISA world ranking lists men and women separately; men and women compete under identical rules in gender-separated categories, and youth categories are offered at many events (ISA, n.d.-a; Wikipedia, n.d.-a).
@@ -31,3 +33,4 @@ Slacklining began in the 1970s and early 1980s in Yosemite Valley, California, w
 - [Highline World Championships 2026 — Flims Laax](https://hwc2026.ch/) — official event site, 21–26 July 2026
 - [Hang Gliding](hang-gliding.html) on this site — air sports at height
 - [Gymnastics](gymnastics.html) on this site — balance and body control sports
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html), [Parkour Speed](parkour-speed.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports

@@ -10,6 +10,8 @@ Leading the women today: Grace Norman of the United States (PTS5) won gold at Pa
 
 *Figure: Explorer-Media. (2021, August 23). Lauren Parker of Australia, PTWC gold medallist at Paris 2024 and 2026 world champion, racing her handcycle [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Parker_Lauren_01_CC.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Triathlon](triathlon.html), [Aquathlon](aquathlon.html), [Duathlon](duathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html); the related pages are listed under Important Links.
+
 ## Rules
 
 World Triathlon competition rules apply with para adaptations: at the Paralympics and World Para Championships the sprint distance is 750 m swim, 20 km bike and 5 km run; PTWC athletes use a handcycle on the bike leg and a racing wheelchair on the run, PTS classes use standard or adapted bikes, and PTVI athletes race tethered to a guide in all three legs (World Triathlon, n.d.-c; Wikipedia, n.d.-b).
@@ -48,4 +50,4 @@ Early icons include the Netherlands' Jetze Plat, PTWC gold medallist at Rio 2016
 - [2026 World Triathlon Para Series and Para Championships Pontevedra](https://triathlon.org/events)
 - [IPC — Para triathlon](https://www.paralympic.org/triathlon) — Paralympic programme
 - [Olympics — Paris 2024 triathlon results](https://www.olympics.com/en/paris-2024/paralympic-games/results/triathlon)
-- Related on this site: [triathlon](triathlon.html), [aquathlon](aquathlon.html), [para-cycling](para-cycling.html), [para-swimming](para-swimming.html), [marathon](marathon.html)
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html) and [Ninja Sport](ninja-sport.html) — the multisport and endurance races

@@ -8,6 +8,8 @@ The ITCC format has five preliminary events — Work Climb (80 points), Aerial R
 
 *Figure: TreeMinion15. (2019, June 4). Arborist Kevin Bingham uses a Singing Tree Rope Runner to climb a tree in competition [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Kevin-Bingham.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Ice Climbing](ice-climbing.html), [Free Solo Climbing](free-solo-climbing.html), [Lead Climbing](lead-climbing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Events (ITCC rule book, 2026 edition): Work Climb — climb to five stations in the tree and complete a task at each (e.g. ring a bell, unscrew a spindle), 80 points max, with time penalties; Aerial Rescue — reach a simulated casualty 10 m up and lower them to the ground safely, 50 points, heavy deductions for unsafe technique; Throwline — set a rope over a target branch with a throw bag, 30 points; Head-to-Head Ascent (formerly Footlock) — race a rival up a 15 m secured line, 20 points; Speed Climb — first to ring a bell at 15 m wins (ITCC-ISA, n.d.).
@@ -39,4 +41,4 @@ Events were developed to test the knowledge and skill of professional arborists,
 
 - [ITCC — International Tree Climbing Championship (ISA)](https://www.itcc-isa.com/) — world championship, rule books, Hall of Champions
 - [International Society of Arboriculture](https://www.isa-arbor.com/) — parent organization; 50 years of ITCC in 2026
-- Related on this site: [rock climbing](rock-climbing.html), [sport climbing](sport-climbing.html), [ice climbing](ice-climbing.html), [free solo climbing](free-solo-climbing.html)
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html), [Parkour Speed](parkour-speed.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports

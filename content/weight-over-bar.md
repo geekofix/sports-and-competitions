@@ -6,6 +6,8 @@ Weight over bar (Scottish Gaelic: *cuideam thairis air a 'bhàr*) is the classic
 
 *Figure: Rosser1954. (2018, May 27). The Carmunnock Highland Games, weight over the bar, City of Glasgow — an athlete heaves the 56 lb weight over the bar [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:The_Carmunnock_Highland_Games,_weight_over_the_bar,_City_of_Glasgow.jpg*
 
+ Within the strength and lifting family on this site, its closest relatives are [Caber Toss](caber-toss.html), [Stone Put](stone-put.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Haggis Hurling](haggis-hurling.html), [Weight For Height](weight-for-height.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each thrower gets three attempts at a given height, and the bar is raised in set increments — commonly 6 inches (15 cm) — after each round (NASGA, n.d.). The throw is delivered from behind the trig or throwing line with one hand only, and it counts only if the weight passes cleanly over the bar and lands on the far side without dislodging it. A thrower who fails all three attempts at a height is eliminated; the last athlete standing wins, with the fewest total misses breaking ties. The event has also been contested at World's Strongest Man since 1980 using the same 56 lb weight and the rising-bar elimination format, which is where the modern record heights come from (Wikipedia, n.d.).
@@ -26,5 +28,4 @@ The event traces back roughly 600 years to ancient Scottish market and farm life
 ## Important Links
 
 - [NASGA — North American Scottish Games Association](https://www.nasgaweb.com/) — Highland games rules, classes and records in North America
-- [Caber toss](caber-toss.html), [Stone put](stone-put.html), [Scottish hammer throw](scottish-hammer-throw.html) and [Haggis hurling](haggis-hurling.html) on this site — the other Highland heavy events
-- [Weight for height](weight-for-height.html) and [Strongman](strongman.html) on this site — the modern strongman versions of the event
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Para Powerlifting](para-powerlifting.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight For Height](weight-for-height.html), [Steinholding](steinholding.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html), [Haggis Hurling](haggis-hurling.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

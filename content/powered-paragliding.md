@@ -6,6 +6,8 @@ Powered paragliding, also known as paramotoring or PPG, is a form of ultralight 
 
 *Figure: Langsanity. (2023, September 4). Paramotor in sunset [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Paramotor_in_sunset.jpg*
 
+ Within the air sports family on this site, its closest relatives are [Paragliding](paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Base Jumping](base-jumping.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In FAI competition, pilots race in solo foot-launch (PF1) and trike (PL1) classes, a women's class (PF1F), a tandem class (PL2) and an electric class (PF1E), with team events completing the programme (Fédération Aéronautique Internationale, n.d.). A classic championship tests all-round flying: precise navigation over courses of tens of kilometres, fuel economy, and precision landing and take-off tasks, with FAI world records for distance and altitude ratified under its sporting code. Slalom championships send pilots around a tight course of inflatable pylons in heats — touching the ground or a pylon, or missing a gate, adds time penalties, and each run is timed to the second; the new Serial class (PF1S/PL1S, engines up to 205 cc) was introduced at Bornos 2025 (Wikipedia, n.d.-a). Classes are open to women and men alike, with the PF1F women's class flown on the same course; recreational PPG is minimally regulated in many countries and training is run by national federations (Fédération Aéronautique Internationale, n.d.).
@@ -27,4 +29,4 @@ The paramotor was born when British pilot Mike Byrne, inspired by the emerging s
 ## Important Links
 
 - [FAI — paramotors and CIMA](https://www.fai.org/sport/microlights-and-paramotors) — world air sports federation; rules, records, championships
-- [Paragliding](paragliding.html) on this site — the unpowered parent sport
+- Related on this site: [Paragliding](paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Base Jumping](base-jumping.html), [Wingsuit Flying](wingsuit-flying.html), [Hot Air Ballooning](hot-air-ballooning.html), [Gliding](gliding.html), [Canopy Piloting](canopy-piloting.html), [Aeromodelling](aeromodelling.html), [Air Racing](air-racing.html), [Drone Racing](drone-racing.html) and [Airbadminton](airbadminton.html) — the air sports

@@ -6,6 +6,8 @@ Biathle is a combined endurance sport — a continuous sequence of running and s
 
 *Figure: SportFiles. (2007, September 30). American athlete Tracy Mattes with Prince Albert II of Monaco on the red carpet at the World Biathle Championships, Monte Carlo [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Tracy_Mattes_%26_Prince_Albert_II_of_Monaco_on_the_Red_Carpet_at_the_World_Biathle_Championships.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Modern Pentathlon](modern-pentathlon.html), [Triathlon](triathlon.html), [Aquathlon](aquathlon.html), [Laser Run](laser-run.html), [Duathlon](duathlon.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the standard senior biathle the athlete runs 2.5 km, swims 200 m and runs another 2.5 km, with the clock running continuously and the total time deciding the result; the swim may be in a pool or in open water depending on the venue, and transitions are part of the race (UIPM, n.d.-a). Distances are scaled down through the age groups — from short sprints for the under-9 children up to the full senior distances — and the championships offer boys' and girls' categories in every age group from U9 to senior, plus mixed relay teams and Para categories. The related UIPM disciplines triathle (swim–run–swim) and laser run (run–shoot) are often staged at the same championships. Men's and women's races use identical distances within each age group, and team classifications are awarded alongside the individual titles (UIPM, n.d.-a).
@@ -33,4 +35,4 @@ Biathle was created as a summer, equipment-light cousin of modern pentathlon and
 - [Union Internationale de Pentathlon Moderne (UIPM)](https://www.uipmworld.org/) — world governing body of modern pentathlon, biathle, triathle and laser run
 - [UIPM Biathle World Championships 2026](https://www.uipmworld.org/events/biathle-world-championships-2026/) — Funchal, Madeira, October 26–November 1, 2026
 - [UIPM rankings](https://www.uipmworld.org/rankings/) — official world rankings
-- [Modern pentathlon](modern-pentathlon.html), [Triathlon](triathlon.html), [Aquathlon](aquathlon.html) and [Laser run](laser-run.html) on this site
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races

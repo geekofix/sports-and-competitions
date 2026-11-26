@@ -6,6 +6,8 @@ Rogaining is a team endurance sport of long-distance cross-country navigation: t
 
 *Figure: Rogainer. (2014, August 30). Rogaining — team at a checkpoint on the Moscow rogaine 2014, Noginsk district [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Rogaining._Team_at_a_checkpoint.jpg*
 
+ Within the orienteering and adventure family on this site, its closest relatives are [Orienteering](orienteering.html), [Adventure Racing](adventure-racing.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the IRF Rules of Rogaining, all championship rogaines last 24 hours and start and finish around noon so that daylight is balanced before and after the night period (IRF, n.d.). Teams of two to five choose which checkpoints to visit; each checkpoint is worth points based on its tens digit — a checkpoint numbered 31 is worth 30 points — so distant, harder controls score more, and the map area for a 24-hour event is around 250 km² on flat terrain (IRF, n.d.; Wikipedia, n.d.-a). Maps are distributed only shortly before the start, forcing genuine route planning in the field, and each checkpoint has a hash house where teams stamp their pass card (IRF, n.d.). Teams are penalized for late return — under the championship rules the score is reduced for every minute past the deadline and a team more than 30 minutes late is disqualified (IRF, n.d.). Mandatory equipment includes a first-aid kit, water, food, whistle, torch and warm clothing, and competitors must carry a mobile phone; there are age classes Youth (under 23), Veteran (45 and over), Super Veteran (55 and over) and Ultra Veteran (65 and over) alongside the open class, and the three gender classes — Men's, Women's and Mixed — compete for separate titles at the World and European Championships (Wikipedia, n.d.-b; IRF, n.d.). Both women and men compete in all classes, and mixed teams of women and men are a standard category (Wikipedia, n.d.-b).
@@ -28,5 +30,4 @@ The name "rogaine" was coined in Australia in 1947, reportedly as a humorous bac
 
 - [International Rogaining Federation (IRF)](https://rogaining.com/) — world governing body; Rules of Rogaining and World Rogaining Championships
 - [International Orienteering Federation (IOF)](https://www.orienteering.sport/) — governing body of the parent sport orienteering
-- [Orienteering](orienteering.html) on this site — the sprint-distance parent sport
-- [Adventure Racing](adventure-racing.html) on this site — multi-discipline endurance racing
+- Related on this site: [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html), [Coasteering](coasteering.html) and [Canyoning](canyoning.html) — the orienteering and adventure racing sports

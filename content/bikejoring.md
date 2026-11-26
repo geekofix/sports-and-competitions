@@ -8,6 +8,8 @@ The women's side is fully integrated: every bikejoring class exists for both gen
 
 *Figure: Toivocoughlin. (2009, November 14). Two-dog bikejoring at the East Meets West Dryland Championships [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Bikejoring_race.jpg*
 
+ Within the dog sports family on this site, its closest relatives are [Canicross](canicross.html), [Skijoring](skijoring.html), [Dog Sledding](dog-sledding.html), [Agility Dog Sport](agility-dog-sport.html), [Flyball](flyball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the IFSS dryland rules, one or two dogs run in harness in front of the rider, connected to an antenna on the bike by a bungee line of about 2–3 m; the rider may push the bike but must never pass the dog or ride in front of it (IFSS, n.d.-a). Choke chains and prong collars are prohibited; only well-fitting harnesses are allowed. Dogs must pass a veterinary check before and after racing and meet minimum ages (usually 18 months for one-dog classes, 24 months in longer classes). The course is marked, and the fastest time from the mass start wins; classes are divided by gender, age (junior, masters) and dog number, so women and men compete in their own heats over the same course (IFSS, n.d.-a).
@@ -32,4 +34,4 @@ Bikejoring developed from sleddog and skijoring traditions as a snow-free traini
 
 - [International Federation of Sleddog Sports (IFSS)](https://sleddogsport.net/) — world governing body for sleddog sports, including all dryland disciplines
 - [IFSS competition calendar](https://sleddogsport.net/events/) — dryland world championships and World Cup events with bikejoring classes
-- [Canicross](canicross.html), [Skijoring](skijoring.html) and [Dog Sledding](dog-sledding.html) on this site
+- Related on this site: [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Skijoring](skijoring.html), [Flyball](flyball.html), [Weight Pulling Dog Sport](weight-pulling-dog-sport.html), [Sheep Dog Trials](sheep-dog-trials.html), [Lure Coursing](lure-coursing.html), [Schutzhund](schutzhund.html), [Dock Diving](dock-diving.html), [Dog Surfing](dog-surfing.html), [Scootering Dog Sport](scootering-dog-sport.html), [Canine Freestyle](canine-freestyle.html), [Dog Sledding](dog-sledding.html) and [Duck Herding](duck-herding.html) — the dog sports

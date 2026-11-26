@@ -6,6 +6,8 @@ Weight pulling is a dog sport in which a harnessed dog pulls a loaded cart, rail
 
 *Figure: JKBrooks85. (2009, August 8). Dog weight pull — American Staffordshire Terrier in a weight-pull/freighting event of the Interior (Alaska) Freight Dog Association at the 2009 Tanana Valley State Fair, Fairbanks, Alaska [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Dog_weight_pull.jpg*
 
+ Within the dog sports family on this site, its closest relatives are [Dog Sledding](dog-sledding.html), [Bikejoring](bikejoring.html), [Skijoring](skijoring.html), [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The dog wears an approved pulling harness clipped to a line attached to the load; on the handler's command it must pull the weight the full course so that the nose of the load crosses the finish line within 60 seconds (International Weight Pull Association, n.d.). The handler stands ahead of the dog and may encourage only with voice and gesture — touching the dog, or using bait such as food or toys, voids the pull, as do leaving the chute early or crossing the sidelines. Dogs are weighed before competing and placed in weight classes, and placements are awarded by the greatest percentage of body weight pulled, with titles for set percentage thresholds; formats exist on dirt, snow and rail systems, and wheeled carts are standard indoors (Wikipedia, n.d.).
@@ -26,5 +28,4 @@ Weight pulling grew out of the working heritage of freighting dogs in the Arctic
 ## Important Links
 
 - [International Weight Pull Association](https://www.iwpa.net/) — sanctioning body: rules, weight classes and records
-- [Dog sledding](dog-sledding.html), [Bikejoring](bikejoring.html) and [Skijoring](skijoring.html) on this site — the dog-powered pulling sports
-- [Agility dog sport](agility-dog-sport.html) on this site — another major canine competition
+- Related on this site: [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html), [Skijoring](skijoring.html), [Flyball](flyball.html), [Sheep Dog Trials](sheep-dog-trials.html), [Lure Coursing](lure-coursing.html), [Schutzhund](schutzhund.html), [Dock Diving](dock-diving.html), [Dog Surfing](dog-surfing.html), [Scootering Dog Sport](scootering-dog-sport.html), [Canine Freestyle](canine-freestyle.html), [Dog Sledding](dog-sledding.html) and [Duck Herding](duck-herding.html) — the dog sports

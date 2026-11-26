@@ -6,6 +6,8 @@ Slacklining is the sport and art of balancing and walking on a narrow, flat webb
 
 *Figure: Frost, S. A. (2006, November). Cambridgeslackers SAF 40 — slackliners on a line in Cambridge [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cambridgeslackerssaf40.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Highlining](highlining.html), [Mountaineering](mountaineering.html), [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In tricklining, performed on a 5 cm wide webbing 10–25 m long and a few metres above the ground over padded landing areas, athletes perform acrobatic tricks — jumps, spins, bounces and static balances — and a panel of judges scores difficulty, execution, composition and style (ISA, n.d.-b). Longlining is the endurance discipline of crossing very long lines (over 30–40 m) without falling, with world records ratified for polyester and dyneema webbing. Highlining is slacklining at great height, where every athlete wears a climbing harness clipped to the line with a leash and the line itself has a backup (redundant) system; freestyle highlining and speed highlining (timed crossings) are the competitive formats at the world championships (ISA, n.d.-a). Waterlining is performed low over water, rodeolining on a rodeo-style line, and speedlining is a timed race across a line. The ISA SportCom world ranking covers freestyle trickline and highline, speedline and highline, plus jib and rigging disciplines (ISA, n.d.-a). Competitions are divided into men's and women's categories in every discipline, with junior age classes at championships (ISA, n.d.-b).
@@ -28,5 +30,4 @@ Slacklining originated in the early 1980s in the Yosemite Valley climbing scene 
 ## Important Links
 
 - [ISA — International Slackline Association](https://www.slackline.com/) — world governing body; world rankings, world championships and safety standards
-- [Highlining](highlining.html) on this site — slacklining at extreme height
-- [Mountaineering](mountaineering.html) on this site — the climbing background of slacklining
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html), [Parkour Speed](parkour-speed.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports

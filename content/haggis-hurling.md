@@ -6,6 +6,7 @@ Haggis hurling is a Scottish novelty sport in which competitors throw a haggis �
 
 *Figure: Chris Brown (photo: zoonabar). (2006, April 27). Scotland Haggis — a whole haggis — the object hurled for distance in haggis hurling, a traditional Scottish Highland Games event [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Scotland_Haggis.jpg*
 
+ Within the strength and lifting family on this site, its closest relatives are [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ Haggis hurling was invented in 1977 by Robin Dunseath as a publicity stunt for t
 
 - [BBC — haggis hurling coverage](https://www.bbc.co.uk/) — the original That's Life! hoax broadcast and follow-ups
 - [Guinness World Records — haggis hurling](https://www.guinnessworldrecords.com/) — official world record (217 ft, Lorne Coltart, 2011)
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Para Powerlifting](para-powerlifting.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight Over Bar](weight-over-bar.html), [Weight For Height](weight-for-height.html), [Steinholding](steinholding.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

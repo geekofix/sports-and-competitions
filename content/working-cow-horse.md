@@ -8,6 +8,8 @@ The highest level is governed in the United States by the National Reined Cow Ho
 
 *Figure: Atsme. (2015, May). Cutting horse competition — a red roan Quarter Horse working a cow in an NCHA-approved cutting competition in Abilene, Texas; cutting is the herd-work discipline at the heart of working cow horse [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Cutting_horse_competition.jpg*
 
+ Within the equestrian family on this site, its closest relatives are [Reining](reining.html), [Cutting](cutting.html), [Show Jumping](show-jumping.html), [Dressage](dressage.html), [Eventing](eventing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each horse-and-rider pair works a single cow for up to 2½ minutes, and the run is judged phase by phase: rein work scores the pattern's circles, spins, lead changes and stopping; herd work scores how cleanly the rider cuts a cow from the herd and how well the horse holds it with minimal rein contact; fence work scores boxing the cow at the short end, turning it, running it down the long fence turning once each way, and circling it in the open both directions (National Reined Cow Horse Association, n.d.). Judges award points with deductions for losing the cow, visible rein resistance or a horse refusing to turn the animal; age classes govern equipment — snaffle bit with two hands for three-year-olds in futurities, hackamore (bosal and mecate) for four- and five-year-olds in derbies and classics, and a bridle for six-year-olds and over in bridle spectaculars (American Quarter Horse Association, n.d.). All breeds and all levels from non-professional to open are eligible, and women and men compete together in the same classes (National Reined Cow Horse Association, n.d.).
@@ -30,6 +32,5 @@ The reined cow horse traces to the California Spanish vaqueros, who for almost 1
 
 - [National Reined Cow Horse Association](https://www.nrcha.com/) — governing body, history, rules and the Snaffle Bit Futurity
 - [AQHA — reined cow horse](https://www.aqha.com/) — breed association's working cow horse variant and rules
-- [Reining](reining.html) and [Cutting](cutting.html) on this site — the rein-work and herd-work parent disciplines
-- [Show Jumping](show-jumping.html), [Dressage](dressage.html) and [Eventing](eventing.html) on this site — the English-discipline contrast
+- Related on this site: [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html), [Combined Driving](combined-driving.html), [Reining](reining.html), [Endurance Riding](endurance-riding.html), [Mounted Games](mounted-games.html), [Tent Pegging](tent-pegging.html), [Para Equestrian Dressage](para-equestrian-dressage.html), [Thoroughbred Racing](thoroughbred-racing.html), [Harness Racing](harness-racing.html), [Barrel Racing](barrel-racing.html), [Rodeo](rodeo.html), [Chariot Racing](chariot-racing.html), [Camel Racing](camel-racing.html), [Reindeer Racing](reindeer-racing.html), [Yak Racing](yak-racing.html), [Cutting](cutting.html), [Baiga](baiga.html) and [Audaryspak](audaryspak.html) — the equestrian sports and horse racing
 - [Barrel Racing](barrel-racing.html), [Pole Bending](pole-bending.html) and [Polo](polo.html) on this site — other horse sports

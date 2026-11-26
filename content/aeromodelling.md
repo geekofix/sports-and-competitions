@@ -4,6 +4,8 @@ Aeromodelling (model aircraft flying) is the sport of designing, building and fl
 
 Among the athletes shaping the sport today are Japan's Tetsuo Onda, winner of the 2026 F3A (radio control aerobatics) World Cup with 80 points, followed by Italy's Andrea Cervi and France's Christophe Paysant-Le Roux (Fédération Aéronautique Internationale [FAI], n.d.-c).
 
+ Within the air sports family on this site, its closest relatives are [Air Racing](air-racing.html), [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the FAI classes, F1 free flight models are launched and fly without any physical connection to the pilot, with flight times measured over several rounds; F2 control line models are flown on two lines (typically around 15.92–20 m long) that control the elevator, and both speed and aerobatic patterns are judged; F3 radio control covers aerobatics (F3A), helicopters, gliders and pylon racing, judged on prescribed maneuver schedules; F4 scale is judged on the fidelity of the model to its full-size prototype and its flight realism; space models cover model rocketry (FAI, n.d.-b). At championships, competitors fly several rounds and the best scores count; world rankings are published by the FAI. Men and women compete together in the same classes (FAI, n.d.-c).
@@ -35,4 +37,4 @@ Aeromodelling began with the pioneers of flight: Samuel Pierpont Langley built s
 - [FAI — Rankings](https://www.fai.org/page/rankings) — official world rankings
 - [FAI — World Championships](https://www.fai.org/page/world-championships) — championship calendar and results
 - [Academy of Model Aeronautics (AMA)](https://www.modelaircraft.org/) — US national aeromodelling organization (example)
-- See also [Air Racing](air-racing.html) on this site
+- Related on this site: [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Base Jumping](base-jumping.html), [Wingsuit Flying](wingsuit-flying.html), [Hot Air Ballooning](hot-air-ballooning.html), [Gliding](gliding.html), [Canopy Piloting](canopy-piloting.html), [Air Racing](air-racing.html), [Drone Racing](drone-racing.html) and [Airbadminton](airbadminton.html) — the air sports

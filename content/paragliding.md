@@ -6,6 +6,8 @@ Paragliding is a free-flying air sport in which a pilot launches on foot from a 
 
 *Figure: Protokitoy. (2024, August 8). Paraglider above Lake Annecy (Parapente au dessus du lac d'annecy) [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Parapente_au_dessus_du_lac_d%27annecy.jpg*
 
+ Within the air sports family on this site, its closest relatives are [Skydiving](skydiving.html), [Hang Gliding](hang-gliding.html), [Base Jumping](base-jumping.html), [Powered Paragliding](powered-paragliding.html), [Indoor Skydiving](indoor-skydiving.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitive paragliding is divided into disciplines (Fédération Aéronautique Internationale, n.d.). In cross-country racing, pilots launch from a start and must pass a series of cylindrical turn points, with the goal cylinder scoring the most, and the fastest pilot to reach the goal wins; the premier events are the biennial FAI World Paragliding Championships and the Paragliding World Cup (Fédération Aéronautique Internationale, n.d.). In accuracy landing, pilots aim to land as close as possible to a marked target, with penalty points for the distance; in aerobatics (acrobatic paragliding), pilots are judged on maneuvers such as syncro spirals and helicopters (Fédération Aéronautique Internationale, n.d.). Races use GPS loggers to verify turn points, and pilots must carry reserve parachutes and helmets; men's and women's categories are scored separately at championships, with identical task rules (Fédération Aéronautique Internationale, n.d.). Age classes exist for juniors and masters in some national cups (Fédération Aéronautique Internationale, n.d.).
@@ -28,6 +30,4 @@ The ram-air parafoil was invented by Canadian Domina Jalbert in the 1960s, and i
 - [FAI — Fédération Aéronautique Internationale](https://www.fai.org/) — world air sports federation; CIVL paragliding commission, World Championships
 - [FAI CIVL — paragliding competitions](https://www.fai.org/civl) — cross-country, accuracy and acro world cups
 - [Paragliding — Wikipedia](https://en.wikipedia.org/wiki/Paragliding) — Jalbert's parafoil and the 1978 Mieussy birth
-- [Skydiving](skydiving.html) on this site — freefall parachuting
-- [Hang Gliding](hang-gliding.html) on this site — rigid-wing foot-launched flight
-- [BASE Jumping](base-jumping.html) on this site — jumping from fixed objects
+- Related on this site: [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Base Jumping](base-jumping.html), [Wingsuit Flying](wingsuit-flying.html), [Hot Air Ballooning](hot-air-ballooning.html), [Gliding](gliding.html), [Canopy Piloting](canopy-piloting.html), [Aeromodelling](aeromodelling.html), [Air Racing](air-racing.html), [Drone Racing](drone-racing.html) and [Airbadminton](airbadminton.html) — the air sports

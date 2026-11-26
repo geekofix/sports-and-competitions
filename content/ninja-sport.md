@@ -6,6 +6,8 @@ Ninja sport (ninja-style obstacle course racing) is a competitive format in whic
 
 *Figure: Drost, E. (2017, May 7). American Ninja Warrior at Cleveland Public Square [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:American_Ninja_Warrior_at_Clevelnd_Public_Square_%2834804105921%29.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Obstacle Course Racing](obstacle-course-racing.html), [Modern Pentathlon](modern-pentathlon.html), [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In Ninja Speed, the athlete runs a linear course of about 12 obstacles (FISO competition rules) from start line to finish line in the fastest possible time; falling or failing an obstacle ends the run or costs time depending on the ruleset (World Obstacle, n.d.-b). In league formats such as the World Ninja League and the Ultimate Ninja Athlete Association, courses have 10 to 20 obstacles in a predetermined order, athletes get one attempt per obstacle (except the warped wall), and scoring combines points for completed obstacles with the clock time — most points wins, fastest time breaks ties; UNAA allows a maximum of three fails per course (Ultimate Ninja Athlete Association, n.d.). Courses must contain a mix of upper-body, lower-body and balance obstacles, and athletes compete in age divisions from children (as young as 6 in some leagues) to adults, with men's and women's categories at elite level (World Obstacle, n.d.-b; Wikipedia, n.d.-b).
@@ -32,5 +34,4 @@ The format originated with SASUKE, first broadcast in Japan in 1997, where 100 c
 - [World Obstacle — sports and rules](https://worldobstacle.org/sports) — Ninja speed, endurance and technical formats; World Championships
 - [Ultimate Ninja Athlete Association — rules](https://www.ultimateninja.net/rules) — UNAA course rules and scoring
 - [Obstacle sports — Wikipedia](https://en.wikipedia.org/wiki/Obstacle_sports) — history from SASUKE 1997 to the UIPM integration and LA 2028
-- [Obstacle Course Racing](obstacle-course-racing.html) on this site — the long-distance obstacle discipline
-- [Modern Pentathlon](modern-pentathlon.html) on this site — ninja-style obstacles join the program at LA 2028
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races

@@ -6,6 +6,8 @@ Obstacle course racing (OCR) is a mass-participation racing sport in which athle
 
 *Figure: Santos, M. (U.S. Air Force). (2015, September 19). A participant climbs down the slip wall obstacle during a Spartan Sprint Race at Fort Bragg, N.C. [Photograph]. Wikimedia Commons. Public domain (PD-USGov). https://commons.wikimedia.org/wiki/File:MPOTY_2015_Tough_Mudding_Spartan_Sprint_Race_at_Fort_Bragg_slip_wall_obstacle.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Modern Pentathlon](modern-pentathlon.html), [Ninja Sport](ninja-sport.html), [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html); the related pages are listed under Important Links.
+
 ## Rules
 
 OCR events are timed races against the clock, usually with waves of starters released at intervals (Spartan Race, n.d.). Distances range from a 100 m sprint to 3 km, 5 km, 10 km and ultra formats of 20 km and more, with 20 to 40 or more obstacles per course (World Obstacle, n.d.). Mandatory obstacles must be completed, and failure to complete an obstacle results in a penalty — typically burpees — or disqualification in elite racing; some formats include a mandatory carry such as a bucket, sandbag or tire (Spartan Race, n.d.). Elites and age-group racers compete in separate heats, with men's and women's elite categories at every championship, and electronic timing decides the results (World Obstacle, n.d.). At championship level the UIPM runs events over 100 m, 400 m and 3 km plus a relay, with the same obstacle specifications as the obstacle discipline of the modern pentathlon (Union Internationale de Pentathlon Moderne, n.d.).
@@ -31,5 +33,4 @@ Modern obstacle course racing grew out of military endurance training and events
 - [World Obstacle](https://www.worldobstacle.org/) — former international federation for OCR and ninja racing (FISO)
 - [Spartan Race](https://www.spartan.com/) — the world's largest OCR series; formats, rules and elite racing
 - [Obstacle course racing — Wikipedia](https://en.wikipedia.org/wiki/Obstacle_course_racing) — history from Tough Guy 1987 to the commercial boom
-- [Modern Pentathlon](modern-pentathlon.html) on this site — obstacle racing becomes its fifth discipline at Los Angeles 2028
-- [Ninja Sport](ninja-sport.html) on this site — short technical obstacle format
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Swimrun](swimrun.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races

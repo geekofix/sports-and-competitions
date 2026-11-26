@@ -6,6 +6,8 @@ The deadlift is the third and final lift in competitive [powerlifting](powerlift
 
 *Figure: Paula R. Lively. (2017, March 4). Martins Licis Arnold Classic 2017d [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Martins_Licis_Arnold_Classic_2017d.jpg*
 
+ Within the strength and lifting family on this site, its closest relatives are [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Strongman](strongman.html), [Weightlifting](weightlifting.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IPF technical rules the bar is loaded horizontally on the platform and gripped with a conventional or alternate grip (hook grip permitted); the lifter pulls the bar upward in one continuous motion with no downward movement, and the lift is complete only when knees are locked, shoulders back and the body motionless and upright — the referee then gives the "down" command (International Powerlifting Federation, 2026). Faults include resting the bar on the thighs (hitching), any downward bar movement, foot movement, releasing the bar before the command, or dropping it at the finish. Equipment is limited to a belt, wrist wraps and mandatory shin-length socks in classic lifting; equipped lifters may wear a deadlift suit (International Powerlifting Federation, 2026). Each lifter gets three attempts, single-lift deadlift world championships run on the same technical basis, and men's and women's classes exist across all bodyweight categories plus junior and masters age groups (Wikipedia, n.d.-a).
@@ -27,6 +29,4 @@ The loaded barbell pull from the floor is as old as weightlifting itself, and th
 ## Important Links
 
 - [International Powerlifting Federation (IPF)](https://www.powerlifting.sport/) — technical rules; single-lift world championships
-- [Powerlifting](powerlifting.html) on this site — the parent three-lift sport
-- [Powerlifting Squat](powerlifting-squat.html) and [Bench Press](powerlifting-bench-press.html) on this site — the other two lifts
-- [Strongman](strongman.html) on this site — where the deadlift is a central event
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Para Powerlifting](para-powerlifting.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight Over Bar](weight-over-bar.html), [Weight For Height](weight-for-height.html), [Steinholding](steinholding.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html), [Haggis Hurling](haggis-hurling.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

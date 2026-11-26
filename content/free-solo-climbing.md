@@ -10,6 +10,8 @@ The women's side of the sport is documented by Catherine Destivelle of France, t
 
 *Figure: brewbooks. (2011, March 22). Free soloing on a boulder at Joshua Tree National Park — no ropes or protection visible [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Free_Soloing_at_Joshua_Tree_-_Flickr_-_brewbooks.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Sport Climbing](sport-climbing.html), [Rock Climbing](rock-climbing.html), [Bouldering](bouldering.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 There is no rulebook for free soloing — the "rules" are the absence of rules: no rope, no harness, no protection, no second chance. Climbers rehearse routes roped for months or years to memorize every move, then descend on foot or solo downclimb (Wikipedia, n.d.-d).
@@ -51,4 +53,4 @@ On the women's side, Catherine Destivelle made the era's most famous female free
 
 - [IFSC — International Federation of Sport Climbing](https://www.ifscclimbing.org/) — world governing body of competition climbing
 - [Wikipedia: Free solo climbing](https://en.wikipedia.org/wiki/Free_solo_climbing) — overview and notable soloists
-- Related on this site: [sport climbing](sport-climbing.html), [rock climbing](rock-climbing.html), [bouldering](bouldering.html), [lead climbing](lead-climbing.html), [speed climbing](speed-climbing.html), [ice climbing](ice-climbing.html)
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html), [Parkour Speed](parkour-speed.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports

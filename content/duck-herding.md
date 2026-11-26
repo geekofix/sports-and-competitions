@@ -8,6 +8,7 @@ Women and men compete alike as handlers in duck herding.
 
 *Figure: Jean-Michel Castelan / Design Madeleine. (2008). Border Collie (View Dan) 9 semaines sur canards — A border collie puppy training on ducks — duck herding is the herding-dog trial variant played with ducks instead of sheep [Photograph]. Wikimedia Commons. GFDL / CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Border_Collie_%2528View_Dan%2529_9_semaines_sur_canards.jpg*
 
+ Within the dog sports family on this site, its closest relatives are [Dock Diving](dock-diving.html), [Dog Surfing](dog-surfing.html), [Dog Sledding](dog-sledding.html), [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,6 +36,4 @@ Moving ducks with dogs has been everyday farm work for centuries wherever poultr
 
 - [American Kennel Club — Herding](https://www.akc.org/sports/herding/) — herding regulations, tests, trials and titles (ducks, sheep, cattle)
 - [American Herding Breed Association](https://www.ahba-herding.org/) — herding trials including duck courses
-- [Dock Diving](dock-diving.html) on this site
-- [Dog Surfing](dog-surfing.html) on this site
-- [Dog Sledding](dog-sledding.html) on this site
+- Related on this site: [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html), [Skijoring](skijoring.html), [Flyball](flyball.html), [Weight Pulling Dog Sport](weight-pulling-dog-sport.html), [Sheep Dog Trials](sheep-dog-trials.html), [Lure Coursing](lure-coursing.html), [Schutzhund](schutzhund.html), [Dock Diving](dock-diving.html), [Dog Surfing](dog-surfing.html), [Scootering Dog Sport](scootering-dog-sport.html), [Canine Freestyle](canine-freestyle.html) and [Dog Sledding](dog-sledding.html) — the dog sports

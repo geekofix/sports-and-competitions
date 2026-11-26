@@ -6,6 +6,8 @@ Steinholding (from the German *Stein*, stone, and *halten*, to hold) is a streng
 
 *Figure: Bbkoda. (2014, June 4). Highland Games Athletes [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Highland_Games_Athletes.jpg*
 
+ Within the strength and lifting family on this site, its closest relatives are [Stone Put](stone-put.html), [Strongman](strongman.html), [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the classic steinholding event each competitor gets up to three attempts; the stone — a filled beer-stein mug or a dedicated steel-and-lead stone of 10–25 kg for men and lighter variants for women — is lifted to shoulder height with a straight arm and held horizontally with the arm fully extended, the clock running until the stone drops below the horizontal or the arm bends (Wikipedia, n.d.-b). The longest valid hold wins; in "max hold" variants the heaviest stone held for a minimum time (often 5 seconds) wins instead. Fouls include resting the stone on the body, bending the elbow or wrist to support it, or stepping out of the marked lifting area; judges time each attempt and the best of three stands. Highland games run men's and women's heavies with the same apparatus scaled by weight class, and youth divisions use lighter stones; strongman shows add timed team relays (Wikipedia, n.d.-a).
@@ -27,6 +29,4 @@ Stones of strength have been lifted in Scotland and the Alps for centuries — t
 
 - [Scottish Highland Games Association (SHAG)](https://shag.co.uk/) — Scottish governing body of the Highland games
 - [North American Scottish Games Association (NASGA)](https://www.nasgaweb.com/) — North American Highland games circuit
-- [Stone Put](stone-put.html) on this site — the throwing heavy event of the Highland games
-- [Strongman](strongman.html) on this site — the modern strength competition circuit
-- [Weightlifting](weightlifting.html) on this site — the Olympic barbell strength sport
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Para Powerlifting](para-powerlifting.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight Over Bar](weight-over-bar.html), [Weight For Height](weight-for-height.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html), [Haggis Hurling](haggis-hurling.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

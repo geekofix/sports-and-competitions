@@ -8,6 +8,8 @@ Prizes traditionally go to the first three to five riders, and while the classic
 
 *Figure: FischerFotos. (2010, July 9). Young jockeys racing horses across the open steppe at the Naadam festival in Mongolia — the Central Asian long-distance racing tradition of which the Kazakh baiga is the national form [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Young_Naadam_Horse_Racers_in_Mongolia_-_2010.jpg*
 
+ Within the equestrian family on this site, its closest relatives are [Audaryspak](audaryspak.html), [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The rules are simple and age-graded: horses are entered in their age class (kunan up to 3 years, donen up to 4 years, baiga 5+ years), the alaman baiga is run cross-country over a marked 30, 50 or 100 km course, and the first horse home wins, with placings paid to the leading three to five finishers depending on the race (E-history.kz, n.d.-a; E-history.kz, n.d.-b).
@@ -44,4 +46,4 @@ In the modern era baiga was included in the programme of the World Nomad Games, 
 - [E-history.kz — Traditional Kazakh games](https://e-history.kz/en/news/show/8294) — baiga at hippodromes and festivals; boy jockeys aged 7–14
 - [E-history.kz — Baiga and audaryspak](https://e-history.kz/en/news/show/28688) — World Nomad Games disciplines
 - [World Nomad Games](https://en.wikipedia.org/wiki/World_Nomad_Games) — baiga on the programme since 2014
-- Related on this site: [audaryspak](audaryspak.html), [horseball](horseball.html), [horseshoes](horseshoes.html)
+- Related on this site: [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html), [Combined Driving](combined-driving.html), [Reining](reining.html), [Endurance Riding](endurance-riding.html), [Mounted Games](mounted-games.html), [Tent Pegging](tent-pegging.html), [Working Cow Horse](working-cow-horse.html), [Para Equestrian Dressage](para-equestrian-dressage.html), [Thoroughbred Racing](thoroughbred-racing.html), [Harness Racing](harness-racing.html), [Barrel Racing](barrel-racing.html), [Rodeo](rodeo.html), [Chariot Racing](chariot-racing.html), [Camel Racing](camel-racing.html), [Reindeer Racing](reindeer-racing.html), [Yak Racing](yak-racing.html), [Cutting](cutting.html) and [Audaryspak](audaryspak.html) — the equestrian sports and horse racing

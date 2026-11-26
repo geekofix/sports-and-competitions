@@ -6,6 +6,8 @@ Parkour speed (officially speedrun in FIG terminology) is the timed discipline o
 
 *Figure: Danhje. (2008, December 14). A traceur performing a speed vault [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Parkour_speed_vault_portrait.jpg*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html), [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In a speedrun competition governed by the FIG parkour rules, the athlete must complete a standardized course — a fixed sequence of obstacles such as walls, rails, boxes and bars set at defined distances and heights — in the shortest possible time, with electronic timing from the start line to the finish (International Gymnastics Federation, n.d.). The course is built to FIG specifications at every World Cup and World Championship venue so that times are comparable worldwide, and the same course layout is used for men and women. Touching the ground between obstacles, missing an obstacle or leaving the designated path brings time penalties or disqualification under the FIG rules; athletes typically get a set number of runs in qualification, and the best time advances to the final or to knockout heats. Safety requirements apply to course construction, landing zones and matting, and athletes compete in men's and women's categories as well as junior and senior age groups, with the fastest clean time winning (International Gymnastics Federation, n.d.). Because the course is identical for all competitors, the discipline is often described as pure racing against the clock and against one's own best time.
@@ -29,8 +31,7 @@ Speedrun as a competitive format was defined when the FIG formalized parkour in 
 
 - [International Gymnastics Federation (FIG) — parkour](https://www.gymnastics.sport/) — world governing body; World Cup since 2018, World Championships, speedrun discipline
 - [Parkour UK](https://parkour.uk/hub/a-brief-history-of-parkour) — community organization with the sport's history
-- [Parkour](parkour.html) on this site — the parent discipline
-- [Parkour Freestyle](parkour-freestyle.html) on this site — the judged acrobatic discipline
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html) and [Extreme Mountain Unicycling](extreme-mountain-unicycling.html) — the climbing, mountaineering, highlining and parkour sports
 - [Obstacle Course Racing](obstacle-course-racing.html) on this site — mass-participation timed obstacle racing
 - [Ninja Sport](ninja-sport.html) on this site — short technical obstacle course racing
 - [Gymnastics](gymnastics.html) on this site — the parent FIG discipline family

@@ -6,6 +6,8 @@ The squat is the first of the three lifts in competitive [powerlifting](powerlif
 
 *Figure: Nenad Stojkovic. (2019, February 23). Young blonde woman working out in the gym [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Young_blonde_woman_working_out_in_the_gym.jpg*
 
+ Within the strength and lifting family on this site, its closest relatives are [Powerlifting](powerlifting.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Weightlifting](weightlifting.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IPF technical rules, the lifter takes the bar from the uprights, steps back and stands upright and motionless with knees locked; the chief referee then gives the "squat" command and the lifter descends, bending the knees until the top surface of the legs at the hip joint is lower than the top of the knees, then recovers to an upright position with knees locked and stands motionless before the "rack" command (International Powerlifting Federation, 2026). Faults that void the attempt include double-bouncing out of the bottom, any downward movement during recovery, failure to reach depth, shifting the feet, contacting the bar or supports with the plates, or dumping the bar. Equipped lifters wear a supportive squat suit and knee wraps; classic lifters may use only knee sleeves, a belt and wrist wraps. Each lifter gets three attempts, single-lift squat world championships run on the same technical basis, and men's and women's classes exist across all bodyweight categories plus junior and masters age groups (Wikipedia, n.d.-b).
@@ -27,6 +29,4 @@ Squatting with a barbell on the shoulders descends from 19th- and early-20th-cen
 ## Important Links
 
 - [International Powerlifting Federation (IPF)](https://www.powerlifting.sport/) — technical rules; single-lift world championships
-- [Powerlifting](powerlifting.html) on this site — the parent three-lift sport
-- [Powerlifting Bench Press](powerlifting-bench-press.html) and [Deadlift](powerlifting-deadlift.html) on this site — the other two lifts
-- [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html) on this site — a related barbell discipline
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Para Powerlifting](para-powerlifting.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight Over Bar](weight-over-bar.html), [Weight For Height](weight-for-height.html), [Steinholding](steinholding.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html), [Haggis Hurling](haggis-hurling.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

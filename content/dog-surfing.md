@@ -12,6 +12,8 @@ Dog surfing is a competitive sport in which dogs ride ocean waves on surfboards,
 
 Women and men compete with their dogs on equal terms in dog surfing.
 
+ Within the dog sports family on this site, its closest relatives are [Dog Sledding](dog-sledding.html), [Dock Diving](dock-diving.html), [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In a heat, each dog is pushed into a wave by its handler and rides toward the shore on a board sized for the dog; judges award points for confidence on the board, length of the ride and overall wave-riding ability, and the highest-scoring dog in each heat advances (Surf City Surf Dog, n.d.). Events are organized in size classes (small, medium, large and sometimes tandem or "dog and human" divisions), with heats of a few minutes and a championship final; dogs wear life vests in most competitions, and handlers may push the dog into the wave but must stay in the water (World Dog Surfing Championships, n.d.). There are no separate competitions by sex of dog or handler — male and female dogs and handlers compete together in the same classes (Surf City Surf Dog, n.d.). Major events such as the World Dog Surfing Championships in Pacifica and Surf City Surf Dog in Huntington Beach also raise money for animal charities (Associated Press, 2026).
@@ -39,3 +41,4 @@ The first dog surfing competition is credited to Imperial Beach, California, in 
 - [Surf City Surf Dog](https://surfdogevents.com/) — Huntington Beach event; rules and charity partners
 - [Associated Press — 2026 World Dog Surfing Championships](https://apnews.com/article/world-dog-surfing-championship-a16c43580b10624d2d343d59c3e94e59) — coverage of the 2026 edition in Pacifica
 - [Surfing](surfing.html), [Dog sledding](dog-sledding.html) and [Dock diving](dock-diving.html) on this site
+- Related on this site: [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html), [Skijoring](skijoring.html), [Flyball](flyball.html), [Weight Pulling Dog Sport](weight-pulling-dog-sport.html), [Sheep Dog Trials](sheep-dog-trials.html), [Lure Coursing](lure-coursing.html), [Schutzhund](schutzhund.html), [Dock Diving](dock-diving.html), [Scootering Dog Sport](scootering-dog-sport.html), [Canine Freestyle](canine-freestyle.html), [Dog Sledding](dog-sledding.html) and [Duck Herding](duck-herding.html) — the dog sports

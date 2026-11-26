@@ -12,6 +12,8 @@ Canyoning — called *canyoneering* in the United States and *kloofing* in South
 
 Women and men canyon in the same groups, and women compete at the highest level of the sport.
 
+ Within the orienteering and adventure family on this site, its closest relatives are [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html); the related pages are listed under Important Links.
+
 ## Rules
 
 There is no single world rulebook; in France the FFME publishes federal rules, safety guidance and equipment standards, and routes are graded on the French scale — a "v" grade for vertical difficulty (rappels), an "a" grade for aquatic difficulty and an "e" grade for engagement/commitment, for example v3 a3 II for a moderate, mostly dry canyon (FFME, n.d.). Standard equipment is a full wetsuit, a climbing helmet (EN 12492), a harness, canyoning shoes with grippy soles and semi-static ropes of 8.5–9.5 mm, plus a throw bag for rescue; groups descend together under a qualified leader, use releasable rappel systems and never rappel into water that has not been checked (FFME, n.d.). Jumps are allowed only into deep pools verified by the group, and environmental rules — staying on marked trails, leaving no trace and respecting other parties — are part of the federal regulations (FFME, n.d.). In competitive canyon racing (descente chronométrée), teams are ranked by total time on a marked course. The sport is practiced by women and men at every level, and ICOpro certification (Canyoneer levels 1–3 and instructor grades, e.g., autonomous on v3 a3 II canyons at Canyoneer 3) is open to all genders and sets the international safety standard for guiding (ICOpro, n.d.).
@@ -41,3 +43,4 @@ Canyoning grew out of caving and mountaineering in mid-20th-century France, wher
 - [FFME — Fédération Française de la Montagne et de l'Escalade](https://www.ffme.fr/) — French federation; canyoning rules and grading
 - [VALLIS/RIC 2026 — Arouca, Portugal](https://www.ecdcportugal.com/events) — largest world canyoning gathering of 2026, 17–21 June
 - [Mountaineering](mountaineering.html) and [Swimming](swimming.html) on this site
+- Related on this site: [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html) and [Coasteering](coasteering.html) — the orienteering and adventure racing sports

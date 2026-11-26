@@ -6,6 +6,7 @@ Extreme mountain unicycling (MUni) is the off-road discipline of unicycling: rid
 
 *Figure: Anna reg. (2012, September 16). QU-AX MUni — a 24-inch QU-AX mountain unicycle (MUni) — the rugged unicycle used in extreme mountain unicycling off-road and downhill [Photograph]. Wikimedia Commons. GFDL / CC BY-SA 3.0 AT. https://commons.wikimedia.org/wiki/File:QU-AX_MUni.JPG*
 
+ Within the climbing and mountaineering family on this site, its closest relatives are [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ Unicycling as a sport dates to the late nineteenth century, and the IUF was foun
 - [International Unicycling Federation — Unicon](https://unicycling.org/unicon/) — world unicycling championships; Unicon 22 Steyr 2026, IUF Rulebook
 - [International Unicycling Federation](https://unicycling.org/) — world governing body of unicycling; disciplines and events
 - [Cycling](cycling.html) on this site
+- Related on this site: [Rock Climbing](rock-climbing.html), [Sport Climbing](sport-climbing.html), [Lead Climbing](lead-climbing.html), [Speed Climbing](speed-climbing.html), [Bouldering](bouldering.html), [Ice Climbing](ice-climbing.html), [Mountaineering](mountaineering.html), [Free Solo Climbing](free-solo-climbing.html), [Tree Climbing](tree-climbing.html), [Areca Nut Tree Climbing](areca-nut-tree-climbing.html), [Malla Khamba](malla-khamba.html), [Highlining](highlining.html), [Slacklining](slacklining.html), [Tricklining](tricklining.html), [Parkour](parkour.html), [Parkour Freestyle](parkour-freestyle.html) and [Parkour Speed](parkour-speed.html) — the climbing, mountaineering, highlining and parkour sports

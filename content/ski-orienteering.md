@@ -6,6 +6,7 @@ Ski orienteering is the winter discipline of orienteering: athletes navigate on 
 
 *Figure: Adriano900. (2011, February 20). Ski-orienteering.jpg — Start of a relay at the Swedish ski-orienteering championships [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Ski-orienteering.jpg*
 
+ Within the orienteering and adventure family on this site, its closest relatives are [Orienteering](orienteering.html), [Trail Orienteering](trail-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Foot Orienteering](foot-orienteering.html), [Rogaining](rogaining.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,6 +35,5 @@ Ski orienteering grew out of Scandinavian military orienteering in the 1930s, wi
 
 - [IOF — International Orienteering Federation](https://orienteering.sport/) — world governing body; World Championships, World Cup and competition rules
 - [IOF Eventor](https://eventor.orienteering.org/) — official calendar and results of international orienteering events
-- [Orienteering](orienteering.html) on this site — the foot-orienteering parent discipline
-- [Trail orienteering](trail-orienteering.html) and [Mountain bike orienteering](mountain-bike-orienteering.html) on this site — other IOF disciplines
+- Related on this site: [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html), [Coasteering](coasteering.html) and [Canyoning](canyoning.html) — the orienteering and adventure racing sports
 - [Cross-country skiing](cross-country-skiing.html) on this site — the skiing discipline used

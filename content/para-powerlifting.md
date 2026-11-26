@@ -8,6 +8,8 @@ The biennial World Championships were held in Cairo 2025, World Cups ran in Cair
 
 *Figure: The National Paralympic Committee of Azerbaijan. (2022, March 15). Azerbaijani para powerlifting team in the gym [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Azerbaijani_para_powerlifting_team_in_2021.jpg*
 
+ Within the strength and lifting family on this site, its closest relatives are [Powerlifting](powerlifting.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under World Para Powerlifting rules the lift is the bench press only: the lifter lies on the bench, receives the bar on extended arms, lowers it to the chest, holds it motionless ("pause"), then presses it back and racks it on the referee's commands; three attempts are allowed, announced in ascending order within the flight, and the heaviest successful lift wins the category (World Para Powerlifting, n.d.-c; Wikipedia, n.d.-a).
@@ -43,4 +45,4 @@ Weightlifting for athletes with disabilities has been part of the Paralympic pro
 - [World Para Powerlifting](https://www.paralympic.org/powerlifting) — world federation; rules, classifications
 - [WPPO events](https://www.paralympic.org/powerlifting/events) and [results/records](https://www.paralympic.org/powerlifting/results)
 - [Olympics — Paris 2024 powerlifting results](https://www.olympics.com/en/paris-2024/paralympic-games/results/powerlifting)
-- Related on this site: [powerlifting](powerlifting.html), [bench press](powerlifting-bench-press.html), [weightlifting](weightlifting.html), [para-athletics](para-athletics.html)
+- Related on this site: [Weightlifting](weightlifting.html), [Olympic Weightlifting Snatch](olympic-weightlifting-snatch.html), [Olympic Weightlifting Clean And Jerk](olympic-weightlifting-clean-and-jerk.html), [Powerlifting](powerlifting.html), [Powerlifting Squat](powerlifting-squat.html), [Powerlifting Bench Press](powerlifting-bench-press.html), [Powerlifting Deadlift](powerlifting-deadlift.html), [Strongman](strongman.html), [Strongwoman](strongwoman.html), [Bodybuilding](bodybuilding.html), [Crossfit](crossfit.html), [Girevoy Sport](girevoy-sport.html), [Stone Put](stone-put.html), [Weight Over Bar](weight-over-bar.html), [Weight For Height](weight-for-height.html), [Steinholding](steinholding.html), [Scottish Hammer Throw](scottish-hammer-throw.html), [Sheaf Toss](sheaf-toss.html), [Caber Toss](caber-toss.html), [Haggis Hurling](haggis-hurling.html) and [Tug Of War](tug-of-war.html) — the strength and lifting sports

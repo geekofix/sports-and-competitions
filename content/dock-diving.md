@@ -8,6 +8,8 @@ Dock diving is a competitive dog sport in which a dog runs down a raised dock an
 
 Women and men compete in separate and mixed categories at dock diving events.
 
+ Within the dog sports family on this site, its closest relatives are [Canicross](canicross.html), [Canine Freestyle](canine-freestyle.html), [Agility Dog Sport](agility-dog-sport.html), [Bikejoring](bikejoring.html), [Skijoring](skijoring.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitions are run under the official DockDogs Rules and Policies (DockDogs, n.d.-b). The standard competition dock is 40 ft (12.2 m) long and 8 ft (2.4 m) wide, raised about 2 ft above the water surface; in Big Air the dog and handler start at the far end and the jump is measured from the edge of the dock to the point where the base of the dog's tail breaks the water surface, with size classes such as over-24-ft, 20–24 ft and under-20 ft jumps (DockDogs, n.d.-b). Each dog typically gets two or more attempts per round and the longest valid jump counts; in Speed Retrieve the clock runs for 60 seconds and the toy may be placed up to 20 ft from the dock, and in Extreme Vertical the height of the bumper is raised until the dog fails (DockDogs, n.d.-b). Dogs must be at least 12 months old at national events, and major championships enforce veterinary checks, non-slip dock surfaces, water-quality standards and humane handling rules; outside assistance, doping and mistreatment are prohibited (DockDogs, n.d.-b; USDAA, n.d.). Men and women compete together as handlers in the same divisions, and youth handlers compete in dedicated junior classes (DockDogs, n.d.-a).
@@ -32,3 +34,4 @@ Dock diving grew out of casual dock jumping by retrievers and sporting dogs in t
 - [DockDogs](https://www.dockdogs.com/) — leading sanctioning body; official rules, event calendar and World Championship
 - [USDAA — United States Dog Agility Association](https://www.usdaa.com/) — sanctions dock jumping within its performance dog-sports program
 - [Canicross](canicross.html), [Canine freestyle](canine-freestyle.html) and [Disc dog](disc-dog.html) on this site
+- Related on this site: [Agility Dog Sport](agility-dog-sport.html), [Canicross](canicross.html), [Bikejoring](bikejoring.html), [Skijoring](skijoring.html), [Flyball](flyball.html), [Weight Pulling Dog Sport](weight-pulling-dog-sport.html), [Sheep Dog Trials](sheep-dog-trials.html), [Lure Coursing](lure-coursing.html), [Schutzhund](schutzhund.html), [Dog Surfing](dog-surfing.html), [Scootering Dog Sport](scootering-dog-sport.html), [Canine Freestyle](canine-freestyle.html), [Dog Sledding](dog-sledding.html) and [Duck Herding](duck-herding.html) — the dog sports

@@ -6,6 +6,8 @@ Swimrun is a race that alternates open-water swimming and trail running, with te
 
 *Figure: Otillorace. (2024, March 15). ÖTILLÖ swim fins — ÖTILLÖ athletes with swimming fins [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:ÖTILLÖ_swim_fins.jpg*
 
+ Within the multisport and endurance race family on this site, its closest relatives are [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A swimrun course alternates fixed swim and run sections; teams of two (men's, women's or mixed) or solo athletes must carry all equipment — mandatory whistle, GPS device and first-aid kit — through both disciplines, may use a pull buoy and hand paddles in the swims, and teammates must stay within 10 m of each other at all times (Wikipedia, n.d.-b). Athletes run in wetsuits (cut or full) and swim in shoes; the transition zones between sections are where tactics are decided (ÖTILLÖ Swimrun, n.d.). Distances range from the ~8 km Experience and ~15 km Sprint races through the ~40 km World Series events to the 70–75 km World Championship; the first team or solo athlete to the finish wins, with no cut-offs on the flagship course beyond the overall time limit (ÖTILLÖ Swimrun, n.d.). Men's, women's and mixed divisions are scored identically (Wikipedia, n.d.-b).
@@ -29,3 +31,4 @@ The ÖTILLÖ race began as a 2002 bet among four friends racing Utö→Sandhamn 
 - [ÖTILLÖ Swimrun — official site](https://www.otilloswimrun.com/) — World Championship, World Series, rules
 - [Open water swimming](open-water-swimming.html) and [Triathlon](triathlon.html) on this site — the swim and multi-discipline cousins
 - [Athletics](athletics.html) on this site — the running leg of swimrun
+- Related on this site: [Triathlon](triathlon.html), [Duathlon](duathlon.html), [Aquathlon](aquathlon.html), [Winter Triathlon](winter-triathlon.html), [Cross Triathlon](cross-triathlon.html), [Aquabike](aquabike.html), [Biathle](biathle.html), [Triathle](triathle.html), [Quadrathlon](quadrathlon.html), [Modern Pentathlon](modern-pentathlon.html), [Pentathlon](pentathlon.html), [Mondioring](mondioring.html), [Laser Run](laser-run.html), [Hyrox](hyrox.html), [Obstacle Course Racing](obstacle-course-racing.html), [Ninja Sport](ninja-sport.html) and [Para Triathlon](para-triathlon.html) — the multisport and endurance races

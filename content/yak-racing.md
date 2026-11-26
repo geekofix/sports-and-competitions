@@ -6,6 +6,8 @@ Yak racing is a spectator sport held at traditional festivals of Tibet, Kazakhst
 
 *Figure: Pm.pfeiffer. (2009, July 28). YakRace — a yak race at Shimshal Pass, Gilgit-Baltistan, Pakistan [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:YakRace.jpg*
 
+ Within the equestrian family on this site, its closest relatives are [Reindeer Racing](reindeer-racing.html), [Camel Racing](camel-racing.html), [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Race formats are set by each festival's organising community: yaks run in heats or a single mass race over a marked course in open fields, each ridden by a handler clinging to the hump and ropes, with the first yak across the finish line winning (Wikipedia, n.d.). Courses are typically around 2000 m because yaks sprint only over short stretches, and rules restrict whipping and spurring while penalising hindrance, reflecting the same welfare expectations as horse racing (Travel All Mongolia, n.d.). Festival programmes add side categories — most famously the "Best-Decorated Yak" beauty contest — and some festivals include junior riders; men's and women's riders compete in the same races without separate classifications (View Mongolia, n.d.). Betting is not part of the tradition; prizes are honour, goods and cash awards from sponsors.
@@ -28,7 +30,6 @@ Yak racing belongs to the pastoral cultures of the Himalayas and the Tibetan Pla
 
 - [View Mongolia — Mongolian Yak Festival](https://www.viewmongolia.com/mongolia-yak-festival.html)
 - [Travel All Mongolia — festival events](http://www.travelallmongolia.com/tourist-events.html)
-- [Reindeer Racing](reindeer-racing.html) on this site — another northern animal racing tradition
-- [Camel Racing](camel-racing.html) on this site — desert festival racing
+- Related on this site: [Dressage](dressage.html), [Show Jumping](show-jumping.html), [Eventing](eventing.html), [Cross Country Equestrian](cross-country-equestrian.html), [Combined Driving](combined-driving.html), [Reining](reining.html), [Endurance Riding](endurance-riding.html), [Mounted Games](mounted-games.html), [Tent Pegging](tent-pegging.html), [Working Cow Horse](working-cow-horse.html), [Para Equestrian Dressage](para-equestrian-dressage.html), [Thoroughbred Racing](thoroughbred-racing.html), [Harness Racing](harness-racing.html), [Barrel Racing](barrel-racing.html), [Rodeo](rodeo.html), [Chariot Racing](chariot-racing.html), [Camel Racing](camel-racing.html), [Reindeer Racing](reindeer-racing.html), [Cutting](cutting.html), [Baiga](baiga.html) and [Audaryspak](audaryspak.html) — the equestrian sports and horse racing
 - [Dog Sledding](dog-sledding.html) on this site — a working-animal sport
 - [Skijoring](skijoring.html) on this site — horse-powered skiing

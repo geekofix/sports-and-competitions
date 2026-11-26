@@ -6,6 +6,8 @@ Orienteering is a group of navigation sports in which participants use a detaile
 
 *Figure: Suunnistus. (2007, June 26). Amateur orienteering [Photograph]. Wikimedia Commons. Public domain (PD-self). https://commons.wikimedia.org/wiki/File:Suunnistus.jpg*
 
+ Within the orienteering and adventure family on this site, its closest relatives are [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Foot Orienteering](foot-orienteering.html), [Rogaining](rogaining.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each competitor receives a specially prepared orienteering map only at the start, showing the exact location of the control points marked with orange-and-white flags (International Orienteering Federation, n.d.). The athlete must visit all controls in the prescribed order and punch an electronic timing chip at each one before crossing the finish line; the fastest total time wins (International Orienteering Federation, n.d.). Any assistance from other people, using a GPS device or deviating from the order of controls leads to disqualification (International Orienteering Federation, n.d.). At the World Orienteering Championships the main formats are the sprint (urban, about 15 minutes), the middle distance (about 35-40 minutes), the long distance (about 80-90 minutes) and the relay, in which three team members each run one leg (International Orienteering Federation, n.d.). Men's and women's elites run separate courses of similar difficulty; junior and veteran age classes (from under-16 to over-35 in five-year steps) follow the same rules on adapted courses (International Orienteering Federation, n.d.).
@@ -27,6 +29,4 @@ Modern orienteering was born in Sweden and Norway in the late 19th century, when
 
 - [International Orienteering Federation (IOF)](https://orienteering.sport/) — world governing body since 1961; rules, World Championships, World Cup
 - [Orienteering — Wikipedia](https://en.wikipedia.org/wiki/Orienteering) — history from 1897 Norway to the IOF founding 1961
-- [Mountain Bike Orienteering](mountain-bike-orienteering.html) on this site — the MTB discipline
-- [Ski Orienteering](ski-orienteering.html) on this site — the winter discipline
-- [Trail Orienteering](trail-orienteering.html) on this site — the precision discipline for athletes with disabilities
+- Related on this site: [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Mountain Bike Orienteering](mountain-bike-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html), [Coasteering](coasteering.html) and [Canyoning](canyoning.html) — the orienteering and adventure racing sports

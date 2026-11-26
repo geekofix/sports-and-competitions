@@ -8,6 +8,8 @@ Competition formats were ratified by the FAI in 2015 — the first FAI World Cup
 
 *Figure: Wingsuiting. (2012, March 11). Wingsuit Flying over Langar Airfield UK — a wingsuit pilot flying over fields at Langar Airfield (Parachute/Skydive School), United Kingdom [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wingsuit_Flying_over_Langar_Airfield_UK.jpg*
 
+ Within the air sports family on this site, its closest relatives are [Skydiving](skydiving.html), [Base Jumping](base-jumping.html), [Hang Gliding](hang-gliding.html), [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In performance competition, pilots exit from an aircraft and fly set tasks within a defined vertical window — typically a one-kilometre scoring band — with GPS loggers measuring speed over ground, horizontal distance and flight time; the fastest speed, longest distance and longest time each carry their own record and contest categories (Fédération Aéronautique Internationale, n.d.). Acrobatic wingsuit flying is judged on compulsory and free routines — formations, rotations and grips in head-up and head-down orientations — scored from the camera flyer's video (Wikipedia, n.d.). All flights require a valid skydiving licence, a reserve parachute and minimum deployment altitudes per federation rules; wingsuit BASE jumping from fixed objects follows separate, stricter exit and equipment rules, and proximity flying is explicitly outside sanctioned competition (International Skydiving Association, n.d.).
@@ -30,6 +32,4 @@ The winged-jump idea dates to the early twentieth century — tailor Franz Reich
 
 - [FAI — skydiving and wingsuit competition](https://www.fai.org/sport/skydiving) — world governing airsports body, wingsuit records and championships
 - [International Skydiving Association — wingsuiting history](https://internationalskydivingassociation.com/wingsuiting/wingsuiting-history/) — history and safety training standards
-- [Skydiving](skydiving.html) on this site — the parent freefall sport
-- [BASE Jumping](base-jumping.html) on this site — the fixed-object jump discipline wingsuit pilots cross into
-- [Hang Gliding](hang-gliding.html) on this site — another unpowered gliding air sport
+- Related on this site: [Paragliding](paragliding.html), [Powered Paragliding](powered-paragliding.html), [Hang Gliding](hang-gliding.html), [Skydiving](skydiving.html), [Indoor Skydiving](indoor-skydiving.html), [Base Jumping](base-jumping.html), [Hot Air Ballooning](hot-air-ballooning.html), [Gliding](gliding.html), [Canopy Piloting](canopy-piloting.html), [Aeromodelling](aeromodelling.html), [Air Racing](air-racing.html), [Drone Racing](drone-racing.html) and [Airbadminton](airbadminton.html) — the air sports
