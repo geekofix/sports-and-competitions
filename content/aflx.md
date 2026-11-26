@@ -1,6 +1,6 @@
 ## Basic Information
 
-AFLX was a six-a-side exhibition variant of Australian rules football created by the Australian Football League (AFL) and played from 2018 to 2019. It was designed as a faster, more spectacular version of the game for broadcast and live audiences, on a smaller oval with quicker restarts. The competition was discontinued after the 2019 season because of cost and scheduling conflicts, and the AFL's community focus has since shifted to formats such as [AFL 9s](afl-9s.html) and [Australian Rules Football](australian-rules-football.html) on this site (Australian Football League [AFL], n.d.; AFL Tables, n.d.).
+AFLX was a six-a-side exhibition variant of Australian rules football created by the Australian Football League (AFL) and played from 2018 to 2019. It was designed as a faster, more spectacular version of the game for broadcast and live audiences, on a smaller oval with quicker restarts. The competition was discontinued after the 2019 season because of cost and scheduling conflicts, and the AFL's community focus has since shifted to formats such as [AFL 9s](afl-9s.html) and [Australian Rules Football](australian-rules-football.html) on this site (Australian Football League [AFL], n.d.; AFL Tables, n.d.). AFLX was one of the Australian rules variants within the football-codes family listed under Important Links.
 
 AFLX is mixed-gender by design — women and men share the field in the same teams.
 
@@ -35,4 +35,4 @@ The AFL launched AFLX in 2018 as a mid-season exhibition competition with shorte
 
 - [AFL — Australian Football League](https://www.afl.com.au/) — governing body that created and ran AFLX (2018–2019)
 - [AFL Tables — AFLX section](https://afltables.com/afl/aflx/) — complete AFLX results and statistics
-- See also [Australian Rules Football](australian-rules-football.html) and [AFL 9s](afl-9s.html) on this site
+- Related on this site: [American Football](american-football.html), [Canadian Football](canadian-football.html), [Arena Football](arena-football.html), [Flag Football](flag-football.html), [Sprint Football](sprint-football.html), [Australian Rules Football](australian-rules-football.html), [Women's Australian Rules Football](women-s-australian-rules-football.html), [AFL 9s](afl-9s.html), [Gaelic Football](gaelic-football.html), [Ladies' Gaelic Football](ladies-gaelic-football.html) and [International Rules Football](international-rules-football.html) — the football codes (American, Canadian, Australian, Gaelic and their variants)
