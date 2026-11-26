@@ -1,6 +1,6 @@
 ## Basic Information
 
-Candlepin bowling is a pin-bowling variant played almost exclusively in New England and the Canadian Maritime provinces, governed internationally by the International Candlepin Bowling Association (ICBA), whose bylaws were approved on 9 January 1986 so that bowlers in all member states and provinces play under identical rules (International Candlepin Bowling Association, n.d.-a; Wikipedia, n.d.-a). The game uses a handheld ball and tall, slender pins that resemble candles — hence the name — on the same 60-foot (18 m) lane as tenpin bowling (Wikipedia, n.d.-a).
+Candlepin bowling is a pin-bowling variant played almost exclusively in New England and the Canadian Maritime provinces, governed internationally by the International Candlepin Bowling Association (ICBA), whose bylaws were approved on 9 January 1986 so that bowlers in all member states and provinces play under identical rules (International Candlepin Bowling Association, n.d.-a; Wikipedia, n.d.-a). The game uses a handheld ball and tall, slender pins that resemble candles — hence the name — on the same 60-foot (18 m) lane as tenpin bowling (Wikipedia, n.d.-a). The pin-bowling family also includes [bowling (ten-pin)](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html) and [duckpin bowling](duckpin-bowling.html), which differ in pin and ball size and in whether fallen pins are cleared between deliveries.
 
 The defining quirk is the deadwood rule: fallen pins ("wood") that remain entirely behind the deadwood line stay on the lane for the rest of the frame and can be used to carom into standing pins, which makes candlepin a game of angles rather than power and is why the highest sanctioned single game is only 245 pins (Wikipedia, n.d.-a; International Candlepin Bowling Association, n.d.-b).
 
@@ -46,4 +46,4 @@ Originally the pins were thin dowels — one-inch-thick pins resembling actual c
 - [International Candlepin Bowling Association (ICBA)](https://www.candlepin.org/) — international governing body since 1986; rules, tournaments, member associations
 - [ICBA Rules & Regulations](https://www.candlepin.org/icba-rules-regulations) — official pin and deadwood rules
 - [ICBA Tournaments](https://www.candlepin.org/tournaments) — annual adult (men's and women's) and youth championships
-- Related on this site: [bowling](bowling.html), [duckpin bowling](duckpin-bowling.html), [nine-pin bowling](nine-pin-bowling.html)
+- Related on this site (group `bowling-variants`): [bowling](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [duckpin bowling](duckpin-bowling.html)

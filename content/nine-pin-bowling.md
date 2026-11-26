@@ -1,6 +1,6 @@
 ## Basic Information
 
-Nine-pin bowling (also called kegeln or kegel) is a pin bowling game played mainly in Europe, in which a ball without finger holes is rolled at nine pins arranged in a diamond formation at the end of a lane (World Ninepin Bowling Association, n.d.). It is governed internationally by the World Ninepin Bowling Association (WNBA), a disciplinary association within World Bowling, with about 250,000 members in 28 countries across Europe, South America and Asia (Wikipedia, n.d.-a). It differs from [ten-pin bowling](ten-pin-bowling.html) and general [bowling](bowling.html) in pin count, ball and lane types. Both women and men compete in national leagues and at the World Championships under the same rules (World Ninepin Bowling Association, n.d.).
+Nine-pin bowling (also called kegeln or kegel) is a pin bowling game played mainly in Europe, in which a ball without finger holes is rolled at nine pins arranged in a diamond formation at the end of a lane (World Ninepin Bowling Association, n.d.). It is governed internationally by the World Ninepin Bowling Association (WNBA), a disciplinary association within World Bowling, with about 250,000 members in 28 countries across Europe, South America and Asia (Wikipedia, n.d.-a). It differs from [ten-pin bowling](ten-pin-bowling.html) and general [bowling](bowling.html) in pin count, ball and lane types; the other small-ball pin variants are [candlepin bowling](candlepin-bowling.html) and [duckpin bowling](duckpin-bowling.html). Both women and men compete in national leagues and at the World Championships under the same rules (World Ninepin Bowling Association, n.d.).
 
 ![Nine pins falling after a ball hit in nine-pin bowling](https://commons.wikimedia.org/wiki/Special:Redirect/file/Kegelfall.JPG?width=500)
 
@@ -28,5 +28,4 @@ Nine-pin bowling developed from medieval European kegeln games played in guild h
 - [World Ninepin Bowling Association (WNBA)](https://www.world-ninepins.org/) — world governing body within World Bowling; rules, World Championships and rankings
 - [World Bowling](https://www.worldbowling.org/) — umbrella world federation for all bowling disciplines
 - [Nine-pin bowling — Wikipedia](https://en.wikipedia.org/wiki/Nine-pin_bowling) — history, scoring and the nine-pin diamond
-- [Ten-Pin Bowling](ten-pin-bowling.html) on this site — the ten-pin variant with finger holes
-- [Bowling](bowling.html) on this site — overview of bowling disciplines
+- Related on this site (group `bowling-variants`): [bowling](bowling.html) — overview of bowling disciplines, [ten-pin bowling](ten-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the other pin-bowling variants

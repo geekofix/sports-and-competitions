@@ -1,8 +1,8 @@
 ## Basic Information
 
-Duckpin bowling is a pin-bowling variant played mainly on the US East Coast — Virginia, Maryland, Connecticut, Rhode Island and Massachusetts — governed by the National Duckpin Bowling Congress (NDBC), established 8 September 1927 as the parent and supervising organization of the sport (National Duckpin Bowling Congress, n.d.; Wikipedia, n.d.-a). It uses a palm-sized ball with no finger holes and short, squat pins, giving the game its name (Wikipedia, n.d.-a).
+Duckpin bowling is a pin-bowling variant played mainly on the US East Coast — Virginia, Maryland, Connecticut, Rhode Island and Massachusetts — governed by the National Duckpin Bowling Congress (NDBC), established 8 September 1927 as the parent and supervising organization of the sport (National Duckpin Bowling Congress, n.d.; Wikipedia, n.d.-a). It uses a palm-sized ball with no finger holes and short, squat pins, giving the game its name (Wikipedia, n.d.-a). The pin-bowling family also includes [bowling (ten-pin)](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html) and [candlepin bowling](candlepin-bowling.html).
 
-Like candlepin, duckpin allows three balls per frame, but fallen pins are cleared after every ball, and no perfect 300 game has ever been bowled in sanctioned play — the smaller equipment makes strikes genuinely hard (Wikipedia, n.d.-a).
+Like [candlepin bowling](candlepin-bowling.html), duckpin allows three balls per frame, but fallen pins are cleared after every ball, and no perfect 300 game has ever been bowled in sanctioned play — the smaller equipment makes strikes genuinely hard (Wikipedia, n.d.-a).
 
 Women have always been part of the elite game: the Women's National Duckpin Association (WNDA) was formed in 1982 and the Ladies Professional Duckpin Tournament dates to at least 1974; the NDBC has ranked a top female bowler every season since 1928 and awards the #1 woman the same hand-blown glass National Trophy as the men (National Duckpin Bowling Congress, n.d.; Wikipedia, n.d.-a). The 1936 Library of Congress photograph shows two women bowling by the pins, and legends like Toots Barger — "Queen of Duckpins", thirteen times the NDBC's #1-ranked bowler — defined the women's game (Wikipedia, n.d.-c; Harris & Ewing, 1936).
 
@@ -48,4 +48,4 @@ Two women stand out in the history: Toots Barger of Baltimore, ranked the NDBC's
 
 - [National Duckpin Bowling Congress (NDBC)](https://www.ndbc.org/) — US governing body since 1927; national tournament, rankings, Hall of Fame
 - [WNDA — Women's National Duckpin Association](http://www.wndatour.com/) — women's professional duckpin tour
-- Related on this site: [bowling](bowling.html), [candlepin bowling](candlepin-bowling.html), [nine-pin bowling](nine-pin-bowling.html)
+- Related on this site (group `bowling-variants`): [bowling](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html)
