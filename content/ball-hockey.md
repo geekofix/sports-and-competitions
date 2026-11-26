@@ -8,6 +8,8 @@ Rules at the top level are close to ice hockey: four skaters-equivalent field pl
 
 *Figure: Knopp, K. (2005, June 12). Ball hockey player defending the goal [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Hokejbal_2.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Street Hockey](street-hockey.html), [Roller Hockey](roller-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the ISBHF rules, a team fields four court players and one goaltender; games at the World Championship are two 20-minute halves (running clock), with teams of up to 20 players. The rink is typically 40–60 m long and 20–30 m wide, surrounded by boards about 1 m high, with two goals. Substitutions are rolling, and offside and icing are enforced as in ice hockey (ISBHF, n.d.-b).
@@ -37,4 +39,4 @@ Since then the world championship has been held every two years, alternating wit
 - [International Street and Ball Hockey Federation (ISBHF)](https://www.isbhf.com/) — world governing body; Ball Hockey World Championship (men's and women's), rules
 - [Ball Hockey World Championship Ostrava 2026](https://www.ostrava2026.com/) — official event site of the 16th World Championship
 - [IIHF](https://www.iihf.com/) — International Ice Hockey Federation, which recognizes ball hockey as an affiliated discipline
-- [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Street Hockey](street-hockey.html) and [Roller Hockey](roller-hockey.html) on this site
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

@@ -6,6 +6,8 @@ Roundnet — popularly known as Spikeball — is a ball game invented in 1989 by
 
 *Figure: Esmé James @ezy_bezzie. (2025, August 12). Man attacking at spikeball [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Man_attacking_at_spikeball.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Roundnet is played 2v2 (3v3 variants exist) around a round net about 3 ft (0.9 m) high, with a ball of 12-inch (30 cm) circumference; players take positions at 90-degree intervals around the net, each directly across from an opponent (Wikipedia, n.d.-a; Spikeball, n.d.). Each point begins with a serve: the server stands in a serving circle 15 ft (4.6 m) in diameter around the net and hits the ball onto the net toward the opponents (Spikeball, n.d.). The receiving team then has up to three hits to return the ball onto the net — possession flips each time the ball hits the net — and a team may not touch the ball twice in a row (Wikipedia, n.d.-a). After the serve there are no boundaries: play is 360° around the net and players may move anywhere to hit the ball (Spikeball, n.d.). A point is scored when the opposing team fails to return the ball, hits the rim instead of the net, lets the ball bounce twice on the net, or commits a pocket or double hit (Wikipedia, n.d.-a). Matches use rally scoring to 21 points, win by two, and serving positions rotate 90° every five points (Spikeball, n.d.). Women's, mixed and open divisions are offered at tournaments and world championships (Wikipedia, n.d.-a).
@@ -30,3 +32,4 @@ Jeff Knurek invented roundnet in 1989 in Hawaii but did not patent it; the game 
 - [Spikeball Inc.](https://www.spikeball.com/) — the leading equipment maker and tour organizer
 - [Volleyball](volleyball.html) on this site — the sport roundnet was inspired by
 - [Trampoline](trampoline.html) on this site — the rebound element
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

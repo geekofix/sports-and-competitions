@@ -6,6 +6,7 @@ Omegaball is a three-team variant of association [football](football.html) playe
 
 *Figure: AngusConnaltyPhotos. (2015, May 16). Soccer match.jpg — An association football match — omegaball is a three-team variant played simultaneously on a circular pitch with three goals, using ordinary football rules [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Soccer_match.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,3 +34,4 @@ Omegaball was invented in the United States and first tested in 2020 in Oklahoma
 - [Omegaball — official site](https://www.omegaball.com/) — official rules, leagues and the OmegaBall Championship
 - [Omegaball — Wikipedia](https://en.wikipedia.org/wiki/Omegaball) — invention, 2022 debut in Irvine and broadcast history
 - [Football](football.html) on this site — the parent sport of this three-team variant
+- Related on this site: [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html) and [Sepak Takraw Doubles](sepak-takraw-doubles.html) — the net/court team ball games

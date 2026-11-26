@@ -8,6 +8,7 @@ Women and men play crossnet in mixed teams.
 
 *Figure: Seaneffel. (2009, April 26). Four square court — A four square court — CrossNet (Crossnet) is four square with a net stretched across the middle of the court [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Four_square_court.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -36,3 +37,4 @@ In May 2017, Chris Meade — then an account executive at Uber in San Francisco 
 - [CROSSNET — official site](https://www.crossnetbrand.com/) — official rules, court setup and product information
 - [USA Volleyball — CROSSNET partnership](https://usavolleyball.org/story/usa-volleyball-partners-with-crossnet-to-put-new-spin-on-the-game/) — sanctioned competitive play since 2021
 - See also [KanJam](kanjam.html) and [Volleyball](volleyball.html) on this site
+- Related on this site: [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html) and [Sepak Takraw Doubles](sepak-takraw-doubles.html) — the net/court team ball games

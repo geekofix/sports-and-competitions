@@ -6,6 +6,7 @@ Snow volleyball 3x3 is the official international format of snow volleyball: two
 
 *Figure: Burgjona. (2018, February 17). Team Adler-Richter.jpg — Team Adler/Richter at the 1st German Snow Volleyball Championship in Winterberg — snow volleyball is played 3x3 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Team_Adler-Richter.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Snow Volleyball](snow-volleyball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Water Volleyball](water-volleyball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,6 +34,4 @@ The 3x3 game grew out of the Austrian origins of snow volleyball: after Martin K
 
 - [FIVB — Fédération Internationale de Volleyball](https://www.fivb.com/) — world governing body; snow volleyball 3x3 rules and World Tour
 - [CEV — European Volleyball Confederation](https://www.cev.eu/) — European Championships and European Tour
-- [Snow volleyball](snow-volleyball.html) on this site — the umbrella sport including the original 2v2
-- [Volleyball](volleyball.html) on this site — indoor volleyball
-- [Beach volleyball](beach-volleyball.html) on this site — the sand model
+- Related on this site: [Snow Volleyball](snow-volleyball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html), [Sepak Takraw Doubles](sepak-takraw-doubles.html) and [Sepak Takraw Regu](sepak-takraw-regu.html) — the net/court team ball games

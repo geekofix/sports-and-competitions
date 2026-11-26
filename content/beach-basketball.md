@@ -12,6 +12,8 @@ At the top of the current international calendar, the women's side is led by Oly
 
 *Figure: Owula kpakpo. (2024, March 18). A FIBA 3x3 basketball game — the format on which beach basketball is based [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:AG_23_3x3_Basketball_13.jpg*
 
+ Within the basketball family on this site, its closest relatives are [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Pop A Shot](pop-a-shot.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Beach basketball follows the FIBA 3x3 rules on a sand court: the playing area is 15 × 11 m around a single basket with a backstop, each team fields three players plus one substitute, and the official ball is the 28.5-inch outdoor Wilson 3x3 ball (International Basketball Federation, n.d.-a; International Basketball Federation, n.d.-c; Wikipedia, n.d.-a).
@@ -45,4 +47,4 @@ Beach basketball as such developed in coastal communities — the Philippines' b
 - [FIBA — International Basketball Federation](https://www.fiba.basketball/) — governs 3x3 and beach basketball
 - [FIBA 3x3 — Official 3x3 Basketball Rules](https://fiba3x3.com/en/rules.html) and [full rules PDF](https://fiba3x3.com/docs/fiba-3x3-basketball-rules-full-version.pdf) — edition valid from 1 January 2026
 - [FIBA 3x3 World Cup 2026, Warsaw, 1–7 June 2026](https://www.olympics.com/en/news/fiba-3x3-world-cup-2026-everything-you-need-to-know-la28) — 40 teams; LA28 qualification stakes
-- Related on this site: [basketball](basketball.html), [volleyball](volleyball.html), [beach-volleyball](beach-volleyball.html)
+- Related on this site: [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html) and [Pop A Shot](pop-a-shot.html) — the basketball family

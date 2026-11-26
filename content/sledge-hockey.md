@@ -6,6 +6,8 @@ Sledge hockey — officially renamed Para ice hockey by the International Paraly
 
 *Figure: brand0con (Brandon O'Connor). (2010, March 15). 2010 Paralympics Canada vs Sweden ice sledge hockey [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:2010ParalympicsCanadaVsSwedenIceSledgeHockey.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Para ice hockey follows the IIHF rulebook with modifications defined by World Para Ice Hockey: teams field six players including a goaltender, on standard 60 × 30 m ice rinks, playing three 15-minute periods (IPC, n.d.-b). Players sit on sleds roughly 80 cm high with two skate blades underneath and use two sticks — one with a pick end for propulsion on the ice and one with a blade end for shooting and passing (IPC, n.d.-b). Body checking is forbidden; players propel with their picks and control the sled with the blade ends. Since Vancouver 2010 the teams are mixed-gender: women may be rostered on the men's national teams, and a separate women's tournament has grown alongside, while junior and development programmes exist below the senior Paralympic level (IPC, n.d.-a). Classification is based on lower-limb function, and the Paralympic tournament brings together eight qualified nations; the World Championship is held annually outside Paralympic years (IPC, n.d.-a).
@@ -28,4 +30,4 @@ Sledge hockey was invented in the early 1960s at a rehabilitation centre in Stoc
 ## Important Links
 
 - [World Para Ice Hockey — International Paralympic Committee](https://www.paralympic.org/ice-hockey) — world governing body; World Championships and Paralympic tournament
-- [Ice hockey](ice-hockey.html) on this site — the parent sport with IIHF rules
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

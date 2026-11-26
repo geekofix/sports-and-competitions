@@ -6,6 +6,8 @@ Polocrosse is a mounted team sport that combines elements of [polo](polo.html) a
 
 *Figure: Cgoodwin. (1962). Walcha polocrosse team: Bob Gill, Maurice & Paul Goodwin, John Nixon, Brian and Noel Goodwin [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Walcha_polocrosse.jpg*
 
+ Within the polo family on this site, its closest relatives are [Polo](polo.html), [Bike Polo](bike-polo.html), [Unicycle Polo](unicycle-polo.html), [Horseball](horseball.html), [Pato](pato.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The pitch is a level field 160 yards long and 60 yards wide, divided into three zones: a goal-scoring area 30 yards deep at each end and a center area (International Polocrosse Council, n.d.). Only the designated attacker (No. 1) may enter the goal-scoring area to score, the center (No. 2) must stay in the middle zone, and the defender (No. 3) plays in their team's defensive area; goals are scored only from within the scoring area, between posts eight feet apart. Matches consist of chukkas of six to eight minutes, usually four per team per match at club level and up to eight in championship play, with the two sections of each team playing alternate chukkas. The ball, of sponge rubber about 100 mm in diameter, is picked up, carried, bounced and passed with the racquet, and the game starts with the referee throwing the ball up. Players may not take the ball into another zone while carrying it, must not carry the racquet across the horse, may not ride through a goal melee, and dangerous play, such as striking down on an opponent's racquet, is penalized (Wikipedia, n.d.). Men's and women's matches use identical pitch dimensions, zones and rules; mixed teams are standard at club level and international test matches are played by men's, women's and mixed national teams (International Polocrosse Council, n.d.).
@@ -30,3 +32,4 @@ The sport was created in Australia in 1938–39 by Edward and Marjory Hirst of S
 - [Polocrosse Australia](https://www.polocrosse.org.au/) — national association of the country of origin; 2024 World Cup
 - [American Polocrosse Association](https://www.americanpolocrosse.org/) — the US member body of the IPC
 - [Polo](polo.html) and [Lacrosse](lacrosse.html) on this site — the two parent sports
+- Related on this site: [Polo](polo.html), [Bike Polo](bike-polo.html), [Unicycle Polo](unicycle-polo.html), [Horseball](horseball.html), [Pato](pato.html) and [Chovgan](chovgan.html) — the polo family (horse, bike, unicycle)

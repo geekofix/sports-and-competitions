@@ -6,6 +6,8 @@ Speedball is the competitive tournament format of paintball: teams of five (clas
 
 *Figure: Piotr VaGla Waglowski. (2008, August 31). 20080831 paintball IMG 4331 — paintball game in Zalesie Górne near Piaseczno, Poland [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:20080831_paintball_IMG_4331.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In Xball speedball, two teams of five race a game clock of 12–15 minutes depending on the division, playing point after point: each point begins with a two-minute staging, and a team scores by pressing its buzzer at the opponent's start base, with elimination of all five opposing players also ending the point; the team with the most points when the clock expires wins, subject to a mercy rule in lopsided games (NXL, n.d.-a). The field is a mirrored layout of inflatable bunkers, 150 × 120 ft at NXL events, with a 2 × 1.2 m start base centred on each back boundary (NXL, n.d.-a). Markers are capped at 10.2 balls per second; from 2026 each player may carry a maximum of five pods plus one electronic loader per point, and new tiebreaker metrics decide drawn games (NXL, n.d.-b). Fouls — overshooting, hits on bunkers, playing on after being hit, illegal equipment — bring penalties up to the loss of points or players, enforced by referees who check paint (NXL, n.d.-b). Women's and men's divisions use identical fields, markers and rules; amateur events also run 10-man and classic 5-man divisions (NXL, n.d.-b).
@@ -28,5 +30,4 @@ Paintball was invented in 1981 by Charles Gaines, Bob Guice and Bill Cross, who 
 ## Important Links
 
 - [NXL — National Xball League](https://www.nxlpaintball.com/) — premier professional league; 2026 rulebooks, events and World Cup
-- [Speedball 5-man](speedball-5-man.html) on this site — the standard 5-on-5 format
-- [Speedball 7-man](speedball-7-man.html) on this site — the seven-player variant
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

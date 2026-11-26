@@ -6,6 +6,8 @@ Bike polo (hardcourt bike polo) is a team sport played on bicycles on a fenced h
 
 *Figure: Adamhite. (2013, August 13). Beavers vs Guardians, 2013 North American Hardcourt Bike Polo Championship, Minneapolis [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Beavers_vs_Guardians.jpg*
 
+ Within the polo family on this site, its closest relatives are [Polo](polo.html), [Unicycle Polo](unicycle-polo.html), [Polocrosse](polocrosse.html), [Horseball](horseball.html), [Pato](pato.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A bike polo team fields three players on the court (squads of up to four to six are allowed in some tournaments) on a fenced court of about 120–155 ft × 60–80 ft (37–47 m × 18–25 m) with 4 ft (1.2 m) boards; the goals are 3 ft × 6 ft (0.9 m × 1.8 m) and set at least 6 ft from the backboard (NAH, n.d.). Players ride bicycles and hit a plastic ball roughly 2.5–3 in in diameter with a mallet; putting a foot down means a 45-second no-go period, the "tap out" rule has been in force since 2005, and crease and interference rules since 2015. A match lasts two halves of about 10 minutes, and the first goal ends the game in many formats, with golden-goal overtime if tied. Men's, women's and mixed teams play under identical rules; youth tournaments use smaller courts and goals (WHBPC, n.d.).
@@ -35,3 +37,4 @@ The game's ancestor, cycle polo, was an unofficial demonstration sport at the 19
 - [North American Hardcourt Association (NAH)](https://www.nahardcourt.com/) — NAHBPC 2026 in Tulsa, Oklahoma, October 23–25, 2026
 - [European Hardcourt Bike Polo Association (EHBA)](https://www.europeanhardcourt.com/) — European championships and clubs
 - [Cycling](cycling.html) and [Mountain biking](mountain-biking.html) on this site
+- Related on this site: [Polo](polo.html), [Unicycle Polo](unicycle-polo.html), [Polocrosse](polocrosse.html), [Horseball](horseball.html), [Pato](pato.html) and [Chovgan](chovgan.html) — the polo family (horse, bike, unicycle)

@@ -6,6 +6,8 @@ Wheelchair basketball is the Paralympic team sport played from specially designe
 
 *Figure: Leenstra, G. (2024, August 30). 2024 Summer Paralympics women's wheelchair basketball, Netherlands vs Japan — players contest the ball at the Accor Arena, Paris [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2024_Summer_Paralympics_women's_wheelchair_basketball,_Netherlands_vs_Japan_45.jpg*
 
+ Within the basketball family on this site, its closest relatives are [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Beach Basketball](beach-basketball.html), [Pop A Shot](pop-a-shot.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Play follows FIBA basketball rules adapted to the chair: after at most two consecutive pushes on the wheels the player must dribble, pass or shoot; lifting the front casters off the floor while holding the ball is a travelling violation; and deliberately tipping or raising the chair is penalised — technical fouls for intentional tipping, unsportsmanlike fouls for dangerous play (International Wheelchair Basketball Federation, n.d.). The 14.0-point team rule shapes line-ups: a 1.0-point player can be balanced by four 4.5-point players, and substitutions are unlimited at stoppages. Games are four quarters of 10 minutes with a 24-second shot clock and 5-minute overtime periods as needed; ball and court are the standard FIBA size (Wikipedia, n.d.). Classification is medical-functional: points from 1.0 (minimal trunk control) to 4.5 (minimal impairment) are assigned by classifiers and may be appealed; men's and women's tournaments are run separately at the Paralympics and world championships (International Paralympic Committee, n.d.).
@@ -28,5 +30,5 @@ Wheelchair basketball began in the rehabilitation wards for paralysed veterans o
 
 - [International Wheelchair Basketball Federation](https://www.iwbf.org/) — world governing body: rules, classifications, world championships
 - [International Paralympic Committee — wheelchair basketball](https://www.paralympic.org/wheelchair-basketball)
-- [Basketball](basketball.html) on this site — the able-bodied original
+- Related on this site: [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Beach Basketball](beach-basketball.html) and [Pop A Shot](pop-a-shot.html) — the basketball family
 - [Wheelchair rugby](wheelchair-rugby.html), [Wheelchair tennis](wheelchair-tennis.html) and [Sitting volleyball](sitting-volleyball.html) on this site — the other Paralympic wheelchair and seated team sports

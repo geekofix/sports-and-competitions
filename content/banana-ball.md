@@ -10,6 +10,8 @@ Banana Ball keeps baseball's core — nine innings, three outs, balls and strike
 
 The game is open to women and men alike in mixed teams.
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the official Banana Ball rules, each of the nine innings starts with a "bat-off": both leadoff hitters swing simultaneously and whoever hits farther leads off. Foul balls count as strikes (except on a third strike, which is not an out), and a foul ball caught by a fan in the stands is an out. If a pitcher walks a batter, the catcher may throw the ball down to get the runner out at any base — "steal first" is automatic on an uncaught third strike, and the batter becomes a runner. There is no bunting, no mound visits, and no slide-in restrictions beyond safety; games are typically two hours, and if tied after nine innings, extra innings are decided by the bat-off winner hitting first (Banana Ball, n.d.-a).
@@ -37,3 +39,4 @@ The Banana Ball World Tour followed in 2024 and 2025, playing internationally, a
 - [Banana Ball / Savannah Bananas](https://www.bananaball.com/) — BBCL teams, schedule, Banana Bowl and World Tour
 - [Savannah Bananas](https://thesavannahbananas.com/) — the original exhibition team, founded 2016 by Jesse Cole
 - [Baseball](baseball.html), [Softball](softball.html), [British Baseball](british-baseball.html) and [Baseball5](baseball5.html) on this site
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

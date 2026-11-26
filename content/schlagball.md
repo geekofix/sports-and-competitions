@@ -8,6 +8,8 @@ Schlagball — German for "hit ball" — is a bat-and-ball team game played on a
 
 Both girls and boys play Schlagball in mixed school teams, and women's and mixed teams contest the island beach tournaments; because the game is organised at school and club level rather than by a world federation, there are no official world rankings, and the modern competitive rules are maintained by Protoball (Protoball, n.d.; Wikipedia, n.d.).
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Softball](softball.html), [Cricket](cricket.html), [Rounders](rounders.html), [Cricket Odi](cricket-odi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A long-hitting Schlagball field is about 70 m long and 25 m wide, with a batting crease (Schlagmal) and, about 10 m in front of the fielding crease, two touch posts (Fangmal) roughly 4 m apart; teams traditionally have 12 players per side, with modern variants allowing 6–12 players (Wikipedia, n.d.; Protoball, n.d.). The batter throws the ball up himself — there is no pitcher — and strikes it with the flat bat; a well-hit ball sends the batting team's runners out, and a runner scores by running from the Schlagmal to the Fangmal and back without being put out; the fielding team ends the innings by hitting a runner with a thrown ball ("plugging" or "soaking") or by taking a clean one-handed catch of a batted ball (Protoball, n.d.). A match lasts about an hour; men's, women's and mixed teams all play under the same rules (Protoball, n.d.).
@@ -29,3 +31,4 @@ Schlagball was codified by Johann Friedrich GutsMuths in his 1796 gymnastics man
 
 - [Protoball](https://protoball.org/) — modern competitive Schlagball rules
 - [Baseball](baseball.html), [Softball](softball.html), [Cricket](cricket.html), [Rounders](rounders.html) and [Football](football.html) on this site — related bat-and-ball games
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

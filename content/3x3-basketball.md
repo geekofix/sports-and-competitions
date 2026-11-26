@@ -8,6 +8,8 @@ Among the teams shaping the game today are the United States women, who won a re
 
 *Figure: Halank, S. (2025, August 3). 2025-08-03 Die Finals 2025 in Dresden – 3x3 Basketball, Frauen by Sandro Halank–24 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2025-08-03_Die_Finals_2025_in_Dresden_%E2%80%93_3x3_Basketball,_Frauen_by_Sandro_Halank%E2%80%93024.jpg*
 
+ Within the basketball family on this site, its closest relatives are [Basketball](basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [Beach Basketball](beach-basketball.html), [Pop A Shot](pop-a-shot.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the official FIBA 3x3 rules the shot clock is 12 seconds. A game lasts 10 minutes of playing time or ends as soon as one team reaches 21 points, whichever comes first; if the game is tied at the end of regulation, overtime is played to first 2 points (FIBA, n.d.-a). Shots from inside the arc count 1 point, shots from beyond the arc count 2 points. After a defensive rebound or a steal, the ball must be taken behind the arc before a shot attempt; after a made basket, play resumes directly without a check-ball. Team fouls 6 through 9 award the opponent two free throws each; from the 10th team foul the opponent receives two free throws plus possession. Substitutions are allowed before free throws and during timeouts, and each team may take one timeout per game. Men and women play the identical rule set — the only difference between the Olympic tournaments is the competition category — and FIBA runs separate men's and women's World Cups and rankings (FIBA, n.d.-b). Streetball played in parks often uses house rules — games to 11 or 15 points, "1s and 2s", no free throws — so local formats vary widely.
@@ -43,4 +45,4 @@ At the 2026 FIBA 3x3 World Cup in Warsaw (June 1–7, 2026), Latvia's men won th
 - [FIBA — 3x3 Federations Ranking](https://www.fiba.basketball/3x3/federations-ranking) — FIBA's official 3x3 federation ranking
 - [FIBA — International Basketball Federation](https://www.fiba.basketball/)
 - [Olympics.com — Basketball](https://olympics.com/en/sports/basketball/) — Olympic 3x3 since Tokyo 2020
-- See also [Basketball](basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html) and [Wheelchair Basketball](wheelchair-basketball.html) on this site
+- Related on this site: [Basketball](basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Beach Basketball](beach-basketball.html) and [Pop A Shot](pop-a-shot.html) — the basketball family

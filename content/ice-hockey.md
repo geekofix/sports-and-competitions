@@ -6,6 +6,8 @@ Ice hockey is the team sport played on an ice rink in which two teams of six pla
 
 *Figure: Sportsfan 1234. (2026, February 10). Canada vs USA women's ice hockey, Milano Cortina 2026 Winter Olympics, Milano Santagiulia Ice Hockey Arena [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Canada_versus_USA_Women%27s_Hockey_Milan_Cortina_2026.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Field Hockey](field-hockey.html), [Bandy](bandy.html), [Floorball](floorball.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the IIHF rulebook, the rink is 60 × 30 m with rounded corners, divided by two blue lines and a red centre line; each team fields six players at once — five skaters and one goaltender — from a squad of up to 20 players (18 skaters) (IIHF, n.d.-a; Wikipedia, n.d.-a). A match consists of three periods of 20 minutes; if tied, overtime is played 3-on-3 for five minutes in round-robin play (sudden death) and 5-on-5 sudden death in playoffs, followed by a shootout where needed (IIHF, n.d.-a). Fouls are punished with penalties — minor (2 min), double-minor (4 min), major (5 min), misconduct (10 min) — and the fouled team plays a power play while the offender is in the penalty box; icing and offside (the puck must enter the attacking zone ahead of the skater) are the classic stoppages, and play restarts with a face-off (Wikipedia, n.d.-a). Body checking is permitted in men's hockey but prohibited in women's hockey, where checking is a penalty — one of the main gender-specific rule differences; both sexes play identical rink, period and offside rules (IIHF, n.d.-a). Two referees and two linesmen officiate (IIHF, n.d.-a).
@@ -29,6 +31,4 @@ Modern ice hockey developed in Canada in the mid-19th century: the first recorde
 
 - [International Ice Hockey Federation (IIHF)](https://www.iihf.com/) — world governing body; rulebook, rankings and world championships
 - [IIHF Women's World Championship 2026](https://www.iihf.com/) — Herning/Esbjerg, Denmark, 6–16 November 2026
-- [Field Hockey](field-hockey.html) on this site — hockey on grass
-- [Bandy](bandy.html) on this site — hockey-like bandy on ice with a ball
-- [Floorball](floorball.html) on this site — indoor stick-and-ball team sport
+- Related on this site: [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

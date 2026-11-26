@@ -8,6 +8,7 @@ Women and men compete in parallel tournaments under identical rules: the 2026 co
 
 *Figure: Daniel Steger. (2006, May 20). D1 Lacrosse.jpg — A Division I lacrosse game between Denver and Maryland — lacrosse sixes is the six-a-side variant played on a smaller field with shorter games [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:D1_Lacrosse.jpg*
 
+ Within the lacrosse and stick-games family on this site, its closest relatives are [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Hurling](hurling.html), [Camogie](camogie.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -38,3 +39,4 @@ World Lacrosse's General Assembly began developing sixes in 2018 through the Blu
 - [LA28 — Los Angeles 2028](https://la28.org/) — Olympic lacrosse sixes
 - [Olympics.com — lacrosse](https://www.olympics.com/en/sports/lacrosse/)
 - [Lacrosse](lacrosse.html) on this site — the full field format; [Rugby sevens](rugby-sevens.html) on this site — the reduced-team parallel
+- Related on this site: [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Hurling](hurling.html), [Camogie](camogie.html), [Shinty](shinty.html), [Intercrosse](intercrosse.html), [Cornish Hurling](cornish-hurling.html) and [Cammag](cammag.html) — the lacrosse and Gaelic/Celtic stick games

@@ -6,6 +6,8 @@ Jokgu is the Korean foot volleyball: four players per side play a ball over a 1.
 
 *Figure: Ha98574. (2010, July 24). Playing Jokgu [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Playing_Jokgu.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The court is 16 × 7 m with a net 1.1 m high (Wikipedia, n.d.-a). Each team fields four players on court plus up to three substitutes from a registered roster, with rolling substitutions (Korea Jokgu Association, n.d.). A side may contact the ball a maximum of three times, with at most one bounce of the ball on the floor between contacts, and must return it over the net (Wikipedia, n.d.-a). Only the feet below the knee and the head above the chin may play the ball — hands and arms are forbidden, which distinguishes jokgu from sepak takraw and footvolley (Wikipedia, n.d.-a). A match is best of three sets to 15 points, rally point scoring, with a two-point lead required (Wikipedia, n.d.-b). Serving is underhand or with the foot from behind the end line into the diagonal service court; the serve rotates among players (Korea Jokgu Association, n.d.). A ball touching the net on the way over is still in play; a ball landing on a line is in; touching the net with the body is a fault (Wikipedia, n.d.-b). Men's and women's competitions use identical courts, nets and rules, with separate tournaments (International Jokgu Federation, n.d.).
@@ -30,3 +32,4 @@ Jokgu was invented in 1960 by Republic of Korea Air Force personnel, who adapted
 - [International Jokgu Federation](https://www.internationaljokgu.org/) — world governing body; World Jokgu Championship since 2022
 - [Korea Jokgu Association](https://www.jokgu.or.kr/) — national federation; domestic league and championships
 - [Sepak Takraw](sepak-takraw.html) on this site — see also [Volleyball](volleyball.html) and [Footbag](footbag.html) on this site
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

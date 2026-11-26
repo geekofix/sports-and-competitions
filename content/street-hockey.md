@@ -6,6 +6,8 @@ Street hockey is the collective name for outdoor hockey variants played on aspha
 
 *Figure: SilkCameron. (2021, April 24). DecHockeyCMR [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:DecHockeyCMR.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ball Hockey](ball-hockey.html), [Ice Hockey](ice-hockey.html), [Roller Hockey](roller-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In ISBHF ball hockey, teams field five runners plus a goaltender on a court of roughly 40 x 20 m (minimum 26 x 13 m for smaller venues), using hockey sticks and a specially designed orange ball instead of a puck; games run in two 20-minute halves (halftime 10 minutes), with goals scored by shooting the ball into the 1.83 x 1.22 m net, and a match tied after regulation decided by overtime and then a shootout (ISBHF, n.d.). The ISBHF Rulebook and Regulations cover offside via a floating blue line, icing, fouls (hooking, tripping, slashing, high-sticking, roughing), penalties (2-minute minors, 5-minute majors, misconducts) served in a penalty box, and goalkeeper equipment — helmet with full mask, chest protector, leg pads, blocker and trapper — while runners must wear helmets, gloves and shin guards at international tournaments (ISBHF, n.d.; Wikipedia, n.d.). Pickup street hockey on asphalt usually drops protective gear to gloves and helmet, bans slapshots, and plays 4-on-4 or 5-on-5 with a goalie, two 20-minute halves and running clock; inline hockey follows IIHF rules on a rink of 61 x 26 m with four 15-minute periods and body checking allowed in adult leagues. Men and women play under the same ISBHF rules in separate divisions at world championships, and youth age groups run at national tournaments (Wikipedia, n.d.).
@@ -26,8 +28,5 @@ Organized ball hockey began in Canada in the 1960s — Native peoples had played
 ## Important Links
 
 - [ISBHF — International Street and Ball Hockey Federation](https://www.isbhf.com/) — world governing body of ball hockey; rulebook and world championships
-- [Ball Hockey](ball-hockey.html) on this site — the organized form of the street game
-- [Ice Hockey](ice-hockey.html) on this site — the on-ice parent sport
-- [Roller Hockey](roller-hockey.html) on this site — the inline-skate variant
-- [Field Hockey](field-hockey.html) on this site — hockey on grass with a hard ball
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)
 - [Underwater Hockey](underwater-hockey.html) on this site — hockey played at the bottom of a pool

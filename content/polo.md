@@ -6,6 +6,8 @@ Polo is a mounted team sport in which two teams of four riders use long-handled 
 
 *Figure: Andreas Polo. (2013, June 8). Varsity Polo 2013 — Oxford vs Cambridge, with Lanto Sheridan playing for Oxford [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Varsity_Polo_2013.jpg*
 
+ Within the polo family on this site, its closest relatives are [Polocrosse](polocrosse.html), [Pato](pato.html), [Horseball](horseball.html), [Bike Polo](bike-polo.html), [Unicycle Polo](unicycle-polo.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Matches are divided into periods called chukkas of seven minutes (7½ under US rules), with three-minute breaks between chukkas and a five-minute halftime; high-goal matches are played over six chukkas and club matches over four (Hurlingham Polo Association, 2019). Players change ponies between chukkas, as each mount is only played for a single period. Goals are scored by driving the ball between goal posts set eight yards apart; teams change ends after each goal. Players are rated on a handicap scale from -2 up to 10 goals, and matches are commonly played with a set handicap difference between teams. The central safety rule governs the "line of the ball," the imaginary path of a traveling ball which a player may not cross in a way that endangers others; right-of-way belongs to the player on the line, and rules prohibit riding into an opponent at an unsafe angle. Umpires on horseback enforce the rules and award penalties as free hits at goal (Hurlingham Polo Association, 2019). Arena polo uses three players a side on a 100-by-50-yard indoor or outdoor arena with a smaller ball and enclosed boards; the line-of-the-ball rule is replaced by the arena's boundary rules. Men's and women's outdoor matches follow identical rules and field dimensions (FIP, n.d.).
@@ -31,6 +33,4 @@ The ancestor of polo, chovgan, was played in Persia and Central Asia from roughl
 - [Hurlingham Polo Association (HPA)](https://www.hpa-polo.co.uk/) — steward of the oldest formal rulebook
 - [Asociación Argentina de Polo](https://aapolo.com.ar/) — organizer of the Argentine Open at Palermo
 - [US Polo Association](https://www.uspa.org/) — governing body of polo in the United States
-- [Polocrosse](polocrosse.html) on this site — the related mounted team sport
-- [Pato](pato.html) on this site — Argentina's national mounted ball game
-- [Horseball](horseball.html) on this site — the modern horseback ball sport
+- Related on this site: [Bike Polo](bike-polo.html), [Unicycle Polo](unicycle-polo.html), [Polocrosse](polocrosse.html), [Horseball](horseball.html), [Pato](pato.html) and [Chovgan](chovgan.html) — the polo family (horse, bike, unicycle)

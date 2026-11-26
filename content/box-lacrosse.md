@@ -12,6 +12,8 @@ On the women's side, box lacrosse has a growing international and media profile:
 
 *Figure: Schetm. (2025, June 26). NLL Cups 2023, 2024, 2025 [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:NLL_Cups_2023,_2024,_2025.jpg*
 
+ Within the lacrosse and stick-games family on this site, its closest relatives are [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Hurling](hurling.html), [Camogie](camogie.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the World Lacrosse box rule book (2026–2028 edition), box lacrosse is played 6 against 6 on a rectangular field of roughly 200 × 85 ft enclosed by boards 42 to 48 in high; goals are much smaller than in field lacrosse — 4 ft 9 in × 4 ft (1.45 × 1.20 m) in the NLL and 4 × 4 ft in the Canadian Lacrosse Association (CLA) — with a crease around each net (WL, n.d.-a). A game consists of four 15-minute quarters (the CLA plays three 20-minute periods); teams must advance the ball into the offensive half within 10 seconds (8 seconds in the NLL) and attempt a shot within the 30-second shot clock. Substitutions are on the fly at the bench, and play restarts quickly after goals and penalties.
@@ -45,4 +47,4 @@ Box lacrosse grew out of the Indigenous stick games of North America and was cod
 - [World Lacrosse](https://worldlacrosse.sport/) — world governing body; official rule books and World Lacrosse Box Championships
 - [World Lacrosse Box Rule Book 2026–2028 (PDF)](https://worldlacrosse.sport/wp-content/uploads/2026/02/WL-26-28-Box-Rule-Book_Feb26.pdf) — official rules
 - [National Lacrosse League (NLL)](https://www.nll.com/) — top professional box lacrosse league; standings, schedule, NLL Finals
-- [Lacrosse](lacrosse.html) and [field lacrosse](field-lacrosse.html) on this site
+- Related on this site: [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Hurling](hurling.html), [Camogie](camogie.html), [Shinty](shinty.html), [Intercrosse](intercrosse.html), [Cornish Hurling](cornish-hurling.html) and [Cammag](cammag.html) — the lacrosse and Gaelic/Celtic stick games

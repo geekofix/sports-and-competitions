@@ -6,6 +6,8 @@ Pond hockey is a form of ice hockey played on a natural frozen body of water —
 
 *Figure: Hamedog. (2006, February 6). Outdoor Hockey [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Outdoor_Hockey.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ice Hockey](ice-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Tournament pond hockey is played four-on-four with substitutes on the bench on rinks about 50 to 80 percent the size of an NHL rink, with no boards — a barrier of snow keeps the puck in play (Wikipedia, n.d.-a). There are no goalies: a player who guards the net may concede an automatic goal, and the goals are low — about 6 feet wide but only roughly 10 inches high — so pucks stay on the ice and out of neighboring rinks and spectators. Goals may only be scored from past the center line, there is no formal penalty box, and penalties are punished by an awarded goal or ejection; helmets and skates are mandatory in organized events and games commonly run two 15-minute halves (US Pond Hockey Championship, n.d.). Formats at the world championship run round-robin groups into a final-day bracket of the top 32 men's and top 8 women's teams (Wikipedia, n.d.-b).
@@ -28,6 +30,4 @@ Hockey itself was born outdoors on frozen ponds and rivers, and informal shinny 
 
 - [World Pond Hockey Championship, Plaster Rock](https://www.worldpondhockey.com/) — flagship international tournament on Roulston Lake
 - [US Pond Hockey Championship — official rules](https://www.uspondhockey.com/officialrules) — the largest American event
-- [Ice Hockey](ice-hockey.html) on this site — the parent sport on the rink
-- [Street Hockey](street-hockey.html) on this site — the asphalt cousin of pond hockey
-- [Ball Hockey](ball-hockey.html) on this site — the court cousin
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

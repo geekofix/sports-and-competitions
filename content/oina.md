@@ -6,6 +6,7 @@ Oină (pronounced roughly "oy-nuh") is the national bat-and-ball game of Romania
 
 *Figure: Cdrag17. (2014, August 10). Echipa de fete CS Hoina Craiova, Eforie, 2014.jpg — The women's oină team of CS Hoina Craiova, gold medalists at the 2014 Romanian National Oină Championship in Eforie [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Echipa_de_fete_CS_Hoina_Craiova,_Eforie,_2014.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -36,4 +37,4 @@ Oină is first mentioned in Romanian documents around 1364 and was described in 
 - [World Ethnosport Organization — oină](https://www.worldethnosport.org/oina) — international documentation of traditional games
 - [Europeana — oină](https://www.europeana.eu/) — European cultural heritage records on the Romanian national game
 - [Oină — Wikipedia](https://en.wikipedia.org/wiki/Oin%C4%83) — history, István Mátyus 1782 and the baseball debate
-- [Baseball](baseball.html) on this site — the modern bat-and-ball game oină is compared with
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

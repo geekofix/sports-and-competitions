@@ -8,6 +8,8 @@ The game remains central to Choctaw cultural life: the 76th Annual Choctaw India
 
 *Figure: Boston Public Library. (2011, February 11). Players competing in a stickball game at Cherokee, North Carolina [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Cherokee_Stickball,_played_at_Cherokee,_North_Carolina_%285756056014%29.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each team fields around 30 players on a field roughly the size of a football pitch, with a square wooden goalpost (fabvssa) about 12–14 feet high set at each end; a point is scored when the ball — carried, passed and thrown only with the sticks — is thrown or hit against or through the opponent's upright, and the ball may never be touched with hands or feet (Wikipedia, n.d.-e).
@@ -43,4 +45,4 @@ The game spread to neighbouring nations such as the Cherokee and Seminole, but 1
 - [Choctaw Nation of Oklahoma](https://www.choctawnation.org/) — traditional games, World Series of Stickball programme
 - [Stickball (Native American sport)](https://en.wikipedia.org/wiki/Stickball_(Native_American_sport)) — rules, equipment, World Series of Stickball (Pearl River, MS, since 1975)
 - [Choctaw Indian Fair](https://en.wikipedia.org/wiki/Choctaw_Indian_Fair) — 76th edition, Durant OK, 14–18 July 2026
-- Related on this site: [lacrosse](lacrosse.html), [american-handball](american-handball.html)
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

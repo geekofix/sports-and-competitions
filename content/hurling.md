@@ -6,6 +6,8 @@ Hurling is Ireland's ancient field sport — often called "the fastest field spo
 
 *Figure: Meade, J. (2007, June 10). Hurling — taking a swing, DC Gaels vs Shamrocks, Philadelphia [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Hurling_sport_-_Taking_a_swing.jpg*
 
+ Within the lacrosse and stick-games family on this site, its closest relatives are [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Camogie](camogie.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Hurling is played on a rectangular pitch 130–145 m long and 80–90 m wide, with a goal at each end (6.4 m wide posts and a crossbar 2.44 m above the ground); each team fields 15 players — one goalkeeper and 14 outfield players (GAA, n.d.-a; Wikipedia, n.d.-a). The sliotar is 69–72 mm in diameter and 110–116 g in mass; since 2010 a helmet with a faceguard is compulsory for all players in GAA games, and other protective equipment (gloves, mouthguard) is recommended (GAA, n.d.-a). A player may carry the ball in the hand for a maximum of four steps, may solo it (bounce it on the hurley) while running, and may strike it with the hurley; catching the ball is allowed, and the *square-ball rule* requires play to restart when play is stopped in the small square in front of goal (GAA, n.d.-a; Wikipedia, n.d.-a). Free hits are awarded from where the foul occurred, the 65-m free is taken from the 65-m line, sideline and 21-m (small) frees similarly; a goal is worth 3 points and a point over the crossbar 1 point (Wikipedia, n.d.-a). Inter-county matches last 70 minutes (two 35-minute halves) with extra time if tied in championship games, club matches 60 minutes; the referee, two umpires and four linesmen officiate under the GAA's Official Guide (Rule Book, current edition April 2026) (GAA, n.d.-a). Men and women play identical rules; camogie uses the same pitch, ball and scoring (Ladies' Gaelic Football Association, n.d.).
@@ -34,3 +36,4 @@ Hurling is one of the oldest field sports in the world — the Irish epic *Táin
 - [Gaelic Football](gaelic-football.html) on this site — the other GAA field sport
 - [Gaelic Handball](gaelic-handball.html) on this site — GAA's indoor wall game
 - [Field Hockey](field-hockey.html) on this site — stick-and-ball team sport
+- Related on this site: [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Camogie](camogie.html), [Shinty](shinty.html), [Intercrosse](intercrosse.html), [Cornish Hurling](cornish-hurling.html) and [Cammag](cammag.html) — the lacrosse and Gaelic/Celtic stick games

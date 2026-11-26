@@ -6,6 +6,8 @@ Unicycle polo is polo played on one wheel: riders on unicycles carry long-handle
 
 *Figure: Hu Totya. (2008, April 20). Bike Polo AUT-HUN — friendly bicycle polo (cycle polo) match between Austria and Hungary at the Millenáris velodrome in Budapest on Earth Day 2008, the two-wheeled cousin of unicycle polo [Photograph]. Wikimedia Commons. GFDL; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bike_Polo_AUT-HUN.jpg*
 
+ Within the polo family on this site, its closest relatives are [Polo](polo.html), [Bike Polo](bike-polo.html), [Polocrosse](polocrosse.html), [Horseball](horseball.html), [Pato](pato.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Play follows the shape of polo adapted to the unicycle: teams of four riders (event sizes vary from three to five) use mallets to hit the ball through goal openings at each end of a grass, hard or indoor court, switching ends at half-time; matches typically run two halves of 10–15 minutes (International Unicycling Federation, n.d.). As in unicycle hockey, a player must be riding to play the ball — resting on walls, goals or other players is not allowed — and polo's classic discipline carries over: no swinging the mallet above shoulder height, no striking an opponent's mallet or wheel, and no dangerous riding, with fouls punished by free hits and penalty shots (International Unicycling Federation, n.d.; Wikipedia, n.d.). Equipment rules set the maximum wheel size by event class, mallet length and ball type, and the IUF convention rule set standardizes play at world championships, where men's, women's and mixed teams compete (International Unicycling Federation, n.d.).
@@ -27,5 +29,5 @@ Unicycle polo descends from the nineteenth-century mounted-polo fashion that als
 
 - [International Unicycling Federation (IUF)](https://unicycling.org/) — world governing body and Unicon convention programme
 - [Unicycle hockey](unicycle-hockey.html) on this site — the big unicycle team sport
-- [Polo](polo.html) on this site — the mounted original
+- Related on this site: [Polo](polo.html), [Bike Polo](bike-polo.html), [Polocrosse](polocrosse.html), [Horseball](horseball.html), [Pato](pato.html) and [Chovgan](chovgan.html) — the polo family (horse, bike, unicycle)
 - [Water polo](water-polo.html) on this site — polo's water cousin

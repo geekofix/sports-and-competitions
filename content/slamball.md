@@ -6,6 +6,7 @@ Slamball is a full-contact team sport played on a court with four trampolines an
 
 *Figure: Gotoenter. (2008, June 12). Corey vs Ivan in 2008.jpg — Corey Beezhold and Ivan Lattimore during a Slamball game in the 2008 season [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Corey_vs_Ivan_in_2008.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Dodgeball](dodgeball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,4 +35,4 @@ Slamball was invented in 1999 by Mason Gordon, who, together with producer Mike 
 - [Slamball — official league site](https://slamball.com/) — rules, teams and the ESPN-broadcast seasons
 - [ESPN — Slamball](https://www.espn.com/) — broadcast home of the 2023 and 2026 seasons
 - [Basketball](basketball.html) on this site — the parent sport of Slamball's scoring
-- [Dodgeball](dodgeball.html) on this site — another court team sport with on-the-fly substitutions
+- Related on this site: [Dodgeball](dodgeball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html) and [Sepak Takraw](sepak-takraw.html) — the net/court team ball games

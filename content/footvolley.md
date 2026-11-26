@@ -4,6 +4,8 @@ Footvolley (Brazilian Portuguese *futevôlei*) is a beach sport that combines th
 
 At the end of 2026 the leading women's teams come from Brazil and Portugal, the countries that also dominate the 2026 World Tour and EFVL circuits, while on the men's side the Brazilian and Portuguese internationals — including EFVL leaders Juan Silva and Rodrigo Otero — set the standard (EFVL, n.d.; FNFV, n.d.).
 
+ Within the hybrid ball games family on this site, its closest relatives are [Futnet](futnet.html), [Soccer Tennis](soccer-tennis.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Footvolley is based on beach volleyball rules with football ball handling (Wikipedia, n.d.-a). The court is 16 m × 8 m (8 m × 8 m per side), played on fine quartz sand at least 35 cm deep, with a net 2.20 m high for men and 2.10 m for women (Wikipedia, n.d.-a). Teams are two per side (3v3, 4v4 and mini/1v1 variants exist), and the ball may be played with any part of the body except hands and arms — contact with an arm or hand is a fault — with a maximum of three contacts per side before the ball must cross the net, and touching the net is forbidden (Wikipedia, n.d.-a). The serve is played from a sand mound no more than 1 m behind the baseline. A set is won at 18 points with a two-point lead, capped at 21 (rally-point scoring), and the match is the best of three sets (Wikipedia, n.d.-a). The indoor ball is smaller, heavier (about 360 g) and bouncier than a volleyball. The Pro Footvolley Tour in the Americas uses a modified format: a lower net of 6 ft 8 in (2.03 m), a larger court of 29.5 ft × 58 ft (9 m × 17.7 m), and the "shark attack," a designated super point worth two points, with at most three per set (Wikipedia, n.d.-a). Men and women compete in separate categories, with the lower net for women, and mixed events are also played (Wikipedia, n.d.-a).
@@ -39,5 +41,5 @@ Footvolley was created in 1965 in Rio de Janeiro by Octavio de Moraes, originall
 - [Beach Volleyball](beach-volleyball.html) on this site
 - [Volleyball](volleyball.html) on this site
 - [Football](football.html) on this site
-- [Futnet](futnet.html) on this site
+- Related on this site: [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games
 - [Sepak Takraw](sepak-takraw.html) on this site

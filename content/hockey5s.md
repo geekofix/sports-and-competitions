@@ -6,6 +6,7 @@ Hockey5s is the five-a-side short format of field hockey, played with sticks and
 
 *Figure: Mauricio V. Genta. (2018, October 14). Women's Gold Medal Match Hockey5s ARG-IND YOG18 14-10-2018 (021) — the women's Hockey5s gold medal match Argentina vs. India at the 2018 Summer Youth Olympics in Buenos Aires — Hockey5s is the five-a-side small-sided field hockey format [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Women's_Gold_Medal_Match_Hockey5s_ARG-IND_YOG18_14-10-2018_%2528021%2529.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Ice Hockey](ice-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -36,6 +37,4 @@ The FIH developed Hockey5s in the late 2010s as a fast, skilful and adaptable sh
 - [International Hockey Federation (FIH)](https://www.fih.hockey/) — world governing body for all hockey formats
 - [FIH Rules of Hockey5s](https://www.fih.hockey/about-fih/official-documents/rules-of-hockey) — official rulebook downloads
 - [FIH Hockey5s rankings](https://www.fih.hockey/events/) — world rankings and event results
-- [Field Hockey](field-hockey.html) on this site — the 11-a-side outdoor game
-- [Indoor Field Hockey](indoor-field-hockey.html) on this site — the 6-a-side hall variant
-- [Ice Hockey](ice-hockey.html) on this site — hockey on ice
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

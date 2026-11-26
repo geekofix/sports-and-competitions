@@ -6,6 +6,7 @@ Pop-A-Shot is the original arcade basketball game — an electronic shooting mac
 
 *Figure: PattayaPatrol. (2025, July 8). DFC 0845 Two boys play an arcade basketball game shooting orange balls toward the hoops as the electronic scoreboards glow in the background — two players shooting balls at the hoop of an arcade basketball shooting game — Pop-A-Shot is exactly such a timed arcade basketball game, now played competitively [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:DFC_0845_Two_boys_play_an_arcade_basketball_game_shooting_orange_balls_toward_the_hoops_as_the_electronic_scoreboards_glow_in_the_background.jpg*
 
+ Within the basketball family on this site, its closest relatives are [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Beach Basketball](beach-basketball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,4 +34,4 @@ The original Pop-A-Shot was invented in 1981 by Ken Cochran, a former college ba
 
 - [Pop-A-Shot — official site and history](https://popashot.net/pages/history) — the original arcade basketball brand
 - [2026 Pop-A-Shot National Championship](https://popashot.net/pages/2026-national-championship) — brackets, qualifiers and results
-- [Basketball](basketball.html) on this site — the parent sport
+- Related on this site: [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html) and [Beach Basketball](beach-basketball.html) — the basketball family

@@ -6,6 +6,8 @@ Baseball5 is the five-a-side, mixed-gender street version of baseball and softba
 
 *Figure: World Baseball Softball Confederation. (2017, December 1). Cuba Baseball5 game in the streets of Havana [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cuba_Baseball5_game.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Softball](softball.html), [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Baseball5 is played on a square field 21 m on each side with four bases set 13 m apart; there is no pitcher and no bat — the batter strikes a small rubber ball with the hand or fist from the home area, and fielders play the ball with their hands only (WBSC, n.d.-b). Each team fields five players, and at least two of them must be women and two men at all times; a game lasts five innings, each divided into a batting and a fielding half, and three outs end a half-inning. A run is scored when a batter-runner safely touches every base in order and returns to home plate; outs are recorded by a clean catch, a tag or a force out, exactly as in baseball. Matches are decided in best-of-three or best-of-five series and typically take 15–20 minutes. Youth competitions are staged in age-group categories with shortened fields and games, while the senior World Cup uses the full format for both men's and women's national teams, which compete in the same mixed-team format (WBSC, n.d.-b).
@@ -31,4 +33,4 @@ Baseball5 was developed by the WBSC and first played publicly in the streets of 
 - [WBSC Baseball5](https://www.wbsc.org/baseball5/) — official rules and news of the street format
 - [Baseball5 World Cup 2026](https://www.wbsc.org/baseball5-world-cup/) — San Juan, Puerto Rico, December 9–13, 2026
 - [Dakar 2026 Youth Olympic Games](https://www.olympics.com/en/olympic-games/dakar-2026) — Baseball5 at the first Youth Olympics held in Africa
-- [Baseball](baseball.html), [Softball](softball.html) and [Cricket](cricket.html) on this site
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

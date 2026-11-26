@@ -6,6 +6,8 @@ Standing volleyball is volleyball played standing by athletes with a physical di
 
 *Figure: DBS-voba. (2011, July 25). WorldCup2011 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:WorldCup2011.JPG*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Volleyball](volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Standing volleyball uses the FIVB Laws of the Game with para-volley adaptations: teams of six on court plus liberos, a 2.43 m net for men and 2.24 m for women, rally-point scoring — sets to 25 points won by a two-point margin, with a deciding fifth set to 15 — best-of-five sets in international matches, and the same rotation, blocking and attacking rules as able-bodied volleyball (World ParaVolley, n.d.). The standing-specific classification system (VS1/VS2, shared with sitting volleyball) evaluates the functional impact of the impairment; in sitting volleyball at most one VS2-classified player may be on court at a time, and standing volleyball applies the same classification framework for eligibility. Fouls — more than three touches, a held or thrown ball, a net touch, a foot over the centre line — are penalized as in FIVB rules, awarding the rally to the opponent (Wikipedia, n.d.). Matches are played in pools followed by knockout rounds at world cups and Paralympic qualification events, with separate men's and women's tournaments (World ParaVolley, n.d.).
@@ -26,6 +28,4 @@ Volleyball for athletes with disabilities began in the Netherlands in the 1950s 
 ## Important Links
 
 - [World ParaVolley](https://www.worldparavolley.org/) — international federation for sitting, standing and beach paravolley
-- [Volleyball](volleyball.html) on this site — the able-bodied parent sport
-- [Sitting Volleyball](sitting-volleyball.html) on this site — the seated Paralympic discipline
-- [Beach Volleyball](beach-volleyball.html) on this site — the sand variant
+- Related on this site: [Volleyball](volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html), [Sepak Takraw Doubles](sepak-takraw-doubles.html) and [Sepak Takraw Regu](sepak-takraw-regu.html) — the net/court team ball games

@@ -6,6 +6,8 @@ Underwater ice hockey is the upside-down form of hockey played on the underside 
 
 *Figure: Nullzeit. (2006, June 30). Redl-eistauchen-nullzeit — Iceman Christian Redl freediving under ice, the Austrian freediver who invented underwater ice hockey [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Redl-eistauchen-nullzeit.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The playing surface is the underside of a thick natural ice sheet: a rink of about 6 × 8 m is marked beneath ice at least 12 inches (30 cm) thick, and a goal is hung from the ice at each end, each with an escape hole cut beside it (Wikipedia, n.d.). Players wear wetsuits or drysuits and breathe-hold — no tanks are allowed — surfacing roughly every 30 seconds through the safety holes, while four safety divers plus a photographer and cameraman stand by under the ice (Wikipedia, n.d.). The puck is buoyant and floats up against the ice ceiling, so players, inverted, flick it with short sticks toward the suspended goals; matches run as short 10-minute games with 10-minute warm-up breaks between them (Wikipedia, n.d.). Teams are small — typically three field players and a goalkeeper per side — and men's and women's teams follow identical rules; there is no world federation, with events organized by Redl's team and allied extreme-sports promoters under strict ice-safety protocols (Red Bull, n.d.; Wikipedia, n.d.).
@@ -27,5 +29,5 @@ Underwater ice hockey was invented in 2005 by the Austrian freediver and extreme
 
 - [Red Bull Athletes — Christian Redl](https://www.redbull.com/) — the inventor's profile and under-ice events
 - [Underwater hockey](underwater-hockey.html) on this site — the pool-bottom sport with the same name
-- [Ice hockey](ice-hockey.html) on this site — the surface parent sport
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)
 - [Freediving](freediving.html) on this site — the breath-hold diving Redl comes from

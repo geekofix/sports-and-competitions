@@ -6,6 +6,7 @@ Snow volleyball is the winter counterpart of beach volleyball: teams contest a b
 
 *Figure: Quarion86. (2016, March 26). Snow Volley Italia 2016.jpg — Players competing at Snow Volley Italia 2016, a snow volleyball tournament [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Snow_Volley_Italia_2016.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Water Volleyball](water-volleyball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,6 +34,4 @@ Informal snow volleyball was played for decades in Alpine countries, but the mod
 
 - [FIVB — Fédération Internationale de Volleyball](https://www.fivb.com/) — world governing body; snow volleyball rules and World Tour
 - [CEV — European Volleyball Confederation](https://www.cev.eu/) — European Tour and European Championships
-- [Snow volleyball 3x3](snow-volleyball-3x3.html) on this site — the official 3-a-side format
-- [Volleyball](volleyball.html) on this site — the indoor parent game
-- [Beach volleyball](beach-volleyball.html) on this site — the summer-sand model
+- Related on this site: [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html), [Sepak Takraw Doubles](sepak-takraw-doubles.html) and [Sepak Takraw Regu](sepak-takraw-regu.html) — the net/court team ball games

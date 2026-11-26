@@ -12,6 +12,8 @@ On the gender side, brännboll is played by women's, men's and mixed teams at Br
 
 *Figure: Lindgren, D. (2011, May 28). Brännbollscupen i Umeå [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Br%C3%A4nnbollscupen.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Softball](softball.html), [Rounders](rounders.html), [Cricket](cricket.html), [Cricket Odi](cricket-odi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Brännboll is played on a field with four bases (first, second, third and home) arranged in a diamond. There is no pitcher: the batter stands at home, throws the ball vertically into the air and hits it with the bat on the way down — a hit that is caught on the fly is an out. After a fair hit, the batter runs to first base and may continue around the bases; the fielding team tries to get her out by catching the ball before it touches the ground, tagging her with the ball, or touching a base with the ball before she reaches it. The signature rule is the burn (bränna): a fielder may throw the ball at a runner, and a runner hit by the ball while not on a base is out (burned) (Brännbollsyran, n.d.-b).
@@ -43,4 +45,4 @@ Brännboll is a traditional Swedish folk game whose name means "burning ball", r
 - [Brännbollscupen 2026](https://cup.brannbollsyran.com/) — official cup site; teams, schedule, final BK Rel vs Nucken, May 29–30, 2026, Umeå
 - [Brännbollsyran](https://brannbollsyran.com/) — the Umeå festival since 1974; 300+ teams, 3,000+ players
 - [Homerun Festivals](https://homerunfestivals.se/) — festival organizer, June 5–7, 2026
-- [Baseball](baseball.html), [softball](softball.html), [rounders](rounders.html) and [cricket](cricket.html) on this site
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

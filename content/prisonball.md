@@ -6,6 +6,7 @@ Prisonball is a variation of [dodgeball](dodgeball.html) in which players who ar
 
 *Figure: Patourek. (2024, May 18). Začátek zápasu tzv. Rush v dodgeballu.jpg — The opening rush of a dodgeball match — prisonball is a dodgeball variant in which hit players go to a prison area behind the opposing team [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Za%C4%8D%C3%A1tek_z%C3%A1pasu_tzv._Rush_v_dodgeballu.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Dodgeball](dodgeball.html), [Dodge Juggle](dodge-juggle.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -31,5 +32,4 @@ Prisonball descends from the folk tradition of dodgeball-type schoolyard and gym
 
 ## Important Links
 
-- [Dodgeball](dodgeball.html) on this site — the parent sport
-- [Dodge Juggle](dodge-juggle.html) on this site — a related schoolyard ball game
+- Related on this site: [Dodgeball](dodgeball.html), [Dodge Juggle](dodge-juggle.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html) and [Indiaca](indiaca.html) — the net/court team ball games

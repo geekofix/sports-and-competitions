@@ -12,6 +12,8 @@ Kickball is played by women and men together in most social leagues — co-ed di
 
 *Figure: Osteele98. (2024, October 17). Kickball players contesting the ball during a game [Photograph]. Wikimedia Commons. CC0. https://commons.wikimedia.org/wiki/File:Kickball_players.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Softball](softball.html), [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html); the related pages are listed under Important Links.
+
 ## Rules
 
 WAKA's official rules are played on a 60-foot softball diamond with the 10-inch red WAKA ball inflated to 1.5 psi; the pitcher rolls the ball on the ground toward home plate (bouncies — kicks that bounce before reaching the plate — are allowed), and the kicker kicks from the kicking box and runs to first base (World Kickball Association, n.d.-b; World Kickball Association, n.d.-a).
@@ -44,4 +46,4 @@ The adult league era began when WAKA was founded in Washington, D.C., in 1998 �
 - [World Kickball Association (WAKA/CLUBWAKA)](https://kickball.com/) — founded 1998, Washington, D.C.; world governing body; Founder's Cup, Las Vegas, each October
 - [WAKA official rules](https://kickball.com/rules/) — 60-ft diamond, 7 innings/55-minute limit, 10 fielders, no stealing, accuracy-kick tiebreak
 - [CLUBWAKA rules](https://clubwaka.com/rules/) — standard rules for sanctioned leagues
-- Related on this site: [baseball](baseball.html), [softball](softball.html)
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

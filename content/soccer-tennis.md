@@ -6,6 +6,8 @@ Soccer tennis — internationally known as futnet, Czech and Slovak *nohejbal* �
 
 *Figure: Tabl-trai. (2026, July 4). Terrain de futnet dans le parc omnisports Auvergne-Rhône-Alpes — Vichy 2026-07-04 — a futnet court in Vichy, France [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Terrain_de_futnet_dans_le_parc_omnisports_Auvergne-Rh%C3%B4ne-Alpes_%E2%80%94_Vichy_2026-07-04.JPG*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The three futnet disciplines differ in team size, court and bounce rules: singles is one player on a 9 × 12.8 m court with a maximum of two touches and one bounce; doubles is two players on the same court with three touches — never two consecutive by the same player — and one bounce for men but two bounces for women and juniors; triples is three players on a 9 × 18 m court with the same touch and bounce rules (FIFTA, n.d.-b). The net is 1.10 m high; a set is won at 11 points with a two-point lead, capped at 15–14, and a match is the best of two sets (Wikipedia, n.d.). Fouls include touching the ball with hands or arms, letting it bounce more often than allowed, and touching the net; uniquely, a ball that hits the net and returns to the striker's own side may not be played again (FIFTA, n.d.-b). The ball is a glued 32-panel synthetic-leather ball that must bounce more than half a metre when properly inflated, and national associations may allow a maximum of three ball drops per match (FIFTA, n.d.-b). Serves are struck from behind the end line and alternate. Women's, men's and junior categories play on identical courts, differing only in the bounce allowance described above (FIFTA, n.d.-a).
@@ -32,3 +34,4 @@ Futnet began in 1922 when players of the Prague club Slavia Prague started kicki
 - [Tennis](tennis.html) on this site — the racket parent game
 - [Volleyball](volleyball.html) on this site — the net-court model
 - [Beach tennis](beach-tennis.html) on this site — a racket-over-net variant
+- Related on this site: [Footvolley](footvolley.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

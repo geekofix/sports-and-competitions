@@ -6,6 +6,8 @@ Indiaca (also known as *peteca*) is the net sport in which two teams hit a shutt
 
 *Figure: Häckel, M. (2006, October 30). Indiaca (peteca) — ball with four feathers [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Indiaca.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Volleyball](volleyball.html), [Sepak Takraw](sepak-takraw.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The indiaca ball consists of a leather or synthetic head carrying four unbroken feathers, and it may be struck only with the hand (open palm, fist or forearm) — rackets or other implements are not allowed (IIA, n.d.-a). The court measures about 12.2 × 6.1 m and is divided by a net; two teams of four players face each other, and each side may contact the ball a maximum of three times before returning it over the net (Wikipedia, n.d.-a). The serve is made from behind the end line, and the ball must not touch the ground — every rally is scored (rally-point system), with sets and match formats defined in the OIR; foot faults, net touches and playing the ball out are the typical violations (IIA, n.d.-a). Men's, women's and mixed competitions are played under identical rules; at the World Championships, teams of four compete in men's, women's and mixed events (IIA, n.d.-a, n.d.-b).
@@ -27,7 +29,6 @@ Indiaca was created in 1972 in Brazil by Karlhans Ehlert, a German physical educ
 ## Important Links
 
 - [International Indiaca Association (IIA)](https://www.indiaca-iia.com/) — world governing body; Official Indiaca Rules and World Championships
-- [Volleyball](volleyball.html) on this site — the net sport played with hands and arms
-- [Sepak Takraw](sepak-takraw.html) on this site — net sport with a rattan ball
+- Related on this site: [Volleyball](volleyball.html), [Sepak Takraw](sepak-takraw.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Sepak Takraw Doubles](sepak-takraw-doubles.html) and [Sepak Takraw Regu](sepak-takraw-regu.html) — the net/court team ball games
 - [Badminton](badminton.html) on this site — the feathered-shuttlecock net sport
 - [Tennis](tennis.html) on this site — net sport over a court

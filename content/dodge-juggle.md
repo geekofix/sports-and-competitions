@@ -8,6 +8,7 @@ Women and men compete alike in dodge-juggle.
 
 *Figure: James Heilman, MD. (2008, July 10). 5 ball juggling — Five-ball juggling — dodge-juggle combines juggling with dodging balls thrown by opponents [Photograph]. Wikimedia Commons. GFDL / CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:5_ball_juggling.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Dodgeball](dodgeball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -38,4 +39,4 @@ Dodge-juggle emerged from the juggling and skill-sports festival scene in the Un
 - [SkillCon / Moxie Games — Dodge-Juggle](https://www.skillcon.org/event/dodge-juggle-2/) — organizer of official dodge-juggle competitions and the Moxie Games
 - [ESPN — The Illustrated Guide to The Ocho](https://www.espn.com/espn/feature/story/_/id/24233734/the-illustrated-guide-to-the-ocho) — mainstream introduction of the sport to a wide audience
 - [The Offbeat Athlete — Dodge-juggle explainer](https://www.theoffbeatathlete.com/blog/dodge-juggle) — rules of the 1-on-5 and team variants
-- [Dodgeball](dodgeball.html) on this site
+- Related on this site: [Dodgeball](dodgeball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html) and [Sepak Takraw](sepak-takraw.html) — the net/court team ball games

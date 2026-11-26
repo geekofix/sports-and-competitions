@@ -8,6 +8,8 @@ Shinty is Scotland's indigenous stick-and-ball field game, played 12-a-side with
 
 Among the current leading players, the women's game is headed by Badenoch & Strathspey's Elizabeth McGregor, player of the match in the 2026 Valerie Fraser Cup final, and Rona Stewart, who won the same award in 2025, while the men's elite is led by Kingussie's 2025 league champions and by the Scotland side that won the 2026 shinty–hurling international (Wikipedia, n.d.-c; Wikipedia, n.d.-d; Wikipedia, n.d.-b).
 
+ Within the lacrosse and stick-games family on this site, its closest relatives are [Hurling](hurling.html), [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The pitch measures 140–170 yards (128–155 m) long and 70–80 yards (64–73 m) wide, with a goal at each end, and each team fields 12 players over two 45-minute halves; only goals count, one goal being one point (Wikipedia, n.d.-a; Camanachd, n.d.). The caman must be made of laminated ash or hickory with a head small enough to pass through a 2.5-inch (6.4 cm) ring, and the sliotar is a small cork ball (Wikipedia, n.d.-a). Players may tackle shoulder-to-shoulder and block with the body, but high sticks, hacking and off-the-ball contact are fouls; the goalkeeper may handle the ball with an open hand inside his own penalty area, and penalties are struck from a spot 20 yards (18 m) out (Wikipedia, n.d.-a). Restarting play uses throw-ins, free hits and corner hits under the Camanachd Association's rules of play, and there is no offside (Camanachd, n.d.). Women's shinty follows the identical laws, with 12-a-side in representative games and 8- or 10-a-side in most league fixtures, administered by the Women's Camanachd Association (WCA, n.d.; Wikipedia, n.d.-d).
@@ -34,3 +36,4 @@ The Camanachd Association was founded in October 1893 at the Victoria Hall in Ki
 - [Camanachd Association](https://shinty.com/) — world governing body for shinty; rules, Premiership, Camanachd Cup
 - [Women's Camanachd Association](https://shinty.com/wca/) — women's league, Valerie Fraser Camanachd Cup, internationals
 - [Hurling](hurling.html), [Lacrosse](lacrosse.html), [Field Hockey](field-hockey.html) and [Football](football.html) on this site — related stick-and-ball and field games
+- Related on this site: [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Hurling](hurling.html), [Camogie](camogie.html), [Intercrosse](intercrosse.html), [Cornish Hurling](cornish-hurling.html) and [Cammag](cammag.html) — the lacrosse and Gaelic/Celtic stick games

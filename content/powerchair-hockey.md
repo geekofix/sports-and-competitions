@@ -8,6 +8,8 @@ The premier international event is the Powerchair Hockey World Cup: the 2026 edi
 
 *Figure: Tobi swiss. (2022, August 13). Powerchair hockey action at the 2022 World Championship, Finland vs Netherlands [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Powerchair_Hockey_World_Championship_22_Finland_vs_Netherlands.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Floorball](floorball.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 All players must use a power wheelchair — manual wheelchairs and electric scooters are not permitted — and all must wear protective eyewear and a seat belt (Wikipedia, n.d.-a). The game is played on a regulation basketball court; goals are scored by hitting the plastic ball into the opponent's goal with a plastic stick mounted on the chair's footplate, and players with limited arm mobility may use a T-stick held in the mouth (Wikipedia, n.d.-a).
@@ -38,4 +40,4 @@ World Cups followed in Helsinki 2004, Lignano 2010, Munich 2014, Lignano 2018 an
 ## Important Links
 
 - [Power hockey — World Cup results and rules overview](https://en.wikipedia.org/wiki/Power_hockey) — incl. 2026 World Cup in Nastola, Finland
-- Related on this site: [ice hockey](ice-hockey.html), [field hockey](field-hockey.html), [floorball](floorball.html), [powerchair football](powerchair-football.html), [wheelchair rugby](wheelchair-rugby.html), [wheelchair basketball](wheelchair-basketball.html)
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html) and [Sledge Hockey](sledge-hockey.html) — the hockey family (field, ice, roller and variants)

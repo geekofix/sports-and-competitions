@@ -6,6 +6,7 @@ Lapta is a Russian folk bat-and-ball game, first documented in the 14th century,
 
 *Figure: M. Volkov. (1915). Игра в лапту в России (Playing lapta in Russia) — a 1915 illustration of children playing lapta, the traditional Russian bat-and-ball game that is the ancestor of baseball [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:%D0%98%D0%B3%D1%80%D0%B0_%D0%B2_%D0%BB%D0%B0%D0%BF%D1%82%D1%83_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Cricket](cricket.html), [Softball](softball.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,4 +33,4 @@ Lapta is documented as early as the 14th century: mentions appear in medieval ma
 ## Important Links
 
 - [All-Russian Lapta Federation](https://ruslapta.ru/) — national governing body; rules, championships, regional federations
-- [Baseball](baseball.html) on this site — [Cricket](cricket.html) on this site — [Softball](softball.html) on this site — modern bat-and-ball descendants of lapta
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

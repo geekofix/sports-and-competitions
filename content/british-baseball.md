@@ -8,6 +8,8 @@ On the women's side, Great Britain's women's national team — coached by Pietro
 
 *Figure: Milzo1986. (2024, July 20). GAA Rounders Match Wolfe Tones (Antrim) v Kilrea (Derry) — a batter prepares to hit [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:GAA_Rounders_Match_Wolfe_Tones_%28Antrim%29_v_Kilrea_%28Derry%29.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Baseball](baseball.html), [Softball](softball.html), [Cricket](cricket.html), [Rounders](rounders.html), [Baseball5](baseball5.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the rules used by the British Baseball Federation and WBSC-affiliated play, a team fields nine players; the game lasts five innings at senior level (shorter at youth levels), and each innings both teams bat and field, with three outs ending a team's turn at bat. The bowler delivers the ball underarm; the batter stands at home post with a flat-sided bat and attempts to hit the ball into fair territory, then runs around the four posts; a run is scored when a batter legally touches all four posts and returns to home. Stealing bases is not allowed, and runners must wait for the ball to be hit before leaving their post. Fielders record outs by catching a batted ball before it bounces, tagging a runner with the ball, or touching a post before the runner arrives (a force out) (BBF, n.d.).
@@ -44,4 +46,4 @@ British baseball grew out of rounders, the traditional English bat-and-ball game
 - [World Baseball Softball Confederation (WBSC)](https://www.wbsc.org/) — world governing body; World Baseball Classic, age-group world cups, Women's Baseball World Cup
 - [British Baseball Federation (BBF)](https://britishbaseball.org.uk/) — national governing body; NBL, national championships, GB national teams
 - [World Baseball Classic 2026](https://www.wbsc.org/wbc/) — premier international tournament, Venezuela champion 2026
-- [Baseball](baseball.html), [softball](softball.html), [cricket](cricket.html), [rounders](rounders.html) and [Baseball5](baseball5.html) on this site
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

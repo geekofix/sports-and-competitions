@@ -6,6 +6,7 @@ Newcomb ball (also called Newcomb, Mamanet or catchball) is a team ball game pla
 
 *Figure: Egilus. (2026, July 23). Catch'n serve ball, Kārsava-Strūžāni — a catch'n serve ball game — newcomb ball, where a thrown ball must be caught before it bounces twice — in Kārsava, Latvia [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Catch'n_serve_ball,_K%C4%81rsava-Str%C5%AB%C5%BE%C4%81ni.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,4 +33,4 @@ Clara Gregory Baer devised Newcomb in 1895 while waiting for basketball baskets 
 
 - [Newcomb ball — Wikipedia](https://en.wikipedia.org/wiki/Newcomb_ball) — invention by Clara Gregory Baer in 1895 and historical rules
 - [Mamanet — Wikipedia](https://en.wikipedia.org/wiki/Mamanet) — the modern competitive catchball form with world championships
-- [Volleyball](volleyball.html) on this site — the hitting-based net sport Newcomb rivaled and influenced
+- Related on this site: [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html) and [Sepak Takraw Doubles](sepak-takraw-doubles.html) — the net/court team ball games

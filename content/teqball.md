@@ -6,6 +6,8 @@ Teqball is a ball sport invented in 2014 in Hungary by former professional footb
 
 *Figure: WynWork. (2019, December 8). Natalia Guitler en Teqball — Natalia Guitler (BRA), 2021 women's singles world champion, playing teqball [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Natalia_Guitler_en_Teqball.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Teqvoly](teqvoly.html), [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Headis](headis.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Teqball is played on a curved table 3 m long and 1.7 m wide, standing 0.76 m high at the center and 0.565 m at the edges, with a 0.14 m high plexiglass net across the middle, using a size-5 football (FITEQ, n.d.). Players may use any body part except hands and arms; the ball must cross to the opponent's side and bounce there once (FITEQ, n.d.). A team may touch the ball at most three times, no body part may be used twice in a row, and the ball must be returned over the net (FITEQ, n.d.). A set is played to 12 points, win by 2, and the match is best of three sets; under the rules in force from 16 May 2026 the service alternates every two points and a player may smash at most twice per set (FITEQ, n.d.). Events are men's and women's singles, men's and women's doubles and mixed doubles, with youth categories — women and men compete under identical rules (FITEQ, n.d.). The official rule source is the FITEQ competition rules (FITEQ, n.d.).
@@ -30,3 +32,4 @@ Gábor Borsányi conceived teqball in 2014 in Budapest, and the first table was 
 - [TEQBALL](https://www.teqball.com/) — official sport brand and event platform
 - [Teqball at the Asian Games 2026](https://www.aichi-nagoya2026.org/sport/teqball/) — first Asian Games medal edition, Aichi-Nagoya
 - [Table Football](table-football.html), [Volleyball](volleyball.html), [Football](football.html) and [Teqvoly](teqvoly.html) on this site — the games teqball combines and its sibling variant
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

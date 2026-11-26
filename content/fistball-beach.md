@@ -8,6 +8,7 @@ Men's and women's teams compete in identical formats with separate classificatio
 
 *Figure: Sander van der Wel. (2010, June 14). Beach volleyball (4701437938) — an attacker striking over the net on a sand court — beach fistball is played on sand between two teams separated by a net, much like beach volleyball [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Beach_volleyball_%25284701437938%2529.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Fistball](fistball.html), [Fistball Indoor](fistball-indoor.html), [Beach Volleyball](beach-volleyball.html), [Volleyball](volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,6 +34,4 @@ Beach fistball developed in the 1990s as fistball clubs sought a summer variant 
 ## Important Links
 
 - [IFA — International Fistball Association](https://www.ifa-fistball.com/) — world governing body; beach fistball rules and events
-- [Fistball](fistball.html) on this site — the outdoor game
-- [Fistball Indoor](fistball-indoor.html) on this site — the hall variant
-- [Beach Volleyball](beach-volleyball.html) on this site — the beach variant of the closest relative
+- Related on this site: [Fistball](fistball.html), [Fistball Indoor](fistball-indoor.html), [Beach Volleyball](beach-volleyball.html), [Volleyball](volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html), [Sepak Takraw Doubles](sepak-takraw-doubles.html) and [Sepak Takraw Regu](sepak-takraw-regu.html) — the net/court team ball games

@@ -8,6 +8,7 @@ On the gender side, broom hockey is typically played mixed in schools and clubs;
 
 *Figure: U.S. Army. (2018, November 2). 2018 BOSS Strong Broomball tournament (45688177341) — Teams competing in a broomball (broom hockey) tournament in 2018 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:2018_BOSS_Strong_Broomball_tournament_%252845688177341%2529.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Broomball](broomball.html), [Ice Hockey](ice-hockey.html), [Bandy](bandy.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -37,4 +38,4 @@ Broom hockey developed in Canada in the early 20th century as a dry-land offshoo
 - [International Federation of Broomball Associations (IFBA)](https://internationalbroomball.org/) — international broomball body; world championships incl. 2026 in Whitehorse
 - [United States Broomball Association (USBA)](https://usbabroomball.org/) — U.S. broomball body; broom hockey rules for schools and recreation
 - [All Elite Broomball](https://aebroomball.com/) — U.S. recreational broomball tournaments
-- [Broomball](broomball.html), [ice hockey](ice-hockey.html) and [bandy](bandy.html) on this site
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

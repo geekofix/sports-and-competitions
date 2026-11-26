@@ -12,6 +12,8 @@ On the women's side, women's baseball has grown rapidly: the Women's Baseball Wo
 
 *Figure: Drovetochicago. (2025, June 25). MLB right-handed pitcher Jacob Misiorowski delivering a pitch for the Milwaukee Brewers [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Jacob_Misiorowski.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Softball](softball.html), [British Baseball](british-baseball.html), [Baseball5](baseball5.html), [Cricket](cricket.html), [Cricket Odi](cricket-odi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the Official Baseball Rules (maintained by MLB), each team fields nine players — pitcher, catcher, four infielders (first, second, third base, shortstop) and three outfielders. The game lasts nine innings; each inning has a top and bottom half, and the visiting team bats first. The pitcher throws the ball toward home plate, and the batter tries to hit it into fair territory; a batted ball that lands in fair territory or is caught after a fair fly allows the batter to run. Three strikes (swinging or called, in the strike zone) is a strikeout; four balls outside the zone is a walk; three outs end the half-inning (MLB, n.d.-a).
@@ -49,4 +51,4 @@ The most iconic player is George Herman "Babe" Ruth of the New York Yankees, who
 - [World Baseball Softball Confederation (WBSC)](https://www.wbsc.org/) — world governing body; World Baseball Classic, Women's Baseball World Cup
 - [World Baseball Classic 2026](https://www.wbsc.org/wbc/) — international national-team tournament, Venezuela champion 2026
 - [Olympics.com — Baseball/Softball](https://olympics.com/en/sports/baseball-softball/) — Olympic history (baseball was an Olympic sport 1992–2008 and returned in 2020/2021 as baseball/softball)
-- [Softball](softball.html), [British Baseball](british-baseball.html), [Baseball5](baseball5.html) and [Cricket](cricket.html) on this site
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Indoor Cricket](indoor-cricket.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

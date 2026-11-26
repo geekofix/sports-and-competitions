@@ -8,6 +8,7 @@ Women's wheelchair basketball is a full Paralympic medal discipline, and female 
 
 *Figure: Sport the Library (Australian Paralympic Committee). (2000, November 14). 141100 - Wheelchair basketball from above - 3b - 2000 Sydney match photo — Australian men's wheelchair basketball team seen from above during a 2000 Sydney Paralympics match — 3x3 is the half-court variant of the same sport [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:141100_-_Wheelchair_basketball_from_above_-_3b_-_2000_Sydney_match_photo.jpg*
 
+ Within the basketball family on this site, its closest relatives are [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [Basketball](basketball.html), [Beach Basketball](beach-basketball.html), [Pop A Shot](pop-a-shot.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -38,4 +39,4 @@ Wheelchair basketball itself was invented around 1945–1948 at Stoke Mandeville
 - [IWBF — 3x3 wheelchair basketball](https://www.iwbf.org/3x3) — 3x3 rules, events and news
 - [2026 IWBF 3x3 Open World Championships, Cairo](https://www.iwbf.org/events/2026-iwbf-3x3-open-world-championships) — November 26–28, 2026
 - [International Paralympic Committee — wheelchair basketball](https://www.paralympic.org/wheelchair-basketball) — Paralympic Games results and history
-- See also [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html) and [Basketball](basketball.html) on this site
+- Related on this site: [Basketball](basketball.html), [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [Beach Basketball](beach-basketball.html) and [Pop A Shot](pop-a-shot.html) — the basketball family

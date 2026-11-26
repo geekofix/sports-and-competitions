@@ -8,6 +8,7 @@ Women and men play alike in japanese binocular soccer.
 
 *Figure: James Moore200. (2023, March 25). A picture of someone using binoculars at Chebera National Park — a person looking through binoculars — in Japanese binocular soccer, players wear binoculars that blur and restrict their vision while playing football [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:A_picture_of_someone_using_binoculars_at_Chebera_National_Park.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ Japanese binocular soccer was created around 2013–2014 as a segment on a Japan
 ## Important Links
 
 - [Football](football.html) on this site — see also [Futsal](futsal.html) and [Indoor Soccer](indoor-soccer.html) on this site
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

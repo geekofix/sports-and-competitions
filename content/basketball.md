@@ -14,6 +14,8 @@ Basketball is a team sport in which two teams of five players score points by th
 
 *Figure: Unknown author. (2026, June 18). 2026 NBA champions New York Knicks City Hall ceremony [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:2026_NBA_Champions_New_York_Knicks_City_Hall_Ceremony_12.png*
 
+ Within the basketball family on this site, its closest relatives are [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Beach Basketball](beach-basketball.html), [Pop A Shot](pop-a-shot.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FIBA Official Basketball Rules, a game is played on a court 28 m × 15 m with the hoop 3.05 m high, in four 10-minute quarters; each team may attempt a shot within 24 seconds of gaining possession, and a successful field goal counts two or three points depending on the spot (three points beyond the 6.75 m line) while free throws count one (FIBA, n.d.-b). A player is disqualified after five personal fouls under FIBA rules (six in the NBA), teams may call a limited number of timeouts, and a tied game goes to one or more 5-minute overtime periods. The ball differs by gender: men play with a size 7 ball (75–78 cm circumference), women with a size 6 ball (72–73 cm), and youth competitions use smaller courts, lower hoops and smaller balls appropriate to the age group. The 3x3 variant is played on one basket with teams of four (three on court plus one substitute), a 12-second shot clock and a game to 21 points or the highest score after 10 minutes (FIBA, n.d.-b).
@@ -53,3 +55,4 @@ Basketball was invented on December 21, 1891, by Dr. James Naismith, a Canadian 
 - [National Basketball Association (NBA)](https://www.nba.com/) — top professional league in North America
 - [Women's National Basketball Association (WNBA)](https://www.wnba.com/) — top women's professional league, 15 teams from 2026
 - [EuroLeague](https://www.euroleague.net/) and [EuroLeague Women](https://www.euroleaguewomen.com/) — top European club competitions
+- Related on this site: [3x3 Basketball](3x3-basketball.html), [Wheelchair Basketball](wheelchair-basketball.html), [3x3 Wheelchair Basketball](3x3-wheelchair-basketball.html), [Beach Basketball](beach-basketball.html) and [Pop A Shot](pop-a-shot.html) — the basketball family

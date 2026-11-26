@@ -6,6 +6,8 @@ Intercrosse — also known as softcrosse, modcrosse or pop lacrosse — is a non
 
 *Figure: Ni3m4nd. (n.d.). Intercrosse [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Intercrosse.jpg*
 
+ Within the lacrosse and stick-games family on this site, its closest relatives are [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Hurling](hurling.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under FIIC rules, intercrosse is played on a 40 × 20 m court with goals of 1.2 × 1.2 m at each end (Fédération Internationale d'Intercrosse, n.d.; Wikipedia, n.d.-a). Each team has five players, one of them the goalkeeper; the stick is made entirely of plastic and the ball is a soft hollow ball about the size of a tennis ball, so no helmet, pads or other protective gear are needed — only a protective cup and optional gloves are recommended (Wikipedia, n.d.-a). A match consists of two halves; the ball carrier may hold the ball for a maximum of five seconds and must pass or shoot, and the attacking team must attempt a shot within 30 seconds of gaining possession (Fédération Internationale d'Intercrosse, n.d.). There is no body contact of any kind: defenders may only intercept or block the ball with their stick, and any contact is a foul punished by a free pass (Wikipedia, n.d.-a). Restarts are taken from the sideline or behind the goal; a goal counts one point, and the team with the most goals after regulation time wins, with overtime in knockout matches (Fédération Internationale d'Intercrosse, n.d.). Men's and women's teams play under identical rules; at the World Games the teams are drawn as mixed squads at random, which makes intercrosse one of the few truly co-ed team sports at world level (Wikipedia, n.d.-b).
@@ -29,3 +31,4 @@ Intercrosse was invented and codified in the early 1980s in Quebec, Canada, wher
 - [Fédération Internationale d'Intercrosse (FIIC)](https://www.intercrosse.org/) — world governing body; rules, World Championship, European Cup
 - [The World Games](https://theworldgames.org/) — intercrosse on the program since 1987 with mixed teams
 - [Lacrosse](lacrosse.html) on this site — see also [Field Hockey](field-hockey.html) and [Handball](handball.html) on this site
+- Related on this site: [Lacrosse](lacrosse.html), [Field Lacrosse](field-lacrosse.html), [Box Lacrosse](box-lacrosse.html), [Sixes Lacrosse](sixes-lacrosse.html), [Hurling](hurling.html), [Camogie](camogie.html), [Shinty](shinty.html), [Cornish Hurling](cornish-hurling.html) and [Cammag](cammag.html) — the lacrosse and Gaelic/Celtic stick games

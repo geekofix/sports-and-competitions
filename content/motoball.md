@@ -10,6 +10,8 @@ Motoball — also called motorcycle polo — is a team motorsport played on a fo
 
 *Figure: Schmiedel, S. (2014, October 12). Zweikampf um den Motoball — duel for the ball in a motoball match [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Zweikampf_um_den_Motoball.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FIM Europe Motoball Rules (Appendix 075), a team fields five players — four riders and one goalkeeper, who is the only player allowed on foot inside the goalkeeper's semicircle; a squad may have up to ten players, two mechanics and one manager, and at most ten motorcycles per match (FIM Europe, n.d.). The game is played on a football field about 100 m long with goals at each end; a match consists of four periods of 20 minutes. The ball is nearly 40 cm in diameter, and riders pinch it between bike and leg using specially mounted side frames on their 250 cc two-stroke machines (GasGas). Kick-offs, free kicks (opponents 9.15 m away), penalties and corner kicks follow football conventions adapted to the bikes; a goal counts only if the ball fully crosses the goal line and no attacker was in the forbidden semicircle; the team with the most goals wins, with extra time or penalties to break ties in championship matches (FIM Europe, n.d.; Wikipedia, n.d.). Riders wear helmets and shin guards against collisions, and dangerous riding is penalized by the referee. There are no gender restrictions in the rules — women's and men's teams compete under identical regulations (FIM Europe, n.d.).
@@ -35,3 +37,4 @@ Motoball began as an officially organized sport in France in the mid-1920s to mi
 - [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — international federation
 - [Football](football.html) on this site — the on-foot game motoball imitates on motorcycles
 - [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella motorsport
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games

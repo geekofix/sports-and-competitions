@@ -6,6 +6,8 @@ Roller hockey — rink hockey in American English, quad hockey — is a fast tea
 
 *Figure: Carlos Delgado. (2014, July 16). Alemania vs Italia — 2014 CERH European Championship, Germany vs Italy rink hockey [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Alemania_vs_Italia_-_2014_CERH_European_Championship_-_11.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Ice Hockey](ice-hockey.html), [Bandy](bandy.html), [Field Hockey](field-hockey.html), [Rinkball](rinkball.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Rink hockey is played on a rectangular rink (standard about 40 × 20 m) with a hard round ball and curved sticks similar to bandy and shinty; each team has four skaters and one goalkeeper on the rink at a time (Wikipedia, n.d.-b). Senior matches last two 25-minute halves with a 15-minute halftime; if tied, up to two 5-minute golden-goal periods with the clock stopped when the ball is dead follow, and a penalty shootout decides if still level (Wikipedia, n.d.-b). The rink markings include a halfway line, an "anti-play" line 22 m from each end wall, a penalty area 9 × 5.4 m in front of each goal and a 1.5 m-radius goalkeeper protection area (Wikipedia, n.d.-b). Excessive contact is forbidden — unlike inline hockey, bodychecking is not allowed — and fouls are punished with free hits, penalty strokes from the penalty spot, and blue and red cards for serious or repeated offences (Wikipedia, n.d.-b). The goalkeeper wears extensive padding (shin guards up to 75 cm), a neck guard, forearm gloves and a helmet with grid or visor, and uses a flat batting glove rather than a catcher (Wikipedia, n.d.-b). The World Skate Rink Hockey Technical Commission publishes the current rulebook (2026 edition) covering all categories, with U-19 matches played as two 20-minute periods (World Skate, n.d.). Women's and men's World Cups and European championships (CERH) run in parallel, and since 2017 the elite world title is decided at the World Skate Games (Wikipedia, n.d.-a).
@@ -28,7 +30,4 @@ The first recorded hard-ball roller hockey game was played in 1878 at the Denmar
 
 - [World Skate — Rink Hockey](https://www.worldskate.org/rink-hockey.html) — world governing body; rulebook 2026 and World Championship
 - [World Skate](https://www.worldskate.org/) — international federation for roller sports, founded 1924 as FIRS
-- [Ice Hockey](ice-hockey.html) on this site — the ice-skate cousin with puck instead of ball
-- [Bandy](bandy.html) on this site — the outdoor ice bandy the sticks come from
-- [Field Hockey](field-hockey.html) on this site — the grass cousin
-- [Rinkball](rinkball.html) on this site — the Finnish ice rink game with a ball
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

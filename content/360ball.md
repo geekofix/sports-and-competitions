@@ -8,6 +8,7 @@ Women and men play 360ball in mixed and single-sex teams alike, and women's nati
 
 *Figure: Preiselbeere. (2007, February 18). Racquetball - Schläger und Ball — racquetball racquet and ball; 360ball grew out of racquetball and is played on a circular court around a central concave disc [Photograph]. Wikimedia Commons. CC BY-SA 2.0 DE. https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -37,3 +38,4 @@ Women and men play 360ball in mixed and single-sex teams alike, and women's nati
 
 - [360ball — official website](https://www.360ball.com/) — official rules, equipment and court information (no download; images are hotlinked from their official URLs)
 - [ISPO](https://www.ispo.com/) — sports trade fair where 360ball won the 2011 Brand New award
+- Related on this site: [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html) and [Sepak Takraw Doubles](sepak-takraw-doubles.html) — the net/court team ball games

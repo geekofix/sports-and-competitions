@@ -8,6 +8,7 @@ Men's and women's teams compete in identical formats with separate classificatio
 
 *Figure: Flingeflung. (2005, July 22). Fistball Spike — a fistball attacker hitting the ball over the net in a hall — indoor fistball (Hallenfaustball) is played on a wooden court between two teams separated by a net [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Fistball_Spike.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Handball](handball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,6 +34,4 @@ Indoor fistball arose in mid-20th-century Central Europe as the winter training 
 ## Important Links
 
 - [IFA — International Fistball Association](https://www.ifa-fistball.com/) — world governing body; indoor rules and events
-- [Fistball](fistball.html) on this site — the outdoor game
-- [Fistball Beach](fistball-beach.html) on this site — the sand variant
-- [Handball](handball.html) on this site — the indoor team handball game with a goalkeeper
+- Related on this site: [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Handball](handball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Indiaca](indiaca.html), [Sepak Takraw](sepak-takraw.html), [Sepak Takraw Doubles](sepak-takraw-doubles.html) and [Sepak Takraw Regu](sepak-takraw-regu.html) — the net/court team ball games

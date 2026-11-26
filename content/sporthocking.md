@@ -6,6 +6,7 @@ Sporthocking is a German trick sport played with a specially equipped stool: the
 
 *Figure: 66colpi. (2019, September 5). Horseball.jpg — A rider on horseback during a horseball match — an equestrian ball sport similar to sporthocking [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Horseball.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ Sporthocking was invented in 2007 in Germany by the brothers Michael and Stephen
 - [Skateboarding](skateboarding.html) on this site — a key influence on Sporthocking tricks
 - [Gymnastics](gymnastics.html) on this site — the rhythmic-gymnastics element of the sport
 - [Bossaball](bossaball.html) on this site — another hybrid of sport and showmanship
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Speedball 7 Man](speedball-7-man.html) and [Freestyle Football](freestyle-football.html) — the foot/hand/head ball hybrid games

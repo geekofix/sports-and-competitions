@@ -6,6 +6,8 @@ Rinkball (Finnish: *kaukalopallo*) is a winter team ice sport played on an ice h
 
 *Figure: Santeri Viinamäki. (2014, August 26). Rink bandy ball — the blue kaukalopallo [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Rink_bandy_ball.JPG*
 
+ Within the hockey family on this site, its closest relatives are [Bandy](bandy.html), [Ice Hockey](ice-hockey.html), [Floorball](floorball.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Rinkball is played with five field players plus a goaltender on the ice at a time, from rosters of up to 17–20 players with two goalkeepers, and the team may pull its goalkeeper for an extra attacker (Wikipedia, n.d.-b). The ball is a bandy-style rubber ball 6 cm in diameter, about 60 g and blue; the sticks come in a single length of just over one metre, closer to ice hockey sticks than to bandy sticks (Wikipedia, n.d.-b). Field players must wear a helmet and neck guard; the goalkeeper additionally wears a mask, shin guards of at most 28 cm width and a catch glove ("fin") of at most 28 cm diameter in each hand, and the goalkeeper does not use a stick (Wikipedia, n.d.-b). In the men's league and first division, games last 3 × 20 minutes of effective playing time, while lower divisions play 2 × 30 minutes of running time with the clock stopped only in the final two minutes, overtime and penalty shots; checking, lifting an opponent's stick, offside and icing do not exist in rinkball (Wikipedia, n.d.-b). Goals are scored by shooting the ball into the opponent's net, and the Finnish championship series (Kaukalopallon SM-sarja) uses overtime and penalty shots to decide ties (Wikipedia, n.d.-b). Both women and men compete, in separate divisions domestically and in separate international championships (Wikipedia, n.d.-b).
@@ -25,6 +27,4 @@ Rinkball began in Sweden in the 1960s, when bandy players used indoor ice hockey
 
 ## Important Links
 
-- [Bandy](bandy.html) on this site — the outdoor ice sport rinkball grew out of
-- [Ice Hockey](ice-hockey.html) on this site — the rink and skate base of rinkball
-- [Floorball](floorball.html) on this site — the indoor stick-and-ball cousin
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

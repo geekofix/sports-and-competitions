@@ -12,6 +12,8 @@ On the women's side, broomball has a long tradition: girls' broomball teams were
 
 *Figure: Nyttend. (2005, December 4). Broomball in Action [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Broomball_in_Action.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Broom Hockey](broom-hockey.html), [Ice Hockey](ice-hockey.html), [Bandy](bandy.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IFBA rules, a team fields six players — one goaltender and five skaters — on an ice rink or court roughly 200 × 85 ft, with two halves of 20 to 30 minutes; play begins and resumes with a face-off, and goals count when the ball fully crosses the goal line. Players wear helmets with face masks (or a cage), gloves and light padding, but skate with ordinary rubber-soled shoes — no ice skates — and carry a broom whose head is a triangular block of rubber; the broom blade may never be raised above waist height, and checking and body contact are forbidden in most divisions (women's broomball is non-contact by rule; men's divisions may be full-contact at IFBA worlds) (IFBA, n.d.).
@@ -44,4 +46,4 @@ The first documented broomball game was played in Perdue, Saskatchewan, Canada, 
 - [United States Broomball Association (USBA)](https://usbabroomball.org/) — U.S. governing body; rules and tournaments
 - [All Elite Broomball](https://aebroomball.com/) — U.S. recreational broomball events
 - [Broomball Canada](https://broomball.ca/) — Canadian governing body, ~19,000 registered players
-- [Broom hockey](broom-hockey.html), [ice hockey](ice-hockey.html) and [bandy](bandy.html) on this site
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Indoor Field Hockey](indoor-field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

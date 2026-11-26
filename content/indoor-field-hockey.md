@@ -6,6 +6,7 @@ Indoor field hockey is the six-a-side variant of field hockey played in sports h
 
 *Figure: Berlinschneid. (2018, February 10). 2018 Indoor Hockey World Cup Berlin 01 — the women's indoor hockey quarterfinal Netherlands vs. Czech Republic at the 2018 Indoor Hockey World Cup in Berlin's Max-Schmeling-Halle — indoor field hockey is played in a hall on a smaller pitch [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2018_Indoor_Hockey_World_Cup_Berlin_01.jpg*
 
+ Within the hockey family on this site, its closest relatives are [Field Hockey](field-hockey.html), [Hockey5s](hockey5s.html), [Ice Hockey](ice-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,6 +36,4 @@ Indoor hockey developed in Europe, above all in Germany, in the 1950s and 1960s 
 - [International Hockey Federation (FIH)](https://www.fih.hockey/) — world governing body for hockey
 - [FIH Indoor Hockey World Cup](https://www.fih.hockey/events/indoor-world-cup) — official event pages (24 teams, 12 men's and 12 women's)
 - [FIH Rules of Indoor Hockey](https://www.fih.hockey/about-fih/official-documents/rules-of-hockey) — official rulebook downloads
-- [Field Hockey](field-hockey.html) on this site — the outdoor 11-a-side game
-- [Hockey5s](hockey5s.html) on this site — the 5-a-side short format
-- [Ice Hockey](ice-hockey.html) on this site — hockey on ice
+- Related on this site: [Ice Hockey](ice-hockey.html), [Field Hockey](field-hockey.html), [Roller Hockey](roller-hockey.html), [Street Hockey](street-hockey.html), [Ball Hockey](ball-hockey.html), [Broomball](broomball.html), [Broom Hockey](broom-hockey.html), [Pond Hockey](pond-hockey.html), [Fire Hockey](fire-hockey.html), [Underwater Ice Hockey](underwater-ice-hockey.html), [Unicycle Hockey](unicycle-hockey.html), [Ringette](ringette.html), [Bandy](bandy.html), [Hockey5s](hockey5s.html), [Floorball](floorball.html), [Rinkball](rinkball.html), [Sledge Hockey](sledge-hockey.html) and [Powerchair Hockey](powerchair-hockey.html) — the hockey family (field, ice, roller and variants)

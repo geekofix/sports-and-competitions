@@ -12,6 +12,8 @@ Indoor cricket is played in men's, women's and mixed competitions at every level
 
 *Figure: In2itive. (2011, June 4). A game of indoor cricket in progress in a sports hall in Canberra, 2011 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:A_game_of_indoor_cricket_in_progress_in_Canberra,_2011.jpg*
 
+ Within the cricket/baseball bat-and-ball family on this site, its closest relatives are [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Baseball](baseball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The British six-a-side version is played in a sports hall: each team has six players, an innings lasts 12 overs of six balls bowled from one end, no bowler may bowl more than three overs, and a batter retires on 25 runs (but may return if the side is all out); a catch is allowed off the side walls and roof if the ball has not touched the floor first (Wikipedia, n.d.-b).
@@ -44,4 +46,4 @@ The World Indoor Cricket Federation codified the international netted rules — 
 - [World Indoor Cricket Federation](https://worldindoorcricketfederation.com/) — international netted indoor cricket (origins Western Australia, late 1970s)
 - [WICF official rulebook (PDF)](https://worldindoorcricketfederation.com/download/rulebook.pdf) — 8-a-side, 16 overs, skins, zone bonuses
 - [Australian Indoor Cricket — official rules](https://indoorcricket.au/official-rules/) — Cricket Australia rules for the netted game
-- Related on this site: [cricket](cricket.html)
+- Related on this site: [Cricket](cricket.html), [Cricket Odi](cricket-odi.html), [Cricket T20](cricket-t20.html), [Test Cricket](test-cricket.html), [Baseball](baseball.html), [Baseball5](baseball5.html), [British Baseball](british-baseball.html), [Softball](softball.html), [Fastpitch Softball](fastpitch-softball.html), [Slowpitch Softball](slowpitch-softball.html), [Kickball](kickball.html), [Rounders](rounders.html), [Fives](fives.html), [Stickball](stickball.html), [Lapta](lapta.html), [Oina](oina.html), [Schlagball](schlagball.html), [Brannboll](brannboll.html), [Stoolball](stoolball.html), [Pesapallo](pesapallo.html) and [Gillidanda](gillidanda.html) — the cricket, baseball and bat-and-ball relatives

@@ -6,6 +6,8 @@ Quadball (called quidditch until its 2022 renaming) is a mixed-gender contact te
 
 *Figure: Anton Bielousov. (2014, May 6). Muggle Quidditch Game in Vancouver [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Muggle_Quidditch_Game_in_Vancouver.jpg*
 
+ Within the net and court team ball games family on this site, its closest relatives are [Dodgeball](dodgeball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IQA rules, play is on a rectangular pitch with three hoops of different heights at each end; chasers advance the quaffle and score 10 points per goal through any hoop, with contact regulated like rugby — tackles below the shoulders and above the knees are disallowed and dangerous contact sends players off (International Quadball Association, n.d.). Beaters throw bludgers at opponents; any player hit must drop any ball and return to their hoops before rejoining. All players hold a broom between their legs at all times. The snitch is replaced by a neutral runner in yellow released after a set time; each team's seeker tries to catch them — worth 30 points (35 in US leagues) and ending the game — by removing the flag. Games have no fixed duration. The gender rule limits each seven-player side to at most four players of one gender (Wikipedia, n.d.-b).
@@ -29,4 +31,4 @@ Quadball began in October 2005 at Middlebury College in Vermont, where freshmen 
 - [International Quadball Association (IQA)](https://www.iqasport.com/) — world governing body and World Cup
 - [US Quadball](https://www.usquadball.org/) — the largest national federation and its rulebook
 - [Rugby Sevens](rugby-sevens.html) on this site — the contact element
-- [Dodgeball](dodgeball.html) on this site — the bludger element
+- Related on this site: [Dodgeball](dodgeball.html), [Volleyball](volleyball.html), [Beach Volleyball](beach-volleyball.html), [Beach Volleyball 4x4](beach-volleyball-4x4.html), [Snow Volleyball](snow-volleyball.html), [Snow Volleyball 3x3](snow-volleyball-3x3.html), [Water Volleyball](water-volleyball.html), [Sitting Volleyball](sitting-volleyball.html), [Standing Volleyball](standing-volleyball.html), [Wallyball](wallyball.html), [Handball](handball.html), [Field Handball](field-handball.html), [Beach Handball](beach-handball.html), [Czech Handball](czech-handball.html), [Netball](netball.html), [Korfball](korfball.html), [Beach Korfball](beach-korfball.html), [Kin Ball](kin-ball.html), [Tchoukball](tchoukball.html), [Fistball](fistball.html), [Fistball Beach](fistball-beach.html), [Fistball Indoor](fistball-indoor.html), [Indiaca](indiaca.html) and [Sepak Takraw](sepak-takraw.html) — the net/court team ball games

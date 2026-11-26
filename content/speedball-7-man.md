@@ -6,6 +6,8 @@ Speedball 7-man is the seven-a-side tournament format of speedball paintball: tw
 
 *Figure: Petr Kadlec. (2008, September 27). Speedball game [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Speedball_game.jpg*
 
+ Within the hybrid ball games family on this site, its closest relatives are [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The speedball 7-man field is 180 ft × 100 ft (about 55 × 30 m), mirrored left-right, with a start box at each end and a flag station in the middle; teams field 7 players per point from rosters of up to 19, and the game clock runs a 7-minute countdown per point (Wikipedia, n.d.-b). Equipment: .68-caliber paintball markers limited to about 280–300 fps muzzle velocity, a mandatory full-face mask, a hopper and air tank; a player is eliminated when a paintball breaks on their body or equipment, and the penalty is a timed stay in the penalty box before re-entry at the own start box (Wikipedia, n.d.-b). A point ends when one team hangs the opponent's flag in its own start box, all opponents are eliminated, or time expires; scoring awards points for the flag hang, each elimination and each player still alive at the horn, so aggressive flag play and survival both pay (NPPL, n.d.). The same field and rules serve 5-man (Super 5) and 10-man formats, differing only in the number of players on the field; men's, women's and mixed teams play under identical rules (Wikipedia, n.d.-b).
@@ -28,4 +30,4 @@ The paintball marker was developed by the Nelson Paint Company in 1965, and the 
 
 - [National XBall League (NXL)](https://nxlpaintball.com/) — premier US XBall league continuing the speedball tradition
 - [USA Paintball](https://www.uspaintball.com/) — US governing body and league resources
-- [Speedball](speedball.html) and [Speedball 5-Man](speedball-5-man.html) on this site — the other speedball formats
+- Related on this site: [Footvolley](footvolley.html), [Soccer Tennis](soccer-tennis.html), [Futnet](futnet.html), [Teqball](teqball.html), [Teqvoly](teqvoly.html), [Headis](headis.html), [Roundnet](roundnet.html), [Banana Ball](banana-ball.html), [Japanese Binocular Soccer](japanese-binocular-soccer.html), [Motoball](motoball.html), [Jokgu](jokgu.html), [Speedball](speedball.html), [Speedball 5 Man](speedball-5-man.html), [Freestyle Football](freestyle-football.html) and [Sporthocking](sporthocking.html) — the foot/hand/head ball hybrid games
