@@ -4,7 +4,7 @@ Working list for later cross-linking passes (owner request 2026-11-25): each gro
 sports/disciplines that are closely related (same family, shared history or derivation).
 When a group is worked on, add cross-references in the texts of its members (Important Links
 "... on this site" entries and in-text mentions), e.g. the boules family or the athletics
-disciplines. Slugs were validated against data/sports.csv (1030 entries since 2026-11-26).
+disciplines. Slugs were validated against data/sports.csv (1148 entries since 2026-11-26).
 
 Cross-cutting group: `para-sports` (its members also appear in their base-sport groups).
 
@@ -270,7 +270,7 @@ Kubb, molkky, horseshoes, cornhole, washer/ladder toss and relatives.
 
 Pachinko, pinball, table football, air hockey and arcade-style contests.
 
-`pachinko`, `pinball`, `table-football`, `popdarts`, `air-hockey`, `air-guitar`, `novuss`
+`pachinko`, `pinball`, `table-football`, `popdarts`, `air-hockey`, `air-guitar`, `novuss`, `subbuteo`
 
 ## Circus and skill sports (`circus-skill-sports`)
 
@@ -282,7 +282,7 @@ Juggling, sport stacking and tricking.
 
 Chess variants, abstract strategy games, card games and word/memory competitions.
 
-`chess`, `go`, `shogi`, `xiangqi`, `janggi`, `makruk`, `draughts`, `backgammon`, `othello`, `carrom`, `mahjong`, `riichi-mahjong`, `scrabble`, `contract-bridge`, `duplicate-bridge`, `texas-hold-em-poker`, `mancala`, `memory-sport`, `speedcubing`, `rock-paper-scissors`, `debate`, `public-speaking`, `spelling-bee`, `poetry-slam`, `excel-world-championship`, `oware`, `kalah`, `bao`, `toguzkumalak`, `sungka`, `congkak`, `omweso`, `dara`, `ayoayo`, `morabaraba`, `dash-guti`, `seega`, `latrones`
+`chess`, `go`, `shogi`, `xiangqi`, `janggi`, `makruk`, `draughts`, `backgammon`, `othello`, `carrom`, `mahjong`, `riichi-mahjong`, `scrabble`, `contract-bridge`, `duplicate-bridge`, `texas-hold-em-poker`, `mancala`, `memory-sport`, `speedcubing`, `rock-paper-scissors`, `debate`, `public-speaking`, `spelling-bee`, `poetry-slam`, `excel-world-championship`, `oware`, `kalah`, `bao`, `toguzkumalak`, `sungka`, `congkak`, `omweso`, `dara`, `ayoayo`, `morabaraba`, `dash-guti`, `seega`, `latrones`, `chess960`, `crazyhouse`, `bughouse`, `antichess`, `atomic-chess`, `horde-chess`, `racing-kings`, `three-check-chess`, `king-of-the-hill-chess`, `losing-chess`, `kriegsspiel`, `capablanca-chess`, `grand-chess`, `glinski-hexagonal-chess`, `minishogi`, `chu-shogi`, `dai-shogi`, `tenjiku-shogi`, `dobutsu-shogi`, `kyoto-shogi`, `manchu-chess`, `minixiangqi`, `banqi`, `sittuyin`, `chaturaji`, `gomoku`, `renju`, `omok`, `pente`, `connect6`, `hex`, `havannah`, `abalone`, `quoridor`, `blokus`, `amazons`, `gipf`, `dvonn`, `tzaar`, `zertz`, `kamisado`, `onyx`, `quarto`, `konane`, `alquerque`, `nine-men-s-morris`, `latrunculi`, `tablut`, `hnefatafl`, `brandubh`, `senet`, `mehen`, `petteia`, `euchre`, `whist`, `pinochle`, `sheepshead`, `durak`, `preferans`, `belote`, `canasta`, `rummy`, `gin-rummy`, `cribbage`, `piquet`, `briscola`, `scopa`, `truco`, `schnapsen`, `sixty-six`, `bezique`, `ecarte`, `boulette`, `dou-dizhu`, `mafia-werewolf`, `avalon`, `the-resistance`, `coup`, `diplomacy`, `risk`, `stratego`, `mastermind`, `set`, `dobble`, `halli-galli`, `uno`, `codenames`, `taboo`, `twister`, `jenga`, `connect-four`, `tic-tac-toe`, `battleship`, `dots-and-boxes`, `sprouts`, `chomp`, `nim`, `wythoff-s-game`, `sudoku`, `crossword`, `kakuro`, `nonogram`, `jigsaw-speed-puzzling`, `minesweeper`, `subbuteo`
 
 ## Esports and tech competitions (`esports-tech`)
 
@@ -319,6 +319,12 @@ Inuit and Dene strength, jumping and grip disciplines of the Arctic Winter Games
 Equestrian, throwing and board games of the Mongolian and Kyrgyz nomad tradition, contested at Naadam and the World Nomad Games (cross-linked in `multi-sport-events`); related entries also sit in `equestrian`, `combat-sports`, `mind-games` and `precision`-target groups (Bökh/Mongolian wrestling is in `combat-sports` as `bokh`).
 
 `salburun`, `shagai`, `kunan-chabysh`, `zhorgo-salysh`, `cirit`, `zorhana`, `toguz-korgool`, `naadam`, `mongolian-archery`, `mongolian-horse-racing`, `khuviin-tamir`
+
+## Basque rural sports (Herri Kirolak) (`basque-rural-sports`)
+
+Wood chopping, stone lifting and stone dragging contests of the Basque Country, rooted in farm and quarry work; related to `strength-sports` and `folk-festival-games`.
+
+`aizkolaritza`, `harri-jasotzaile`, `idi-probak`, `giza-probak`, `zaldi-probak`, `asto-probak`, `lasto-altxatzea`, `zaku-lasterka`, `lokotxa`, `untziketariak`, `trontza`, `ingude-altxatzea`, `segala`
 
 ## Not grouped (standalone entries)
 

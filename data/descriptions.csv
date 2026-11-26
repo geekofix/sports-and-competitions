@@ -29,6 +29,7 @@ slug,description,tags
 8-ball-pool,The classic pool game: players clear their group of seven balls and then pocket the black 8-ball to win.,ball;precision
 800m-run,Olympic middle-distance race over 800 metres (two laps) from a standing start; on the Olympic programme since 1896.,athletics
 9-ball-pool,Professional pool game where balls 1 to 9 are played in order and pocketing the yellow 9-ball wins the rack.,ball;precision
+abalone,Marble-pushing game: push six of the opponent's 14 marbles off the hexagonal board; invented 1987 (France).,mind
 abula,"Nigerian traditional game similar to volleyball, but the ball is struck with a wooden bat.",traditional
 acrobatic-gymnastics,"Gymnastics discipline where pairs or groups perform acrobatic lifts, throws and balances, judged on difficulty and execution.",gymnastics
 adventure-racing,"Multisport endurance races combining running, mountain biking, paddling and navigation through wilderness over several days.",athletics
@@ -44,16 +45,20 @@ air-hockey,Table game where players use mallets to shoot a puck into the opponen
 air-racing,Aeroplane racing: aircraft race around pylons or circuits at low altitude; FAI classes and pylon racing series since the 1920s.,air
 airbadminton,"Outdoor badminton variant played with a lighter shuttlecock (AirShuttle) that works on grass, sand or hard courts.",racquet
 airplane-arctic-games,Airplane: prone plank-hold strength event at the Arctic Winter Games and WEIO.,traditional
+aizkolaritza,"Competitive wood chopping in the Basque Country (Herri Kirolak): the aizkolari saws through standing logs (aspens/pines, up to 2 m) in timed heats; world championships since the 1980s.",traditional;strength
 alaskan-high-kick,"Alaskan high kick: balance on one leg, kick a target overhead with the other foot; WEIO.",traditional
 alpine-skiing-combined,Alpine skiing discipline combining one downhill (or Super-G) run with one slalom run; the aggregate time decides.,winter
 alpine-skiing-downhill,Fastest alpine skiing discipline: one timed run down a steep course at speeds over 130 km/h.,winter
 alpine-skiing-giant-slalom,Alpine skiing race with wide turns around gates on a long course; two runs on different courses.,winter
 alpine-skiing-slalom,Alpine skiing's most technical race: the shortest course with the tightest turns around a series of gates.,winter
 alpine-skiing-super-g,"Alpine skiing speed event between downhill and giant slalom, with fewer but wider turns on a long course.",winter
+alquerque,"Ancestor of draughts/checkers on a 5x5 grid, from Moorish Spain (11th century).",mind
+amazons,"Chess-queens + arrow game on 10x10: move a queen, then shoot an arrow; invented 1988 (Argentina).",mind
 american-football,Contact team sport where teams score by carrying or passing an oval ball into the opponent's end zone; the NFL is the top league.,ball
 american-handball,Four-wall handball: players hit a small rubber ball against the front wall of a walled court; world championships since 1968.,ball
 ampe,Ghanaian children's clapping and jumping game.,traditional
 amputee-football,"Football (soccer) adapted for players with limb amputations, played on crutches with modified offside rules.",ball
+antichess,Suicide chess: the goal is to lose all one's pieces; captures are compulsory.,mind
 aquabike,"Personal watercraft racing on jet skis, with runabout and ski sprint classes plus freestyle; UIM Aquabike world championship.",water;cycling
 aquathlon,"Race combining open-water swimming and running, usually a 2.5 km swim followed by a 10 km run.",water;athletics
 archery,Precision sport of shooting arrows at a target; Olympic disciplines are recurve and compound at 70 meters.,precision
@@ -69,11 +74,14 @@ artistic-cycling,"Gymnastics on a fixed-gear bicycle performing figures, jumps a
 artistic-gymnastics,"Olympic gymnastics discipline in which men compete on six and women on four apparatus, judged on difficulty and execution.",gymnastics
 artistic-swimming,"Aquatic discipline combining swimming, dance and gymnastics in choreographed routines, formerly called synchronized swimming.",water
 asafo-atwele,Ghanaian rhythm clapping game of the Fante asafo companies.,traditional
+asto-probak,"Donkey-drawn stone pulling, the lightest of the Basque probak stone-dragging contests (up to ~1,000 kg).",traditional;strength
 athletics,"Track and field: running, jumping and throwing events, from the 100 m sprint to the marathon and the decathlon.",athletics
+atomic-chess,Chess variant where any capture also 'explodes' the captured piece and surrounding squares.,mind
 atya-patya,Ancient Indian tag-like game documented since the 4th century BC.,traditional
 audaryspak,Kazakh horseback wrestling in which two riders try to pull each other out of the saddle; a World Nomad Games discipline and traditional warrior training.,equestrian;combat
 australian-rules-football,Contact ball sport on a large oval with 18 players per side; hugely popular in Australia and governed by the AFL.,ball
 autocross,"Timed motorsport event where drivers navigate a cone course one at a time on pavement, also called Solo.",motorsport
+avalon,"Social-deduction game (Don Eskridge 2012) with hidden roles of Merlin, Percival, loyal servants and minions of Mordred.",mind
 axe-throwing,"Target sport of throwing hatchets at wooden targets for points; standardized in world leagues (WATL, IATL).",precision
 ayoayo,"Yoruba mancala (ayo) of Nigeria, carried to the Americas; rules close to oware.",mind
 backgammon,Ancient two-player board game of strategy and luck where checkers are moved around 24 points and borne off.,mind
@@ -87,6 +95,7 @@ balle-pelote,"Basque pelota variant played with the bare hand, a leather glove o
 banana-ball,"Hybrid of handball and dodgeball played with a soft ball, popular at summer camps.",ball
 bando,"Burmese defensive unarmed martial art (bando thaing), systematized by U Ba Than Gyi; aka forms and nine animal styles.",combat
 bandy,"Ice team sport with 11 players a side, a small ball and football-style rules on a large rink; world championships since 1957 (FIB).",ball;winter
+banqi,"Dark chess (Chinese 'army chess' light variant): pieces face-down, ranks revealed by capture.",mind
 bao,East African 4x8 sowing game (bao/laizi) of Tanzania and Kenya.,mind
 bare-knuckle-boxing,"Prizefighting boxing without gloves under historical London Prize Ring lineages, revived by sanctioned promotions such as BKFC.",combat
 barebow-archery,"Archery shot without a sight, usually with a simple recurve or longbow, aiming instinctively.",precision
@@ -99,6 +108,7 @@ baseball5,Street version of baseball played with a rubber ball on a small diamon
 basketball,Team sport where players score by throwing a ball through the opponent's hoop; the NBA is the top league and it has been Olympic since 1936.,ball
 basque-pelota,"Basque wall-ball family played with the hand, a leather glove, basket or wooden bat against a fronton wall; Olympic demonstration 1992.",ball;racquet
 bat-and-trap,Historic English shooting sport where clay pigeons are launched by a spring arm and shot with a muzzle-loading gun.,ball;traditional
+battleship,"Hidden-grid guessing game for two (paper or board), commercialized 1931; world championships held.",mind
 beach-basketball,Basketball variant played 3x3 or 4x4 on sand courts; FIBA organizes Beach Basketball World Cups.,ball
 beach-handball,Handball played on sand with smaller teams and goals; faster and more spectacular than the indoor game.,ball
 beach-korfball,"Korfball variant played on sand, usually 4v4 on a smaller court, at beach tournaments.",ball
@@ -110,8 +120,10 @@ beach-volleyball,Two-a-side volleyball on sand over a slightly higher net; Olymp
 beach-volleyball-4x4,"Beach volleyball with four players per team, used in some youth and amateur tournaments.",ball
 beach-wrestling,"Wrestling matches in a circular sand arena, similar to Olympic-style wrestling but on the beach.",combat
 bed-racing,Novelty team race where crews push decorated wheeled beds around a course; a charity fixture of British town calendars.,traditional
+belote,French trick-taking game for four in partnerships with a 32-card deck; national game of France and very popular in Eastern Europe.,mind
 belt-wrestling,Traditional wrestling variant where competitors grip each other's belts instead of clothing or limbs.,combat;strength
 belt-wrestling-alysh,Kyrgyz belt wrestling ( Alysh ) where wrestlers hold each other's belts and the first to fall loses.,combat;strength
+bezique,French ace-to-ten trick-taking game for two (or three) with a 64-card double deck; bezigue declarations.,mind
 biathle,"Three-stage competition of swimming, running and shooting, derived from military training.",water;athletics
 biathlon,Olympic winter sport combining cross-country skiing with .22 rifle shooting; IBU world cup and world championships.,winter;precision
 bike-polo,Team sport like field polo but played on bicycles with mallets on a hard-court pitch.,ball;cycling
@@ -122,6 +134,7 @@ blackball,Pool variant popular in the UK and China where the black 8-ball must b
 blanket-toss,Inuit blanket toss (nalukataq): athletes tossed high on a seal-hide blanket; Arctic Winter Games and WEIO.,traditional
 blind-football,"Paralympic 5-a-side football for visually impaired players, played with a ball containing bells; governed by IBSA.",ball
 blind-tennis,"Tennis for visually impaired players, using a louder ball and allowing fewer bounces.",racquet
+blokus,Polyomino placement game on a 20x20 board for 1-4 players; invented 1997 (Bernard Tavitian).,mind
 bmx-freestyle,"BMX cycling with acrobatic tricks on ramps, rails and in skateparks; Olympic discipline since 2008.",cycling
 bmx-freestyle-park,"Olympic BMX freestyle discipline on a park course of ramps and bowls, judged on tricks, height, difficulty and flow.",cycling
 bmx-racing,BMX bikes racing on a dirt track with jumps and banked turns; Olympic sport since 2008.,cycling
@@ -143,18 +156,22 @@ bossaball,"Team ball sport on inflatables combining volleyball, football and gym
 bottle-kicking,Traditional Flemish team game where a bottle on a wooden block is knocked over with a thrown ball.,traditional
 bouldering,"Ropeless climbing on short walls with crash pads, judged on fewest attempts; Olympic combined climbing discipline since Tokyo 2020.",climbing
 boule-lyonnaise,"Variant of pétanque with a run-up where the ball is in motion, played mainly in southeastern France.",precision
+boulette,"French boules-card game (Brittany), also a Provencal throwing game; played with cards and a ball.",mind
 bowling,Game of rolling a ball down a lane to knock down ten pins; ten-pin bowling has professional PBA tours.,precision
 box-lacrosse,"Indoor lacrosse played in a hockey rink with boards, six players per side and a rubber ball.",ball
 boxing,Combat sport of punches with padded gloves in weight classes and rounds; Olympic since 1904.,combat
 braemar-gathering,"Braemar Gathering, Scotland's most famous Highland Games, first Saturday of September since 1832; royal patronage since 1848.",traditional
+brandubh,"Celtic tafl variant (king game) on 7x7, Irish, documented in medieval texts.",mind
 brannboll,"Scandinavian bat-and-ball game similar to baseball, played with a soft ball and a flat bat.",ball;traditional
 brazilian-jiu-jitsu,"Ground-fighting martial art emphasizing leverage and submissions (chokes, joint locks) against larger opponents.",combat
 breaking,"Acrobatic hip hop dance style from the Bronx, contested in b-boy and b-girl battles; Olympic debut at Paris 2024 under the WDSF.",gymnastics
 breaststroke-swimming,"Symmetric stroke with frog kick and simultaneous arm pull, contested over 100 and 200 metres.",water
+briscola,Italian trick-taking game with a 40-card deck and trump suit hierarchy; widespread in Italy.,mind
 british-baseball,"Bat-and-ball game similar to rounders, played mainly in Wales and England with four bases.",ball
 broom-hockey,Informal ice hockey variant played with brooms and a ball instead of sticks and a puck.,ball;winter
 broomball,"Team sport on ice or a gym floor played with a ball and broom-like sticks, no skates required.",ball;winter
 bubble-gum-blowing,"Competition to blow the biggest bubble with chewing gum, judged by diameter; world championships exist.",traditional
+bughouse,Two-board team chess (2v2): captured pieces pass to the partner's board.,mind
 buhurt,Armoured medieval combat in formation or duels with blunted steel weapons; HMBIA world championships (Battle of the Nations).,combat
 bullet-racing,"Vintage motorcycle sprint races on straight beach or track courses, popular in the early 20th century.",motorsport
 butterfly-swimming,"Symmetric stroke with dolphin kick and simultaneous overhead arm recovery, contested over 100 and 200 metres.",water
@@ -169,6 +186,7 @@ camogie,Women's variant of hurling played in Ireland under the Camogie Associati
 canadian-football,"Football variant with 12 players per side, three downs and a larger field; the CFL is the top league.",ball
 canal-vaulting,"Dutch sport of pole vaulting over canals, a traditional spring festival activity in Friesland.",traditional;athletics
 canarian-wrestling,"Lucha canaria, the traditional wrestling of the Canary Islands, won by unbalancing the opponent to touch the sand with any body part.",combat
+canasta,"Rummy variant with two decks and jokers, melding sets of seven ('canastas'); invented 1939 in Uruguay.",mind
 candlepin-bowling,"Bowling variant from New England with tall, slender candlepin-shaped pins and a small ball; three balls per frame.",precision
 canicross,"Cross-country running with a dog harnessed to the runner by a bungee line, popular across Europe.",athletics;dog
 canine-freestyle,"Dog sport: choreographed routines of tricks, heelwork and jumps performed to music with the dog.",dog
@@ -181,6 +199,7 @@ canoe-sprint,Flat-water racing of kayaks and canoes over 200 m to 5000 m; Olympi
 canoeing,"Paddling sport with open canoes (single-blade paddle) and kayaks (double blade) on flat water, whitewater or the sea.",water
 canopy-piloting,Skydiving discipline where jumpers steer their open parachute canopies through a course of gates.,air
 canyoning,"Adventure sport of descending canyons by hiking, climbing, rappelling, swimming and sliding down waterfalls.",water
+capablanca-chess,10x8 chess variant invented by world champion Jose Raul Capablanca (1921) with added chancellor and archbishop pieces.,mind
 capoeira,"Afro-Brazilian art combining martial arts, acrobatics and music in a roda (circle); UNESCO intangible cultural heritage.",combat;gymnastics
 carjitsu,"Hybrid martial art combining judo, jiu-jitsu, karate and wrestling techniques, founded in the UK.",combat
 carom-billiards,"Cue sport on a pocketless table: the cue ball must hit both object balls, and a cushion before the second ball in most variants.",precision
@@ -190,23 +209,28 @@ catch-wrestling,"Professional wrestling style with unlimited submissions and pin
 cerebral-palsy-football,Football (7-a-side) for players with cerebral palsy under adapted rules; Paralympic sport.,ball
 chajledab,Javelin-like throwing game of indigenous Mexico; contested at the World Indigenous Games.,traditional
 chariot-racing,Ancient Olympic sport where charioteers raced two- or four-horse chariots around a hippodrome.,traditional;equestrian
+chaturaji,"Four-player Indian chess on 8x8, ancestor of modern chess, played with colored armies.",mind
 chaza,Spear-throwing game (chaza) of the Guambiano people of Colombia; World Indigenous Games event.,traditional
 cheerleading,"Team performance sport combining dance, stunts, pyramids and crowd-leading cheers; the ICU runs world championships in cheer and dance.",gymnastics
 cheese-rolling,Gravity race down the steep Cooper Hill in Gloucestershire chasing a cheese wheel; contested since the early 1800s.,traditional;athletics
 cherry-pit-spitting,"Distance-spitting contest of cherry pits, most famously at the International Cherry Pit Spitting Championship in Eau Claire, Michigan.",traditional
 chess,Two-player strategy board game on 64 squares with 16 pieces per side; world championship since 1886.,mind
 chess-boxing,"Hybrid bout alternating rounds of chess and boxing; a fighter wins by checkmate, KO or referee decision (WCBO).",combat;mind
+chess960,"Fischer random chess: the 960 legal starting positions of the back rank; world championship since 2019, played by Carlsen and others.",mind
 chin-lone,"Traditional Myanmar bare-knuckle fighting with cloth-wrapped hands, village form related to lethwei.",combat
 chindro,Hopscotch-like stone-sliding game of the Indian subcontinent (chindro/stapoo/kidi kada).,traditional
 chinese-eight-ball,"Pool variant popular in China and the UK, played on a snooker-sized table with eight-ball rules.",ball;precision
 chinlone,"Traditional Burmese sport where a woven rattan ball is kept in the air by a circle of players using feet, knees and hands.",ball;traditional
+chomp,Rectangular chocolate game: players take bites (removing all below/right); poisoned square loses; strategy-stealing argument.,mind
 chovgan,"Ancient Persian polo-like game on horseback, ancestor of modern polo, still played in Azerbaijan.",ball;traditional;equestrian
+chu-shogi,"12x12 medieval Japanese shogi with 46 piece types, played from the Heian period.",mind
 circle-kabaddi,"Circular kabaddi variant played in Punjab, with the raider starting from the centre circle.",traditional
 cirit,Turkish equestrian javelin game: riders throw blunted wooden javelins at each other; IRF world championships since 2011.,equestrian
 cliff-diving,Diving from natural cliffs or platforms up to 27 m (men) and 20 m (women) into open water; World Aquatics high diving and Red Bull series.,water
 cnapan,Welsh medieval mass ball game of Pembrokeshire/Ceredigion; ball carried to a church door; cited as a rugby antecedent.,ball;traditional
 coastal-rowing,"Rowing in sea-going boats along the coast, in fixed-seat or sliding-seat shells.",water
 coasteering,"Adventure sport combining cliff climbing, scrambling, swimming and jumping along a rocky coastline.",water
+codenames,Word-association party game for 2+ teams (Vlaada Chvatil 2015): spymasters give one-word clues for agents; world championship exists.,mind
 coffin-wars,Novelty grappling format of the Pro League Network: two fighters take turns trying to escape from a reinforced coffin; league debuted in 2024.,combat;traditional
 combat-ju-jitsu,"Self-defense system combining striking, throwing and ground fighting, used in military and police training.",combat
 combat-sambo,"Martial art and sport derived from sambo, with throws, locks and strikes; international championships exist.",combat
@@ -215,6 +239,8 @@ competitive-eating,Contests to eat the most food in a set time; the Nathan's Hot
 competitive-sleeping,"Satirical 'sport' of sleeping the longest, occasionally held as a charity event.",traditional
 compound-archery,"Archery with a compound bow using cams, sights and release aids; the Olympic discipline at 70 m.",precision
 congkak,Malaysian and Indonesian mancala (congkak/dakon) played with shells.,mind
+connect-four,"Two-player connection game on a 7x6 vertical grid (Howard Wexler 1974): drop discs, four in a row wins.",mind
+connect6,"Connection game on 19x19: first move one stone, then two; get six in a row; invented 2008 in Taiwan.",mind
 contract-bridge,"Trick-taking card game for four players in partnerships, played at clubs and world championships.",mind
 coreeda,"Australian Aboriginal team wrestling sport combining dance with combat in a 4.5 m circle, revived by the Coreeda Association of Australia.",combat;traditional
 cornhole,American lawn game throwing beanbags at a hole in a raised board; standardized by the ACL with championship tournaments.,precision
@@ -222,8 +248,11 @@ cornish-hurling,"Traditional Cornish game similar to rugby and Irish hurling, pl
 cornish-wrestling,"Cornish jacket wrestling (omdowl Kernewek): catch-hold above the waist, no groundwork; Gorsedh Kernow tradition.",combat
 corrida-de-tora,Log race: teams sprint around a track taking turns carrying a ~100 kg tree trunk; World Indigenous Games event.,traditional
 counter-strike,Tactical team first-person shooter (CS2) with million-dollar major tournaments in esports.,mind;esports
+coup,"Bluffing card game for 2-6 players (Reformation Games 2012): influence cards, coups, Duke/Assassin/Contessa/Captain/Ambassador roles.",mind
 cow-chip-throwing,Distance-throwing of dried cow dung pats; an old US fair event with official championships in Nebraska.,traditional
 cowal-games,"Cowal Highland Gathering in Dunoon, Scotland's largest Highland Games since 1894, with World Highland Dancing Championships.",traditional
+crazyhouse,Chess variant where captured pieces are dropped back onto the board as one's own pieces.,mind
+cribbage,Counting card game with a cribbage board (pegging to 121 points); invented in 17th-century England (Earl of Cumberland legend).,mind
 cricket,"Bat-and-ball game for two teams of eleven on an oval field, played from five-day Tests to 3-hour T20s; governed worldwide by the ICC.",ball
 cricket-odi,One Day International cricket: each team bats one innings of 50 overs; World Cup every four years.,ball
 cricket-t20,Twenty20 cricket: fast three-hour matches with 20 overs per side and big franchise leagues like the IPL.,ball
@@ -238,6 +267,7 @@ cross-triathlon,Off-road triathlon with mountain biking and trail running instea
 crossfit,"High-intensity fitness sport combining weightlifting, gymnastics and cardio; the CrossFit Games crown the fittest.",athletics;strength
 crossminton,"Racket sport formerly speed badminton, played with a heavy shuttle and no net on a 16 m court; Speedminton world rankings.",racquet
 crossnet,Four-player net game combining volleyball and four square; the ball is bounced off a tensioned net.,ball
+crossword,Word puzzle filling a grid with interlocking clues; world championships and record solves exist.,mind
 crown-green-bowls,"Lawn bowls played on a perfectly level 'crown green', the traditional British form of the game.",precision
 crying-baby-festival,Japanese festival competition where babies are held up and the loudest cry wins.,traditional
 cuju,"Ancient Chinese ball game with a leather ball and a small goal opening, considered an ancestor of football.",ball;traditional
@@ -251,6 +281,7 @@ cyclo-cross,"Off-road cycling race on a short circuit of pavement, grass and mud
 cyr-wheel,"Gymnastics apparatus: a large metal hoop (Cyr wheel or German wheel) that the athlete rolls, balances and spins in.",gymnastics
 czech-handball,"Handball variant from Czechia played 7v7 on a full-size court, historically popular in Central Europe.",ball
 dahi-handi,"Mumbai human pyramid competition of the Krishna festival, where young Govinda teams form tiers to break a hung pot of curd.",traditional;gymnastics
+dai-shogi,15x15 shogi variant from the Muromachi period with 96 piece types.,mind
 dakar-rally,"Legendary cross-country rally raid, originally Paris to Dakar and now in Saudi Arabia, for cars, bikes, quads and trucks.",motorsport
 dambe,Traditional Nigerian boxing in which one fist is wrapped in cloth ('the fist').,combat
 dancesport,"Competitive ballroom and Latin dancing in standard and Latin programmes, judged by panels; the WDSF governs and runs world championships.",gymnastics
@@ -262,11 +293,14 @@ decathlon,Men's combined athletics event of ten disciplines over two days; the w
 demolition-derby,Motorsport spectacle in which drivers deliberately ram each other on a dirt track until only one car is still running; a staple of county fairs.,motorsport
 dene-games,"Traditional Dene events of the Arctic Winter Games: finger pull, snow snake, stick pull, hand games and pole push.",traditional;strength
 dhanurveda,"Ancient Indian tradition of archery and martial science, codified in the Atharvaveda-era texts.",precision
+diplomacy,Classic strategy board game for seven players (Allan Calhamer 1959): negotiation and simultaneous moves on a map of pre-WWI Europe.,mind
 disc-dog,"Dog sport where handlers throw flying discs and dogs catch them, judged on distance, acrobatics and freestyle routines.",dog
 disc-golf,Disc sport: golf played with flying discs on 9 or 18 hole courses; complete the course in the fewest throws governed by the PDGA,precision
 discus-throw,Throwing event with a 2 kg (men) / 1 kg (women) disc hurled from a circle; one of the ancient Olympic events.,athletics
 diving,"Aquatic sport of acrobatic dives from springboards and platforms, judged on difficulty, execution and entry.",water
 do-nothing-contest,Satirical competition where the winner is who can do nothing the longest; held annually in South Korea.,traditional
+dobble,"Speed observation card game (Spot it!, Denis Blanchot 2009): 55 cards with 8 symbols, exactly one match per pair.",mind
+dobutsu-shogi,"Animal shogi: 3x4 children's game invented by Madoka Kitao (2008), the entry game to shogi.",mind
 dock-diving,"Acrobatic diving from a dock or high platform into water, judged on difficulty, height and splash.",water;dog
 dodge-juggle,Team dodgeball variant where players may also catch and throw multiple balls to eliminate opponents.,ball;traditional
 dodgeball,Team sport in which players throw balls to eliminate opponents while dodging; world championships held since 2012 (WDBF).,ball
@@ -274,6 +308,8 @@ dog-sledding,Racing sled dogs pulling a sled over snow; famous races include the
 dog-surfing,Novelty sport of dogs riding surfboards to shore; competitions such as the Surf Dog Surf-A-Thon in California.,water;dog
 dorset-wrestling,"West Country catch-hold wrestling of Dorset/Devon (Devon style): jacket grips, back fall or three fouls.",combat
 dota-2,Multiplayer online battle arena esport; The International is one of esports highest-prize tournaments.,mind;esports
+dots-and-boxes,Paper game: connect dots to complete 1x1 boxes and score them; chain strategy.,mind
+dou-dizhu,Chinese 'Fight the Landlord' climbing game for three with a 54-card deck; the most played card game in China.,mind
 double-mini-trampoline,Gymnastics discipline where athletes perform acrobatic bounces on a small double mini-trampoline.,gymnastics
 double-trap-shooting,ISSF shotgun event in which two clay targets are released simultaneously and the shooter may fire twice at each pair.,precision
 downhill-mountain-biking,"Mountain biking down steep timed courses with jumps, rock gardens and banked turns.",cycling
@@ -290,10 +326,13 @@ duck-herding,Competition where participants in small boats herd ducks through a 
 duckpin-bowling,"Bowling variant with shorter, lighter pins and a smaller ball (max 3.6 lb), popular in the northeastern United States and Canada.",precision
 dumog,"Filipino standing grappling/wrestling of the Visayas (Panay) with joint locks, throws and use of the environment.",combat
 duplicate-bridge,Competitive contract bridge where the same hands are played at many tables and the scores are compared.,mind
+durak,"Russian 'Fool' card game: attack with cards, defender beats them by rank/suit; loser is the fool; most popular Russian card game.",mind
+dvonn,"Connection game with stacked pieces and a red 'dvonn' piece, second GIPF-project game; Kris Burm 2001.",mind
 dwile-flonking,Traditional English pub game where a beer-soaked cloth (dwile) is twirled overhead and thrown between teams.,traditional
 e-sports,"Competitive video gaming as a sport, with world championships in games like League of Legends, Dota 2 and CS2.",mind;esports
 ear-pull,Ear pull: pull a loop attached to the earlobe against an opponent; WEIO.,traditional
 ear-weight,Ear weight: hold a hanging weight suspended from an ear loop; WEIO.,traditional
+ecarte,"French two-player card game (pinch) with a 32-card deck, precursor of piquet; still played in France.",mind
 egg-tapping,Easter game and competition where two players tap hard-boiled eggs against each other; the uncracked egg wins.,traditional
 ekka-dokka,Bengali hopscotch variant played on a drawn court.,traditional
 electrician-games,Trade competitions for electricians combining practical installation tasks and theory tests.,traditional
@@ -304,6 +343,7 @@ english-billiards,"Cue sport on a large snooker-sized table with three balls (wh
 equestrian-vaulting,Gymnastics on a moving horse guided by a lunger; an FEI discipline with world championships.,equestrian;gymnastics
 eskrima,"Filipino martial art of stick and blade fighting, also known as arnis or kali; international and world championships are held.",combat
 eton-wall-game,Traditional Eton College football played against a wall with a scrummage for the ball; contested since the 18th century.,ball;traditional
+euchre,Trick-taking card game for four players in partnerships with a 24/28/32-card deck; the bowers and right/left bauer rules.,mind
 evala,"Traditional wrestling of Togo ('evala'), a form of West African lutte traditionnelle.",combat
 eventing,"Equestrian triathlon of dressage, cross-country and show jumping on the same horse.",equestrian
 excel-world-championship,Esports competition for Microsoft Excel: solving complex spreadsheet problems against the clock.,mind
@@ -373,17 +413,23 @@ genna,Ethiopian field hockey played with a curved wooden stick and a tennis ball
 gidigbo,Traditional strategy game of West Africa.,traditional
 gilli-danda,"South Asian stick-and-ball hitting game (gilli danda), a forerunner of cricket.",traditional
 gillidanda,Traditional Indian street game where a pointed wooden stick (gillidanda) is hit into the air and the batter runs between wickets.,traditional;precision
+gin-rummy,Two-player rummy variant: knock with deadwood of 10 or less; invented 1909 in New York.,mind
+gipf,"Abstract two-player game with marbles on a hexagonal board, first of the GIPF project; Kris Burm 1997.",mind
 girevoy-sport,"Kettlebell lifting sport from Russia with 10-minute multi-repetition events such as jerk, snatch and long cycle.",strength
+giza-probak,Basque human stone-dragging: teams of pullers (up to 750 kg stones) haul a sledge along a marked course against the clock.,traditional;strength
 gliding,Engineless flight riding thermals in sailplanes; FAI classes and world soaring championships.,air
 glima,"Traditional Icelandic standing wrestling in belt and trouser grips, where the first wrestler to touch the ground loses; national championships since 1906.",combat;traditional
+glinski-hexagonal-chess,Chess on a hexagonal board (97 cells) invented by Wladyslaw Glinski (1936).,mind
 go,Ancient Chinese board game for two players who place black and white stones to surround territory; world championships exist.,mind
 goalball,Paralympic team sport for visually impaired players: a bell ball is thrown along the floor into the opponent goal.,ball
 goanna-pulling,Australian contest of strength where two people pull a goanna (monitor lizard) by the tail in opposite directions.,traditional;strength
 goju-ryu-karate,"One of the main karate styles, founded by Chojun Miyagi in Okinawa, combining hard and soft techniques.",combat
 golf,Club-and-ball sport where players hit balls into a series of holes on a course in as few strokes as possible.,ball;precision
 golf-croquet,"Fast croquet variant of one hoop per turn played worldwide, governed by the World Croquet Federation.",precision
+gomoku,"Five-in-a-row on a 15x15 Go board; world championships (RIF) since 1989, freestyle and overline rules.",mind
 gorodki,Russian throwing game of knocking bat pins out of a square with a bat; Russian national championships.,traditional;precision
 gouren,"Breton jacket wrestling in which the first to touch the ground with hip, shoulder or back loses; French federation championships.",combat;traditional
+grand-chess,"10x10 chess variant (Capablanca, 1929), precursor of modern large-board variants.",mind
 grass-skiing,"Skiing on grass-covered slopes with wheeled roller skis, governed by FIS with its own World Cup and World Championships.",winter
 gravel-cycling,Off-road road cycling on unpaved gravel roads and trails with drop-bar bikes; a fast-growing race scene.,cycling
 greco-roman-wrestling,Olympic wrestling style where only holds above the waist are allowed and leg attacks are banned.,combat
@@ -403,6 +449,7 @@ gymnastics-vault,"Artistic gymnastics event in which athletes sprint down a runw
 haggis-hurling,"Throwing a haggis for distance at Highland Games gatherings, with world records kept since the event's 1970s revival.",traditional
 haidong-gumdo,"Korean martial art emphasizing powerful sword and bare-hand techniques, with board-breaking demonstrations.",combat
 half-marathon,"Road race over 21.0975 km, half the marathon distance; individual and team World Championships are held by World Athletics.",athletics
+halli-galli,Speed card game (Amos Orban/HaIM Shafir 1983): ring the bell when five identical fruits appear; very popular children's game.,mind
 hammer-throw,Throwing event in which a metal ball on a wire handle is swung and released from a circle; Olympic since 1900.,athletics
 hand-games,Dene hand games: fast dexterity and guessing games; Arctic Winter Games.,traditional
 handball,Fast indoor team sport where players pass and throw a ball into the opponent's goal; Olympic since 1936.,ball
@@ -412,6 +459,8 @@ hard-enduro,Extreme motorcycle enduro on very difficult terrain such as rock fie
 hardball-squash,"Squash variant played with a harder, faster rubber ball on a smaller court, popular in the US.",ball;racquet
 hare-and-hounds,Cross-country chase game where 'hares' set a scent trail and 'hounds' follow it on foot.,traditional;athletics
 harness-racing,"Horse racing where Standardbred horses pull a two-wheeled cart (sulky) with a driver, at trot or pace.",equestrian
+harri-jasotzaile,"Basque stone lifting: competitors hoist heavy shaped stones (100-212 kg, e.g. the 'harri handia') from the ground to the shoulder in repeated lifts; contests at festivals since the 19th century.",traditional;strength
+havannah,"Hexagonal connection game on a 10-side hex board (54 cells); connect ring, fork or bridge; 1981.",mind
 head-pull,Arctic head pull: neck-strength duel pulling a loop worn over the ears.,traditional
 headis,German table tennis hybrid heading the ball across a table with a football; world rankings and championships since 2015.,ball;precision
 hema,"Historical European Martial Arts: competitive reconstruction of medieval longsword, rapier and other weapon systems.",combat
@@ -419,11 +468,14 @@ hema-longsword,HEMA longsword: competitive fencing with the medieval two-handed 
 hema-rapier,"HEMA rapier: the thrust-oriented Renaissance dueling sword, fought with historical rapier systems.",combat
 hemp-olympics,Satirical hemp-themed festival in the US with quirky competitions; not an official sport.,traditional;strength
 heptathlon,"Women's combined athletics event of seven disciplines over two days; Olympic since 1984, world records near 7000 points.",athletics
+hex,Connection game on an 11x11 rhombus board: connect opposite sides; invented 1942 (Piet Hein) and 1948 (Nash).,mind
 high-diving,"Diving from platforms up to 27 m (men) and 20 m (women) into water, judged like competitive diving.",water
 high-jump,Field event in which athletes jump over a horizontal bar raised progressively; the Fosbury Flop has dominated since 1968.,athletics
 highlining,Slackline walking at great heights without a safety fall; an extreme balance sport of long high lines.,gymnastics
 hillclimbing,"Motorsport timed runs up a hill climb course, one car at a time; famous at Shelsley Walsh and Pikes Peak.",motorsport
+hnefatafl,"Norse tafl game: attacker vs defender king on 11x11, documented since the 8th century.",mind
 hockey5s,Field hockey with five players per side on a smaller pitch; faster and more skill-based.,ball
+horde-chess,Asymmetric chess: White commands a horde of 36 pawns against Black's full army.,mind
 hornussen,"Swiss team sport hitting a nest ball with a flexible rod toward the opponent field, between golf and baseball.",traditional
 horseball,"Equestrian team sport of picking up a ball from the saddle, passing it three times and scoring in a raised basket.",ball;equestrian
 horseshoes,Lawn game of throwing horseshoes around a stake; NHPA world championships in singles and doubles.,precision
@@ -438,6 +490,7 @@ ice-dancing,"Figure skating discipline for pairs combining dance steps, lifts, s
 ice-hockey,Fast contact team sport on ice with skates and a puck; the NHL is the top league and it has been Olympic since 1920.,winter
 ice-speedway,"Motorcycle circuit racing on ice with studded tyres, world championship run since the 1960s.",winter;motorsport
 ice-stock-sport,Alpine ice sport of sliding ice stocks toward a target ring on the ice; German and international championships (DEB/IFI).,winter;precision
+idi-probak,"Basque oxen-pulling contest: a pair of oxen drags a stone sledge (1,500-4,500 kg) over a measured course, heaviest pull wins; classic herri kirolak event.",traditional;strength
 indiaca,"Net game played with a large shuttlecock (indiaca) over a badminton-height net, popular in European federations.",ball
 individual-medley-swimming,"Race in which one swimmer covers butterfly, backstroke, breaststroke and freestyle in that order, over 200 and 400 metres.",water
 indoor-bowls,"Lawn bowls played indoors on a flat carpet, popular in winter in the UK and Canada.",precision
@@ -447,6 +500,7 @@ indoor-rowing,Ergometer rowing over 2000 m and sprint distances at World Rowing 
 indoor-skydiving,"Human flight in a vertical wind tunnel, with freestyle and formation-flying competitions.",air
 indoor-soccer,"Small-sided soccer played indoors in a gym or arena, usually 5v5 or 6v6 with boards.",ball
 indycar-series,"Top level of American open-wheel racing on ovals and road courses, famous for the Indianapolis 500.",motorsport
+ingude-altxatzea,Anvil lifting: competitors lift a heavy anvil (50-100+ kg) to chest/shoulder height repeatedly; strength endurance contest.,traditional;strength
 inline-speed-skating,Racing on inline skates on road and track circuits; World Skate world championships over 100 m to marathon distances.,winter;skate
 intercrosse,Canadian lacrosse variant with six players per side on a smaller field with a softer ball.,ball
 international-rules-football,Hybrid of Gaelic football and Australian rules football played 15-a-side on a rectangular pitch; a world series is played against Australia.,ball
@@ -456,10 +510,12 @@ jai-alai,"Basque pelota at its fastest, hurling the ball with a long xistera bas
 janggi,Korean chess on a 9x10 board with pieces akin to xiangqi plus the cannon; professional Korean leagues and world amateur events.,mind
 japanese-binocular-soccer,"Japanese novelty sport where players wear binoculars while playing soccer, making coordination very hard.",ball;traditional
 javelin-throw,"Throwing event with a spear-like implement (800 g men, 600 g women) after a run-up; measured within a 30-degree sector.",athletics
+jenga,Stacking/dexterity game (Leslie Scott 1983): pull wooden blocks from a tower without toppling it.,mind
 jet-ski-racing,"Racing of personal watercraft (jet skis) on closed circuits and endurance courses, governed by the UIM.",water
 jeu-de-paume,"Ancient French racket game played against a wall, ancestor of tennis; real tennis evolved from it.",ball;racquet
 jeu-provencal,Provencal form of boules played with a run-up and longer throws than petanque; the older Provencal bowl game.,precision
 jianzi,Chinese kick-passing game keeping a weighted shuttlecock in the air with the feet; world championships exist.,ball;traditional
+jigsaw-speed-puzzling,Competitive jigsaw solving (WPC World Jigsaw Puzzle Championship since 2019; individual + team events).,mind
 jodo,"Japanese martial art of the short staff (jo), focused on defending against sword attacks.",combat
 jokgu,"Korean foot volleyball, playing a ball over a low net with feet and head; popular university and league sport.",ball
 jorkyball,"Indoor ball game mixing handball, dodgeball and soccer, played 2v2 on a small court.",ball
@@ -468,8 +524,10 @@ juego-del-palo,Canarian stick fighting (juego del palo/banot) of Guanche origin;
 juggling,Skill sport of keeping multiple objects in the air; competitive disciplines include numbers juggling and freestyle.,precision;gymnastics
 jukskei,South African throwing game where players toss a wooden peg to make it land upright in a sandpit.,traditional;precision
 kabaddi,Indian contact team sport of raiding across a line on a single breath; Pro Kabaddi League and world cups.,traditional
+kakuro,Numeric crossword (sums) invented by Dell 1950; Japanese 'cross sums'.,mind
 kalah,1940 US tournament variant of mancala played on a 6x6 board; world championships.,mind
 kalaripayattu,"Ancient Indian martial art from Kerala combining weapons, flexibility and bodywork; one of the oldest documented fighting systems.",combat;traditional
+kamisado,"Diagonal-movement game on 8x8 with colored towers, invented by the French; world championship exists.",mind
 kancha,Indian marble game (kancha/goti) played with glass marbles.,traditional
 kanjam,Backyard team game where one player throws a flying disc and the teammate deflects it into a can.,precision
 karate,"Japanese striking martial art with punches, kicks, blocks and katas; the WKF governs Olympic kumite.",combat
@@ -488,6 +546,7 @@ khuviin-tamir,Mongolian traditional horseback sport contested at Naadam and the 
 kickball,Playground-derived team game: a pitched ball is kicked and runners advance around four bases; adult leagues and world cups exist.,ball
 kickboxing,"Stand-up combat sport combining punches and kicks from boxing, karate and muay thai; WAKO and K-1 rule sets.",combat
 kin-ball,Giant-ball team sport invented in Canada in which three teams play simultaneously; IMF world championships.,ball
+king-of-the-hill-chess,Chess variant where the king reaching the centre four squares (the 'hill') wins.,mind
 kirkwall-ba-game,"Orkney mass football through the streets of Kirkwall on Christmas and New Year between Uppies and Doonies, recorded since the 1650s.",ball;traditional
 kite-buggying,Land sailing: a three-wheeled buggy is pulled across sand or grass by a large steerable kite.,water;air
 kite-foil,Foil water sport: a hydrofoil board is lifted above the water and propelled by a kite.,water
@@ -499,9 +558,11 @@ knuckle-hop,Knuckle hop (seal hop): hop across a measured distance on the knuckl
 kobudo,"Okinawan martial art of kobudo weapons (bo staff, sai, tonfa) practiced alongside karate.",combat
 kokawa,Traditional wrestling style of Niger and northern Nigeria.,combat
 kokh,Armenian national wrestling known since the Early Middle Ages; Lori and Shirak styles; world championships.,combat
+konane,"Hawaiian jumping checkers on an 8x8 board, traditional game of the Hawaiian islands.",mind
 korfball,Dutch mixed team sport of shooting a ball through a korf (basket); IKF world championships since 1978.,ball
 krabi-krabong,"Thai martial art of the royal army using elbows, knees, clinches and weapons in close combat.",combat;traditional
 krav-maga,"Israeli self-defense system combining boxing, wrestling, judo and aikido techniques for real-world defense.",combat
+kriegsspiel,"Hidden-information chess: pieces are hidden from the opponent, umpire adjudicates.",mind
 kubb,Swedish lawn game of throwing batons to knock over wooden blocks before toppling the king.,traditional;precision
 kumis-alu,Kazakh equestrian game of picking up silver coins from the ground at full gallop; a traditional event of national festival games.,traditional;equestrian
 kun-khmer,"Cambodian kickboxing (Pradal Serey): punches, kicks, knees, elbows and clinch work over five 3-minute rounds; SEA Games debut 2023.",combat
@@ -511,6 +572,7 @@ kurash,Uzbek jacket wrestling in which throws must start upright; world champion
 kuresh,Central Asian/Tatar belt wrestling (koresh/kurash family) fought standing with a belt or towel grip; Sabantuy staple.,combat
 kushti,"Traditional wrestling of India and Pakistan, fought in a sand pit (akhara) with ancient origins.",combat
 kyokushin-karate,"Full-contact karate style founded by Mas Oyama in Japan, famous for hard conditioning and knockout bouts.",combat
+kyoto-shogi,5x5 Kyoto-era shogi variant with unique pieces (e.g. the 'Kyoto piece').,mind
 kyudo,Japanese ceremonial archery with the asymmetric longbow; international federation world championships.,combat;precision
 kyz-kuu,Kyrgyz equestrian game where riders at full gallop pick up a cloth pouch from the ground.,traditional;equestrian
 la-soule,Medieval Norman mass ball game (soule/choule) where parish teams carry the ball to the opponent's goal; revived since 2001.,ball;traditional
@@ -527,8 +589,10 @@ lapta,"Traditional Russian bat-and-ball game similar to baseball, played with a 
 larnis,"Filipino blade art (larnis) of the arnis/eskrima family, covering stick, sword and knife ranges.",combat
 laser-run,Run-shoot race of laser pistol shooting and running legs; modern pentathlon series event under World Triathlon.,athletics;precision
 laser-tag,Team game in which players wear sensor vests and tag opponents with infrared emitters in a dark arena; world championships exist.,precision
+lasto-altxatzea,Hay-bale lifting via pulley: competitors raise 20-40 kg straw bales from ground to a raised platform as many times as possible.,traditional;strength
 latigo-y-cadena,Filipino flexible-weapon art: whip (latigo) and chain/bola of the FMA family.,combat
 latrones,"Roman ""game of little soldiers"" (ludus latrunculorum) on a grid board with custodial capture, described by Varro in the 1st century BC.",mind
+latrunculi,"Roman board game (soldiers) on a grid, possibly the ancestor of tafl games and draughts.",mind
 lawn-bowls,Precision sport rolling asymmetric bowls toward a jack on a flat green; World Bowls world championships.,precision
 lawn-mower-racing,"Racing modified lawn mowers on a track, a popular amateur motorsport in the UK and US.",motorsport
 lead-climbing,Sport climbing where the climber clips the rope into quickdraws while ascending a graded route.,climbing
@@ -536,30 +600,39 @@ league-of-legends,5v5 MOBA esports title; the annual World Championship is one o
 lelo-burti,"Georgian traditional football-wrestling game between village halves, played at Easter with a large ball pushed in a mass struggle.",ball;traditional
 lethwei,Burmese bare-knuckle boxing where headbutts are allowed; an extremely tough traditional sport.,combat
 lifesaving,"Competitive surf lifesaving: swimming, board and tube rescue races and relays on the beach.",water
+lokotxa,Corn-cob collecting race: teams strip as many corn cobs from a pile within a time limit.,traditional;strength
 long-jump,Horizontal jump event: athletes sprint down a runway and jump from a board into a sand pit; measured from the take-off line.,athletics
 longboarding,"Skateboarding on longer boards for cruising, downhill racing and sliding; international downhill federation events.",skate
 longue-paume,"French outdoor handball game played over long distances, an ancestor of modern handball and tennis.",ball;racquet
+losing-chess,"Giveaway chess: normal moves, but capturing is compulsory and the aim is to lose all pieces.",mind
 lucha-leonesa,"Wrestling tradition of Castile and Leon fought in a sand circle, where the first to touch the ground loses.",combat
 luge,Olympic sliding sport racing feet first on a sled down an ice track at up to 140 km/h; FIL world cups.,winter
 luge-doubles,"Luge discipline in which two riders steer one sled down the ice track together; open to men, women and mixed teams.",winter
 lumberjack-championships,"Competitions for forestry workers: axe throwing, log rolling, chainsaw speed cuts and tree climbing.",traditional;strength
 lure-coursing,"Dog sport where sighthounds chase a mechanical lure around a track, scored on speed.",dog
 luta-livre,"Brazilian catch wrestling without the gi, a precursor of MMA and no-gi jiu-jitsu.",combat
+mafia-werewolf,Social-deduction party game: an informed minority (werewolves/mafia) deceives the majority (villagers); invented 1986 in Moscow (Dimitry Davidoff).,mind
 mahjong,"Chinese tile-based game for four players combining luck and strategy, with many regional rule sets.",mind
 makruk,"Thai chess (makruk), a chess variant on an 8x8 board with different queen and pawn moves, governed in Thailand by the Makruk Thai Chess Association.",mind
 malla-khamba,"Indian sport of wrestling while hanging from a wooden pole (malla), gripped with hands and feet.",traditional;gymnastics
 mallakhamb,"Indian sport of climbing and wrestling on a vertical wooden pole or rope, with its own world championships.",gymnastics
 mancala,Family of counting games played with seeds or stones in rows of pits on a wooden board; competitive play includes the World Oware Championship.,mind;traditional
+manchu-chess,Qing-dynasty xiangqi variant played on a 9x10 board with special cannon rules.,mind
 maram-pitti,Pakistani ball game (maram kutti) played in a marked circle.,traditional
 marathon,"Road race over 42.195 km, the classic Olympic endurance event (men since 1896, women since 1984), named after the Greek legend.",athletics
 marathon-swimming,"10 km open-water swimming race in natural venues; Olympic since Beijing 2008, governed by World Aquatics.",water
 mas-wrestling,Yakutian stick-pulling wrestling from Siberia: two athletes sit on a board and pull a wooden stick.,combat;strength
+mastermind,"Code-breaking game for two (Efraim Halfon, 1970): hidden 4-color code, black/white peg feedback.",mind
 matkot,"Israeli beach paddle game, rallying a small ball between two paddles with no net.",ball;racquet
+mehen,"Ancient Egyptian snake/coil game played on a coiled serpent board, Old Kingdom era.",mind
 memory-sport,"Competitive memorization of cards, digits and words under timed disciplines; World Memory Championships since 1991 and world rankings.",mind
 mesoamerican-ballgame,"Ancient ball game of the Maya and Aztec civilizations played with the hips on a stone court; part ritual, part sport.",ball;traditional
 midget-car-racing,"Racing of small open-wheel cars on short dirt or asphalt tracks, popular in the US from the 1930s.",motorsport
+minesweeper,"Single-player logic game (1989, Microsoft): clear a minefield using number clues; speedrun and esport rankings exist.",mind
 mini-tennis,"Red, orange and green stage tennis for juniors on scaled courts with low-compression balls; ITF play-and-stay programme.",racquet
 minigolf,Miniature golf played competitively on standardized 18-hole courses; the World Minigolf Sport Federation runs world championships.,ball;precision
+minishogi,"5x5 shogi variant (no drops, king starts on board), popular in Japan and schools.",mind
+minixiangqi,"7x7 compact xiangqi variant, quick games, popular in China and Vietnam.",mind
 mixed-doubles-curling,Curling with teams of one man and one woman alternating shots; world championship since 2015.,winter
 modern-pentathlon,"Olympic multi-sport of fencing, swimming, show jumping, pistol shooting and cross-country running.",water;athletics
 molkky,Finnish throwing game of toppling numbered skittles with a wooden pin to score exactly 50 points.,traditional;precision
@@ -594,10 +667,13 @@ natural-track-luge,"Luge on a natural ice track without artificial refrigeration
 netball,"Seven-a-side team sport derived from basketball, without dribbling; INF world cups since 1963.",ball
 newcomb-ball,Beach game invented in New Orleans where players hit a ball over a net into the opponent's side.,ball
 nguni-stick-fighting,Zulu and Xhosa stick fighting with wooden sticks and shields.,combat
+nim,Mathematical take-away game with heaps of counters; normal (last move wins) or misere; solved by Bouton 1901.,mind
+nine-men-s-morris,Mills: place and move nine pieces to form mills (three in a row) on a 24-point board; ancient game (Egypt c. 1400 BC).,mind
 nine-pin-bowling,European bowling (Kegeln) played with nine pins in a diamond on a lane; German championships since 1900.,precision
 ninja-sport,"Obstacle-course competitions inspired by ninja training, combining climbing, balance and speed.",athletics;gymnastics
 ninjutsu,Japanese ninja arts of espionage and close combat; modern schools include Bujinkan (Hatsumi) and Genbukan (Tanemura).,combat
 no-gi-jiu-jitsu,"Brazilian jiu-jitsu without the traditional gi, using wrestling-style grips and leg locks.",combat
+nonogram,"Logic picture puzzle (Picross/Nintendo, 1990s): row/column clues give shaded cells forming a picture.",mind
 nordic-combined,Olympic winter event combining ski jumping with a cross-country pursuit race; FIS world championships.,winter;athletics
 novuss,Latvian cue sport on a billiards table with eight object balls and point-based scoring.,precision
 obstacle-course-racing,"Off-road running races over walls, mud and obstacles; world championships and Hyrox-style series.",athletics
@@ -606,10 +682,12 @@ oina,"Traditional Romanian game similar to rugby, played with an oval ball and r
 olympic-weightlifting-clean-and-jerk,Weightlifting's second lift: the barbell is cleaned to the shoulders and then jerked overhead in one motion.,strength
 olympic-weightlifting-snatch,Weightlifting's first lift: the barbell is lifted from the floor to overhead in one continuous motion.,strength
 omegaball,"Team sport combining handball, basketball and dodgeball with four goals on a hexagonal court.",ball
+omok,"Korean gomoku variant (five-in-a-row with overline wins), professional league in Korea.",mind
 omweso,Ugandan 4x8 mancala of the Buganda kingdom; national and world championships.,mind
 one-foot-high-kick,"Inuit one-foot high kick: jump on one foot, strike a suspended target, land on the same foot.",traditional
 one-hand-reach,One-hand reach: hang from one fully extended arm for time; AWG.,traditional
 onewheel-racing,Racing electric self-balancing one-wheeled boards on pavement tracks and dirt course gatherings.,cycling
+onyx,"Go-like alignment game on 19x19 with black/white rings, invented 2004 (Brussels).",mind
 open-water-swimming,"Competitive swimming in lakes, rivers and the sea over 5 to 25 km; the Olympic marathon swim is 10 km.",water
 orienteering,Race of navigation with map and compass across unknown terrain; IOF foot world championships.,athletics
 othello,Two-player strategy board game (Reversi) on an 8x8 board where discs are flipped by outflanking the opponent.,mind
@@ -656,12 +734,16 @@ pencak-silat,"Indonesian and Malay martial art with hundreds of styles, empty-ha
 pencak-silat-seni,"Artistic pencak silat division in which solo, duo and team routines are judged like martial arts kata.",combat
 pencak-silat-tanding,"Sparring pencak silat: full-contact bouts with protective gear, points for clean techniques.",combat
 pentathlon,"Combined event of five disciplines; historically fencing, shooting, swimming, riding and running.",water;athletics
+pente,Capture-five: get five in a row or capture five pairs of opponent stones on a Go board; invented 1977 (USA).,mind
 pesapallo,"Finnish bat-and-ball game similar to baseball, the national sport of Finland, played with a vertical pitch.",ball
 petanque,French boules game of throwing metal balls to a jack from a standing circle; FIPJP world championships.,precision
+petteia,"Ancient Greek line-capture board game on a grid, ancestor of latrunculi and chess.",mind
 pickleball,Paddle sport on a badminton-size court with a perforated ball; among the fastest growing sports worldwide.,ball;racquet
 pigeon-racing,Sport of racing homing pigeons released far from their loft; the fastest return wins.,traditional
 pillow-fighting,Stand-up fighting with special pillows under boxing-style rules; championships organized since the 2000s.,traditional
 pinball,Arcade game and competitive sport where a steel ball is launched into a playfield to score points.,mind;precision
+pinochle,"melding-and-trick game with a 48-card double deck (A-10, K, Q, J x2); popular in the USA since the 1880s.",mind
+piquet,French trick-taking game for two with a 32-card deck; one of the oldest card games (16th century).,mind
 pithoo,Pakistani seven-stones throwing game (pithoo/golli danda variant).,traditional
 pitz,"Classical Maya name of the Mesoamerican ballgame (pok-ta-pok): rubber ball, hips and forearms, stone ring goals.",ball;traditional
 pizza-dough-throwing,"Competitive spinning and tossing of pizza dough, judged on size, roundness and showmanship.",traditional
@@ -687,14 +769,18 @@ powerlifting-deadlift,Powerlifting lift: raising the barbell from the floor to a
 powerlifting-squat,Powerlifting lift: squatting the barbell from the rack to below hip depth and standing back up.,strength
 practical-shooting-ipsc,"Dynamic shooting sport with realistic scenarios, movement and multiple targets under time pressure.",precision
 pradal-serey,"Khmer martial art from Cambodia with strikes, kicks, elbows, knees and weapon techniques.",combat
+preferans,Russian trick-taking bidding game for three players with a 32-card deck; invented in the 19th century.,mind
 prisonball,Prison dodgeball variant in which hit players go behind the opponent line and can re-enter by tagging.,ball
 public-speaking,"Competitive speech contests (Toastmasters, debating) judged on content, structure and delivery.",mind
 pumpkin-regatta,"Races in hollowed-out giant pumpkins used as boats, popular in the US and Europe.",water;traditional
 pumpkin-toss,"Punkin chunkin: throwing pumpkins for distance with catapults, air cannons and slings at US festivals.",traditional
 quadball,Mixed-gender team sport inspired by quidditch: dodgeball with bludgers and a broom between the legs.,ball
 quadrathlon,"Combined event of four disciplines, for example canoeing, running, shooting and riding.",water;athletics
+quarto,4x4x4x4 deduction game: place pieces with shared attributes; invented 1991 (Roland Siegwalt).,mind
+quoridor,"Pawn race on 9x9 with 10 walls each to block the opponent; invented 1997 (France), world championship.",mind
 rabbit-hopping,"Competition where participants hop like rabbits along a track, popular at Easter events.",traditional
 rabbit-show-jumping,Pet sport of rabbits jumping over miniature hurdles on a course; Scandinavian-led competitions.,traditional
+racing-kings,Chess variant where the first king to reach the eighth rank wins.,mind
 racketlon,"Combined racket sport: table tennis, badminton, squash and tennis in one match, starting with table tennis.",racquet
 rackets,"Indoor racket sport played in a walled court, the precursor of squash; world championships are held at Queen's Club in London.",racquet
 racquetball,"Indoor racket sport in a walled court with a small bouncy ball; very fast rallies, PSA World Tour.",ball;racquet
@@ -705,10 +791,12 @@ real-tennis,"The original form of tennis, played indoors on asymmetric courts wi
 recurve-archery,"Olympic archery with a recurve bow and sight, shot at 70 m in individual, team and mixed events.",precision
 reindeer-racing,Nordic sport of skiers or sleds pulled behind racing reindeer; famous meetings in Norwegian Lapland.,winter;traditional
 reining,"Western riding competition with a precise pattern of circles, spins and sliding stops, judged on precision.",equestrian
+renju,Strictly regulated gomoku with forbidden double-threes for Black; world championships since 1989.,mind
 rhythmic-gymnastics,"Gymnastics with apparatus (ribbon, hoop, ball, clubs, rope) performed to music with dance elements.",gymnastics
 riichi-mahjong,Japanese mahjong variant with dora tiles and riichi declarations; the most common competitive form in Japan.,mind
 ringette,Ice team sport played with a rubber ring and straight sticks; mostly women and girls in Canada and Scandinavia.,ball
 rinkball,"Finnish ice team sport of six skaters using a straight stick and ball, close to bandy with ice hockey speed.",ball;winter
+risk,"World-conquest dice/card board game for 2-6 players (Albert Lamorisse 1957), with world championships.",mind
 river-surfing,Surfing standing river waves such as the Munich Eisbach spot; river boatercross and wave competitions.,water
 riverboarding,Prone river surfing on a bodyboard-style river board down rapids.,water
 road-cycling,"Bicycle racing on roads: one-day classics and stage races such as the Tour de France, Giro and Vuelta.",cycling
@@ -735,6 +823,7 @@ rugby-league-sevens,Seven-a-side rugby league played 7- or 13-minute halves in f
 rugby-sevens,"Rugby union with seven players per side on a full-size pitch; Olympic since Rio 2016, World Rugby Sevens Series.",ball
 rugby-tens,"Ten-a-side rugby variant between sevens and the full 15-a-side game, with world championships.",ball
 rugby-union,"Rugby with 15 players per side, contested rucks, mauls and scrums; Rugby World Cup every four years.",ball
+rummy,Family of melding games: form sets/runs of three or more cards from a drawn/discarded pool.,mind
 run-archery,"World Archery discipline combining cross country running with target shooting, run-and-shoot loops with penalty laps for misses.",athletics;precision
 russian-pyramid,"Russian pocket billiards on a large table with 15 white balls and a red cue ball, dominant in the former USSR.",precision
 rustic-race,"100 m rustic sprint of the World Indigenous Games, run in simple footwear.",athletics;traditional
@@ -745,20 +834,26 @@ sand-hockey,Desert hockey played on sand at Morocco's Nomads Festival.,ball;trad
 sandboarding,Board sport of sliding down sand dunes standing or lying on a board.,skate
 savate,"French kickboxing worn with shoes, combining boxing punches and elegant kicks; world championships exist.",combat
 schlagball,"German school sport similar to baseball, played with a ball and a flat bat on a large field.",ball;traditional
+schnapsen,"Austrian two-player trick-taking game with 20 cards (A,K,Q,J,10), marriage and trump-jack rules.",mind
 schutzhund,"Dog protection sport (also IPO/Mondioring) testing tracking, obedience and protection with a decoy.",dog
 schwingen,Traditional Swiss wrestling in a sawdust ring; the first whose shoulder touches the ground loses.,combat;traditional
 scootering-dog-sport,"Dog sport in which a harnessed dog pulls a rider on a kick scooter along trails, an IFSS dryland event.",dog
+scopa,Italian scopa: capture cards from the table by matching ranks; national championship exists.,mind
 scottish-hammer-throw,Heavy athletics event at the Highland Games: throwing a 16 lb metal ball on a long handle for distance.,traditional;strength
 scrabble,Word game where players build crossword-style words from letter tiles on a 15x15 board for points.,mind
 seega,"Ancient Egyptian two-phase placement-and-capture grid game on 5x5 to 9x9 boards, documented since 1836.",mind
+segala,Scything contest: competitors mow a marked meadow strip with a scythe; fastest clean cut wins.,traditional;strength
+senet,"Ancient Egyptian board game (c. 3100 BC), one of the oldest known board games, played to the New Kingdom.",mind
 sepak-takraw,"Southeast Asian sport of rally and spike over a net using feet, knees and head; ISTAF world cups.",ball
 sepak-takraw-doubles,Doubles regu sepak takraw with two players per side on a smaller court and lighter ball.,ball
 sepak-takraw-regu,"Sepak takraw with three players per team, the classic Southeast Asian kick-volleyball.",ball
+set,Real-time card game (Marsha Falco 1988): find 'sets' of three cards with matching/different attributes; 1991 Mensa Select.,mind
 seven-a-side-football,"Football with seven players per side on a smaller pitch, common in youth and veterans' leagues.",ball
 seven-stones,South Asian game: one team knocks over a pile of seven stones and rebuilds it while the other throws the ball.,traditional
 shagai,Mongolian and Kyrgyz knucklebone game: players throw a shagai (horse ankle bone) at a target bone; World Nomad Games.,traditional
 sheaf-toss,Scottish Highland Games event: throwing a weighted sheaf (bundle) over a bar for height.,traditional;strength
 sheep-dog-trials,Competitions where sheep dogs herd sheep through pens and obstacles on the handler's whistles and commands.,traditional;dog
+sheepshead,American trick-taking/melding game with a 32-card deck (7-A); 'the national card game of America' in the 19th century.,mind
 shin-kicking,Cotswold contest of kicking shins to bring the opponent down; part of the Robert Dover Games tradition.,combat;traditional
 shinty,"Scottish stick-and-ball field sport akin to hurling, played 12-a-side under the Camanachd Association.",ball
 shito-ryu-karate,"Major karate style founded by Kenwa Mabuni, combining techniques from Shuri-te and Naha-te.",combat
@@ -777,8 +872,10 @@ sidecarcross,Motocross with a sidecar: driver and passenger navigate a dirt trac
 silambam,"Tamil stick-fighting art of the long bamboo staff with forms and competitive sparring, taught and competed worldwide, India recognised.",combat;traditional
 sipa,"Thai kicking game where players keep a rattan ball in the air with feet, knees and head in a circle.",ball;traditional
 sitting-volleyball,Paralympic volleyball played seated on a smaller court; world championships under World ParaVolley.,ball
+sittuyin,Burmese chess (Myanmar): 8x8 like western chess but with a distinctive 'feuda' move for the pieces.,mind
 six-man-football,"American football variant with six players per side, popular on beaches and in youth leagues.",ball
 sixes-lacrosse,Six-a-side lacrosse on a smaller field; faster and more open than the full game.,ball
+sixty-six,Hungarian/Slovak trick-taking game for two with 24 cards; marry and sixty-six (A+10 of trump) scoring.,mind
 skateboarding,Riding and performing tricks on a skateboard; street and park are Olympic disciplines.,winter;skate
 skeet-shooting,Shotgun discipline where clay targets are thrown from two towers crossing in front of the shooter.,precision
 skeleton,Olympic head-first sliding sport on a sled down the ice track; FIL world cup since 1986.,winter
@@ -836,6 +933,7 @@ sport-stacking,Racing to stack and unstack pyramids of cups in set patterns; wor
 sporthocking,Australian football kicking sport: players punt the ball and can be tackled; a spectacular Aussie rules variant.,traditional
 sprint-car-racing,"Dirt-track racing with winged sprint cars on short ovals, very popular in the US Midwest.",motorsport
 sprint-football,"Fast variant of American football with seven players, no kicking and a smaller field.",ball
+sprouts,"Paper-and-pencil game invented by Conway and Paterson (1967): add curves connecting spots, max 3 lines per spot.",mind
 squash,"Indoor racket sport in a walled court with a small bouncy ball; very fast, PSA World Tour.",racquet
 squash-tennis,Racket sport invented around 1910 combining elements of tennis and squash on a court with a low net; still played competitively.,racquet
 ssireum,Traditional Korean wrestling where two wrestlers grapple by belts around waist and thigh in a sand circle.,combat
@@ -850,6 +948,7 @@ stock-car-racing,"Closed-circuit oval racing with production-based silhouette ca
 stone-put,"Swiss-Alpine stone throwing for distance, a heavy event of the Unspunnen festival traditions.",traditional;strength
 stoolball,"Traditional English bat-and-ball game, ancestor of baseball and cricket, still played around Easter.",ball;traditional
 straight-pool,Pool game (14.1 continuous) where each pocketed ball scores a point and a set total must be reached.,precision
+stratego,"Deduction/strategy board game for two with hidden ranks (flag, bomb, spy); invented in France c. 1900, published by Milton Bradley 1960.",mind
 street-fighter,"Capcom's 1-vs-1 2D fighting game series and one of the biggest esports titles, with the Capcom Cup as the season finale.",mind;esports
 street-hockey,Ball hockey played on pavement without skates; international federations run world championships.,ball
 street-luge,Gravity racing lying feet first on an extended board down closed mountain roads.,skate
@@ -857,6 +956,8 @@ street-skateboarding,"Olympic skateboarding discipline on a street-like course w
 street-workout,"Calisthenics in public parks on bars and rings, with strength and freestyle competitions.",strength;gymnastics
 strongman,"Strength competition with atlas stones, log press, truck pull and farmer's walk; World's Strongest Man is the top event.",strength
 strongwoman,"Women's strongman contests with yoke, log press, deadlift and atlas stone events.",strength
+subbuteo,"Flick football table game (1920s, England): flick disc-shaped players to score goals on a cloth pitch.",mind
+sudoku,Logic number-placement puzzle on 9x9 (WSC world championships since 2006); popularized by Nikoli and Wayne Gould from 1980s.,mind
 sumo,"Japanese national sport of pushing, throwing or forcing the opponent out of the ring; six annual honbasho.",combat
 sungka,Filipino mancala played with cowrie shells on a wooden board.,mind
 super-smash-bros,Nintendo's platform-fighting series (Super Smash Bros. Ultimate) with a large grassroots and professional tournament scene.,mind;esports
@@ -878,6 +979,8 @@ t-rex-racing,"Novelty races where people in inflatable T-rex costumes run, popul
 table-football,Table soccer (foosball) played on a miniature pitch with rod-mounted figures; world championships exist.,ball;precision
 table-shuffleboard,"Sliding pucks down a waxed table into scoring zones, played in bars and leagues (deck and table).",precision
 table-tennis,Racket sport with a small ball over a net on a table; Olympic since 1988 and one of the fastest ball sports.,racquet
+tablut,Viking tafl game from Sweden (Hnefatafl family) reconstructed from the 18th-century Linnaeus notes.,mind
+taboo,"Party guessing game (1989): describe a word without forbidden words, teammates guess in a time limit.",mind
 taekkyeon,"Traditional Korean martial art with flowing kicks, trips and acrobatic movements, often performed to music.",combat
 taekwondo,"Korean martial art emphasizing high, fast kicking techniques; Olympic since Sydney 2000 under WT rules.",combat
 taekwondo-itf,"ITF taekwondo: the traditional style with hand techniques and patterns (tul), distinct from the Olympic WT style.",combat
@@ -894,6 +997,7 @@ tejo,Colombian target sport of throwing a metal disc to hit gunpowder-filled mec
 tekken,Bandai Namco's 3D 1-vs-1 fighting game series; the Tekken World Tour crowns a world champion every year.,mind;esports
 telemark-skiing,Skiing discipline combining alpine and Nordic elements: free-heel downhill skiing with a telemark lunge at each turn.,winter
 ten-pin-bowling,Indoor sport in which players roll a ball to knock down ten pins; professional tours run by the Professional Bowlers Association.,precision
+tenjiku-shogi,"16x16 astronomical shogi (tenjiku = heavenly symbols), largest historical shogi.",mind
 tennis,"Racket sport over a net on hard, clay or grass courts; the Grand Slams are Wimbledon and the US, French and Australian Opens.",racquet
 tent-pegging,Equestrian sport where riders at full gallop pick up a small ground target (peg) with a sword or lance.,equestrian
 teqball,Football-based sport of bouncing a ball over a curved table without hands; FITEQ world championships.,ball
@@ -901,9 +1005,12 @@ teqvoly,"Teqball variant played like volleyball over a curved table using feet, 
 test-cricket,"Cricket's longest format, up to five days per match with two innings per side; considered the ultimate test.",ball
 texas-hold-em-poker,The most popular poker variant: two hole cards plus five community cards with betting rounds; the WSOP main event.,mind
 thang-ta,"Martial art of the Manipur region in India with sword, spear and dagger techniques.",combat;traditional
+the-resistance,Social-deduction game (2009) of resistance members vs spies on mission success/failure votes.,mind
 thoroughbred-racing,"Horse racing of Thoroughbred horses at the gallop, flat or over jumps; Kentucky Derby and Royal Ascot are famous.",equestrian
+three-check-chess,Standard chess with the added win condition of giving check three times.,mind
 three-cushion-billiards,Expert carom billiards discipline: the cue ball must contact a cushion before the second object ball.,precision
 throwball,"Indian court ball game of throwing over a net, played widely as a women's sport; national championships.",ball
+tic-tac-toe,3x3 noughts-and-crosses for two players; solved game (draw with perfect play); world championships exist humorously.,mind
 tipcat,"Flicked wooden 'cat' game (tipcat), a precursor of baseball, played in England and South Asia.",traditional
 toe-wrestling,British novelty wrestling of locked big toes in a ring; world championships held at Fenny Bentley.,traditional
 toguz-korgool,Kyrgyz 9x9 sowing board game (mancala family) with 81 pebbles; World Nomad Games discipline.,mind
@@ -940,11 +1047,15 @@ triathlon,Swim-bike-run endurance race from sprint to Ironman distance; Olympic 
 tricking,"Acrobatic sport combining martial arts kicks, gymnastics flips and trampoline skills, often outdoors.",gymnastics
 tricklining,"Slacklining with acrobatic tricks: flips, bounces and poses on a tensioned webbing.",gymnastics
 triple-jump,"Horizontal jump event combining hop, bound and jump into the sand pit; Olympic since 1896.",athletics
+trontza,Two-man crosscut sawing: pairs saw through a log of set diameter; fastest cut wins.,traditional;strength
+truco,South American trick-taking/bluffing game with a Spanish 40-card deck (values envido/truco); extremely popular in Argentina/Brazil/Uruguay.,mind
 tug-of-war,Team rope-pull strength contest of eight per side; TWIF world championships and former Olympic sport.,traditional;strength
 tumbling,Acrobatic gymnastics along a sprung track; world championship and World Games discipline.,gymnastics
 tuna-throwing,Australian festival event where teams throw a frozen tuna over a bar at the Tunarama in Port Lincoln.,traditional
 turkey-bowling,"Bowling variant using a frozen turkey as the ball, popular at US charity events.",ball;traditional;precision
+twister,"Physical party game (Charles Foley/Harold Funtime 1966): colored dots on a mat, spinner calls limbs; Guinness-record gatherings.",mind
 two-foot-high-kick,"Inuit two-foot high kick (akratcheak): leap, touch a hanging target with both feet, land on both.",traditional
+tzaar,"Stacking/height game on a triangular board, third GIPF-project game; Kris Burm 2005, world championship.",mind
 ulama,"Prehispanic Mesoamerican hip-ball game descended from the Aztec ullamaliztli, still played in Mexican communities.",ball;traditional
 ultimate,"Non-contact team sport played with a flying disc; players may not run with the disc and the game is self-refereed (Spirit of the Game, WFDF).",athletics
 ultimate-tazer-ball,"Team ball game with an electrified ball that players must carry, pass and score with.",ball;athletics
@@ -957,6 +1068,8 @@ underwater-rugby,Three-dimensional underwater team ball sport of getting the sal
 underwater-target-shooting,"Spearfishing at stationary targets underwater, scored by accuracy and target zones.",water;precision
 unicycle-hockey,"Team hockey played mounted on unicycles, five per side without body checking; IUF world championships.",cycling
 unicycle-polo,"Polo played on unicycles with mallets on a smaller pitch, requiring balance and stick skill.",ball;cycling
+uno,"Shedding card game for 2-10 players (Merle Robbins 1971): match color/number/symbol, action cards (Skip, Reverse, Draw Two, Wild).",mind
+untziketariak,Milk-can carrying race: runners carry two 41 kg milk cans (one per hand) over a course; classic Basque endurance test.,traditional;strength
 va-a,Polynesian outrigger canoe sprint (V1 to V12) over 500 m and 1000 m; ICF discipline at the Pacific Games.,water
 valencian-pilota,Traditional Valencian handball variant played against a wall (frontó) or in a trinquart court; professional modalities include escala i corda.,ball;traditional
 valorant,Tactical esports shooter from Riot Games with character abilities; world championship circuit.,mind;esports
@@ -995,6 +1108,7 @@ wheelchair-handball,"Handball adapted for wheelchair athletes, played on a small
 wheelchair-racing,Para athletics track discipline in which athletes race in lightweight racing wheelchairs over 100 m to the marathon.,athletics
 wheelchair-rugby,"Paralympic coed contact sport for quadriplegic athletes mixing rugby, basketball and handball elements.",ball
 wheelchair-tennis,Paralympic tennis in which the ball may bounce twice before being hit; ITF majors include Wimbledon.,racquet
+whist,"Classic trick-taking card game for four in two partnerships, ancestor of bridge; plain, bid, etc.",mind
 whitewater-rafting-race,Competitive raft racing down whitewater courses; IRF Rafting World Championships.,water
 wife-carrying,"Obstacle race carrying a partner, world championships against the clock at Sonkajarvi, Finland since 1992.",traditional;athletics
 wildwater-canoeing,"Canoeing or kayaking down fast-flowing whitewater rivers, racing through rapids.",water
@@ -1021,11 +1135,15 @@ worm-charming,"Vibrating worms from a marked plot of earth in the shortest time;
 wrestling,"Olympic combat sport of grappling, throws and pins in weight classes; freestyle and Greco-Roman styles.",combat
 wushu-sanda,"Full-contact Chinese wushu sparring with punches, kicks and throws; world championships exist.",combat
 wushu-taolu,"Choreographed wushu forms with acrobatic jumps and weapon routines, judged like gymnastics.",gymnastics
+wythoff-s-game,Two-pile Nim variant: take from one pile or equally from both; positions are Wythoff pairs (Beatty sequences).,mind
 xare,Basque pelota variant (joko garbi) played with a basket (xare) on the hand; extremely fast.,ball;racquet
 xiangqi,Chinese chess on a 9x10 board with cannons and a river; one of the most played board games in the world.,mind
 xikunahati,Head-only football (xikunahati/jikunahati) of Brazil's indigenous peoples; World Indigenous Games event.,ball;traditional
 yak-racing,"Traditional races with decorated yaks at festivals in Mongolia, Kyrgyzstan and China.",traditional
 yukigassen,Japanese competitive snowball fight of seven-a-side teams played on a snow court with helmets.,winter;traditional
+zaku-lasterka,"Sack race: competitors run a course inside 81 kg grain sacks (individual or relay), a staple of Basque village festivals.",traditional;strength
+zaldi-probak,Horse-drawn stone pulling: one or two horses drag a heavy stone sledge over a course; timed or distance contests.,traditional;strength
+zertz,"Marble game on a shrinking board, fourth GIPF-project game; Kris Burm 1998.",mind
 zhorgo-salysh,Kyrgyz endurance horse race ridden by child jockeys; World Nomad Games discipline (11 km in 2026).,equestrian
 zorbing,Rolling downhill inside a giant transparent plastic sphere for fun at commercial adventure sites.,traditional
 zorhana,"Zorkhana tradition of Azerbaijan and Iran (wrestling, strength feats, ball game); World Nomad Games discipline.",combat;traditional
