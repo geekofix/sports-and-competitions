@@ -46,4 +46,4 @@ Originally the pins were thin dowels — one-inch-thick pins resembling actual c
 - [International Candlepin Bowling Association (ICBA)](https://www.candlepin.org/) — international governing body since 1986; rules, tournaments, member associations
 - [ICBA Rules & Regulations](https://www.candlepin.org/icba-rules-regulations) — official pin and deadwood rules
 - [ICBA Tournaments](https://www.candlepin.org/tournaments) — annual adult (men's and women's) and youth championships
-- Related on this site (group `bowling-variants`): [bowling](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [duckpin bowling](duckpin-bowling.html)
+- Related on this site: [bowling](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [duckpin bowling](duckpin-bowling.html)

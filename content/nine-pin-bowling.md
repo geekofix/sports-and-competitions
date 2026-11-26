@@ -28,4 +28,4 @@ Nine-pin bowling developed from medieval European kegeln games played in guild h
 - [World Ninepin Bowling Association (WNBA)](https://www.world-ninepins.org/) — world governing body within World Bowling; rules, World Championships and rankings
 - [World Bowling](https://www.worldbowling.org/) — umbrella world federation for all bowling disciplines
 - [Nine-pin bowling — Wikipedia](https://en.wikipedia.org/wiki/Nine-pin_bowling) — history, scoring and the nine-pin diamond
-- Related on this site (group `bowling-variants`): [bowling](bowling.html) — overview of bowling disciplines, [ten-pin bowling](ten-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the other pin-bowling variants
+- Related on this site: [bowling](bowling.html) — overview of bowling disciplines, [ten-pin bowling](ten-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the other pin-bowling variants

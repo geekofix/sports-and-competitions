@@ -31,4 +31,4 @@ Bowling-like games with balls and pins are documented in ancient Egypt, and the 
 - [United States Bowling Congress (USBC)](https://www.bowl.com/) — national governing body; playing rules, leagues and tournaments
 - [PBA](https://www.pba.com/) and [PWBA](https://www.pwba.com/) — professional men's and women's tours
 - [Darts](darts.html), [Curling](curling.html) and [Bowling](bowling.html) on this site — other precision target sports
-- Related on this site (group `bowling-variants`): [bowling](bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the other pin-bowling variants
+- Related on this site: [bowling](bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the other pin-bowling variants

@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-26 (related-groups cross-linking pass started: group bowling-variants (bowling, ten-pin, nine-pin, candlepin, duckpin) cross-linked in text + Important Links; 915 entries: 915/915 deepened after batch 9 (19 pages: candlepin bowling, duckpin bowling, demolition derby, free solo climbing, freestyle frisbee, guts frisbee, international rules football, laser tag, powerchair hockey, rallycross, rodeo, squash tennis, stock car racing, street fighter, street skateboarding, super smash bros, tekken, tree climbing, vert skateboarding — 40 Commons images, image cache 1241), 0 skeleton entries open; Pages build green).
+Last updated: 2026-11-26 (related-groups cross-linking pass started: group bowling-variants (bowling, ten-pin, nine-pin, candlepin, duckpin) cross-linked in text + Important Links (group keys stay internal to data/related_groups.md, not in page text); 915 entries: 915/915 deepened after batch 9 (19 pages: candlepin bowling, duckpin bowling, demolition derby, free solo climbing, freestyle frisbee, guts frisbee, international rules football, laser tag, powerchair hockey, rallycross, rodeo, squash tennis, stock car racing, street fighter, street skateboarding, super smash bros, tekken, tree climbing, vert skateboarding — 40 Commons images, image cache 1241), 0 skeleton entries open; Pages build green).
 
 ## Project intent — where suggestions come from
 

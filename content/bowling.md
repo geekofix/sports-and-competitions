@@ -47,4 +47,4 @@ Bowling descends from ancient pin games — polished stone balls and pins have b
 - [United States Bowling Congress (USBC)](https://www.bowl.com/) — U.S. national governing body; official rules of play, sanctioned championships
 - [PBA Tour](https://www.pba.com/) — top men's professional tour; majors including the PBA World Championship; PBA50 senior tour
 - [PWBA](https://pwba.com/) — top women's professional tour; U.S. Women's Open, PWBA Tour Championship
-- Related on this site: [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the pin-bowling variants (group `bowling-variants`)
+- Related on this site: [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html), [duckpin bowling](duckpin-bowling.html) — the pin-bowling variants

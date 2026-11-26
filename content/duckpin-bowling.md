@@ -48,4 +48,4 @@ Two women stand out in the history: Toots Barger of Baltimore, ranked the NDBC's
 
 - [National Duckpin Bowling Congress (NDBC)](https://www.ndbc.org/) — US governing body since 1927; national tournament, rankings, Hall of Fame
 - [WNDA — Women's National Duckpin Association](http://www.wndatour.com/) — women's professional duckpin tour
-- Related on this site (group `bowling-variants`): [bowling](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html)
+- Related on this site: [bowling](bowling.html), [ten-pin bowling](ten-pin-bowling.html), [nine-pin bowling](nine-pin-bowling.html), [candlepin bowling](candlepin-bowling.html)
