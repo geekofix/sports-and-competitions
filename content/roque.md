@@ -27,4 +27,4 @@ Queimada — "burnt" — is the classic Brazilian schoolyard dodgeball variant, 
 ## Important Links
 
 - [Dodgeball](dodgeball.html) on this site — the organized team sport roque/queimada belongs to
-- Related on this site: [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html) and [World Chase Tag](world-chase-tag.html) — the tag and chase team games
+- Related on this site: [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html), [World Chase Tag](world-chase-tag.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html)(world-chase-tag.html) — the tag and chase team games

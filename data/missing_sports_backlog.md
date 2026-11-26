@@ -14,57 +14,7 @@ How to work through it:
 - Each group notes the matching group in `data/related_groups.md` (in backticks) so the new entry
   can be cross-linked later; NEW group keys are proposals to add to `data/related_groups.md`.
 - Ethics: never add anything from the exclusion list at the bottom (README policy).
-- Groups 1-3 were processed on 2026-11-26 (43 entries added to the collection); their sections were removed.
-
-## Group 4 — Central Asian nomad games (NEW `nomad-games` (rel. `equestrian`, `combat-sports`, `mind-games`, `multi-sport-events`))
-
-- Salburun — Kyrgyz spear-throwing from horseback, World Nomad Games
-- Shagai (Ordo) — knucklebone throwing at a target bone, Mongolia/Kyrgyzstan
-- Kunan Chabysh — short-distance horse race, Kyrgyz national games
-- Zhorgo Salysh — endurance horse race, Kyrgyzstan
-- Cirit — Turkish equestrian javelin game, IRF world championships
-- Zorhana — Central Asian equestrian game
-- Toguz Korgool — Kyrgyz 9x9 board game, World Nomad Games
-- Mongolian Wrestling (Bökh) — Naadam wrestling, UNESCO heritage
-- Naadam — Mongolian festival of the 'three manly games'
-- Mongolian Archery (Sur Kharvaa) — horseback archery, Naadam discipline
-- Mongolian Horse Racing — 25–100 km cross-country with child jockeys
-- Khuviin Tamir — Mongolian traditional sport
-- World Nomad Games — multi-sport event of nomadic peoples (Issyk-Kul)
-
-## Group 5 — South Asian traditional games (`tag-chase-games`, `folk-festival-games`, `mind-games`, `gymnastics-family`, `target-sports`)
-
-- Gilli Danda — stick-and-ball hitting game, cricket forerunner, India/Pakistan
-- Kancha — marble game, India
-- Pithoo — seven-stones variant, Pakistan/India
-- Gutte — five-stone juggling, India/Pakistan
-- Seven Stones — knock over and rebuild a stone pile, South Asia
-- Maram Pitti — Pakistani ball game
-- Chindro (Stapoo) — stone-sliding hopscotch variant
-- Tipcat — flicked wooden 'cat', England/India
-- Ekka Dokka — Bengali hopscotch variant
-- Circle Kabaddi — circular kabaddi variant, Punjab
-- Langdi — kabaddi variant with a long line
-- Kathi Khela — Bengal stick game
-- Atya Patya — traditional Indian game (4th c. BC sources)
-- Mallakhamb — Indian pole/rope climbing and wrestling
-- Dhanurveda — ancient Indian archery tradition
-
-## Group 6 — Sowing & mancala board games (`mind-games`)
-
-- Oware (Wari) — West African/Ghanaian sowing game, Oware Society tournaments
-- Kalah — 1940 US tournament variant, world championships
-- Bao — East African 4x8 mancala (Tanzania/Kenya)
-- Toguzkumalak — Kazakh/Kyrgyz board game, world championships
-- Sungka — Filipino mancala
-- Congkak — Malaysian/Indonesian mancala
-- Omweso — Ugandan board game, world championships
-- Dara — West African mancala
-- Ayoayo — Yoruba mancala
-- Morabaraba — Southern African three-in-a-row game
-- Dash Guti — Ethiopian board game
-- Seega — ancient Egyptian sowing game
-- Latrones — Roman/Romanian 'bandits' game
+- Groups 1-3 were processed on 2026-11-26 (43 entries added); groups 4-6 on 2026-11-26 (40 entries added; 'Mongolian Wrestling' dropped as duplicate of the existing `bokh` entry). Their sections were removed.
 
 ## Group 7 — Missing martial arts & combat styles (`combat-sports`)
 
