@@ -1,9 +1,50 @@
 ## Basic Information
 
+Para biathlon combines cross-country skiing with rifle shooting for athletes with a physical or visual impairment; it has been a Paralympic sport since Lillehammer 1988 (physical impairments), visual impairment was added at Albertville 1992 and women's events at Lillehammer 1994 (Wikipedia, n.d.-b). Governance passed from the IPC to the International Biathlon Union — jointly with FIS from July 2022 and solely since 2024 (International Biathlon Union, n.d.-b).
+
+At the Milano Cortina 2026 Paralympics, 18 medal events were held at the Tesero Cross-Country Skiing Stadium, with China topping the table (15 medals, 8 gold) and Ukraine next; up to 180 athletes from 21 teams competed (International Biathlon Union, n.d.-c; Olympics, n.d.). Among today's stars, the women come first: Oksana Masters (pictured), competing for the United States, claimed her 10th Paralympic gold and 20th medal overall in the sitting sprint at Milano Cortina 2026, adding three cross-country golds and a bronze; on the men's side Cai Jiayun of China became only the second para biathlete ever to win all three of his starts at a single Games (2026, March; Wikipedia, n.d.-a).
+
+![Oksana Masters at the Sochi 2014 Paralympics, rifle range in the background](https://commons.wikimedia.org/wiki/Special:Redirect/file/Oksana_Masters.JPG?width=400)
+
+*Figure: Yakudza. (2014, March 16). Oksana Masters at the Sochi 2014 Paralympics, rifle range in the background [Photograph]. Wikimedia Commons. GFDL 1.2. https://commons.wikimedia.org/wiki/File:Oksana_Masters.JPG*
+
 ## Rules
+
+The International Biathlon Union rules apply with para classes: vision-impaired athletes compete as NS1–NS3 with a sighted guide and an acoustic aiming system, standing athletes as LW2–LW9, and sitting athletes as LW10–LW12 on a sit-ski (International Biathlon Union, n.d.-c; Wikipedia, n.d.-b).
+
+Events are the sprint (7.5 km, three shooting bouts), individual (12.5 km, four bouts), middle distance (10 km) and pursuit; athletes shoot prone from 10 m with a .22 air/CO2 rifle (five-round magazine) at 13 mm targets (21 mm for vision-impaired classes), and every miss costs a 150 m penalty loop (or a time penalty in some formats) (International Biathlon Union, n.d.-c; Wikipedia, n.d.-b). Men and women race separately in each class, and guides in vision-impaired events receive dual medals (International Biathlon Union, n.d.-c).
 
 ## History
 
+Para biathlon grew out of Scandinavian hunting traditions and military winter sport; able-bodied biathlon became an Olympic sport at Squaw Valley 1960, and the para version followed at Lillehammer 1988 (Wikipedia, n.d.-b). The most decorated athletes are Vitaliy Lukyanenko of Ukraine (12 Paralympic medals including eight gold) and Germany's Verena Bentele (six medals including five gold) (Wikipedia, n.d.-b; Wikipedia, n.d.-d).
+
+The dedicated Para Biathlon World Championships began in 2024 at Prince George, Canada, followed by Pokljuka 2025, while the Para Biathlon World Cup ran in 2024/25 at Vuokatti, Val di Fiemme and Torsby; Bentele and her fellow medalists are pictured on the women's vision-impaired podium at Vancouver 2010 (International Biathlon Union, n.d.-a).
+
+![Medalists of the women's visually impaired biathlon at Vancouver 2010, with their guides, who also receive medals](https://commons.wikimedia.org/wiki/Special:Redirect/file/Medalists_for_the_Women%27s_Visually_Impaired_Biathlon,_their_guides_also_get_medals%21.jpg?width=460)
+
+*Figure: smilygrl. (2010, March 17). Medalists of the women's visually impaired biathlon at Vancouver 2010, with their guides, who also receive medals [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Medalists_for_the_Women%27s_Visually_Impaired_Biathlon,_their_guides_also_get_medals%21.jpg*
+
 ## Sources
 
+- International Biathlon Union. (n.d.-a). *Calendar — Para Biathlon World Cup 2024/25 (Vuokatti, Val di Fiemme, Torsby finals) and Para Biathlon World Championships (Prince George 2024, Pokljuka 2025)*. Retrieved November 25, 2026, from https://www.biathlonworld.com/calendar
+- International Biathlon Union. (n.d.-b). *International Biathlon Union (IBU) — governs biathlon and, since 2024, Para biathlon (governance passed from the IPC in July 2022, initially jointly with FIS)*. Retrieved November 25, 2026, from https://www.biathlonworld.com/
+- International Biathlon Union. (n.d.-c). *Para biathlon — classes NS1–NS3 (vision impairment, with sighted guide), standing LW2–LW9 and sitting LW10–LW12; events sprint, individual, middle distance, pursuit*. Retrieved November 25, 2026, from https://www.biathlonworld.com/para-biathlon
+- International Biathlon Union. (2026, March). *Para Biathlon Delivers Drama, Dominance and Historic Firsts at Milano Cortina 2026 — Oksana Masters' 10th gold/20th medal, Cai Jiayun wins all three starts, China 15 medals (8 gold) at Tesero*. Retrieved November 25, 2026, from https://www.biathlonworld.com/news/para-biathlon-delivers-drama-dominance-and-historic-firsts-at-milano-cortina/1BeUYhYpD291vjQ4cnwPjL
+- Olympics. (n.d.). *Para biathlon results — Milano Cortina 2026 Paralympic Winter Games (Tesero Cross-Country Skiing Stadium, 18 medal events)*. Retrieved November 25, 2026, from https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/bth
+- Wikipedia. (n.d.-a). *Oksana Masters*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Oksana_Masters
+- Wikipedia. (n.d.-b). *Para biathlon*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Para_biathlon
+- Wikipedia. (n.d.-c). *Para biathlon at the 2026 Winter Paralympics*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Para_biathlon_at_the_2026_Winter_Paralympics
+- Wikipedia. (n.d.-d). *Verena Bentele*. Retrieved November 25, 2026, from https://en.wikipedia.org/wiki/Verena_Bentele
+
+### Figure Index
+
+- Yakudza. (2014, March 16). *Oksana Masters at the Sochi 2014 Paralympics, rifle range in the background* [Photograph]. Wikimedia Commons. Retrieved November 25, 2026, from https://commons.wikimedia.org/wiki/File:Oksana_Masters.JPG (GFDL 1.2)
+- smilygrl. (2010, March 17). *Medalists of the women's visually impaired biathlon at Vancouver 2010, with their guides, who also receive medals* [Photograph]. Wikimedia Commons. Retrieved November 25, 2026, from https://commons.wikimedia.org/wiki/File:Medalists_for_the_Women%27s_Visually_Impaired_Biathlon,_their_guides_also_get_medals%21.jpg (CC BY-SA 2.0)
+
 ## Important Links
+
+- [International Biathlon Union (IBU)](https://www.biathlonworld.com/) — governs Para biathlon since 2024
+- [IBU — Para biathlon](https://www.biathlonworld.com/para-biathlon) and [calendar](https://www.biathlonworld.com/calendar) — classes, World Cup, World Championships
+- [IPC — Para biathlon](https://www.paralympic.org/biathlon) — Paralympic programme and results
+- [Olympics — Milano Cortina 2026 Para biathlon results](https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/bth)
+- Related on this site: [biathlon](biathlon.html), [para-cross-country-skiing](para-cross-country-skiing.html), [cross-country-skiing](cross-country-skiing.html), [para-shooting](para-shooting.html)
