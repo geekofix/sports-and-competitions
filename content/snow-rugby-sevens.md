@@ -1,6 +1,6 @@
 ## Basic Information
 
-Snow rugby sevens is the winter adaptation of rugby sevens played on a snow-covered pitch: teams of six or seven players contest an oval ball under the World Rugby sevens laws, with Rugby Europe staging a Snow Rugby Sevens European Championship since 2019 (Rugby Europe, n.d.). Both women's and men's national teams compete, and the 2019 edition in Moscow, Russia, was played six-a-side, while events staged in Finland used the full seven-a-side line-up (Wikipedia, n.d.-b). Because sevens is the fastest form of rugby union, the snow variant keeps short halves and a high tempo on a smaller, packed-snow field.
+Snow rugby sevens is the winter adaptation of rugby sevens played on a snow-covered pitch: teams of six or seven players contest an oval ball under the World Rugby sevens laws, with Rugby Europe staging a Snow Rugby Sevens European Championship since 2019 (Rugby Europe, n.d.). Both women's and men's national teams compete, and the 2019 edition in Moscow, Russia, was played six-a-side, while events staged in Finland used the full seven-a-side line-up (Wikipedia, n.d.-b). Because sevens is the fastest form of rugby union, the snow variant keeps short halves and a high tempo on a smaller, packed-snow field. Snow rugby sevens is the winter sevens format, combining [Rugby Sevens](rugby-sevens.html) with [Snow Rugby](snow-rugby.html) within the rugby-codes family listed under Important Links.
 
 ![Asad Ziar with the snow rugby players](https://commons.wikimedia.org/wiki/Special:Redirect/file/Asad_Ziar_,_With_The_Snow_Rugby_Players.JPG?width=480)
 
@@ -40,6 +40,4 @@ Rugby sevens originated at Melrose Rugby Club in Scotland, which staged the firs
 
 - [World Rugby](https://www.world.rugby/) — world governing body; Laws of the Game and sevens regulations
 - [Rugby Europe](https://rugbyeurope.eu/) — Snow Rugby Sevens European Championship and sevens circuit
-- [Rugby sevens](rugby-sevens.html) on this site — the summer sevens format
-- [Rugby union](rugby-union.html) on this site — the 15-a-side parent game
-- [Snow rugby](snow-rugby.html) on this site — the full-contact snow variant
+- Related on this site: [Rugby Union](rugby-union.html), [Rugby League](rugby-league.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Sevens](rugby-league-sevens.html), [Rugby League Nines](rugby-league-nines.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html) and [Walking Rugby](walking-rugby.html) — the rugby codes and variants

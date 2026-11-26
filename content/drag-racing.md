@@ -1,6 +1,6 @@
 ## Basic Information
 
-Drag racing is a straight-line acceleration contest in which two vehicles race side by side over a measured 1,000-foot (305 m) course from a standing start, with the first across the finish line \u2014 or the one closer to its dial-in in handicap classes \u2014 winning (NHRA, n.d.-b). In the United States the sport is governed by the National Hot Rod Association (NHRA), founded by Wally Parks in 1951, whose 2026 Mission Foods Drag Racing Series marked the 71st season and the NHRA's 75th anniversary with 20 national events (NHRA, n.d.-b). The 2026 champions were crowned at the In-N-Out Burger NHRA Finals in Pomona, California: Shawn Langdon (Top Fuel, his second title), J.R. Todd (Funny Car, his second), Dallas Glenn (Pro Stock, his second straight) and Gaige Herrera (Pro Stock Motorcycle) \u2014 while 16-time Funny Car champion John Force retired after the 2025 season (NHRA, n.d.-a). Internationally, the FIA also sanctions professional drag racing (FIA, n.d.). At the end of 2026, the leading current drivers are the 2026 NHRA champions named above, with Top Fuel world champion Shawn Langdon and Funny Car champion J.R. Todd leading the fields (NHRA, n.d.-a) — the sections below cover rules, history and more.
+Drag racing is a straight-line acceleration contest in which two vehicles race side by side over a measured 1,000-foot (305 m) course from a standing start, with the first across the finish line — or the one closer to its dial-in in handicap classes — winning (NHRA, n.d.-b). In the United States the sport is governed by the National Hot Rod Association (NHRA), founded by Wally Parks in 1951, whose 2026 Mission Foods Drag Racing Series marked the 71st season and the NHRA's 75th anniversary with 20 national events (NHRA, n.d.-b). The 2026 champions were crowned at the In-N-Out Burger NHRA Finals in Pomona, California: Shawn Langdon (Top Fuel, his second title), J.R. Todd (Funny Car, his second), Dallas Glenn (Pro Stock, his second straight) and Gaige Herrera (Pro Stock Motorcycle) — while 16-time Funny Car champion John Force retired after the 2025 season (NHRA, n.d.-a). Internationally, the FIA also sanctions professional drag racing (FIA, n.d.). At the end of 2026, the leading current drivers are the 2026 NHRA champions named above, with Top Fuel world champion Shawn Langdon and Funny Car champion J.R. Todd leading the fields (NHRA, n.d.-a) — the sections below cover rules, history and more.
 
 ![Drag racing cars side by side at Firebird Motorsports Park](https://commons.wikimedia.org/wiki/Special:Redirect/file/Drag_Racing_Cars.jpg?width=560)
 
@@ -14,7 +14,7 @@ Women compete as drivers at every level of drag racing, including the NHRA's top
 
 ## Rules
 
-Professional drag racing follows the NHRA rulebook (NHRA, n.d.-b). The two lanes are 1,000 ft long, and the race starts from a "Christmas tree" starting light system: after both cars stage, the green light follows a 0.4-second (Pro) or 0.5-second (Sportsman) delay, and a red light before green \u2014 a foul start \u2014 loses the round (NHRA, n.d.-b). The professional classes are Top Fuel (supercharged nitromethane dragsters covering 1,000 ft in under 3.7 seconds at more than 330 mph), Funny Car (production-based bodies with nitro-burning engines, about 3.9 seconds), Pro Stock (naturally aspirated, 6.5-second cars) and Pro Stock Motorcycle (NHRA, n.d.-b). Competition uses elimination rounds within the Countdown to the Championship playoff system, which reseeds the top ten after a designated event (NHRA, n.d.-b). Bracket (handicap) racing lets slower cars start earlier using a dial-in; running quicker than the dial-in is a "breakout" and loses (NHRA, n.d.-b). Safety rules require roll cages, fire suits, helmets and parachutes above set speeds (NHRA, n.d.-b). Men and women compete in the same classes \u2014 Shirley Muldowney was the first woman licensed in Top Fuel and won three titles, and women such as Alexis DeJoria, Erica Enders and Leah Pruett have won national events (Wikipedia, n.d.).
+Professional drag racing follows the NHRA rulebook (NHRA, n.d.-b). The two lanes are 1,000 ft long, and the race starts from a "Christmas tree" starting light system: after both cars stage, the green light follows a 0.4-second (Pro) or 0.5-second (Sportsman) delay, and a red light before green — a foul start — loses the round (NHRA, n.d.-b). The professional classes are Top Fuel (supercharged nitromethane dragsters covering 1,000 ft in under 3.7 seconds at more than 330 mph), Funny Car (production-based bodies with nitro-burning engines, about 3.9 seconds), Pro Stock (naturally aspirated, 6.5-second cars) and Pro Stock Motorcycle (NHRA, n.d.-b). Competition uses elimination rounds within the Countdown to the Championship playoff system, which reseeds the top ten after a designated event (NHRA, n.d.-b). Bracket (handicap) racing lets slower cars start earlier using a dial-in; running quicker than the dial-in is a "breakout" and loses (NHRA, n.d.-b). Safety rules require roll cages, fire suits, helmets and parachutes above set speeds (NHRA, n.d.-b). Men and women compete in the same classes — Shirley Muldowney was the first woman licensed in Top Fuel and won three titles, and women such as Alexis DeJoria, Erica Enders and Leah Pruett have won national events (Wikipedia, n.d.).
 
 ## History
 
@@ -23,7 +23,7 @@ Drag racing grew out of postwar Southern California hot-rodding, with illegal st
 ## Sources
 
 - FIA. (n.d.). *FIA drag racing*. Retrieved November 22, 2026, from https://www.fia.com/
-- NHRA. (n.d.-a). *2026 NHRA Mission Foods Drag Racing Series \u2014 champions*. Retrieved November 22, 2026, from https://www.nhra.com/
+- NHRA. (n.d.-a). *2026 NHRA Mission Foods Drag Racing Series — champions*. Retrieved November 22, 2026, from https://www.nhra.com/
 - NHRA. (n.d.-b). *NHRA rulebook and competition guide*. Retrieved November 22, 2026, from https://www.nhra.com/
 - Wikipedia. (n.d.). *Drag racing*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Drag_racing
 
@@ -34,6 +34,6 @@ Drag racing grew out of postwar Southern California hot-rodding, with illegal st
 
 ## Important Links
 
-- [NHRA](https://www.nhra.com/) \u2014 world governing body in the U.S.; rulebook, 2026 series and champions
-- [FIA \u2014 Drag racing](https://www.fia.com/) \u2014 international federation; European drag racing events
+- [NHRA](https://www.nhra.com/) — world governing body in the U.S.; rulebook, 2026 series and champions
+- [FIA — Drag racing](https://www.fia.com/) — international federation; European drag racing events
 - [Formula One](formula-one.html), [World Rally Championship](world-rally-championship.html) and [24 Hours of Le Mans](24-hours-of-le-mans.html) on this site

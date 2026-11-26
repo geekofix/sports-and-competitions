@@ -4,7 +4,7 @@ Wallyball — also called rebound volleyball, a portmanteau of "wall" and "volle
 
 ![A racquetball court — the walled arena on which wallyball is played](https://commons.wikimedia.org/wiki/Special:Redirect/file/Racquetball_-_Schl%C3%A4ger_und_Ball.jpg?width=480)
 
-*Figure: Preiselbeere. (2007, February 18). Racquetball — Schl\u00e4ger und Ball: a racquet and ball on the floor of a racquetball court, the walled 40 × 20 × 20 ft arena in which wallyball is played [Photograph]. Wikimedia Commons. CC BY-SA 2.0-DE. https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg*
+*Figure: Preiselbeere. (2007, February 18). Racquetball — Schläger und Ball: a racquet and ball on the floor of a racquetball court, the walled 40 × 20 × 20 ft arena in which wallyball is played [Photograph]. Wikimedia Commons. CC BY-SA 2.0-DE. https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg*
 
 ## Rules
 
@@ -22,7 +22,7 @@ Joe Garcia devised wallyball at the Calabasas Racquetball Club in 1979 while loo
 
 ### Figure Index
 
-- Preiselbeere. (2007, February 18). *Racquetball — Schl\u00e4ger und Ball* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg (CC BY-SA 2.0-DE)
+- Preiselbeere. (2007, February 18). *Racquetball — Schläger und Ball* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Racquetball_-_Schl%C3%A4ger_und_Ball.jpg (CC BY-SA 2.0-DE)
 
 ## Important Links
 

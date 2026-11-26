@@ -1,6 +1,6 @@
 ## Basic Information
 
-Rugby league nines is a shortened, festival version of rugby league played with nine players per side instead of 13; it is governed internationally by the International Rugby League and is popular at school, social and workplace tournaments because a full day of games can be completed in one weekend (International Rugby League, n.d.; Wikipedia, n.d.-a). The flagship event was the Downer Rugby League World Cup 9s, held in Sydney in October 2019 with 12 men's national teams and four women's teams at Bankwest Stadium, won by Australia over New Zealand in a controversial final (NRL, 2019; Wikipedia, n.d.-a). Men and women play under the same nines format in their own tournaments (Wikipedia, n.d.-a).
+Rugby league nines is a shortened, festival version of rugby league played with nine players per side instead of 13; it is governed internationally by the International Rugby League and is popular at school, social and workplace tournaments because a full day of games can be completed in one weekend (International Rugby League, n.d.; Wikipedia, n.d.-a). The flagship event was the Downer Rugby League World Cup 9s, held in Sydney in October 2019 with 12 men's national teams and four women's teams at Bankwest Stadium, won by Australia over New Zealand in a controversial final (NRL, 2019; Wikipedia, n.d.-a). Men and women play under the same nines format in their own tournaments (Wikipedia, n.d.-a). League nines is the nine-a-side festival format of [Rugby League](rugby-league.html), within the rugby-codes family — [Rugby League Sevens](rugby-league-sevens.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html) and others listed under Important Links.
 
 ![Rugby league nines semi-final between RAF Rugby League and Rotterdam Nines, 2019](https://commons.wikimedia.org/wiki/Special:Redirect/file/Royal_Air_Force_Rugby_League_v_Rotterdam_Nines_2019,_Semi-Final.jpg?width=480)
 
@@ -34,6 +34,4 @@ Short-sided rugby league grew out of Australian pre-season tournaments in the 19
 
 - [International Rugby League (IRL)](https://www.internationalrugbyleague.com/) — world governing body for rugby league and its nines format
 - [NRL — World Cup 9s 2019 guide](https://www.nrl.com/news/2019/07/19/world-nines-2019-all-you-need-to-know/) — the last World Cup Nines
-- [Rugby League](rugby-league.html) on this site — the full 13-a-side game
-- [Rugby League Sevens](rugby-league-sevens.html) on this site — the seven-a-side variant
-- [Rugby Sevens](rugby-sevens.html) on this site — the rugby union sevens format
+- Related on this site: [Rugby Union](rugby-union.html), [Rugby League](rugby-league.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Sevens](rugby-league-sevens.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html), [Snow Rugby Sevens](snow-rugby-sevens.html) and [Walking Rugby](walking-rugby.html) — the rugby codes and variants

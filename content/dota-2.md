@@ -1,6 +1,6 @@
 ## Basic Information
 
-Dota 2 is a multiplayer online battle arena (MOBA) esports game developed and published by Valve Corporation, released in 2013, in which two teams of five players each destroy the opposing team's Ancient \u2014 the central structure in their base \u2014 while controlling heroes with unique abilities (Valve Corporation, n.d.). The competitive scene centers on Valve's annual world championship, The International (TI), whose prize pool is crowdfunded by the in-game Battle Pass. The International 2026 (TI 15) ran 13\u201323 August 2026 at the Shanghai Oriental Sports Center in China with 16 teams: a Swiss-stage group phase 13\u201316 August and playoffs 20\u201323 August (HLTV, 2026). In the grand final on 23 August 2026, Team Spirit beat Team Vision 3\u20132 to lift the Aegis of Champions for the third time, after 2021 and 2023; Team Falcons had won TI 2025 in Hamburg (HLTV, 2026). At the end of 2026, the leading current professional players are the members of Team Spirit's 2026 championship roster \u2014 Yaroslav "Yatoro" Naidenov, Stanislav "Larl" Sivtsev, Magomed "Collapse" Khalilov, Danil "not_me" Skutin and Daler "rue" Minakov \u2014 and the runners-up of Team Vision (HLTV, 2026; Liquipedia, n.d.) — the sections below cover rules, history and more.
+Dota 2 is a multiplayer online battle arena (MOBA) esports game developed and published by Valve Corporation, released in 2013, in which two teams of five players each destroy the opposing team's Ancient — the central structure in their base — while controlling heroes with unique abilities (Valve Corporation, n.d.). The competitive scene centers on Valve's annual world championship, The International (TI), whose prize pool is crowdfunded by the in-game Battle Pass. The International 2026 (TI 15) ran 13–23 August 2026 at the Shanghai Oriental Sports Center in China with 16 teams: a Swiss-stage group phase 13–16 August and playoffs 20–23 August (HLTV, 2026). In the grand final on 23 August 2026, Team Spirit beat Team Vision 3–2 to lift the Aegis of Champions for the third time, after 2021 and 2023; Team Falcons had won TI 2025 in Hamburg (HLTV, 2026). At the end of 2026, the leading current professional players are the members of Team Spirit's 2026 championship roster — Yaroslav "Yatoro" Naidenov, Stanislav "Larl" Sivtsev, Magomed "Collapse" Khalilov, Danil "not_me" Skutin and Daler "rue" Minakov — and the runners-up of Team Vision (HLTV, 2026; Liquipedia, n.d.) — the sections below cover rules, history and more.
 
 ![Players at The International 2018 in Rogers Arena, Vancouver](https://commons.wikimedia.org/wiki/Special:Redirect/file/The_International_2018_%2842379849940%29.jpg?width=560)
 
@@ -18,14 +18,14 @@ A Dota 2 match is played on a square map with two bases connected by three lanes
 
 ## History
 
-Dota 2 grew out of the Warcraft III mod Defense of the Ancients (DotA); Valve hired the mod's lead developer, IceFrog, and released Dota 2 as a free-to-play game in July 2013 (Wikipedia, n.d.). Valve staged the first The International in 2011 at Gamescom in Cologne with a one-million-dollar prize for the champions, setting the template for crowdfunded esports prize pools (Wikipedia, n.d.). The International became an annual event with rotating host cities \u2014 Seattle, Vancouver, Beijing, Bucharest, Los Angeles, and Hamburg in 2025 \u2014 and iconic moments such as OG's comeback victory at TI8 in 2018 and Team Spirit's back-to-back titles in 2021 and 2023 (HLTV, 2026). The 2026 edition in Shanghai marked TI 15 and Team Spirit's record third Aegis (HLTV, 2026).
+Dota 2 grew out of the Warcraft III mod Defense of the Ancients (DotA); Valve hired the mod's lead developer, IceFrog, and released Dota 2 as a free-to-play game in July 2013 (Wikipedia, n.d.). Valve staged the first The International in 2011 at Gamescom in Cologne with a one-million-dollar prize for the champions, setting the template for crowdfunded esports prize pools (Wikipedia, n.d.). The International became an annual event with rotating host cities — Seattle, Vancouver, Beijing, Bucharest, Los Angeles, and Hamburg in 2025 — and iconic moments such as OG's comeback victory at TI8 in 2018 and Team Spirit's back-to-back titles in 2021 and 2023 (HLTV, 2026). The 2026 edition in Shanghai marked TI 15 and Team Spirit's record third Aegis (HLTV, 2026).
 
 ## Sources
 
 - HLTV. (n.d.). *Dota 2 rankings and team pages*. Retrieved November 22, 2026, from https://www.hltv.org/rankings/dota2
-- HLTV. (2026). *The International 2026 \u2014 Team Spirit win their third Aegis*. Retrieved November 22, 2026, from https://www.hltv.org/
-- Liquipedia. (n.d.). *Dota 2 esports \u2014 tournaments and teams*. Retrieved November 22, 2026, from https://liquipedia.net/dota2
-- Valve Corporation. (n.d.). *Dota 2 \u2014 official game and esports pages*. Retrieved November 22, 2026, from https://www.dota2.com/
+- HLTV. (2026). *The International 2026 — Team Spirit win their third Aegis*. Retrieved November 22, 2026, from https://www.hltv.org/
+- Liquipedia. (n.d.). *Dota 2 esports — tournaments and teams*. Retrieved November 22, 2026, from https://liquipedia.net/dota2
+- Valve Corporation. (n.d.). *Dota 2 — official game and esports pages*. Retrieved November 22, 2026, from https://www.dota2.com/
 - Wikipedia. (n.d.). *Dota 2*. Retrieved November 22, 2026, from https://en.wikipedia.org/wiki/Dota_2
 
 ### Figure Index
@@ -35,7 +35,7 @@ Dota 2 grew out of the Warcraft III mod Defense of the Ancients (DotA); Valve hi
 
 ## Important Links
 
-- [Dota 2 official site](https://www.dota2.com/) \u2014 game, news and The International
-- [HLTV \u2014 Dota 2 rankings](https://www.hltv.org/rankings/dota2) \u2014 team and player rankings, TI 2026 results
-- [Liquipedia \u2014 Dota 2](https://liquipedia.net/dota2) \u2014 tournament brackets, rosters and results
+- [Dota 2 official site](https://www.dota2.com/) — game, news and The International
+- [HLTV — Dota 2 rankings](https://www.hltv.org/rankings/dota2) — team and player rankings, TI 2026 results
+- [Liquipedia — Dota 2](https://liquipedia.net/dota2) — tournament brackets, rosters and results
 - [E-sports](e-sports.html) and [Counter-Strike](counter-strike.html) on this site

@@ -4,7 +4,7 @@ Wakeboarding is the towed board sport in which a rider, strapped into a wakeboar
 
 ![Aurélie Godet of France wakeboarding at the 2017 European Championships](https://commons.wikimedia.org/wiki/Special:Redirect/file/Aur%C3%A9lie_Godet_at_2017_European_Championships.jpg?width=480)
 
-*Figure: WAKEBOARDER. (2017, November 1). Aur\u00e9lie Godet at 2017 European Championships — French wakeboarder Aurélie Godet during her run at the 2017 European Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Aur%C3%A9lie_Godet_at_2017_European_Championships.jpg*
+*Figure: WAKEBOARDER. (2017, November 1). Aurélie Godet at 2017 European Championships — French wakeboarder Aurélie Godet during her run at the 2017 European Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Aur%C3%A9lie_Godet_at_2017_European_Championships.jpg*
 
 ## Rules
 
@@ -22,7 +22,7 @@ The sport grew from mono water skiing in 1950s America and from surfboards towed
 
 ### Figure Index
 
-- WAKEBOARDER. (2017, November 1). *Aur\u00e9lie Godet at 2017 European Championships* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Aur%C3%A9lie_Godet_at_2017_European_Championships.jpg (CC BY-SA 4.0)
+- WAKEBOARDER. (2017, November 1). *Aurélie Godet at 2017 European Championships* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Aur%C3%A9lie_Godet_at_2017_European_Championships.jpg (CC BY-SA 4.0)
 
 ## Important Links
 

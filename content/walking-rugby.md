@@ -1,10 +1,10 @@
 ## Basic Information
 
-Walking rugby is the low-impact, non-contact form of rugby union created at Reading Rugby Club in England in late October 2015, in response to local enquiries for a game like walking football: players walk instead of run, and the tackle is replaced by a two-handed touch on the ball carrier's shorts, so mixed teams of women and men of any age and experience can play a competitive passing game (Reading RFC, n.d.; Rugby Football Union, n.d.; Wikipedia, n.d.). The format follows RFU guidance published from January 2017 and is now played at more than 200 clubs across the United Kingdom, with county unions running standardised sessions (Reading RFC, n.d.).
+Walking rugby is the low-impact, non-contact form of rugby union created at Reading Rugby Club in England in late October 2015, in response to local enquiries for a game like walking football: players walk instead of run, and the tackle is replaced by a two-handed touch on the ball carrier's shorts, so mixed teams of women and men of any age and experience can play a competitive passing game (Reading RFC, n.d.; Rugby Football Union, n.d.; Wikipedia, n.d.). The format follows RFU guidance published from January 2017 and is now played at more than 200 clubs across the United Kingdom, with county unions running standardised sessions (Reading RFC, n.d.). Walking rugby is the low-impact variant of [Rugby Union](rugby-union.html), alongside [Touch Rugby](touch-rugby.html) and [Tag Rugby](tag-rugby.html) in the rugby-codes family listed under Important Links.
 
 ![A tag rugby match — the touch-based cousin of walking rugby — at the Jeux de Sophia 2009](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tag.Rugby.Play.01.jpg?width=480)
 
-*Figure: Honor\u00e9, D. (Sophia Rugby). (2009, June 5). Tag Rugby Play 01 — tag rugby play at the Jeux de Sophia 2009, the touch-based cousin of walking rugby in which contact is replaced by a tag [Photograph]. Wikimedia Commons. GFDL; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Tag.Rugby.Play.01.jpg*
+*Figure: Honoré, D. (Sophia Rugby). (2009, June 5). Tag Rugby Play 01 — tag rugby play at the Jeux de Sophia 2009, the touch-based cousin of walking rugby in which contact is replaced by a tag [Photograph]. Wikimedia Commons. GFDL; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Tag.Rugby.Play.01.jpg*
 
 ## Rules
 
@@ -22,12 +22,11 @@ Walking rugby was started at Reading RFC in late October 2015 — the club's fix
 
 ### Figure Index
 
-- Honor\u00e9, D. (Sophia Rugby). (2009, June 5). *Tag Rugby Play 01* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Tag.Rugby.Play.01.jpg (GFDL; CC BY-SA 3.0)
+- Honoré, D. (Sophia Rugby). (2009, June 5). *Tag Rugby Play 01* [Photograph]. Wikimedia Commons. Retrieved November 23, 2026, from https://commons.wikimedia.org/wiki/File:Tag.Rugby.Play.01.jpg (GFDL; CC BY-SA 3.0)
 
 ## Important Links
 
 - [Rugby Football Union — Walking Rugby guidance](https://www.englandrugby.com/)
 - [Reading RFC — birthplace of walking rugby](https://www.readingrfc.org/)
-- [Walking football](walking-football.html) on this site — the other major walking sport
-- [Touch rugby](touch-rugby.html) and [Tag rugby](tag-rugby.html) on this site — the other low-contact rugby formats
-- [Rugby union](rugby-union.html) on this site — the full-contact parent game
+- [Walking football](walking-football.html) on this site — the other major walking sport (football family)
+- Related on this site: [Rugby Union](rugby-union.html), [Rugby League](rugby-league.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Sevens](rugby-league-sevens.html), [Rugby League Nines](rugby-league-nines.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html) and [Snow Rugby Sevens](snow-rugby-sevens.html) — the rugby codes and variants
