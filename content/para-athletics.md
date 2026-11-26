@@ -10,6 +10,8 @@ Leading the women today: Catherine Debrunner of Switzerland (T53) won five gold 
 
 *Figure: The National Paralympic Committee of Azerbaijan. (2024, September 8). Lamiya Valiyeva of Azerbaijan with her medals after winning F13 javelin gold at the Paris 2024 Paralympics [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Lamiya_Valiyeva_at_the_2024_Summer_Paralympics_%28cropped%29.jpg*
 
+ Together with [Athletics](athletics.html), this discipline belongs to the Para athletics family — [Wheelchair Racing](wheelchair-racing.html), [Athletics](athletics.html) and [Marathon](marathon.html) — and the full list of athletics disciplines is under Important Links.
+
 ## Rules
 
 Competitions follow the World Athletics Competition and Technical Rules as adapted by World Para Athletics: track events on a 400 m track with staggered starts, crouch starts up to 400 m, false-start disqualification, photo-finish judging, and the same distances as able-bodied athletics per class (World Para Athletics, n.d.-b).
@@ -50,4 +52,5 @@ Dominant icons include Australia's Louise Sauvage, who won four track gold medal
 - [New Delhi 2025 World Para Athletics Championships](https://www.paralympic.org/new-delhi-2025) — 12th edition
 - [IPC classification](https://www.paralympic.org/classification) — T/F class system
 - [Olympics — Paris 2024 athletics results](https://www.olympics.com/en/paris-2024/paralympic-games/results/athletics)
-- Related on this site: [athletics](athletics.html), [wheelchair racing](wheelchair-racing.html), [marathon](marathon.html), [100m sprint](100m-sprint.html), [long jump](long-jump.html), [javelin throw](javelin-throw.html), [shot put](shot-put.html), [para-swimming](para-swimming.html)
+- Related on this site: [Athletics](athletics.html), [100m Sprint](100m-sprint.html), [200m Sprint](200m-sprint.html), [400m Sprint](400m-sprint.html), [800m Run](800m-run.html), [1500m Run](1500m-run.html), [5000m Run](5000m-run.html), [10000m Run](10000m-run.html), [Half Marathon](half-marathon.html), [Marathon](marathon.html), [100m Hurdles](100m-hurdles.html), [110m Hurdles](110m-hurdles.html), [400m Hurdles](400m-hurdles.html), [4x100m Relay](4x100m-relay.html), [4x400m Relay](4x400m-relay.html), [20km Race Walk](20km-race-walk.html), [35km Race Walk](35km-race-walk.html), [50km Race Walk](50km-race-walk.html), [High Jump](high-jump.html), [Pole Vault](pole-vault.html), [Long Jump](long-jump.html), [Triple Jump](triple-jump.html), [Shot Put](shot-put.html), [Discus Throw](discus-throw.html), [Javelin Throw](javelin-throw.html), [Hammer Throw](hammer-throw.html), [Steeplechase](steeplechase.html), [Decathlon](decathlon.html), [Heptathlon](heptathlon.html), [Cross Country Running](cross-country-running.html), [Ultramarathon](ultramarathon.html), [Trail Running](trail-running.html), [Skyrunning](skyrunning.html), [Snowshoe Racing](snowshoe-racing.html), [Skyscraper Running](skyscraper-running.html) and [Wheelchair Racing](wheelchair-racing.html) — the athletics (track and field) disciplines
+- [Para Swimming](para-swimming.html) on this site — the other major Paralympic discipline
