@@ -4,6 +4,8 @@ Sabre is the cutting-and-thrusting weapon of fencing — derived from the 19th-c
 
 In the 2026/27 season the women's sabre is led by France's Toscane Tori and Bulgaria's Yoana Ilieva, while the men's sabre rankings are headed by France's Sébastien Patrice; Hungary's Áron Szilágyi, three-time individual Olympic champion from 2012 to 2020, remains the reference of the weapon (FIE, n.d.-b).
 
+ Within the fencing family on this site, its closest relatives are [Fencing](fencing.html), [Fencing Foil](fencing-foil.html), [Fencing Epee](fencing-epee.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The sabre blade is at most 88 cm long, the assembled weapon at most 105 cm and 500 g; unlike foil and épée, a touch can be scored with the point or with the cutting edge of the blade (FIE, n.d.-b; Wikipedia, n.d.-a). The valid target is the whole body above the waist — head, arms and torso; at sabre the conductive lamé covers this area and the mask bib and the glove cuff are also part of the target (FIE, n.d.-b). Off-target hits do not score.
@@ -43,4 +45,4 @@ Hungary has historically dominated the weapon: Aladár Gerevich (1910–1991) wo
 - [FIE competition rules](https://fie.org/documents/rules) — technical, material and organizational rules
 - [European Fencing Confederation (EFC)](https://www.fencing-efc.eu/) — European continental confederation
 - [Olympic fencing](https://www.olympics.com/en/olympic-games/olympic-sports/fencing) — Olympic sabre events since 1896
-- [Fencing — full sport entry](fencing.html) on this site
+- Related on this site: [Fencing](fencing.html), [Fencing Foil](fencing-foil.html) and [Fencing Epee](fencing-epee.html) — the fencing disciplines

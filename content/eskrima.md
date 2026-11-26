@@ -12,6 +12,8 @@ In the Philippines the recognised national sport body is the Philippine Eskrima 
 
 *Figure: Jpogi. (2006, October 3). A pair of rattan sticks (baston) used in arnis/eskrima stick fighting [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Arnis_Sticks.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Karate](karate.html), [Judo](judo.html), [Taekwondo](taekwondo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 WEKAF competition uses full-contact padded rattan sticks (baston) of 26–28 inches with protective armour — head guard, gloves, chest, forearm and shin guards — and awards points for clean, controlled strikes to valid target areas; events also include double-stick, single-stick, soft/first-strike categories and blade simulation with wooden or rubber knives, plus disarming (World Eskrima Kali Arnis Federation, n.d.-a; Wikipedia, n.d.-f).
@@ -46,4 +48,4 @@ Modern styles crystallised in Cebu: the Doce Pares system of the brothers Eulogi
 - [WEKAF — World Eskrima Kali Arnis Federation](https://wekafinternational.com/) — founded 1989 in Cebu; member federations; World Championships (18th: Srinagar, India, 27–31 July 2026)
 - [WEKAF competition rules](http://wekaf.hu/wekaf-2/?lang=en) — padded-stick full-contact rules
 - [PEKAF](https://en.wikipedia.org/wiki/Philippine_Eskrima_Kali_Arnis_Federation) — Philippine national federation (founded 2017); SEA Games entries
-- Related on this site: [karate](karate.html), [judo](judo.html), [taekwondo](taekwondo.html), [fencing](fencing.html), [boxing](boxing.html)
+- Related on this site: [Karate](karate.html), [Judo](judo.html), [Taekwondo](taekwondo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts

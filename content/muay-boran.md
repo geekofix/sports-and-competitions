@@ -6,6 +6,8 @@ Muay Boran is the umbrella term for the ancient unarmed Thai martial arts practi
 
 *Figure: Kru Tony Moore. (2014, September 28). Muay Boran-Sitsiam — Muay Boran demonstration at the Sitsiam camp in Bangkok [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Muay_Boran-Sitsiam.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Muay Thai](muay-thai.html), [Krabi Krabong](krabi-krabong.html), [Kickboxing](kickboxing.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In competition, Mae Mai Muaythai is performed as a judged form (wai kru and fighting sequences) at IFMA world and continental championships, scored for technique, tradition and presentation, with medals awarded in age and gender categories — women and men compete in separate classes (International Federation of Muaythai Associations, n.d.). Kad chuek heritage bouts use hemp cords (muay kad chuek) wrapped around the hands instead of gloves and follow the traditional rules — no rounds clock in its purest form, victory by knockout — and today they are staged as demonstrations or limited full-contact events under safety regulations. In krabi-krabong, paired weapons (krabi and krabong, sword and staff, double swords) are fought with controlled contact in graded bouts. Fouls in all traditional forms — attacks to the groin, eyes or spine, and strikes to a downed opponent — are prohibited under the IFMA Rules and Regulations (International Federation of Muaythai Associations, n.d.).
@@ -27,6 +29,4 @@ Muay Boran's roots lie in the military training of the 13th-century Sukhothai an
 ## Important Links
 
 - [IFMA — International Federation of Muaythai Associations](https://muaythai.sport/) — governs amateur muaythai incl. Mae Mai Muaythai; rules and world championships
-- [Muay Thai](muay-thai.html) on this site — the modernized ring sport that grew out of Muay Boran
-- [Krabi-krabong](krabi-krabong.html) on this site — the weapons art paired with Muay Boran
-- [Kickboxing](kickboxing.html) and [Boxing](boxing.html) on this site — related striking sports
+- Related on this site: [Muay Thai](muay-thai.html), [Krabi Krabong](krabi-krabong.html), [Kickboxing](kickboxing.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts

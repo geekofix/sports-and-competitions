@@ -6,6 +6,8 @@ Systema is a Russian martial art and movement system built on four principles �
 
 *Figure: Vadim Starov. (2005, May 14). Vadim Starov – Founder and Chief-Instructor of Systema Spetsnaz – Russian Martial Arts [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Vadim_Starov_–_Founder_and_Chief-Instructor_of_Systema_Spetsnaz_–_Russian_Martial_Arts.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Judo](judo.html), [Karate](karate.html), [Wrestling](wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Systema is not a scored combat sport: there are no weight classes, no belts and no tournament bouts, so "rules" are training and safety rules instead (Wikipedia, n.d.). Classes drill controlled partner work — strikes, grabs, chokes and weapon defenses — at increasing resistance, always governed by the four principles: continuous breathing under stress, releasing tension, maintaining natural posture and moving without breaks in structure (Russian Martial Art, n.d.). Progression is informal: students advance through instructor certification rather than colored belts, and the system is used by military, police and security professionals as well as civilians (Russian Martial Art, n.d.). Men and women train together under identical principles (Wikipedia, n.d.).
@@ -26,4 +28,4 @@ Systema's roots are the hand-to-hand combat of the Russian army and Cossack trad
 ## Important Links
 
 - [Systema Headquarters — Russian Martial Art](https://russianmartialart.com/) — official site; instructors, schools, books
-- [Judo](judo.html), [Karate](karate.html), [Wrestling](wrestling.html) and [Boxing](boxing.html) on this site — competitive martial arts with formal rules
+- Related on this site: [Judo](judo.html), [Karate](karate.html), [Wrestling](wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html) and [Aikido](aikido.html) — the combat sports and martial arts

@@ -8,6 +8,8 @@ The style was popularised globally through the Hong Kong lineage of Ip Man and b
 
 *Figure: Mannsifu. (2017, April 24). Wing Chun Sifu Sean Mann playing Chi Sau with Grand Master Ip Chun - Copy — chi-sau sticking-hands drill between Sifu Sean Mann and Grand Master Ip Chun, son of Ip Man [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wing_Chun_Sifu_Sean_Mann_playing_Chi_Sau_With_Grand_Master_Ip_Chun_-_Copy.png*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wushu Taolu](wushu-taolu.html), [Wushu Sanda](wushu-sanda.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Krav Maga](krav-maga.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Traditional Wing Chun has no unified ruleset or world championship of its own; training progresses through three hand forms — Siu Nim Tau, Chum Kiu and Biu Jee — the wooden-dummy form (mok yan jong), chi-sau and the chi-gerk leg drills (International WingTsun Association, n.d.). Where association tournaments exist, they use light-contact (semi-contact) formats: protective equipment, weight classes and timed rounds are defined by each organising association, and bouts are scored for controlled, clean techniques rather than knockout power (Wikipedia, n.d.). Gradings, sparring etiquette and competition formats therefore vary between lineages — the IWTA system and independent associations each run their own events — so there are no standardised weight classes, ring dimensions or scoring systems across the art as a whole (Wikipedia, n.d.).
@@ -29,6 +31,4 @@ The origins of Wing Chun are shrouded in legend attributing its creation to the 
 
 - [International WingTsun Association (IWTA)](https://leungtingwingtsun.com/wingtsun/iwta/) — Leung Ting's worldwide association, history and training system
 - [Leung Ting — International WingTsun Association](https://leungting.com/international-wingtsun-association) — association history since 1973
-- [Wushu Taolu](wushu-taolu.html) and [Wushu Sanda](wushu-sanda.html) on this site — the competitive Chinese martial-arts sports
-- [Karate](karate.html) and [Taekwondo](taekwondo.html) on this site — striking arts with formal world championships
-- [Krav Maga](krav-maga.html) and [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html) on this site — modern self-defence and grappling systems
+- Related on this site: [Wushu Taolu](wushu-taolu.html), [Wushu Sanda](wushu-sanda.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Krav Maga](krav-maga.html), [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html) and [Shito Ryu Karate](shito-ryu-karate.html) — the combat sports and martial arts

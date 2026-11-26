@@ -10,6 +10,8 @@ Competitive laser tag exists at club, national and international level — the Z
 
 *Figure: АрміяInform. (2023, September 14). Laser tag military training of a Ukrainian mountain assault brigade using Skiftech equipment, 2023 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:UA_laser_tag_training_2023_01.jpg*
 
+ Within the target and precision sports family on this site, its closest relatives are [Shooting](shooting.html), [10m Air Pistol Shooting](10m-air-pistol-shooting.html), [10m Air Rifle Shooting](10m-air-rifle-shooting.html), [25m Pistol Shooting](25m-pistol-shooting.html), [25m Rapid Fire Pistol Shooting](25m-rapid-fire-pistol-shooting.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A typical game lasts 10–30 minutes. Each hit on an opponent's sensors scores points (usually 10–100 depending on hit zone) and often triggers a short "stun" during which the victim's phaser is disabled; hits on teammates can cost points. Players respawn at designated points after a few seconds, and game modes define winning conditions — highest score, most eliminations, or most control points captured (Wikipedia, n.d.-a).
@@ -42,4 +44,4 @@ In 1986 Worlds of Wonder sold Lazer Tag toy sets alongside Photon; both fads fad
 ## Important Links
 
 - [Zone Laser Tag World Championships (ZLTWC)](https://zltwc.com/) — international competitive laser tag, national teams
-- Related on this site: [laser run](laser-run.html), [e-sports](e-sports.html)
+- Related on this site: [Shooting](shooting.html), [10m Air Pistol Shooting](10m-air-pistol-shooting.html), [10m Air Rifle Shooting](10m-air-rifle-shooting.html), [25m Pistol Shooting](25m-pistol-shooting.html), [25m Rapid Fire Pistol Shooting](25m-rapid-fire-pistol-shooting.html), [50m Pistol Shooting](50m-pistol-shooting.html), [50m Rifle 3 Positions Shooting](50m-rifle-3-positions-shooting.html), [50m Rifle Prone Shooting](50m-rifle-prone-shooting.html), [Skeet Shooting](skeet-shooting.html), [Trap Shooting](trap-shooting.html), [Double Trap Shooting](double-trap-shooting.html), [Practical Shooting (IPSC)](practical-shooting-ipsc.html), [Bat And Trap](bat-and-trap.html), [Archery](archery.html), [Recurve Archery](recurve-archery.html), [Barebow Archery](barebow-archery.html), [Compound Archery](compound-archery.html), [Target Archery](target-archery.html), [Field Archery](field-archery.html), [3D Archery](3d-archery.html), [Mounted Archery](mounted-archery.html), [Run Archery](run-archery.html), [Para Archery](para-archery.html), [Para Shooting](para-shooting.html), [Darts](darts.html), [Axe Throwing](axe-throwing.html), [Knife Throwing](knife-throwing.html), [Tomahawk Throwing](tomahawk-throwing.html), [Boomerang Throwing](boomerang-throwing.html), [Pea Shooting](pea-shooting.html) and [Underwater Target Shooting](underwater-target-shooting.html) — the target and precision sports

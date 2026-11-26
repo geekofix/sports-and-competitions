@@ -6,6 +6,8 @@ Taolu is the choreographed "forms" discipline of competitive wushu, in which a s
 
 *Figure: Sahim. (2011, July 21). Iran taolu team in Ankara-2011 — members of the Iran national wushu taolu team at the 2011 World Wushu Championships in Ankara [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Iran_taolu_team_in_Ankara-2011.JPG*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wushu Sanda](wushu-sanda.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A taolu routine is performed on a 14 × 8 m carpet marked with a 5 cm white boundary line, and must last at least about 80 seconds for compulsory events; stepping off the carpet, falling or exceeding the time limit brings deductions (International Wushu Federation, n.d.). Judges award points for degree of difficulty, execution of techniques, and overall performance — power, rhythm, coordination and spirit — with the scores combined into a final mark (Wikipedia, n.d.). Athletes compete one at a time in their chosen event: bare-handed styles (changquan, nanquan, taijiquan) or weapon routines (jian/daoshu swords, qiang/gun spears and staffs, nandao/nangun southern weapons and others), and combined events rank the same athlete across two related events (International Wushu Federation, n.d.). Men's and women's events are equal in number at senior championships, and junior championships split competitors into age groups — under the current rules 7–11, 12–14 and 15–17 years (Wikipedia, n.d.).
@@ -28,6 +30,4 @@ The forms tradition behind taolu stretches back centuries in Chinese martial art
 
 - [International Wushu Federation — official site](https://www.iwuf.org)
 - [Olympedia — wushu at the 2008 Summer Olympics](https://www.olympedia.org/editions/53/sports/WSU)
-- [Wushu Sanda](wushu-sanda.html) on this site — the full-contact discipline of wushu
-- [Karate](karate.html) on this site — kata and kumite from Okinawa
-- [Taekwondo](taekwondo.html) on this site — Korean forms (poomsae) and sparring
+- Related on this site: [Wushu Sanda](wushu-sanda.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html) and [Aikido](aikido.html) — the combat sports and martial arts

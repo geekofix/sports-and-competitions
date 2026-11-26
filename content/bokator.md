@@ -8,6 +8,8 @@ Women's participation is growing: women's bokator teams compete at national fest
 
 *Figure: Pon, J. (U.S. Marine Corps). (2016, June 2). Members of the Royal Cambodian Army demonstrate martial arts techniques at Five Hills Training Area, near Ulaanbaatar, Mongolia, during a cultural night for exercise Khaan Quest 2016 [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Khaan_Quest_2016,_Members_of_Armed_Forces_of_the_Czech_Republic,_Royal_Cambodian_Army_share_culture_through_performing_arts_160602-M-TA471-481.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Muay Thai](muay-thai.html), [Karate](karate.html), [Wrestling](wrestling.html), [Judo](judo.html), [Boxing](boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Bokator is practiced as kata (forms) and free sparring; competitions, as at the SEA Games 2023 demonstration, are run in weight classes and categories for forms (single and weapon) and for sparring, with traditional costumes and kramas. Scoring follows the SEA Games martial-arts convention: points for clean strikes to valid target zones, with judges' decisions in sparring and technical execution scores in forms (SEA Games Federation, n.d.-a). Safety rules at demonstrations and modern competitions require protective gear in sparring and prohibit strikes to the throat, eyes and groin. Men's and women's divisions are separate in competition, with identical categories and scoring; traditional training is open to all genders (UNESCO, n.d.-a).
@@ -34,4 +36,4 @@ Bokator's origins reach back to the Angkor period (9th–15th centuries), when b
 
 - [UNESCO — Bokator, traditional martial arts in Cambodia](https://ich.unesco.org/en/USL/bokator-traditional-martial-arts-in-cambodia-01766) — Intangible Cultural Heritage listing (2022)
 - [SEA Games Federation](https://www.seagamesfederation.org/) — bokator demonstration sport at the 2023 SEA Games
-- [Muay Thai](muay-thai.html), [Karate](karate.html), [Wrestling](wrestling.html) and [Judo](judo.html) on this site
+- Related on this site: [Muay Thai](muay-thai.html), [Karate](karate.html), [Wrestling](wrestling.html), [Judo](judo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts

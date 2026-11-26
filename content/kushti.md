@@ -6,6 +6,8 @@ Kushti — known internationally as pehlwani — is the traditional form of wres
 
 *Figure: MaximusPrasad. (2024, February 10). TraditionalIndianKusti03 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:TraditionalIndianKusti03.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Kushti is fought in a circular mud pit of clay mixed with oil, ghee and turmeric, about 10–14 m across, prepared in an akhara; competitors wear the langot and no shoes (Wikipedia, n.d.-a). Strikes, kicks and joint locks are forbidden — the contest is a pure throwing and grappling match in which the first pehlwan to force the opponent down so that both shoulder blades touch the pit is the winner (Wrestling Federation of India, n.d.-a). Bouts at dangal tournaments are usually elimination or best-of format with a time limit, and professional dangals award prizes for wins; there are weight categories in organized competition, and men's and women's events are run separately (Wikipedia, n.d.-b). Etiquette rules are strict: wrestlers bow to the akhara and their guru before and after the bout, and the referee (ustad) controls the start and the end of each bout (Wikipedia, n.d.-a). Rule source: Wrestling Federation of India, https://wrestlingfederationofindia.org/ (Wrestling Federation of India, n.d.-a). See also [wrestling](wrestling.html) and [kabaddi](kabaddi.html) on this site.
@@ -27,5 +29,5 @@ Wrestling in India dates back millennia — malla-yuddha is described in ancient
 ## Important Links
 
 - [Wrestling Federation of India](https://wrestlingfederationofindia.org/) — national governing body for kushti/dangal and Olympic wrestling in India
-- [Wrestling](wrestling.html) on this site — [Freestyle wrestling](freestyle-wrestling.html) on this site — modern Indian women's wrestling
+- Related on this site: [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts
 - [Kabaddi](kabaddi.html) on this site — India's other traditional national sport

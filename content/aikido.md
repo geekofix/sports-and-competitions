@@ -8,6 +8,8 @@ Aikido is overwhelmingly non-competitive: the IAF presents it at the World Games
 
 *Figure: PattayaPatrol. (2024, November 25). A female aikido practitioner executes a controlled joint throw on her partner during a training session [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:DSC_8088_A_martial_arts_class_in_action_a_female_practitioner_executes_a_controlled_joint_throw_while_her_partner_bends_forward_to_break_the_fall.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Judo](judo.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Wrestling](wrestling.html), [Krav Maga](krav-maga.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Training takes place in a dojo on tatami mats; beginners wear a white keikogi and advanced students add the black hakama, and etiquette (bowing, cleanliness, respect for the teacher) is part of the art (Wikipedia, n.d.-a). Gradings run from 6th to 1st kyū (pupil grades) up to 1st–8th dan, with 8th dan the highest rank awarded within the Aikikai; the technical syllabus covers throws, pins, joint locks, falling (ukemi) and, in many schools, weapons practice with the wooden sword (bokken), staff (jō) and knife (tantō) (International Aikido Federation, n.d.-b; Wikipedia, n.d.-a; Wikipedia, n.d.-b).
@@ -45,4 +47,4 @@ The leadership (doshu) passed from the founder to his son Kisshomaru Ueshiba (19
 - [International Aikido Federation](https://www.aikido-international.org/) — world federation (founded 1976); statutes, member nations, events
 - [IAF — About / member nations](https://www.aikido-international.org/about/) — 87 member countries; aikido in 130+ countries, open to all genders and ages
 - [Aikikai Foundation / Hombu Dojo](https://www.aikikai.or.jp/eng/) — parent organisation, technical standards, doshu line
-- Related on this site: [judo](judo.html), [karate](karate.html), [taekwondo](taekwondo.html), [wrestling](wrestling.html), [krav-maga](krav-maga.html)
+- Related on this site: [Judo](judo.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Wrestling](wrestling.html), [Krav Maga](krav-maga.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts

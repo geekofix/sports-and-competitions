@@ -6,6 +6,8 @@ A bout is decided by falls: a "fall" is scored when any part of the loser's body
 
 The women's side of the sport is small but growing: women's backhold events are now staged at several Scottish gatherings, and the FILC sanctions mixed-national championships that include women's divisions in the sister styles (International Federation of Celtic Wrestling [FILC], n.d.).
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Greco Roman Wrestling](greco-roman-wrestling.html), [Arm Wrestling](arm-wrestling.html), [Boxing](boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FILC and Scottish Wrestling Bond rules, competitors begin standing, foreheads together, and take the backhold: the right arm over the opponent's left shoulder with hands clasped behind the back, the left arm under the opponent's right armpit gripping the opponent's right biceps or the backhold. Referees call "HOLD" and the wrestlers may begin. A fall is any touch of the ground by any part of the body other than the soles of the feet; a dog fall — both shoulder blades touching — is an immediate win; a slip where a competitor touches with hand or knee is a fall for the opponent (FILC, n.d.).
@@ -38,4 +40,4 @@ The modern competitive era began in the 20th century with the founding of the Sc
 
 - [Scottish Wrestling Bond](https://www.wrestling.scot/) — governing body of backhold wrestling in Scotland; rules and Highland Games events
 - [International Federation of Celtic Wrestling (FILC)](https://www.filc-wrestling.com/) — international federation for backhold, Cumberland, Cornish and gouren wrestling
-- [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Greco-Roman Wrestling](greco-roman-wrestling.html) and [Arm Wrestling](arm-wrestling.html) on this site
+- Related on this site: [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Greco Roman Wrestling](greco-roman-wrestling.html), [Arm Wrestling](arm-wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html) and [Shito Ryu Karate](shito-ryu-karate.html) — the combat sports and martial arts

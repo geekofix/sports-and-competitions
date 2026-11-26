@@ -8,6 +8,8 @@ At the end of 2026 the leading fencers of the 2026/27 season include, on the wom
 
 *Figure: Marie-Lan Nguyen. (2014, November 9). Lee Kiefer of the United States at the Saint-Maur women's foil World Cup [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Lee_Kiefer_2014_Saint-Maur_WC_teams_t104554.jpg*
 
+ Within the fencing family on this site, its closest relatives are [Fencing Foil](fencing-foil.html), [Fencing Sabre](fencing-sabre.html), [Fencing Epee](fencing-epee.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The field of play, the piste, is 14 m long and 1.5–2 m wide with a conductive surface; the en-garde lines are 2 m on each side of the center line and the rear limits 7 m from the center line, with warning lines 2 m before each rear limit (FIE, n.d.-b). Fencers wear a fencing mask, jacket, breeches, glove and — at foil and sabre — a conductive lamé covering the valid target; a chest protector is compulsory for women at all three weapons and optional for men (FIE, n.d.-b). Weapons are checked before bouts: foil maximum 500 g, total length 110 cm, blade 90 cm; épée maximum 770 g, blade 90 cm; sabre maximum 500 g, total length 105 cm, blade 88 cm; the foil and épée tip must register a pressure of at least 500 g and 750 g respectively (FIE, n.d.-b; Wikipedia, n.d.-a).
@@ -58,5 +60,4 @@ Italy and Hungary dominated the early decades: Edoardo Mangiarotti (1919–2012)
 - [FIE competition rules](https://fie.org/documents/rules) — technical, material, organizational and administrative rules
 - [European Fencing Confederation (EFC)](https://www.fencing-efc.eu/) — European continental confederation; [all five FIE confederations](https://fie.org/about/confederations-and-national-federations)
 - [Olympic fencing](https://www.olympics.com/en/olympic-games/olympic-sports/fencing) — Olympic program since Athens 1896
-- [Foil](fencing-foil.html) on this site
-- [Sabre](fencing-sabre.html) on this site
+- Related on this site: [Fencing Foil](fencing-foil.html), [Fencing Epee](fencing-epee.html) and [Fencing Sabre](fencing-sabre.html) — the fencing disciplines

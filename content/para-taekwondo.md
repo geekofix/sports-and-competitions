@@ -14,6 +14,8 @@ Leading the women today: Ana Carolina Silva de Moura of Brazil (pictured), K44 -
 
 *Figure: Sport en France. (2024, August 31). Zakia Khudadadi of France, K44 -47 kg bronze medallist at Tokyo 2020 and Paris 2024 [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Zakia_Khudadadi_2024.png*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Judo](judo.html), [Para Judo](para-judo.html), [Boxing](boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 World Taekwondo competition rules apply: three two-minute rounds with electronic protective gear (hogu) and sensors scoring head and body kicks and punches, with the higher score after three rounds winning; ties go to the "golden point" round (World Taekwondo, n.d.-c; Wikipedia, n.d.-a).
@@ -49,4 +51,4 @@ At Paris 2024, Peru's Angelica Espinoza won the K44 -49 kg, breaking Peru's Para
 - [World Taekwondo results platform](https://results.worldtaekwondo.org/) — World Championships, Grand Prix results; [calendar](https://www.worldtaekwondo.org/calendar/)
 - [IPC — Para taekwondo](https://www.paralympic.org/taekwondo) — Paralympic programme
 - [Olympics — Paris 2024 taekwondo results](https://www.olympics.com/en/paris-2024/paralympic-games/results/taekwondo)
-- Related on this site: [taekwondo](taekwondo.html), [World Taekwondo taekwondo](taekwondo-wt.html), [judo](judo.html), [para-judo](para-judo.html)
+- Related on this site: [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Judo](judo.html), [Para Judo](para-judo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Taekwondo (ITF)](taekwondo-itf.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html), [Hapkido](hapkido.html) and [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html) — the combat sports and martial arts

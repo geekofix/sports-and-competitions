@@ -6,6 +6,8 @@ Vovinam — officially Viêt Võ Đạo, "the Vietnamese Way of Martial Arts" �
 
 *Figure: Botminh24. (2020, December 29). Scissor Kick Vovinam — a Vovinam practitioner performing the art's signature flying scissor kick (đòn bay cắt) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Scissor_Kick_Vovinam.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Taekwondo](taekwondo.html), [Wushu Sanda](wushu-sanda.html), [Judo](judo.html), [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Karate](karate.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Training follows the art's "hard and soft" principle: striking and blocking fundamentals, the trademark jumping and scissor kicks, throws and joint locks, weapon forms (staff, sword, machete) and paired self-defence sets, all practiced through the codified quyền forms used for grading (World Vovinam Federation, n.d.). Competition comprises fighting (đấu) bouts — points for controlled strikes, throws and takedowns under protective-gear rules with weight and age categories — and judged forms divisions, while belt progression runs from beginner grades through the blue belt and the yellow-and-red leadership grades (Wikipedia, n.d.). The WVVF rulebook governs legal techniques, scoring, timing, safety equipment and refereeing at world and continental championships, and men and women compete in parallel categories (World Vovinam Federation, n.d.).
@@ -28,6 +30,4 @@ Nguyễn Lộc (born May 24, 1912, in Thạch Thất near Hanoi; died April 29, 
 
 - [World Vovinam Federation (WVVF)](https://vovinamworldfederation.eu/) — world governing body and world championships
 - [Vovinam Viet Vo Dao Federation of Western USA](https://vovinaminfo.com/vovinam-history/) — history of the founder Nguyễn Lộc
-- [Taekwondo](taekwondo.html) and [Wushu sanda](wushu-sanda.html) on this site — other Asian full-contact arts
-- [Judo](judo.html) and [Brazilian jiu-jitsu](brazilian-jiu-jitsu.html) on this site — the grappling arts Vovinam incorporates
-- [Karate](karate.html) on this site — the Japanese striking art in Vovinam's lineage
+- Related on this site: [Taekwondo](taekwondo.html), [Wushu Sanda](wushu-sanda.html), [Judo](judo.html), [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Karate](karate.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts

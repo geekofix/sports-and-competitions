@@ -6,6 +6,8 @@ Wrestling is one of the oldest Olympic sports, contested at the ancient Games fr
 
 *Figure: Ministry of Youth and Sports of Ukraine. (2024, August 10). Iryna Koliadenko, Sakura Motoki at the 2024 Summer Olympics 02 — silver medalist Iryna Koliadenko and bronze medalist Sakura Motoki of the women's freestyle 62 kg at Paris 2024 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Iryna_Koliadenko,_Sakura_Motoki_at_the_2024_Summer_Olympics_02.png*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Judo](judo.html), [Taekwondo](taekwondo.html), [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Boxing](boxing.html), [Sumo](sumo.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A bout lasts two periods of three minutes with a 30-second break, and is won instantly by a fall — both of the opponent's shoulder blades held on the mat — or by technical superiority, an eight-point lead in Greco-Roman and a ten-point lead in freestyle (United World Wrestling, n.d.). Scoring rewards takedowns (two to four points depending on amplitude), exposure of the back to the mat, and penalties for passivity, leaving the mat or illegal holds; in Greco-Roman, attacking below the waist and leg holds are forbidden, while freestyle permits holds on any part of the body (United World Wrestling, n.d.). Competitors wrestle on a 12 × 12 m mat with a 9 m diameter circle, are weighed in the evening before competition, and at Paris 2024 contested six weight classes per style — Greco-Roman 60, 67, 77, 87, 97 and 130 kg; men's freestyle 57, 65, 74, 86, 97 and 125 kg; women's freestyle 50, 53, 57, 62, 68 and 76 kg (Olympedia, n.d.). Women compete in freestyle only at the Olympics, while UWW world championships also run women's Greco-Roman-style events in some age groups, and junior categories (U15, U17, U20, U23) apply the same rules with modified scoring (United World Wrestling, n.d.).
@@ -29,10 +31,4 @@ Wrestling entered the ancient Olympic programme in 708 BC as part of the pentath
 - [United World Wrestling — official site](https://uww.org)
 - [Olympedia — wrestling at the Olympic Games](https://www.olympedia.org/sports/WRE)
 - [Olympics.com — wrestling](https://olympics.com/en/sports/wrestling/)
-- [Judo](judo.html) on this site — the Japanese grappling art
-- [Taekwondo](taekwondo.html) on this site — the Korean kicking art
-- [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html) on this site — ground grappling
-- [Boxing](boxing.html) on this site — striking with the fists
-- [Sumo](sumo.html) on this site — Japanese heavyweight wrestling
-- [Wushu Sanda](wushu-sanda.html) on this site — Chinese full-contact fighting
-- [Karate](karate.html) on this site — striking art from Okinawa
+- Related on this site: [Judo](judo.html), [Taekwondo](taekwondo.html), [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Boxing](boxing.html), [Sumo](sumo.html), [Wushu Sanda](wushu-sanda.html), [Karate](karate.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html) and [Kyokushin Karate](kyokushin-karate.html) — the combat sports and martial arts

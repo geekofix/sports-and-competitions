@@ -4,6 +4,8 @@ Foil is the lightest of the three fencing weapons — a thrusting-only sword of 
 
 In the 2026/27 season the women's foil is led by Italy's Martina Favaretto and Anna Cristino, with the American Olympic champion Lee Kiefer and Lauren Scruggs among the chasing pack; on the men's side the Czech Alexander Choupenitch tops the FIE world rankings in foil (FIE, n.d.-b).
 
+ Within the fencing family on this site, its closest relatives are [Fencing](fencing.html), [Fencing Epee](fencing-epee.html), [Fencing Sabre](fencing-sabre.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The foil blade is at most 90 cm long, the assembled weapon at most 110 cm and 500 g; only the tip scores, and it must be depressed with a pressure of at least 500 g (FIE, n.d.-b; Wikipedia, n.d.-a). The valid target is the trunk of the body covered by the conductive lamé, including the lower part of the mask bib; touches on the head (except the bib), arms or legs are off-target — they halt the phrase but score nothing (FIE, n.d.-b).
@@ -43,4 +45,4 @@ Among the icons of the weapon are the Italians Nedo Nadi (1894–1940), who won 
 - [FIE competition rules](https://fie.org/documents/rules) — technical, material and organizational rules
 - [European Fencing Confederation (EFC)](https://www.fencing-efc.eu/) — European continental confederation
 - [Olympic fencing](https://www.olympics.com/en/olympic-games/olympic-sports/fencing) — Olympic foil events since 1896
-- [Fencing — full sport entry](fencing.html) on this site
+- Related on this site: [Fencing](fencing.html), [Fencing Epee](fencing-epee.html) and [Fencing Sabre](fencing-sabre.html) — the fencing disciplines

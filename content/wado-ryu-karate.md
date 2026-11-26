@@ -6,6 +6,8 @@ Wadō-ryū is one of the four major traditional karate styles — alongside Shot
 
 *Figure: Haresh karate. (2017, October 6). Karate Kata Heian Yondan Pattern — the floor pattern of the kata Heian Yondan (Peaceful Way, 4th level), a core form of Wadō-ryū [Diagram]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Karate_Kata_Heian_Yondan_Pattern.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Karate](karate.html), [Shotokan Karate](shotokan-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Judo](judo.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Wadō-ryū practice centers on kata — including the five Pinan forms Ōtsuka refined from Okinawan originals, plus Naihanchi and Kushanku — kihon (fundamentals), and the jujutsu-derived paired forms idori (kneeling self-defence) and tantō-dori (knife defence) unique to the style, alongside kumite sparring that emphasizes evasion and countering in one motion (Wadokai, n.d.; Wikipedia, n.d.). Competition follows karate's standard split into kata (judged on precision, power, breathing and presentation) and kumite (scored bouts under WKF rules: yuko, waza-ari and ipon scoring, with weight classes, age categories and separate men's and women's divisions); grading runs from kyu to dan under examining boards (World Karate Federation, n.d.). The Wadō-ryū organizations hold national and world championships — the first World Wadō Cup was held in London in 1989 (Wikipedia, n.d.).
@@ -28,6 +30,4 @@ Hironori Ōtsuka was born on June 1, 1892, in Shimodate, Ibaraki Prefecture, beg
 
 - [World Karate Federation (WKF)](https://www.wkf.net/) — international competition rules for kata and kumite
 - [Wadokai](https://wadokai.dk/language/en/history/) — Wadō-ryū organization and history of the founder
-- [Karate](karate.html), [Shotokan karate](shotokan-karate.html), [Shitō-ryū karate](shito-ryu-karate.html) and [Gōjū-ryū karate](goju-ryu-karate.html) on this site — the four major styles
-- [Judo](judo.html) and [Brazilian jiu-jitsu](brazilian-jiu-jitsu.html) on this site — Wadō-ryū's jujutsu heritage
-- [Kyokushin karate](kyokushin-karate.html) on this site — the full-contact karate cousin
+- Related on this site: [Karate](karate.html), [Shotokan Karate](shotokan-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Judo](judo.html), [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Kyokushin Karate](kyokushin-karate.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts

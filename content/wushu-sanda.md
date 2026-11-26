@@ -6,6 +6,8 @@ Sanda (also called sanshou) is the full-contact fighting discipline of competiti
 
 *Figure: Richardkw. (2012, June 25). Sanshou (San da) — kick (practice fight) Katwijk, dec 4, 2006 — a well-placed kick in a sanda practice fight in Katwijk [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Sanshou_(San_da)_-_kick_(practice_fight)_Katwijk,_dec_4,_2006.JPG*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wushu Taolu](wushu-taolu.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Kickboxing](kickboxing.html), [Judo](judo.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A senior bout is fought on a leitai — an 8 × 8 m platform raised about 80 cm — over three rounds of two minutes with one-minute rests (Wikipedia, n.d.). Valid targets are the head, trunk and legs; punches and kicks score points, throws and takedowns score highest, and knockdowns or forcing an opponent off the platform earn extra points, so the fighter with the most points after three rounds wins — or the bout ends immediately on a knockout (International Wushu Federation, n.d.). Illegal targets are the back of the head, the neck and the groin; elbow strikes, knee strikes to the head and attacking a downed opponent are fouls that bring warnings or disqualification (Wikipedia, n.d.). Competitors wear headgear, a gumshield, chest and shin protectors and gloves, and are divided into weight classes with separate men's and women's divisions — the Beijing 2008 tournament used men's 56, 70 and 80 kg and women's 52 and 60 kg — while junior and children's categories apply modified rules (International Wushu Federation, n.d.).
@@ -27,9 +29,4 @@ Sanda's roots lie in centuries of Chinese bare-handed fighting, but modern compe
 ## Important Links
 
 - [International Wushu Federation — official site](https://www.iwuf.org)
-- [Wushu Taolu](wushu-taolu.html) on this site — the forms discipline of wushu
-- [Karate](karate.html) on this site — striking art from Okinawa
-- [Taekwondo](taekwondo.html) on this site — Korean kicking art
-- [Kickboxing](kickboxing.html) on this site — ring sport combining punches and kicks
-- [Judo](judo.html) on this site — Japanese throwing and grappling art
-- [Wrestling](wrestling.html) on this site — Olympic grappling in two styles
+- Related on this site: [Wushu Taolu](wushu-taolu.html), [Karate](karate.html), [Taekwondo](taekwondo.html), [Kickboxing](kickboxing.html), [Judo](judo.html), [Wrestling](wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts

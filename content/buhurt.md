@@ -12,6 +12,8 @@ On the women's side, women compete in buhurt in their own divisions and mixed te
 
 *Figure: Radic, I. (2019, August 24). Buhurt battle [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Buhurt_battle.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Kendo](kendo.html), [Wrestling](wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IMCF and BI rules, fighters wear a closed steel helmet (historically inspired, e.g. a bascinet with aventail), a gambeson (padded jacket), and rigid protection for hands, elbows, knees and shins; weapons are blunt steel replicas — swords, axes, maces, polearms — with rounded edges and no thrusting points, and thrusts are forbidden: only striking blows count (IMCF, n.d.) (BI, n.d.). A fighter is down when any part of the body except hands and feet touches the ground, or when they are pinned, held or submit; in duels (1v1, sometimes 2 rounds of 1 minute), the first fighter down loses the round. Mass battles (pro fights) range from 5v5 to 150v150 and end when all members of one team are down or surrender; the last team standing wins (IMCF, n.d.).
@@ -44,3 +46,4 @@ Modern armored combat grew out of historical reenactment: the Society for Creati
 - [Buhurt International (BI)](https://www.buhurtinternational.com/) — primary international federation since 2022; events and rankings
 - [Society for Creative Anachronism (SCA)](https://www.sca.org/) — historical reenactment organization running rattan combat since 1966
 - [Fencing](fencing.html), [kendo](kendo.html), [wrestling](wrestling.html) and [boxing](boxing.html) on this site
+- Related on this site: [Kendo](kendo.html), [Wrestling](wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts

@@ -6,6 +6,8 @@ Varzesh-e Bastani (varzesh-e pahlavani, "ancient sport") is the traditional athl
 
 *Figure: Khosravi, H. (Tasnim News Agency). (2015, January 7). Varzesh-e Pahlavani in Mashhad (3) — sportpeople training in a zurkhaneh in Mashhad, Iran [Photograph]. Tasnim News Agency via Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Varzesh-e_Pahlavani_in_Mashhad_(3).jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Kushti](kushti.html), [Pankration](pankration.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A session in the zurkhaneh is led by the morshed, who beats the zarb (clay goblet drum) and recites from the Shahnameh, setting the rhythm for the athletes in the pit; the traditional sequence runs through meel-bazi (club swinging), kabadeh spinning — the most demanding exercise — sang (stone plate) lifting and rotating, shena (zurkhaneh push-ups), charkh (spinning) and finally paired koshti pahlavani wrestling bouts as the climax (UNESCO, n.d.; Wikipedia, n.d.). Etiquette and humility rank as highly as strength: athletes greet the morshed and elders, and rank progression through the pahlevan titles is governed by traditional protocol under national federation safeguarding (Wikipedia, n.d.). In competition, athletes are judged on the execution, rhythm and completeness of the exercises and the wrestling bouts under IZSF rules, in men's and — in Iran's modern women's sections — women's categories (International Zurkhaneh Sports Federation, n.d.).
@@ -28,6 +30,5 @@ The zurkhaneh tradition fuses pre-Islamic Persian warrior training with the pahl
 
 - [International Zurkhaneh Sports and Koshti Pahlavani Federation (IZSF)](https://www.izsf.net/en/) — world governing body and world championships
 - [UNESCO — Pahlevani and zurkhaneh rituals (intangible cultural heritage, 2010)](https://ich.unesco.org/en/RL/pahlevani-and-zurkhaneh-rituals-00394)
-- [Kushti](kushti.html) on this site — the akhara wrestling tradition of India
-- [Pankration](pankration.html) on this site — the ancient Greek all-in combat sport
+- Related on this site: [Kushti](kushti.html), [Pankration](pankration.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html) and [Aikido](aikido.html) — the combat sports and martial arts
 - [Girevoy sport](girevoy-sport.html) on this site — the kettlebell-lifting cousin of the meels

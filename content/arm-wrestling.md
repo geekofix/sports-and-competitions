@@ -8,6 +8,8 @@ Among the athletes shaping the professional scene today, the women come first: S
 
 *Figure: Bennett, D. (2007, June 26). Girls arm wrestling [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Girls_arm_wrestling_home_alive.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under WAF rules, competitors face each other at a table about 91 cm high with an elbow pad and a hand peg; after the referee's "ready — go", both athletes try to pin the opponent, and the bout is won when the back of the opponent's hand or knuckles touch the table. The elbow must stay on the pad — lifting it is a foul — and two false starts earn a foul, after which a strap is used to grip the hands together; the shoulders must stay above the table edge (WAF, n.d.-a). Weight classes for men run 55, 60, 65, 70, 75, 80, 85, 90, 100, 110 kg and +110 kg, with corresponding women's classes, plus junior, master and para categories; the right and left hands are contested separately.
@@ -35,4 +37,4 @@ Arm wrestling as a pub and fairground contest dates to the 19th century; modern 
 
 - [World Armwrestling Federation (WAF)](https://waf-armwrestling.com/) — world governing body; rules, weight classes, world championships
 - [EvW Sports](https://evwsports.com/) — professional world tour (King's Move); events and live results
-- [Wrestling](wrestling.html) and [Freestyle Wrestling](freestyle-wrestling.html) — the mat sports, on this site
+- Related on this site: [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts

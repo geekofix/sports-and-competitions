@@ -6,6 +6,7 @@ Coreeda — meaning "kangaroo spirit" in the Ngiyampaa language — is an Aborig
 
 *Figure: The White House (photo: Chuck Kennedy). (2011, July 15). Michelle Obama and kids double-dutch jump rope - P071511CK-0303 (6047842208) — Double Dutch long-rope jumping on the White House South Lawn — coreeda is the Korean long-rope jumping game, a close relative of Double Dutch [Photograph]. Wikimedia Commons. Public domain (U.S. government work). https://commons.wikimedia.org/wiki/File:Michelle_Obama_and_kids_double-dutch_jump_rope_-_P071511CK-0303_%25286047842208%2529.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wrestling](wrestling.html), [Greco Roman Wrestling](greco-roman-wrestling.html), [Capoeira](capoeira.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,4 +36,4 @@ The Dreaming story of Coreeda tells of Beereun, a lizard man who was instructed 
 - [SBS NITV — Ancient martial art taught in remote Indigenous communities](https://www.sbs.com.au/nitv/article/ancient-martial-art-taught-in-remote-indigenous-communities/qg6c29is1) — the Beereun Dreaming story and the Mt Grenfell rock art
 - [Creative Spirits — Coreeda: Aboriginal wrestling](https://www.creativespirits.info/aboriginalculture/sport/coreeda-aboriginal-wrestling) — rules, circle and clothing of modern Coreeda
 - [Traditional Sports — Coreeda](https://www.traditionalsports.org/traditional-sports/australia-oceania-pacyfic.html) — history of the Coreeda Association since 1998
-- See also [Wrestling](wrestling.html), [Greco-Roman Wrestling](greco-roman-wrestling.html) and [Capoeira](capoeira.html) on this site
+- Related on this site: [Wrestling](wrestling.html), [Greco Roman Wrestling](greco-roman-wrestling.html), [Capoeira](capoeira.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html) and [Kyokushin Karate](kyokushin-karate.html) — the combat sports and martial arts

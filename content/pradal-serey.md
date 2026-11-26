@@ -6,6 +6,8 @@ Pradal Serey ("free boxing"), officially known today as Kun Khmer, is Cambodia's
 
 *Figure: Ian Taylor. (2006, February 12). Cambodia Kun Khmer Battambang 2006 Ian Taylor 1 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_1.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Muay Thai](muay-thai.html), [Lethwei](lethwei.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Bouts are fought in a square ring of about six metres over five rounds of three minutes with one-to-two-minute breaks; fighters wear boxing gloves and shorts, and each bout opens with the traditional *kun khmer* ritual accompanied by live music (Khmer Boxing Phnom Penh, n.d.). All limbs may be used — punches, kicks, knees and elbow strikes, with elbows a hallmark — plus clinch fighting in which knees may be thrown while holding. Judges score effective striking, aggression and technique; continuous retreating or striking a downed opponent costs points, and a level score after five rounds is a draw. Bouts end at any time by knockout or technical stoppage, and weight classes run from light flyweight up to super heavyweight, separately for men and women (Wikipedia, n.d.-b).
@@ -28,5 +30,4 @@ The art descends from the hand-to-hand combat systems of the Khmer Empire, depic
 
 - [Khmer Boxing Phnom Penh — rules and rituals](https://khmerboxingphnompenh.com/guides/kun-khmer-rules-rounds-and-rituals/) — guide to the sport
 - [Kun Khmer at the 2023 SEA Games](https://en.wikipedia.org/wiki/Kun_Khmer_at_the_2023_SEA_Games) — medal-sport debut and results
-- [Muay Thai](muay-thai.html) on this site — the Thai cousin style
-- [Lethwei](lethwei.html) on this site — the Burmese cousin style
+- Related on this site: [Muay Thai](muay-thai.html), [Lethwei](lethwei.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Boran](muay-boran.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts

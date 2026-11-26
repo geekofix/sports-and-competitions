@@ -6,6 +6,7 @@ Khapsagay is the traditional standing wrestling style of the Sakha (Yakut) peopl
 
 *Figure: Theklan. (2015, July 25). Horseback wrestling in Kyrgyzstan — two horseback wrestlers fighting at the National Horse Games in Kyrgyzstan — khapsagay is the Kazakh form of horseback wrestling, where riders try to pull each other off the horse [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Horseback_wrestling_in_Kyrgyzstan.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Greco Roman Wrestling](greco-roman-wrestling.html), [Sambo](sambo.html), [Boxing](boxing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,4 +35,4 @@ Khapsagay grew out of the wrestling traditions of the Sakha people, practiced fo
 
 - [World Nomad Games](https://worldnomadgames.org/en) — international platform; VI Games 2026 in Bishkek and Cholpon-Ata, Kyrgyzstan
 - [Official Khapsagai Wrestling Rules (PDF)](https://worldnomadgames.org/wp-content/uploads/2026/04/Khapsagai-rules-en.pdf) — WNG rules for khapsagai
-- [Wrestling](wrestling.html) on this site — see also [Freestyle Wrestling](freestyle-wrestling.html), [Greco-Roman Wrestling](greco-roman-wrestling.html) and [Sambo](sambo.html) on this site
+- Related on this site: [Wrestling](wrestling.html), [Freestyle Wrestling](freestyle-wrestling.html), [Greco Roman Wrestling](greco-roman-wrestling.html), [Sambo](sambo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html) and [Shito Ryu Karate](shito-ryu-karate.html) — the combat sports and martial arts

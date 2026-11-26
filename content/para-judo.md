@@ -8,6 +8,8 @@ Leading the women today: Yijie Shi of China won the -60 kg J1 gold at Paris 2024
 
 *Figure: Chabe01. (2024, September 6). Victory ceremony of the women's -70 kg J2 at the Paris 2024 Paralympics, Champ de Mars Arena [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%C3%89preuve_Para_Judo_Jeux_Paralympiques_2024_Arena_Champ_Mars_-_Paris_VII_%28FR75%29_-_2024-09-06_-_74.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Judo](judo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Bouts follow IJF rules — ippon, waza-ari, osaekomi, shido and hansoku-make — with two IBSA adaptations: every contest starts with both judoka already gripping each other's gi (kumikata), and if contact is broken the referee calls "mate", the pair returns to the centre and regrips; there is no penalty for stepping off the mat (IBSA (International Blind Sports Federation), n.d.-c; Wikipedia, n.d.-b).
@@ -47,4 +49,4 @@ The IBSA Judo World Championships are the top non-Paralympic event — Astana 20
 - [IBSA events](https://ibsasport.org/events/) — 2026 World Championships Tbilisi
 - [International Judo Federation](https://www.ijff.org/) — base rules applied with IBSA modifications
 - [IPC — Para judo](https://www.paralympic.org/judo) and [Olympics — Paris 2024 judo results](https://www.olympics.com/en/paris-2024/paralympic-games/results/judo)
-- Related on this site: [judo](judo.html), [para-athletics](para-athletics.html)
+- Related on this site: [Judo](judo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html), [Hapkido](hapkido.html) and [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html) — the combat sports and martial arts

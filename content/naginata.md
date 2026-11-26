@@ -6,6 +6,8 @@ Naginata is the modern competitive Japanese martial art of the naginata, a polea
 
 *Figure: Jaimelopezchile. (2019, May 17). Naginata shiai [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Naginata_shiai.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Kendo](kendo.html), [Jodo](jodo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competition has two forms: shiai (free sparring) and engi (forms performed by pairs, judged on execution) (International Naginata Federation, n.d.-a). In shiai, two competitors in full bogu fight for a set time — three minutes at international events — and the first to score two valid points (ippon) wins; otherwise the three referees decide on overall merit (Wikipedia, n.d.). Valid target areas are men (head), kote (wrists/forearms), do (trunk), sune (shins) and tsuki (throat thrust); a point requires a decisive strike with the correct part of the blade, correct posture, spirit and a kiai shout, confirmed by the referees (Wikipedia, n.d.). In engi competition, pairs perform preset shikake-oji techniques or the Zen Nihon Kata, and judges award the win to the better-executed pair (International Naginata Federation, n.d.-b). Women's and men's competitors follow identical rules; the World Championships include women's shiai and engi, and age divisions from juniors to seniors apply equally to both genders (International Naginata Federation, n.d.-b).
@@ -32,5 +34,4 @@ The naginata was used by samurai and ashigaru infantry in Japan from the medieva
 - [INF — World Naginata Championships](https://www.internationalnaginata.org/competition/) — competition rules, shiai and engi formats
 - [All Japan Naginata Federation](https://naginata.jp/english.html) — national federation, founded 1955; history of Atarashii Naginata
 - [European Naginata Federation](https://naginata-federation.eu/) — continental body for European member federations
-- [Kendo](kendo.html) on this site — the sister Japanese budo discipline with the same bogu armor
-- [Jodo](jodo.html) on this site — the related art of the short staff
+- Related on this site: [Kendo](kendo.html), [Jodo](jodo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html) and [Wado Ryu Karate](wado-ryu-karate.html) — the combat sports and martial arts

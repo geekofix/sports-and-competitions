@@ -6,6 +6,7 @@ Pea shooting is a traditional English village contest in which competitors blow 
 
 *Figure: zoetnet. (2010, July 30). Pea shooter 1, Beaubourg, Paris 2010 — a street performer aiming a pea shooter at the Beaubourg in Paris — pea shooting contests fire dried peas from a blowgun or pea shooter at targets [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Pea_shooter_1,_Beaubourg,_Paris_2010.jpg*
 
+ Within the target and precision sports family on this site, its closest relatives are [Shooting](shooting.html), [Archery](archery.html), [10m Air Pistol Shooting](10m-air-pistol-shooting.html), [10m Air Rifle Shooting](10m-air-rifle-shooting.html), [25m Pistol Shooting](25m-pistol-shooting.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -37,5 +38,4 @@ The championship was created in 1971 by John Tyson, the village schoolmaster of 
 - [World Peashooting Championship rules](https://worldpeashoot.com/peashoot-rules/) — current competition rules
 - [BBC News — 2014 championship report](https://www.bbc.com/news/uk-england-cambridgeshire-28284719) — public-service media coverage of the event
 - [Atlas Obscura — World Pea Shooting Championship](https://www.atlasobscura.com/places/world-peashooting-championship) — background on the venue and the event
-- [Shooting](shooting.html) on this site — precision target shooting with firearms and air guns
-- [Archery](archery.html) on this site — the bow-and-arrow target sport
+- Related on this site: [Shooting](shooting.html), [10m Air Pistol Shooting](10m-air-pistol-shooting.html), [10m Air Rifle Shooting](10m-air-rifle-shooting.html), [25m Pistol Shooting](25m-pistol-shooting.html), [25m Rapid Fire Pistol Shooting](25m-rapid-fire-pistol-shooting.html), [50m Pistol Shooting](50m-pistol-shooting.html), [50m Rifle 3 Positions Shooting](50m-rifle-3-positions-shooting.html), [50m Rifle Prone Shooting](50m-rifle-prone-shooting.html), [Skeet Shooting](skeet-shooting.html), [Trap Shooting](trap-shooting.html), [Double Trap Shooting](double-trap-shooting.html), [Practical Shooting (IPSC)](practical-shooting-ipsc.html), [Bat And Trap](bat-and-trap.html), [Archery](archery.html), [Recurve Archery](recurve-archery.html), [Barebow Archery](barebow-archery.html), [Compound Archery](compound-archery.html), [Target Archery](target-archery.html), [Field Archery](field-archery.html), [3D Archery](3d-archery.html), [Mounted Archery](mounted-archery.html), [Run Archery](run-archery.html), [Para Archery](para-archery.html), [Para Shooting](para-shooting.html), [Darts](darts.html), [Axe Throwing](axe-throwing.html), [Knife Throwing](knife-throwing.html), [Tomahawk Throwing](tomahawk-throwing.html), [Boomerang Throwing](boomerang-throwing.html), [Laser Tag](laser-tag.html) and [Underwater Target Shooting](underwater-target-shooting.html) — the target and precision sports

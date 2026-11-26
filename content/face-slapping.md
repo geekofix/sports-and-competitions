@@ -6,6 +6,7 @@ Face slapping (slap fighting) is a combat sport in which two competitors take tu
 
 *Figure: Eyefive45. (2022, August 27). Open Palm of the Left Hand, Fingers — an open palm — in competitive face slapping, two contestants take turns striking each other's face with an open hand, and the open palm is the striking surface [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Open_Palm_of_the_Left_Hand,_Fingers.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Boxing](boxing.html), [Kickboxing](kickboxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,5 +35,4 @@ Slap fighting circulated as viral internet content — Russian slap competitions
 - [Power Slap — official rules](https://www.powerslap.com/rules/) — bout rules, wind-up rule, recovery clock
 - [Power Slap](https://www.powerslap.com/) — events, roster and championship bouts
 - [Nevada State Athletic Commission](https://www.nvsac.com/) — sanctioning body for unarmed combat in Nevada
-- [Boxing](boxing.html) on this site
-- [Kickboxing](kickboxing.html) on this site
+- Related on this site: [Boxing](boxing.html), [Kickboxing](kickboxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts

@@ -6,6 +6,7 @@ Carjitsu (car jitsu) is a combat sport in which two fighters grapple inside the 
 
 *Figure: SSgt Lance Cheung, U.S. Air Force. (1996, August 22). Russian paratroopers - martial arts demonstration — Karate demonstration by a soldier in Bosnia — Carjitsu applies martial-arts techniques to cars [Photograph]. Wikimedia Commons. Public domain (U.S. military work). https://commons.wikimedia.org/wiki/File:Russian_paratroopers_-_martial_arts_demonstration.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Judo](judo.html), [Wrestling](wrestling.html), [Sambo](sambo.html), [Boxing](boxing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -36,4 +37,4 @@ Vik Mikheev began organizing small CarJitsu tournaments among friends in October
 
 - [Pro League Network — CarJitsu](https://www.proleaguenetwork.com/car-jitsu/) — official league site; bouts, fighters, videos
 - [Pro League Network — CarJitsu scores and results](https://www.proleaguenetwork.com/scores/car-jitsu/)
-- [Brazilian jiu-jitsu](brazilian-jiu-jitsu.html), [Judo](judo.html), [Wrestling](wrestling.html), [Sambo](sambo.html) and [Boxing](boxing.html) on this site
+- Related on this site: [Brazilian Jiu-Jitsu](brazilian-jiu-jitsu.html), [Judo](judo.html), [Wrestling](wrestling.html), [Sambo](sambo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html) and [Kyokushin Karate](kyokushin-karate.html) — the combat sports and martial arts

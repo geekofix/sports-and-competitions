@@ -6,6 +6,8 @@ Iaido is the Japanese martial art of the sword in which the practitioner draws t
 
 *Figure: Rodrigja. (2009, June 14). Sayuri practicing iaido with a custom katana [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sayuri_Iaido.JPG*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Kendo](kendo.html), [Karate](karate.html), [Judo](judo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each of the 12 Seitei kata — Mae, Ushiro, Ukenagashi, Tsuka-ate, Kesagiri, Morote-tsuki, Sanpōgiri, Ganmen-ate, Soete-tsuki, Shihōgiri, Sōgiri and Nukiuchi — consists of four phases: *nukitsuke* (drawing and the initial cut), *kiritsuke* (the finishing cut), *chiburi* (removing the blood from the blade with a shaking motion) and *noto* (resheathing) (AJKF, n.d.-a; Wikipedia, n.d.-b). Practitioners train with an unsharpened practice sword (*iaitō*) or, at advanced levels, a real blade (*shinken*), wearing a *keikogi* and *hakama*; alongside the Seitei forms, the classical schools (*koryū*) such as Musō Jikiden Eishin-ryū, Musō Shinden-ryū and Hoki-ryū are still practiced (Wikipedia, n.d.-a). Gradings run from *kyū* to *dan*; the All Japan Iaido Championship has been held since 1966 with dan-grade brackets. In shiai (competition), two competitors perform the same or different kata at the same time on two parallel embusen (performance lines), and three or five judges decide the winner by majority flag (red/white), with penalties for stepping off the line or major technical faults (AJKF, n.d.-a; Wikipedia, n.d.-b). Men and women compete in the same events under identical rules, and age categories (juniors, seniors, veterans) exist at national championships (AJKF, n.d.-a).
@@ -29,6 +31,5 @@ The art of drawing and cutting in one motion developed among the samurai of Japa
 
 - [All Japan Kendo Federation (ZNKR/AJKF)](https://www.kendo.or.jp/) — national governing body; Seitei iai kata and All Japan Iaido Championship
 - [International Kendo Federation (FIK)](https://www.kendo-fik.com/) — world federation of kendo and iaido, 60+ nations
-- [Kendo](kendo.html) on this site — the Japanese bamboo-sword martial art
+- Related on this site: [Kendo](kendo.html), [Karate](karate.html), [Judo](judo.html), [Boxing](boxing.html), [Bare Knuckle Boxing](bare-knuckle-boxing.html), [Kickboxing](kickboxing.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html) and [Aikido](aikido.html) — the combat sports and martial arts
 - [Fencing](fencing.html) on this site — the Western sword sport
-- [Karate](karate.html) and [Judo](judo.html) on this site — other Japanese martial arts

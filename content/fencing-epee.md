@@ -4,6 +4,8 @@
 
 At the end of 2026 the leading épée fencers of the 2026/27 season are, on the women's side, Italy's Roberta Marzani at the top of the FIE world rankings, ahead of her compatriots and of France's and China's leading épéeists; on the men's side Hungary's Gergely Siklósi and Máté Tamás Koch lead the rankings (FIE, n.d.-b).
 
+ Within the fencing family on this site, its closest relatives are [Fencing](fencing.html), [Fencing Foil](fencing-foil.html), [Fencing Sabre](fencing-sabre.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The épée weighs at most 770 g with a maximum total length of 110 cm and a stiff V-shaped blade of at most 90 cm; the button at the tip must register a pressure of at least 750 g to score, and the guard is a large round bell guard (FIE, n.d.-b). The bout is fenced on the standard 14 m × 1.5–2 m conductive piste: individual direct-elimination bouts run in three periods of three minutes with one-minute breaks and are won at 15 touches, with a one-minute priority period if tied; pool bouts last three minutes or five touches; team events are nine-bout relays to a cumulative 45 touches (FIE, n.d.-b).
@@ -37,6 +39,4 @@ Italy has dominated the men's épée historically: Edoardo Mangiarotti (1919–2
 - [FIE world rankings](https://www.fie.org/athletes) — official rankings per weapon, gender and age group
 - [FIE World Championships 2026 Hong Kong](https://fie.org/tournaments/2026/86) — official event page
 - [Olympic fencing](https://www.olympics.com/en/olympic-games/olympic-sports/fencing) — épée at the Olympic Games since 1900 (men) and 1996 (women)
-- [Fencing](fencing.html) on this site — shared rules of all three weapons
-- [Foil](fencing-foil.html) on this site
-- [Sabre](fencing-sabre.html) on this site
+- Related on this site: [Fencing](fencing.html), [Fencing Foil](fencing-foil.html) and [Fencing Sabre](fencing-sabre.html) — the fencing disciplines

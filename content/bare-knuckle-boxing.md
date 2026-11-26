@@ -8,6 +8,8 @@ BKFC UK has staged 17 events by September 2026, including its Scotland debut in 
 
 *Figure: Dlldc. (2024, March 23). Yunus Emre Batan at Bare Nuckle FC (BKFC Europe) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Yunus_Emre_Batan_BKFC_Europe.jpg*
 
+ Within the combat sports and martial arts family on this site, its closest relatives are [Boxing](boxing.html), [Kickboxing](kickboxing.html), [Wrestling](wrestling.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under BKFC rules, professional bouts are five rounds of two minutes each (title fights), with one-minute rests; amateur and women's bouts are three rounds of two minutes. Fighters may strike only with a closed fist above the waist; no elbows, knees, kicks, throws, grappling or holding; wrapping/bandaging of hands is limited to a small gauze pad held by tape. The referee enforces the scratch lines and the commands "toe the line" and "knuckle up" at the start of each round (BKFC, n.d.-b).
@@ -40,4 +42,4 @@ Tom King, who held the English title 1851–1853, fought the American John C. He
 - [Bare Knuckle Fighting Championship (BKFC)](https://www.bkfc.com/) — leading professional promotion; events, champions and DAZN broadcasts
 - [BKFC Rankings](https://www.bkfc.com/rankings/) — official world rankings and champions by division
 - [International Bare Knuckle Boxing Hall of Fame (IBHOF)](https://www.ibhof.com/) — history and records of the bare-knuckle era
-- [Boxing](boxing.html), [Kickboxing](kickboxing.html) and [Wrestling](wrestling.html) on this site
+- Related on this site: [Boxing](boxing.html), [Kickboxing](kickboxing.html), [Wrestling](wrestling.html), [Muay Thai](muay-thai.html), [Muay Boran](muay-boran.html), [Lethwei](lethwei.html), [Bokator](bokator.html), [Pankration](pankration.html), [Judo](judo.html), [Para Judo](para-judo.html), [Taekwondo](taekwondo.html), [Taekwondo (WT)](taekwondo-wt.html), [Taekwondo (ITF)](taekwondo-itf.html), [Para Taekwondo](para-taekwondo.html), [Karate](karate.html), [Karate Kata](karate-kata.html), [Karate Kumite](karate-kumite.html), [Shotokan Karate](shotokan-karate.html), [Goju Ryu Karate](goju-ryu-karate.html), [Shito Ryu Karate](shito-ryu-karate.html), [Kyokushin Karate](kyokushin-karate.html), [Wado Ryu Karate](wado-ryu-karate.html), [Aikido](aikido.html) and [Hapkido](hapkido.html) — the combat sports and martial arts
