@@ -14,58 +14,7 @@ How to work through it:
 - Each group notes the matching group in `data/related_groups.md` (in backticks) so the new entry
   can be cross-linked later; NEW group keys are proposals to add to `data/related_groups.md`.
 - Ethics: never add anything from the exclusion list at the bottom (README policy).
-
-## Group 1 — Outrigger canoe & paddle craft (`canoeing-rowing-sailing`, `water-board-sports`)
-
-- Va'a — Polynesian outrigger canoe sprint (V1–V12), ICF discipline, Pacific Games
-- Para Va'a — para outrigger canoe (KL1–KL3), ICF, Paralympics since Paris 2024
-- Waka Ama — Maori outrigger canoe (W1–W12), International Va'a Federation
-- Surf Ski — ocean-racing surfski, World Surfski Championships
-- Freestyle Kayak — kayak rodeo/playboating, ICF
-- Playboating — kayak surfing on river waves
-- Whitewater Rafting Race — competitive raft racing
-- Hydrospeed — riverboarding on foam boards
-- Riverboarding — prone river surfing
-
-## Group 2 — African traditional sports (`combat-sports`, `folk-festival-games`, `hockey-family`)
-
-- Laamb — Senegalese wrestling with blows, Dakar world championships
-- Kokawa — traditional wrestling, Niger/Nigeria
-- Dambe — traditional Nigerian boxing ('the fist')
-- Evala — wrestling of the Kuanza region, Angola
-- Abula — Oromo wrestling, Ethiopia
-- Langa — Venda stick fighting, South Africa
-- Nguni Stick Fighting — Zulu/Xhosa stick fighting
-- Tahtib — Egyptian stick fighting, UNESCO intangible heritage
-- Ampe — Ghanaian clapping game
-- Asafo Atwele — Ghanaian rhythm game
-- Gidigbo — traditional game, West Africa
-- Genna — Ethiopian field hockey with curved stick
-- Sand Hockey — desert hockey at Morocco's Nomads Festival
-
-## Group 3 — Arctic & Indigenous North American disciplines (NEW `arctic-indigenous-sports` (rel. `folk-festival-games`, `multi-sport-events`))
-
-- Blanket Toss (Nalukataq) — toss on seal/walrus-hide blanket, Inuit
-- Snow Snake — greased wooden stick thrown farthest over snow, Dene
-- Hand Games — Dene dexterity game, Arctic Winter Games
-- Finger Pull — grip duel on a wooden stick, AWG/WEIO
-- Stick Pull — greased-stick grip test, Dene games
-- Pole Push — pushing duel with a pole, Dene games
-- One-Foot High Kick — single-leg jump onto hanging target, Inuit
-- Two-Foot High Kick (Akratcheak) — double-leg high kick
-- Alaskan High Kick — balance-foot kick variant, WEIO
-- Kneel Jump — distance jump from kneeling, AWG
-- Sledge Jump — sledge-push jump, AWG
-- Arctic Triple Jump — triple jump variant, AWG
-- Arm Pull — arm strength pull, AWG/WEIO
-- Head Pull — neck strength pull, AWG/WEIO
-- Knuckle Hop — hop on knuckles over distance, WEIO
-- Airplane — prone hold strength event, AWG
-- One-Hand Reach — one-arm hold, AWG
-- Ear Pull — ear-loop pulling duel, WEIO
-- Ear Weight — hanging weight hold, WEIO
-- Four-Man Carry — relay carry, WEIO
-- World Eskimo Indian Olympics — annual Fairbanks multi-sport event since 1961
+- Groups 1-3 were processed on 2026-11-26 (43 entries added to the collection); their sections were removed.
 
 ## Group 4 — Central Asian nomad games (NEW `nomad-games` (rel. `equestrian`, `combat-sports`, `mind-games`, `multi-sport-events`))
 

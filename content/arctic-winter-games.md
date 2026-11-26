@@ -31,5 +31,5 @@ The Games were founded in 1970 through the initiative of Alaska Governor Wally H
 
 - [Arctic Winter Games — official council](https://arcticwintergames.net/) — history, program and Hodgson Trophy
 - [AWG 2026 Whitehorse](https://awg2026.org/) — the 2026 Games, March 8–15, 2026, Yukon
-- Related on this site: [Arctic Sports](arctic-sports.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html), [Hemp Olympics](hemp-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals
+- Related on this site: [Arctic Sports](arctic-sports.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html), [Hemp Olympics](hemp-olympics.html), [Finnish Sauna Olympics](finnish-sauna-olympics.html) and [World Eskimo Indian Olympics](world-eskimo-indian-olympics.html)(world-eskimo-indian-olympics.html)(finnish-sauna-olympics.html) — the multi-sport events and games festivals
 - [Ice Hockey](ice-hockey.html) — the headline winter sport of the Games, on this site
