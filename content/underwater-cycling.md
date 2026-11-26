@@ -6,6 +6,8 @@ Underwater cycling is the novelty sport of riding a bicycle at the bottom of a s
 
 *Figure: Cangemi, N. L. (U.S. Navy). (2006, December 6). US Navy 061206-G-3721C-166 — scuba students at the Naval Diving and Salvage Training Center undergo confidence training in a 12-foot pool at Panama City, Florida, the pool-bottom setting of underwater cycling [Photograph]. U.S. Navy. Public domain. https://commons.wikimedia.org/wiki/File:US_Navy_061206-G-3721C-166_Scuba_students_at_the_Naval_Diving_and_Salvage_Training_Center_undergo_confidence_training,_in_a_12-foot_pool_as_part_of_their_scuba_certification_course.jpg*
 
+ This is one of the underwater sports of the aquatics family — [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Freediving](freediving.html) — the full list is under Important Links.
+
 ## Rules
 
 Events run on the floor of a swimming pool a few metres deep: competitors in mask, regulator and scuba set mount purpose-built bicycles ballasted with weights so they stay on the bottom, and pedal a set distance along marked lanes or a slalom course around markers, without fins (Wikipedia, n.d.). Races are timed from the start signal to the touch at the finish line, and event categories differ by distance and course layout — straight sprint lanes or slalom — rather than by gender, so women's and men's results are recorded in the same races under identical rules (Wikipedia, n.d.). Safety rules follow standard diving practice: each rider is paired with a buddy, surface judges and officials supervise, and competitors may surface at any time without penalty in the recreational format (Wikipedia, n.d.). There is no international federation; the rules are set by the hosting diving club or festival, above all the French organizers of the Pays de Caux championship (Normandie Tourisme, n.d.).
@@ -26,6 +28,5 @@ Underwater cycling is a creature of the late-20th-century novelty-sport era: its
 ## Important Links
 
 - [Normandie Tourisme](https://www.normandie-tourisme.fr/) — the Pays de Caux festival hosting the underwater-cycling world championship
-- [Freediving](freediving.html) and [Finswimming](finswimming.html) on this site — the underwater sports family
-- [Underwater hockey](underwater-hockey.html) and [Underwater rugby](underwater-rugby.html) on this site — the pool-bottom team sports
-- [Swimming](swimming.html) and [Cycling](cycling.html) on this site — the two sports combined
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
+- [Cycling](cycling.html) on this site — the dry-land sport combined

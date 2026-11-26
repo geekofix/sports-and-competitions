@@ -6,6 +6,8 @@ Water polo is the team ball sport played in a swimming pool: two teams of seven 
 
 *Figure: Daieuxetdailleurs. (2024, August 10). Eleftheria Plevritou — Summer Olympics, women's water polo classification 7th–8th match, Greece v Canada, Paris La Défense Arena, 10 August 2024; Greek goalkeeper Eleftheria Plevritou, 2025 world champion [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Eleftheria_Plevritou_-_Summer_Olympics_-_Water_Polo_women's_water_polo_classification_7th_8th_match_-_Greece_vs_Canada_-_2024-08-10.jpg*
 
+ Water polo is the surface team sport of the aquatics — [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Swimming](swimming.html) — listed under Important Links.
+
 ## Rules
 
 A match consists of four quarters of eight minutes of playing time, with a 30-second shot clock; teams field seven players (six plus a goalkeeper), and field players may touch the ball with one hand only, while the goalkeeper may use both hands within the 5 m area (World Aquatics, n.d.). Play is physical but regulated: shoulder-to-shoulder challenges and stealing the ball from a holder are legal, while holding, sinking or striking an opponent, and punching the ball, are fouls — ordinary fouls give a free throw, exclusion fouls send the offender to the penalty area for 20 seconds (fourth exclusion is permanent), and a major foul in the attacking 5 m area awards a 5 m penalty throw (World Aquatics, n.d.; Wikipedia, n.d.). The pool is at least 1.8 m deep so players cannot stand, goals are nets 3 m wide and 0.9 m high, and men's and women's tournaments are run separately under the same Laws of the Game, with different ball sizes historically (men's 710–730 g, women's 400–450 g) (World Aquatics, n.d.). Substitutions are free at any stoppage, and video review (VAR) is used at major tournaments (World Aquatics, n.d.).
@@ -28,7 +30,6 @@ Water polo emerged in late-19th-century Britain as "aquatic rugby" played in riv
 
 - [World Aquatics — water polo](https://www.worldaquatics.com/waterpolo) — world governing body, Laws of the Game, World Championships and World Cup
 - [Olympics — water polo](https://www.olympics.com/en/sports/water-polo/)
-- [Underwater hockey](underwater-hockey.html) and [Underwater rugby](underwater-rugby.html) on this site — pool sports played at the bottom
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
 - [Canoe polo](canoe-polo.html) on this site — water polo's kayak cousin
-- [Swimming](swimming.html) and [Diving](diving.html) on this site — the aquatic foundations of water polo
 - [Handball](handball.html) on this site — the dry-land sport whose throwing tactics water polo shares

@@ -8,6 +8,8 @@ Among the athletes shaping the sport today, the leading women come first: Great 
 
 *Figure: Almalaut. (2019, April 9). Blanca Toledano Laut, Spanish artistic swimmer, Olympic bronze medalist with the team at Paris 2024 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Blanca_Toledano_Laut.jpg*
 
+ Artistic swimming is a judged aquatic discipline — [Swimming](swimming.html), [Diving](diving.html), [Para Swimming](para-swimming.html) — within the aquatics list under Important Links.
+
 ## Rules
 
 Routines are performed in the pool to music and include figures, lifts, acrobatics and highlights out of the water. At World Championships and the Olympics, the team competition consists of a technical routine, a free routine and — since 2023 — an acrobatic routine, each within set time limits and with required elements; solo, duet, mixed duet and team of eight are contested. Panels of judges award technical merit, artistic impression and execution scores. Men may compete in team events since Paris 2024, with a maximum of two men per team at Los Angeles 2028; men and women otherwise compete in separate events (WA, n.d.-a; Olympics.com, n.d.).
@@ -30,4 +32,4 @@ The sport began as "water ballet" in the 1890s — Australian Annette Kellerman 
 
 - [World Aquatics — Artistic swimming](https://worldaquatics.com/artistic-swimming/) — world governing body; rules, calendar and results
 - [Olympics.com — Artistic swimming](https://olympics.com/en/sports/artistic-swimming/) — Olympic history and results
-- [Swimming](swimming.html), [Open Water Swimming](open-water-swimming.html) and [Water Polo](water-polo.html) — the other aquatic disciplines, on this site
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines

@@ -6,6 +6,8 @@ Open water swimming, also called marathon swimming, is competitive swimming in n
 
 *Figure: Danielle. (2009, June 29). Swimmers ready for start at Randers Open Water 2009, Randers, Denmark [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:RandersOpenWater_swimmers.JPG*
 
+ Together with [Swimming](swimming.html), this is an open-water discipline — [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html) — and the full aquatics list is under Important Links.
+
 ## Rules
 
 Championship races are held over 5 km, 10 km and 25 km, plus a 3 km knockout sprint and a mixed team relay in which two men and two women each swim 1.25 km (World Aquatics, n.d.). Races are started with a mass start from a pontoon or the beach, timed electronically at start and finish, and swimmers must follow the marked course; touching another swimmer, a boat or a buoy out of the course, or receiving assistance, leads to disqualification (World Aquatics, n.d.). Feeding stations are allowed in races of 5 km and longer, where support crews hand food and drinks from boats (World Aquatics, n.d.). Water temperature must be between 16 and 31 degrees Celsius; between 16 and 18 degrees the swimmer must wear a full foam suit, and below 16 degrees the race is cancelled for safety (World Aquatics, n.d.). Men's and women's races use the same distances, rules and temperature limits, differing only in the start order and heat allocation (International Olympic Committee, n.d.).
@@ -29,5 +31,5 @@ Long-distance swimming in open water has been practiced for centuries — the fi
 - [World Aquatics](https://www.worldaquatics.com/) — world governing body; open water rules, World Championships and World Cup
 - [Marathon swimming at the Olympics](https://www.olympics.com/en/olympic-games/olympic-sports?slug=swimming-marathon) — Olympic 10 km since Beijing 2008
 - [Open water swimming — Wikipedia](https://en.wikipedia.org/wiki/Open_water_swimming) — history, channel crossings and records
-- [Swimming](swimming.html) on this site — pool swimming, the parent discipline
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
 - [Triathlon](triathlon.html) on this site — includes the open-water swim leg

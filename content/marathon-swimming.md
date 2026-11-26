@@ -8,6 +8,8 @@ Among the athletes defining the 2026 season, the women lead: Moesha Johnson of A
 
 *Figure: Cs-wolves. (2018, August 9). Sharon van Rouwendaal of the Netherlands, Olympic 10 km marathon swimming champion 2016 and 2024, racing in the women's 10 km open water at the 2018 European Aquatics Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sharon_van_Rouwendaal_-_2018_European_Aquatics_Championships_%28Women%27s_10_km_open_water%29.jpg*
 
+ Together with [Swimming](swimming.html), this is an open-water discipline — [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html) — and the full aquatics list is under Important Links.
+
 ## Rules
 
 The Olympic marathon swim is 10 km on a course marked by buoys and checked by GPS; all swimmers start together in a mass start and are timed electronically with chips at start and finish (World Aquatics, n.d.-c; Olympics, n.d.). Feeding stations are placed along the course in races of 5 km and longer, where support crews in escort boats hand food and drinks to the swimmers; touching another swimmer outside the course rules, a boat or a buoy, or receiving any assistance, leads to disqualification (World Aquatics, n.d.-c).
@@ -42,6 +44,5 @@ Long-distance swimming in open water has been practiced for centuries: the first
 - [World Aquatics](https://www.worldaquatics.com/) — world governing body; open water rules, World Championships and Open Water Swimming World Cup
 - [World Aquatics — Open water swimming](https://www.worldaquatics.com/open-water-swimming) — distances, rules and records
 - [Olympics — marathon swimming (10 km open water)](https://www.olympics.com/en/olympic-games/olympic-sports?slug=swimming-marathon) — Olympic 10 km since Beijing 2008
-- [Open water swimming](open-water-swimming.html) on this site — all open water distances (5/10/25 km, 3 km knockout, mixed relay)
-- [Swimming](swimming.html), [Freestyle swimming](freestyle-swimming.html) and [Triathlon](triathlon.html) on this site — related disciplines (triathlon includes the open-water swim leg)
-- [Para swimming](para-swimming.html) on this site — open water para classes
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
+- [Triathlon](triathlon.html) on this site — includes the open-water swim leg

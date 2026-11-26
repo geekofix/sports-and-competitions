@@ -6,6 +6,8 @@ Underwater rugby is the full-contact team sport played entirely under water on o
 
 *Figure: Schmedling, P. F. (2006, May 14). UW-rugby match 1 — women underwater rugby players with the underwater rugby ball in a swimming pool [Photograph]. Wikimedia Commons. GFDL; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:UW-rugby_match_1.jpg*
 
+ This is one of the underwater sports of the aquatics family — [Underwater Hockey](underwater-hockey.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Freediving](freediving.html) — the full list is under Important Links.
+
 ## Rules
 
 A match runs in two halves of 15 minutes in a pool 3.5–5 m deep; each team fields six players plus up to five substitutes, who may enter freely, and wears mask, snorkel, fins and ear protection (CMAS, n.d.; Wikipedia, n.d.). The ball is a rubber sphere filled so that it sinks slowly toward the bottom, and each goal is a rigid basket with a net fixed to the pool floor at the end of the pitch; a point is scored only by placing the ball into the opponents' basket, and an opposing player may hold the rim while defending (Wikipedia, n.d.). Full three-dimensional body contact is legal, but dangerous play — strangling an opponent, pulling off mask, fins or snorkel, and holding a player for an excessive time — is penalized with free throws, penalty shots and temporary exclusion (CMAS, n.d.). Men and women play under identical technical rules in separate men's and women's world championship categories, alongside youth divisions, and the CMAS rulebook fixes pool dimensions, goal and ball specifications, substitution mechanics and the foul catalogue (CMAS, n.d.).
@@ -28,6 +30,5 @@ Underwater rugby was invented in 1961 by Ludwig von Bersuda, a diving instructor
 
 - [CMAS — Confédération Mondiale des Activités Subaquatiques, underwater rugby commission](https://www.cmas.org/rugby) — world governing body and world championships
 - [Verband Deutscher Sporttaucher (VDST)](https://www.vdst.de/) — German diving federation, the sport's founding federation
-- [Underwater hockey](underwater-hockey.html) on this site — the pool-bottom sibling sport
-- [Water polo](water-polo.html) and [Rugby union](rugby-union.html) on this site — the surface-water and dry-land parents of the game
-- [Freediving](freediving.html) on this site — the breath-hold foundation of underwater rugby
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
+- [Rugby union](rugby-union.html) on this site — the dry-land parent of the game

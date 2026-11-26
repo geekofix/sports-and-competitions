@@ -10,6 +10,8 @@ Leading the women today: Yip Pin Xiu of Singapore (S2) is a seven-time Paralympi
 
 *Figure: Eric Salard. (2024, September 1). Women's 100 m freestyle final at the Paris 2024 Paralympics, Paris La Défense Arena, won by Emeline Pierre of France [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:PARA-NATATION_PARALYMPICS_GAMES_PARIS_2024_PARYLIMPIQUES_100M_NL_VICTOIRE_D%27Emeline_PIERRE_%2853964394478%29.jpg*
 
+ Para swimming is the adaptive format within the aquatics family — [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Marathon Swimming](marathon-swimming.html) — listed under Important Links.
+
 ## Rules
 
 World Aquatics competition rules apply per class: dives starts from the blocks for freestyle, backstroke (started in the water), butterfly and medley, and breaststroke; S11–S13 swimmers use tapper sticks signalled by an official at turns and finishes; relays combine classes within a points limit (e.g. a 34-point freestyle relay may be two S8 and two S9 swimmers) (Wikipedia, n.d.-b; World Para Swimming, n.d.-c).
@@ -48,4 +50,5 @@ Swimming for athletes with disabilities has been part of the Paralympics since R
 - [WP Swimming events](https://www.paralympic.org/swimming/events) — 2026 World Series, 2025 World Championships Singapore
 - [World Aquatics — swimming rules](https://www.worldaquatics.com/swimming/rules) — base competition rules
 - [Olympics — Paris 2024 swimming results](https://www.olympics.com/en/paris-2024/paralympic-games/results/swimming)
-- Related on this site: [swimming](swimming.html), [backstroke](backstroke-swimming.html), [marathon swimming](marathon-swimming.html), [para-athletics](para-athletics.html)
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html) and [Lifesaving](lifesaving.html) — the aquatics disciplines
+- [Para Athletics](para-athletics.html) on this site — the land Paralympic disciplines

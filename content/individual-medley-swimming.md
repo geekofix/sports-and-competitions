@@ -8,6 +8,8 @@ Among the athletes defining the 2026 season, the women lead: Summer McIntosh of 
 
 *Figure: Edogi no Tokumou. (2020, February 15). Yui Ohashi of Japan, Olympic 200 m and 400 m individual medley medallist (Tokyo 2020, Paris 2024), pictured in 2021 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Yui_Ohashi_%28JAP%29.jpg*
 
+ Together with [Swimming](swimming.html), this stroke belongs to the pool-stroke family — [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html) — and the full aquatics list is under Important Links.
+
 ## Rules
 
 In the individual medley the strokes are swum in the fixed order butterfly, backstroke, breaststroke, freestyle — one quarter of the race each over 200 m and 400 m (50 m each at 200 m, 100 m each at 400 m); each quarter must be swum according to that stroke's rules, and the freestyle quarter may be swum in any style other than backstroke, breaststroke or butterfly (World Aquatics, n.d.-d; Wikipedia, n.d.-a). Turns at the change of stroke must be executed according to the rules of the stroke being finished and the stroke being started; at the finish the swimmer must touch in the freestyle position (World Aquatics, n.d.-d).
@@ -52,4 +54,5 @@ The 400 m individual medley has been an Olympic event for men since Tokyo 1964 �
 - [World Aquatics Championships](https://www.worldaquatics.com/competitions) — the biennial world championship (Singapore 2025; 25 m edition Beijing 2026)
 - [World Aquatics Swimming World Cup](https://www.worldaquatics.com/competitions) — the international short-course series
 - [Olympics — swimming](https://www.olympics.com/en/sports/swimming/) — Olympic programme and results
-- [Freestyle](freestyle-swimming.html), [Backstroke](backstroke-swimming.html), [Breaststroke](breaststroke-swimming.html), [Butterfly](butterfly-swimming.html), [Open water swimming](open-water-swimming.html), [Swimming](swimming.html), [Para swimming](para-swimming.html), [Modern pentathlon](modern-pentathlon.html) on this site — the other swimming disciplines
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
+- [Modern Pentathlon](modern-pentathlon.html) on this site — includes a swim leg

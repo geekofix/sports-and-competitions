@@ -6,6 +6,8 @@ Underwater hockey — nicknamed octopush — is the breath-hold team sport playe
 
 *Figure: DavidUnderwater. (2009, March 14). OctopushTwoPlayers28092009 — two players compete for the puck at the GB Underwater Hockey University Student Nationals 2009, held at Bangor University, Wales [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:OctopushTwoPlayers28092009.JPG*
 
+ This is one of the underwater sports of the aquatics family — [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Freediving](freediving.html) — the full list is under Important Links.
+
 ## Rules
 
 A game is played in a pool 2–4 m deep, in two halves of 10–15 minutes, by two teams of six players with up to four substitutes; players wear mask, snorkel, fins, a water-polo cap, a glove and a mouthguard, and carry a roughly 30 cm one-handed stick (the "pusher") to pass, flick and shoot a lead-coated puck of about 1.3–1.5 kg (CMAS, n.d.; Wikipedia, n.d.). Goals are 3 m wide troughs at each end of the pool, and a point is scored when the puck enters the trough; players surface and dive continuously in the sport's characteristic rhythm, and surfacing is never a foul (CMAS, n.d.). Contact rules prohibit body contact and blocking except stick-on-stick and stick-on-puck contact: obstruction, playing the puck with the body or hand, and interfering with an opponent's equipment or mask are fouls punished with free pucks, penalty shots and exclusions (CMAS, n.d.). Men and women play under identical technical rules in separate men's and women's categories, with mixed competition also offered, across junior, senior and masters age groups; CMAS runs the biennial world championships and publishes the official rules (CMAS, n.d.; Wikipedia, n.d.).
@@ -28,6 +30,5 @@ Underwater hockey was invented in 1954 by Alan Blake of the Southsea Sub-Aqua Cl
 
 - [CMAS — Confédération Mondiale des Activités Subaquatiques](https://www.cmas.org/) — world governing body: underwater hockey rules and world championships
 - [USA Underwater Hockey](https://www.usauwh.com/) — US clubs, how the game is played
-- [Underwater rugby](underwater-rugby.html) and [Freediving](freediving.html) on this site — the other underwater team and breath-hold sports
-- [Ice hockey](ice-hockey.html) and [Water polo](water-polo.html) on this site — the dry-land and surface parents of the equipment
-- [Finswimming](finswimming.html) on this site — CMAS's other pool discipline
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
+- [Ice hockey](ice-hockey.html) on this site — the dry-land parent of the equipment

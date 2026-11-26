@@ -8,6 +8,8 @@ At the end of 2026 the leading women are Zsófia Törőcsik (HUN) — 2026 FIM w
 
 *Figure: Roger1211. (2025, August 11). Zsófia Törőcsik at the 2025 World Games — Hungarian freediver with her gold medal at the 2025 World Games in Chengdu [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Zsófia_Törőcsik_at_the_2025_World_Games.jpg*
 
+ Freediving is the breath-hold foundation of the underwater aquatics — [Finswimming](finswimming.html), [Open Water Swimming](open-water-swimming.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html) — listed under Important Links.
+
 ## Rules
 
 AIDA competition rules govern safety and judging: in depth disciplines the athlete is pulled down and up by a lanyard attached to the wrist (except NLT, which uses a lift bag) and must surface with the tag, remove the nose clip and give the OK signal within a set time; white card = valid, yellow = penalty (e.g., early start, lanyard issues), red = disqualification (AIDA, n.d.-b). In pool disciplines, the face must be immersed at the start of STA and the athlete must remain at the surface after the performance until the protocol is complete; blackout or loss of motor control means immediate disqualification and medical attention (AIDA, n.d.-b). In CWT the athlete descends and ascends under their own power with a constant weight; FIM allows pulling on the rope; DYN is measured by horizontal distance in a pool with fins; STA by breath-hold time; records are ratified after video review and anti-doping controls (AIDA, n.d.-b; CMAS, n.d.). Men and women compete in the same disciplines with separate records, and there are junior (U18) and masters age classes at world championships (AIDA, n.d.-b). The central safety rule across all freediving is that no athlete ever trains or competes alone — a buddy system with a trained safety diver is mandatory (AIDA, n.d.-b).
@@ -45,9 +47,5 @@ Freediving's modern competitive era began in the 1950s–60s, when Italian naval
 - [AIDA world records](https://www.aidainternational.org/records/) — official record list (Molchanov 137 m CWT, Solich-Talanda 270 m DYNB, Törőcsik 108 m FIM)
 - [CMAS — Confédération Mondiale des Activités Subaquatiques](https://www.cmas.org/freediving) — second world governing body; depth world championships 2026 Roatán
 - [The World Games 2025 Chengdu — freediving](https://theworldgames.org/) — freediving on the World Games program since 2025
-- [Swimming](swimming.html) on this site
-- [Open Water Swimming](open-water-swimming.html) on this site
-- [Finswimming](finswimming.html) on this site
-- [High Diving](high-diving.html) on this site
-- [Underwater Hockey](underwater-hockey.html) on this site
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Cliff Diving](cliff-diving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
 - [Underwater Target Shooting](underwater-target-shooting.html) on this site

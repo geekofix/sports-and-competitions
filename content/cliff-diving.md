@@ -8,6 +8,8 @@ The 2026 Red Bull Cliff Diving World Series champions were decided in the autumn
 
 *Figure: Elekes Andor. (2017, July 29). Rhiannan Iffland of Australia on the platform with her medal after winning the 2017 Red Bull Cliff Diving World Series — she went on to win ten consecutive titles (2016–2019, 2021–2026) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Rhiannan_Iffland_%28AUS%29_2017.jpg*
 
+ Together with [Swimming](swimming.html), this belongs to the diving family — [Diving](diving.html), [High Diving](high-diving.html) — and the full aquatics list is under Important Links.
+
 ## Rules
 
 At World Aquatics Championships men dive from a 27 m platform and women from 20 m; at other international events the platforms range from 22–27 m for men and 18–23 m for women, and the Red Bull Cliff Diving World Series uses 27 m (men) and 20 m (women), from platforms or natural cliffs (World Aquatics, n.d.-c; Red Bull Cliff Diving, n.d.; Wikipedia, n.d.-b). Each competitor performs a set number of dives — typically three or four per event as fixed in the event regulations — and five judges award execution points from 0 to 10 in half-point steps, which are multiplied by the dive's degree of difficulty (up to about 5.0); the highest total wins, and in the Red Bull series the winner of each stop receives 200 points toward the overall King Kahekili Trophy (World Aquatics, n.d.-b; Red Bull Cliff Diving, n.d.).
@@ -47,5 +49,4 @@ Cliff diving has roots in the Hawaiian tradition of *lele kawa* — King Kahekil
 - [World Aquatics — High diving](https://www.worldaquatics.com/high-diving) — world governing body; World Championships and High Diving World Cup
 - [World Aquatics High Diving Rules](https://www.worldaquatics.com/high-diving/rules) — official rulebook and event regulations
 - [Red Bull Cliff Diving World Series](https://www.redbull.com/cliffdiving) — premier series since 2006, King Kahekili Trophy, world rankings
-- [High diving](high-diving.html) on this site — the World Aquatics high diving discipline
-- [Diving](diving.html) and [Swimming](swimming.html) on this site — related aquatic disciplines (pool diving up to 10 m)
+- Related on this site: [Swimming](swimming.html), [Freestyle Swimming](freestyle-swimming.html), [Backstroke Swimming](backstroke-swimming.html), [Breaststroke Swimming](breaststroke-swimming.html), [Butterfly Swimming](butterfly-swimming.html), [Individual Medley Swimming](individual-medley-swimming.html), [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html), [Finswimming](finswimming.html), [Artistic Swimming](artistic-swimming.html), [Diving](diving.html), [High Diving](high-diving.html), [Freediving](freediving.html), [Water Polo](water-polo.html), [Underwater Hockey](underwater-hockey.html), [Underwater Rugby](underwater-rugby.html), [Underwater Orienteering](underwater-orienteering.html), [Underwater Cycling](underwater-cycling.html), [Lifesaving](lifesaving.html) and [Para Swimming](para-swimming.html) — the aquatics disciplines
