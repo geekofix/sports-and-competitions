@@ -6,6 +6,8 @@ Synchronized trampoline is a discipline of trampoline gymnastics in which two at
 
 *Figure: Tim Dannenberg. (2021, November 22). 2021 Trampoline WAGC, Baku 2 — Baku National Gymnastics Arena [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2021_Trampoline_WAGC,_Baku_2.jpg*
 
+ This belongs to the FIG trampoline family — [Trampoline](trampoline.html), [Trampoline Gymnastics](trampoline-gymnastics.html), [Double Mini Trampoline](double-mini-trampoline.html), [Tumbling](tumbling.html) — within the gymnastics family listed under Important Links (together with [Gymnastics](gymnastics.html)).
+
 ## Rules
 
 Each synchronized pair performs a routine of 10 skills on side-by-side trampolines; the routine is judged by execution (out of 10 per skill), difficulty (open-ended DD value), horizontal displacement and synchronization — the time difference between the two athletes' skills is measured and scored — minus penalties for falls or stepping off the bed (FIG, n.d.). Routines are limited to about 10 skills with no required "risers" at world level, and pairs compete in men's, women's and mixed categories at the world championships (Wikipedia, n.d.-b). Qualification rounds lead to a final where the highest total wins; ties are broken by the higher synchronization score (FIG, n.d.). Age-group and double-mini-trampoline variants follow the same synchronized principle, and all genders compete under identical scoring rules (FIG, n.d.).
@@ -27,4 +29,4 @@ Trampoline gymnastics grew out of circus diving acts and the 1930s–50s America
 ## Important Links
 
 - [FIG — trampoline gymnastics](https://www.gymnastics.sport/) — world governing body; world championships, Code of Points
-- [Gymnastics](gymnastics.html) and [Trampoline](trampoline.html) on this site — the apparatus disciplines
+- Related on this site: [Gymnastics](gymnastics.html), [Artistic Gymnastics](artistic-gymnastics.html), [Floor Exercise](gymnastics-floor-exercise.html), [Pommel Horse](gymnastics-pommel-horse.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html), [Balance Beam](gymnastics-balance-beam.html), [Rhythmic Gymnastics](rhythmic-gymnastics.html), [Acrobatic Gymnastics](acrobatic-gymnastics.html), [Aerobic Gymnastics](aerobic-gymnastics.html), [Trampoline](trampoline.html), [Trampoline Gymnastics](trampoline-gymnastics.html), [Double Mini Trampoline](double-mini-trampoline.html), [Tumbling](tumbling.html), [Wheel Gymnastics](wheel-gymnastics.html), [Equestrian Vaulting](equestrian-vaulting.html), [Cheerleading](cheerleading.html), [Breaking](breaking.html), [DanceSport](dancesport.html), [Calisthenics](calisthenics.html) and [Street Workout](street-workout.html) — the gymnastics and judged performance sports

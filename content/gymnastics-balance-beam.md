@@ -8,6 +8,8 @@ Among the leading beam workers of the 2026 season: Skye Blakely of the United St
 
 *Figure: SpiritedMichelle. (2026, August 7). Skye Blakely of the United States performing on the balance beam at the 2026 U.S. National Gymnastics Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Skye_Blakely_%E2%80%93_Balance_beam_%E2%80%93_Day_1_%E2%80%93_2026_U.S._Championships_01.jpg*
 
+ This belongs to the eight artistic-gymnastics apparatus — [Floor Exercise](gymnastics-floor-exercise.html), [Pommel Horse](gymnastics-pommel-horse.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html) — within the gymnastics family — the parent [Artistic Gymnastics](artistic-gymnastics.html) page covers all eight apparatus; full list under Important Links.
+
 ## Rules
 
 The beam is 5 m long, 10 cm wide and 1.25 m high, with a landing mat underneath; the routine is limited to 90 s and must include an acrobatic series with at least two flight elements, a leap series, a turn of at least 360° on one foot and a dismount; eight elements count toward the D-score plus connection bonuses, and the E-panel starts at 10.0 (Fédération Internationale de Gymnastique, n.d.-c; Fédération Internationale de Gymnastique, n.d.-a).
@@ -46,6 +48,4 @@ The balance beam developed from the 19th-century Swedish and German gymnastic be
 - [World Artistic Gymnastics Championships](https://www.gymnastics.sport/) — 54th edition Rotterdam 2026; first LA 2028 team qualifier
 - [Olympics — artistic gymnastics](https://www.olympics.com/en/sports/artistic-gymnastics/) — Olympic programme and results
 - [Gymnastics Europe](https://www.gymnastics.sport/) — continental federation (European Championships)
-- [Artistic gymnastics](artistic-gymnastics.html) on this site — the parent discipline with all apparatus and the all-around
-- [Uneven bars](gymnastics-uneven-bars.html), [Vault](gymnastics-vault.html), [Floor exercise](gymnastics-floor-exercise.html) on this site — the other women's apparatus
-- [Horizontal bar](gymnastics-horizontal-bar.html) on this site — the men's counterpart
+- Related on this site: [Gymnastics](gymnastics.html), [Artistic Gymnastics](artistic-gymnastics.html), [Floor Exercise](gymnastics-floor-exercise.html), [Pommel Horse](gymnastics-pommel-horse.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html), [Rhythmic Gymnastics](rhythmic-gymnastics.html), [Acrobatic Gymnastics](acrobatic-gymnastics.html), [Aerobic Gymnastics](aerobic-gymnastics.html), [Trampoline](trampoline.html), [Trampoline Gymnastics](trampoline-gymnastics.html), [Double Mini Trampoline](double-mini-trampoline.html), [Synchronized Trampoline](synchronized-trampoline.html), [Tumbling](tumbling.html), [Wheel Gymnastics](wheel-gymnastics.html), [Equestrian Vaulting](equestrian-vaulting.html), [Cheerleading](cheerleading.html), [Breaking](breaking.html), [DanceSport](dancesport.html), [Calisthenics](calisthenics.html) and [Street Workout](street-workout.html) — the gymnastics and judged performance sports

@@ -16,6 +16,8 @@ At the Paris 2024 Olympic Games at the Place de la Concorde (August 9–10, 2024
 
 *Figure: Italas. (2023, May 30). D. Banevič (Dominika Banevič, "Nicka") [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:D._Banevi%C4%8D_2023.jpg*
 
+ Breaking (breakdance) is the street dance discipline of the family — [DanceSport](dancesport.html), [Cheerleading](cheerleading.html), [Gymnastics](gymnastics.html) — listed under Important Links.
+
 ## Rules
 
 Under the WDSF competition rules, breaking battles are decided by a panel of judges who score each round using five criteria: technique (execution of foundation moves — top rock, footwork, power moves and freezes), variety (range of moves), performance (stage presence, showmanship and crowd interaction), musicality (moving in time with the music) and creativity (originality and character) (WDSF, n.d.). At the Olympic Games, athletes first danced in a round-robin phase, then battled in knockout rounds; in each battle, each breaker performs one or more rounds of about 90 seconds, and the judges vote round by round — the majority of votes wins the battle (IOC, n.d.). A breaker who falls, touches the ground with hands during a power move incorrectly, or repeatedly goes out of bounds loses points; there is no contact between opponents — battles are decided purely by the judges' scores.
@@ -44,4 +46,5 @@ Breaking was born in the South Bronx, New York, in the early 1970s, when DJ Kool
 - [World DanceSport Federation (WDSF)](https://www.worlddancesport.org/) — world governing body for breaking; WDSF World Breaking Championships, competition rules
 - [Olympics.com — Breaking](https://olympics.com/en/sports/breaking/) — Olympic breaking, Paris 2024 results, LA 2028
 - [Red Bull BC One](https://www.redbull.com/int-en/event-series/bc-one) — international breaking battle series; World Final 2026 in Toronto
-- [Skateboarding](skateboarding.html) and [gymnastics](gymnastics.html) on this site
+- Related on this site: [Gymnastics](gymnastics.html), [Artistic Gymnastics](artistic-gymnastics.html), [Floor Exercise](gymnastics-floor-exercise.html), [Pommel Horse](gymnastics-pommel-horse.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html), [Balance Beam](gymnastics-balance-beam.html), [Rhythmic Gymnastics](rhythmic-gymnastics.html), [Acrobatic Gymnastics](acrobatic-gymnastics.html), [Aerobic Gymnastics](aerobic-gymnastics.html), [Trampoline](trampoline.html), [Trampoline Gymnastics](trampoline-gymnastics.html), [Double Mini Trampoline](double-mini-trampoline.html), [Synchronized Trampoline](synchronized-trampoline.html), [Tumbling](tumbling.html), [Wheel Gymnastics](wheel-gymnastics.html), [Equestrian Vaulting](equestrian-vaulting.html), [Cheerleading](cheerleading.html), [DanceSport](dancesport.html), [Calisthenics](calisthenics.html) and [Street Workout](street-workout.html) — the gymnastics and judged performance sports
+- [Skateboarding](skateboarding.html) on this site — the board-sport cousin

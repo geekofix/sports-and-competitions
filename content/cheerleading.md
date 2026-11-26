@@ -8,6 +8,8 @@ Among the teams defining the 2026 season, Finland's cheerleading world champion 
 
 *Figure: CheerWriterFi. (2025, April 23). Tissari da Costa Cristian of Finland, a cheerleading world champion, at the 2025 ICU World Cheerleading Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Tissari_da_Costa_Cristian_ICU_Worlds_25.jpg*
 
+ Cheerleading is the performance sport of the family — [DanceSport](dancesport.html), [Breaking](breaking.html), [Acrobatic Gymnastics](acrobatic-gymnastics.html), [Gymnastics](gymnastics.html) — listed under Important Links.
+
 ## Rules
 
 At ICU events teams perform on a 9 × 9 m foam cheerleading mat; the routine is at most 2:30 and combines a cheer (worth 10 of the 100 points at the World Cup), stunts, pyramids, tumbling, jumps and dance, judged by a panel on a 100-point scoresheet (International Cheer Union, n.d.-a; International Cheer Union, n.d.-d). Divisions include Team Cheer from Beginner (L0) to Premier (L6) levels, Partner Stunt, Group Stunt, Game Day, and Performance Cheer styles — pom, hip hop, jazz and high kick — plus doubles, with age groups from youth (12–14) through junior and senior to masters, and adaptive abilities divisions (International Cheer Union, n.d.-b; International Cheer Union, n.d.-e).
@@ -44,5 +46,4 @@ Organized cheerleading began in the United States in the 1880s–1890s: in 1884 
 - [2026 ICU World Cheerleading Championships — Orlando](https://cheerunion.org/wp-content/uploads/2025/09/icu_wcc_26_rules-packet-2.pdf) — 26–27 April 2026, divisions and rules packet
 - [2026 ICU Cheerleading World Cup — Athens](https://cheerunion.org/content/uploads/2026/09/icu_cwc_26_rules-regs.pdf) — 20–22 November 2026
 - [ICU Europe (ECU)](https://cheerunion.org/europe/) — continental federation and European Championships
-- [Dancesport](dancesport.html) on this site — performance cheer dance styles are related
-- [Gymnastics](gymnastics.html) and [Acrobatic gymnastics](acrobatic-gymnastics.html) on this site — the tumbling and acrobatics behind cheer stunts
+- Related on this site: [Gymnastics](gymnastics.html), [Artistic Gymnastics](artistic-gymnastics.html), [Floor Exercise](gymnastics-floor-exercise.html), [Pommel Horse](gymnastics-pommel-horse.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html), [Balance Beam](gymnastics-balance-beam.html), [Rhythmic Gymnastics](rhythmic-gymnastics.html), [Acrobatic Gymnastics](acrobatic-gymnastics.html), [Aerobic Gymnastics](aerobic-gymnastics.html), [Trampoline](trampoline.html), [Trampoline Gymnastics](trampoline-gymnastics.html), [Double Mini Trampoline](double-mini-trampoline.html), [Synchronized Trampoline](synchronized-trampoline.html), [Tumbling](tumbling.html), [Wheel Gymnastics](wheel-gymnastics.html), [Equestrian Vaulting](equestrian-vaulting.html), [Breaking](breaking.html), [DanceSport](dancesport.html), [Calisthenics](calisthenics.html) and [Street Workout](street-workout.html) — the gymnastics and judged performance sports

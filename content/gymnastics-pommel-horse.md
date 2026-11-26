@@ -8,6 +8,8 @@ Among the leading pommel workers of the 2026 season: Donghua Li of China (pictur
 
 *Figure: Pakeha. (2025, October 19). Donghua Li of China swinging on the pommel horse in 2025 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Donghua_Li_on_the_pommel_horse_1.jpg*
 
+ This belongs to the eight artistic-gymnastics apparatus — [Floor Exercise](gymnastics-floor-exercise.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html), [Balance Beam](gymnastics-balance-beam.html) — within the gymnastics family — the parent [Artistic Gymnastics](artistic-gymnastics.html) page covers all eight apparatus; full list under Important Links.
+
 ## Rules
 
 The pommel horse is 1.15 m high and 1.60 m long, with two pommels mounted crossways on top of the body; the gymnast must keep both legs swinging in circles without stops, and the routine has no time limit (Fédération Internationale de Gymnastique, n.d.-c). Eight elements count toward the D-score, with bonuses for difficulty and connections; the E-panel starts at 10.0 and deducts heavily for stops, falls (0.5), bent legs and amplitude faults (Fédération Internationale de Gymnastique, n.d.-a).
@@ -51,6 +53,4 @@ The pommel horse descends from 19th-century vaulting and swinging apparatus and 
 - [World Artistic Gymnastics Championships](https://www.gymnastics.sport/) — 54th edition Rotterdam 2026; first LA 2028 team qualifier
 - [Olympics — artistic gymnastics](https://www.olympics.com/en/sports/artistic-gymnastics/) — Olympic programme and results
 - [Gymnastics Europe](https://www.gymnastics.sport/) — continental federation (European Championships)
-- [Artistic gymnastics](artistic-gymnastics.html) on this site — the parent discipline with all apparatus and the all-around
-- [Still rings](gymnastics-rings.html), [Parallel bars](gymnastics-parallel-bars.html), [Horizontal bar](gymnastics-horizontal-bar.html), [Vault](gymnastics-vault.html), [Floor exercise](gymnastics-floor-exercise.html) on this site — the other men's apparatus
-- [Uneven bars](gymnastics-uneven-bars.html) on this site — the women's counterpart apparatus
+- Related on this site: [Gymnastics](gymnastics.html), [Artistic Gymnastics](artistic-gymnastics.html), [Floor Exercise](gymnastics-floor-exercise.html), [Rings](gymnastics-rings.html), [Vault](gymnastics-vault.html), [Parallel Bars](gymnastics-parallel-bars.html), [Horizontal Bar](gymnastics-horizontal-bar.html), [Uneven Bars](gymnastics-uneven-bars.html), [Balance Beam](gymnastics-balance-beam.html), [Rhythmic Gymnastics](rhythmic-gymnastics.html), [Acrobatic Gymnastics](acrobatic-gymnastics.html), [Aerobic Gymnastics](aerobic-gymnastics.html), [Trampoline](trampoline.html), [Trampoline Gymnastics](trampoline-gymnastics.html), [Double Mini Trampoline](double-mini-trampoline.html), [Synchronized Trampoline](synchronized-trampoline.html), [Tumbling](tumbling.html), [Wheel Gymnastics](wheel-gymnastics.html), [Equestrian Vaulting](equestrian-vaulting.html), [Cheerleading](cheerleading.html), [Breaking](breaking.html), [DanceSport](dancesport.html), [Calisthenics](calisthenics.html) and [Street Workout](street-workout.html) — the gymnastics and judged performance sports
