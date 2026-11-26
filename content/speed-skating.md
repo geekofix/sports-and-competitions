@@ -6,6 +6,8 @@ Speed skating is the race on long ice skates over set distances on a 400-metre d
 
 *Figure: Evelien1009. (2016, November 5). Thialf ijsbaan — the interior of Thialf ice stadium, Heerenveen [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Thialf_ijsbaan.jpg*
 
+ Within the ice skating family on this site, its closest relatives are [Short Track Speed Skating](short-track-speed-skating.html), [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html); the related pages are listed under Important Links.
+
 ## Rules
 
 On a standard 400 m oval with two lanes, skaters race in pairs — one per lane — and change lanes at every crossing of the home straight so that both skate exactly the same distance; the skater starting in the inner lane wears a white armband (ISU, n.d.-b). Individual races over 500 to 10000 m are decided by total time within the lane pairing. The team pursuit races teams of three against the clock from opposite sides of the track, with the time taken when the third skater crosses; the team sprint is a three-lap relay per skater; the mass start is a single race of up to 24 skaters with intermediate sprint points and a final sprint for the medals (ISU, n.d.-b). Fouls — incorrect lane changing, obstruction, cutting the course or a false start — lead to relegation or disqualification, signalled by the referee (ISU, n.d.-b). Women's and men's events use the same rules on the same ovals, differing only in the distance programme (women skate 3000/5000 m where men skate 5000/10000 m at major championships); junior categories exist at the ISU Junior World Championships (ISU, n.d.-b). The ISU World Cup 2025–26 comprised five stops: Salt Lake City, Calgary, Heerenveen, Hamar and Inzell (ISU, n.d.-a).
@@ -28,7 +30,6 @@ Organised speed skating matured in the Netherlands in the nineteenth century, an
 ## Important Links
 
 - [ISU — International Skating Union](https://www.isu.org/) — world governing body; World Cup, World Championships and world rankings
-- [Short-track speed skating](short-track-speed-skating.html) on this site — the short-track variant
-- [Figure skating](figure-skating.html) on this site — the artistic discipline on ice
+- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines
 - [Inline speed skating](inline-speed-skating.html) on this site — the land variant
 - [Skiing](skiing.html) on this site — the winter sliding-sports umbrella

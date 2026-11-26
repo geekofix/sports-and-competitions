@@ -6,6 +6,8 @@ Natural track luge (German: *Naturbahn*) is the original form of [luge](luge.htm
 
 *Figure: Jansky, C. (2010, January 16). Austrian natural track luger Melanie Batkowski at the FIL European Luge Natural Track Championships 2010 in St. Sebastian, Austria [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Melanie_Batkowski_FIL_European_Luge_Natural_Track_Championships_2010.jpg*
 
+ Within the sliding-sports family on this site, its closest relatives are [Luge](luge.html), [Bobsleigh](bobsleigh.html), [Monobob](monobob.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Natural tracks are typically 400 to 1,200 m long, with a level (unbanked) cross-section, a maximum average gradient of about 13 percent and lane widths of at least 3 m; curves have a minimum radius of about 7 m and are delimited with wooden bands or foam mats (International Luge Federation, n.d.-b; Wikipedia, n.d.). Competitions are held in men's singles, women's singles, men's doubles and a mixed team relay, usually over two runs with the combined time deciding the result — doubles and the team event race once (International Luge Federation, n.d.-b). Sleds are simpler than artificial-track sleds, with runners and a seat, and athletes wear helmets and aerodynamic suits; timing is electronic to hundredths of a second (International Luge Federation, n.d.-b). The FIL World Luge Natural Track Championships have been held almost biennially since 1979, and the European Championships since 1970, with men's and women's events under identical regulations (International Luge Federation, n.d.-a).
@@ -29,4 +31,4 @@ Natural track luge is the ancient form of the sport: sledding on natural mountai
 - [International Luge Federation (FIL)](https://www.fil-luge.org/) — world governing body of both artificial and natural track luge; World Championships
 - [FIL — natural track luge discipline](https://www.fil-luge.org/en/disciplines/natural-track) — track specifications, disciplines and results
 - [Natural track luge — Wikipedia](https://en.wikipedia.org/wiki/Natural_track_luge) — history from Alpine sledding roads to the FIL natural track worlds
-- [Luge](luge.html) on this site — the artificial-track Olympic discipline
+- Related on this site: [Bobsleigh](bobsleigh.html), [Monobob](monobob.html), [Luge](luge.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html), [Street Luge](street-luge.html) and [Ice Cross Downhill](ice-cross-downhill.html) — the sliding sports (bobsleigh, luge, skeleton)

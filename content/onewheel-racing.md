@@ -6,6 +6,7 @@ Onewheel racing is competitive racing on the Onewheel, a self-balancing electric
 
 *Figure: Maurizio Pesce. (2015, January 6). Onewheel Electric Boardsport (16862146232) — a rider on an Onewheel, a self-balancing electric one-wheeled board — onewheel racing pits riders against each other on these boards [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Onewheel_Electric_Boardsport_%252816862146232%2529.jpg*
 
+ Within the skate and roller sports family on this site, its closest relatives are [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,3 +34,4 @@ The Onewheel was invented by Kyle Doerksen, who launched Future Motion with a Ki
 - [Onewheel Racing League (ORL)](https://www.onewheelracing.com/) — premier Onewheel racing series; rules, divisions, Race for the Rail
 - [Future Motion — Onewheel](https://onewheel.com/) — manufacturer of the Onewheel board (invented by Kyle Doerksen, Kickstarter 2014)
 - [Onewheel — Wikipedia](https://en.wikipedia.org/wiki/Onewheel) — invention and history of the self-balancing board
+- Related on this site: [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html), [Aggressive Inline Skating](aggressive-inline-skating.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Derby](roller-derby.html), [Roller Figure Skating](roller-figure-skating.html), [Roller Freestyle](roller-freestyle.html) and [Longboarding](longboarding.html) — the skateboarding, inline and roller sports

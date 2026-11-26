@@ -10,6 +10,8 @@ Women are at the forefront of vert's modern era: Arisa Trew became the first fem
 
 *Figure: SFPier7. (2017, September 1). Vert skateboarding contest at the first World Roller Games, Nanjing, 2017 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Vert_Skateboarding_Contest_at_First_World_Roller_Games_Nanjing_2017_Emceed_by_Danny_Zhang_and_Tim_O'Connorr.png*
 
+ Within the skate and roller sports family on this site, its closest relatives are [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A vert ramp is a halfpipe with ~12 ft (3.7 m) walls, 2 ft (0.6 m) vertical extensions (vert) and 8 ft (2.4 m) platforms; riders drop in from the platform, pump through the flat bottom and gain height for aerials above the coping (Wikipedia, n.d.-a). In competition, each skater gets three 45-second runs (best counts) plus a best-trick contest; five judges score runs 0–100 on difficulty, height, variety, execution and use of the ramp (X Games, n.d.; World Skate, n.d.).
@@ -44,4 +46,4 @@ The next generation broke it: Tom Schaar landed the first 1080 on a mega ramp in
 
 - [X Games — Skateboard Vert](https://www.xgames.com/competitions/skateboard-vert) — premier vert competition and best-trick contest
 - [World Skate — Skateboarding](https://www.skateboarding.worldskate.org/) — vert world championships (2026 Asunción)
-- Related on this site: [skateboarding](skateboarding.html), [street skateboarding](street-skateboarding.html)
+- Related on this site: [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html), [Aggressive Inline Skating](aggressive-inline-skating.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Derby](roller-derby.html), [Roller Figure Skating](roller-figure-skating.html), [Roller Freestyle](roller-freestyle.html), [Longboarding](longboarding.html) and [Onewheel Racing](onewheel-racing.html) — the skateboarding, inline and roller sports

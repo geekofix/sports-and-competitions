@@ -6,6 +6,8 @@ Ice cross downhill is the winter racing sport in which up to four athletes on ic
 
 *Figure: Bauschardt, K. (2015, March 13). Red Bull Crashed Ice — Edmonton 2015 [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Red_Bull_Crashed_Ice_-_Edmonton_2015_%2816196171083%29.jpg*
 
+ Within the sliding-sports family on this site, its closest relatives are [Bobsleigh](bobsleigh.html), [Monobob](monobob.html), [Luge](luge.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Races are run in heats of four athletes; the first two across the finish line advance to the next round, and the winners reach the final (Wikipedia, n.d.-a). The track is a prepared ice course enclosed by side walls (boards) and may include banked turns (berms), rollers, table-top jumps and drops; athletes wear ice hockey-style skates with sharpened blades, a full-face helmet and a back protector, and start from a starting gate on a signal — false starts are penalized (ATSX, n.d.-a; Wikipedia, n.d.-a). ATSX-sanctioned events are graded in levels ATSX 1000 (top international), 500, 250 and 100; points from these events feed the ATSX world ranking and determine qualification for the world championship (ATSX, n.d.-a). Men and women compete under identical rules and on identical courses in separate categories (Wikipedia, n.d.-a).
@@ -31,3 +33,4 @@ The first Crashed Ice event was held in 2001 in Quebec City, Canada, and Red Bul
 - [Snowboarding](snowboarding.html) on this site — downhill racing on a board
 - [Short Track Speed Skating](short-track-speed-skating.html) on this site — four riders racing on ice
 - [Ice Hockey](ice-hockey.html) on this site — the skate-based team sport that lends the skates
+- Related on this site: [Bobsleigh](bobsleigh.html), [Monobob](monobob.html), [Luge](luge.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html), [Natural Track Luge](natural-track-luge.html) and [Street Luge](street-luge.html) — the sliding sports (bobsleigh, luge, skeleton)

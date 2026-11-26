@@ -14,6 +14,8 @@ Today's top women are exactly these Olympic champions — Momiji Nishiya (pictur
 
 *Figure: Erik Drost. (2025, August 9). Gustavo Ribeiro attempts a trick during a Street League Skateboarding competition in Cleveland, 9 August 2025 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Street_League_Skateboarding_Cleveland_(54717005429).jpg*
 
+ Within the skate and roller sports family on this site, its closest relatives are [Skateboarding](skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The street course contains stairs with handrails, ledges, benches, manual pads, flat rails and gaps/Hubbas, plus slope sections. Format: two 45-second runs and five best-trick attempts; each is scored 0–100 by five judges on difficulty, execution, variety, use of the whole course and flow; the final score = best run + best two tricks (max 300) — the format used at Paris 2024 (Olympics.com, n.d.-b; Olympedia, n.d.). In prelims and finals the same structure applies with best-of-three runs in park; street keeps two runs + five tricks (Olympics.com, n.d.-a).
@@ -51,4 +53,4 @@ The World Skateboarding Championships run since 2019 under World Skate; Tokyo ho
 - [World Skate — Skateboarding](https://www.skateboarding.worldskate.org/) — world championships, Olympic pathway, 2026 Asunción
 - [Olympics.com — Skateboarding](https://www.olympics.com/en/sports/skateboarding/) — Olympic rules and history
 - [Street League Skateboarding](https://streetleague.com/) — premier pro tour
-- Related on this site: [skateboarding](skateboarding.html), [vert skateboarding](vert-skateboarding.html)
+- Related on this site: [Skateboarding](skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html), [Aggressive Inline Skating](aggressive-inline-skating.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Derby](roller-derby.html), [Roller Figure Skating](roller-figure-skating.html), [Roller Freestyle](roller-freestyle.html), [Longboarding](longboarding.html) and [Onewheel Racing](onewheel-racing.html) — the skateboarding, inline and roller sports

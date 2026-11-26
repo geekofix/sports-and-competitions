@@ -6,6 +6,8 @@ Among the athletes shaping the sport today are the competitors of the 2025 Rolle
 
 Women compete on equal terms with men, including a dedicated women's division at the world championships.
 
+ Within the skate and roller sports family on this site, its closest relatives are [Roller Freestyle](roller-freestyle.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Figure Skating](roller-figure-skating.html), [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In park and street contests, skaters perform runs or best-trick rounds on a course of rails, ledges, stairs, ramps and bowls, and are scored on difficulty, execution, variety and use of the course. Protective gear — helmet, and often knee, elbow and wrist pads — is mandatory at most contests. The skates are hard-boot aggressive skates with a soul plate and H-block for grinding, typically set up with four wheels in a flat or anti-rocker configuration for stability on tricks (World Skate, n.d.-a). There are separate men's and women's divisions at championships, judged under the same scoring system, plus junior categories (World Skate, n.d.-b).
@@ -34,4 +36,4 @@ Aggressive inline skating began when Rollerblade, Inc. was founded in 1980 by Mi
 - [World Skate](https://worldskate.org/) — world governing body of roller sports; roller freestyle (aggressive inline) discipline
 - [World Skate — Roller freestyle](https://worldskate.org/roller-freestyle) — discipline rules and events
 - [World Skate — Results](https://worldskate.org/results.html) — results and rankings, incl. World Skate Games 2026 Asunción
-- See also [Roller Freestyle](roller-freestyle.html), [Inline Speed Skating](inline-speed-skating.html) and [Roller Figure Skating](roller-figure-skating.html) on this site
+- Related on this site: [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Derby](roller-derby.html), [Roller Figure Skating](roller-figure-skating.html), [Roller Freestyle](roller-freestyle.html), [Longboarding](longboarding.html) and [Onewheel Racing](onewheel-racing.html) — the skateboarding, inline and roller sports

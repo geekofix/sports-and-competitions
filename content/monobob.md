@@ -10,6 +10,8 @@ Monobob is the single-athlete event of [bobsleigh](bobsleigh.html): one pilot ri
 
 *Figure: pleclown. (2016, February 20). Lillehammer 2016 Monobob women (24514327124) — women's monobob race at the Lillehammer 2016 Youth Olympic Games, where the discipline debuted [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Lillehammer_2016_Monobob_women_%2824514327124%29.jpg*
 
+ Within the sliding-sports family on this site, its closest relatives are [Bobsleigh](bobsleigh.html), [Skeleton](skeleton.html), [Luge](luge.html), [Natural Track Luge](natural-track-luge.html), [Luge Doubles](luge-doubles.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A monobob race consists of four runs over two days (two runs per day) on the same 1,000–1,400 m refrigerated ice track used for the other bobsleigh events, and the lowest combined time wins; a dead heat is broken by the fastest individual run (International Bobsleigh & Skeleton Federation, n.d.-b). The sled must be IBSF-homologated, and minimum and maximum weights for sled plus athlete are enforced at scrutineering — violations bring penalties or disqualification, as do false starts and equipment irregularities. Athletes wear aerodynamic one-piece suits and full-face helmets, start seated on two handles, and steer by flexing the runners with the calves and shifting shoulder pressure. The women's event has been on the Olympic programme since Beijing 2022, while men's and women's monobob are both run at World Cup and World Championship level; the event uses identical sleds, tracks and timing for women and men (International Bobsleigh & Skeleton Federation, n.d.-a).
@@ -34,5 +36,4 @@ Bobsleigh originated in the Swiss resort of St. Moritz in the late 19th century,
 
 - [International Bobsleigh & Skeleton Federation (IBSF)](https://www.ibsf.org/) — world governing body; rules, homologated sleds, World Cup and World Championships
 - [Olympics.com — bobsleigh at Milano Cortina 2026](https://www.olympics.com/en/milano-cortina-2026/sports/bobsleigh) — official Olympic results by event
-- [Bobsleigh](bobsleigh.html) on this site — the two- and four-man sled events
-- [Skeleton](skeleton.html), [Luge](luge.html) and [Natural Track Luge](natural-track-luge.html) on this site — the other sliding sports
+- Related on this site: [Bobsleigh](bobsleigh.html), [Luge](luge.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html), [Natural Track Luge](natural-track-luge.html), [Street Luge](street-luge.html) and [Ice Cross Downhill](ice-cross-downhill.html) — the sliding sports (bobsleigh, luge, skeleton)

@@ -10,6 +10,8 @@ The 2026 World Figure Skating Championships at the O2 Arena in Prague (25–29 M
 
 *Figure: Eric Salard. (2026, February 11). Laurence Fournier Beaudry and Guillaume Cizeron of France with their gold medals after winning ice dance at Milano Cortina 2026 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:GOLD_MEDAL_Laurence_Fournier_Baudry_%26_Guillaume_Cizeron_France_ice_dance_MILANO-CORTINA_2026.jpg*
 
+ Within the ice skating family on this site, its closest relatives are [Figure Skating](figure-skating.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html), [Short Track Speed Skating](short-track-speed-skating.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the ISU Special Regulations and Technical Rules (2025/26 season, Communication 2704), the rhythm dance must include a pattern dance step sequence, a choreographic rhythm sequence, one dance lift, one set of sequential twizzles and one step sequence; the free dance must include three dance lifts, one dance spin, one set of synchronized twizzles, one step sequence in hold, one step sequence on one skate not in hold, and three choreographic elements (International Skating Union, n.d.-a; Wikipedia, n.d.-b).
@@ -50,4 +52,4 @@ British teams dominated the 1950s and 1960s and Soviet teams until the 1990s; No
 - [International Skating Union (ISU)](https://isu-skating.com/en/figure-skating/) — governs figure skating; Special Regulations & Technical Rules
 - [ISU — Ice dance](https://isu-skating.com/en/figure-skating/ice-dance/) and [ISU results](https://results.isu.org/) — Worlds 2026 Prague, Europeans 2026
 - [Olympics — Milano Cortina 2026 figure skating results](https://www.olympics.com/en/milano-cortina-2026/results/fsk)
-- Related on this site: [figure skating](figure-skating.html), [synchronized skating](synchronized-skating.html), [speed skating](speed-skating.html)
+- Related on this site: [Figure Skating](figure-skating.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines

@@ -6,6 +6,7 @@ Slalom skateboarding is the racing of skateboards through a course of cones set 
 
 *Figure: Martin Thomas. (2009, September 28). Skateboard slalom (3964758765).jpg — A skateboarder weaving through cones during a slalom skateboarding competition on the Seafront in Brighton [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Skateboard_slalom_%25283964758765%2529.jpg*
 
+ Within the skate and roller sports family on this site, its closest relatives are [Skateboarding](skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Longboarding](longboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Street Skateboarding](street-skateboarding.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,5 +34,4 @@ Slalom skateboarding emerged in the 1960s and 1970s when surfers and skateboarde
 
 - [World Skate](https://worldskate.org/) — world governing body for skateboarding disciplines, including slalom
 - [ISSA — International Slalom Skateboard Association](https://www.issaslalom.com/) — international slalom body; world championships and rankings
-- [Skateboarding](skateboarding.html) on this site — the umbrella board sport
-- [Downhill skateboarding](downhill-skateboarding.html), [Longboarding](longboarding.html) and [Freestyle skateboarding](freestyle-skateboarding.html) on this site — related disciplines
+- Related on this site: [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Downhill Skateboarding](downhill-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Aggressive Inline Skating](aggressive-inline-skating.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Derby](roller-derby.html), [Roller Figure Skating](roller-figure-skating.html), [Roller Freestyle](roller-freestyle.html), [Longboarding](longboarding.html) and [Onewheel Racing](onewheel-racing.html) — the skateboarding, inline and roller sports

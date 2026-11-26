@@ -8,6 +8,8 @@ Among the 2026 Olympic champions, the women lead: Italy's Andrea Voetter and Mar
 
 *Figure: Olimpico2. (2026, February 8). Luge doubles podium ceremony at the Milano Cortina 2026 Winter Olympics at the Cortina Sliding Centre [Photograph]. Wikimedia Commons. CC0. https://commons.wikimedia.org/wiki/File:Podio_Milano_Cortina_2026_slittino_maschile.jpg*
 
+ Within the sliding-sports family on this site, its closest relatives are [Luge](luge.html), [Natural Track Luge](natural-track-luge.html), [Skeleton](skeleton.html), [Bobsleigh](bobsleigh.html), [Monobob](monobob.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under FIL rules the Olympic doubles contest is decided by a single run, timed electronically from the release of the start handles to the finish light to the thousandth of a second; athletes start seated, rock on two handles to build momentum and then propel with spiked gloves on the ice (International Luge Federation, n.d.-a; Wikipedia, n.d.-a). Doubles contests are single runs at all major championships, while singles races use two heats at the World Cup and four at the Olympics (International Luge Federation, n.d.-a).
@@ -43,5 +45,4 @@ Germany's Tobias Wendl and Tobias Arlt, pictured with their trophies at the 2026
 - [International Luge Federation (FIL)](https://www.fil-luge.org/) — world governing body since 1957; rules, homologated tracks, World Cup and World Championships
 - [FIL — Milano Cortina 2026 luge news](https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge) — Olympic results incl. first women's doubles
 - [Olympics — luge at Milano Cortina 2026](https://www.olympics.com/en/milano-cortina-2026/sports/luge) — official results by discipline
-- [Luge](luge.html) on this site — singles, doubles, team relay
-- [Natural track luge](natural-track-luge.html), [Skeleton](skeleton.html) and [Bobsleigh](bobsleigh.html) on this site — the other sliding sports
+- Related on this site: [Bobsleigh](bobsleigh.html), [Monobob](monobob.html), [Luge](luge.html), [Skeleton](skeleton.html), [Natural Track Luge](natural-track-luge.html), [Street Luge](street-luge.html) and [Ice Cross Downhill](ice-cross-downhill.html) — the sliding sports (bobsleigh, luge, skeleton)

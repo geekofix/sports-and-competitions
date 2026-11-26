@@ -12,6 +12,8 @@ On the men's side, Johannes Lochner of Germany won both the two-man (with Georg 
 
 *Figure: Garcia, N. (U.S. Army USAWCAP). (2026, February 20). Spc. Azaria Hill chats with pilot Kaysha Love during Heat 2 of the two-woman bobsled race, Cortina d'Ampezzo [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Spc_Azaria_Hill_competes_in_the_2-woman_bobsled_in_the_2026_Winter_Olympics_%289530556%29.jpg*
 
+ Within the sliding-sports family on this site, its closest relatives are [Skeleton](skeleton.html), [Luge](luge.html), [Monobob](monobob.html), [Luge Doubles](luge-doubles.html), [Natural Track Luge](natural-track-luge.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the IBSF International Bobsleigh Rules, the two-man and four-man sleds are pushed from a start ramp and crewed by a pilot (front) and brakemen; the monobob has a single athlete; the two-woman event pairs a pilot with one brakeman (IBSF, n.d.-a). Each event runs four heats over two days (two heats per day for the four-man), and the cumulative time decides the medals; sleds must meet weight limits (with crew: max 210 kg for two-man/monobob, 340 kg for two-woman, 630 kg for four-man; without crew the sled has its own minimum weight) and pass technical inspection, and crews must pass a push-start timing test (IBSF, n.d.-a). Women's and men's events use the same track and sleds within their class; the monobob is exclusively women's at the Olympics, and mixed team relay events (with skeleton) exist at World Cup level. Anti-doping follows the World Anti-Doping Code (IBSF, n.d.-c).
@@ -43,4 +45,4 @@ Legendary pilots include Italy's Eugenio Monti (six Olympic medals, 1956–1968,
 - [International Bobsleigh and Skeleton Federation (IBSF)](https://www.ibsf.org/) — world governing body; rules, calendar, results and rankings
 - [IBSF results — Milano Cortina 2026 bobsleigh](https://www.ibsf.org/) — Olympic results February 2026
 - [Olympics.com — Bobsleigh](https://olympics.com/en/sports/bobsleigh/) — Olympic history and results
-- [Skeleton](skeleton.html) and [Luge](luge.html) on this site
+- Related on this site: [Monobob](monobob.html), [Luge](luge.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html), [Natural Track Luge](natural-track-luge.html), [Street Luge](street-luge.html) and [Ice Cross Downhill](ice-cross-downhill.html) — the sliding sports (bobsleigh, luge, skeleton)

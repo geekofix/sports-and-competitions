@@ -8,6 +8,8 @@ The 2026 ISU World Synchronized Skating Championships were held in the Salzburga
 
 *Figure: Quejaytee. (2026, April 11). Les Suprêmes of Canada celebrating their fourth world title at the 2026 ISU Synchronized Skating World Championships in Salzburg [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Team_Les_Supreme_celebrating_their_win_at_the_2026_ISU_Synchronized_Skating_World_Championships_03.jpg*
 
+ Within the ice skating family on this site, its closest relatives are [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Speed Skating](speed-skating.html), [Short Track Speed Skating](short-track-speed-skating.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under ISU regulations, a senior team consists of 16–20 skaters and performs a short program and a free skate of about three and four minutes; a technical panel scores the required elements — blocks, circles, creative elements, intersections, lifts, lines, moving formations, spins and wheels — and a program components panel scores composition, performance and skating skills; the combined short-program and free-skate totals decide the rankings (2026 winning total: 233.00) (International Skating Union, n.d.-a).
@@ -45,3 +47,4 @@ Until the 2020s the podium was dominated by Finland and Sweden — Marigold IceU
 - [ISU results — World Synchronized Skating Championships 2026, Salzburg](https://results.isu.org/results/season2526/wsysc2026/) — official results
 - [Skate Canada — Les Suprêmes' fourth world title, 2026](https://skatecanada.ca/2026/04/11/les-supremes-take-fourth-world-title-at-2026-isu-synchronized-skating-world-championships/) — report
 - [Figure skating](figure-skating.html), [Ice dancing](ice-dancing.html) and [Roller figure skating](roller-figure-skating.html) on this site — the other ISU skating disciplines
+- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Speed Skating](speed-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines

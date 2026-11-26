@@ -6,6 +6,8 @@ Luge is a winter sliding sport in which one or two athletes ride a small sled su
 
 *Figure: Halank, S. (2017, February 26). Rennschlitten von Natalie Geisenberger — luge sled of Natalie Geisenberger at the Altenberg World Cup [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:2017-02-26_Rennschlitten_Natalie_Geisenberger_by_Sandro_Halank.jpg*
 
+ Within the sliding-sports family on this site, its closest relatives are [Skeleton](skeleton.html), [Bobsleigh](bobsleigh.html), [Natural Track Luge](natural-track-luge.html), [Monobob](monobob.html), [Luge Doubles](luge-doubles.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Singles races are run over two heats (four at the Olympics) with the combined time deciding the medals; doubles race a single run; the team relay combines one women's singles, one men's singles and one doubles run per nation (International Luge Federation, n.d.-a). Athletes start seated, rock on two handles to build momentum, then propel with spiked gloves on the ice and steer by flexing the sled's runners with their calves and shifting shoulder pressure (Wikipedia, n.d.-a). Timing is electronic from the release of the start handles to the finish light, recorded to the thousandth of a second (International Luge Federation, n.d.-a). Tracks are 1,000–1,400 m of artificially refrigerated ice with up to 20 banked curves and must be FIL-homologated; false starts, exceeding weight limits for sled plus athlete, and equipment violations bring penalties or disqualification (International Luge Federation, n.d.-a). Athletes wear aerodynamic one-piece suits, full-face helmets and special start shoes (Wikipedia, n.d.-a). Men's and women's singles use identical tracks, sleds and timing; doubles (now also a women's event since 2026) ride a longer, heavier sled with the front athlete steering with the feet and the rear with the shoulders (International Luge Federation, n.d.-a).
@@ -31,4 +33,4 @@ Competitive luge originated in the Swiss health resorts of Davos and St. Moritz 
 - [International Luge Federation (FIL)](https://www.fil-luge.org/) — world governing body since 1957; rules, homologated tracks, World Cup and World Championships
 - [Luge at the Olympics — Milano Cortina 2026 results](https://www.olympics.com/en/milano-cortina-2026/sports/luge) — official results by discipline
 - [Luge — Wikipedia](https://en.wikipedia.org/wiki/Luge) — history and Olympic champions
-- [Skeleton](skeleton.html) on this site — see also [Bobsleigh](bobsleigh.html) and [Natural Track Luge](natural-track-luge.html) on this site
+- Related on this site: [Bobsleigh](bobsleigh.html), [Monobob](monobob.html), [Luge Doubles](luge-doubles.html), [Skeleton](skeleton.html), [Natural Track Luge](natural-track-luge.html), [Street Luge](street-luge.html) and [Ice Cross Downhill](ice-cross-downhill.html) — the sliding sports (bobsleigh, luge, skeleton)

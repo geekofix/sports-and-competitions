@@ -6,6 +6,8 @@ Downhill skateboarding is a timed racing discipline in which riders on longboard
 
 *Figure: TheSwordfish. (2014, September 7). Taberg Downhill Challendge 2014, 1 [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Taberg_Downhill_Challendge_2014,_1.jpg*
 
+ Within the skate and roller sports family on this site, its closest relatives are [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Downhill skateboarding is run under the World Skate downhill regulations and the IGSA rulebook (World Skate, n.d.-b; IGSA, n.d.). Riders complete a timed qualifying run, and the fastest qualifiers advance to knockout races in heats of four, with the top two of each heat progressing until the final (World Skate, n.d.-a). Courses are closed public roads of 2–5 km with an average gradient of 5–8 percent, lined with hay bales, tire walls and air fences (IGSA, n.d.). Mandatory protective gear includes a full-face helmet certified for downhill use, a leather or reinforced suit, slide gloves with plastic pucks, and closed-toe shoes; riders must pass a gear check before starting (IGSA, n.d.). The clock starts at the start gate and stops at the finish line; the fastest time wins, and ties are broken by the qualifying run (World Skate, n.d.-b). Men's and women's categories race the same courses with the same rules and equipment standards; junior categories exist for riders under 18 (World Skate, n.d.-b; IGSA, n.d.).
@@ -29,4 +31,4 @@ Downhill skateboarding began in the 1960s and 1970s in Southern California, when
 
 - [World Skate — Downhill](https://www.worldskate.org/downhill/news-downhill.html) — IOC-recognized federation; 2026 world championships in Asunción
 - [World Downhill Skateboarding Championship (IGSA)](https://worlddownhillskateboardingchampionship.com/) — IGSA tour and 2026 world champions, El Salvador finale
-- [Skateboarding](skateboarding.html) on this site
+- Related on this site: [Skateboarding](skateboarding.html), [Street Skateboarding](street-skateboarding.html), [Vert Skateboarding](vert-skateboarding.html), [Freestyle Skateboarding](freestyle-skateboarding.html), [Slalom Skateboarding](slalom-skateboarding.html), [Aggressive Inline Skating](aggressive-inline-skating.html), [Inline Speed Skating](inline-speed-skating.html), [Roller Derby](roller-derby.html), [Roller Figure Skating](roller-figure-skating.html), [Roller Freestyle](roller-freestyle.html), [Longboarding](longboarding.html) and [Onewheel Racing](onewheel-racing.html) — the skateboarding, inline and roller sports
