@@ -6,6 +6,8 @@ Snooker is a cue sport played on a baize-covered table of 12 by 6 feet with 22 b
 
 *Figure: BennyOnTheLoose. (2024, April 29). Crucible Theatre during the 2024 World Snooker Championship [Photograph]. Wikimedia Commons. CC0. https://commons.wikimedia.org/wiki/File:Crucible_Theatre_during_the_2024_World_Snooker_Championship.jpg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [Snooker Plus](snooker-plus.html), [Billiards](billiards.html), [English Billiards](english-billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The WPBSA rules of snooker are played on a table with a playing area of 11 ft 8½ in by 5 ft 10 in and cushions, using 22 balls of 52.5 mm diameter: 15 reds (1 point) and the colours yellow (2), green (3), brown (4), blue (5), pink (6) and black (7) (WPBSA, n.d.-a). After the break-off, reds must be potted alternately with a colour, which is then respotted; once the reds are gone, the colours are potted in ascending order and the black finishes the frame. The maximum break is 147 (15 reds with the black each time, then the colours). A foul — missing every ball, potting the cue ball, or playing out of turn — gives the opponent a minimum of 4 points and up to 7 depending on the ball involved, and after a foul the opponent may take a "free ball" or require the offender to replay from the original position; a tied frame is decided by the black being respotted on its spot and the players drawing lots for the break (WPBSA, n.d.-a). Matches are played best-of-frames, with ranking events and the Triple Crown — UK Championship, Masters and World Championship — forming the season on the World Snooker Tour, which also runs women's, mixed-doubles, senior (over-40) and junior (under-21) events; men and women compete in separate professional circuits, with women's snooker organised by World Women's Snooker under the WPBSA umbrella (WPBSA, n.d.-b).
@@ -30,5 +32,4 @@ Snooker was invented in 1875 in Jabalpur, India, by British Army officers statio
 
 - [WPBSA — World Professional Billiards and Snooker Association](https://www.wpbsa.com/) — world governing body; rules, rankings and tour
 - [World Snooker Tour](https://www.wst.tv/) — official tour site; results, rankings and broadcasts
-- [Snooker Plus](snooker-plus.html) on this site — Joe Davis's 1959 variant
-- [Billiards](billiards.html) and [English billiards](english-billiards.html) on this site — the cue-sport relatives
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Blackball](blackball.html), [Chinese Eight Ball](chinese-eight-ball.html), [Speed Pool](speed-pool.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

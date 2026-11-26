@@ -6,6 +6,8 @@ Pachinko is a mechanical game unique to Japan, a vertical cousin of pinball in w
 
 *Figure: Gnsin. (2005, June 24). Wall machine Circle of Pleasure — the wall machine called origin of the pachinko, made in Britain around 1910, photographed at Expo 2005 Aichi [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Wall_machine_Circle_of_Pleasure.jpg*
 
+ Within the table and arcade games family on this site, its closest relatives are [Pinball](pinball.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html), [Air Guitar](air-guitar.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The player rents or buys steel balls at the counter, sits at a machine and uses a knob on the lower right to launch balls continuously into the vertical playfield; the launch power controls how far the balls travel up the left side of the field (Wikipedia, n.d.). Balls that fall through the pins and into scoring pockets — historically called tulips — award additional balls, and landing a ball in the central pocket triggers the digital jackpot display that releases a large number of balls (Wikipedia, n.d.). The machine is a game of chance, not skill: outcomes are determined by the ball's path through the pins, and no player input after launch changes the result (Wikipedia, n.d.). Parlor rules prohibit exchanging balls for cash on the premises; prizes are won as tokens or goods and redeemed off-site, and parlors must display the required licenses and age restrictions (National Police Agency of Japan, n.d.). There is no competitive league structure with separate men's and women's rules — all players face identical machines and regulations.
@@ -27,3 +29,4 @@ Pachinko descends from the British wall game "bagatelle" and the French "billard
 
 - [Pachinko — Wikipedia](https://en.wikipedia.org/wiki/Pachinko) — history from bagatelle to the 1948 law and the modern industry
 - [National Police Agency of Japan](https://www.npa.go.jp/) — regulator of amusement businesses incl. pachinko parlors
+- Related on this site: [Pinball](pinball.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html), [Air Guitar](air-guitar.html) and [Novuss](novuss.html) — the table and arcade games

@@ -6,6 +6,8 @@ Juggling as a competitive sport covers events in which athletes keep three or mo
 
 *Figure: Planet News. (1932, January 1). Jongleuses avec des raquettes [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Jongleuses_avec_des_raquettes.jpg*
 
+ Within the circus and skill sports family on this site, its closest relatives are [Sport Stacking](sport-stacking.html), [Tricking](tricking.html); the related pages are listed under Important Links.
+
 ## Rules
 
 At WJF competitions, events are scored by judges or by objective measurement depending on the discipline (World Juggling Federation, n.d.). In club passing, pairs or groups pass clubs to each other in set patterns; a catch completes the pattern and a drop ends the run, and the winner is the pair with the most completed patterns or the longest clean run (Wikipedia, n.d.-a). In 360s, a juggler performs a full spin while keeping the cascade going; the score is based on difficulty and clean catches (Wikipedia, n.d.-b). Endurance events time how long a juggler keeps a given number of props in the air — any number from three clubs upward — with a drop ending the attempt; isolated endurance counts only one prop (World Juggling Federation, n.d.). Freestyle is a choreographed routine of 3–5 minutes judged on difficulty, execution, artistic impression and showmanship, similar to figure skating or gymnastics (Wikipedia, n.d.-b). Extreme juggling uses nine or more props. Divisions — junior, beginner, intermediate, advanced — let beginners and professionals compete separately, and there are open and women's categories in most events (World Juggling Federation, n.d.). Props are standardized: juggling clubs are about 50–55 cm long and 100–140 g, balls about 10–13 cm in diameter (Wikipedia, n.d.-a). Guinness World Records and IJA validation apply to endurance and numbers records (International Jugglers' Association, n.d.).
@@ -30,3 +32,4 @@ Juggling is one of the oldest performing skills: women jugglers are depicted in 
 - [World Juggling Federation (WJF)](https://www.worldjugglingfederation.com/) — sport-juggling governing body; conventions, events, Olympic goal
 - [International Jugglers' Association (IJA)](https://juggling.org/) — founded 1947; World Juggling Day, record validation
 - [Gymnastics](gymnastics.html) on this site — see also [Jianzi](jianzi.html) on this site
+- Related on this site: [Sport Stacking](sport-stacking.html) and [Tricking](tricking.html) — the circus and skill sports

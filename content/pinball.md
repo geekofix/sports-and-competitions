@@ -6,6 +6,8 @@ Pinball is an arcade game in which a player scores points by manipulating a stee
 
 *Figure: Bananainfire. (2020, April 8). Time Warp pinball machine from 1979 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Time_Warp_Pinball_1979.jpg*
 
+ Within the table and arcade games family on this site, its closest relatives are [Pachinko](pachinko.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html), [Air Guitar](air-guitar.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitive pinball is governed by the unified PAPA/IFPA ruleset, the baseline for sanctioned competition (International Flipper Pinball Association, 2020). Tournament machines are put into tournament mode, disabling random awards and extra balls so that scores reflect skill, and physical settings are adjusted to increase difficulty: outlane posts are widened, the playfield angle increased and tilt mechanisms made strict to limit nudging. Match-play formats, such as Pinburgh, group players into direct head-to-head rounds, while qualifying formats like the World Pinball Championships let players enter repeatedly, scoring points per machine relative to all other entries (100 points for the highest score down to zero), with the best entry ranking the player before bracketed finals. Malfunctions are ruled on by tournament directors under documented procedures, and betting on any sanctioned event is penalized by suppression from the world rankings (International Flipper Pinball Association, n.d.). Divisions include open, women's, seniors and juniors, so the same rules apply across genders and age groups (Professional and Amateur Pinball Association, n.d.).
@@ -32,3 +34,4 @@ Pinball descends from the 18th-century French bagatelle and, in its modern coin-
 - [IFPA World Pinball Player Rankings](https://www.ifpapinball.com/rankings/) — the world ranking list
 - [PAPA World Pinball Championships](https://lfs.papa.org/rules.php) — the flagship tournament run under the PAPA name
 - [Darts](darts.html), [Billiards](billiards.html), [Snooker](snooker.html) and [Bowling](bowling.html) on this site — related precision and scoring games
+- Related on this site: [Pachinko](pachinko.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html), [Air Guitar](air-guitar.html) and [Novuss](novuss.html) — the table and arcade games

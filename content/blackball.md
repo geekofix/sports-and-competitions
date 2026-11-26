@@ -4,6 +4,8 @@ Blackball — also called English 8-ball or British pool — is the pool variant
 
 On the women's side, the Women's A competition at the 2026 worlds was won by France, and women compete on equal terms in open, women's and youth divisions at every WPA Blackball world championship (WPA, n.d.-b).
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [Snooker](snooker.html), [Billiards](billiards.html), [Carom Billiards](carom-billiards.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Blackball uses a black 8-ball instead of the American 8: after the break, the table is open until a player legally pockets a ball, which assigns them either the 1–7 group or the 9–15 group (the balls numbered 9–15 count as the stripes equivalent); the black 8 may only be pocketed after all of the player's group are cleared, and potting it early loses the game (WPA, n.d.-a). Standard pool fouls apply: scratch (cue ball pocketed) is ball-in-hand behind the baulk line, touching a ball, jumping the cue ball, or potting the 8 early all lose the frame; a legal break requires four balls to the cushions or a ball pocketed (WPA, n.d.-a). Matches are typically best-of-races in casual play and knockout rounds at world championships, with men's, women's, youth (U16/U18) and team (A/B) classifications; junior events use a smaller table or reduced race length in some federations (WPA, n.d.-b).
@@ -29,4 +31,4 @@ Blackball evolved from English billiards and early pool in the United Kingdom in
 
 - [World Pool-Billiard Association (WPA)](https://www.wpa-pool.com/) — world governing body for pool; runs the Blackball World Championships and world rankings
 - [WPA Blackball World Championships](https://www.wpa-pool.com/) — 2026 edition in London, men's, women's, youth and team events
-- [8-Ball Pool](8-ball-pool.html), [9-Ball Pool](9-ball-pool.html), [Snooker](snooker.html) and [Billiards](billiards.html) on this site
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Chinese Eight Ball](chinese-eight-ball.html), [Speed Pool](speed-pool.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

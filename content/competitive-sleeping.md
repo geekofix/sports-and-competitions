@@ -6,6 +6,7 @@ Competitive sleeping is a novelty contest in which participants try to fall asle
 
 *Figure: Bizoy Mahmud BD. (2014, May 16). Sleeping Uncle — A man asleep — in competitive sleeping contests, judges score how long and how soundly contestants sleep [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sleeping_Uncle.JPG*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,3 +36,4 @@ Napping competitions have been held in Spain since the 2010s as part of Madrid's
 - [The Japan Times — Matt Race sleeping championship 2026](https://www.japantimes.co.jp/news/2026/10/13/japan/matt-race-sleep/) — 5 October 2026, Tokyo; 47,000 applicants
 - [Guinness World Records — Longest time without sleep](https://www.guinnessworldrecords.com/world-records/longest-time-without-sleep) — Randy Gardner, 264.4 hours, 1964
 - [AFP — Sleeping championship coverage](https://www.afp.com/en/) — international news agency reporting on the Tokyo event
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html), [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) and [World Stone Skimming Championships](world-stone-skimming-championships.html) — the folk, festival and novelty games

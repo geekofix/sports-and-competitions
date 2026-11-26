@@ -8,6 +8,8 @@ Backgammon is also a major money game: online platforms and live tournaments wit
 
 *Figure: Thomas05. (2007, September 4). Backgammon board with starting position and direction arrows (GNU Backgammon, GoL Blue and White design) [Diagram]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Backgammon.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The board has 24 triangular points arranged in four quadrants of six points each; each player's 15 checkers start in a standard position, and the players move their checkers in opposite directions. On each turn a player rolls two dice and must play both numbers if possible — as two separate moves or one combined move — moving checkers toward their home board. A point occupied by two or more of one's own checkers is a "made point"; a single enemy checker on a point is a "blot" and is hit by landing on it, sending it to the bar. A player with a checker on the bar must enter it into the opponent's home board before making any other move; if both entry points are blocked, the turn is lost (WBGF, n.d.-b).
@@ -39,4 +41,4 @@ On the women's side, the dedicated Women's World Championship has been held sinc
 - [World Backgammon Federation (WBGF)](https://www.wbgf.info/) — world governing body; world championship, rules and world rankings
 - [World Backgammon Championship Monte Carlo](https://www.backgammonworldchampionship.com/) — flagship annual world championship in Monte Carlo
 - [Backgammon Galaxy](https://www.backgammongalaxy.com/) — largest online backgammon community and match platform
-- [Chess](chess.html) and [Texas Hold'em Poker](texas-hold-em-poker.html) on this site
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

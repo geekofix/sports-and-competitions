@@ -6,6 +6,7 @@ Competitive debating is a structured form of public argumentation in which teams
 
 *Figure: Colin. (2013, November 2). Scottish Parliament Debating Chamber 1 — The debating chamber of the Scottish Parliament — competitive debating follows parliamentary-style formats [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Scottish_Parliament_Debating_Chamber_1.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -33,3 +34,4 @@ School debating championships began in Australia, and the first World Schools' D
 
 - [World Schools Debating Council](https://www.wsdcdebating.org/) — world governing body of school debating; WSDC and WIDPSC
 - [HDCSW — World Schools](https://hdcsw.org/world-schools/) — historic championship information and past motions
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

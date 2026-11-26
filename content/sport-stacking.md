@@ -8,6 +8,8 @@ Sport stacking (also called speed stacking or cup stacking) is a timed dexterity
 
 Sport stacking is open to all ages and both genders in the same events, and women such as Emily Fox have held world records; in schools the activity is used to teach hand-eye coordination and ambidexterity, with separate boys' and girls' divisions only at youth level in some leagues (World Speed Stack Association, n.d.).
 
+ Within the circus and skill sports family on this site, its closest relatives are [Juggling](juggling.html), [Tricking](tricking.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Official WSSA competition uses 9 or 12 identical plastic cups per stack and a StackMat timer with touch pads; events are the 3-3-3 (three pyramids of 3 cups), the 3-6-3 (a 3, a 6 and a 3), the 6-6 (two stacks of 6), the 1-10-1 (a single cup, a pyramid of 10 and a single cup) and the cycle, which runs 3-6-3, then 6-6, then 1-10-1 in one continuous timed sequence with a mandatory down-stacking of each pattern before the next begins (World Speed Stack Association, n.d.). Each event is timed three times, the best time counts, and a false start, knocking a cup out of pattern or failing to down-stack correctly adds a one-second penalty; competitors may compete one-handed only in designated events. Team relays (three or four stackers per team, one pattern each) are also official, and world championships are held annually with age divisions from under 8 to senior plus an open all-ages category. Men and women compete in the same events with identical rules and equipment, and separate men's and women's world records are kept (World Speed Stack Association, n.d.; Wikipedia, n.d.).
@@ -31,3 +33,4 @@ Sport stacking was invented in 1981 by Wayne Godinet, a youth worker at a Boys &
 - [Speed Stacks](https://www.speedstacks.com/) — official cups and StackMat timers
 - [Speedcubing](speedcubing.html) on this site — the timed puzzle-solving counterpart
 - [Memory Sport](memory-sport.html) on this site — competitive memorization events
+- Related on this site: [Juggling](juggling.html) and [Tricking](tricking.html) — the circus and skill sports

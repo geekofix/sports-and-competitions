@@ -6,6 +6,8 @@ Robot fighting, also called robot combat, is a sport in which teams design, buil
 
 *Figure: Mrshaxas. (2025, October 9). Combat robot for robotic competitions — low-profile armored chassis with wedge-shaped front attachments [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Combat_robot_for_robotic_competitions.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the official BattleBots rules, the premier class is the 250 lb (113 kg) heavyweight, a limit in place since the 2015 revival, with a weight bonus up to 500 lb for walking robots; fights take place in the 48 × 48 ft BattleBox arena with hazards such as screws and hammers, last three minutes, start on a light signal, and end in a knockout when a machine is counted out for ten seconds or in a judges' decision (BattleBots, n.d.). Judging uses an 11-point system — 5 points for damage, 3 for aggression and 3 for control — awarded by the judges to decide close fights (BattleBots, n.d.). Safety rules require a pre-fight technical inspection, a failsafe that stops the weapon when the signal is lost, a weapon lock for transport, and remote start; prohibited are electrical weapons, liquids, entanglement devices, EMP effects, untethered projectiles and excessive fire (BattleBots, n.d.). NHRL events run additional weight classes (3 lb, 12 lb, 30 lb and 250 lb) and feature house robots that competitors must survive, with a $1,000 bounty for switching off a house bot's power switch — the old automatic-win rule was removed in 2021 (Wikipedia, n.d.-b). There are no gender classes; women and men compete together in the same brackets (Wikipedia, n.d.-b).
@@ -29,4 +31,4 @@ The modern sport traces to Marc Thorpe, who staged the first Robot Wars competit
 - [BattleBots](https://battlebots.com/) — official site of the premier heavyweight competition; rules at battlebots.com/rules
 - [National Havoc Robot League (NHRL)](https://www.nhrl.io/) — world's largest robot fighting tournament and 2026 Pro Tour
 - [RoboGames](https://robogames.org/) — international multi-discipline robot competition
-- [E-Sports](e-sports.html) on this site — competitive video gaming, the digital cousin of robot fighting
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html) and [Super Smash Bros](super-smash-bros.html) — the esports and tech competitions

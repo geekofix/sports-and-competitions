@@ -6,6 +6,8 @@ Speed pool — also called speedball — is the timed variant of pocket billiard
 
 *Figure: SMcCandlish. (2008, February 18). Nine-ball rack — one of many valid racks in the pool game of nine-ball, with the 1 ball at the apex on the foot spot and the 9 ball in the middle [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Nine-ball_rack.jpg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [Straight Pool](straight-pool.html), [Billiards](billiards.html), [Snooker](snooker.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In speed pool, the player breaks the racked fifteen balls and then pockets them in any order except the 8-ball, which must be pocketed last; the clock runs from the break until the 8-ball drops, and the lowest total time wins (Wikipedia, n.d.-b). Fouls — scratching the cue ball, failing to pocket a ball, jumping the cue ball off the table or touching a ball in play — each add a ten-second penalty to the final time (WPA, n.d.). Play is on a standard 9-foot pool table (100 × 50 inch playing surface) with cue, chalk and bridge of the player's choice; coaching is not allowed during a run (WPA, n.d.). Tournament formats run timed heats, semi-finals and a final, and televised versions used best-of-sets matches mixing straight pool and 8-ball (Wikipedia, n.d.-b). The competition is open to men and women on identical equipment, with no separate gender classifications (Wikipedia, n.d.-b).
@@ -27,7 +29,4 @@ Timed pool games emerged from exhibition and bar play in American pool halls in 
 ## Important Links
 
 - [WPA — World Pool-Billiard Association](https://wpapool.com/) — pool rules and world rankings
-- [8-ball pool](8-ball-pool.html) on this site — standard eight-ball
-- [9-ball pool](9-ball-pool.html) on this site — rotation pool
-- [Straight pool](straight-pool.html) on this site — the call-shot game used in speed-pool tiebreaks
-- [Billiards](billiards.html) and [Snooker](snooker.html) on this site — the cue-sport relatives
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Blackball](blackball.html), [Chinese Eight Ball](chinese-eight-ball.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

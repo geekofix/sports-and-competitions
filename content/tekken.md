@@ -10,6 +10,8 @@ Women compete in the same open brackets as men at all majors — there are no ge
 
 *Figure: Vincent Samaco (vsmak). (2015, July 19). SonicFox at Evo 2015 [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:SonicFox_at_Evo_2015.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [Street Fighter](street-fighter.html), [Super Smash Bros](super-smash-bros.html), [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A Tekken match is best-of-3 rounds; each round lasts 60 seconds, and a round is won by reducing the opponent's health bar to zero (K.O.), by ring-out, or on time by higher remaining health (Wikipedia, n.d.-a). Tekken 8 adds the Heat gauge: Heat Engager/Heat Smash for pressure, Heat Burst as a comeback mechanic, plus rage arts at low health (Wikipedia, n.d.-a).
@@ -43,3 +45,4 @@ Legends include Korea's Bae "Knee" Jae-min (multiple EVO and TWT titles), Yoon "
 - [Tekken World Tour](https://en.wikipedia.org/wiki/Tekken_World_Tour) — Bandai Namco's official circuit and Finals
 - [EVO](https://www.evoevo.com/) — premier open fighting-game tournament incl. Tekken 8
 - Related on this site: [street fighter](street-fighter.html), [super smash bros](super-smash-bros.html), [e-sports](e-sports.html), [boxing](boxing.html), [wrestling](wrestling.html)
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions

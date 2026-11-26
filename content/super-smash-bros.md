@@ -10,6 +10,8 @@ All genders compete in the same open brackets — there are no gender divisions 
 
 *Figure: Chris Ainsworth. (2009, July 17). Super Smash Bros. tournament play at EVO 2009 [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Evo_2009_-_3731301896_-_Super_Smash_Bros._play.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [Street Fighter](street-fighter.html), [Tekken](tekken.html), [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The tournament-legal ruleset for Ultimate: best-of-3 games (best-of-5 in grand finals of majors), 3 stocks, 7:00 time limit, items off, stage hazards as on the legal stage list, pause off, with a stage ban/pick procedure (counterpick stages). A game ends when a player loses all stocks, is knocked out of the blast zones, or has the higher damage percentage when time expires; Sudden Death resolves ties (SmashWiki, n.d.). Singles (1v1) is the most prestigious format; doubles (2v2) and Squad Strike (3-character rotation) also exist (Wikipedia, n.d.-a).
@@ -45,3 +47,4 @@ MkLeo (Leonardo Perez) dominated the 2019–2021 era and is widely considered th
 - [Liquipedia Smash](https://liquipedia.net/smash/) — majors, results, UltRank/LumiRank
 - [start.gg](https://www.start.gg/) — tournament brackets and rankings for all Smash titles
 - Related on this site: [street fighter](street-fighter.html), [tekken](tekken.html), [e-sports](e-sports.html)
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions

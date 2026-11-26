@@ -6,6 +6,8 @@ Washer toss — also called washer pitching or simply washers — is the America
 
 *Figure: agr (ArnoldReinhold). (2005). Washers — assorted metal washers arranged in rows (flat, split, star-lock and insulating), the throwing hardware of washer toss [Photograph]. Wikimedia Commons. GFDL; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Washers.agr.jpg*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Cornhole](cornhole.html), [Horseshoes](horseshoes.html), [Kubb](kubb.html), [Molkky](molkky.html), [Ladder Toss](ladder-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Two teams — singles or doubles — stand beside one target and throw toward the other, set typically 20–25 feet (about 6–8 m) away, alternating throws of a set number of washers per round (Wikipedia, n.d.). Scoring follows the local rule sheet: a washer landing inside the cup or can scores the highest value (commonly five points for a "ringer" around the stake or in the cup), with secondary points for the nearest washer and leaners against the target in some variants; when both teams score in the same round the points cancel, and the first team to an agreed total — commonly 11 or 21 points — wins the game (Wikipedia, n.d.; American Washers Association, n.d.). Tournament rule sheets fix the distance, washer size and weight, target type and the exact scoring table, since regional variants (such as Texas washers) differ (American Washers Association, n.d.).
@@ -26,6 +28,5 @@ Washer pitching grew out of informal rural American recreation; oral tradition t
 ## Important Links
 
 - [American Washers Association](https://washers.org/) — history, rules and tournaments of washer toss
-- [Cornhole](cornhole.html) on this site — the closely related bean-bag throwing game
-- [Horseshoes](horseshoes.html) on this site — the classic ring-toss lawn game that inspired washers
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games
 - [Petanque](petanque.html) on this site — the boules-family precision throwing game

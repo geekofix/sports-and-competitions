@@ -6,6 +6,7 @@ Memory sport (competitive memory, "mental athletics") is the mind sport in which
 
 *Figure: F. D. Richards. (2009, January 21). Memory game 0001 — a memory card game laid out on a table — competitive memory sport, as at the World Memory Championships, tests recall of cards, numbers, words and images [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Memory_game_0001.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Mahjong](mahjong.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,4 +36,4 @@ Trained memory has been taught since ancient Greece — the "art of memory" with
 - [World Memory Championships (WMSC)](https://www.worldmemorychampionships.com/) — official results, statistics and world rankings; 2026 championship in Ho Chi Minh City, 11–13 December
 - [International Association of Memory (IAM)](https://www.internationalassociationofmemory.com/) — parallel world championship; 2026 in Kuta, Bali, 17–19 December
 - [Art of Memory — memory sport community](https://artofmemory.com/) — champions list, techniques and records
-- [Chess](chess.html) on this site — see also [Go](https://en.wikipedia.org/wiki/Go_(game)) on Wikipedia and [Mahjong](mahjong.html) on this site
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

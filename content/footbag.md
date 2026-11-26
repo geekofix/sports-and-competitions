@@ -4,6 +4,8 @@ Footbag — popularly known as "hacky sack," a registered trademark of Wham-O, s
 
 At the end of 2026 the leading women include Marilyn Demuy (CAN), the 2025 world champion in women's net, and the top freestyle players from North America and Europe, while on the men's side Kenny Shults (USA) heads the net rankings and the 2026 freestyle titles in Tsukuba were shared among players from the USA, Japan and Europe (IFPA, n.d.-c).
 
+ Within the shuttlecock/footbag family on this site, its closest relatives are [Jianzi](jianzi.html), [Kemari](kemari.html), [Sipa](sipa.html), [Chinlone](chinlone.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the IFPA Official Rules of Footbag Sports, the net game is played on a court 44 ft × 20 ft (13.4 m × 6.1 m) with a net 5 ft (1.5 m) high, divided into two halves; scoring is side-out — only the serving side can score a point — and the serve must be struck diagonally cross-court into the opponent's service quadrants (IFPA, n.d.-b; Wikipedia, n.d.-a). In singles each player may contact the bag at most twice before it must cross the net; in doubles the team has three contacts, with kicks alternating between partners; only the feet and legs below the knee may touch the bag — any contact with the knee or above, or with the hands or arms, is a fault (IFPA, n.d.-b). A game is played to 15 points, won by at least 2 (preliminary games to 11); at 20–20 play continues until one side leads by 2, with a ceiling of 25 points, and a match is the best of three games, with a single consolation game to 21 (ceiling 25) for third place (IFPA, n.d.-b). Freestyle competition is judged, not timed: in battle events two players face off head-to-head in alternating 30-second rounds while judges score difficulty, execution, style, variety and musicality; other formats include the pairs request contest (each player calls the trick the partner must perform), Sick 3 (three designated "sick" tricks), last man standing, the circle contest and choreographed routines (IFPA, n.d.-b). In all events the hands may not touch the bag below the elbows.
@@ -39,5 +41,5 @@ Kicking games with a small sack have ancient roots — the Chinese game *jianzi*
 - [IFPA World Footbag Championships](https://footbag.org/events/world-championships/) — 45th edition 2026 in Tsukuba, Japan (August 10–15, 2026), first in Asia
 - [IFPA Official Rules of Footbag Sports](https://footbag.org/rules/) — net and freestyle rulebook
 - [Indiaca](indiaca.html) on this site
-- [Jianzi](jianzi.html) on this site
+- Related on this site: [Jianzi](jianzi.html), [Kemari](kemari.html), [Sipa](sipa.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games
 - [Sepak Takraw](sepak-takraw.html) on this site

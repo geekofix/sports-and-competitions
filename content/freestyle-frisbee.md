@@ -10,6 +10,8 @@ The central technique of modern freestyle is the nail delay — balancing the sp
 
 *Figure: SSC Karlsruhe Michael Chaussette. (2017, July 2). Freestyle frisbee players posing with a disc at a freestyle frisbee competition [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Freestyle_Frisbee_WM2015_Hess_SSC_Karlsruhe_IMG036.jpg*
 
+ Within the disc sports family on this site, its closest relatives are [Ultimate](ultimate.html), [Guts Frisbee](guts-frisbee.html), [Disc Golf](disc-golf.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Dog](disc-dog.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitive freestyle is performed by pairs or by co-op teams of three, in routines of typically three to five minutes set to music. A panel of certified judges scores each routine on execution, difficulty and artistic impression/presentation; the team with the highest total wins (Wikipedia, n.d.-a).
@@ -45,3 +47,4 @@ In 1975 Freddie Haft performed the first nail delay in tournament play at the Am
 - [Freestyle Players Association (FPA)](https://events.freestyledisc.org/) — governing body; world championships, event calendar, judging system
 - [World Flying Disc Federation (WFDF)](https://wfdf.sport/) — co-sanctions the 2026 freestyle world title; disc-sport disciplines
 - Related on this site: [ultimate](ultimate.html), [guts frisbee](guts-frisbee.html), [disc golf](disc-golf.html)
+- Related on this site: [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Golf](disc-golf.html), [Guts Frisbee](guts-frisbee.html), [Disc Dog](disc-dog.html) and [Kanjam](kanjam.html) — the flying-disc sports

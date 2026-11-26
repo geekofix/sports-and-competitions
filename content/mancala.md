@@ -8,6 +8,8 @@ The games are open to everyone — men and women, children and adults play toget
 
 *Figure: Jimmy Henks. (2019, February 5). Men playing oware — the West African mancala variant and national game of Ghana — outdoors in Ghana [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Men_playing_oware_in_Ghana.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Backgammon](backgammon.html), [Makruk](makruk.html), [Contract Bridge](contract-bridge.html), [Go](go.html); the related pages are listed under Important Links.
+
 ## Rules
 
 All mancala games share the sowing mechanic — counterclockwise, one piece per pit, skipping the opponent's store in some variants — but boards differ: two-row games use 2×6 pits plus stores (kalah, started with four seeds per pit and the store on the right), while four-row games such as bao and omweso use 4×8 pits (Wikipedia, n.d.-d; Wikipedia, n.d.-b; Wikipedia, n.d.-a).
@@ -45,3 +47,4 @@ In the 20th century the games reached a global audience through commercial sets 
 - [The Oware Society](http://www.oware.org/) — first organised body for international oware tournaments; calendar, results, rankings
 - [Oware Society events](http://www.oware.org/events.asp) — international tournaments and online leagues
 - Related on this site: [chess](chess.html), [backgammon](backgammon.html), [makruk](makruk.html), [contract-bridge](contract-bridge.html)
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

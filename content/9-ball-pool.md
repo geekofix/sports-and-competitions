@@ -12,6 +12,8 @@ Among the players shaping the game today are the Philippines' Chezka Centeno, on
 
 *Figure: Escaros, J., Jr. (Philippine News Agency). (2018, February 27). Carlo Biado of the Philippines, 2025 WPA world nine-ball champion [Photograph]. Wikimedia Commons. Public domain (PD-PhilippinesGov). https://commons.wikimedia.org/wiki/File:Carlo_Biado_2018.jpg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [8 Ball Pool](8-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Billiards](billiards.html), [Straight Pool](straight-pool.html), [Carom Billiards](carom-billiards.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under WPA rules the cue ball must contact the lowest-numbered ball on the table first on every shot. Balls are played in ascending order, but any ball pocketed legally stays down — the rack is won by legally pocketing the 9-ball on any shot, including the break; unlike in 10-ball, the 9-ball is not spotted (WPA, 2025). In professional play every shot except the break and a push-out must be called (ball and pocket). After a legal break a push-out is allowed. A foul gives the opponent ball-in-hand anywhere on the table, and three consecutive fouls lose the rack. The table is a standard 9-foot pool table with six pockets and 57.15 mm (2 1/4 in) balls; the balls are racked in a diamond with the 1-ball on the foot spot and the 9-ball in the centre (WPA, 2025). Men, women, junior and wheelchair athletes play the identical rule set, with separate championship divisions (WPA, n.d.-c). Some amateur and bar rule sets spot the 9-ball if it drops on the break or uncalled, so local games can differ from the WPA game (Cue Sports International, n.d.).
@@ -49,4 +51,4 @@ Under WPA rules the cue ball must contact the lowest-numbered ball on the table 
 - [Matchroom Pool — WNT Rankings](https://matchroompool.com/rankings/) — world tour rankings (November 2026: Aloysius Yapp #1)
 - [Matchroom Pool](https://matchroompool.com/) — major professional 9-ball events and the World Pool Championship
 - [Cue Sports International (CSI/BCAPL)](https://www.playcsipool.com/) — major US league with its own rule variants
-- See also [8-Ball Pool](8-ball-pool.html), [10-Ball Pool](10-ball-pool.html), [Billiards](billiards.html), [Straight Pool](straight-pool.html) and [Carom Billiards](carom-billiards.html) on this site
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Blackball](blackball.html), [Chinese Eight Ball](chinese-eight-ball.html), [Speed Pool](speed-pool.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

@@ -6,6 +6,8 @@ Vinkensport (vinkenzetting, "finch setting") is the traditional Flemish sport of
 
 *Figure: Donarreiskoffer. (2013, May 25). Vinkensport, Deinze 02 — vinkensport (chaffinch song contest) in Deinze, Belgium [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Vinkensport,_Deinze_02.JPG*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In a vinkenzetting the cages are hung in a long row about 2.4 m (six feet) apart so the birds hear but do not see their rivals; the match lasts exactly one hour, started and ended by a red flag, and referees walk the row chalking each bird's valid songs onto a wooden stick that holds up to 800 marks (Wikipedia, n.d.). Only complete songs ending in "susk-e-wiet" count — cut-short phrases score nothing — and the bird with the highest tally at the final whistle wins the contest, with champions crowned as the "king finch" of their category; the standing record is 1,278 valid songs in one hour, set in 2007 (Wikipedia, n.d.). Rules govern cage dimensions and the cloth covers on three sides, the spacing of the row, rest requirements and the singing season; blinding of birds — once used to make them sing more — was banned by law in 1921 after a 1920 campaign by blinded First World War veterans, and the EU ban on capturing wild birds (1979), upheld by the Belgian Constitutional Court in 2002, means all contest birds are now bred in captivity (Natuurpunt, n.d.; Wikipedia, n.d.). Caribbean variants in Guyana, Trinidad, Suriname and Brazil place the cages only about one foot apart and play to 50 songs (Wikipedia, n.d.).
@@ -29,3 +31,4 @@ Bird-song contests have been documented in Flemish and Dutch culture since the s
 - [Natuurpunt](https://www.natuurpunt.be/) — Flemish nature and bird-protection organization overseeing vinkensport welfare standards
 - [BBC — coverage of Belgium's chaffinch contests](https://www.bbc.com/)
 - [Pigeon racing](pigeon-racing.html) on this site — the feathered competition family
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games

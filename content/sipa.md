@@ -8,6 +8,7 @@ Women and men both play sipa, and mixed circles are the norm at festivals; the g
 
 *Figure: Benedicto Briones. (2022, August 16). SipaQuezonCity.jpg — Children playing sipa — the traditional Filipino kicking game — in Quezon City [Photograph]. Wikimedia Commons. Public domain (Philippines government work). https://commons.wikimedia.org/wiki/File:SipaQuezonCity.jpg*
 
+ Within the shuttlecock/footbag family on this site, its closest relatives are [Chinlone](chinlone.html), [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -36,3 +37,4 @@ Circle games with a woven rattan ball are documented in Siam from at least the A
 - [Sepak takraw](sepak-takraw.html) — the net version of the circle kicking tradition, on this site
 - [Chinlone](chinlone.html), [Footvolley](footvolley.html), [Jianzi](jianzi.html) and [Footbag](footbag.html) on this site — related kicking games
 - [Tourism Authority of Thailand](https://www.tourismthailand.org/) — traditional Thai games and heritage
+- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games

@@ -6,6 +6,7 @@ Slippery stairs is a festival game in which competitors — traditionally studen
 
 *Figure: Kirinwizard. (2007, July 18). HaikuLadder.jpg — The steep steel Haiku Stairs on Oʻahu, Hawaii — in slippery stairs competitions, contestants slide down a long lubricated staircase [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:HaikuLadder.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,3 +36,4 @@ The undoukai — school sports day — tradition in Japan dates to March 1873, w
 - [Japan Times](https://www.japantimes.co.jp/) — coverage of the viral slippery-stairs game-show tradition
 - [ESPN — Primetime Chaos Tour](https://www.espn.com/) — the 2026 US "Ocho" slippery-stairs event
 - [Athletics](athletics.html) on this site — the parent category of running and festival races
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html) and [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — the folk, festival and novelty games

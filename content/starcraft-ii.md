@@ -8,6 +8,8 @@ StarCraft II is a competitive real-time strategy (RTS) esport in which two playe
 
 Women and men compete in the same open tournaments; among the current leading players, Canada's Sasha "Scarlett" Hostyn is the most successful woman in StarCraft II history and still competes at the top of mixed events, while the leading men in the November 2026 e-rankings are herO (rank 1), Clem (2), Serral (4), Reynor (5) and the seven-time GSL champion Maru (9) (Wikipedia, n.d.).
 
+ Within the esports and tech competitions family on this site, its closest relatives are [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Valorant](valorant.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A competitive StarCraft II match is played in real time on a fixed ladder map; each player starts with 12 workers and a town hall and must gather minerals and vespene gas, construct buildings, research upgrades and produce units and structures, with the standard win condition being destruction of all opponent buildings (Blizzard Entertainment, n.d.). Professional series are best-of-3 in group stages and best-of-5 or best-of-7 in later rounds and finals; maps are vetoed alternately from the map pool before each series, and there are no draws — a tie in game time is broken by in-game tiebreak rules or a replay. There are no gender-separated leagues — women and men compete in the same open tournaments, with Scarlett as the standout female player — and no official age classes at premier events, with youth eligibility handled by the organizers. Blizzard's official rules and the map pool for each season are published on the game's esport pages (Blizzard Entertainment, n.d.; Wikipedia, n.d.).
@@ -30,5 +32,5 @@ StarCraft II was released by Blizzard Entertainment on 27 July 2010 and became t
 - [StarCraft II — official Blizzard site](https://starcraft2.blizzard.com/) — game, esport rules and news
 - [SOOP GSL — Champions Korea](https://gsl.sooplive.co.kr/) — the premier Korean StarCraft II league
 - [Liquipedia — StarCraft II](https://liquipedia.net/starcraft2) — comprehensive esport wiki with results and rankings
-- [E-Sports](e-sports.html) on this site — the broader competitive gaming scene
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions
 - [Chess](chess.html) on this site — the classic strategy esport

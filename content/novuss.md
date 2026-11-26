@@ -6,6 +6,8 @@ Novuss is a Baltic tabletop billiards game often described as "sea billiards", p
 
 *Figure: Groznijs, A. (2006, September 30). Novuss game competition — 1st Baltic Children's Olympiad, Cologne [Photograph]. Wikimedia Commons. CC BY-SA 2.0 DE. https://commons.wikimedia.org/wiki/File:Novuss_Wettbewerb.jpg*
 
+ Within the table and arcade games family on this site, its closest relatives are [Pachinko](pachinko.html), [Pinball](pinball.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The board is a square wooden table, roughly 100 by 100 cm, with a circular pocket in each corner (International Novuss Federation, n.d.). Each player starts with eight discs of one color placed anywhere on the board; the striker pucks and cue sticks are placed at the edges (Wikipedia, n.d.). Players take turns using a cue stick to flick a striker puck across the board, attempting to knock their own discs into a corner pocket while sending the opponent's discs away from the pockets (International Novuss Federation, n.d.). A disc that lands in a pocket is removed from the board, and a striker puck that ends in a pocket is also out of play for that turn and must be replaced (Wikipedia, n.d.). The first player to sink all eight of their own discs wins the game; matches at championship level are played as a set number of games, and the player with the most game wins takes the match (International Novuss Federation, n.d.). The official rules are published by FINSO and apply at the International Novuss Championship, held annually since 1993, with men's and women's singles and team events under identical rules (International Novuss Federation, n.d.).
@@ -31,3 +33,4 @@ Novuss spread in the Baltic Sea region in the 1920s, when seamen from England in
 - [Novuss — Wikipedia](https://en.wikipedia.org/wiki/Novuss) — origin among Baltic seamen in the 1920s and related games
 - [Carrom](carrom.html) on this site — related striking board game
 - [Billiards](billiards.html) on this site — related cue sport family
+- Related on this site: [Pachinko](pachinko.html), [Pinball](pinball.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html) and [Air Guitar](air-guitar.html) — the table and arcade games

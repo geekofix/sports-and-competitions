@@ -6,6 +6,7 @@ Pizza dough throwing, also called pizza acrobatics or pizza freestyle, is a comp
 
 *Figure: Arthur Mouratidis. (2007, January 4). Hand-tossed pizza — a pizzaiolo hand-tossing a pizza in the air — pizza dough throwing (pizza freestyle) contests score the height, spins and catches of tossed dough [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Hand-tossed_pizza.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ Spinning dough to stretch it is as old as pizza-making itself, but the performan
 - [International Pizza Expo — Las Vegas](https://www.internationalpizzaexpo.com/) — hosts the World Pizza Games including dough tossing
 - [World Pizza Championship, Salsomaggiore Terme (Pizza e Pasta Italiana)](https://www.pizzaepastaitaliana.it/) — Italian world championship with freestyle acrobatics since the 1990s
 - [Tony Gemignani](https://en.wikipedia.org/wiki/Tony_Gemignani) — the most decorated pizza dough thrower in history
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html) and [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — the folk, festival and novelty games

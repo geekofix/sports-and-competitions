@@ -6,6 +6,7 @@ Electrician games are trade-skills competitions for electricians and electrical 
 
 *Figure: Editor B. (2005, December 10). Electrician Working — an electrician hooking up a generator to a home's electrical panel — the trade skills contested at the Electrician Games, where electricians compete in wiring, installation and fault-finding challenges [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Electrician_Working.jpg*
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Lumberjack Championships](lumberjack-championships.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,3 +33,4 @@ Skilled trades have been tested in public competitions since the guilds of the M
 
 - [WorldSkills International](https://worldskills.org/) — world championship of trades; electrical installations skill, competition rules and results
 - [WorldSkills — What are skill competitions](https://worldskills.org/what/skills/) — how electrician games are judged
+- Related on this site: [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html), [Hemp Olympics](hemp-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals

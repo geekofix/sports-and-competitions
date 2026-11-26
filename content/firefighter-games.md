@@ -8,6 +8,7 @@ On the women's side, the Games and the CTIF competitions include full women's ca
 
 *Figure: Keith Lovett. (2008, January 27). FFCB Hose Hoist — a competitor hoisting a fire hose during the Firefighters Combat Challenge — the timed skills competition at the heart of the Firefighter Games (World Firefighter Games) [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:FFCB_Hose_Hoist.jpg*
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -38,3 +39,4 @@ The idea of international firefighter competitions grew out of national fire-spo
 - [Weightlifting](weightlifting.html) on this site
 - [Wrestling](wrestling.html) on this site
 - [Judo](judo.html) on this site
+- Related on this site: [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html), [Hemp Olympics](hemp-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals

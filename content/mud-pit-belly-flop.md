@@ -6,6 +6,7 @@ The mud pit belly flop is a novelty competition in which contestants leap or div
 
 *Figure: Diane Roberts. (2011, April 25). Maldon mud race. (5654972490) — competitors splashing through a mud course at the Maldon Mud Race in England — mud pit belly flop contests judge the biggest splash when jumping belly-first into a mud pit [Photograph]. Wikimedia Commons. CC0 1.0. https://commons.wikimedia.org/wiki/File:Maldon_mud_race._%25285654972490%2529.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,3 +33,4 @@ The Redneck Games were started in 1996 by Mac Davis, general manager of radio st
 
 - [Redneck Games — Wikipedia](https://en.wikipedia.org/wiki/Redneck_Games) — history of the East Dublin festival and its mud pit belly flop event
 - [Belly flop — Wikipedia](https://en.wikipedia.org/wiki/Belly_flop) — the acrobatic jump the contest is named after
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html) and [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — the folk, festival and novelty games

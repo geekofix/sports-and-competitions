@@ -6,6 +6,8 @@ Competitive public speaking comprises judged speech contests in which speakers p
 
 *Figure: Barbarinat. (2019, May 9). Certamen de oratoria Senado 2019 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Certamen_de_oratoria_Senado_2019.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Debate](debate.html), [Poetry Slam](poetry-slam.html), [Chess](chess.html), [Go](go.html), [Shogi](shogi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Toastmasters' International Speech Contest, the pathway to the World Championship, is governed by the Speech Contest Rulebook: contests start at club level and proceed through area, division, district and quarterfinal rounds, with two winners per quarterfinal advancing to the semifinals and about eight finalists reaching the World Championship (Toastmasters International, n.d.). Speeches must be entirely the speaker's own original work, between five and seven minutes long — under- and over-time speakers place lower — and the final requires a completely new speech; a three-of-five judge panel disqualifies plagiarized or repeated speeches, and judging weighs content, organization, gestures and style (Wikipedia, n.d.). Student circuits run parallel events — original oratory, extemporaneous speaking and interpretation — with similar time limits and judging ballots, and debate formats score argumentation under their own rulesets.
@@ -26,5 +28,4 @@ Formal oratory descends from the rhetorical traditions of antiquity, and competi
 ## Important Links
 
 - [Toastmasters International — World Championship of Public Speaking](https://www.toastmasters.org/events/world-championship-of-public-speaking) — the world's largest speech contest
-- [Debate](debate.html) on this site — the competitive argument format
-- [Poetry Slam](poetry-slam.html) on this site — judged spoken-word performance
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

@@ -6,6 +6,8 @@ Xiangqi (Chinese chess) is a two-player strategy game played on a board of nine 
 
 *Figure: David Maximillian Waterman. (2005, July 10). 2005-07-10 chinese chess — people playing xiangqi on the street in Beijing [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:2005-07-10_chinese_chess.JPG*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Shogi](shogi.html), [Go](go.html), [Draughts](draughts.html), [Janggi](janggi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The board's nine files and ten ranks are split by a blank "river", and each general is confined to the 3 × 3 palace at its end (Wikipedia, n.d.). The general moves one step orthogonally inside the palace, advisors move one step diagonally inside the palace, elephants move exactly two points diagonally but may never cross the river and are blocked by any piece between, and horses move one point orthogonally followed by one point diagonally outward but are "leg-blocked" when a piece stands on the adjacent orthogonal point (Wikipedia, n.d.). Chariots move like rooks in Western chess, while cannons move like rooks but capture only by leaping over exactly one screen piece of either colour (Wikipedia, n.d.). Soldiers advance one point forward and, after crossing the river, may also move one point sideways; the two generals may never face each other on the same file without a screen between them — the "flying general" rule (World Xiangqi Federation, n.d.). Checkmate wins; stalemate loses for the stalemated side, and perpetual check or perpetual chase by one side is also a loss for the chasing side, so games are decided decisively (Wikipedia, n.d.). In competition, clocks with increments are used, and men's (open) and women's categories are contested separately at world championships, with junior categories for younger players (World Xiangqi Federation, n.d.).
@@ -26,8 +28,5 @@ Xiangqi's origins go back to the Warring States period (around 475–221 BC), wi
 ## Important Links
 
 - [World Xiangqi Federation — official site](https://wxf-xiangqi.org)
-- [Chess](chess.html) on this site — Western chess, xiangqi's closest international relative
-- [Shogi](shogi.html) on this site — Japanese chess
-- [Go](go.html) on this site — the ancient East Asian territory game
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games
 - [Gorodki](gorodki.html) on this site — Russian town bowling game
-- [Draughts](draughts.html) on this site — checkers on a chequered board

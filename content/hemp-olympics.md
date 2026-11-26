@@ -8,6 +8,8 @@ The Hemp Olympics — also called Hemp Olympix — are a series of satirical nov
 
 Women and men compete alike at the Hemp Olympics.
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The Hemp Olympix have no formal rulebook; the organizers publish event guidelines on the MardiGrass participation page (MardiGrass, n.d.). In the classic events, contestants roll a cannabis joint — in the artistic event judged on neatness and style within a time limit (historically ten minutes), in the speed roll purely against the clock, and in the blindfolded roll without sight; the bong throw is judged for distance like a javelin, with the thrower's technique free; munchies contests judge eating within set rules announced on the day (Wikipedia, n.d.-b; MardiGrass, n.d.). Prizes are humorous rather than monetary, and the events are open to all genders in mixed competition; participation is part of the festival programme and follows the festival's general rules of conduct (MardiGrass, n.d.). Because the events are a parody of sport and of prohibition-era policy rather than an athletic competition, there are no age or gender classes and no world ranking (Wikipedia, n.d.-b).
@@ -30,3 +32,4 @@ The Hemp Olympix were created in 1996 at the Nimbin MardiGrass — which began i
 
 - [Nimbin MardiGrass — Hemp Olympix](https://www.nimbinmardigrass.com/participate/hemp-olympix/) — official participation page with the event guidelines
 - [Nimbin MardiGrass](https://www.nimbinmardigrass.com/) — the festival since 1993
+- Related on this site: [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals

@@ -6,6 +6,8 @@ Valorant is Riot Games' tactical first-person shooter, released on June 2, 2020:
 
 *Figure: Jiang, D. (2023, August 6). Valorant Champions Los Angeles 2023 — opening day of the 2023 Valorant Champions Tour at the Shrine Auditorium and Expo Hall in Los Angeles, California; NAVI v Team Liquid [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Valorant_Champions_Los_Angeles_2023.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [Starcraft Ii](starcraft-ii.html), [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A standard match is played on a map from the fixed pool in a best-of-three format (best-of-five in some finals); each map is a race to 13 rounds — won by two, with overtime at 12–12 — and a round is won by eliminating the enemy team, by planting the Spike and letting it detonate after 45 seconds, or by defusing it after a plant (7 seconds, halved with a defuse kit) (Riot Games, n.d.). Before each round, teams buy weapons and abilities with credits earned from round results, including a loss bonus for saving; at round 12 the teams switch from attack to defense (Riot Games, n.d.). Each player picks an agent with four signature abilities on cooldowns plus an ultimate, and professional matches open with a pick-and-ban agent draft; the VCT rule set adds overtime, timeout and pause regulations for tournament play (Riot Games, n.d.; VLR.gg, n.d.).
@@ -29,5 +31,5 @@ Valorant was announced by Riot Games on October 15, 2019 under the codename "Pro
 - [Riot Games — official Valorant site](https://valorant.riotgames.com/) — game and VCT
 - [VCT — Valorant Champions Tour](https://www.valorantesports.com/) — international circuit, Masters and Champions
 - [VLR.gg — results, rankings and stats](https://www.vlr.gg/)
-- [StarCraft II](starcraft-ii.html) on this site — the sibling real-time strategy esport
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions
 - [Texas hold'em poker](texas-hold-em-poker.html) on this site — the mind-sport card game

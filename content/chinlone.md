@@ -6,6 +6,8 @@ Chinlone (Burmese: *kanaung bein*) is the national sport of Myanmar — a non-co
 
 *Figure: Schoch, T. (2010, January 1). Chinlone Burma [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Chinlone_Burma.jpg*
 
+ Within the shuttlecock/footbag family on this site, its closest relatives are [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html), [Sipa](sipa.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the traditional game, six players form a circle and keep the ball in the air for as long as possible, with no fixed time limit — the game ends only when the ball touches the ground, and in a competitive match the team with the most controlled, artistic passes wins points from the judges (Wikipedia, n.d.). The ball may be struck with any part of the body except the hands and arms; a player who touches the ball with hands or arms loses the rally (Wikipedia, n.d.). Competitive chinlone, as played at the SEA Games and under the Myanmar Traditional Chinlone Federation's rulebook, is judged on technique, difficulty and artistry of the kicks and poses rather than on points scored — there is no goal and no tackling (SEA Games Federation, n.d.). The first official rulebook was written in 1953 by U Ah Yein of the Burma Athletic Association for the first official competition in Yangon (Wikipedia, n.d.). Men's and women's competitions use the same circle size and ball; women additionally perform the solo *tapandaing* style, a graceful individual routine with the ball, which is judged separately (Wikipedia, n.d.). Age and gender differences are thus cultural rather than structural: children, women and men all play together in the traditional form, while formal competition separates men's, women's and mixed team events (Wikipedia, n.d.). There is no world federation; the sport is governed nationally by the Myanmar Traditional Chinlone Federation and regionally appears at the SEA Games (SEA Games Federation, n.d.).
@@ -28,3 +30,4 @@ Chinlone's origins are traced back roughly 1,500 years, to the Pyu city-states a
 - [Myanmar Traditional Chinlone Federation](https://www.myanmarchinlone.org) — national governing body of chinlone
 - [SEA Games — Chinlone](https://www.seagames.com) — regional championship appearances 2013, 2017, 2023, 2025
 - [Waso Chinlone Festival, Mahamuni Pagoda, Mandalay](https://en.wikipedia.org/wiki/Chinlone) — 98th edition 2026
+- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html) and [Sipa](sipa.html) — the shuttlecock and footbag games

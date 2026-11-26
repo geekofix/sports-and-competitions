@@ -8,6 +8,8 @@ Satellite qualifying events are held in several countries — including the Unit
 
 *Figure: Paxton, C. (U.S. Air Force). (2011, August 26). Malmstrom wife carry — a male competitor carrying his female partner through a wife-carrying race at Malmstrom Air Force Base [Photograph]. U.S. Air Force. Public domain. https://commons.wikimedia.org/wiki/File:Malmstrom_wife_carry.JPG*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Zorbing](zorbing.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The official World Championship course at Sonkajärvi is 253.5 m long over sand, grass and gravel and includes obstacles such as log hurdles, a water dip and a dry obstacle in the form of a foam pool; teams race singly against the clock and the fastest time wins (Sonkajärvi Wife Carrying World Championship, n.d.). Any carry style is permitted as long as the carried partner is held throughout the run — a belt is commonly used for the Estonian carry — helmets are worn as safety gear, and deliberate obstruction of other teams is forbidden (Wikipedia, n.d.). If the carried partner is dropped, the team receives a time penalty added to its run, and the prize for the world champions is the wife's weight in beer, paid out in the beverage of her choice (Sonkajärvi Wife Carrying World Championship, n.d.).
@@ -29,5 +31,4 @@ The tradition is traced to a nineteenth-century Finnish legend about the brigand
 
 - [Wife Carrying World Championships — Sonkajärvi, Finland](https://wife-carrying.org/) — official site with course map, rules and results
 - [Wheelbarrow Olympics](wheelbarrow-olympics.html) on this site — another partner-carrying novelty race
-- [Cheese Rolling](cheese-rolling.html) on this site — a famous European madcap race
-- [Zorbing](zorbing.html) on this site — another comic outdoor competition
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Zorbing](zorbing.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html) and [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — the folk, festival and novelty games

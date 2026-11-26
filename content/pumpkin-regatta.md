@@ -6,6 +6,8 @@ A pumpkin regatta is a water race in which competitors pilot giant hollowed-out 
 
 *Figure: Jens Berlin. (2008, October 12). Windsor Pumpkin Regatta 2008 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Windsor_Pumpkin_Regatta_2008.JPG*
 
+ Within the folk and festival games family on this site, its closest relatives are [Pumpkin Toss](pumpkin-toss.html), [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Racers use Atlantic giant pumpkins large enough to hold a seated adult; the fruit is gutted, shaped for "hull lines", fitted with a seat and launched with the captain aboard — often in costume (Wikipedia, n.d.). Regattas commonly run two divisions, paddle-powered and motor-powered, with individual heats and relay heats between teams; at Damariscotta the paddleboats race in two or three individual heats plus relay heats from the town dock to an offshore buoy and back (Damariscotta Pumpkinfest & Regatta, n.d.). The pumpkin must float with the captain aboard, water ingress is the racer's own problem, and the first hull across the finish line wins; there are no age or gender classes, only crew categories (Wikipedia, n.d.).
@@ -28,5 +30,5 @@ The first pumpkin regatta was organized by Danny Dill and held in 1999 at Lake P
 
 - [Damariscotta Pumpkinfest & Regatta](https://www.mainepumpkinfest.com/regatta) — the largest American pumpkin regatta
 - [Windsor Pumpkin Regatta](https://en.wikipedia.org/wiki/Pumpkin_regatta) — the original event in Nova Scotia
-- [Pumpkin Toss](pumpkin-toss.html) on this site — the related giant-pumpkin throwing sport
+- Related on this site: [Pumpkin Toss](pumpkin-toss.html), [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html), [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) and [World Stone Skimming Championships](world-stone-skimming-championships.html) — the folk, festival and novelty games
 - [Rowing](rowing.html) on this site — the serious paddling sport

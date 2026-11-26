@@ -6,6 +6,7 @@ The Microsoft Excel World Championship is the world championship of Excel esport
 
 *Figure: Ghanshyam Sagar Pant. (2014, December 17). Excel Screen copy — a Microsoft Excel spreadsheet on screen — the tool contested in the Excel World Championship, where competitors build complex spreadsheet models under time pressure [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Excel_Screen_copy.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,3 +33,4 @@ Spreadsheet modeling competitions grew out of university finance and accounting 
 
 - [Financial Modeling World Cup](https://fmwc.com/) — organizer; Microsoft Excel World Championship, rules, calendar and results
 - [E-Sports](e-sports.html) on this site
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html) and [Poetry Slam](poetry-slam.html) — the mind, board and card games

@@ -6,6 +6,7 @@ The Dene games are the traditional athletic contests of the Indigenous peoples o
 
 *Figure: Andrew Otto. (2008, July 18). Ear pull — ear pull, one of the Dene (Inuit) hand games contested at the World Eskimo Indian Olympics and the Arctic Winter Games [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Ear_pull.jpg*
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Winter Games](arctic-winter-games.html), [Arctic Sports](arctic-sports.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -32,4 +33,4 @@ The Arctic Winter Games were founded in 1970 in Yellowknife by Alaska governor W
 ## Important Links
 
 - [Arctic Winter Games](https://arcticwintergames.net/) — official site of the biennial games hosting the Dene games
-- See also [Arctic Winter Games](arctic-winter-games.html) and [Arctic sports](arctic-sports.html) on this site
+- Related on this site: [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html), [Hemp Olympics](hemp-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals

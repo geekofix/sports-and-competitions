@@ -6,6 +6,7 @@ Gurning is the art of pulling the ugliest possible face — competitive grimacin
 
 *Figure: Iista516. (2013, July 10). A young woman gurning — a gurn — a deliberately distorted facial expression — gurning contests, like the World Gurning Championships at Egremont Crab Fair, judge the most extreme pulled face [Photograph]. Wikimedia Commons. GFDL / CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:A_young_woman_gurning.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -37,3 +38,4 @@ Egremont Crab Fair was chartered by Henry III in 1267 and is one of England's ol
 - [Egremont Crab Fair — official site](https://www.egremontcrabfair.com/) — fair since 1267; World Gurning Championships every September
 - [BBC News — World Gurning Championships 2026 coverage](https://www.bbc.com/news/articles/crjw5p03qqpvo) — report on the 2026 contest at Egremont
 - [Guinness World Records](https://www.guinnessworldrecords.com/) — official gurning records, including the longest sustained gurn
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html), [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) and [World Stone Skimming Championships](world-stone-skimming-championships.html) — the folk, festival and novelty games

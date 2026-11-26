@@ -12,6 +12,8 @@ Among current competitors the women come first: Singapore's Sara-Ann Ang claimed
 
 *Figure: Calogeroa.salomon. (2022, October 7). Makruk starting position: khun (king), met, khon, ma (horse), ruea (boat) and the eight bia (pawns) [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Makruk_board.png*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Mancala](mancala.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The pieces differ from Western chess: the khun (king) moves one square in any direction, the met (“seed”, the queen equivalent) only one square diagonally like the shatranj ferz, the khon (nobleman) one square diagonally or one forward like the shogi silver, the ma (horse) moves as a knight and the ruea (boat) as a rook; the eight bia (cowrie-shell pawns) start on the third and sixth ranks, move one square forward and capture diagonally, with no two-square first move and no en passant (Wikipedia, n.d.-d).
@@ -46,3 +48,4 @@ Thailand's best-documented icon is Suchart Chaivichit (b. 1956), a five-time nat
 - [Chess at the 2025 SEA Games](https://en.wikipedia.org/wiki/Chess_at_the_2025_SEA_Games) — makruk and ASEAN chess as new medal events in Bangkok, 10–19 December 2025
 - [2025 SEA Games](https://en.wikipedia.org/wiki/2025_SEA_Games) — 33rd edition, Bangkok and Chonburi, 9–20 December 2025
 - Related on this site: [chess](chess.html), [chess-boxing](chess-boxing.html), [mancala](mancala.html)
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

@@ -4,6 +4,8 @@ The Arctic Winter Games (AWG) are a biennial multi-sport event for athletes from
 
 Women and men compete in the same events at the Arctic Winter Games, with female athletes among the medalists.
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Sports](arctic-sports.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Contingents register teams and athletes by region, age and gender; men and women compete in separate divisions in every sport, and youth categories run alongside the senior events. Medals are awarded per event, and the overall medal standings together with the Hodgson Trophy decide the prestige of the Games (AWG, n.d.-b).
@@ -29,5 +31,5 @@ The Games were founded in 1970 through the initiative of Alaska Governor Wally H
 
 - [Arctic Winter Games — official council](https://arcticwintergames.net/) — history, program and Hodgson Trophy
 - [AWG 2026 Whitehorse](https://awg2026.org/) — the 2026 Games, March 8–15, 2026, Yukon
-- [Arctic Sports](arctic-sports.html) and [Dene Games](dene-games.html) — traditional events on the AWG program, on this site
+- Related on this site: [Arctic Sports](arctic-sports.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html), [Hemp Olympics](hemp-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals
 - [Ice Hockey](ice-hockey.html) — the headline winter sport of the Games, on this site

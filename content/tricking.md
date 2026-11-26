@@ -6,6 +6,8 @@ Tricking (martial arts tricking) is the acrobatic movement sport in which athlet
 
 *Figure: Reeefo. (2011, November 1). Flashkick — a flashkick performed in martial arts tricking [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Flashkick.jpg*
 
+ Within the circus and skill sports family on this site, its closest relatives are [Juggling](juggling.html), [Sport Stacking](sport-stacking.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Because tricking has no governing federation, there is no single standardized rulebook; competition conventions have emerged organically (Wikipedia, n.d.). In battle events, two trickers face each other in head-to-head brackets and take turns throwing short combo sequences — typically 30 to 60 seconds — while judges score difficulty, execution (clean rotation, height, controlled landing), variety and style, and the bracket winner advances (Wikipedia, n.d.; Loopkicks, n.d.). In choreographed-run formats, athletes perform a set routine to music judged on the same criteria (Wikipedia, n.d.). A combo is a chain of tricks linked without stopping, and landing each trick cleanly and in control is the mark of a good tricker; falls or uncontrolled landings cost points (Wikipedia, n.d.). Outside competition, gatherings ("sessions" or "jams") run on jam culture, rewarding creativity over medals, and informal trick lists order recognized moves from the easier 540 kick and aerial to the double backflip families (Wikipedia, n.d.). Women and men use identical trick vocabulary, judging criteria and battle formats (Wikipedia, n.d.).
@@ -29,3 +31,4 @@ The taste for flashy, spectacular kicks in martial arts dates to the mid-1960s, 
 - [Trampoline](trampoline.html) and [Gymnastics](gymnastics.html) on this site — the flipping disciplines feeding tricking
 - [Parkour](parkour.html) and [Breaking](breaking.html) on this site — the street movement arts alongside tricking
 - [Taekwondo](taekwondo.html), [Taekwondo ITF](taekwondo-itf.html), [Capoeira](capoeira.html) and [Karate](karate.html) on this site — the kicking arts behind the trick vocabulary
+- Related on this site: [Juggling](juggling.html) and [Sport Stacking](sport-stacking.html) — the circus and skill sports

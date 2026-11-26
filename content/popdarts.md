@@ -6,6 +6,7 @@ Popdarts is a target game in which players toss double-ended suction-cup darts a
 
 *Figure: PeterPan23. (2007, December 30). Darts in a dartboard — darts stuck in a dartboard — popdarts is a fast-paced darts variant in which players race to hit their targets first [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Darts_in_a_dartboard.jpg*
 
+ Within the table and arcade games family on this site, its closest relatives are [Pachinko](pachinko.html), [Pinball](pinball.html), [Table Football](table-football.html), [Air Hockey](air-hockey.html), [Air Guitar](air-guitar.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ Popdarts was invented in the United States as an indoor-friendly alternative to 
 - [American Popdarts League (APL)](https://iplayapl.com/) — official governing body; rules, rankings and national championship
 - [Popdarts — official game site](https://popdartsgame.com/pages/play) — the original brand's rule page
 - [Darts](darts.html) on this site — the parent target sport
+- Related on this site: [Pachinko](pachinko.html), [Pinball](pinball.html), [Table Football](table-football.html), [Air Hockey](air-hockey.html), [Air Guitar](air-guitar.html) and [Novuss](novuss.html) — the table and arcade games

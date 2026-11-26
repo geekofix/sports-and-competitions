@@ -6,6 +6,8 @@ Snooker Plus was a variant of snooker created by Joe Davis and introduced on 26 
 
 *Figure: Jaros, M. (Nux). (2006, June 5). Snooker plus table drawing [Diagram]. Wikimedia Commons. CC BY 2.5. https://commons.wikimedia.org/wiki/File:Snooker_plus_table_drawing.svg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [Snooker](snooker.html), [Billiards](billiards.html), [English Billiards](english-billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Snooker Plus follows the standard WPBSA rules of snooker — same table, same 15 reds at 1 point and colours from yellow (2) to black (7) — but with two additional balls (Wikipedia, n.d.-b). The orange ball, worth 8 points, sits between the pink and the blue; the purple ball, worth 10 points, sits between the brown and the blue. The break value sequence therefore runs up to 10, and the maximum break becomes 210 points — 15 reds each followed by the purple ball (15 × 11 = 165) plus all eight colours worth 2–10 totalling 45, giving 210; with a free ball the theoretical maximum rises to 221 (Wikipedia, n.d.-b). If a frame ends level, the purple ball is respotted on the black's spot to decide the match, analogous to the black in standard snooker (Wikipedia, n.d.-b). Apart from the two extra balls and the higher maximum, all rules — fouls, misses, free ball, respotting — remained those of standard snooker (WPBSA, n.d.).
@@ -27,5 +29,4 @@ Snooker Plus was devised by Joe Davis — the 15-time world champion who had dom
 ## Important Links
 
 - [WPBSA — World Professional Billiards and Snooker Association](https://www.wpbsa.com/) — governing body of standard snooker
-- [Snooker](snooker.html) on this site — the parent game of the Snooker Plus variant
-- [Billiards](billiards.html) and [English billiards](english-billiards.html) on this site — other cue sports
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Blackball](blackball.html), [Chinese Eight Ball](chinese-eight-ball.html), [Speed Pool](speed-pool.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

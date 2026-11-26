@@ -6,6 +6,8 @@ Tuna throwing is the signature novelty contest of the Tunarama festival in Port 
 
 *Figure: Barker, J. (2013, January 26). Fireworks Australia Day - Port Lincoln Tunarama - South Australia — fireworks over Port Lincoln during the Tunarama festival on Australia Day [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Fireworks_Australia_Day_-_Port_Lincoln_Tunarama_-_South_Australia.jpg*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Contestants throw from a marked throwing line inside a lane, gripping the frozen tuna by the tail or rope handle and spinning one or more full turns before release, hammer-style; the distance is measured from the throwing line to the first point where the fish lands, and each entrant receives a set number of throws — commonly three — with the longest legal throw counting (Wikipedia, n.d.). Separate men's and women's divisions are contested, plus junior novelty events such as the under-10 "prawn toss" with lighter objects, and house rules govern the fish (a frozen whole southern bluefin tuna of roughly 9–10 kg in finals; a weighted plastic replica in heats since 2008), the measuring procedure, the throwing order and safety (Wikipedia, n.d.; ABC News, n.d.). Throwing over the lane boundaries, touching the ground before release or a fish that breaks apart can void a throw under festival rules, and officials judge the landing point (ABC News, n.d.). There is no international federation: the rules are set by the Tunarama organizers, and women and men follow the same measuring and throwing rules in their own classes (Port Lincoln City Council, n.d.).
@@ -31,3 +33,4 @@ Port Lincoln, on South Australia's Eyre Peninsula, is one of the world's great t
 - [Port Lincoln City Council](https://www.portlincoln.sa.gov.au/) — festival revival and event rules
 - [ABC News Australia](https://www.abc.net.au/) — coverage of the tuna-throwing record and festival history
 - [Stone put](stone-put.html), [Caber toss](caber-toss.html) and [Athletics](athletics.html) on this site — the traditional throwing sports
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games

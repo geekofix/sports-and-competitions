@@ -6,6 +6,8 @@ Horseshoes (horseshoe pitching) is a precision throwing game in which players pi
 
 *Figure: Johnmack161. (2006, November 20). Horseshoes game [Photograph]. Wikimedia Commons. GFDL, CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Horseshoes_game.jpg*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Kubb](kubb.html), [Molkky](molkky.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under NHPA rules, two stakes are set 40 ft (12.2 m) apart, measured from the front of each stake, in a pit of clay, sand or similar material roughly 31–36 in wide and 43–72 in long; the foul line is 37 ft from the stake for men and 27 ft for women, juniors and elders (20 ft for cadets) (NHPA, n.d.-a; Wikipedia, n.d.-a). The stake is a 1 in diameter steel pin standing 14–15 in above the pit surface and leaning about 3 in toward the pitcher; a legal shoe weighs at most 2 lb 10 oz, measures no more than 7⅝ in × 7¼ in with an opening of at most 3⅝ in (NHPA, n.d.-a). Each pitcher throws two shoes per inning within a 30-second time limit, alternating with the opponent; scoring is either cancellation or count-all: a ringer — a shoe encircling the stake, verified by the straightedge test — scores 3 points; the shoe closest to the stake scores 1 point if within 6 in, and a leaner (a shoe touching the stake) scores 1 point (NHPA, n.d.-a; Wikipedia, n.d.-a). Games are played to 40 points, or as shoe-limit games (40 or 50 shoes), with innings alternating; men and women compete in separate divisions with the adjusted foul-line distances described above (NHPA, n.d.-a).
@@ -30,3 +32,4 @@ Horseshoe pitching descends from quoits — England set up the first written rul
 - [NHPA history of horseshoe pitching](https://www.horseshoepitching.com/gameinfo/history.html) — origins from quoits and Civil War camps to 1925
 - [Bowling](bowling.html) on this site — precision target sport with a rolling ball
 - [Croquet](croquet.html) on this site — lawn game of precision
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games

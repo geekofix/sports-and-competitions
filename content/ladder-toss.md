@@ -6,6 +6,8 @@ Ladder toss — also known as ladder golf, ladder ball, bolo ball, blongo ball o
 
 *Figure: Joli Rumi. (2024, October 14). Ladder golf game in Alberta, Canada [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ladder_golf_game_in_Alberta,_Canada.jpg*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Two ladders, each with three rungs, stand 15 ft (about 5 paces / 4.6 m) apart on a flat lawn; each player or team gets three bolas — two golf balls connected by a rope about 12–15 in (30–38 cm) long — and throws them one at a time at the opposite ladder (Ladder Golf LLC, n.d.-a). A bola hanging on the top rung scores 3 points, the middle rung 2 and the bottom rung 1; a bola that is wrapped around a rung scores 1 bonus point in the common tournament rule set (Wikipedia, n.d.-a). Only the bolas still hanging after all players have thrown count; a bola that bounces off or is knocked off scores nothing (Wikipedia, n.d.-a). The first player or team to reach exactly 21 points wins — going over 21 is a "bust" and the score reverts to the value before that turn (Ladder Golf LLC, n.d.-a). Popular house variations include cancel-out (a bola on the same rung knocks the opponent's off), "full house" bonuses (bolas on all three rungs) and the "knocker" (hitting an opponent's bola off the ladder for a bonus point) (Wikipedia, n.d.-b). There are no age or gender classes — the game is played by mixed groups of all ages, and teams may be singles, pairs or larger groups in informal play (Wikipedia, n.d.-a). Rule source: Ladder Golf LLC official rules, https://www.laddergolf.com/ (Ladder Golf LLC, n.d.-a).
@@ -27,3 +29,4 @@ Robert G. Reid of Hanover, Pennsylvania, conceived the game around 1999, filed t
 ## Important Links
 
 - [Ladder Golf LLC — official rules](https://www.laddergolf.com/) — the patent holder's official rule set and product information
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games

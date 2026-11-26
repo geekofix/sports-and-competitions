@@ -12,6 +12,8 @@ Dota 2 is a multiplayer online battle arena (MOBA) esports game developed and pu
 
 Women compete alongside men in open qualifiers, and dedicated women's teams and tournaments exist in the Dota 2 scene.
 
+ Within the esports and tech competitions family on this site, its closest relatives are [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A Dota 2 match is played on a square map with two bases connected by three lanes; each of the ten players controls one hero, and the team that destroys the enemy Ancient first wins (Valve Corporation, n.d.). Matches at The International use a best-of-five grand-final format and a double-elimination playoff bracket after the group stage, with Valve's official rules governing drafts, pauses and remakes (HLTV, 2026). The competitive season is organized into the Dota Pro Circuit, with regional leagues feeding the Major tournaments and The International; standings and results are tracked by HLTV and Liquipedia (HLTV, n.d.; Liquipedia, n.d.). There are no gender-separated leagues: men and women compete together on the same rosters, and Valve requires all professional players to meet the age-of-majority requirements of their region (Valve Corporation, n.d.). The 2026 event featured 16 invited teams, a base prize pool of 1.6 million US dollars plus crowdfunding, and the Swiss-stage format introduced in recent years (HLTV, 2026).
@@ -38,4 +40,4 @@ Dota 2 grew out of the Warcraft III mod Defense of the Ancients (DotA); Valve hi
 - [Dota 2 official site](https://www.dota2.com/) — game, news and The International
 - [HLTV — Dota 2 rankings](https://www.hltv.org/rankings/dota2) — team and player rankings, TI 2026 results
 - [Liquipedia — Dota 2](https://liquipedia.net/dota2) — tournament brackets, rosters and results
-- [E-sports](e-sports.html) and [Counter-Strike](counter-strike.html) on this site
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions

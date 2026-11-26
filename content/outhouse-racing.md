@@ -6,6 +6,7 @@ Outhouse racing is a novelty team race in which decorated outhouses (privies) mo
 
 *Figure: Elsa Blaine. (2014, June 28). Jet-powered Outhouse (14358508248) — a jet-powered outhouse at the 2014 Waterloo Air Show — in outhouse racing, teams race motorized outhouses on wheels down a track [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Jet-powered_Outhouse_%252814358508248%2529.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ The Great Klondike International Outhouse Race began in 1977 as part of Dawson C
 - [Dawson City — Great Klondike International Outhouse Race](https://dawsoncity.ca/event/the-great-international-klondike-outhouse-race/) — official event page; rules, 2 km route, safety
 - [Klondike Visitors Association — events](https://klondikevisitorsassociation.ca/events/) — the outhouse race as a Dawson City tradition since 1977
 - [Outhouse racing — Wikipedia](https://en.wikipedia.org/wiki/Outhouse_racing) — history and other towns' races
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html), [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) and [World Stone Skimming Championships](world-stone-skimming-championships.html) — the folk, festival and novelty games

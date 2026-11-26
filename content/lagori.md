@@ -6,6 +6,8 @@ Lagori — also called seven stones, pithoo, pittu, satoliya or dabba kali — i
 
 *Figure: Aprabhala. (2011). Dabba Kali1 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Dabba_Kali1.jpg*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A team has 12 players, of whom 6 are on the court in each set; the game is played on a court with a throwing circle and a stack of seven flat stones (traditionally stone discs, in modern competition fibre discs) piled in the center (Amateur Lagori Federation of India, n.d.-a). The seeking team (breakers) throws a soft ball from the throwing line to knock the stack down — each thrower gets up to three attempts — and then the teams switch roles: the hitters must rebuild the stack stone by stone in the original order while the opponents throw the ball at them to tag them out (Wikipedia, n.d.-b). A player hit by the ball is out for the set; points are scored for each stone knocked down, each stone rebuilt and each opponent tagged (Amateur Lagori Federation of India, n.d.-a). A set lasts 3 minutes with a 30-second break, a match consists of three sets, and the team with the most points wins (Amateur Lagori Federation of India, n.d.-a). Men's and women's matches use identical rules; mixed teams are common in school play (Wikipedia, n.d.-b). Rule source: International Lagori Federation / Amateur Lagori Federation of India rules, https://www.indialagori.in/ (Amateur Lagori Federation of India, n.d.-a). See also [kabaddi](kabaddi.html) on this site.
@@ -29,3 +31,4 @@ Lagori is among the oldest known ball games of India — the Bhagavata Purana de
 - [Amateur Lagori Federation of India](https://www.indialagori.in/) — national body; Indian Lagori Premier League, rules, World Cup
 - [International Lagori Federation](https://www.lagori.org/) — international body; World Cup and member nations
 - [Kabaddi](kabaddi.html) on this site — India's other traditional team ball sport
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games

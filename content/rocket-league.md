@@ -6,6 +6,8 @@ Rocket League is a competitive video game developed by Psyonix and released in J
 
 *Figure: Ye Fang (Norman) Kuang. (2018, September 8). Rocket League — DreamHack Montreal 2018 — 08 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Rocket_League_-_DreamHack_Montreal_2018_-_08.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Valorant](valorant.html), [Dota 2](dota-2.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitive Rocket League is played 3v3 on the standardized Soccar pitch, with 5-minute matches that go to golden-goal overtime if tied, a kickoff countdown after each goal, and cars limited to 100 boost collected from pads (Psyonix, n.d.). Ranked online play runs on an MMR ladder from Bronze to Supersonic Legend, and professional events use group stages (Swiss or round-robin) followed by best-of-five playoff series; at the 2026 Worlds, 20 teams qualified through regional circuits for the $1.2 million prize pool, with $300,000 for the champion (Wikipedia, n.d.-a). Alongside the 3v3 main event, 2v2 and 1v1 circuits were added to the RLCS from 2026 (Wikipedia, n.d.-a). A match is forfeited if a team cannot field three players, and tournament admins enforce roster locks and minimum-age rules — RLCS competitors must be at least 15 years old (BLAST, n.d.). There are no gender classes in the open circuit; women compete in the open RLCS as well as in dedicated women's tournaments (BLAST, n.d.).
@@ -30,7 +32,4 @@ Psyonix, founded in 2000 by Dave Hagewood, released its first game, Supersonic A
 - [Rocket League](https://www.rocketleague.com/) — official game site by Psyonix
 - [BLAST — RLCS](https://www.blast.tv/) — organizer of the Rocket League Championship Series
 - [Liquipedia — Rocket League](https://liquipedia.net/rocketleague/Main_Page) — esports wiki with team, player and tournament records
-- [E-Sports](e-sports.html) on this site — competitive gaming in general
-- [Counter-Strike](counter-strike.html) on this site — the leading tactical shooter esport
-- [League of Legends](league-of-legends.html) on this site — the leading MOBA esport
-- [Valorant](valorant.html) on this site — Riot's tactical shooter
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions

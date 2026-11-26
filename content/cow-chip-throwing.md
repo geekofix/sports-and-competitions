@@ -6,6 +6,7 @@ Cow chip throwing is an American novelty contest in which competitors throw drie
 
 *Figure: Karora. (2008, January 5). Cowpat — A cowpat (cow chip) — in cow chip throwing contests, dried cow pats are hurled for distance [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Cowpat.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,3 +36,4 @@ The Beaver contest began in 1969 and became the recognized world championship of
 - [Beaver County Chamber of Commerce](https://www.beavercountychamberofcommerce.com/) — organizer of the Cimarron Territory Celebration and the world championship contest
 - [The Oklahoman](https://eu.oklahoman.com/) — regional newspaper coverage of the contest
 - [Modern Farmer](https://modernfarmer.com/2014/) — feature on the Beaver championship
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html) and [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — the folk, festival and novelty games

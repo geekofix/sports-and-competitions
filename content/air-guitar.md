@@ -8,6 +8,8 @@ Among the athletes who shape the competition today, the leading women come first
 
 *Figure: Haarala, J. (Air Guitar World Championships). (2019, August 23). Seven Seas from Japan, runner-up at the 2026 world championship, at the Air Guitar World Championships 2019 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Seven_Seas,_AGWC_2019.jpg*
 
+ Within the table and arcade games family on this site, its closest relatives are [Pachinko](pachinko.html), [Pinball](pinball.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each competitor performs a 60-second routine to a song of their choice, miming every move of a real guitarist; the instrument itself must remain invisible, while costumes, props and pyrotechnics are encouraged. A panel of judges awards points for airness, stage presence and originality, and the highest total wins; national qualifiers in many countries feed the world championship, and some editions add a wild-card freestyle round (AGWC, n.d.-b). Men and women compete in the same open class — there are no separate gender categories — and junior contests exist at national level.
@@ -28,3 +30,4 @@ The idea of air guitar as a real competition is credited to Finnish musician Juk
 ## Important Links
 
 - [Air Guitar World Championships (AGWC)](https://www.airguitarworldchampionships.com/) — official site of the annual world championship in Oulu, Finland: rules, champions, results
+- Related on this site: [Pachinko](pachinko.html), [Pinball](pinball.html), [Table Football](table-football.html), [Popdarts](popdarts.html), [Air Hockey](air-hockey.html) and [Novuss](novuss.html) — the table and arcade games

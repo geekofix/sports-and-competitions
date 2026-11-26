@@ -6,6 +6,8 @@ Kemari is an ancient Japanese ball game that became popular among the court nobl
 
 *Figure: BradBeattie. (2006, November 3). Kemari Matsuri at Tanzan Shrine 1 [Photograph]. Wikimedia Commons. CC BY-SA 3.0 / GFDL. https://commons.wikimedia.org/wiki/File:Kemari_Matsuri_at_Tanzan_Shrine_1.jpg*
 
+ Within the shuttlecock/footbag family on this site, its closest relatives are [Jianzi](jianzi.html), [Footbag](footbag.html), [Sipa](sipa.html), [Chinlone](chinlone.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the classical game, eight players stand in a loose circle on a square court of about 6–7 m per side and pass a deerskin ball to one another with kicks of the right foot only — the left foot, hands and arms must not touch the ball (Wikipedia, n.d.-a; Nippon.com, n.d.). Each kick is accompanied by a set call — "Ari," "Ya," "Oh" — and a variety of named kicks exists, including the heel kick *ushiro-mari* (The Japan News, 2026, January 5). The objective is not to score but to keep the ball in the air as long as possible and to strike it so beautifully that the next player can control it; dropping the ball ends that rally, and there is no competition or points system (The Mainichi, 2026, January 5; Wikipedia, n.d.-a). Formal rules, ranks and court etiquette were established under Emperor Go-Toba (reigned 1180–1239), who was himself a master of the game (Wikipedia, n.d.-b). In the modern ceremonial form performed by the Shukiku Hozonkai preservation society, the same circle formation, right-foot kicks and calls are demonstrated at shrines, with players wearing traditional Heian-period costume (Kokugakuin University, n.d.). Men and women historically both played, and the cooperative, non-competitive format is identical for all (Wikipedia, n.d.-b). There is no international federation; the tradition is preserved by the Kemari Preservation Society and the shrines that host the rituals (Kokugakuin University, n.d.).
@@ -33,3 +35,4 @@ Kemari was introduced to Japan from China during the Asuka period and rose to pr
 - [Nippon.com — Kemari: Japan's ancient ball game of the imperial court](https://www.nippon.com/en/guide-to-japan/cs00057/) — history and preservation society
 - [Kokugakuin University — Kemari and its deep connection to shrines](https://www.kokugakuin.ac.jp/en/article/53496) — shrine rituals, 1903 preservation society
 - [Football](football.html) on this site — kemari is regarded as an ancestor of association football
+- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Sipa](sipa.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games

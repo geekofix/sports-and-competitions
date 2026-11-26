@@ -6,6 +6,7 @@ Chinese eight-ball — played under the name *heyball* — is the Chinese varian
 
 *Figure: Jollytime. (2006, December 18). 8 ball break time lapse — Eight-ball break shot in long exposure — Chinese eight-ball is the eight-ball pool variant played in China [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:8_ball_break_time_lapse.jpg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [Billiards](billiards.html), [Snooker](snooker.html), [Blackball](blackball.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,4 +35,4 @@ Heyball emerged in China in the late 20th century as a local adaptation of Ameri
 
 - [World Pool-Billiard Association (WPA)](https://www.wpa-pool.com) — world governing body; heyball is an official WPA discipline, with rules and rankings
 - [WPA Heyball World Championship](https://www.wpa-pool.com) — annual world championship since 2015; 2026 edition in Pune, India
-- [Billiards](billiards.html), [Snooker](snooker.html), [Blackball](blackball.html) and [Carom billiards](carom-billiards.html) on this site
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Blackball](blackball.html), [Speed Pool](speed-pool.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

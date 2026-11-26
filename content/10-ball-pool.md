@@ -12,6 +12,8 @@ Among the players who shape the game today are the Philippines' Chezka Centeno �
 
 *Figure: The President's Office, Maldives. (2023, April 26). Johann Chua in the final of the Maldives Open 2023 10-Ball Championship [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Maldives_Open_2023_Final_-_Johann_Chua.jpg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the WPA Rules of Play, 10-ball is a call-shot game: the balls are played in ascending numerical order and the cue ball must contact the lowest-numbered ball first (World Pool-Billiard Association [WPA], 2025). Every shot except the break and a push-out must be called (ball and pocket). The break is from ball-in-hand behind the head string, and if nothing is pocketed at least four object balls must reach a rail. The balls are racked in a triangle with the 1-ball on the foot spot and the 10-ball in the middle of the third row; the remaining balls are placed randomly.
@@ -73,3 +75,4 @@ Among the players who shaped the modern era are Shane Van Boening, Dennis Orcull
 - [World Confederation of Billiards Sports (WCBS)](https://www.billiard-wcbs.org/) — international umbrella confederation of the cue sports
 - [Matchroom Pool](https://matchroompool.com/) — major professional pool events and world championship promotion
 - [Cue Sports International (CSI/BCAPL)](https://www.playcsipool.com/) — major US league with its own 10-ball variant rules
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [Blackball](blackball.html), [Chinese Eight Ball](chinese-eight-ball.html), [Speed Pool](speed-pool.html) and [Russian Pyramid](russian-pyramid.html) — the billiards, pool and snooker family

@@ -6,6 +6,8 @@ Tom Clancy's Rainbow Six Siege is a tactical five-on-five first-person shooter d
 
 *Figure: FastColin. (2023, May 5). BLAST R6 Copenhagen Major 2023 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:BLAST_R6_Copenhagen_Major_2023_-_52896521952.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [E Sports](e-sports.html), [League Of Legends](league-of-legends.html), [Valorant](valorant.html), [Counter Strike](counter-strike.html), [Dota 2](dota-2.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitive Siege is played as a best-of-series of maps: each map is contested in rounds, first to 7 round wins, with overtime at 6–6, and teams swap between attack and defense halfway through (Wikipedia, n.d.). Attackers pick from operator gadgets — drones for intel, breaches for walls — to assault bomb sites, hostage or secure area, while defenders reinforce walls, floors and hatches with gadgets and traps, creating vertical play and wall-bang duels rather than raw aim alone (Wikipedia, n.d.). Since Siege X (June 2025) each team votes to ban one operator every round, with bans resetting on role swap, and Ranked 3.0 brought new divisions, regional leaderboards and anti-cheat protection (Strafe, n.d.). At the Six Invitational, 20 teams play four groups of five, the top four of each group advance to a double-elimination playoff, playoff matches are best-of-three and the grand final best-of-five; qualification runs on Global Standings points earned in the regional leagues and the two Majors (Liquipedia, n.d.).
@@ -31,5 +33,4 @@ Siege descends from Tom Clancy's Rainbow Six (1998) and was developed by Ubisoft
 - [Ubisoft — R6 Esports Competition Hub](https://www.ubisoft.com/en-us/esports/rainbow-six/siege/competition-hub) — schedule, standings, Six Invitational, Majors, World Cup
 - [Liquipedia — Rainbow Six Wiki](https://liquipedia.net/rainbowsix/Main_Page) — teams, players, tournaments and statistics
 - [Esports Charts — Rainbow Six tournaments](https://escharts.com/tournaments/rainbow-6) — 2026 event list and results
-- [E-Sports](e-sports.html) on this site — the umbrella category
-- [League of Legends](league-of-legends.html), [Valorant](valorant.html) and [Counter-Strike](counter-strike.html) on this site — fellow tactical esports titles
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rocket League](rocket-league.html), [Street Fighter](street-fighter.html), [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions

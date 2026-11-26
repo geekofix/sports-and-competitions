@@ -10,6 +10,8 @@ Women have competed at the IFT since the 1960s, when the tournament already docu
 
 *Figure: G0ngi. (2016, June 26). The German national guts frisbee team posing in matching red jerseys, 2016 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Guts_Frisbee_German_Nationalteam_2016.jpg*
 
+ Within the disc sports family on this site, its closest relatives are [Freestyle Frisbee](freestyle-frisbee.html), [Ultimate](ultimate.html), [Disc Golf](disc-golf.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Dog](disc-dog.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Teams of five line up arm's length apart along their goal line; a disc flip decides who throws first. The thrower raises an arm and the defenders freeze; a legal throw must cross the defenders' line top-side-up, within their extended arm's reach, not vertical or past vertical, and not into the ground first (Wikipedia, n.d.-a).
@@ -46,3 +48,4 @@ The IFT continues at Eagle Harbor — the 61st edition was played in 2018 — wh
 - [World Flying Disc Federation (WFDF)](https://wfdf.sport/) — world governing body of disc sports incl. guts; World Ultimate and Guts Championship
 - [International Frisbee Tournament, Eagle Harbor](https://en.wikipedia.org/wiki/Guts_(flying_disc_game)) — oldest frisbee tournament, since 1958
 - Related on this site: [freestyle frisbee](freestyle-frisbee.html), [ultimate](ultimate.html), [disc golf](disc-golf.html)
+- Related on this site: [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Golf](disc-golf.html), [Freestyle Frisbee](freestyle-frisbee.html), [Disc Dog](disc-dog.html) and [Kanjam](kanjam.html) — the flying-disc sports

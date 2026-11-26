@@ -6,6 +6,8 @@ Pumpkin tossing — better known by its trademarked championship name, Punkin Ch
 
 *Figure: GB fan. (2008, November 2). Punkin-Chunkin-2008-Trebuchet [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Punkin-Chunkin-2008-Trebuchet.JPG*
 
+ Within the folk and festival games family on this site, its closest relatives are [Pumpkin Regatta](pumpkin-regatta.html), [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Machines compete in classes by type — air cannon, trebuchet, catapult, centrifugal and human-powered among others — with team divisions for youth and adults (Wikipedia, n.d.). The core rule is that the pumpkin must leave the device whole and remain whole until first impact for the chunk to count; a pumpkin that bursts on launch ("pie") is disqualified under World Championship rules. Distances are measured from the firing line to the pumpkin's first point of impact, and each team's best of several shots counts. Pumpkins must be in the 8–10 lb (3.6–4.5 kg) class, with thick-rind varieties such as Casper, Lumina and La Estrella preferred; the biggest air cannons can send intact pumpkins more than a mile (World Championship Punkin Chunkin Association, n.d.).
@@ -28,5 +30,5 @@ Punkin chunkin began informally among Delaware farmers in the mid-1980s; the Wor
 
 - [World Championship Punkin Chunkin Association (WCPCA)](https://www.punkinchunkin.com/) — the flagship championship's organizer
 - [Punkin chunkin — history and records via Wikipedia](https://en.wikipedia.org/wiki/Punkin_chunkin) — machines, classes and records
-- [Pumpkin Regatta](pumpkin-regatta.html) on this site — the related giant-pumpkin boat race
+- Related on this site: [Pumpkin Regatta](pumpkin-regatta.html), [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html), [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) and [World Stone Skimming Championships](world-stone-skimming-championships.html) — the folk, festival and novelty games
 - [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet) — the medieval siege engine used as a chunking machine

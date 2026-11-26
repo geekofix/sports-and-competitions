@@ -6,6 +6,7 @@ SpoGomi (from the Japanese for "sport" and *gomi*, garbage) is a competitive lit
 
 *Figure: Funk Dooby. (2018, August 22). Plogging with Coastal Striders - FUNK9730 (42405061590).jpg — Runners of the Coastal Striders club picking up litter while jogging in Ramsgate — plogging, the Swedish-origin activity that spogomi is based on [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Plogging_with_Coastal_Striders_-_FUNK9730_%252842405061590%2529.jpg*
 
+ Within the folk and festival games family on this site, its closest relatives are [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -34,3 +35,4 @@ SpoGomi was invented in 2008 by Kenichi Mamitsuka, founder of the Social Sports 
 - [The Nippon Foundation](https://www.nippon-foundation.or.jp/) — supporting foundation of the Spogomi movement
 - [Athletics](athletics.html) on this site — running underpins the one-hour picking phase
 - [Orienteering](orienteering.html) on this site — another outdoor timed team discipline
+- Related on this site: [Cheese Rolling](cheese-rolling.html), [Egg Tapping](egg-tapping.html), [Shovel Racing](shovel-racing.html), [Lawn Mower Racing](lawn-mower-racing.html), [Bed Racing](bed-racing.html), [Outhouse Racing](outhouse-racing.html), [Pumpkin Regatta](pumpkin-regatta.html), [Pumpkin Toss](pumpkin-toss.html), [Wife Carrying](wife-carrying.html), [Worm Charming](worm-charming.html), [Invisible Dog Show](invisible-dog-show.html), [Rabbit Hopping](rabbit-hopping.html), [Rabbit Show Jumping](rabbit-show-jumping.html), [Camel Jumping](camel-jumping.html), [Goanna Pulling](goanna-pulling.html), [Competitive Eating](competitive-eating.html), [Competitive Sleeping](competitive-sleeping.html), [Do Nothing Contest](do-nothing-contest.html), [Crying Baby Festival](crying-baby-festival.html), [Gurning](gurning.html), [World Gurning Championships](world-gurning-championships.html), [Mullet Championships](mullet-championships.html), [World Porridge Eating Championship](world-porridge-eating-championship.html) and [World Black Pudding Throwing Championships](world-black-pudding-throwing-championships.html) — the folk, festival and novelty games

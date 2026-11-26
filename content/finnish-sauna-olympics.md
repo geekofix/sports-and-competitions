@@ -8,6 +8,7 @@ Women and men have competed in the World Sauna Championships in separate and mix
 
 *Figure: Ville Kurki. (2023, February 13). Traditional Finnish sauna whisking and löyly — traditional Finnish sauna whisking (vihtominen) with birch branches and löyly steam — sauna culture at the heart of the Finnish Sauna Olympics [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Traditional_Finnish_sauna_whisking_and_l%C3%B6yly.jpg*
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -35,3 +36,4 @@ The World Sauna Championships were organized in Heinola from 1999 (first held 19
 
 - [saunamm.fi — World Sauna Championships](https://www.saunamm.fi/) — official archive and rules of the Heinola championships (1999-2010)
 - [Finnish Sauna Society (Suomen Saunaseura)](https://www.saunaseura.fi/) — national body promoting safe sauna culture
+- Related on this site: [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Wheelbarrow Olympics](wheelbarrow-olympics.html) and [Hemp Olympics](hemp-olympics.html) — the multi-sport events and games festivals

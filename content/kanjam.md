@@ -6,6 +6,8 @@ KanJam — rebranded as "Discflect" in 2020 — is a flying-disc team game inven
 
 *Figure: Waits, C. (2011, July 3). KanJam [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:KanJam.jpg*
 
+ Within the disc sports family on this site, its closest relatives are [Ultimate](ultimate.html), [Disc Golf](disc-golf.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the official PDFA rules, two teams of two play on a field with the two cans set 50 feet (15.24 m) apart; each round consists of four throws, two per team, with partners alternating thrower and deflector roles (Professional Discflect Association, n.d.-b). The thrower must release the disc from behind the can, and only the designated deflector may touch the disc in flight — a single deflection is allowed, and catching the disc is a foul that awards the opposing team a point (Professional Discflect Association, n.d.-b). Scoring is: dinger (deflected into the side of the can) 1 point, deuce (direct hit on the can) 2 points, bucket (through the slot or the front opening, with or without deflection) 3 points, and an untouched throw through the slot is an instant win (Professional Discflect Association, n.d.-b). Games are played to exactly 21 points; if a scoring play would take a team over 21, the points are void and the game continues, and ties at 21 are broken in overtime rounds (Professional Discflect Association, n.d.-b; Wikipedia, n.d.-a). Men and women play under identical rules in open and women's divisions, and youth divisions exist at sanctioned tournaments; equipment is a standard 175 g flying disc and regulation cans supplied or approved by the PDFA (Professional Discflect Association, n.d.-b). Rule source: the Professional Discflect Association (PDFA), https://pdfa.com/rules/ (Professional Discflect Association, n.d.-b).
@@ -31,4 +33,4 @@ The game's precursor, "Garbage Can Frisbee," was played in the late 1970s in Ton
 - [Professional Discflect Association (PDFA)](https://pdfa.com/) — governing body since 2009; World Championship and Klassic
 - [Official Rules of Discflect and Tournament Rules (PDFA)](https://pdfa.com/rules/) — scoring, court setup, divisions
 - [KanJam](https://www.kanjam.com/) — brand site; PDFA Discflect World Championship events in Buffalo, NY
-- [Ultimate](ultimate.html) on this site — see also [Disc Golf](disc-golf.html) on this site
+- Related on this site: [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Golf](disc-golf.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html) and [Disc Dog](disc-dog.html) — the flying-disc sports

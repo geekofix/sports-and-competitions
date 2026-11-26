@@ -6,6 +6,8 @@ The wheelbarrow Olympics are novelty races staged at fêtes, charity events and 
 
 *Figure: Jwslubbock. (2016, June 11). A wheelbarrow race at Field Day London 2016 — a driver pushes a barrow with a passenger along the course [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Field_Day_2016_Saturday_wheelbarrow_race_1.jpg*
 
+ Within the multi-sport events family on this site, its closest relatives are [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Teams are usually a pair — one driver pushing the barrow and one passenger seated in it — though solo cargo runs are also staged (Wikipedia, n.d.). From a standing start behind a line, the clock runs until the barrow crosses the finish line; the driver must keep both hands on the handles and may not carry the barrow, and the passenger must remain seated for the whole run. Dropping the passenger, spilling the cargo or leaving the course adds penalty seconds — commonly 5 to 10 per offence — to the raw time, and heats feed a final. Because every fête sets its own house rules, course length, penalties and barrow type vary; single-wheeled garden barrows are standard (Guinness World Records, n.d.).
@@ -27,3 +29,4 @@ Wheelbarrow racing belongs to the old British tradition of fête and harvest-hom
 
 - [Guinness World Records](https://www.guinnessworldrecords.com/) — official wheelbarrow-racing records
 - [Bed racing](bed-racing.html), [Wife carrying](wife-carrying.html), [Worm charming](worm-charming.html) and [Extreme ironing](extreme-ironing.html) on this site — other novelty fête competitions
+- Related on this site: [Arctic Sports](arctic-sports.html), [Arctic Winter Games](arctic-winter-games.html), [Dene Games](dene-games.html), [Firefighter Games](firefighter-games.html), [Electrician Games](electrician-games.html), [Lumberjack Championships](lumberjack-championships.html), [Hemp Olympics](hemp-olympics.html) and [Finnish Sauna Olympics](finnish-sauna-olympics.html) — the multi-sport events and games festivals

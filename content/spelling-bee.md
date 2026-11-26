@@ -8,6 +8,8 @@ A spelling bee is a competition in which contestants spell words aloud one at a 
 
 The bee is open equally to girls and boys, and young women have repeatedly reached the top of the field: Sarvadnya Kadam was runner-up in 2025, Vanya Shivashankar was a co-champion in 2015, and the 2019 bee ended with eight co-champions after a marathon final round (Wikipedia, n.d.-a).
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Memory Sport](memory-sport.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Eligibility for the Scripps National Spelling Bee is limited to spellers in grade 8 or below who are not yet 15 years old, and each speller may compete only once at the national level; the field is drawn from sponsor programs across the United States and internationally (Wikipedia, n.d.-b). The competition proceeds from a written preliminary test to oral rounds: after the written test the field is cut to roughly the top half, then quarterfinals, semifinals and a final oral round decide the champion, with the last remaining speller winning if all others are eliminated. In the oral rounds the pronouncer says the word, and the speller may ask for the word to be repeated, its definition, its pronunciation, its part of speech, its language of origin or a sentence using it before spelling it letter by letter; a misspelling eliminates the speller, and homophone challenges by other spellers can save them. The winner receives a cash prize of more than $50,000 (about $52,500 in recent editions) plus a trophy and other awards, and the bee is broadcast nationally (Scripps National Spelling Bee, n.d.; Wikipedia, n.d.-b).
@@ -30,5 +32,4 @@ The Scripps National Spelling Bee began on 17 June 1925 at the Mayflower Hotel i
 
 - [Scripps National Spelling Bee](https://spellingbee.com/) — official site of the national bee; rules, study lists and results
 - [Merriam-Webster Unabridged](https://www.merriam-webster.com/) — official dictionary and word arbiter of the bee since 1958
-- [Chess](chess.html) on this site — another contest of individual skill under time pressure
-- [Memory Sport](memory-sport.html) on this site — competitive memorization events
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

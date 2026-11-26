@@ -6,6 +6,8 @@ Texas hold'em is the world's most popular poker variant: each player receives tw
 
 *Figure: Hilary Murugu. (2017, October 28). Texas Hold 'Em Poker — people playing Texas hold'em poker in Kenya [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Texas_Hold_'Em_Poker.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Hands are ranked from royal flush down through straight flush, four of a kind, full house, flush, straight, three of a kind, two pair, one pair to high card (World Series of Poker, n.d.). Blinds (small and big) and antes force the action; play proceeds clockwise with the options to check, call, bet, raise, fold or go all-in, and there are four betting rounds — pre-flop, after the flop, after the turn and after the river (World Series of Poker, n.d.). At showdown the best five-card hand is made from any combination of the two hole cards and five community cards; tied hands split the pot, and all-in situations create side pots (Wikipedia, n.d.). Tournament play follows the WSOP official rules and the Tournament Directors Association (TDA) rules (World Series of Poker, n.d.). There are no gender or age-class differences — women and men compete in the same tournaments and cash games — with minimum ages of 18 or 21 depending on jurisdiction, and online rooms mirror the live game (Wikipedia, n.d.).
@@ -27,3 +29,4 @@ Poker's ancestors include the Persian game of as nas (10th century) and Chinese 
 
 - [World Series of Poker (WSOP)](https://www.wsop.com/) — official rules, Main Event, bracelet events and WSOP Hall of Fame
 - [Chess](chess.html), [Darts](darts.html), [Billiards](billiards.html) and [Snooker](snooker.html) on this site — other mind and precision games
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Othello](othello.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

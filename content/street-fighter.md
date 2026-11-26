@@ -10,6 +10,8 @@ Women compete in the same open brackets as men at every major fighting-game even
 
 *Figure: Coqui002. (2026, September 24). Facade of the Evolution Wonderlounge, the EVO 2026 entrance, Las Vegas [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Evolution_Wonderlounge_aka_EVO_2026.jpg*
 
+ Within the esports and tech competitions family on this site, its closest relatives are [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html), [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [Valorant](valorant.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Tournament sets are best-of-3 (best-of-5 at grand finals of majors), double elimination, on the current patch with a standard ruleset: 99-second rounds, no items, stage select by mutual agreement or random in later rounds. SF6 adds the Drive Gauge system — Drive Impact, Drive Parry, Drive Rush and Super Arts — which shapes neutral play (Wikipedia, n.d.-d).
@@ -45,3 +47,4 @@ Daigo Umehara ("The Beast"), six-time EVO champion across multiple games and ind
 - [Capcom Pro Tour / Street Fighter esports](https://sf.esports.capcom.com/) — official CPT; EVO Japan 2026, Capcom Cup 13 ($1M)
 - [EVO — Evolution Championship Series](https://www.evoevo.com/) — world's largest fighting-game tournament, Las Vegas
 - Related on this site: [tekken](tekken.html), [super smash bros](super-smash-bros.html), [e-sports](e-sports.html), [counter-strike](counter-strike.html), [valorant](valorant.html), [boxing](boxing.html), [fencing](fencing.html)
+- Related on this site: [E Sports](e-sports.html), [Counter Strike](counter-strike.html), [League Of Legends](league-of-legends.html), [Dota 2](dota-2.html), [Starcraft Ii](starcraft-ii.html), [Valorant](valorant.html), [Rainbow Six Siege](rainbow-six-siege.html), [Rocket League](rocket-league.html), [Tekken](tekken.html), [Super Smash Bros](super-smash-bros.html) and [Robot Fighting](robot-fighting.html) — the esports and tech competitions

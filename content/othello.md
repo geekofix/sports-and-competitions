@@ -6,6 +6,8 @@ Othello (also known as Reversi) is a two-player abstract strategy board game pla
 
 *Figure: Paul 012. (2008, December 29). A game of Othello (Reversi) in progress [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Othello_%28Reversi%29_board.jpg*
 
+ Within the mind/board/card games family on this site, its closest relatives are [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The board starts with four discs in the center in a diagonal pattern, two black and two white (World Othello Federation, n.d.-a). Players take turns placing one disc on an empty square with their color facing up; a placement is legal only if it flanks a straight line of one or more opponent discs between the newly placed disc and another disc of the player's own color, in any of the eight directions, and all flanked discs are then flipped (World Othello Federation, n.d.-a). A player with no legal move must pass; the game ends when neither player can move or the board is full, and the player with more discs on the board wins (World Othello Federation, n.d.-a). In official WOF play, each player has 30 minutes on the clock, the starting color is drawn by lot, and games at the World Championship are played best-of-one in the round robin and single elimination in the knockout stage (World Othello Federation, n.d.-b). There are no separate rules for women and men — all competitors play under the same laws in the open events, with junior and women's titles organized as separate classifications (World Othello Federation, n.d.-b).
@@ -30,5 +32,4 @@ Reversi was invented in England in 1883, one version by Lewis Waterman and anoth
 - [WOF — Othello rules](https://www.worldothello.org/about/about-othello/othello-rules) — official rules of the game
 - [WOF — World Othello Championship](https://www.worldothello.org/about/tournaments) — WOC rules, tournaments and results since 1977
 - [Reversi — Wikipedia](https://en.wikipedia.org/wiki/Reversi) — history from 1883 England to Othello 1971/1973
-- [Chess](chess.html) on this site — related abstract strategy board game
-- [Go](go.html) on this site — related abstract strategy board game
+- Related on this site: [Chess](chess.html), [Go](go.html), [Shogi](shogi.html), [Xiangqi](xiangqi.html), [Janggi](janggi.html), [Makruk](makruk.html), [Draughts](draughts.html), [Backgammon](backgammon.html), [Carrom](carrom.html), [Mahjong](mahjong.html), [Riichi Mahjong](riichi-mahjong.html), [Scrabble](scrabble.html), [Contract Bridge](contract-bridge.html), [Duplicate Bridge](duplicate-bridge.html), [Texas Hold Em Poker](texas-hold-em-poker.html), [Mancala](mancala.html), [Memory Sport](memory-sport.html), [Speedcubing](speedcubing.html), [Rock Paper Scissors](rock-paper-scissors.html), [Debate](debate.html), [Public Speaking](public-speaking.html), [Spelling Bee](spelling-bee.html), [Poetry Slam](poetry-slam.html) and [Excel World Championship](excel-world-championship.html) — the mind, board and card games

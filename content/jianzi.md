@@ -6,6 +6,8 @@ Jianzi is the traditional Asian shuttlecock-kicking game in which players keep a
 
 *Figure: Stougard. (2006). Woman playing chinese game [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Woman_playing_chinese_game.jpg*
 
+ Within the shuttlecock/footbag family on this site, its closest relatives are [Footbag](footbag.html), [Kemari](kemari.html), [Sipa](sipa.html), [Chinlone](chinlone.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In competitive jianqiu, two teams of three players face each other across the net on the 11.88 × 6.10 m court; each side may touch the shuttlecock a maximum of three times — with one player allowed two consecutive touches — and must return it over the net, with a maximum of one bounce of the shuttlecock on the floor between touches (International Shuttlecock Federation, n.d.; Wikipedia, n.d.-a). The serve is underhand from behind the end line into the diagonal service court; a team scores only on its own serve (rally-point variants exist at international events), and sets are played to 15 or 21 points with a two-point lead (Wikipedia, n.d.-b). Hands and arms below the shoulders are forbidden everywhere on court — the defining rule of jianzi (Wikipedia, n.d.-a). In freestyle footbag, individuals or pairs perform routines of tricks — stalls, spins, passes and links — judged on difficulty, execution and style over a set time; the 2026 world freestyle championships are dominated by players from Vietnam, China and the USA (International Shuttlecock Federation, n.d.). The shuttlecock is 24–25 g with four feathers and a rubber base, 14–15 cm long (Wikipedia, n.d.-b). Men's and women's jianqiu use the same court but a lower net for women (1.50 m vs 1.60 m); freestyle has open and women's categories (Wikipedia, n.d.-a).
@@ -28,3 +30,4 @@ Jianzi grew out of cuju, the Han-dynasty football game in which players kept a f
 
 - [International Shuttlecock Federation (ISF)](https://www.shuttlecock.org/) — world governing body; World Championships since 2000, SEA Games
 - [Footbag](footbag.html) on this site — see also [Sepak Takraw](sepak-takraw.html) and [Volleyball](volleyball.html) on this site
+- Related on this site: [Footbag](footbag.html), [Kemari](kemari.html), [Sipa](sipa.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games

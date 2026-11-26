@@ -6,6 +6,8 @@ Disc dog is a competitive dog sport in which handler-and-dog teams throw flying 
 
 *Figure: Wikotto. (2013, March 1). Adrian Stoica & Rory — World Champions 2014 Skyhoundz Disc Dog [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Adrian_Stoica_%26_Rory-_World_Champions_2014_Skyhoundz_Disc_Dog.png*
 
+ Within the disc sports family on this site, its closest relatives are [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Golf](disc-golf.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the Skyhoundz/AWI/USDDN rule sets, competitions are organized in divisions — Open, Sport, Pairs Freestyle, MicroDog and Youth — at local, national and international levels (Skyhoundz, n.d.; AWI, n.d.). In toss-and-fetch, the clock runs 60 seconds and catches are scored by the zone in which the dog catches the disc (typically 10/20/30/40-point zones at increasing distances), with a bonus (commonly +0.5 point per disc) for catches made while the dog is airborne; dropped discs score zero (Skyhoundz, n.d.). Freestyle routines last 90–120 seconds and are judged on difficulty, execution, choreography and the dog-handler teamwork, with deductions for dropped discs (AWI, n.d.). Long-distance events measure the distance of caught throws, with bonus zones for catches beyond a set line (USDDN, n.d.). Dogs must be vaccinated and under handler control; welfare rules require water, shade and rest (USDDN, n.d.). Women and men compete in identical divisions and scoring, with only the long-distance event sometimes split into men's and women's fields (Skyhoundz, n.d.).
@@ -33,3 +35,4 @@ Alex Stein and Ashley Whippet's 5 August 1974 performance at Dodger Stadium — 
 - [UFO World Cup](https://www.ufoworldcup.org/) — international world cup circuit
 - [United States Disc Dog Nationals](https://www.usddn.com/) — US national championships
 - See also [Canine freestyle](canine-freestyle.html) and [Canicross](canicross.html) on this site
+- Related on this site: [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Disc Golf](disc-golf.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html) and [Kanjam](kanjam.html) — the flying-disc sports

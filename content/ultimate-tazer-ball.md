@@ -6,6 +6,8 @@ Ultimate Tazer Ball is the extreme exhibition team sport conceived in 2011 by Le
 
 *Figure: Bain, J. (2006, November 11). Taser-x26 — a stun gun (taser) making an electrical arc between its two electrodes, the kind of device players carry in Ultimate Tazer Ball [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Taser-x26.jpg*
 
+ Within the disc sports family on this site, its closest relatives are [Ultimate](ultimate.html), [Disc Golf](disc-golf.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html), [Disc Dog](disc-dog.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The game is played by two teams of four on a rectangular field roughly 200 ft long and 85 ft wide with a goal at each end; players run, pass and carry a 24-inch medicine ball and score by putting the ball into the opponent's goal (Wikipedia, n.d.). The signature rule: each player wears or carries a stun gun (about 3–5 milliamps) that may be discharged at the opponent who is in possession of the ball, so a ball carrier can hold on only briefly before the shocks force a pass, interception or tackle (Wikipedia, n.d.). Full-contact tackling and blocking are permitted — the sport is explicitly a contact game — and play is divided into three 7-minute periods, followed by a 3-minute overtime period and then a one-on-one tiebreaker if the score is level (Wikipedia, n.d.). Safety measures in the staged league included referees, protective gear recommendations and medical staff on site, but there is no permanent world federation: the rules were set by the league organizers, and women's and men's teams played under the same rules (Wikipedia, n.d.).
@@ -26,4 +28,4 @@ Ultimate Tazer Ball was conceptualized in 2011 by Leif Kellenberger, Eric Prumm 
 
 - [Ultimate Tazer Ball — Wikipedia](https://en.wikipedia.org/wiki/Ultimate_Tazer_Ball) — history, rules and the 2012 pro league
 - [Slamball](slamball.html) and [Bossaball](bossaball.html) on this site — other invented showcase team sports
-- [Ultimate](ultimate.html) on this site — the disc sport whose name the game borrows
+- Related on this site: [Ultimate](ultimate.html), [Disc Golf](disc-golf.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html), [Disc Dog](disc-dog.html) and [Kanjam](kanjam.html) — the flying-disc sports

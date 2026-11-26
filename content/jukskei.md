@@ -6,6 +6,8 @@ Jukskei is a traditional South African throwing game in which teams slide heavy 
 
 *Figure: Francois1012. (2014, February 1). A classic jukskei game 2014-02-01 12-20 [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:A_classic_jukskei_game_2014-02-01_12-20.jpg*
 
+ Within the lawn and throwing games family on this site, its closest relatives are [Horseshoes](horseshoes.html), [Kubb](kubb.html), [Molkky](molkky.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IJF rules, two sandpits are set opposite each other 9 m apart, and a peg is stuck into each sandpit at a distance of 10–16 m from the throwing line, depending on age and gender (International Jukskei Federation, n.d.; Wikipedia, n.d.-a). Teams consist of four players (one the captain), or pairs and singles in smaller formats; each team member throws two skeis per turn (Wikipedia, n.d.-a). Scoring: if a skei knocks the peg over, the team scores 3 points; otherwise, for each skei that lies closer to the peg than the opponent's nearest skei, the team scores 1 point (the "lies"); a skei within 460 mm of the peg also scores 1 point; a peg knocked over plus a skei within 460 mm scores 3 + 1 points (International Jukskei Federation, n.d.; Wikipedia, n.d.-b). The first team to reach exactly 23 points wins; if a score exceeds 23, the team busts and scores 0 for that end (Wikipedia, n.d.-b). Matches are limited to three sets or a time limit — 75 minutes for fours and 60 minutes for pairs under IJF rules (International Jukskei Federation, n.d.). The skei is a heavy iron bar; weights vary by age and gender category, from lighter skeis for juniors and women to heavier ones for men's open (90+ age categories included) (Wikipedia, n.d.-a). Men and women compete in separate categories with the same rules and scoring (International Jukskei Federation, n.d.).
@@ -28,3 +30,4 @@ Jukskei originated around 1743 at the Cape of Good Hope, when transport riders (
 
 - [International Jukskei Federation (IJF)](https://www.jukskei.org/) — world governing body; rules, scoring, member nations
 - [Horseshoes](horseshoes.html) on this site — see also [Bowling](bowling.html) and [Irish Road Bowling](irish-road-bowling.html) on this site
+- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html) and [Gorodki](gorodki.html) — the lawn, throwing and pitching games

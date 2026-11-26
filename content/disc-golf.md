@@ -10,6 +10,8 @@ Disc golf is a flying-disc sport in which players throw discs from a tee pad tow
 
 *Figure: Pajicz. (2024, July 21). Paul McBeth at the 2024 European Open [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Paul_McBeth_at_the_2024_European_Open.jpg*
 
+ Within the disc sports family on this site, its closest relatives are [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html), [Disc Dog](disc-dog.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the PDGA Official Rules of Disc Golf, a course consists of 9 or 18 holes, each with a tee pad, fairway and a PDGA-approved basket target; par is set per hole, usually 3 (PDGA, n.d.-b). The disc is thrown from behind the tee pad, and each subsequent throw is made from where the previous throw landed; the hole is completed when the disc comes to rest in the basket tray or chains, and the player must then play from within the "circle of confusion" — the 10 m area around the basket for the next putt if outside it (PDGA, n.d.-b). Out-of-bounds areas — water, roads and areas marked OB on the course map — add one penalty stroke and require a re-throw or drop from the last lie (PDGA, n.d.-b). Mando (mandatory) holes force play through a designated gate (PDGA, n.d.-b). Competitions are divided into MPO/FPO (men's/women's) plus age and amateur divisions (e.g., MJ/FA juniors, MA1–MA4), all using the same rules; the PDGA maintains official world rankings (PDGA, n.d.-a). Women and men play identical courses and rules, with separate divisions in tournament play (PDGA, n.d.-b).
@@ -46,4 +48,4 @@ Ed Headrick installed the first formal disc golf course with basket targets at O
 - [PDGA world rankings](https://www.pdga.com/world-rankings) — official player rankings
 - [Disc Golf Pro Tour](https://www.dgpt.com/) — elite professional tour
 - [World Flying Disc Federation — disc golf](https://wfdf.sport/disc-golf/) — international federation for flying disc sports
-- See also [Ultimate](ultimate.html) on this site
+- Related on this site: [Ultimate](ultimate.html), [Ultimate Tazer Ball](ultimate-tazer-ball.html), [Freestyle Frisbee](freestyle-frisbee.html), [Guts Frisbee](guts-frisbee.html), [Disc Dog](disc-dog.html) and [Kanjam](kanjam.html) — the flying-disc sports

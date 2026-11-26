@@ -6,6 +6,8 @@ Russian pyramid — also known as Russian billiards (*russky bilyard*) — is a 
 
 *Figure: Alexei Kouprianov. (2006, June 1). Russian billiards ball at a corner pocket [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Russian_billiards_ball_at_a_corner_pocket.jpg*
 
+ Within the billiards/pool/snooker family on this site, its closest relatives are [Billiards](billiards.html), [Snooker](snooker.html), [Straight Pool](straight-pool.html), [9 Ball Pool](9-ball-pool.html), [Carom Billiards](carom-billiards.html); the related pages are listed under Important Links.
+
 ## Rules
 
 All pyramid games begin with the fifteen numbered white balls racked in a triangle at the foot of the table and the cue ball just in front of the baulk line; any object ball may be pocketed regardless of number, shots are not called, and the first player to pocket eight balls wins the frame (Wikipedia, n.d.-a). Corner pockets are only about 3–4 mm wider than the 67 mm ball and side pockets 12–18 mm wider, demanding extreme precision (Wikipedia, n.d.-a). The main variants are free pyramid (any ball may serve as cue ball; pocketing the struck ball without a carom off another ball is a foul), dynamic/Siberian pyramid (one cue ball; it may be pocketed by a carom, after which the scorer removes an object ball and gets ball-in-hand), combined/Moscow pyramid (as dynamic, but after pocketing the cue ball it is spotted in the "house" behind the baulk line where only side and far-corner pockets count until the next stroke), and classical pyramid (points-based, first to 71 of 130 points, the 1-ball worth 11 and the last ball 10) (Wikipedia, n.d.-a). Massé and jump shots are banned in official tournaments (Wikipedia, n.d.-a).
@@ -28,6 +30,4 @@ Billiards reached Russia when Tsar Peter the Great brought a billiard table home
 
 - [World Pool-Billiard Association — IPC pyramid](https://wpapool.com/ipc/) — world pyramid body within the WPA
 - [WPA](https://wpapool.com/) — world governing body for pool sports
-- [Billiards](billiards.html) on this site — the umbrella cue sport
-- [Snooker](snooker.html) and [Straight Pool](straight-pool.html) on this site — the other major cue games
-- [9-Ball Pool](9-ball-pool.html) on this site — the Western pool standard
+- Related on this site: [Billiards](billiards.html), [Carom Billiards](carom-billiards.html), [Three Cushion Billiards](three-cushion-billiards.html), [English Billiards](english-billiards.html), [Snooker](snooker.html), [Snooker Plus](snooker-plus.html), [Straight Pool](straight-pool.html), [8 Ball Pool](8-ball-pool.html), [9 Ball Pool](9-ball-pool.html), [10 Ball Pool](10-ball-pool.html), [Blackball](blackball.html), [Chinese Eight Ball](chinese-eight-ball.html) and [Speed Pool](speed-pool.html) — the billiards, pool and snooker family
