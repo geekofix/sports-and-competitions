@@ -8,6 +8,8 @@ At the 2026 UCI Track Cycling World Championships in Shanghai, 14–18 October 2
 
 *Figure: Cs-wolves. (2022, April 23). Emma Finucane of Great Britain in the women's 500 m time trial at the 2022 UCI Track Nations Cup in Glasgow [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Emma_Finucane_-_2022_UCI_Track_Nations_Cup,_Glasgow_%28Women%27s_500_m_time_trial%29.jpg*
 
+ This is part of the track sprint and time-trial disciplines — [Individual Pursuit](track-cycling-individual-pursuit.html), [Individual Sprint](track-cycling-individual-sprint.html), [1km Time Trial](track-cycling-1km-time-trial.html) — within the cycling family (parent [Cycling](cycling.html)); the full list is under Important Links.
+
 ## Rules
 
 Under UCI Regulations Part 3, the elite women's time trial is 500 m and the elite men's 1 km; junior and under-23 riders use shorter distances; at the Olympics each rider contests one timed ride, while World Championships may add a qualification round (UCI, n.d.-b).
@@ -46,6 +48,4 @@ Earlier icons include Australia's Anna Meares, Olympic sprint champion in 2004, 
 - [UCI — Track discipline](https://www.uci.org/discipline/track/5bBV0EMQvb3ZiTcXbKFLJz) — events and equipment rules
 - [UCI World Rankings](https://www.uci.org/rankings) — official track rankings
 - [Olympics — track cycling at Paris 2024](https://www.olympics.com/en/olympic-games/paris-2024/results/cycling-track) — Olympic results
-- [Track cycling](track-cycling.html) on this site — the umbrella discipline
-- [Track cycling 1 km time trial](track-cycling-1km-time-trial.html) on this site — the men's time trial
-- [Track cycling individual sprint](track-cycling-individual-sprint.html) on this site — the head-to-head sprint
+- Related on this site: [Cycling](cycling.html), [Road Cycling](road-cycling.html), [Road Time Trial](road-cycling-time-trial.html), [Track Cycling](track-cycling.html), [Elimination Race](track-cycling-elimination-race.html), [Keirin](track-cycling-keirin.html), [Madison](track-cycling-madison.html), [Omnium](track-cycling-omnium.html), [Points Race](track-cycling-points-race.html), [Scratch Race](track-cycling-scratch-race.html), [Team Pursuit](track-cycling-team-pursuit.html), [Team Sprint](track-cycling-team-sprint.html), [Individual Pursuit](track-cycling-individual-pursuit.html), [Individual Sprint](track-cycling-individual-sprint.html), [1km Time Trial](track-cycling-1km-time-trial.html), [Mountain Biking](mountain-biking.html), [Cross-Country MTB](cross-country-mountain-biking.html), [Downhill MTB](downhill-mountain-biking.html), [Four-Cross MTB](four-cross-mountain-biking.html), [MTB Marathon](mountain-bike-marathon.html), [MTB Trials](mountain-bike-trials.html), [Enduro MTB](enduro-mountain-biking.html), [BMX Racing](bmx-racing.html), [BMX Freestyle](bmx-freestyle.html), [BMX Freestyle Park](bmx-freestyle-park.html), [Cyclo-cross](cyclo-cross.html), [Gravel Cycling](gravel-cycling.html), [Cycle Speedway](cycle-speedway.html), [Cycleball](cycleball.html), [Artistic Cycling](artistic-cycling.html), [Cyr Wheel](cyr-wheel.html), [Bike Trial](bike-trial.html) and [Para Cycling](para-cycling.html) — the cycling disciplines

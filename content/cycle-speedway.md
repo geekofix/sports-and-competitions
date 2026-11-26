@@ -6,6 +6,7 @@ Cycle speedway is a track cycling discipline in which up to four riders race lap
 
 *Figure: Fabrizio Tarizzo. (2005, April 23). BMX racing action photo — BMX riders racing on a dirt track at the 2005 European BMX Championships — cycle speedway races pedal bicycles on flat oval dirt or cinder tracks [Photograph]. Wikimedia Commons. GFDL / CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:BMX_racing_action_photo.jpg*
 
+ This is part of the artistic and specialist cycle disciplines — [Artistic Cycling](artistic-cycling.html), [Cyr Wheel](cyr-wheel.html), [Cycleball](cycleball.html) — within the cycling family (parent [Cycling](cycling.html)); the full list is under Important Links.
 
 ## Rules
 
@@ -33,4 +34,4 @@ Cycle speedway grew out of informal track racing in the early twentieth century 
 
 - [Cycle Speedway / NACSA](https://csx.org.uk/) — international organization founded 1950; world and European championships
 - [British Cycling — cycle speedway](https://www.britishcycling.org.uk/) — national commission and UK clubs
-- See also [Cycling](cycling.html) and [Track cycling](track-cycling.html) on this site
+- Related on this site: [Cycling](cycling.html), [Road Cycling](road-cycling.html), [Road Time Trial](road-cycling-time-trial.html), [Track Cycling](track-cycling.html), [Elimination Race](track-cycling-elimination-race.html), [Keirin](track-cycling-keirin.html), [Madison](track-cycling-madison.html), [Omnium](track-cycling-omnium.html), [Points Race](track-cycling-points-race.html), [Scratch Race](track-cycling-scratch-race.html), [Team Pursuit](track-cycling-team-pursuit.html), [Team Sprint](track-cycling-team-sprint.html), [Individual Pursuit](track-cycling-individual-pursuit.html), [Individual Sprint](track-cycling-individual-sprint.html), [500m Time Trial](track-cycling-500m-time-trial.html), [1km Time Trial](track-cycling-1km-time-trial.html), [Mountain Biking](mountain-biking.html), [Cross-Country MTB](cross-country-mountain-biking.html), [Downhill MTB](downhill-mountain-biking.html), [Four-Cross MTB](four-cross-mountain-biking.html), [MTB Marathon](mountain-bike-marathon.html), [MTB Trials](mountain-bike-trials.html), [Enduro MTB](enduro-mountain-biking.html), [BMX Racing](bmx-racing.html), [BMX Freestyle](bmx-freestyle.html), [BMX Freestyle Park](bmx-freestyle-park.html), [Cyclo-cross](cyclo-cross.html), [Gravel Cycling](gravel-cycling.html), [Cycleball](cycleball.html), [Artistic Cycling](artistic-cycling.html), [Cyr Wheel](cyr-wheel.html), [Bike Trial](bike-trial.html) and [Para Cycling](para-cycling.html) — the cycling disciplines

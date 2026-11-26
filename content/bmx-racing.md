@@ -12,6 +12,8 @@ Among the riders who shape the sport today, the women come first: Australia's Sa
 
 *Figure: Frazão, F. (Agência Brasil). (2016, August 17). Joris Daudet competes in BMX at the Rio 2016 Olympics, Parque Radical, Deodoro [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Joris_Daudet_-_Rio_2016.jpg*
 
+ This is part of the BMX disciplines — [BMX Freestyle](bmx-freestyle.html), [BMX Freestyle Park](bmx-freestyle-park.html) — within the cycling family (parent [Cycling](cycling.html)); the full list is under Important Links.
+
 ## Rules
 
 Under the UCI BMX Racing rules, eight riders start from a 5 m high starting gate with an electronic random gate drop; the track is 300–400 m long with a minimum width of 10 m at the start and 5 m elsewhere, and jumps are built so that all riders can clear them. Races last roughly 30–45 seconds; the first four or five riders across the line advance in championship motos, and the World Championships final is a single race of eight (UCI, n.d.-a).
@@ -42,4 +44,5 @@ BMX racing debuted at the Olympics at Beijing 2008, won by Latvia's Māris Štro
 - [Union Cycliste Internationale (UCI) — BMX](https://www.uci.org/discipline/bmx) — world governing body; BMX racing rules, World Cup and World Championships
 - [UCI BMX Racing World Championships](https://www.uci.org/discipline/bmx-racing) — elite world championship and world rankings
 - [Olympics.com — BMX racing](https://olympics.com/en/sports/bmx-racing/) — Olympic history and results
-- [BMX Freestyle](bmx-freestyle.html), [Cycling](cycling.html) and [Motocross](motocross.html) on this site
+- Related on this site: [Cycling](cycling.html), [Road Cycling](road-cycling.html), [Road Time Trial](road-cycling-time-trial.html), [Track Cycling](track-cycling.html), [Elimination Race](track-cycling-elimination-race.html), [Keirin](track-cycling-keirin.html), [Madison](track-cycling-madison.html), [Omnium](track-cycling-omnium.html), [Points Race](track-cycling-points-race.html), [Scratch Race](track-cycling-scratch-race.html), [Team Pursuit](track-cycling-team-pursuit.html), [Team Sprint](track-cycling-team-sprint.html), [Individual Pursuit](track-cycling-individual-pursuit.html), [Individual Sprint](track-cycling-individual-sprint.html), [500m Time Trial](track-cycling-500m-time-trial.html), [1km Time Trial](track-cycling-1km-time-trial.html), [Mountain Biking](mountain-biking.html), [Cross-Country MTB](cross-country-mountain-biking.html), [Downhill MTB](downhill-mountain-biking.html), [Four-Cross MTB](four-cross-mountain-biking.html), [MTB Marathon](mountain-bike-marathon.html), [MTB Trials](mountain-bike-trials.html), [Enduro MTB](enduro-mountain-biking.html), [BMX Freestyle](bmx-freestyle.html), [BMX Freestyle Park](bmx-freestyle-park.html), [Cyclo-cross](cyclo-cross.html), [Gravel Cycling](gravel-cycling.html), [Cycle Speedway](cycle-speedway.html), [Cycleball](cycleball.html), [Artistic Cycling](artistic-cycling.html), [Cyr Wheel](cyr-wheel.html), [Bike Trial](bike-trial.html) and [Para Cycling](para-cycling.html) — the cycling disciplines
+- [Motocross](motocross.html) on this site — the motorized cousin
