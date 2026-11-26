@@ -6,6 +6,8 @@ Motocross is off-road [motorcycle racing](motorcycle-racing.html) on enclosed na
 
 *Figure: Lauer, S. (2018, March 18). MXGP Herlings 2018 — Jeffrey Herlings racing at the 2018 MXGP of ... [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:MXGP_Herlings_2018.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motorcycle Racing](motorcycle-racing.html), [Supermoto](supermoto.html), [Enduro](enduro.html), [Formula One](formula-one.html), [Formula 2](formula-2.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FIM Sporting Regulations, a motocross Grand Prix is run on an enclosed circuit of roughly 1.5–3 km with jumps, whoops and banked turns; each class (MXGP on machines up to 450 cc four-strokes, MX2 on 250 cc, and the women's WMX class) races two motos of 30 minutes plus two laps, and the results of both motos are combined on the standard points scale (25-20-16-13-11-10-9-8-7-6-5-4-3-2-1 per moto) to decide the overall and the championship (FIM, n.d.-a). A qualifying race on Saturday orders the starting grid for both motos; up to about 40 riders start behind the start gates. Dangerous riding, jumping the start, cutting the course or machine irregularities bring penalties up to disqualification. The classes are gender-based only in that WMX is a women-only world championship — women and men otherwise compete under identical technical rules, and younger riders contest 65 cc, 85 cc and 125 cc support classes (FIM, n.d.-a).
@@ -30,5 +32,4 @@ Motocross grew out of the "scramble" races first held in Britain in the 1920s �
 
 - [FIM — Motocross World Championship (MXGP)](https://www.fim-moto.com/) — world championship results and regulations
 - [AMA Supercross](https://www.supercrosslive.com/) — US stadium series; 2026 champion Ken Roczen
-- [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella sport
-- [Supermoto](supermoto.html) and [Enduro](enduro.html) on this site — related off-road motorcycle disciplines
+- Related on this site: [Motorcycle Racing](motorcycle-racing.html), [Supermoto](supermoto.html), [Enduro](enduro.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html) and [Karting](karting.html) — the motorsport and racing disciplines

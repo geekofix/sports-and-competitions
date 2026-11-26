@@ -6,6 +6,8 @@ Land sailing — also called sand yachting or land yachting — is the sport of 
 
 *Figure: Kamel15. (2008, August). Land sailing 2008 PD 01 [Photograph]. Wikimedia Commons. GPL / CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Land_sailing_2008_PD_01.JPG*
 
+ Within the board and water sports family on this site, its closest relatives are [Kite Buggying](kite-buggying.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 International competition and records are run under the FISLY ISRR: each class has defined sail area, dimensions and minimum crew age — for example, Class 5 yachts carry about 5.5 m² of sail, and the one-design Blokart (New Zealand) has a 3 m² or 5.5 m² rig option — and record attempts are timed over a measured kilometre with wind-speed limits (FISLY, n.d.-a). Races are held on beaches, dry lake beds and grass airfields; on ice, yachts run on skates instead of wheels (Wikipedia, n.d.-a). In the United States, records are verified by NALSA (North American Land Sailing Association), the national member body of FISLY, and the ISRR Appendix sets minimum ages per class for youth competition (NALSA, n.d.-a). Men's and women's competitors race in the same classes under identical rules (FISLY, n.d.-a). Rule source: FISLY International Sand and Land Yacht Racing Rules, https://fisly.org/ (FISLY, n.d.-a).
@@ -30,4 +32,4 @@ Wind-driven carriages date back centuries — a Chinese land-sailing carriage is
 - [FISLY — Fédération Internationale de Sand et Land Yachting](https://fisly.org/) — world governing body since 1962; ISRR rules, classes, world records
 - [NALSA — North American Land Sailing Association](https://www.nalsa.org/) — US national body; record verification, events
 - [Blokart International](https://www.blokart.com/) — one-design land yacht used worldwide
-- [Kite buggying](kite-buggying.html) on this site — FISLY Class 8
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand

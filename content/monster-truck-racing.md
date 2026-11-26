@@ -10,6 +10,8 @@ Monster truck racing is the motorsport in which custom-built monster trucks — 
 
 *Figure: Powers, J. (2006, May). Linsey weenk — Linsey Weenk driving the monster truck Max-D [Photograph]. Wikimedia Commons. CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Linsey_weenk.JPG*
 
+ Within the motorsport family on this site, its closest relatives are [Drag Racing](drag-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Racing is a heads-up, single-elimination contest: two trucks run side by side over a course of ramps and obstacles, and the first across the finish line advances (USHRA, n.d.). Freestyle is a timed routine of about two minutes in which six judges each award 0–10 points; the highest and lowest scores are dropped and the rest summed, for a maximum of 40 (Monster Jam, n.d.-a). Skills competitions are judged obstacle courses, and high jump is measured by the greatest height cleared. Trucks must pass USHRA safety inspection — roll cage, fuel cell, kill switch, five-point harnesses for the driver — and drivers wear fire suits, helmets and neck braces; unsafe driving or rule violations bring disqualification (USHRA, n.d.). Women and men compete in all disciplines on equal terms, and the Monster Jam roster includes a growing number of female drivers (Monster Jam, n.d.-a).
@@ -36,4 +38,4 @@ The first monster truck was Bob Chandler's Bigfoot, a 1974 Ford F-250 pickup fit
 - [Monster Jam — Feld Motor Sports](https://monsterjam.com/) — the premier monster truck show; World Finals, rosters and results
 - [Feld Motor Sports](https://www.feldmotorsports.com/) — parent company of Monster Jam since 2008
 - [USHRA — United States Hot Rod Association](https://www.ushra.com/) — sanctioning body and safety regulations
-- [Drag racing](drag-racing.html) on this site — related straight-line motorsport
+- Related on this site: [Drag Racing](drag-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html) and [Superkart](superkart.html) — the motorsport and racing disciplines

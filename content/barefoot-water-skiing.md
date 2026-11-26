@@ -8,6 +8,8 @@ The United States and Australia have dominated the all-time barefoot medal table
 
 *Figure: Eddiesmit. (2006, October 29). Barefoot water skiing — Eddie Smit skiing on one bare foot (the toehold) at 68 km/h [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Eddie_one_foot_DSCF0067_2.JPG*
 
+ Within the board and water sports family on this site, its closest relatives are [Wakeboarding](wakeboarding.html), [Wakesurfing](wakesurfing.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under IWWF rules, barefoot slalom uses a course of six buoys on a 259.25 m centerline path; the boat speed is 30 mph (48.3 km/h) for men and 28 mph for women at the world championships, and each pass is scored by how many buoys are rounded with the fewest penalty points; the best pass counts. Barefoot jump uses a ramp 6.5–6.75 m high (world championships), with boat speed up to 36 mph for men and 33 mph for women; the longest of two measured jumps counts. Tricks are 20-second sets of surface maneuvers (spins, flips, crosses) scored on a points system with a maximum of 10,990 points for elite men. The overall title is decided by combined slalom/jump/tricks scores using the IWWF scoring tables (IWWF, n.d.-a).
@@ -36,3 +38,4 @@ Legends include Keith St. Onge (world records in all three disciplines, two worl
 - [IWWF Barefoot discipline](https://www.iwwf.sport/disciplines/barefoot/) — rules, world records and event calendar
 - [USA Water Ski & Wake Sports](https://www.usawaterski.org/) — national federation; American Barefoot Club nationals
 - [Wakeboarding](wakeboarding.html), [Wakesurfing](wakesurfing.html), [Surfing](surfing.html) and [Open Water Swimming](open-water-swimming.html) on this site
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand

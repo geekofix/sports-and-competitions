@@ -8,6 +8,8 @@ The first major World Chase Tag competition was held on 18 December 2016 at Trin
 
 *Figure: Ucitelmike. (2020, September 7). World Chase Tag Česká republika 2020 — athletes competing on the Quad at a World Chase Tag event in the Czech Republic, 2020 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:World_Chase_Tag_%C4%8Cesk%C3%A1_republika_2020.jpg*
 
+ Within the tag and chase games family on this site, its closest relatives are [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html), [Roque](roque.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A match consists of 16 rounds between two teams of up to six players; in each round one member of each team is the chaser and the other the evader, starting at opposite sides of the 12 m × 12 m Quad (Wikipedia, n.d.). The chaser has 20 seconds to tag the evader with their hand; stepping a foot outside the Quad forfeits the round for that player, and holding the chaser or hiding motionless behind obstacles is not allowed, while excessive contact and dangerous play are penalised (World Chase Tag, n.d.). Points can only be scored by the evading team: a successful tag scores nothing and the tagged player becomes the evader in the next round, while surviving the full 20 seconds scores one point for the evader's team, which retains the evader role; rounds are separated by 25-second rests (Wikipedia, n.d.). The team with the most points after 16 rounds wins, and ties go to a sudden-death chase-off of paired rounds, the team with the longest evasion time prevailing (Wikipedia, n.d.).
@@ -32,3 +34,4 @@ Christian Devaux created World Chase Tag in the UK in 2012 after a game of tag w
 - [Parkour](parkour.html) on this site — the movement discipline behind the evaders' style
 - [Obstacle Course Racing](obstacle-course-racing.html) on this site — a related obstacle-format sport
 - [Tag Rugby](tag-rugby.html) on this site — another tag-based team sport
+- Related on this site: [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html) and [Roque](roque.html) — the tag and chase team games

@@ -6,6 +6,8 @@ Wakesurfing is the towed water sport closest to ocean surfing: the rider starts 
 
 *Figure: Fcompte. (2011, August 10). Wakesurf — a wakesurfer riding the boat's wake on the river in Madrid, Spain [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Wakesurf.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Surfing](surfing.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Bodyboarding](bodyboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Boats are purpose-configured with ballast, wake plates or wake gates and surf-speed systems, and riders use wakesurf boards — larger, buoyant surf-style shapes or smaller skim-style boards — with fins and no bindings (Wikipedia, n.d.). Competition is divided into surf style (carving the wave face, rail-to-rail turns, 360s, judged like a surf heat on maneuvers, variety and style) and skim style (technical tricks off the wake's lip — shuvits, spins, airs — judged like a skate run), with riders choosing their side (left or right wake) and run length fixed by the event rules (International Waterski and Wakeboard Federation, n.d.). Divisions run by age and gender — men's and women's pro and amateur classes — at the IWWF World Wakesurf Championships and the CWSA/WSIA circuits (International Waterski and Wakeboard Federation, n.d.).
@@ -26,6 +28,4 @@ Riding surfboards behind boats is documented from the 1950s–1960s — notably 
 ## Important Links
 
 - [International Waterski and Wakeboard Federation (IWWF)](https://www.iwwfed.com/) — World Wakesurf Championships
-- [Wakeboarding](wakeboarding.html) and [Wakeskating](wakeskating.html) on this site — the towed-board family
-- [Surfing](surfing.html) on this site — the ocean sport wakesurfing recreates on lakes and rivers
-- [Barefoot water skiing](barefoot-water-skiing.html) on this site — another towed water sport
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand

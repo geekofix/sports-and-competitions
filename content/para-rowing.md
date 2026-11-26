@@ -10,6 +10,8 @@ Leading women today include Moran Samuel of Israel, the Paris 2024 PR1 W1x gold 
 
 *Figure: David Hawgood. (2012, September 2). Medal ceremony of the women's single sculls at the London 2012 Paralympics, Eton Dorney [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Paralympics_rowing_medal_ceremony_women%27s_single_sculls_-_geograph.org.uk_-_3114123.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Rowing](rowing.html), [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 World Rowing's Racing Rules apply: races over 2,000 m in marked lanes with aligned starts and video finish; in mixed boats at least half the crew must be of each gender, and in the PR3 mixed coxed four the coxswain may be of either gender and able-bodied (World Rowing, n.d.-b; Wikipedia, n.d.-b).
@@ -48,4 +50,4 @@ Adaptive events joined the World Rowing Championships in 2002 (classes LTA, TA a
 - [World Rowing — Para rowing at the Paralympics](https://worldrowing.com/events/rowing-and-para-rowing/olympics/paralympic-games/) — classes PR1–PR3, boat events
 - [2026 World Rowing Championships, Amsterdam](https://worldrowing.com/event/2026-world-rowing-championships/) — 24–30 August 2026
 - [Olympics — Paris 2024 rowing results](https://www.olympics.com/en/paris-2024/paralympic-games/results/rowing)
-- Related on this site: [rowing](rowing.html), [para-cycling](para-cycling.html), [para-triathlon](para-triathlon.html)
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

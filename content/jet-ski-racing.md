@@ -8,6 +8,8 @@ The 2026 UIM-ABP Aquabike World Championship concluded in Olbia, Italy, on 18 Oc
 
 *Figure: Chris Hunkeler from Carlsbad, California, USA. (2019, May 4). A rider aboard a racing jet ski beside the red course buoys of a jet ski race in 2019 [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Jet_Ski_Race_Coordination_%2848919265422%29.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Powerboat Racing](powerboat-racing.html), [Wakeboarding](wakeboarding.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Closed-circuit races are held near coastlines on a marked course of no more than 1300 m, buoyed with yellow buoys for right turns and red buoys for left turns; riders complete a set number of laps and the chequered flag decides the moto, with the championship decided over several rounds (typically three motos per event) by points (Union Internationale Motonautique, n.d.-a; Wikipedia, n.d.-b). Runabout bikes (sit-down, saddle) are used in closed circuit, offshore, endurance, jet raid and parallel slalom; Ski bikes (stand-up) in closed circuit, parallel slalom and freestyle (Wikipedia, n.d.-b).
@@ -43,5 +45,5 @@ The personal watercraft itself dates to the early 1970s, when Clayton Jacobson I
 - [2026 UIM Aquabike Rulebook (PDF)](https://www.uim.sport/Documents/RuleBookRelease/RuleBookRelease120/2026%20UIM%20Aquabike%20Rulebook%20-%20published%20on%2022.12.25.pdf) — classes, disciplines, safety
 - [UIM-ABP Aquabike World Championship](https://www.aquabike.net/) — official promoter site (H2O Racing); calendar, world rankings 2026, champions
 - [2026 results and standings](https://www.aquabike.net/results) — season results by class
-- [Powerboat racing](powerboat-racing.html) on this site — the parent powerboating sport (F1H2O, offshore)
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Aquabike](aquabike.html) and [Wakeboarding](wakeboarding.html) on this site — related craft sports

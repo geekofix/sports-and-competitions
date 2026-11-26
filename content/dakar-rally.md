@@ -6,6 +6,8 @@ The Dakar Rally — Rally Dakar — is an off-road endurance rally in which cars
 
 *Figure: Otávio Nogueira. (2024, February 18). Salar de Uyuni-21 (53645113403) [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni-21_(53645113403).jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Baja 1000](baja-1000.html), [World Rally Championship](world-rally-championship.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the ASO/FIA regulations, each edition comprises a prologue and around twelve timed special stages linked by liaison sections, with a bivouac moved daily (ASO, n.d.-a). Competitors navigate by a digital roadbook revealed shortly before each stage, and missing a waypoint incurs heavy time penalties; assistance is allowed on liaison sections but restricted in the specials (ASO, n.d.-a). Categories include cars (T1+ prototypes and T1.2), side-by-side vehicles (SSV), motorcycles, quads historically, trucks and the Stock class for near-production cars, each with its own classification, and a Marathon stage tests mechanical endurance (ASO, n.d.-a). Safety systems such as the Sentinel warning device and the Iritrack tracking are mandatory, and crews receive penalties for speeding in villages or missing safety checks (ASO, n.d.-a). There are no separate women's classes, but women compete and win in every category, and age/engine classes (e.g., motorcycles up to 450 cc) structure the fields (ASO, n.d.-a).
@@ -28,4 +30,4 @@ Thierry Sabine started the first Paris–Dakar on 31 December 1978, and the firs
 
 - [Dakar Rally](https://www.dakar.com/) — official site; 2026 results, entries, route
 - [Amaury Sport Organisation](https://www.aso.fr/) — organizer of the Dakar
-- See also [Baja 1000](baja-1000.html) and [World Rally Championship](world-rally-championship.html) on this site
+- Related on this site: [Baja 1000](baja-1000.html), [World Rally Championship](world-rally-championship.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html), [Superkart](superkart.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

@@ -6,6 +6,8 @@ Kho kho is a traditional Indian tag game in which a chaser (*wazir*) pursues def
 
 *Figure: President's Secretariat. (2024, January 9). Nasreen Shaikh in January 2024 [Photograph]. Wikimedia Commons. GODL-India. https://commons.wikimedia.org/wiki/File:Nasreen_Shaikh_in_January_2024.jpg*
 
+ Within the tag and chase games family on this site, its closest relatives are [Kabaddi](kabaddi.html), [World Chase Tag](world-chase-tag.html), [Roque](roque.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the IKKF/KKFI rules, the court is 29 × 16 m with a central lane about 23.5–24 m long and 30 cm wide, crossed at right angles by eight cross lanes; at each end of the central lane stands a pole 120 cm high, with a free zone of 1.5 m behind each pole (Kho Kho Federation of India, n.d.; Wikipedia, n.d.-a). Each team fields 12 players, of whom nine are active: one chases (*wazir*) while eight defenders sit in the cross lanes (Wikipedia, n.d.-a). The wazir enters the opponents' half, tags a defender between the shoulder and the waist while shouting "kho," and the tagged defender leaves the field; the wazir then passes to the next seated defender of his team by touching his back, and play continues until the seven-minute turn expires (Wikipedia, n.d.-a). Each tag scores one point for the chasing side; a match has two innings in which each side chases and defends in alternating turns, with a two-minute break between turns and a three-minute break between innings (Wikipedia, n.d.-a). Fouls include the wazir crossing the central lane, defenders leaving their cross lane, and wrong-direction play, which give the opposing side points or free tags (Wikipedia, n.d.-a). The professional Ultimate Kho Kho (UKK) league, launched in India in 2022, plays a faster seven-a-side format with power plays during which two wazirs chase simultaneously (Wikipedia, n.d.-b). Men's and women's kho kho are played under the same rules, with national championships for men, women and juniors in India and separate men's and women's World Cups (International Kho Kho Federation, n.d.; Wikipedia, n.d.-b). Rule source: International Kho Kho Federation, https://www.khokho.net/ (International Kho Kho Federation, n.d.).
@@ -29,4 +31,4 @@ Kho kho's origins are traced to the ancient chariot game *rathera*, and the mode
 
 - [International Kho Kho Federation (IKKF)](https://www.khokho.net/) — world governing body; Kho Kho World Cup since 2025
 - [Kho Kho Federation of India (KKFI)](https://khokhofederation.in/) — national federation founded 1955; national championships
-- [Kabaddi](kabaddi.html) on this site — the other great traditional Indian tag sport
+- Related on this site: [Kabaddi](kabaddi.html), [World Chase Tag](world-chase-tag.html) and [Roque](roque.html) — the tag and chase team games

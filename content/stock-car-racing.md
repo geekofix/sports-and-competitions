@@ -10,6 +10,8 @@ The season was overshadowed by the death of two-time champion Kyle Busch, who di
 
 *Figure: Office of Governor Glenn Youngkin (photo: Kaitlyn DeHarde). (2025, August 12). NASCAR Cup Series race kickoff at Richmond Raceway, Virginia, 12 August 2025 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Richmond_Raceway_NASCAR_Cup_Series_Race_Kickoff,_Richmond_-_8-12-2025_09.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [NASCAR](nascar.html), [Dakar Rally](dakar-rally.html), [Rallycross](rallycross.html), [Demolition Derby](demolition-derby.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The Cup Series runs 36 points races per season on ovals, road courses and — since 2023 — street circuits, all in the Next Gen car introduced in 2022: a spec chassis with a ~5.8 L pushrod V8, sequential gearbox, single-lug wheels and Goodyear tires, entered by Chevrolet, Ford and Toyota teams (Wikipedia, n.d.-a). Races are staged (stage points), with the Daytona 500 — the sport's most prestigious race, held since 1959 and opening the season since 1982 — as the centerpiece (Wikipedia, n.d.-a).
@@ -42,4 +44,4 @@ Richard Petty ("The King") holds the records with 200 wins and seven championshi
 ## Important Links
 
 - [NASCAR](https://www.nascar.com/) — official site; Cup/Xfinity/Truck series, 2026 Chase format announcement
-- Related on this site: [nascar](nascar.html), [dakar rally](dakar-rally.html), [rallycross](rallycross.html), [demolition derby](demolition-derby.html)
+- Related on this site: [NASCAR](nascar.html), [Dakar Rally](dakar-rally.html), [Rallycross](rallycross.html), [Demolition Derby](demolition-derby.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html), [Superkart](superkart.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

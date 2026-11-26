@@ -8,6 +8,8 @@ On the women's side, the leading young female single-seater talents come through
 
 *Figure: Parkasity. (2026, March 7). Ugo Ugochukwu 2026 — Ugo Ugochukwu at the 2026 Australian Grand Prix [Photograph]. Wikimedia Commons. CC0. https://commons.wikimedia.org/wiki/File:Ugo_Ugochukwu_2026.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula E](formula-e.html), [Moto2](moto2.html), [Karting](karting.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The FIA Formula 3 Sporting Regulations govern the series (FIA, n.d.-c). A race weekend consists of free practice and qualifying on Friday, a sprint race on Saturday (reverse top-12 grid from qualifying) and the feature race on Sunday; the sprint awards points 10-8-6-5-4-3-2-1 and the feature 25-18-15-12-10-8-6-5-4-3-2-1, with 2 points for pole position and 1 for the fastest lap in each race (FIA, n.d.-c). All teams use the identical Dallara F3 2025 chassis with the Mecachrome V6 and Pirelli control tyres; aerodynamic development is frozen, keeping costs low. Points scored count toward the FIA Super Licence (40 points needed; the F3 champion receives 40), the mandatory qualification for Formula 1; a rookie classification (best freshman) runs alongside the overall standings, and the teams' championship is decided by the combined scores of each team's two cars (FIA, n.d.-c). The series is open to all drivers aged 16 and over holding the required licence, and women compete on equal terms — several female drivers have raced in FIA F3 in recent seasons (FIA, n.d.-c).
@@ -34,8 +36,4 @@ The modern FIA Formula 3 Championship was created in 2019 when the GP3 Series (f
 - [FIA — Formula 3 championship page](https://www.fia.com/championship/fia-formula-3-championship) — about the series, car and regulations
 - [FIA Formula 3 Sporting Regulations 2026](https://www.fia.com/regulations/) — official rulebook
 - [F1 Academy](https://www.f1academy.com/) — all-female feeder series
-- [Formula One](formula-one.html) on this site
-- [Formula 2](formula-2.html) on this site
-- [Formula E](formula-e.html) on this site
-- [Moto2](moto2.html) on this site
-- [Karting](karting.html) on this site
+- Related on this site: [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula E](formula-e.html), [Moto2](moto2.html), [Karting](karting.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html) and [Superkart](superkart.html) — the motorsport and racing disciplines

@@ -10,6 +10,8 @@ Women compete on equal footing — many fairs run classes open to all drivers ag
 
 *Figure: G. Edward Johnson. (2022, August 19). Demolition derby cars colliding in the arena at the Montgomery County Agricultural Fair, Gaithersburg, Maryland [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Montgomery_County_Fair_Demolition_Derby_Gaithersburg_MD_2022-08-19_19-40-42.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Stock Car Racing](stock-car-racing.html), [NASCAR](nascar.html), [Rallycross](rallycross.html), [Dakar Rally](dakar-rally.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Rules vary by promoter, but the core format is uniform: every car is stripped of glass and loose interior parts, the driver's door is painted white with black numbers, blaze orange, or another high-contrast scheme so officials can identify it, and deliberately hitting the driver's-side door is forbidden (Wikipedia, n.d.-a). Drivers sign liability waivers, wear helmets and (often) neck braces, and cars are tech-inspected before the event.
@@ -47,4 +49,4 @@ The UK banger-racing world final is a British institution: the Unlimited Nationa
 
 - [Illinois State Fair — Demolition Derby](https://statefair.illinois.gov/entertainment/grandstand/event.demolition-derby.html) — headline fair derby, Multi-Purpose Arena, Springfield (22 August 2026)
 - [Shaner Promotions](https://shanerpromotions.com/) — demo derby rules and results, Central Illinois
-- Related on this site: [stock car racing](stock-car-racing.html), [nascar](nascar.html), [rallycross](rallycross.html), [dakar rally](dakar-rally.html)
+- Related on this site: [Stock Car Racing](stock-car-racing.html), [NASCAR](nascar.html), [Rallycross](rallycross.html), [Dakar Rally](dakar-rally.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html), [Superkart](superkart.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

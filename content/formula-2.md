@@ -8,6 +8,8 @@ On the women's side of the feeder ladder, the all-female F1 Academy — run as a
 
 *Figure: Lukas Raich. (2026, June 26). FIA F2 Austria 2026 Nr. 1 Câmara (1) — Rafael Câmara at the 2026 Austrian round [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:FIA_F2_Austria_2026_Nr._1_Câmara_(1).jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Formula One](formula-one.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [MotoGP](motogp.html), [Indycar Series](indycar-series.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The FIA Formula 2 Sporting Regulations 2026 govern the championship (FIA, n.d.-c). Each weekend comprises free practice on Friday, a sprint race on Saturday and the feature race on Sunday; the sprint uses a partially reversed top-10 grid from qualifying, runs about 120 km (or 45 minutes), and awards points 10-8-6-5-4-3-2-1, while the feature race runs about 170 km (or 60 minutes) with Formula 1-style points 25-18-15-12-10-8-6-5-4-3-2-1; in both races 2 points are added for pole position and 1 for the fastest lap (FIA, n.d.-c). All teams use identical Dallara chassis, Mecachrome engines and Pirelli tyres, so results depend on driver skill; DRS is used as in F1. The drivers' champion must hold a FIA Super Licence, which requires 40 Super Licence points — the F2 champion earns exactly 40 (FIA, n.d.-c). Alongside the overall classification there is a rookie classification (the Anthoine Hubert Trophy), and teams compete for the teams' championship; men and women are eligible — the women racing today do so mainly through the F1 Academy feeder — and the minimum age for a Super Licence is 18 (FIA, n.d.-c).
@@ -34,10 +36,4 @@ The championship traces its lineage through the European Formula Two championshi
 - [FIA — Formula 2 championship page](https://www.fia.com/championship/fia-formula-2-championship) — about the series, car and regulations
 - [FIA Formula 2 Sporting Regulations 2026](https://www.fia.com/regulations/) — official rulebook
 - [F1 Academy](https://www.f1academy.com/) — all-female feeder series on the F1 support program
-- [Formula One](formula-one.html) on this site
-- [Formula 3](formula-3.html) on this site
-- [Formula E](formula-e.html) on this site
-- [MotoGP](motogp.html) on this site
-- [IndyCar Series](indycar-series.html) on this site
-- [24 Hours of Le Mans](24-hours-of-le-mans.html) on this site
-- [Karting](karting.html) on this site
+- Related on this site: [Formula One](formula-one.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [MotoGP](motogp.html), [Indycar Series](indycar-series.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [Karting](karting.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html) and [Superkart](superkart.html) — the motorsport and racing disciplines

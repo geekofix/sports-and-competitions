@@ -6,6 +6,8 @@ Surfing is the sport of riding breaking ocean waves while standing on a board; a
 
 *Figure: troy_williams. (2015, July 2). NSSA caroline marks (19343992395) — Caroline Marks surfing in California [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:NSSA_caroline_marks_(19343992395).jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Windsurfing](windsurfing.html), [Surf Lifesaving](surf-lifesaving.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In a heat, two to four surfers (up to five in early rounds) share the lineup for a set time — about 25–35 minutes on the CT — and each surfer's score is the sum of their two best waves, each wave judged 0.1–10.0 on the difficulty of maneuvers chosen and their speed, power and flow; the highest heat total advances (World Surf League, n.d.). Priority — the right of way on a wave — belongs to the surfer closest to the peak, and interference penalties can cost a wave's score (Wikipedia, n.d.-a). Equipment: shortboards typically 5'6"–6'6" (CT maximum 7'0"), leash mandatory, with separate divisions for longboard, bodyboard and stand-up paddle in ISA events; Olympic surfing uses shortboards only (International Surfing Association, n.d.). Men's and women's events are scored identically, and mixed team events (relay format) exist at the World Surfing Games (International Surfing Association, n.d.).
@@ -29,5 +31,5 @@ Surfing (heʻe nalu) originated in Polynesia and was codified in Hawaii, where D
 
 - [World Surf League](https://www.wsl.com/) — Championship Tour, world rankings, results
 - [International Surfing Association](https://isasurf.org/) — Olympic qualification, World Surfing Games
-- [Windsurfing](windsurfing.html) and [Surf lifesaving](surf-lifesaving.html) on this site — board sports with a sail and the beach-rescue cousin
+- Related on this site: [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Swimming](swimming.html) on this site — Duke Kahanamoku's other sport

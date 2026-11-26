@@ -6,6 +6,8 @@ Superkart is kart racing at the highest level: 250 cc two-stroke, six-speed gear
 
 *Figure: Chris.beatty. (2008, September 13). Superkart — a Formula E/Division One superkart driven by Rob Kerkhoven at Castle Combe [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Superkart.JPG*
 
+ Within the motorsport family on this site, its closest relatives are [Karting](karting.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The premier class, 250 cc International (formerly Formula E), uses a 250 cc two-stroke twin-cylinder engine with a six-speed sequential gearbox in a long-wheelbase kart chassis with full fairing, slick tires and disc brakes; the minimum weight is 218 kg including the driver (Wikipedia, n.d.). Below it sit the 125 cc gearbox (Formula KZ-style shifter) class and the defunct 80 cc class (FIA Karting, n.d.). Races are sprint events of roughly 15–30 km or 20–30 minutes on car circuits of 1500 m or longer, run as heats plus finals with championship points, and scrutineering enforces the homologated engine and chassis rules (FIA Karting, n.d.). Men and women compete under identical technical rules in mixed or separate grids depending on the series (FIA Karting, n.d.).
@@ -26,4 +28,4 @@ Superkart was born in 1970s Britain, when enthusiasts fitted 250 cc motorcycle e
 ## Important Links
 
 - [FIA Karting — CIK-FIA](https://www.fiakarting.com/) — world governing body of karting incl. superkart; European Superkart Championship
-- [Karting](karting.html) on this site — the grassroots karting ladder below superkart
+- Related on this site: [Karting](karting.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

@@ -6,6 +6,8 @@ Indoor rowing is rowing on a stationary ergometer — almost always a Concept2 R
 
 *Figure: Johnteslade. (2004, November 16). A row of Concept2 indoor rowers [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Concept2_Indoor_Rowers.JPG*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Rowing](rowing.html), [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Indoor rowing is performed on the Concept2 RowErg (models PM3, PM4, PM5), which measures the athlete's power output at the flywheel; the damper setting is free, and results are "verified" when recorded on a connected device and submitted to the Concept2 logbook or the competition platform (Concept2, n.d.-a). Standard race formats are 500 m, 1,000 m, 2,000 m, 5,000 m, 30-minute time trials and the 1-minute sprint; at the World Rowing Indoor Championships the in-person event uses 2,000 m and 500 m, while the virtual edition adds 1,000 m, 5,000 m and the 1-minute sprint (World Rowing, n.d.-a, n.d.-b). Categories are by age (junior, senior, masters in 10-year bands up to 80+) and by weight: open and lightweight divisions, with lightweight athletes weighing in no more than two hours before their race (men's maximum 75 kg, women's 61.5 kg) (World Rowing, n.d.-a; Wikipedia, n.d.-a). Men and women race the identical distances on identical machines in separate rankings; team relays and adaptive (para) categories also exist (World Rowing, n.d.-a).
@@ -30,5 +32,5 @@ The Concept2 company was founded in 1981 by the brothers Dick and Peter Dreissig
 
 - [World Rowing](https://worldrowing.com/) — world governing body; indoor championships and results
 - [Concept2](https://www.concept2.com/) — RowErg manufacturer; verified results logbook and Indoor Sprints
-- [Rowing](rowing.html) on this site — on-water rowing (single sculls to eights)
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports
 - [Triathlon](triathlon.html) on this site — endurance multisport including a 10 km run

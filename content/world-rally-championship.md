@@ -6,6 +6,8 @@ The World Rally Championship (WRC) is the Fédération Internationale de l'Autom
 
 *Figure: Miloslav Rejha. (2023, October 26). 2023 Central European Rally — Ogier 01 (cropped) — Sébastien Ogier at the 2023 Central European Rally [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:2023_Central_European_Rally_-_Ogier_01_(cropped).jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Formula One](formula-one.html), [Formula E](formula-e.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Indycar Series](indycar-series.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A WRC event runs over three days: a shakedown, then special stages with service parks between them, and a final-day Power Stage that awards bonus points (World Rally Championship, n.d.). Cars follow the Rally1 regulations — a 1.6-litre turbocharged engine with a hybrid boost used from 2022 to 2024, replaced from 2025 by a non-hybrid 1.6-litre unit running on 100% sustainable fuel, with Hankook as sole tyre supplier from 2025 to 2027 (Fédération Internationale de l'Automobile, n.d.). Titles are awarded for drivers, co-drivers, manufacturers and teams, alongside the WRC2, WRC3 and Junior WRC support championships, and women's and men's crews compete in identical machinery and point systems, with no separate classification (World Rally Championship, n.d.). Safety rules cover roll cages, homologated seats and fire systems, and crews must wear helmets and HANS devices on stages (Fédération Internationale de l'Automobile, n.d.).
@@ -28,5 +30,4 @@ The championship was inaugurated in 1973, with the Monte Carlo Rally as its open
 
 - [Fédération Internationale de l'Automobile — World Rally Championship](https://www.fia.com)
 - [WRC.com — official calendar, results and standings](https://www.wrc.com)
-- [Formula One](formula-one.html) on this site — the FIA's premier circuit championship
-- [Formula E](formula-e.html) on this site — the FIA's electric single-seater series
+- Related on this site: [Formula One](formula-one.html), [Formula E](formula-e.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html), [Superkart](superkart.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

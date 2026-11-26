@@ -8,6 +8,8 @@ The approved world records at the end of the 2026 season are 2.5 buoys at 9.75 m
 
 *Figure: Sheahunter1. (2025, August 1). A slalom water skier powering across the wake at Kirk Lake in 2025 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Kirk_Lake_Slalom_Water_Skiing.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Water Skiing](water-skiing.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The slalom course is 259 m long with six buoys spaced 11.25 m apart, offset 4.25 m from the centreline, and the boat travels at a fixed speed for each pass — up to 58 km/h for men and 55 km/h for women at elite level; the skier starts on a 22 m rope and, after each clean pass, the rope is shortened through 18.25 m, 16 m, 14.25 m, 13 m, 12 m, 11.25 m, 10.75 m, 10.25 m and (men) 9.75 m, with the boat speed raised stepwise to the maximum (International Waterski & Wakeboard Federation, n.d.-d). A pass ends in a fall or a missed buoy; the score is the number of buoys rounded on the best pass, and ties are broken by the fastest time (International Waterski & Wakeboard Federation, n.d.-d).
@@ -42,5 +44,4 @@ Slalom as a competitive discipline emerged in the United States in the late 1950
 - [IWWF — Waterskiing discipline](https://iwwf.sport/disciplines/waterskiing/) — slalom course, boat speeds, rope lengths and rules
 - [IWWF world records](https://www.iwsf.com/history/displayrecords.php) — approved slalom records (men: Nate Smith 2.5 @ 9.75 m; women: Regina Jaquess 5 @ 10.25 m)
 - [IWWF world ranking lists and results (EMS)](https://ems.iwwf.sport/RankingList/RankingListWaterski) — slalom rankings and results
-- [Water skiing](water-skiing.html) on this site — the parent sport with tricks, jump and overall
-- [Barefoot water skiing](barefoot-water-skiing.html) on this site — the no-skis variant of slalom
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand

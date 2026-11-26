@@ -6,6 +6,8 @@ Skimboarding is the sport of skimming a thin board across a thin layer of water 
 
 *Figure: Petazzoni, M. (2005, August 18). Skimboard amateur [Photograph]. Wikimedia Commons. Free Art License. https://commons.wikimedia.org/wiki/File:Skimboard_amateur.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Skimboarding competitions are run by the United Skim Tour (UST) and the world championship bodies in divisions by age and level: Pro Men, Pro Women, semi-pro and junior classes, with men's and women's titles awarded separately (UST, n.d.). In a contest, each rider takes a set number of judged runs — typically one run out to the wave and back, plus flatland runs in flatland events — and the best-scoring run counts; judges score on criteria such as speed, difficulty, variety and style of turns and tricks (Wikipedia, n.d.-a). Riders start by running with the board on the wet sand, drop onto the thin wash left by the receding wave, and skim in a straight line before throwing the board down at speed for wave riding (Wikipedia, n.d.-a). Equipment is simple: a foam or composite board roughly 120–135 cm long with grip pads, and no leash in wave riding; wetsuits and board wax are optional. Because the sport has no single world federation, the UST tour standings and the annual world championships serve as the de facto world ranking (UST, n.d.).
@@ -27,5 +29,5 @@ Skimboarding was invented in 1976 at Laguna Beach, California, by Tex Haines and
 ## Important Links
 
 - [United Skim Tour](https://unitedskimtour.com/) — the international skimboarding tour and world championship series
-- [Surfing](surfing.html) on this site — the wave-riding parent sport of wave skimboarding
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Skateboarding](skateboarding.html) on this site — the board-sport cousin of flatland skimboarding

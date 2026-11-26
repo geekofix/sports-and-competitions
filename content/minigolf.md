@@ -12,6 +12,8 @@ Competitions are open to women and men in separate categories across three age g
 
 *Figure: Stephen Craven. (2026, May 21). The minigolf course at Hesketh Park, Southport, England [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Hesketh_Park,_minigolf_course_-_geograph.org.uk_-_8340963.jpg*
 
+ Within the golf family on this site, its closest relatives are [Golf](golf.html), [Footgolf](footgolf.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The WMF recognises four course systems: minigolf (fibrocement lanes, about 600–800 m² for 18 holes), feltgolf (carpet lanes, common in Sweden and Finland), béton (concrete with 18 standardized obstacles, common in German-speaking countries) and the Minigolf Open Standard (artificial turf, common in the US and UK) (World Minigolf Sport Federation, n.d.-c; Wikipedia, n.d.-b).
@@ -43,4 +45,4 @@ Since then the sport has grown to 65 member nations with world championships in 
 - [World Minigolf Sport Federation](https://gov.minigolfsport.com/) — founded 1963 (IMF), WMF since 1993; 65 member nations; HQ Bamberg, Germany
 - [WMF Rulebook](https://gov.minigolfsport.com/structures/official-wmf-rulebook) and [chapter 2.3 (PDF)](https://gov.minigolfsport.com/rules/2_3.pdf) — official rules: max. 7 strokes per lane, four course systems
 - [WMF international championships calendar 2026](https://gov.minigolfsport.com/events/international-championships) — Worlds, continentals, World Adventure Golf Tour
-- Related on this site: [golf](golf.html), [bowling](bowling.html)
+- Related on this site: [Golf](golf.html) and [Footgolf](footgolf.html) — the golf family

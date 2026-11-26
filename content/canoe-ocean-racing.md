@@ -6,6 +6,7 @@ Canoe ocean racing is the long-distance downwind paddling discipline in surfski 
 
 *Figure: Surfski Family. (2016, October 15). JRH16683 — A group of surfskis launching off the beach through the surf zone for an ocean race [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:JRH16683.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Canoe Marathon](canoe-marathon.html), [Canoe Sprint](canoe-sprint.html), [Kayaking](kayaking.html), [Canoeing](canoeing.html), [Rowing](rowing.html); the related pages are listed under Important Links.
 
 ## Rules
 
@@ -39,3 +40,4 @@ Surfski racing developed in South Africa in the 1950s–1960s — the "surf ski"
 - [2026 ICF Canoe Ocean Racing World Championships — La Vila Joiosa](https://www.canoeicf.com/canoe-ocean-racing-world-championships/la-vila-joiosa-2026) — 9–11 October 2026, 750+ paddlers, 36 countries
 - [Surfski.tv — ICF world championships results](https://www.surfski.tv/racing/icf-world-championships) — historical results 2013–2026
 - [Canoe marathon](canoe-marathon.html), [Canoe sprint](canoe-sprint.html), [Kayaking](kayaking.html), [Surfing](surfing.html), [Canoeing](canoeing.html) and [Rowing](rowing.html) on this site
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

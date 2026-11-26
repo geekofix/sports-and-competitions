@@ -8,6 +8,8 @@ On the women's side, Formula E has historically fielded women in the world champ
 
 *Figure: OJN-TinyBean. (2026, August 16). Evans-2026-London — Mitch Evans at the 2026 London ePrix [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Evans-2026-London.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [MotoGP](motogp.html), [World Rally Championship](world-rally-championship.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The FIA Formula E Sporting Regulations govern the championship (FIA, n.d.-c). Races (E-Prix) last about 45 minutes plus one extra lap on street circuits of roughly 1.8–3.5 km; qualifying uses a group stage followed by head-to-head duels, with the fastest qualifier awarded pole position (FIA, n.d.-c). The Gen3/Gen3 Evo cars produce 350 kW in qualifying and 300 kW in the race; Attack Mode — taken by driving through a marked activation zone off the racing line — grants a temporary power boost (50 kW under Gen3 Evo) for a set number of seconds, and a mandatory Pit Boost stop during the race adds energy to the battery (FIA, n.d.-c). Points follow the FIA scale 25-18-15-12-10-8-6-5-4-3-2-1, plus 3 points for pole position and 1 for the fastest lap (set by a driver finishing in the top 10); the champion needs a Super Licence, which the title earns 40 points toward (FIA, n.d.-c). There are separate drivers', teams' and manufacturers' classifications; men and women compete on equal terms in the same race, and the minimum age for a Super Licence is 18 (FIA, n.d.-c).
@@ -36,9 +38,4 @@ Formula E was conceived by Spanish businessman Alejandro Agag together with FIA 
 - [FIA — Formula E championship page](https://www.fia.com/championship/fia-formula-e-world-championship) — regulations, Gen3 Evo / Gen4
 - [Formula E results and champions](https://www.fiaformulae.com/en/results) — all-time champion list (Wehrlein 2025–26)
 - [F1 Academy](https://www.f1academy.com/) — all-female feeder series
-- [Formula One](formula-one.html) on this site
-- [Formula 2](formula-2.html) on this site
-- [Formula 3](formula-3.html) on this site
-- [MotoGP](motogp.html) on this site
-- [World Rally Championship](world-rally-championship.html) on this site
-- [24 Hours of Le Mans](24-hours-of-le-mans.html) on this site
+- Related on this site: [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [MotoGP](motogp.html), [World Rally Championship](world-rally-championship.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html) and [Superkart](superkart.html) — the motorsport and racing disciplines

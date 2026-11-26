@@ -6,6 +6,8 @@ Rowing — called crew in the United States — is the sport of racing boats pro
 
 *Figure: Emanuel Michler. (2006). Achter — coxed eight at the Head of the River Race 2006, London [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Achter.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Canoeing](canoeing.html), [Kayaking](kayaking.html), [Dragon Boat Racing](dragon-boat-racing.html), [Sailing](sailing.html), [Canoe Sprint](canoe-sprint.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competitive rowing races are staged over the standard 2,000 m course in straight lanes (typically six), starting from stake boats or starting lights, with umpires and a chief referee; a crew that interferes with another can be warned twice and then disqualified, and false starts are recalled (Wikipedia, n.d.-a). Boat classes at the World Championships span 22 events: single sculls (1x), pair (2-), double sculls (2x), coxless four (4-), quadruple sculls (4x), coxed four (4+), eight (8+) and lightweight variants, plus para-rowing classes; Olympic programme events are a subset (World Rowing, n.d.). Each rower uses one oar — sweep rowing (one oar per rower) in pairs, fours and eights, with a coxswain steering in 2+, 4+ and 8+; sculling (two oars per rower) in singles and doubles (Wikipedia, n.d.-a). Boats have minimum weights, hulls are checked at boat weigh-ins, and crews must be weighed for lightweight classes (crew average 70 kg men / 57 kg women, no single rower over 72.5 kg / 59 kg) (Wikipedia, n.d.-a). Women and men compete in all boat classes from junior through elite, with equal Olympic programme slots since Tokyo 2020 (World Rowing, n.d.). Head races on rivers — such as the Head of the River Race and Head of the Charles — are time-trial races against the clock over 3–5 miles with staggered starts (Wikipedia, n.d.-a).
@@ -28,7 +30,4 @@ Organized rowing began in 18th-century England with the Doggett's Coat and Badge
 
 - [World Rowing (FISA)](https://worldrowing.com/) — world governing body; rules of racing, calendar, rankings and World Championships
 - [Olympics — Rowing](https://www.olympics.com/en/sports/rowing/) — Olympic programme since 1900
-- [Canoeing](canoeing.html) on this site — paddle sports on the same water
-- [Kayaking](kayaking.html) on this site — paddle boat racing
-- [Dragon Boat Racing](dragon-boat-racing.html) on this site — team paddling races
-- [Sailing](sailing.html) on this site — racing under wind power
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

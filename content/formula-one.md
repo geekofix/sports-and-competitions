@@ -8,6 +8,8 @@ On the women's side, Formula 1 today fields its future female stars through the 
 
 *Figure: Lukas Raich. (2026, June 26). FIA F1 Austria 2026 Nr. 12 Antonelli (1) — Andrea Kimi Antonelli, 2026 world champion, at the 2026 Austrian Grand Prix [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._12_Antonelli_(1).jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [MotoGP](motogp.html), [Indycar Series](indycar-series.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The FIA Formula One Sporting and Technical Regulations 2026 are the rulebook (FIA, n.d.-b; FIA, n.d.-c). Each of the 10 teams fields two identical-spec cars; the 2026 power unit combines a 1.6-litre turbo V6 with a much more powerful electric system (roughly 350 kW combustion plus 350 kW electric), running on fully sustainable fuel, with active front and rear wings for the low-drag X-mode and a minimum car weight set by the Technical Regulations (FIA, n.d.-c). Tyres are supplied by Pirelli (three dry compounds per weekend plus intermediates and wets). A Grand Prix weekend runs free practice, qualifying in a three-part knockout (Q1 18 cars, Q2 15, Q3 10) and the race of 305 km (260 km at Monaco) limited to two hours of racing and three hours total; eight sprint weekends add a short Saturday race with points 8-7-6-5-4-3-2-1 (FIA, n.d.-b). Race points are 25-18-15-12-10-8-6-5-4-3-2-1 plus 1 for the fastest lap if the finisher is in the top 10 (FIA, n.d.-b). DRS may be used in the designated zones when within one second of the car ahead; parc fermé rules freeze car setups after qualifying; fouls — blocking, causing a collision, ignoring flags, unsafe rejoins — are punished with 5- or 10-second penalties, drive-throughs, stop-go penalties, grid drops or reprimands by the stewards, with a safety car or virtual safety car neutralizing the race when needed (FIA, n.d.-b). Drivers need a FIA Super Licence (minimum age 18, 40 points from feeder series; since 2015 only 17-year-old Max Verstappen held a dispensation) — women compete on equal terms, with the F1 Academy as the dedicated feeder (FIA, n.d.-b; F1 Academy, n.d.).
@@ -42,12 +44,4 @@ Grand Prix motor racing began with the 1906 French Grand Prix at Le Mans, organi
 - [FIA — Formula One World Championship](https://www.fia.com/championship/fia-formula-one-world-championship) — world governing body; Sporting and Technical Regulations 2026
 - [FIA Formula 1 standings 2026](https://www.formula1.com/en/racing/2026) — Antonelli champion, Verstappen 2nd, Russell 3rd
 - [F1 Academy](https://www.f1academy.com/) — all-female feeder series
-- [Formula 2](formula-2.html) on this site
-- [Formula 3](formula-3.html) on this site
-- [Formula E](formula-e.html) on this site
-- [MotoGP](motogp.html) on this site
-- [IndyCar Series](indycar-series.html) on this site
-- [24 Hours of Le Mans](24-hours-of-le-mans.html) on this site
-- [DTM](dtm.html) on this site
-- [World Rally Championship](world-rally-championship.html) on this site
-- [Karting](karting.html) on this site
+- Related on this site: [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [MotoGP](motogp.html), [Indycar Series](indycar-series.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [Dtm](dtm.html), [World Rally Championship](world-rally-championship.html), [Karting](karting.html), [NASCAR](nascar.html), [Supercars Championship](supercars-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html) and [Superkart](superkart.html) — the motorsport and racing disciplines

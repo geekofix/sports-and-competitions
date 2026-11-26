@@ -10,6 +10,8 @@ Sweden's Johan Kristoffersson is the most decorated driver in the sport's histor
 
 *Figure: Kilyann Le Hen. (2024, April 27). A Hyundai i20 rallycross car in action at Lessay, France, 2024 [Photograph]. Wikimedia Commons. CC BY 4.0. https://commons.wikimedia.org/wiki/File:Juha_Rytkönen_(Hyundai_i20_II_WRX)_-_Lessay_2024.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Dakar Rally](dakar-rally.html), [Stock Car Racing](stock-car-racing.html), [NASCAR](nascar.html), [Demolition Derby](demolition-derby.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A rallycross circuit is roughly 1 km long, at least 65% paved, with a mandatory joker lap — a detour through a gravel loop — that each driver must take exactly once per race; missing it means exclusion (Wikipedia, n.d.-a).
@@ -46,4 +48,4 @@ The FIA World Rallycross Championship launched in 2014 above the European series
 
 - [FIA Rallycross Championships](https://www.fia-rallycross.com/) — official site of the 2026 FIA European Rallycross Championship and FIA Rallycross World Cup
 - [FIA](https://www.fia.com/) — Fédération Internationale de l'Automobile; 2026 rallycross sporting regulations
-- Related on this site: [dakar rally](dakar-rally.html), [stock car racing](stock-car-racing.html), [nascar](nascar.html), [demolition derby](demolition-derby.html)
+- Related on this site: [Dakar Rally](dakar-rally.html), [Stock Car Racing](stock-car-racing.html), [NASCAR](nascar.html), [Demolition Derby](demolition-derby.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html), [Superkart](superkart.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

@@ -4,6 +4,8 @@ Footgolf is golf played with a football: instead of clubs, players kick a size 5
 
 At the end of 2026 the leading women are Lucka Čermáková (SVK), the 2023 world champion, and the top players of the 2026 Acapulco world cup in the Women's category, while on the men's side the reigning world champion Matías Perrone (ARG, 2018) and the 2026 Acapulco medallists — including Sergio Toth, winner of the Senior Plus title, and Sergio Vázquez of Argentina, second in the men's under-30 event — head the standings (FIFG, n.d.-b; Wikipedia, n.d.-a).
 
+ Within the golf family on this site, its closest relatives are [Golf](golf.html), [Minigolf](minigolf.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FIFG Rules of Footgolf (rulebook in force since 2012), the ball is a standard size 5 football, and each hole ends in a cup of 52 cm diameter and 28 cm deep — large enough for the ball to drop in, with a removable flagstick — set in the green (FIFG, n.d.-c; Wikipedia, n.d.-a). Courses consist of 18 holes with par values typically 3 to 5; players tee off from a designated tee area and must play the ball as it lies, with subsequent kicks from where the ball came to rest; the hole is completed when the ball rests in the cup (FIFG, n.d.-c). Standard golf-style penalties apply for out-of-bounds balls, lost balls, unplayable lies, water hazards and casual water, and the ball may be cleaned and lifted within the rules (FIFG, n.d.-c). Scoring is medal stroke play: the lowest total number of kicks over 18 holes wins, with playoffs to break ties; team competitions (national teams of 64 at the 2026 World Cup) are played in match-play or stroke-play formats alongside the individual event (FIFG, n.d.-b). Men and women play the same course and rules but compete in separate categories, alongside age categories such as Senior and Senior Plus, and youth events (FIFG, n.d.-b; FIFG, n.d.-c).
@@ -38,7 +40,7 @@ Footgolf emerged independently around 2008–2009 in Hungary and the United Stat
 - [FIFG World Cup](https://footgolf.sport/world-cup/) — 5th edition 2026 in Acapulco, Mexico (May 27 – June 7, 2026); editions 2012 Budapest, 2016 Pilar, 2018 Marrakesh, 2023 Orlando
 - [FIFG Rules of Footgolf](https://footgolf.sport/rules/) — official rulebook
 - [AFGL — American FootGolf League](https://www.afgl.com/) — leading North American tour and course operator
-- [Golf](golf.html) on this site
+- Related on this site: [Golf](golf.html) and [Minigolf](minigolf.html) — the golf family
 - [Disc Golf](disc-golf.html) on this site
 - [Football](football.html) on this site
 - [Soccer Tennis](soccer-tennis.html) on this site

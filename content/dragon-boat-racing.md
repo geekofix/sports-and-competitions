@@ -12,6 +12,8 @@ Dragon boat racing is a team paddling sport in which crews of 20 paddlers, a dru
 
 Women's, men's and mixed crews are standard categories at the world dragon boat championships.
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Canoeing](canoeing.html), [Rowing](rowing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Dragon boat races are run under the IDBF Competition Regulations (IDBF, n.d.-a). A standard race boat carries 20 paddlers seated in pairs, a drummer at the bow who sets the stroke rate and a steerer at the stern; 10-person boats carry 10 paddlers plus drummer and steerer (IDBF, n.d.-a). Races are held over 200, 500 and 2,000 meters in lanes, starting from aligned pontoons; the race is won when the bow of the boat crosses the finish line, and false starts are penalized (IDBF, n.d.-a). Crews are classified by gender composition (men's, women's, mixed), age (Senior, Junior A/B, Under-24, University) and ability (Premier, Senior A/B/C divisions at the Club Crew World Championships, plus Paradragon for para athletes) (IDBF, n.d.-b). At world championships, heats, semifinals and finals decide the medals, with lane draws and time-keeping by electronic touch pads in major finals (IDBF, n.d.-a). Paddlers use single-blade paddles of regulated length, and boats must meet IDBF specifications for length, weight and dragon head (IDBF, n.d.-a).
@@ -36,4 +38,4 @@ Dragon boat racing has more than 2,000 years of history in China, traditionally 
 
 - [IDBF — International Dragon Boat Federation](https://www.idbf.org/) — world governing body; regulations, WDBRC and CCWC 2026
 - [ICF — Canoeing](https://canoeicf.com/) — international federation; dragon boat and canoe sprint
-- [Canoeing](canoeing.html) and [Rowing](rowing.html) on this site
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

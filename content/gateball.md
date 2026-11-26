@@ -8,6 +8,8 @@ At the end of 2026 the leading teams are Japan, Brazil, Chinese Taipei, South Ko
 
 *Figure: D'ias, J. (2007, March 19). Playing gateball [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Playing_Gate_Ball.jpg*
 
+ Within the croquet family on this site, its closest relatives are [Croquet](croquet.html), [Golf Croquet](golf-croquet.html), [Woodball](woodball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the WGU Official Rules (revised effective 1 April 2025), the court is 20 m × 15 m (up to 25 × 20 m) with a starting line, three gates and a goal pole; each team has five balls (red odd numbers, white even numbers), and every player plays the same ball throughout the game (WGU, n.d.-a). Play starts with the red team; turns alternate between the teams, and the white team always takes the final turn even if the 30-minute limit expires before its last player is called (WGU, n.d.-a; Wikipedia, n.d.-a). A player places their ball on the starting line and strikes it with the mallet through gate 1, gate 2 and gate 3 in order — each gate scored in order gives 1 point and grants an extra stroke — and finally at the goal pole for 2 points (a "spark"); a ball that passes a gate but ends out of bounds is an "out ball" that re-enters at the next turn (WGU, n.d.-a). When a ball touches another ball ("touch"), the striker places the touched ball against their own ball, steps on their ball and hits it, sending the other ball away ("croquet" or "croc"); touching a ball also grants an extra stroke (WGU, n.d.-a). Only the striker's ball may be struck with the mallet; the winner is the team with the higher score at the end of 30 minutes, with an "agile" finish if one team reaches 5 points first (WGU, n.d.-a). There are no gender or age divisions in the basic rules — mixed teams are common — and the game can be played indoors or outdoors (WGU, n.d.-a).
@@ -33,3 +35,4 @@ Gateball was invented in 1947 by Kazunobu Suzuki, a wood-industry worker in Memu
 - [WGU World Gateball Championships](https://gateball.or.jp/wgu/game/world/) — 13th/14th edition merged into 2026
 - [Japan Gateball Union](https://www.gateball.jp/) — national federation of the country of origin
 - [Croquet](croquet.html) on this site — see also [Golf Croquet](golf-croquet.html) and [Lawn Bowls](lawn-bowls.html) on this site
+- Related on this site: [Croquet](croquet.html), [Golf Croquet](golf-croquet.html) and [Woodball](woodball.html) — the croquet family (mallet-and-ball lawn games)

@@ -8,6 +8,8 @@ Sidecarcross (sidecar motocross) is off-road motorcycle racing with a two-person
 
 Women compete as drivers and passengers — the Belgian Sabrina van Calster scored points as a woman driver at the 2014 Swiss Grand Prix — and the 2025 world champions are the Belgian pair Koen Hermans and passenger Ben van den Bogaart (Wikipedia, n.d.).
 
+ Within the motorsport family on this site, its closest relatives are [Sidecar Road Racing](sidecar-road-racing.html), [Motocross](motocross.html), [Motorcycle Racing](motorcycle-racing.html), [Enduro](enduro.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A Grand Prix weekend consists of two qualifying group races on Saturday (points for the top five) and two main races on Sunday; championship points in each race go to the top 20 on the scale 25-22-20-18-16-15-14-13-12-11-10-9-8-7-6-5-4-3-2-1, and the season ends with the Sidecarcross of Nations, where national teams compete (FIM, n.d.; Wikipedia, n.d.). Chassis come from specialist builders such as VMC, BSU, AYR, EML, WSP and WHT, and engines are typically 700 cc two-strokes (Zabel), 630 cc MTH two-strokes or four-stroke KTM units; both the driver and the passenger need racing licences, and there are no gender classes — women and men compete together in the same races (FIM, n.d.; Wikipedia, n.d.).
@@ -28,4 +30,4 @@ Sidecarcross began in the UK in the 1930s, when motocross riders added a passeng
 ## Important Links
 
 - [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — world governing body; FIM Sidecar Motocross World Championship and Sidecarcross of Nations
-- [Sidecar road racing](sidecar-road-racing.html), [Motocross](motocross.html), [Motorcycle racing](motorcycle-racing.html) and [Enduro](enduro.html) on this site — related motorcycle disciplines
+- Related on this site: [Sidecar Road Racing](sidecar-road-racing.html), [Motocross](motocross.html), [Motorcycle Racing](motorcycle-racing.html), [Enduro](enduro.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html) and [Demolition Derby](demolition-derby.html) — the motorsport and racing disciplines

@@ -6,6 +6,8 @@ Ice speedway (ice racing) is motorcycle speedway racing on frozen ovals: four ri
 
 *Figure: Isiwal. (2018, March 16). Max Niedermaier practicing for the 2018 FIM Ice Speedway Gladiators World Championship final in Inzell, Germany [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motorcycle Racing](motorcycle-racing.html), [Motocross](motocross.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Ice speedway machines are 500 cc single-cylinder methanol-fuelled motorcycles with no brakes, a two-speed gearbox, a longer wheelbase and a more rigid frame than dirt speedway bikes; a rev limiter is compulsory for 500 cc four-valve engines (hard limit 13,500 rpm), and the minimum angle of inclination of the machine is regulated at 68° (FIM, n.d.-a; Wikipedia, n.d.-a). The ice must be at least 20 cm thick; in the studded class — mandatory since 1982 — spikes up to 3 cm long are screwed into the treadless tyres, about 130–140 in the front and 170–190 in the rear, and special wheel guards extend almost to the ice surface (Wikipedia, n.d.-a). Because the spikes give enormous grip, there is no broadsiding: riders lean the bike into corners until the handlebars nearly skim the ice, reaching about 130 km/h on the straights and about 100 km/h in the corners; barriers of straw bales or banked snow protect the track edges (Wikipedia, n.d.-a). There are two classes — studded tyres and full rubber — and heats of four riders over four laps award 3-2-1-0 points; men and women race under identical rules and formats in separate categories (FIM, n.d.-a; Wikipedia, n.d.-b).
@@ -27,6 +29,5 @@ Ice speedway is generally credited to Staten Lorenz of Michigan, who in 1975 org
 ## Important Links
 
 - [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — world governing body; ice speedway world championships
-- [Motorcycle Racing](motorcycle-racing.html) on this site — MotoGP Grand Prix racing
-- [Motocross](motocross.html) on this site — off-road motorcycle racing
+- Related on this site: [Motorcycle Racing](motorcycle-racing.html), [Motocross](motocross.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html) and [Midget Car Racing](midget-car-racing.html) — the motorsport and racing disciplines
 - [Speed Skating](speed-skating.html) on this site — racing on ice with skates

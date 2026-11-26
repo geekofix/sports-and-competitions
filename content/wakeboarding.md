@@ -6,6 +6,8 @@ Wakeboarding is the towed board sport in which a rider, strapped into a wakeboar
 
 *Figure: WAKEBOARDER. (2017, November 1). Aurélie Godet at 2017 European Championships — French wakeboarder Aurélie Godet during her run at the 2017 European Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Aur%C3%A9lie_Godet_at_2017_European_Championships.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Wakeskating](wakeskating.html), [Wakesurfing](wakesurfing.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Competition splits into boat and cable wakeboarding; boat events are judged on a run of tricks across the wake — spins, inverts, grabs and mobes — scored for execution, intensity, variety and difficulty, with two passes per rider; cable events run riders around a lake on an overhead cable past kickers and rails, scored on the tricks performed on each feature, with falls ending a pass (International Waterski and Wakeboard Federation, n.d.). Rules fix boat speed, rope length and wake shape for competition, and events are divided by age group and gender — separate men's and women's divisions — under the IWWF and WWA rulebooks (International Waterski and Wakeboard Federation, n.d.; World Wake Association, n.d.). Equipment is a twin-tip or directional board with bindings, a tow rope with handle, a life vest and helmet in competition (Wikipedia, n.d.).
@@ -28,6 +30,5 @@ The sport grew from mono water skiing in 1950s America and from surfboards towed
 
 - [International Waterski and Wakeboard Federation (IWWF)](https://www.iwwfed.com/) — world governing body (IOC-recognized), World Championships
 - [World Wake Association (WWA)](https://www.thewwa.com/) — boat and cable tour series, world championships
-- [Wakeskating](wakeskating.html) and [Wakesurfing](wakesurfing.html) on this site — the towed-board siblings
-- [Barefoot water skiing](barefoot-water-skiing.html) on this site — the towed ancestor sport
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Surfing](surfing.html), [Snowboarding](snowboarding.html) and [Skateboarding](skateboarding.html) on this site — the sports wakeboarding's tricks come from

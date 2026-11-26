@@ -6,6 +6,8 @@ Motorcycle racing is the umbrella sport of all competitive motorcycle sport, gov
 
 *Figure: Jack_IOM. (2014, June 6). Dean Harrison TT 2014 Quarterbridge — Dean Harrison at Quarterbridge during the 2014 Isle of Man TT race week [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Dean_Harrison_TT_2014_Quarterbridge.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [MotoGP](motogp.html), [Moto2](moto2.html), [Moto3](moto3.html), [Motocross](motocross.html), [Supercross](supercross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Each discipline has its own FIM rulebook. Grand Prix classes race prototype machines on permanent circuits ([MotoGP](motogp.html), [Moto2](moto2.html), [Moto3](moto3.html)); WorldSBK races production-derived 1000 cc machines over two races per weekend plus a Superpole qualifying race, WorldSSP uses 600 cc production machines, and the women-only WorldWCR races identical Yamaha R7 machines (Wikipedia, n.d.-c). [Motocross](motocross.html) and enduro run on natural terrain, and road races such as the Isle of Man TT run on the 60.72 km (37.73 mi) Mountain Course, a loop of closed public roads where over 100 riders start together and average speeds exceed 130 mph (Isle of Man TT, n.d.). Safety, machine and conduct rules — scrutineering, protective gear, penalties and disqualification — are set by the FIM Sporting and Technical Regulations in every class; all classes except the women-only WorldWCR are open to women and men under identical rules (FIM, n.d.-a).
@@ -33,6 +35,4 @@ Motorcycle racing began in the late 19th century, the FIM was founded in 1904, a
 - [Isle of Man TT](https://www.iomtt.com/) — the legendary road race, 2026 results
 - [WorldSBK.com](https://www.worldsbk.com/) — production-based world championships incl. WorldWCR
 - [MotoGP.com](https://www.motogp.com/) — Grand Prix world championship
-- [MotoGP](motogp.html), [Moto2](moto2.html) and [Moto3](moto3.html) on this site — the Grand Prix classes
-- [Motocross](motocross.html), [Supercross](supercross.html) and [Supermoto](supermoto.html) on this site — off-road and tarmac disciplines
-- [Flat track racing](flat-track-racing.html) and [Sidecar road racing](sidecar-road-racing.html) on this site — specialist disciplines
+- Related on this site: [MotoGP](motogp.html), [Moto2](moto2.html), [Moto3](moto3.html), [Motocross](motocross.html), [Supercross](supercross.html), [Supermoto](supermoto.html), [Flat Track Racing](flat-track-racing.html), [Sidecar Road Racing](sidecar-road-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html) and [Hillclimbing](hillclimbing.html) — the motorsport and racing disciplines

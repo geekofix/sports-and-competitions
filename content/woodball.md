@@ -8,6 +8,8 @@ The sport is governed by the International Woodball Federation (IWbF), founded i
 
 *Figure: ChefMattRock. (2007, August 12). Woodball 2013 — woodball player with mallet and ball on a fairway [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Woodball_2013.jpg*
 
+ Within the croquet family on this site, its closest relatives are [Croquet](croquet.html), [Golf Croquet](golf-croquet.html), [Gateball](gateball.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Players must complete the 12 fairways in order, striking the ball with the mallet from the ground toward and through each gate; a fairway is completed when the ball passes cleanly through the gate in the direction of play, and if the ball finishes still in contact with the gate, one penalty stroke is added immediately (International Woodball Federation, n.d.). Strokes are counted per fairway exactly as in golf, and the lowest total over the course wins; if the ball goes out of bounds, it is placed at least one woodball length outside the fairway before the next stroke, and rules govern stroke order, penalties for hitting the gate and for playing out of turn (Wikipedia, n.d.). Competition formats include singles, doubles, mixed doubles and team events, played as stroke play or as team fairway match play over one or more rounds of the 12 fairways, and women and men compete in separate singles and team events at world championships (Wikipedia, n.d.).
@@ -30,5 +32,5 @@ Woodball was invented in 1990 by Weng Ming-hui (with Kuang-chu Young) in Shilin,
 
 - [International Woodball Federation](https://iwbf-woodball.org/) — world governing body, rules, World Cup and member associations
 - [Golf](golf.html) on this site — the parent fairway stroke-play game
-- [Croquet](croquet.html) on this site — the related mallet-and-hoop sport
+- Related on this site: [Croquet](croquet.html), [Golf Croquet](golf-croquet.html) and [Gateball](gateball.html) — the croquet family (mallet-and-ball lawn games)
 - [Footgolf](footgolf.html) on this site — another compact stroke-play hybrid

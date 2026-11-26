@@ -6,6 +6,8 @@ Supercross is indoor motocross: riders race 250 cc and 450 cc four-stroke machin
 
 *Figure: David Schneller. (2016, January 30). Ken Roczen at Supercross Oakland 2016 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Ken_Roczen_at_Supercross_Oakland_2016.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motocross](motocross.html), [Enduro](enduro.html), [Motorcycle Racing](motorcycle-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html); the related pages are listed under Important Links.
+
 ## Rules
 
 A supercross track is roughly 200–300 m of packed dirt inside a stadium, with a starting gate limited to 22 riders for the main events; a round runs heat races and a Last Chance Qualifier (LCQ), then main events — the 450SX main is about 20 minutes plus one lap (Wikipedia, n.d.-a). Riders earn championship points from their main-event finish on a descending scale, double mains and Triple Crown rounds multiply the stakes, and the SMX playoffs combine heat and main-event points across three rounds to crown overall champions (AMA, n.d.). Bikes are 450 cc or 250 cc four-strokes with modified suspension, protective gear (helmet, goggles, chest protector, boots) mandatory; women compete in dedicated women's classes in national series under the same track rules (Wikipedia, n.d.-b).
@@ -30,4 +32,4 @@ Supercross began when promoter Marty Tripes staged the first indoor stadium moto
 - [AMA Supercross — official site](https://www.supercrosslive.com/) — US championship calendar, results, standings
 - [FIM Supercross World Championship (WSX)](https://www.fim-moto.com/) — international world championship
 - [World Supercross Championship](https://www.worldsupercrosschampionship.com/) — WSX rounds and results
-- [Motocross](motocross.html), [Enduro](enduro.html) and [Motorcycle racing](motorcycle-racing.html) on this site — other off-road disciplines
+- Related on this site: [Motocross](motocross.html), [Enduro](enduro.html), [Motorcycle Racing](motorcycle-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html) and [Karting](karting.html) — the motorsport and racing disciplines

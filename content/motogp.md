@@ -6,6 +6,8 @@ MotoGP is the premier class of Grand Prix [motorcycle racing](motorcycle-racing.
 
 *Figure: Denkmit. (2026, April 28). Marc Marquez at the 2026 Spanish Grand Prix [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motorcycle Racing](motorcycle-racing.html), [Moto2](moto2.html), [Moto3](moto3.html), [Superbike](superbike.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 MotoGP machines are prototype racing motorcycles — 1000 cc four-strokes in 2026, 850 cc from 2027 — built to FIM technical regulations with a minimum machine weight, a spec ECU and controlled electronics; tires were Michelin-spec in 2026 and become Pirelli-spec from 2027 (FIM, n.d.-a). A race weekend runs a free practice, qualifying, a Saturday Sprint race (half distance, points for the top 12) and a Sunday Grand Prix (full distance, points 25-20-16-13-11-10-9-8-7-6-5-4-3-2-1); from 2027 the weekend gains a Sprint qualifying session that sets the Sprint and GP grids (MotoGP.com, n.d.-a). The rider with the most championship points after all rounds is world champion; crashes, jump starts, unsafe riding and technical infringements are penalized under the FIM Sporting Regulations. There is no gender-based classification: the technical and sporting rules are identical for women and men (FIM, n.d.-a).
@@ -29,6 +31,4 @@ The FIM motorcycle world championship began in 1949, and the premier 500 cc clas
 
 - [MotoGP.com — official world championship](https://www.motogp.com/) — premier class standings, results, 2026/2027 regulations
 - [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — sporting and technical regulations
-- [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella sport
-- [Moto2](moto2.html) and [Moto3](moto3.html) on this site — the intermediate and lightweight classes
-- [Superbike](superbike.html) on this site — the production-based world championship
+- Related on this site: [Motorcycle Racing](motorcycle-racing.html), [Moto2](moto2.html), [Moto3](moto3.html), [Superbike](superbike.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html) and [Demolition Derby](demolition-derby.html) — the motorsport and racing disciplines

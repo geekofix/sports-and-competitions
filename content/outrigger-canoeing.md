@@ -6,6 +6,8 @@ Outrigger canoeing (va'a paddling) is the racing of outrigger canoes, slender hu
 
 *Figure: gérard. (2011, August 29). 2011 Pacific Games: Va'a racing crews for the men's V6 event at Anse Vata Beach, Noumea, New Caledonia [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Va%27a_outrigger_canoeing_crews_for_the_men%27s_V6_event_at_the_2011_Pacific_Games.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Canoeing](canoeing.html), [Kayaking](kayaking.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In OC6 sprint racing, six paddlers race 500 m, 1,000 m or 2,000 m courses with turns around buoys, while distance events run up to 42 km, the classic Hamilton Cup in Australia (International Va'a Federation, n.d.). The steerer in seat 6 controls the rudder and calls the strokes; in changeover races paddlers may be substituted (International Va'a Federation, n.d.). Para Va'a, a full medal discipline at the ICF World Championships and at the Paralympics since Rio 2016, follows the same course rules for athletes with impairments in VL1-VL3 classes (International Canoe Federation, n.d.). Since 1990 the IVF has mandated a standard OC6 hull based on the Tahitian Galaide II design, so all crews race identical boats (International Va'a Federation, n.d.). Races are run in heats and finals with lane discipline; false starts and equipment violations bring penalties, and men's and women's events use the same distances and hulls (International Va'a Federation, n.d.).
@@ -29,6 +31,4 @@ Outrigger canoe racing is rooted in the voyaging traditions of Polynesia, Micron
 - [International Va'a Federation (IVF)](https://www.vaa.com/) — world governing body since 1986; World Sprints and World Championships
 - [International Canoe Federation (ICF)](https://www.canoeicf.com/) — para va'a (VL classes) and canoe sprint
 - [Outrigger canoeing — Wikipedia](https://en.wikipedia.org/wiki/Outrigger_canoeing) — Polynesian roots, Hawaii clubs, IVF founding 1986
-- [Canoeing](canoeing.html) on this site — flatwater canoeing
-- [Kayaking](kayaking.html) on this site — the kayak discipline
-- [Canoe Sprint](canoe-sprint.html) on this site — Olympic flatwater sprint
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

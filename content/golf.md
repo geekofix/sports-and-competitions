@@ -8,6 +8,8 @@ At the end of 2026 the leading women are the top of the Rolex Women's World Golf
 
 *Figure: Perry, D. (2013, April 10). Practice rounds and Par 3 contest at the 77th Masters Tournament, Augusta National Golf Club, Augusta, Georgia [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Masters_Tournament_-_2013_-_Augusta_National_Golf_Club_(8688527925).jpg*
 
+ Within the golf family on this site, its closest relatives are [Footgolf](footgolf.html), [Minigolf](minigolf.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the Rules of Golf (R&A/USGA), a round consists of 18 holes (or 9), each beginning at a teeing ground and ending when the ball is holed; the player farthest from the hole plays first, and a ball must be played as it lies, with relief available under the rules — penalty strokes for lost balls or out-of-bounds (stroke-and-distance or local rules), free relief for abnormal course conditions, unplayable balls (stroke-and-distance, back-on-the-line, or two-club-length lateral relief for an unplayable ball) (The R&A, n.d.-a; Wikipedia, n.d.-a). The maximum score per hole in stroke play may be set by the committee (commonly double par plus penalty strokes or a fixed maximum such as 10 under the 2019 revision); a player may carry up to 14 clubs; caddies may not test the condition of a green or move a ball on the green before 2019 — since 2019 flagsticks may be left in, and since 2019 grounding the club in a bunker is allowed away from the ball and raking is unrestricted (The R&A, n.d.-a). Match play (hole-by-hole, won by the player leading after 18) and stableford (points per hole against par) are alternative formats (Wikipedia, n.d.-a). Men and women play from different tee markers but the same rules; the handicap systems (World Handicap System, effective 2020/2024) apply equally to both sexes, and amateur status rules were replaced by maximum-handicap and eligibility rules in 2024 (The R&A, n.d.-a; USGA, n.d.-a).
@@ -40,3 +42,4 @@ Golf's origins are debated — the Dutch game *kolf* and the Scottish game of *g
 - [Rolex Women's World Golf Rankings](https://www.rolexrankings.com/) — women's world ranking
 - [The 154th Open Championship 2026](https://www.theopen.com/) — Royal Birkdale, 16–19 July 2026, won by Ryan Fox
 - [Disc Golf](disc-golf.html) on this site — see also [Golf Croquet](golf-croquet.html) and [Footgolf](footgolf.html) on this site
+- Related on this site: [Footgolf](footgolf.html) and [Minigolf](minigolf.html) — the golf family

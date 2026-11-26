@@ -6,6 +6,8 @@ Paracanoe is the Paralympic discipline of paddle sport: athletes with impairment
 
 *Figure: Explorer-Media (Australian Paralympic Committee). (2019, April). Australian paracanoe athlete Dylan Littlehales photographed at a processing session for the Australian team for the Tokyo 2020 Paralympics [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Littlehales_Dylan_1.JPG*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Canoeing](canoeing.html), [Kayaking](kayaking.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Races are straight 200 metre sprints on a regatta course, in single kayaks (KL) and single va'a outriggers (VL), each class from 1 (least trunk function) to 3 (most) racing separately (International Canoe Federation, n.d.-b). Boats are standardized with fixed seats and backrests suited to each class, paddlers use double kayak blades or single va'a blades, and races are run under ICF sprint racing rules: heats, semifinals and finals, lane discipline, and false-start and equipment regulations (International Canoe Federation, n.d.-b). Classification panels examine athletes before competition to place them in the correct class (International Canoe Federation, n.d.-b). At the Paralympics, men's and women's KL1, KL2, KL3, VL2 and VL3 events are contested — VL1 was added for Paris 2024 — all over the same 200 m distance with the same boat rules per class (International Paralympic Committee, n.d.).
@@ -31,6 +33,4 @@ Paracanoe was developed in the 2000s by the ICF as the para discipline of canoe 
 - [ICF — paracanoe discipline](https://www.canoeicf.com/discipline/paracanoe) — classification KL/VL and 200 m competition rules
 - [International Paralympic Committee — paracanoe](https://www.paralympic.org/paracanoe) — Paralympic since Rio 2016
 - [Paracanoe — Wikipedia](https://en.wikipedia.org/wiki/Paracanoe) — history from the 2009 first worlds to the Paralympics
-- [Canoeing](canoeing.html) on this site — the able-bodied parent discipline
-- [Kayaking](kayaking.html) on this site — kayak racing
-- [Canoe Sprint](canoe-sprint.html) on this site — the Olympic sprint discipline
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

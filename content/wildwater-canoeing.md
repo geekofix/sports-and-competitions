@@ -8,6 +8,8 @@ Competition takes two forms: the classic race, a mass-start run of roughly 3–6
 
 *Figure: Lamielle, A. (2019, September 29). 2019 ICF Wildwater Canoeing World Championships 241 - Sabine Fuesser — women's K1 racing at the 2019 ICF Wildwater Canoeing World Championships in La Seu d'Urgell, Segre Olympic Park [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:2019_ICF_Wildwater_canoeing_World_Championships_241_-_Sabine_Fuesser.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Canoe Slalom](canoe-slalom.html), [Canoe Sprint](canoe-sprint.html), [Canoeing](canoeing.html), [Kayaking](kayaking.html), [Rafting](rafting.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In the classic race all paddlers start together and race point-to-point down the river, the fastest time to the finish line winning; in the sprint each paddler races alone against the clock over 200–600 m, typically with two runs and the best time counting (International Canoe Federation, n.d.). Courses must be homologated by the ICF and run on rapids of class II–IV; competitors wear helmets and buoyancy aids, and procedures exist for restarts after outside interference (Wikipedia, n.d.). Boat classes are K1M/K1W, C1M/C1W, C2 and C2W plus team K1 events, with separate men's and women's classifications and masters age groups; World Championships alternate between classic (biennial) and sprint (annual since 2011) editions (International Canoe Federation, n.d.).
@@ -30,7 +32,4 @@ Downriver racing emerged in the mid-twentieth century as European paddlers teste
 
 - [International Canoe Federation — wildwater canoeing](https://www.canoeicf.com/discipline/wildwater) — world governing body, discipline rules and World Championships
 - [Fibark Whitewater Festival](https://fibark.com/) — oldest continuously run US downriver race, Arkansas River, Colorado
-- [Canoe Slalom](canoe-slalom.html) on this site — the gate-negotiating whitewater discipline
-- [Canoe Sprint](canoe-sprint.html) on this site — flatwater sprint racing
-- [Canoeing](canoeing.html) and [Kayaking](kayaking.html) on this site — the parent paddling sports
-- [Rafting](rafting.html) on this site — whitewater paddling in inflatable rafts
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

@@ -6,6 +6,8 @@ Snake boat racing (vallam kali in Malayalam) is the spectacular team rowing race
 
 *Figure: Varghesepunnamada. (2025, August 30). Nehru Trophy Boat Race — chundan heats 2025 [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Nehru_Trophy_Boat_Race_-Chundan_heats_2025.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Dragon Boat Racing](dragon-boat-racing.html), [Canoe Sprint](canoe-sprint.html), [Outrigger Canoeing](outrigger-canoeing.html), [Rowing](rowing.html), [Canoeing](canoeing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 There is no single world federation: the races are organised by the participating boat clubs (palliyodam committees) under the Kerala state government and the Nehru Trophy Boat Race committee, which sets the event regulations (Kerala Tourism, n.d.). In a chundan vallam race, the 100–120 rowers sit in pairs along the 100–140 ft hull and row in perfect synchrony to the vanchippattu songs led by the singers at the bow, while four to five helmsmen steer with long oars at the stern and midship; the boat that crosses the finish line first wins, with heats feeding a final at the Nehru Trophy (Wikipedia, n.d.-a). The course is about 1.4 km with boats racing in parallel lanes; false starts are penalised, and contact between boats is penalised by the race committee (Wikipedia, n.d.-a). Categories include the chundan (snake boat) class, the thekkanodi class — which at the 2026 Nehru Trophy included a women's category — and smaller iruttukuthy and other traditional classes, each with its own heats and final (Wikipedia, n.d.-b). The Aranmula race is a ritual: the boats row to the temple and back with no winner declared (Wikipedia, n.d.-b).
@@ -27,6 +29,4 @@ Snake boats descend from the war boats of the 13th century, when the rulers of K
 ## Important Links
 
 - [Kerala Tourism — Nehru Trophy Boat Race](https://www.keralatourism.org/) — official event information and results
-- [Dragon boat racing](dragon-boat-racing.html) on this site — the East Asian team paddling counterpart
-- [Canoe sprint](canoe-sprint.html) and [Outrigger canoeing](outrigger-canoeing.html) on this site — other flatwater team racing sports
-- [Rowing](rowing.html) on this site — the Olympic rowing disciplines
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Beach Sprint Rowing](beach-sprint-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

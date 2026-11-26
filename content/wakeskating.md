@@ -6,6 +6,8 @@ Wakeskating is wakeboarding's bindings-free sibling: the rider stands on a small
 
 *Figure: Nabloking. (2012, June 22). Wakeskate — a wakeskater performing a jump start (Sprungstart) at the cable park in Brühl, Germany [Photograph]. Wikimedia Commons. CC0 1.0 (public domain). https://commons.wikimedia.org/wiki/File:Wakeskate.JPG*
 
+ Within the board and water sports family on this site, its closest relatives are [Wakeboarding](wakeboarding.html), [Wakesurfing](wakesurfing.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The defining rule is the equipment: no bindings — the rider's shoes stand freely on the gripped deck, so the board can be flipped and shuvited under the feet exactly as on a skateboard, unlike the strapped-in flips of wakeboarding (Wikipedia, n.d.). Competition formats mirror wakeboarding: at cable parks riders run a timed line hitting kickers, rails and other features, and boat events use the boat's wake; judging scores style, difficulty, consistency and flow, and a fall ends the run (World Wake Association, n.d.). Event organizers publish obstacle, run-length and judging standards, and divisions are open or split by gender and age at the larger series (World Wake Association, n.d.).
@@ -26,6 +28,5 @@ Wakeskating evolved in the 1990s out of wakeboarding culture as riders — many 
 ## Important Links
 
 - [World Wake Association (WWA)](https://www.thewwa.com/) — events and series for wakeskating
-- [Wakeboarding](wakeboarding.html) on this site — the strapped-in parent sport
-- [Wakesurfing](wakesurfing.html) on this site — the third towed-board sibling
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Skateboarding](skateboarding.html) on this site — the land discipline wakeskating imitates

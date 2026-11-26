@@ -8,6 +8,8 @@ The sport is governed through a partnership of World Sailing with the Internatio
 
 *Figure: NicoleMun. (2024, May 27). Nia Suardiaz Wingfoil — Spanish wingfoiler Nia Suardiaz with her wingfoil board at Tarifa [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Nia_Suardiaz_Wingfoil.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Windsurfing](windsurfing.html), [Kitesurfing](kitesurfing.html), [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Course racing uses fleet races around buoy tracks, with right-of-way borrowed from sailing's racing rules — port gives way to starboard, windward keeps clear of leeward, overtaking keeps clear — plus equipment class rules covering wing, board and foil dimensions (World Sailing, n.d.). In the Open class riders use any approved equipment, while the Formula Wing class is one-design, so races are decided by sailor skill on identical gear; safety requirements include a leash and buoyancy aid, and federated events define start procedures, penalties and rescue rules (International Wing Sports Association, n.d.). Freeride and wave winging contests are judged subjectively on jumps, rotations and wave rides, similar to windsurfing freestyle and wave formats, and the hydrofoil lifts the board at speed, so riders manage flight altitude through pressure on the wing and board (Wikipedia, n.d.). Men's and women's fleets race separately in the same classes at world championships (International Wing Sports Association, n.d.).
@@ -30,7 +32,5 @@ The handheld-wing concept is old — aeronautical engineer Jim Drake, inventor o
 
 - [International Wing Sports Association — WingFoil Racing](https://wingfoilracing.com/) — world tours, World Cup results and Formula Wing class rules
 - [World Sailing — wing and foil disciplines](https://www.sailing.org/) — World Sailing's wingfoil governance and equipment rules
-- [Windsurfing](windsurfing.html) on this site — the sail-on-board sibling sport
-- [Kitesurfing](kitesurfing.html) on this site — the kite-propelled board sport
-- [Surfing](surfing.html) on this site — the wave-riding parent of foil surfing
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Sailing](sailing.html) on this site — the parent sail-powered sport

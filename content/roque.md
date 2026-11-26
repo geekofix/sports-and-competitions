@@ -6,6 +6,8 @@ Roque is a Brazilian street game played in a marked circle roughly 9 m in diamet
 
 *Figure: Andrevruas. (2010, July 23). Queimadinha — partida de queimada in the Queimadinha neighbourhood, Feira de Santana, Bahia, Brazil [Photograph]. Wikimedia Commons. CC BY 3.0. https://commons.wikimedia.org/wiki/File:Queimadinha.JPG*
 
+ Within the tag and chase games family on this site, its closest relatives are [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html), [World Chase Tag](world-chase-tag.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Roque uses a soft ball and a circle drawn on the ground about 9 m across; one team stands outside the circle as throwers and the other inside as targets (Wikipedia, n.d.). A thrower aims to hit an opponent inside the circle with the ball; a direct hit eliminates that player, who leaves the circle (Wikipedia, n.d.). If a player inside the circle catches a thrown ball before it touches the ground, the thrower is out instead and the catcher becomes a thrower outside the circle (Wikipedia, n.d.). Throws that leave the playing area are collected by the outside team, and play continues until only one player remains inside the circle, who wins the round; the teams then swap roles (Wikipedia, n.d.). There is no formal international federation — the game is governed by local house rules, closely related to the organized dodgeball rules of the World Dodgeball Federation, and in Brazil the variant is known as queimada/queimado, with circle versions played in physical education classes (Wikipedia, n.d.). Casual games are mixed, with girls and boys and women and men playing together (Wikipedia, n.d.).
@@ -25,3 +27,4 @@ Queimada — "burnt" — is the classic Brazilian schoolyard dodgeball variant, 
 ## Important Links
 
 - [Dodgeball](dodgeball.html) on this site — the organized team sport roque/queimada belongs to
+- Related on this site: [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html) and [World Chase Tag](world-chase-tag.html) — the tag and chase team games

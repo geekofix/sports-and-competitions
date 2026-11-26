@@ -6,6 +6,8 @@ Supermoto is motorcycle racing on mixed-surface circuits that combine asphalt se
 
 *Figure: Heliwasp. (2005, November 14). Supermoto2012 — a supermoto rider [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Supermoto2012.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motocross](motocross.html), [Superbike](superbike.html), [Motorcycle Racing](motorcycle-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The S1GP machine is a 450 cc single-cylinder four-stroke (about 60 hp) on a motocross chassis with 17-inch wheels, road-racing slicks, long-travel suspension lowered for asphalt and a large front disc brake (Wikipedia, n.d.-a). Circuits mix paved and dirt sections with at least one jump; a race weekend runs a timed Superpole qualifying plus two short main races of roughly 15–20 minutes, scored with championship points on a descending scale (FIM, n.d.). Since 2006 all riders use one nominated tire brand (mono-tyre) to control costs, and since 2010 only the single S1 class is contested at world level — the S2 class ran from 2004 to 2009 and no championship was held in 2018 (Wikipedia, n.d.-b). Protective gear is full motocross kit; men's and women's riders race under identical technical and sporting rules (FIM, n.d.).
@@ -28,4 +30,4 @@ Gavin Trippe's Superbikers at Carlsbad (1979–1985) proved the mixed-surface co
 
 - [S1GP Supermoto World Championship — official site](https://www.supermotos1gp.com/) — FIM S1GP calendar, results, standings
 - [FIM](https://www.fim-moto.com/) — world governing body; S1GP and SuperMoto of Nations
-- [Motocross](motocross.html), [Superbike](superbike.html) and [Motorcycle racing](motorcycle-racing.html) on this site — the other two-wheeled disciplines
+- Related on this site: [Motocross](motocross.html), [Superbike](superbike.html), [Motorcycle Racing](motorcycle-racing.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html) and [Karting](karting.html) — the motorsport and racing disciplines

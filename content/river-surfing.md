@@ -6,6 +6,8 @@ River surfing is the sport of riding waves in rivers — stationary standing wav
 
 *Figure: Martin Falbisoner. (2014, April 12). Eisbach Surfer3 — river surfer on the standing wave of the Eisbach, Munich [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Eisbach_Surfer3.JPG*
 
+ Within the board and water sports family on this site, its closest relatives are [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [Surf Lifesaving](surf-lifesaving.html); the related pages are listed under Important Links.
+
 ## Rules
 
 River surfing has no single worldwide rulebook; it is organized locally around individual waves, while competitive surfing is governed by the ISA, whose judging scale (0–10 per wave, best waves count) and contest formats — man-on-man heats, maneuver criteria, time limits — are also used at river wave contests (ISA, n.d.). Safety rules at the classic river spots are strict: a leash is mandatory on the Eisbach — a 33-year-old surfer drowned there in April 2025 after getting tangled — a helmet is recommended, and the local etiquette gives the right of way to the surfer closest to the wave's peak, while dropping in on another rider is an interference (Wikipedia, n.d.-a). At the Eisbach only one surfer rides the main wave at a time and others queue on the riverbank; the smaller E2 wave downstream, the Floßlände and the Isar at Wittelsbacherbrücke during floods serve as alternative lines (Wikipedia, n.d.-a). A related river discipline is boatercross, where paddlers race head-to-head down a rapid course, which is run under canoeing federation rules rather than surfing rules (ISA, n.d.). Both women and men compete in river surfing contests, with mixed and women's categories at larger events (ISA, n.d.).
@@ -27,7 +29,7 @@ Claims of surfing a tidal bore date back to 1955 on the Severn in England, but d
 ## Important Links
 
 - [International Surfing Association (ISA)](https://www.isasurf.org/) — world governing body of surfing and the World Surfing Games
-- [Surfing](surfing.html) on this site — ocean wave riding, the parent discipline
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand
 - [Kayaking](kayaking.html) on this site — paddling on rivers, including boatercross
 - [Canoeing](canoeing.html) on this site — the broader paddle sport family
 - [Open Water Swimming](open-water-swimming.html) on this site — swimming in rivers and lakes

@@ -12,6 +12,8 @@ On the women's side, Natasha Sagardia of Puerto Rico is the most successful fema
 
 *Figure: El Coleccionista de Instantes Fotografía & Video. (2010, December 22). El Frontón 2010 — Bodyboard — Gáldar — Gran Canaria (5282879845) [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:El_Front%C3%B3n_2010_-_Bodyboard_-_G%C3%A1ldar_-_Gran_Canaria._%285282879845%29.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Surfing](surfing.html), [Bodysurfing](bodysurfing.html), [Wakesurfing](wakesurfing.html), [Kitesurfing](kitesurfing.html), [Skimboarding](skimboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In competition, each heat lasts 20–30 minutes; riders are judged on the best waves (usually a maximum of 10 counting waves, best 5 or 6 scored) on a 0–10 scale per wave based on difficulty, maneuvers, speed, power and flow, with aerial maneuvers (air reverses, rolls, spins) scoring highest (ISA, n.d.-a). Riders must catch the wave in the take-off zone and ride it to the closeout; wipeouts and interference penalties reduce scores. Equipment rules fix board length, core and shape, and riders must wear fins; leashes are mandatory. Men's and women's events use identical judging criteria and heat formats; junior (U18) and masters divisions use shorter heats (ISA, n.d.-b).
@@ -34,4 +36,4 @@ Bodyboarding was invented in 1971 by Tom Morey in Hawaii, who created the "Boogi
 
 - [International Surfing Association (ISA)](https://isasurf.org/) — world governing body for surfing and bodyboarding; World Bodyboard Championship
 - [ISA World Surfing Games 2026](https://isasurf.org/) — Surf City El Salvador, LA28 qualifier
-- [Surfing](surfing.html), [Bodysurfing](bodysurfing.html), [Wakesurfing](wakesurfing.html) and [Kitesurfing](kitesurfing.html) on this site
+- Related on this site: [Surfing](surfing.html), [Bodysurfing](bodysurfing.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand

@@ -6,6 +6,8 @@ Moto2 is the intermediate class of Grand Prix [motorcycle racing](motorcycle-rac
 
 *Figure: Box Repsol. (2019, April 28). Izan Guevara — Izan Guevara at Valencia 2019 [Photograph]. Wikimedia Commons. CC BY 2.0. https://commons.wikimedia.org/wiki/File:Izan_Guevara.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motorcycle Racing](motorcycle-racing.html), [MotoGP](motogp.html), [Moto3](moto3.html), [Superbike](superbike.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FIM Technical Regulations, every Moto2 machine must use the spec Triumph 765 cc engine and the spec ECU, and since 2024 all riders use Pirelli tires; only the chassis, suspension, bodywork and some engine peripherals are free (FIM, n.d.-b). The combined minimum weight of bike and rider is 217 kg, each rider is allocated a set number of front and rear tires per race weekend (eight front and nine rear) and may use no more than seven engines across the season; breaching these limits brings penalties from grid demotion to disqualification (FIM, n.d.-b). Races run over a set distance shorter than the premier class, are scored on the standard Grand Prix points scale (25-20-16-13-11-10-9-8-7-6-5-4-3-2-1), and the rider with the most points at the end of the season is world champion. There is no separate women's class — women and men race together under identical technical rules (FIM, n.d.-a).
@@ -30,6 +32,4 @@ The quarter-litre class was part of the Grand Prix motorcycle racing world champ
 
 - [MotoGP.com — official Moto2 championship](https://www.motogp.com/) — world governing series; standings, results and 2026 calendar
 - [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — technical regulations for all Grand Prix classes
-- [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella sport
-- [MotoGP](motogp.html) and [Moto3](moto3.html) on this site — the premier and lightweight classes
-- [Superbike](superbike.html) on this site — production-based world championship
+- Related on this site: [Motorcycle Racing](motorcycle-racing.html), [MotoGP](motogp.html), [Moto3](moto3.html), [Superbike](superbike.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html) and [Demolition Derby](demolition-derby.html) — the motorsport and racing disciplines

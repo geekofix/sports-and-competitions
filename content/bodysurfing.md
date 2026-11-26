@@ -8,6 +8,8 @@ The women's side is well represented: the Pipeline Bodysurfing Classic and the O
 
 *Figure: Aquajedi (photo: Rachel Newton-Joyce). (2013, October 28). Bodysurfer Travis Overley on a wave at Pipeline [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Bodysurfer_Travis_Overley_at_Pipeline_by_Rachel_Newton.jpg*
 
+ Within the board and water sports family on this site, its closest relatives are [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Wakesurfing](wakesurfing.html), [Kitesurfing](kitesurfing.html), [Skimboarding](skimboarding.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Bodysurfing contests are judged on the best waves of a heat (typically 20–30 minutes, best 3–5 waves scored on a 0–10 scale per wave for speed, power, control, and maneuvers such as rolls, spins and aerials); riders must wear fins, and handplanes may be used in some divisions. The take-off zone at Pipeline is strictly defined, and priority rules govern who has right of way on a wave (ISA, n.d.-a). Equipment rules limit fin size and prohibit boards in pure bodysurfing divisions; wetsuits are standard in cold water. Men's and women's events use identical judging criteria, heat lengths and wave limits (ISA, n.d.-b).
@@ -29,4 +31,4 @@ Bodysurfing predates boardsurfing by millennia — Polynesian watermen rode wave
 
 - [International Surfing Association (ISA)](https://isasurf.org/) — governs bodysurfing together with surfing; world events
 - [Pipeline Bodysurfing Classic](https://isasurf.org/) — annual contest at Banzai Pipeline, Oahu, since 1971
-- [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Wakesurfing](wakesurfing.html) and [Kitesurfing](kitesurfing.html) on this site
+- Related on this site: [Surfing](surfing.html), [Bodyboarding](bodyboarding.html), [Skimboarding](skimboarding.html), [River Surfing](river-surfing.html), [Surf Lifesaving](surf-lifesaving.html), [Kitesurfing](kitesurfing.html), [Windsurfing](windsurfing.html), [Wing Foiling](wing-foiling.html), [Kite Foil](kite-foil.html), [Kite Buggying](kite-buggying.html), [Land Sailing](land-sailing.html), [Wakesurfing](wakesurfing.html), [Wakeboarding](wakeboarding.html), [Wakeskating](wakeskating.html), [Cable Wakeboarding](cable-wakeboarding.html), [Water Skiing](water-skiing.html), [Water Ski Slalom](water-ski-slalom.html), [Barefoot Water Skiing](barefoot-water-skiing.html), [Jet Ski Racing](jet-ski-racing.html), [Stand Up Paddleboarding](stand-up-paddleboarding.html), [Powerboat Racing](powerboat-racing.html) and [Sandboarding](sandboarding.html) — the board and tow water sports + sand

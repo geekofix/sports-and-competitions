@@ -6,6 +6,8 @@ Beach sprint rowing (coastal sprint) is a race in which a solo rower sprints abo
 
 *Figure: Genta, M. V. (2019, March 21). Argentine coastal rowing medallists and teams at the 2019 South American Beach Games, Rosario [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Coastal_rowing_Medallists_and_teams_ROS19_21-03-2019_%2801%29.jpg*
 
+ Within the paddling, rowing and sailing family on this site, its closest relatives are [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html); the related pages are listed under Important Links.
+
 ## Rules
 
 In a beach sprint race the athlete runs from a start line on the beach into the water, boards a self-bailing fixed-seat coastal rowing boat, sculls out to sea, rounds a buoy or buoys, returns to the shore and runs to the finish line; the whole course is roughly 500 m and the fastest solos finish in about two to three minutes (World Rowing, n.d.-b). Events are staged as heats and finals in categories including men's solo, women's solo, mixed double and the mixed coxed quadruple sculls (four rowers plus coxswain) over a longer out-and-back course; the three solo and mixed double events will debut at the Los Angeles 2028 Olympics. The boats are shorter and wider than flat-water shells, with a fixed seat, and racing is against the clock with no lanes. Men's and women's solos race the identical course and distance; youth and junior categories use shorter courses (World Rowing, n.d.-a).
@@ -29,4 +31,4 @@ Coastal rowing has deep roots in the surfboat and gig-racing traditions of Austr
 - [World Rowing](https://worldrowing.com/) — world governing body; Beach Sprint Finals and Coastal Championships
 - [World Rowing Beach Sprint Finals 2026](https://worldrowing.com/event/beach-sprint-finals-2026/) — Qingdao, China, October 18–21, 2026
 - [Olympics.com — rowing](https://www.olympics.com/en/sports/rowing/) — coastal rowing debuts at Los Angeles 2028
-- [Rowing](rowing.html) and [Coastal rowing](coastal-rowing.html) on this site
+- Related on this site: [Canoeing](canoeing.html), [Canoe Sprint](canoe-sprint.html), [Canoe Slalom](canoe-slalom.html), [Kayak Cross](kayak-cross.html), [Canoe Marathon](canoe-marathon.html), [Canoe Ocean Racing](canoe-ocean-racing.html), [Canoe Polo](canoe-polo.html), [Canoe Freestyle](canoe-freestyle.html), [Wildwater Canoeing](wildwater-canoeing.html), [Outrigger Canoeing](outrigger-canoeing.html), [Dragon Boat Racing](dragon-boat-racing.html), [Snake Boat Racing](snake-boat-racing.html), [Paracanoe](paracanoe.html), [Rowing](rowing.html), [Coastal Rowing](coastal-rowing.html), [Indoor Rowing](indoor-rowing.html), [Para Rowing](para-rowing.html), [Sailing](sailing.html), [Kayaking](kayaking.html) and [Rafting](rafting.html) — the paddling, rowing and sailing sports

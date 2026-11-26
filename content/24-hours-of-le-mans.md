@@ -12,6 +12,8 @@ The most recent edition, held on 13–14 June 2026, was won by the No. 7 Toyota 
 
 *Figure: Decherf, K. (2024, June 12). The Iron Dames Lamborghini Huracan LMGT3 Evo2 of drivers S. Bovy, M. Gatting and R. Frey at the 2024 24 Hours of Le Mans [Photograph]. Via Flickr, Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:Iron_Dames_-_Lamborghini_Huracan_LMGT3_Evo2_-85_(53814566497).jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html); the related pages are listed under Important Links.
+
 ## Rules
 
 The race runs for exactly 24 hours from a Saturday afternoon start; the winner is the car that covers the greatest distance, and every class has its own winner as well (Automobile Club de l'Ouest [ACO], 2025). Entries compete in three classes: the top Hypercar class for Le Mans Hypercar (LMH) and Le Mans Daytona h (LMDh) prototypes, the pro-am LMP2 prototype class, and the GT-based LMGT3 class, which replaced the former LMGTE category in 2024 (ACO, 2025; FIA WEC, n.d.-a).
@@ -57,3 +59,4 @@ The manufacturer eras came in waves: Bentley and Alfa Romeo dominated the interw
 - [FIA WEC — current standings](https://www.fiawec.com/en/page/manufacturers-classification) — Hypercar drivers' and manufacturers' championship standings
 - [European Le Mans Series](https://www.europeanlemansseries.com/) — ACO continental endurance series in Europe
 - [FIA — Fédération Internationale de l'Automobile](https://www.fia.com/) — world motorsport federation
+- Related on this site: [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html), [Sprint Car Racing](sprint-car-racing.html), [Superkart](superkart.html) and [Monster Truck Racing](monster-truck-racing.html) — the motorsport and racing disciplines

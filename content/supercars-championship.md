@@ -6,6 +6,8 @@ The Supercars Championship is Australia's premier touring car series, contested 
 
 *Figure: Eva Rinaldi. (2014, October 23). V8 SUPERCAR CHAMPIONSHIP BATHURST (15428704498) — Team BOC V8 Supercar at the Gold Coast round [Photograph]. Wikimedia Commons. CC BY-SA 2.0. https://commons.wikimedia.org/wiki/File:V8_SUPERCAR_CHAMPIONSHIP_BATHURST_(15428704498).jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motocross](motocross.html), [Enduro](enduro.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Gen3 cars — Ford Mustang, Chevrolet Camry (and from 2026 Toyota Camry) — use 5.2-litre Chevrolet or 5.0-litre Ford V8 engines with rear-wheel drive, a six-speed transaxle and identical aerodynamic and suspension packages to ensure parity (Supercars, n.d.; Wikipedia, n.d.-a). A season mixes sprint races of roughly 120–250 km and the 1000 km Bathurst enduro, scored on a descending points scale, with co-drivers mandatory at endurance rounds; since 2025 the points decide three titles — overall drivers', Sprint Cup and Enduro Cup — culminating in the Finals Series (Supercars, n.d.). Safety cars, full-course yellows, tire and fuel rules and a Superlicense points system for eligibility govern race control (Wikipedia, n.d.-a). The championship is open to all genders; women compete in the main series and its support categories on identical machinery and rules (Wikipedia, n.d.-c).
@@ -29,4 +31,4 @@ The Australian Touring Car Championship began in 1960, and the Armstrong 500 at 
 
 - [Supercars Championship — official site](https://www.supercars.com/) — calendar, results, standings, Bathurst 1000
 - [Bathurst 1000](https://www.supercars.com/) — the Great Race at Mount Panorama
-- [Motocross](motocross.html) and [Enduro](enduro.html) on this site — other Australian motorsport disciplines
+- Related on this site: [Motocross](motocross.html), [Enduro](enduro.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html), [Demolition Derby](demolition-derby.html), [Karting](karting.html), [Midget Car Racing](midget-car-racing.html) and [Sprint Car Racing](sprint-car-racing.html) — the motorsport and racing disciplines

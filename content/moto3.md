@@ -6,6 +6,8 @@ Moto3 is the lightweight class of Grand Prix [motorcycle racing](motorcycle-raci
 
 *Figure: TeamEG00. (2026, July 13). Moto3 podium at the 2026 German motorcycle Grand Prix — including 2026 world champion Máximo Quiles [Photograph]. Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Moto3_podium_at_the_2026_German_motorcycle_Grand_Prix.jpg*
 
+ Within the motorsport family on this site, its closest relatives are [Motorcycle Racing](motorcycle-racing.html), [MotoGP](motogp.html), [Moto2](moto2.html), [Superbike](superbike.html), [Formula One](formula-one.html); the related pages are listed under Important Links.
+
 ## Rules
 
 Under the FIM Technical Regulations, a Moto3 machine must be a single-cylinder four-stroke engine of at most 250 cc with a bore no greater than 81 mm; the minimum weight of the motorcycle plus rider is 152 kg at world championship level and 148 kg in the JuniorGP; since 2024 Pirelli supplies spec tires for the class (FIM, n.d.-b). Races are shorter than in the larger classes and are scored on the standard Grand Prix points scale (25-20-16-13-11-10-9-8-7-6-5-4-3-2-1); the rider with the most points after the season is world champion. The class is open to all riders — there is no separate women's or men's category, and the technical rules are identical for women and men (FIM, n.d.-a).
@@ -30,6 +32,4 @@ The 125cc class was part of the Grand Prix motorcycle racing world championship 
 
 - [MotoGP.com — official Moto3 championship](https://www.motogp.com/) — world series standings, results and 2026 calendar
 - [FIM — Fédération Internationale de Motocyclisme](https://www.fim-moto.com/) — technical regulations for all Grand Prix classes
-- [Motorcycle racing](motorcycle-racing.html) on this site — the umbrella sport
-- [MotoGP](motogp.html) and [Moto2](moto2.html) on this site — the premier and intermediate classes
-- [Superbike](superbike.html) on this site — production-based world championship
+- Related on this site: [Motorcycle Racing](motorcycle-racing.html), [MotoGP](motogp.html), [Moto2](moto2.html), [Superbike](superbike.html), [Formula One](formula-one.html), [Formula 2](formula-2.html), [Formula 3](formula-3.html), [Formula E](formula-e.html), [Indycar Series](indycar-series.html), [NASCAR](nascar.html), [Dtm](dtm.html), [Supercars Championship](supercars-championship.html), [World Rally Championship](world-rally-championship.html), [Dakar Rally](dakar-rally.html), [Baja 1000](baja-1000.html), [24 Hours Of Le Mans](24-hours-of-le-mans.html), [World Endurance Championship](world-endurance-championship.html), [Rallycross](rallycross.html), [Autocross](autocross.html), [Hillclimbing](hillclimbing.html), [Drag Racing](drag-racing.html), [Top Fuel Drag Racing](top-fuel-drag-racing.html), [Stock Car Racing](stock-car-racing.html) and [Demolition Derby](demolition-derby.html) — the motorsport and racing disciplines
