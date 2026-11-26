@@ -12,7 +12,7 @@ Among the athletes who shape the sport today, the women come first: the Netherla
 
 *Figure: Arnold, P. (2026, August 27). Armand Duplantis in an interview after winning the men's pole vault at Weltklasse Zürich 2026 with a meeting-record 6.25 m [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Armand_Duplantis_DSC02363.jpg*
 
- The individual disciplines of athletics each have their own page on this site — the sprints, middle and long distances, hurdles, steeplechase, relays, road races and race walking, the four jumps, the four throws, the combined events, cross country, trail and specialist running, and the Para disciplines — all listed under Important Links.
+ The individual disciplines of athletics each have their own page on this site — the sprints, middle and long distances, hurdles, steeplechase, relays, road races and race walking, the four jumps, the four throws, the combined events, cross country, trail and specialist running, and the Para disciplines — e.g. [100m Sprint](100m-sprint.html), [Marathon](marathon.html), [High Jump](high-jump.html), [Shot Put](shot-put.html), [Decathlon](decathlon.html), [Cross Country Running](cross-country-running.html) and [Para Athletics](para-athletics.html) — all listed under Important Links.
 
 ## Rules
 
