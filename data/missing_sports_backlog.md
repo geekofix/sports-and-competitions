@@ -14,52 +14,7 @@ How to work through it:
 - Each group notes the matching group in `data/related_groups.md` (in backticks) so the new entry
   can be cross-linked later; NEW group keys are proposals to add to `data/related_groups.md`.
 - Ethics: never add anything from the exclusion list at the bottom (README policy).
-- Groups 1-3 were processed on 2026-11-26 (43 entries added); groups 4-6 on 2026-11-26 (40 entries added; 'Mongolian Wrestling' dropped as duplicate of the existing `bokh` entry). Their sections were removed.
-
-## Group 7 — Missing martial arts & combat styles (`combat-sports`)
-
-- Kun Khmer — Cambodian kickboxing
-- Bando — Burmese bare-knuckle martial art, world championships
-- Dumog — Filipino grappling
-- Kuntao — Southeast Asian hand combat (Indonesia/Philippines)
-- Larnis — Filipino blade art (subset of Arnis)
-- Pekiti Tirsia — Filipino knife fighting, IPMAF
-- Arnis de Mano — Filipino empty-hand subset
-- Latigo y Cadena — Filipino flail/chain art
-- Bartitsu — Victorian English self-defence (Barton-Wright, 1899)
-- Ninjutsu — Japanese ninja arts
-- Chin Lone — Myanmar bare-knuckle fighting
-- Slap Fighting — consent-based professional slap contests
-
-## Group 8 — Traditional wrestling styles (`combat-sports`)
-
-- Kuresh — Tatar/Kazakh/Turkish belt wrestling
-- Kokh — Armenian wrestling, world championships
-- Guresh — Azerbaijani wrestling
-- Cornish Wrestling — Cornwall, England
-- Cumberland & Westmorland Wrestling — Lake District, England
-- Lancashire Wrestling — England
-- Dorset Wrestling — England
-
-## Group 9 — Historic & indigenous ball games (`football-soccer-variants`, `pelota-wall-games`, `folk-festival-games`, `multi-sport-events`)
-
-- La Soule — medieval Norman mass football game, France
-- Cnapan — Welsh mass ball game, Narberth
-- Chaza — Colombian spear-throwing game (Guambiano), World Indigenous Games
-- Pelota Mixteca — Mexican handball variant
-- Pelota Tarasca — Tarascan handball, Mexico
-- Juego del Palo — Canary Islands stick game
-- Chajledab — Mexican javelin-like game
-- Pitz — Maya ballgame variant
-- Xikunahati — indigenous footrace, Brazil (World Indigenous Games 2015)
-- Corrida de Tora — log race, World Indigenous Games
-- Rustic Race — indigenous long-distance run
-- World Indigenous Games — multi-sport event (2015 Brazil, 2017 Canada)
-
-## Group 10 — Highland Games festivals (`folk-festival-games`)
-
-- Braemar Gathering — Scottish Highland Games since 1832
-- Cowal Games — Dunoon, largest Highland Games since 1894
+- Groups 1-3 were processed on 2026-11-26 (43 entries added); groups 4-6 on 2026-11-26 (40 entries added; 'Mongolian Wrestling' dropped as duplicate of the existing `bokh` entry); groups 7-10 on 2026-11-26 (32 entries added with full content, images and cross-links). Their sections were removed.
 
 ## Group 11 — Basque rural sports (Herri Kirolak) (NEW `basque-rural-sports` (rel. `strength-sports`, `folk-festival-games`))
 

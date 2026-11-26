@@ -4,7 +4,7 @@ Working list for later cross-linking passes (owner request 2026-11-25): each gro
 sports/disciplines that are closely related (same family, shared history or derivation).
 When a group is worked on, add cross-references in the texts of its members (Important Links
 "... on this site" entries and in-text mentions), e.g. the boules family or the athletics
-disciplines. Slugs were validated against data/sports.csv (998 entries since 2026-11-26).
+disciplines. Slugs were validated against data/sports.csv (1030 entries since 2026-11-26).
 
 Cross-cutting group: `para-sports` (its members also appear in their base-sport groups).
 
@@ -24,7 +24,7 @@ Ten-pin, nine-pin and the North American duckpin/candlepin variants.
 
 Association football and its small-sided, surface and format variants, incl. disability football and historic forms.
 
-`football`, `five-a-side-football`, `six-man-football`, `seven-a-side-football`, `indoor-soccer`, `beach-soccer`, `futsal`, `swamp-soccer`, `fire-ball-soccer`, `walking-football`, `amputee-football`, `blind-football`, `cerebral-palsy-football`, `powerchair-football`, `royal-shrovetide-football`, `calcio-fiorentino`, `cuju`
+`football`, `five-a-side-football`, `six-man-football`, `seven-a-side-football`, `indoor-soccer`, `beach-soccer`, `futsal`, `swamp-soccer`, `fire-ball-soccer`, `walking-football`, `amputee-football`, `blind-football`, `cerebral-palsy-football`, `powerchair-football`, `royal-shrovetide-football`, `calcio-fiorentino`, `cuju`, `la-soule`, `cnapan`
 
 ## Other football codes (American, Canadian, Australian, Gaelic) (`football-codes`)
 
@@ -48,7 +48,7 @@ Tennis and its ancestors/descendants plus the other net racket sports, incl. par
 
 Handball and racket games played against a wall or in a court, from Basque pelota to American handball, plus the ancient hip-ball games.
 
-`basque-pelota`, `balle-pelote`, `frontenis`, `jeu-provencal`, `longue-paume`, `pelota-purepecha`, `valencian-pilota`, `jai-alai`, `volata`, `xare`, `american-handball`, `welsh-handball`, `gaelic-handball`, `mesoamerican-ballgame`, `ulama`, `paddleball`, `matkot`
+`basque-pelota`, `balle-pelote`, `frontenis`, `jeu-provencal`, `longue-paume`, `pelota-purepecha`, `valencian-pilota`, `jai-alai`, `volata`, `xare`, `american-handball`, `welsh-handball`, `gaelic-handball`, `mesoamerican-ballgame`, `ulama`, `paddleball`, `matkot`, `pelota-mixteca`, `pelota-tarasca`, `juego-del-palo`, `pitz`
 
 ## Athletics (track & field, road, race walking, cross country) disciplines (`athletics-disciplines`)
 
@@ -67,6 +67,7 @@ Pool and open-water swimming disciplines, diving, team and underwater sports; pa
 All FIG disciplines incl. apparatus events, plus cheerleading, breaking and dancesport as judged performance sports.
 
 `gymnastics`, `artistic-gymnastics`, `gymnastics-floor-exercise`, `gymnastics-pommel-horse`, `gymnastics-rings`, `gymnastics-vault`, `gymnastics-parallel-bars`, `gymnastics-horizontal-bar`, `gymnastics-uneven-bars`, `gymnastics-balance-beam`, `rhythmic-gymnastics`, `acrobatic-gymnastics`, `aerobic-gymnastics`, `trampoline`, `trampoline-gymnastics`, `double-mini-trampoline`, `synchronized-trampoline`, `tumbling`, `wheel-gymnastics`, `equestrian-vaulting`, `cheerleading`, `breaking`, `dancesport`, `calisthenics`, `street-workout`, `mallakhamb`
+
 ## Cycling (road, track, mountain, BMX, artistic) (`cycling`)
 
 All UCI disciplines and events incl. para cycling; motorcycle speedway is in motorsport, cycle speedway here.
@@ -101,12 +102,14 @@ All ice-channel sliding disciplines incl. doubles luge, monobob, natural track l
 
 All ISSF shooting events, archery disciplines, darts and throwing sports; para shooting/archery cross-link here.
 
-`shooting`, `10m-air-pistol-shooting`, `10m-air-rifle-shooting`, `25m-pistol-shooting`, `25m-rapid-fire-pistol-shooting`, `50m-pistol-shooting`, `50m-rifle-3-positions-shooting`, `50m-rifle-prone-shooting`, `skeet-shooting`, `trap-shooting`, `double-trap-shooting`, `practical-shooting-ipsc`, `bat-and-trap`, `archery`, `recurve-archery`, `barebow-archery`, `compound-archery`, `target-archery`, `field-archery`, `3d-archery`, `mounted-archery`, `run-archery`, `para-archery`, `para-shooting`, `darts`, `axe-throwing`, `knife-throwing`, `tomahawk-throwing`, `boomerang-throwing`, `laser-tag`, `pea-shooting`, `underwater-target-shooting`, `dhanurveda`
+`shooting`, `10m-air-pistol-shooting`, `10m-air-rifle-shooting`, `25m-pistol-shooting`, `25m-rapid-fire-pistol-shooting`, `50m-pistol-shooting`, `50m-rifle-3-positions-shooting`, `50m-rifle-prone-shooting`, `skeet-shooting`, `trap-shooting`, `double-trap-shooting`, `practical-shooting-ipsc`, `bat-and-trap`, `archery`, `recurve-archery`, `barebow-archery`, `compound-archery`, `target-archery`, `field-archery`, `3d-archery`, `mounted-archery`, `run-archery`, `para-archery`, `para-shooting`, `darts`, `axe-throwing`, `knife-throwing`, `tomahawk-throwing`, `boomerang-throwing`, `laser-tag`, `pea-shooting`, `underwater-target-shooting`, `dhanurveda`, `chaza`, `chajledab`
+
 ## Combat sports and martial arts (`combat-sports`)
 
 All striking, grappling and weapon martial arts plus grip-strength contests; para judo/taekwondo cross-link here.
 
-`boxing`, `bare-knuckle-boxing`, `kickboxing`, `muay-thai`, `muay-boran`, `lethwei`, `bokator`, `pankration`, `judo`, `para-judo`, `taekwondo`, `taekwondo-wt`, `taekwondo-itf`, `para-taekwondo`, `karate`, `karate-kata`, `karate-kumite`, `shotokan-karate`, `goju-ryu-karate`, `shito-ryu-karate`, `kyokushin-karate`, `wado-ryu-karate`, `aikido`, `hapkido`, `brazilian-jiu-jitsu`, `no-gi-jiu-jitsu`, `combat-ju-jitsu`, `sambo`, `combat-sambo`, `wrestling`, `freestyle-wrestling`, `greco-roman-wrestling`, `catch-wrestling`, `beach-wrestling`, `sumo`, `ssireum`, `shuai-jiao`, `kushti`, `kurash`, `khapsagay`, `bokh`, `glima`, `gouren`, `backhold-wrestling`, `oil-wrestling`, `belt-wrestling`, `belt-wrestling-alysh`, `mas-wrestling`, `lucha-leonesa`, `luta-livre`, `canarian-wrestling`, `dahi-handi`, `pradal-serey`, `schwingen`, `coreeda`, `lelo-burti`, `carjitsu`, `palin`, `vovinam`, `kyz-kuu`, `pencak-silat`, `pencak-silat-seni`, `pencak-silat-tanding`, `silambam`, `krabi-krabong`, `kalaripayattu`, `gatka`, `capoeira`, `savate`, `krav-maga`, `systema`, `eskrima`, `thang-ta`, `taekkyeon`, `tang-soo-do`, `tai-chi-chuan`, `wing-chun`, `varzesh-e-bastani`, `buhurt`, `hema`, `hema-longsword`, `hema-rapier`, `kendo`, `iaido`, `jodo`, `kenjutsu`, `kyudo`, `naginata`, `kobudo`, `wushu-sanda`, `wushu-taolu`, `haidong-gumdo`, `chess-boxing`, `arm-wrestling`, `face-slapping`, `shin-kicking`, `toe-wrestling`, `laamb`, `kokawa`, `dambe`, `evala`, `nguni-stick-fighting`, `tahtib`
+`boxing`, `bare-knuckle-boxing`, `kickboxing`, `muay-thai`, `muay-boran`, `lethwei`, `bokator`, `pankration`, `judo`, `para-judo`, `taekwondo`, `taekwondo-wt`, `taekwondo-itf`, `para-taekwondo`, `karate`, `karate-kata`, `karate-kumite`, `shotokan-karate`, `goju-ryu-karate`, `shito-ryu-karate`, `kyokushin-karate`, `wado-ryu-karate`, `aikido`, `hapkido`, `brazilian-jiu-jitsu`, `no-gi-jiu-jitsu`, `combat-ju-jitsu`, `sambo`, `combat-sambo`, `wrestling`, `freestyle-wrestling`, `greco-roman-wrestling`, `catch-wrestling`, `beach-wrestling`, `sumo`, `ssireum`, `shuai-jiao`, `kushti`, `kurash`, `khapsagay`, `bokh`, `glima`, `gouren`, `backhold-wrestling`, `oil-wrestling`, `belt-wrestling`, `belt-wrestling-alysh`, `mas-wrestling`, `lucha-leonesa`, `luta-livre`, `canarian-wrestling`, `dahi-handi`, `pradal-serey`, `schwingen`, `coreeda`, `lelo-burti`, `carjitsu`, `palin`, `vovinam`, `kyz-kuu`, `pencak-silat`, `pencak-silat-seni`, `pencak-silat-tanding`, `silambam`, `krabi-krabong`, `kalaripayattu`, `gatka`, `capoeira`, `savate`, `krav-maga`, `systema`, `eskrima`, `thang-ta`, `taekkyeon`, `tang-soo-do`, `tai-chi-chuan`, `wing-chun`, `varzesh-e-bastani`, `buhurt`, `hema`, `hema-longsword`, `hema-rapier`, `kendo`, `iaido`, `jodo`, `kenjutsu`, `kyudo`, `naginata`, `kobudo`, `wushu-sanda`, `wushu-taolu`, `haidong-gumdo`, `chess-boxing`, `arm-wrestling`, `face-slapping`, `shin-kicking`, `toe-wrestling`, `laamb`, `kokawa`, `dambe`, `evala`, `nguni-stick-fighting`, `tahtib`, `kun-khmer`, `bando`, `dumog`, `kuntao`, `larnis`, `pekiti-tirsia`, `arnis-de-mano`, `latigo-y-cadena`, `bartitsu`, `ninjutsu`, `chin-lone`, `kuresh`, `kokh`, `guresh`, `cornish-wrestling`, `cumberland-westmorland-wrestling`, `lancashire-wrestling`, `dorset-wrestling`
+
 ## Fencing (swords) (`fencing`)
 
 Olympic fencing and its three weapons; wheelchair fencing cross-links via para-sports.
@@ -130,6 +133,7 @@ Basketball, 3x3, beach and wheelchair variants.
 All hockey codes on ice, field, roller and street, plus bandy, floorball and ringette; para/powerchair variants cross-link here.
 
 `ice-hockey`, `field-hockey`, `indoor-field-hockey`, `roller-hockey`, `street-hockey`, `ball-hockey`, `broomball`, `broom-hockey`, `pond-hockey`, `fire-hockey`, `underwater-ice-hockey`, `unicycle-hockey`, `ringette`, `bandy`, `hockey5s`, `floorball`, `rinkball`, `sledge-hockey`, `powerchair-hockey`, `genna`, `sand-hockey`
+
 ## Lacrosse and Gaelic/Celtic stick games (`lacrosse-hurling-family`)
 
 Lacrosse formats plus hurling, camogie, shinty, Cornish hurling and cammag.
@@ -159,6 +163,7 @@ Games combining football, volleyball, tennis and handball elements (footvolley, 
 Kabaddi, kho kho and chase-tag formats.
 
 `kabaddi`, `kho-kho`, `world-chase-tag`, `roque`, `circle-kabaddi`, `langdi`
+
 ## Golf family (`golf-family`)
 
 Stroke play golf and its foot and miniature variants.
@@ -182,11 +187,13 @@ Curling and mixed doubles; wheelchair curling cross-links via para-sports.
 Surfing family, kite/wind sports, wake and water-ski disciplines, SUP, powerboat and sandboarding.
 
 `surfing`, `bodyboarding`, `bodysurfing`, `skimboarding`, `river-surfing`, `surf-lifesaving`, `kitesurfing`, `windsurfing`, `wing-foiling`, `kite-foil`, `kite-buggying`, `land-sailing`, `wakesurfing`, `wakeboarding`, `wakeskating`, `cable-wakeboarding`, `water-skiing`, `water-ski-slalom`, `barefoot-water-skiing`, `jet-ski-racing`, `stand-up-paddleboarding`, `powerboat-racing`, `sandboarding`, `surf-ski`
+
 ## Paddling, rowing and sailing (`canoeing-rowing-sailing`)
 
 Canoe/kayak disciplines, rowing formats, dragon boat and sailing; para canoe/rowing cross-link here.
 
 `canoeing`, `canoe-sprint`, `canoe-slalom`, `kayak-cross`, `canoe-marathon`, `canoe-ocean-racing`, `canoe-polo`, `canoe-freestyle`, `wildwater-canoeing`, `outrigger-canoeing`, `dragon-boat-racing`, `snake-boat-racing`, `paracanoe`, `rowing`, `coastal-rowing`, `beach-sprint-rowing`, `indoor-rowing`, `para-rowing`, `sailing`, `kayaking`, `rafting`, `va-a`, `para-va-a`, `waka-ama`, `freestyle-kayak`, `playboating`, `whitewater-rafting-race`, `hydrospeed`, `riverboarding`
+
 ## Motorsport and racing (`motorsport`)
 
 All four-wheeled and two-wheeled racing series and disciplines incl. rally, rallycross, drifting and demolition derby.
@@ -276,6 +283,7 @@ Juggling, sport stacking and tricking.
 Chess variants, abstract strategy games, card games and word/memory competitions.
 
 `chess`, `go`, `shogi`, `xiangqi`, `janggi`, `makruk`, `draughts`, `backgammon`, `othello`, `carrom`, `mahjong`, `riichi-mahjong`, `scrabble`, `contract-bridge`, `duplicate-bridge`, `texas-hold-em-poker`, `mancala`, `memory-sport`, `speedcubing`, `rock-paper-scissors`, `debate`, `public-speaking`, `spelling-bee`, `poetry-slam`, `excel-world-championship`, `oware`, `kalah`, `bao`, `toguzkumalak`, `sungka`, `congkak`, `omweso`, `dara`, `ayoayo`, `morabaraba`, `dash-guti`, `seega`, `latrones`
+
 ## Esports and tech competitions (`esports-tech`)
 
 E-sports umbrella plus individual game titles with major circuits, and robot fighting.
@@ -292,12 +300,14 @@ All disability-sport variants; most also appear in their base-sport groups above
 
 Events that bundle many sports/disciplines in one festival.
 
-`arctic-sports`, `arctic-winter-games`, `dene-games`, `firefighter-games`, `electrician-games`, `lumberjack-championships`, `wheelbarrow-olympics`, `hemp-olympics`, `finnish-sauna-olympics`, `world-eskimo-indian-olympics`, `world-nomad-games`
+`arctic-sports`, `arctic-winter-games`, `dene-games`, `firefighter-games`, `electrician-games`, `lumberjack-championships`, `wheelbarrow-olympics`, `hemp-olympics`, `finnish-sauna-olympics`, `world-eskimo-indian-olympics`, `world-nomad-games`, `world-indigenous-games`
+
 ## Folk, festival and novelty games (`folk-festival-games`)
 
 Traditional village and festival competitions; no animal-harm formats per the ethics policy.
 
-`cheese-rolling`, `egg-tapping`, `shovel-racing`, `lawn-mower-racing`, `bed-racing`, `outhouse-racing`, `pumpkin-regatta`, `pumpkin-toss`, `wife-carrying`, `worm-charming`, `invisible-dog-show`, `rabbit-hopping`, `rabbit-show-jumping`, `camel-jumping`, `goanna-pulling`, `competitive-eating`, `competitive-sleeping`, `do-nothing-contest`, `crying-baby-festival`, `gurning`, `world-gurning-championships`, `mullet-championships`, `world-porridge-eating-championship`, `world-black-pudding-throwing-championships`, `world-stone-skimming-championships`, `cherry-pit-spitting`, `watermelon-seed-spitting`, `cow-chip-throwing`, `bottle-kicking`, `bubble-gum-blowing`, `extreme-ironing`, `extreme-speed-yodeling`, `pizza-dough-throwing`, `wine-slinging`, `bog-snorkelling`, `mud-snorkeling`, `mud-pit-belly-flop`, `t-rex-racing`, `slippery-stairs`, `canal-vaulting`, `castells`, `coffin-wars`, `dwile-flonking`, `eton-wall-game`, `kirkwall-ba-game`, `hornussen`, `bo-taoshi`, `zorbing`, `turkey-bowling`, `teddy-bear-toss`, `pillow-fighting`, `spogomi`, `knattleikr`, `fierljeppen`, `yukigassen`, `ampe`, `asafo-atwele`, `gidigbo`, `abula`, `langa`, `gilli-danda`, `kancha`, `pithoo`, `gutte`, `seven-stones`, `maram-pitti`, `chindro`, `tipcat`, `ekka-dokka`, `kathi-khela`, `atya-patya`
+`cheese-rolling`, `egg-tapping`, `shovel-racing`, `lawn-mower-racing`, `bed-racing`, `outhouse-racing`, `pumpkin-regatta`, `pumpkin-toss`, `wife-carrying`, `worm-charming`, `invisible-dog-show`, `rabbit-hopping`, `rabbit-show-jumping`, `camel-jumping`, `goanna-pulling`, `competitive-eating`, `competitive-sleeping`, `do-nothing-contest`, `crying-baby-festival`, `gurning`, `world-gurning-championships`, `mullet-championships`, `world-porridge-eating-championship`, `world-black-pudding-throwing-championships`, `world-stone-skimming-championships`, `cherry-pit-spitting`, `watermelon-seed-spitting`, `cow-chip-throwing`, `bottle-kicking`, `bubble-gum-blowing`, `extreme-ironing`, `extreme-speed-yodeling`, `pizza-dough-throwing`, `wine-slinging`, `bog-snorkelling`, `mud-snorkeling`, `mud-pit-belly-flop`, `t-rex-racing`, `slippery-stairs`, `canal-vaulting`, `castells`, `coffin-wars`, `dwile-flonking`, `eton-wall-game`, `kirkwall-ba-game`, `hornussen`, `bo-taoshi`, `zorbing`, `turkey-bowling`, `teddy-bear-toss`, `pillow-fighting`, `spogomi`, `knattleikr`, `fierljeppen`, `yukigassen`, `ampe`, `asafo-atwele`, `gidigbo`, `abula`, `langa`, `gilli-danda`, `kancha`, `pithoo`, `gutte`, `seven-stones`, `maram-pitti`, `chindro`, `tipcat`, `ekka-dokka`, `kathi-khela`, `atya-patya`, `xikunahati`, `corrida-de-tora`, `rustic-race`, `braemar-gathering`, `cowal-games`
+
 ## Arctic & Indigenous North American sports (`arctic-indigenous-sports`)
 
 Inuit and Dene strength, jumping and grip disciplines of the Arctic Winter Games and the World Eskimo Indian Olympics; the WEIO multi-sport event itself is cross-linked in `multi-sport-events`.
