@@ -6,7 +6,7 @@ Open water swimming, also called marathon swimming, is competitive swimming in n
 
 *Figure: Danielle. (2009, June 29). Swimmers ready for start at Randers Open Water 2009, Randers, Denmark [Photograph]. Wikimedia Commons. CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:RandersOpenWater_swimmers.JPG*
 
- Together with [Swimming](swimming.html), this is an open-water discipline — [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html) — and the full aquatics list is under Important Links.
+ Together with [Swimming](swimming.html), this is an open-water discipline, alongside [Marathon Swimming](marathon-swimming.html) and pool [Swimming](swimming.html) — and the full aquatics list is under Important Links.
 
 ## Rules
 

@@ -8,7 +8,7 @@ Among the athletes defining the 2026 season, the women lead: Moesha Johnson of A
 
 *Figure: Cs-wolves. (2018, August 9). Sharon van Rouwendaal of the Netherlands, Olympic 10 km marathon swimming champion 2016 and 2024, racing in the women's 10 km open water at the 2018 European Aquatics Championships [Photograph]. Wikimedia Commons. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Sharon_van_Rouwendaal_-_2018_European_Aquatics_Championships_%28Women%27s_10_km_open_water%29.jpg*
 
- Together with [Swimming](swimming.html), this is an open-water discipline — [Open Water Swimming](open-water-swimming.html), [Marathon Swimming](marathon-swimming.html) — and the full aquatics list is under Important Links.
+ Together with [Swimming](swimming.html), this is an open-water discipline, alongside [Open Water Swimming](open-water-swimming.html) and pool [Swimming](swimming.html) — and the full aquatics list is under Important Links.
 
 ## Rules
 
