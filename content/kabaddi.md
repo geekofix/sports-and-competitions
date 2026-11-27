@@ -33,4 +33,4 @@ Kabaddi's roots reach back to ancient India — the Mahabharata describes the wa
 - [Asian Kabaddi Federation (AKF)](https://asiakabaddi.org/) — continental body; Asian Games 2026 kabaddi in Aichi-Nagoya
 - [Amateur Kabaddi Federation of India (AKFI)](https://www.prokabaddi.com/) — national federation and Pro Kabaddi League
 - [Wrestling](wrestling.html) on this site — see also [Rugby Sevens](rugby-sevens.html) and [Judo](judo.html) on this site
-- Related on this site: [Kho Kho](kho-kho.html), [World Chase Tag](world-chase-tag.html), [Roque](roque.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html)(roque.html) — the tag and chase team games
+- Related on this site: [Kho Kho](kho-kho.html), [World Chase Tag](world-chase-tag.html), [Roque](roque.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html) — the tag and chase team games

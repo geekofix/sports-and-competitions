@@ -31,4 +31,4 @@ Kho kho's origins are traced to the ancient chariot game *rathera*, and the mode
 
 - [International Kho Kho Federation (IKKF)](https://www.khokho.net/) — world governing body; Kho Kho World Cup since 2025
 - [Kho Kho Federation of India (KKFI)](https://khokhofederation.in/) — national federation founded 1955; national championships
-- Related on this site: [Kabaddi](kabaddi.html), [World Chase Tag](world-chase-tag.html), [Roque](roque.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html)(roque.html) — the tag and chase team games
+- Related on this site: [Kabaddi](kabaddi.html), [World Chase Tag](world-chase-tag.html), [Roque](roque.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html) — the tag and chase team games

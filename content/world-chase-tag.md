@@ -34,4 +34,4 @@ Christian Devaux created World Chase Tag in the UK in 2012 after a game of tag w
 - [Parkour](parkour.html) on this site — the movement discipline behind the evaders' style
 - [Obstacle Course Racing](obstacle-course-racing.html) on this site — a related obstacle-format sport
 - [Tag Rugby](tag-rugby.html) on this site — another tag-based team sport
-- Related on this site: [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html), [Roque](roque.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html)(roque.html) — the tag and chase team games
+- Related on this site: [Kabaddi](kabaddi.html), [Kho Kho](kho-kho.html), [Roque](roque.html), [Circle Kabaddi](circle-kabaddi.html) and [Langdi](langdi.html) — the tag and chase team games

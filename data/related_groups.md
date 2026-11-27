@@ -4,7 +4,7 @@ Working list for later cross-linking passes (owner request 2026-11-25): each gro
 sports/disciplines that are closely related (same family, shared history or derivation).
 When a group is worked on, add cross-references in the texts of its members (Important Links
 "... on this site" entries and in-text mentions), e.g. the boules family or the athletics
-disciplines. Slugs were validated against data/sports.csv (1148 entries since 2026-11-26).
+disciplines. Slugs were validated against data/sports.csv (1218 entries since 2026-11-27).
 
 Cross-cutting group: `para-sports` (its members also appear in their base-sport groups).
 
@@ -42,7 +42,7 @@ Rugby union and league, the reduced sevens/tens/nines formats and the non-contac
 
 Tennis and its ancestors/descendants plus the other net racket sports, incl. para and wheelchair variants.
 
-`tennis`, `real-tennis`, `jeu-de-paume`, `rackets`, `squash`, `squash-tennis`, `racquetball`, `hardball-squash`, `table-tennis`, `para-table-tennis`, `badminton`, `para-badminton`, `crossminton`, `pickleball`, `padel`, `platform-tennis`, `paddle-tennis`, `pop-tennis`, `beach-tennis`, `soft-tennis`, `mini-tennis`, `touchtennis`, `racketlon`, `wheelchair-tennis`, `blind-tennis`, `showdown`
+`tennis`, `real-tennis`, `jeu-de-paume`, `rackets`, `squash`, `squash-tennis`, `racquetball`, `hardball-squash`, `table-tennis`, `para-table-tennis`, `badminton`, `para-badminton`, `crossminton`, `pickleball`, `padel`, `platform-tennis`, `paddle-tennis`, `pop-tennis`, `beach-tennis`, `soft-tennis`, `mini-tennis`, `touchtennis`, `racketlon`, `wheelchair-tennis`, `blind-tennis`, `showdown
 
 ## Pelota, wall-ball and ancient ball games (`pelota-wall-games`)
 
@@ -72,13 +72,13 @@ All FIG disciplines incl. apparatus events, plus cheerleading, breaking and danc
 
 All UCI disciplines and events incl. para cycling; motorcycle speedway is in motorsport, cycle speedway here.
 
-`cycling`, `road-cycling`, `road-cycling-time-trial`, `track-cycling`, `track-cycling-elimination-race`, `track-cycling-keirin`, `track-cycling-madison`, `track-cycling-omnium`, `track-cycling-points-race`, `track-cycling-scratch-race`, `track-cycling-team-pursuit`, `track-cycling-team-sprint`, `track-cycling-individual-pursuit`, `track-cycling-individual-sprint`, `track-cycling-500m-time-trial`, `track-cycling-1km-time-trial`, `mountain-biking`, `cross-country-mountain-biking`, `downhill-mountain-biking`, `four-cross-mountain-biking`, `mountain-bike-marathon`, `mountain-bike-trials`, `enduro-mountain-biking`, `bmx-racing`, `bmx-freestyle`, `bmx-freestyle-park`, `cyclo-cross`, `gravel-cycling`, `cycle-speedway`, `cycleball`, `artistic-cycling`, `cyr-wheel`, `bike-trial`, `para-cycling`
+`cycling`, `road-cycling`, `road-cycling-time-trial`, `track-cycling`, `track-cycling-elimination-race`, `track-cycling-keirin`, `track-cycling-madison`, `track-cycling-omnium`, `track-cycling-points-race`, `track-cycling-scratch-race`, `track-cycling-team-pursuit`, `track-cycling-team-sprint`, `track-cycling-individual-pursuit`, `track-cycling-individual-sprint`, `track-cycling-500m-time-trial`, `track-cycling-1km-time-trial`, `mountain-biking`, `cross-country-mountain-biking`, `downhill-mountain-biking`, `four-cross-mountain-biking`, `mountain-bike-marathon`, `mountain-bike-trials`, `enduro-mountain-biking`, `bmx-racing`, `bmx-freestyle`, `bmx-freestyle-park`, `cyclo-cross`, `gravel-cycling`, `cycle-speedway`, `cycleball`, `artistic-cycling`, `cyr-wheel`, `bike-trial`, `para-cycling`, `indoor-cycling`
 
 ## Winter snow sports: skiing and snowboarding disciplines (`winter-skiing-snowboarding`)
 
 All FIS ski and snowboard disciplines incl. telemark, grass skiing, ski mountaineering and the para disciplines; biathlon links here too.
 
-`skiing`, `alpine-skiing-downhill`, `alpine-skiing-giant-slalom`, `alpine-skiing-slalom`, `alpine-skiing-super-g`, `alpine-skiing-combined`, `cross-country-skiing`, `cross-country-skiing-skiathlon`, `cross-country-skiing-sprint`, `freestyle-skiing-aerials`, `freestyle-skiing-big-air`, `freestyle-skiing-dual-moguls`, `freestyle-skiing-halfpipe`, `freestyle-skiing-moguls`, `freestyle-skiing-slopestyle`, `ski-cross`, `nordic-combined`, `ski-jumping`, `ski-flying`, `snowboarding`, `snowboard-big-air`, `snowboard-cross`, `snowboard-halfpipe`, `snowboard-parallel-giant-slalom`, `snowboard-parallel-slalom`, `snowboard-slopestyle`, `telemark-skiing`, `grass-skiing`, `ski-mountaineering`, `roller-skiing`, `ski-archery`, `ski-ballet`, `para-alpine-skiing`, `para-cross-country-skiing`, `para-snowboard`, `biathlon`, `para-biathlon`, `snowshoe-biathlon`
+`skiing`, `alpine-skiing-downhill`, `alpine-skiing-giant-slalom`, `alpine-skiing-slalom`, `alpine-skiing-super-g`, `alpine-skiing-combined`, `cross-country-skiing`, `cross-country-skiing-skiathlon`, `cross-country-skiing-sprint`, `freestyle-skiing-aerials`, `freestyle-skiing-big-air`, `freestyle-skiing-dual-moguls`, `freestyle-skiing-halfpipe`, `freestyle-skiing-moguls`, `freestyle-skiing-slopestyle`, `ski-cross`, `nordic-combined`, `ski-jumping`, `ski-flying`, `snowboarding`, `snowboard-big-air`, `snowboard-cross`, `snowboard-halfpipe`, `snowboard-parallel-giant-slalom`, `snowboard-parallel-slalom`, `snowboard-slopestyle`, `telemark-skiing`, `grass-skiing`, `ski-mountaineering`, `roller-skiing`, `ski-archery`, `ski-ballet`, `para-alpine-skiing`, `para-cross-country-skiing`, `para-snowboard`, `biathlon`, `para-biathlon`, `snowshoe-biathlon`, `speed-skiing`, `skwalk`, `alpine-touring`, `heliskiing`, `monoski`, `sand-skiing`, `snowkiting`
 
 ## Ice skating disciplines (`winter-skating`)
 
@@ -90,7 +90,7 @@ ISU figure skating disciplines (incl. ice dancing, synchronized skating) and spe
 
 Skateboarding disciplines, inline/roller racing, derby, figure skating and freestyle on wheels.
 
-`skateboarding`, `street-skateboarding`, `vert-skateboarding`, `downhill-skateboarding`, `freestyle-skateboarding`, `slalom-skateboarding`, `aggressive-inline-skating`, `inline-speed-skating`, `roller-derby`, `roller-figure-skating`, `roller-freestyle`, `longboarding`, `onewheel-racing`
+`skateboarding`, `street-skateboarding`, `vert-skateboarding`, `downhill-skateboarding`, `freestyle-skateboarding`, `slalom-skateboarding`, `aggressive-inline-skating`, `inline-speed-skating`, `roller-derby`, `roller-figure-skating`, `roller-freestyle`, `longboarding`, `onewheel-racing`, `landboarding`, `mountainboarding`, `dirtboarding`, `kite-landboarding`, `artistic-roller-skating`, `freestyle-slalom-skating`, `road-skating`, `downhill-skating`, `freestyle-scootering`, `kick-scooter-racing`
 
 ## Sliding sports (bobsleigh, luge, skeleton) (`sliding-sports`)
 
@@ -108,7 +108,7 @@ All ISSF shooting events, archery disciplines, darts and throwing sports; para s
 
 All striking, grappling and weapon martial arts plus grip-strength contests; para judo/taekwondo cross-link here.
 
-`boxing`, `bare-knuckle-boxing`, `kickboxing`, `muay-thai`, `muay-boran`, `lethwei`, `bokator`, `pankration`, `judo`, `para-judo`, `taekwondo`, `taekwondo-wt`, `taekwondo-itf`, `para-taekwondo`, `karate`, `karate-kata`, `karate-kumite`, `shotokan-karate`, `goju-ryu-karate`, `shito-ryu-karate`, `kyokushin-karate`, `wado-ryu-karate`, `aikido`, `hapkido`, `brazilian-jiu-jitsu`, `no-gi-jiu-jitsu`, `combat-ju-jitsu`, `sambo`, `combat-sambo`, `wrestling`, `freestyle-wrestling`, `greco-roman-wrestling`, `catch-wrestling`, `beach-wrestling`, `sumo`, `ssireum`, `shuai-jiao`, `kushti`, `kurash`, `khapsagay`, `bokh`, `glima`, `gouren`, `backhold-wrestling`, `oil-wrestling`, `belt-wrestling`, `belt-wrestling-alysh`, `mas-wrestling`, `lucha-leonesa`, `luta-livre`, `canarian-wrestling`, `dahi-handi`, `pradal-serey`, `schwingen`, `coreeda`, `lelo-burti`, `carjitsu`, `palin`, `vovinam`, `kyz-kuu`, `pencak-silat`, `pencak-silat-seni`, `pencak-silat-tanding`, `silambam`, `krabi-krabong`, `kalaripayattu`, `gatka`, `capoeira`, `savate`, `krav-maga`, `systema`, `eskrima`, `thang-ta`, `taekkyeon`, `tang-soo-do`, `tai-chi-chuan`, `wing-chun`, `varzesh-e-bastani`, `buhurt`, `hema`, `hema-longsword`, `hema-rapier`, `kendo`, `iaido`, `jodo`, `kenjutsu`, `kyudo`, `naginata`, `kobudo`, `wushu-sanda`, `wushu-taolu`, `haidong-gumdo`, `chess-boxing`, `arm-wrestling`, `face-slapping`, `shin-kicking`, `toe-wrestling`, `laamb`, `kokawa`, `dambe`, `evala`, `nguni-stick-fighting`, `tahtib`, `kun-khmer`, `bando`, `dumog`, `kuntao`, `larnis`, `pekiti-tirsia`, `arnis-de-mano`, `latigo-y-cadena`, `bartitsu`, `ninjutsu`, `chin-lone`, `kuresh`, `kokh`, `guresh`, `cornish-wrestling`, `cumberland-westmorland-wrestling`, `lancashire-wrestling`, `dorset-wrestling`
+`boxing`, `bare-knuckle-boxing`, `kickboxing`, `muay-thai`, `muay-boran`, `lethwei`, `bokator`, `pankration`, `judo`, `para-judo`, `taekwondo`, `taekwondo-wt`, `taekwondo-itf`, `para-taekwondo`, `karate`, `karate-kata`, `karate-kumite`, `shotokan-karate`, `goju-ryu-karate`, `shito-ryu-karate`, `kyokushin-karate`, `wado-ryu-karate`, `aikido`, `hapkido`, `brazilian-jiu-jitsu`, `no-gi-jiu-jitsu`, `combat-ju-jitsu`, `sambo`, `combat-sambo`, `wrestling`, `freestyle-wrestling`, `greco-roman-wrestling`, `catch-wrestling`, `beach-wrestling`, `sumo`, `ssireum`, `shuai-jiao`, `kushti`, `kurash`, `khapsagay`, `bokh`, `glima`, `gouren`, `backhold-wrestling`, `oil-wrestling`, `belt-wrestling`, `belt-wrestling-alysh`, `mas-wrestling`, `lucha-leonesa`, `luta-livre`, `canarian-wrestling`, `dahi-handi`, `pradal-serey`, `schwingen`, `coreeda`, `lelo-burti`, `carjitsu`, `palin`, `vovinam`, `kyz-kuu`, `pencak-silat`, `pencak-silat-seni`, `pencak-silat-tanding`, `silambam`, `krabi-krabong`, `kalaripayattu`, `gatka`, `capoeira`, `savate`, `krav-maga`, `systema`, `eskrima`, `thang-ta`, `taekkyeon`, `tang-soo-do`, `tai-chi-chuan`, `wing-chun`, `varzesh-e-bastani`, `buhurt`, `hema`, `hema-longsword`, `hema-rapier`, `kendo`, `iaido`, `jodo`, `kenjutsu`, `kyudo`, `naginata`, `kobudo`, `wushu-sanda`, `wushu-taolu`, `haidong-gumdo`, `chess-boxing`, `arm-wrestling`, `face-slapping`, `shin-kicking`, `toe-wrestling`, `laamb`, `kokawa`, `dambe`, `evala`, `nguni-stick-fighting`, `tahtib`, `kun-khmer`, `bando`, `dumog`, `kuntao`, `larnis`, `pekiti-tirsia`, `arnis-de-mano`, `latigo-y-cadena`, `bartitsu`, `ninjutsu`, `chin-lone`, `kuresh`, `kokh`, `guresh`, `cornish-wrestling`, `cumberland-westmorland-wrestling`, `lancashire-wrestling`, `dorset-wrestling`, `para-karate`
 
 ## Fencing (swords) (`fencing`)
 
@@ -192,7 +192,7 @@ Surfing family, kite/wind sports, wake and water-ski disciplines, SUP, powerboat
 
 Canoe/kayak disciplines, rowing formats, dragon boat and sailing; para canoe/rowing cross-link here.
 
-`canoeing`, `canoe-sprint`, `canoe-slalom`, `kayak-cross`, `canoe-marathon`, `canoe-ocean-racing`, `canoe-polo`, `canoe-freestyle`, `wildwater-canoeing`, `outrigger-canoeing`, `dragon-boat-racing`, `snake-boat-racing`, `paracanoe`, `rowing`, `coastal-rowing`, `beach-sprint-rowing`, `indoor-rowing`, `para-rowing`, `sailing`, `kayaking`, `rafting`, `va-a`, `para-va-a`, `waka-ama`, `freestyle-kayak`, `playboating`, `whitewater-rafting-race`, `hydrospeed`, `riverboarding`
+`canoeing`, `canoe-sprint`, `canoe-slalom`, `kayak-cross`, `canoe-marathon`, `canoe-ocean-racing`, `canoe-polo`, `canoe-freestyle`, `wildwater-canoeing`, `outrigger-canoeing`, `dragon-boat-racing`, `snake-boat-racing`, `paracanoe`, `rowing`, `coastal-rowing`, `beach-sprint-rowing`, `indoor-rowing`, `para-rowing`, `sailing`, `kayaking`, `rafting`, `va-a`, `para-va-a`, `waka-ama`, `freestyle-kayak`, `playboating`, `whitewater-rafting-race`, `hydrospeed`, `riverboarding`, `para-canoe-marathon`
 
 ## Motorsport and racing (`motorsport`)
 
@@ -216,13 +216,13 @@ All canine sports from agility to sledding (regulated, trained animals per READM
 
 Rock, ice, competition climbing disciplines, free solo, tree climbing, slacklining/highlining and parkour.
 
-`rock-climbing`, `sport-climbing`, `lead-climbing`, `speed-climbing`, `bouldering`, `ice-climbing`, `mountaineering`, `free-solo-climbing`, `tree-climbing`, `areca-nut-tree-climbing`, `malla-khamba`, `highlining`, `slacklining`, `tricklining`, `parkour`, `parkour-freestyle`, `parkour-speed`, `extreme-mountain-unicycling`
+`rock-climbing`, `sport-climbing`, `lead-climbing`, `speed-climbing`, `bouldering`, `ice-climbing`, `mountaineering`, `free-solo-climbing`, `tree-climbing`, `areca-nut-tree-climbing`, `malla-khamba`, `highlining`, `slacklining`, `tricklining`, `parkour`, `parkour-freestyle`, `parkour-speed`, `extreme-mountain-unicycling`, `para-climbing`
 
 ## Air sports (`air-sports`)
 
 Paragliding, hang gliding, skydiving, wingsuit, ballooning, gliding, aeromodelling, air and drone racing.
 
-`paragliding`, `powered-paragliding`, `hang-gliding`, `skydiving`, `indoor-skydiving`, `base-jumping`, `wingsuit-flying`, `hot-air-ballooning`, `gliding`, `canopy-piloting`, `aeromodelling`, `air-racing`, `drone-racing`, `airbadminton`
+`paragliding`, `powered-paragliding`, `hang-gliding`, `skydiving`, `indoor-skydiving`, `base-jumping`, `wingsuit-flying`, `hot-air-ballooning`, `gliding`, `canopy-piloting`, `aeromodelling`, `air-racing`, `drone-racing`, `airbadminton`, `power-kiting`, `kite-fighting`, `kite-landboarding`, `snowkiting`
 
 ## Orienteering and adventure racing (`orienteering-adventure`)
 
@@ -288,19 +288,19 @@ Chess variants, abstract strategy games, card games and word/memory competitions
 
 E-sports umbrella plus individual game titles with major circuits, and robot fighting.
 
-`e-sports`, `counter-strike`, `league-of-legends`, `dota-2`, `starcraft-ii`, `valorant`, `rainbow-six-siege`, `rocket-league`, `street-fighter`, `tekken`, `super-smash-bros`, `robot-fighting`
+`e-sports`, `counter-strike`, `league-of-legends`, `dota-2`, `starcraft-ii`, `valorant`, `rainbow-six-siege`, `rocket-league`, `street-fighter`, `tekken`, `super-smash-bros`, `robot-fighting`, `overwatch`, `apex-legends`, `fortnite`, `pubg-battlegrounds`, `call-of-duty`, `halo`, `age-of-empires`, `company-of-heroes`, `warcraft-iii`, `fifa-video-game-series`, `efootball`, `nba-2k`, `madden-nfl`, `mlb-the-show`, `gran-turismo`, `forza`, `iracing`, `assetto-corsa`, `f1-video-game-series`, `motogp-video-game-series`, `wrc-video-game-series`, `zwift`, `tetris`, `puyo-puyo`, `pac-man`, `donkey-kong`, `hearthstone`, `magic-the-gathering-arena`, `legends-of-runeterra`, `gwent`, `yu-gi-oh-video-game`, `pokemon-trading-card-game-live`, `mortal-kombat`, `guilty-gear`, `blazblue`, `soulcalibur`, `dead-or-alive`, `virtua-fighter`, `king-of-fighters`, `samurai-shodown`, `dragon-ball-fighterz`, `skullgirls`, `brawlhalla`, `rivals-of-aether`, `multiversus`, `esports-world-cup`, `olympic-esports-games`
 
 ## Para sports (cross-cutting group) (`para-sports`)
 
 All disability-sport variants; most also appear in their base-sport groups above. 'Para' prefix per project convention.
 
-`para-table-tennis`, `para-badminton`, `para-equestrian-dressage`, `paracanoe`, `powerchair-football`, `blind-football`, `blind-tennis`, `cerebral-palsy-football`, `amputee-football`, `sitting-volleyball`, `sledge-hockey`, `wheelchair-basketball`, `wheelchair-curling`, `wheelchair-fencing`, `wheelchair-handball`, `wheelchair-rugby`, `wheelchair-tennis`, `3x3-wheelchair-basketball`, `goalball`, `boccia`, `para-alpine-skiing`, `para-archery`, `para-athletics`, `para-biathlon`, `para-cross-country-skiing`, `para-cycling`, `para-judo`, `para-powerlifting`, `para-rowing`, `para-shooting`, `para-snowboard`, `para-swimming`, `para-taekwondo`, `para-triathlon`, `wheelchair-racing`, `powerchair-hockey`
+`para-table-tennis`, `para-badminton`, `para-equestrian-dressage`, `paracanoe`, `powerchair-football`, `blind-football`, `blind-tennis`, `cerebral-palsy-football`, `amputee-football`, `sitting-volleyball`, `sledge-hockey`, `wheelchair-basketball`, `wheelchair-curling`, `wheelchair-fencing`, `wheelchair-handball`, `wheelchair-rugby`, `wheelchair-tennis`, `3x3-wheelchair-basketball`, `goalball`, `boccia`, `para-alpine-skiing`, `para-archery`, `para-athletics`, `para-biathlon`, `para-cross-country-skiing`, `para-cycling`, `para-judo`, `para-powerlifting`, `para-rowing`, `para-shooting`, `para-snowboard`, `para-swimming`, `para-taekwondo`, `para-triathlon`, `wheelchair-racing`, `powerchair-hockey`, `para-climbing`, `para-karate`, `para-canoe-marathon`
 
 ## Multi-sport events and games festivals (`multi-sport-events`)
 
 Events that bundle many sports/disciplines in one festival.
 
-`arctic-sports`, `arctic-winter-games`, `dene-games`, `firefighter-games`, `electrician-games`, `lumberjack-championships`, `wheelbarrow-olympics`, `hemp-olympics`, `finnish-sauna-olympics`, `world-eskimo-indian-olympics`, `world-nomad-games`, `world-indigenous-games`
+`arctic-sports`, `arctic-winter-games`, `dene-games`, `firefighter-games`, `electrician-games`, `lumberjack-championships`, `wheelbarrow-olympics`, `hemp-olympics`, `finnish-sauna-olympics`, `world-eskimo-indian-olympics`, `world-nomad-games`, `world-indigenous-games`, `esports-world-cup`, `olympic-esports-games`
 
 ## Folk, festival and novelty games (`folk-festival-games`)
 

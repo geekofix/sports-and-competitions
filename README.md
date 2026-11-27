@@ -1,6 +1,6 @@
 # Sports & Competitions — Open Encyclopedia
 
-An open-source encyclopedia of **1148 sports and competitions** from around the world — from the Olympic core programme to the most obscure village traditions on five continents. Everything is free to read, use and contribute to.
+An open-source encyclopedia of **1218 sports and competitions** from around the world — from the Olympic core programme to the most obscure village traditions on five continents. Everything is free to read, use and contribute to.
 
 **Live website (GitHub Pages):** https://geekofix.github.io/sports-and-competitions/
 
