@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-27 (popdarts page fixed again per owner feedback: dart-gun photo removed; only 2 verified suction-cup images remain (Loong suction-cup darts CC BY-SA 2.0, Wulf suction-cup arrow on window CC BY-SA 4.0 — Commons has no branded Popdarts photos, verified by exhaustive API search); History now names founders Josh and Jason Carman (idea 2020 after axe-throwing, TikTok viral 2021 >20M views, PD Games LLC Mount Pleasant SC, $40M sales, Walmart/Dick's) with new sources Charleston Magazine (2026) and Liberty Journal (2026); champion name kept only in Basic Information per convention; all sources Retrieved November 27, 2026; 1292 entries unchanged; double build + QS + Pages build green).
+Last updated: 2026-11-27 (popdarts page: suction-cup toy photos removed per owner feedback — Commons has no Popdarts gameplay photos; page now illustrates the "closest to the target" principle with 2 verified open-license Commons photos instead: Rock on the button..jpg (Chase N., CC BY-SA 2.0, curling stone on the button) and Joueur de Pétanque.jpg (Domingo Daniella Rhode, CC BY-SA 4.0, measuring the closest boule to the jack — the Popdarts Wyre measurement); text now explicitly compares the scoring to pétanque/bocce/curling and Related line links petanque, bocce, curling; all sources Retrieved November 27, 2026; 1292 entries; double build + QS + Pages green).
 
 ## Project intent — where suggestions come from
 
