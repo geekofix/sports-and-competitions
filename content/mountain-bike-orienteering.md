@@ -39,5 +39,5 @@ MTBO emerged in the Nordic countries in the 1990s, when orienteers began using m
 ## Important Links
 
 - [International Orienteering Federation — MTBO](https://orienteering.sport/) — world governing body; WMTBOC, World Cup and rules
-- Related on this site: [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare And Hounds](hare-and-hounds.html), [Coasteering](coasteering.html) and [Canyoning](canyoning.html) — the orienteering and adventure racing sports
+- Related on this site: [Orienteering](orienteering.html), [Foot Orienteering](foot-orienteering.html), [Ski Orienteering](ski-orienteering.html), [Trail Orienteering](trail-orienteering.html), [Rogaining](rogaining.html), [Adventure Racing](adventure-racing.html), [Hare and Hounds](hare-and-hounds.html), [Coasteering](coasteering.html), [Canyoning](canyoning.html), [Fell Running](fell-running.html) and [Warrior Dash](warrior-dash.html) — the orienteering and adventure racing sports
 - [Foot orienteering](foot-orienteering.html), [Ski orienteering](ski-orienteering.html) and [Mountain biking](mountain-biking.html) on this site — related disciplines and the bike used
