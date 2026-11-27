@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-27 (popdarts page: suction-cup toy photos removed per owner feedback — Commons has no Popdarts gameplay photos; page now illustrates the "closest to the target" principle with 2 verified open-license Commons photos instead: Rock on the button..jpg (Chase N., CC BY-SA 2.0, curling stone on the button) and Joueur de Pétanque.jpg (Domingo Daniella Rhode, CC BY-SA 4.0, measuring the closest boule to the jack — the Popdarts Wyre measurement); text now explicitly compares the scoring to pétanque/bocce/curling and Related line links petanque, bocce, curling; all sources Retrieved November 27, 2026; 1292 entries; double build + QS + Pages green).
+Last updated: 2026-11-27 (popdarts page reworked per owner feedback: all images removed and none added — Commons has no Popdarts gameplay photos; text now based solely on the two official links iplayapl.com and popdartsgame.com/pages/play (2 APA-7 sources, Retrieved November 27, 2026); pétanque/bocce/curling removed from text and Related line (only examples of the closest-to-target element); Related line now = table-arcade-games group (pachinko, pinball, table-football, air-hockey, air-guitar, novuss, subbuteo) plus throwing relatives darts, lawn-darts, cornhole; game described as high-arc throw at a large target Popdart on the tabletop, closest dart wins, cancellation scoring, APL 17 ft table court; 1292 entries; double build + QS + Pages green).
 
 ## Project intent — where suggestions come from
 
