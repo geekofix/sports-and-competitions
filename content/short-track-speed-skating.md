@@ -34,5 +34,5 @@ Mass-start pack racing on small indoor rinks originated in North America in the 
 
 - [ISU — International Skating Union](https://www.isu.org/) — world governing body; World Short Track Speed Skating Championships and Short Track World Tour
 - [Olympics.com — short track speed skating](https://www.olympics.com/en/sports/short-track-speed-skating/)
-- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html) and [Speed Skating](speed-skating.html) — the ice skating disciplines
+- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html), [Shinny](shinny.html), [Blind Hockey](blind-hockey.html) and [Deaf Hockey](deaf-hockey.html) — the ice skating disciplines
 - [Figure skating](figure-skating.html), [Ice hockey](ice-hockey.html), [Curling](curling.html) and [Biathlon](biathlon.html) — the other sports of the 60 × 30 m rink and the winter programme, on this site

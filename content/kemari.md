@@ -35,4 +35,4 @@ Kemari was introduced to Japan from China during the Asuka period and rose to pr
 - [Nippon.com — Kemari: Japan's ancient ball game of the imperial court](https://www.nippon.com/en/guide-to-japan/cs00057/) — history and preservation society
 - [Kokugakuin University — Kemari and its deep connection to shrines](https://www.kokugakuin.ac.jp/en/article/53496) — shrine rituals, 1903 preservation society
 - [Football](football.html) on this site — kemari is regarded as an ancestor of association football
-- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Sipa](sipa.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games
+- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Sipa](sipa.html), [Chinlone](chinlone.html) and [Footbag Net](footbag-net.html) — the shuttlecock and footbag games

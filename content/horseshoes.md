@@ -32,4 +32,4 @@ Horseshoe pitching descends from quoits — England set up the first written rul
 - [NHPA history of horseshoe pitching](https://www.horseshoepitching.com/gameinfo/history.html) — origins from quoits and Civil War camps to 1925
 - [Bowling](bowling.html) on this site — precision target sport with a rolling ball
 - [Croquet](croquet.html) on this site — lawn game of precision
-- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games
+- Related on this site: [Kubb](kubb.html), [Mölkky](molkky.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html), [Jukskei](jukskei.html) and [Lawn Darts](lawn-darts.html) — the lawn, throwing and pitching games

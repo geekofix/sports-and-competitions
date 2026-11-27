@@ -47,4 +47,4 @@ Until the 2020s the podium was dominated by Finland and Sweden — Marigold IceU
 - [ISU results — World Synchronized Skating Championships 2026, Salzburg](https://results.isu.org/results/season2526/wsysc2026/) — official results
 - [Skate Canada — Les Suprêmes' fourth world title, 2026](https://skatecanada.ca/2026/04/11/les-supremes-take-fourth-world-title-at-2026-isu-synchronized-skating-world-championships/) — report
 - [Figure skating](figure-skating.html), [Ice dancing](ice-dancing.html) and [Roller figure skating](roller-figure-skating.html) on this site — the other ISU skating disciplines
-- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Speed Skating](speed-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines
+- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Speed Skating](speed-skating.html), [Short Track Speed Skating](short-track-speed-skating.html), [Shinny](shinny.html), [Blind Hockey](blind-hockey.html) and [Deaf Hockey](deaf-hockey.html) — the ice skating disciplines

@@ -37,4 +37,4 @@ Golf croquet developed from garden croquet in England around 1900 — sets of ru
 - [2026 Golf Croquet World Championship — Cairo](https://worldcroquet.org/2026-golf-croquet-world-championship/) — official event page, 21–29 November 2026
 - [Croquet England](https://www.croquet.org.uk/) — historic national association (founded 1897)
 - [Croquet](croquet.html) on this site — see also [Gateball](gateball.html) and [Golf](golf.html) on this site
-- Related on this site: [Croquet](croquet.html), [Gateball](gateball.html) and [Woodball](woodball.html) — the croquet family (mallet-and-ball lawn games)
+- Related on this site: [Croquet](croquet.html), [Gateball](gateball.html), [Woodball](woodball.html) and [Crokinole](crokinole.html) — the croquet family (mallet-and-ball lawn games)

@@ -30,4 +30,4 @@ Jukskei originated around 1743 at the Cape of Good Hope, when transport riders (
 
 - [International Jukskei Federation (IJF)](https://www.jukskei.org/) — world governing body; rules, scoring, member nations
 - [Horseshoes](horseshoes.html) on this site — see also [Bowling](bowling.html) and [Irish Road Bowling](irish-road-bowling.html) on this site
-- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html) and [Gorodki](gorodki.html) — the lawn, throwing and pitching games
+- Related on this site: [Kubb](kubb.html), [Mölkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Lawn Darts](lawn-darts.html) — the lawn, throwing and pitching games

@@ -37,4 +37,4 @@ Circle games with a woven rattan ball are documented in Siam from at least the A
 - [Sepak takraw](sepak-takraw.html) — the net version of the circle kicking tradition, on this site
 - [Chinlone](chinlone.html), [Footvolley](footvolley.html), [Jianzi](jianzi.html) and [Footbag](footbag.html) on this site — related kicking games
 - [Tourism Authority of Thailand](https://www.tourismthailand.org/) — traditional Thai games and heritage
-- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games
+- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html), [Chinlone](chinlone.html) and [Footbag Net](footbag-net.html) — the shuttlecock and footbag games

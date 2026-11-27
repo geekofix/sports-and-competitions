@@ -33,5 +33,5 @@ Rugby league was born in 1895 when 21 clubs in northern England broke away from 
 - [Rugby League World Cup 2026](https://www.rlwc2026.com/) — official tournament site
 - [National Rugby League (NRL)](https://www.nrl.com/) — Australia's top professional league
 - [Super League](https://superleague.co.uk/) — England's top professional league
-- Related on this site: [Rugby Union](rugby-union.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Sevens](rugby-league-sevens.html), [Rugby League Nines](rugby-league-nines.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html), [Snow Rugby Sevens](snow-rugby-sevens.html) and [Walking Rugby](walking-rugby.html) — the rugby codes and variants
+- Related on this site: [Rugby Union](rugby-union.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Sevens](rugby-league-sevens.html), [Rugby League Nines](rugby-league-nines.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html), [Snow Rugby Sevens](snow-rugby-sevens.html), [Walking Rugby](walking-rugby.html) and [Rugby X](rugby-x.html) — the rugby codes and variants
 - [Wheelchair Rugby](wheelchair-rugby.html) on this site — the Paralympic rugby code

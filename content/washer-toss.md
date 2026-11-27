@@ -28,5 +28,5 @@ Washer pitching grew out of informal rural American recreation; oral tradition t
 ## Important Links
 
 - [American Washers Association](https://washers.org/) — history, rules and tournaments of washer toss
-- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games
+- Related on this site: [Kubb](kubb.html), [Mölkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html), [Jukskei](jukskei.html) and [Lawn Darts](lawn-darts.html) — the lawn, throwing and pitching games
 - [Petanque](petanque.html) on this site — the boules-family precision throwing game

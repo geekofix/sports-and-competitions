@@ -52,4 +52,4 @@ British teams dominated the 1950s and 1960s and Soviet teams until the 1990s; No
 - [International Skating Union (ISU)](https://isu-skating.com/en/figure-skating/) — governs figure skating; Special Regulations & Technical Rules
 - [ISU — Ice dance](https://isu-skating.com/en/figure-skating/ice-dance/) and [ISU results](https://results.isu.org/) — Worlds 2026 Prague, Europeans 2026
 - [Olympics — Milano Cortina 2026 figure skating results](https://www.olympics.com/en/milano-cortina-2026/results/fsk)
-- Related on this site: [Figure Skating](figure-skating.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines
+- Related on this site: [Figure Skating](figure-skating.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html), [Short Track Speed Skating](short-track-speed-skating.html), [Shinny](shinny.html), [Blind Hockey](blind-hockey.html) and [Deaf Hockey](deaf-hockey.html) — the ice skating disciplines

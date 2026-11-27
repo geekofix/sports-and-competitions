@@ -119,6 +119,7 @@
 | Bat and Trap                               | https://www.youtube.com/results?search_query=bat+and+trap                               |
 | Battleship | https://www.youtube.com/results?search_query=Battleship |
 | Beach Basketball                           | https://www.youtube.com/results?search_query=beach+basketball                           |
+| Beach Cricket                                | https://www.youtube.com/results?search_query=Beach+Cricket                                |
 | Beach Handball                             | https://www.youtube.com/results?search_query=beach+handball                             |
 | Beach Korfball                             | https://www.youtube.com/results?search_query=beach+korfball                             |
 | Beach Rugby                                | https://www.youtube.com/results?search_query=beach+rugby                                |
@@ -143,6 +144,7 @@
 | Blanket Toss                                | https://www.youtube.com/results?search_query=blanket+toss |
 | BlazBlue                                     | https://www.youtube.com/results?search_query=BlazBlue                                     |
 | Blind Football                             | https://www.youtube.com/results?search_query=blind+football                             |
+| Blind Hockey                                 | https://www.youtube.com/results?search_query=Blind+Hockey                                 |
 | Blind Tennis                               | https://www.youtube.com/results?search_query=blind+tennis                               |
 | Blokus | https://www.youtube.com/results?search_query=Blokus |
 | Bo-taoshi                                  | https://www.youtube.com/results?search_query=bo-taoshi                                  |
@@ -266,6 +268,7 @@
 | Cricket                                    | https://www.youtube.com/results?search_query=cricket                                    |
 | Cricket ODI                                | https://www.youtube.com/results?search_query=cricket+odi                                |
 | Cricket T20                                | https://www.youtube.com/results?search_query=cricket+t20                                |
+| Crokinole                                    | https://www.youtube.com/results?search_query=Crokinole                                    |
 | Croquet                                    | https://www.youtube.com/results?search_query=croquet                                    |
 | Cross Country Running                      | https://www.youtube.com/results?search_query=cross+country+running                      |
 | Cross Triathlon                            | https://www.youtube.com/results?search_query=cross+triathlon                            |
@@ -301,8 +304,10 @@
 | Darts                                      | https://www.youtube.com/results?search_query=darts                                      |
 | Dash Guti                                   | https://www.youtube.com/results?search_query=dash+guti |
 | Dead or Alive                                | https://www.youtube.com/results?search_query=Dead+or+Alive                                |
+| Deaf Hockey                                  | https://www.youtube.com/results?search_query=Deaf+Hockey                                  |
 | Debate                                     | https://www.youtube.com/results?search_query=debate                                     |
 | Decathlon                                  | https://www.youtube.com/results?search_query=decathlon                                  |
+| Deck Tennis                                  | https://www.youtube.com/results?search_query=Deck+Tennis                                  |
 | Demolition Derby                           | https://www.youtube.com/results?search_query=demolition+derby                           |
 | Dene Games                                 | https://www.youtube.com/results?search_query=dene+games                                  |
 | Dhanurveda                                  | https://www.youtube.com/results?search_query=dhanurveda |
@@ -396,6 +401,7 @@
 | Flyball                                    | https://www.youtube.com/results?search_query=flyball                                    |
 | Foot Orienteering                          | https://www.youtube.com/results?search_query=foot+orienteering                          |
 | Footbag                                    | https://www.youtube.com/results?search_query=footbag                                    |
+| Footbag Net                                  | https://www.youtube.com/results?search_query=Footbag+Net                                  |
 | Football                                   | https://www.youtube.com/results?search_query=football                                   |
 | Footgolf                                   | https://www.youtube.com/results?search_query=footgolf                                   |
 | Footvolley                                 | https://www.youtube.com/results?search_query=footvolley                                 |
@@ -482,6 +488,7 @@
 | Hand Games                                  | https://www.youtube.com/results?search_query=hand+games |
 | Handball                                   | https://www.youtube.com/results?search_query=handball                                   |
 | Hang Gliding                               | https://www.youtube.com/results?search_query=hang+gliding                               |
+| Hantis                                       | https://www.youtube.com/results?search_query=Hantis                                       |
 | Hapkido                                    | https://www.youtube.com/results?search_query=hapkido                                    |
 | Hard Enduro                                | https://www.youtube.com/results?search_query=hard+enduro                                |
 | Hardball Squash                            | https://www.youtube.com/results?search_query=hardball+squash                            |
@@ -627,6 +634,7 @@
 | Latrones                                    | https://www.youtube.com/results?search_query=latrones |
 | Latrunculi | https://www.youtube.com/results?search_query=Latrunculi |
 | Lawn Bowls                                 | https://www.youtube.com/results?search_query=lawn+bowls                                 |
+| Lawn Darts                                   | https://www.youtube.com/results?search_query=Lawn+Darts                                   |
 | Lawn Mower Racing                          | https://www.youtube.com/results?search_query=lawn+mower+racing                          |
 | Lead Climbing                              | https://www.youtube.com/results?search_query=lead+climbing                              |
 | League of Legends                          | https://www.youtube.com/results?search_query=league+of+legends                          |
@@ -848,6 +856,7 @@
 | Rhythmic Gymnastics                        | https://www.youtube.com/results?search_query=rhythmic+gymnastics                        |
 | Riichi Mahjong                             | https://www.youtube.com/results?search_query=riichi+mahjong                             |
 | Ringette                                   | https://www.youtube.com/results?search_query=ringette                                   |
+| Rink Hockey                                  | https://www.youtube.com/results?search_query=Rink+Hockey                                  |
 | Rinkball                                   | https://www.youtube.com/results?search_query=rinkball                                   |
 | Risk | https://www.youtube.com/results?search_query=Risk |
 | Rivals of Aether                             | https://www.youtube.com/results?search_query=Rivals+of+Aether                             |
@@ -878,6 +887,7 @@
 | Rugby Sevens                               | https://www.youtube.com/results?search_query=rugby+sevens                               |
 | Rugby Tens                                 | https://www.youtube.com/results?search_query=rugby+tens                                 |
 | Rugby Union                                | https://www.youtube.com/results?search_query=rugby+union                                |
+| Rugby X                                      | https://www.youtube.com/results?search_query=Rugby+X                                      |
 | Rummy | https://www.youtube.com/results?search_query=Rummy |
 | Run Archery                                | https://www.youtube.com/results?search_query=run+archery                                 |
 | Russian Pyramid                            | https://www.youtube.com/results?search_query=russian+pyramid                            |
@@ -912,6 +922,7 @@
 | Sheep Dog Trials                           | https://www.youtube.com/results?search_query=sheep+dog+trials                           |
 | Sheepshead | https://www.youtube.com/results?search_query=Sheepshead |
 | Shin Kicking                               | https://www.youtube.com/results?search_query=shin+kicking                               |
+| Shinny                                       | https://www.youtube.com/results?search_query=Shinny                                       |
 | Shinty                                     | https://www.youtube.com/results?search_query=shinty                                     |
 | Shito-Ryu Karate                           | https://www.youtube.com/results?search_query=shito-ryu+karate                           |
 | Shogi                                      | https://www.youtube.com/results?search_query=shogi                                      |
@@ -1177,6 +1188,7 @@
 | Whist | https://www.youtube.com/results?search_query=Whist |
 | Whitewater Rafting Race                     | https://www.youtube.com/results?search_query=whitewater+rafting+race |
 | Wife Carrying                              | https://www.youtube.com/results?search_query=wife+carrying                              |
+| Wiffle Ball                                  | https://www.youtube.com/results?search_query=Wiffle+Ball                                  |
 | Wildwater Canoeing                         | https://www.youtube.com/results?search_query=wildwater+canoeing                         |
 | Windsurfing                                | https://www.youtube.com/results?search_query=windsurfing                                |
 | Wine Slinging                              | https://www.youtube.com/results?search_query=wine+slinging                              |

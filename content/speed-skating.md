@@ -30,6 +30,6 @@ Organised speed skating matured in the Netherlands in the nineteenth century, an
 ## Important Links
 
 - [ISU — International Skating Union](https://www.isu.org/) — world governing body; World Cup, World Championships and world rankings
-- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines
+- Related on this site: [Figure Skating](figure-skating.html), [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html), [Short Track Speed Skating](short-track-speed-skating.html), [Shinny](shinny.html), [Blind Hockey](blind-hockey.html) and [Deaf Hockey](deaf-hockey.html) — the ice skating disciplines
 - [Inline speed skating](inline-speed-skating.html) on this site — the land variant
 - [Skiing](skiing.html) on this site — the winter sliding-sports umbrella

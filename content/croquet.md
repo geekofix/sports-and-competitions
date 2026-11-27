@@ -34,4 +34,4 @@ Croquet takes its name from the French word for a shepherd's crook (*croquet*) a
 - [Croquet Association (England)](https://croquet.org.uk/) — laws, clubs and domestic competition in the game's home country
 - [MacRobertson Shield](https://www.worldcroquet.org/) — Australia v England team trophy, first played 1925; England won the 2026 edition
 - [WCF world rankings](https://www.worldcroquet.org/) — official player rankings
-- Related on this site: [Golf Croquet](golf-croquet.html), [Gateball](gateball.html) and [Woodball](woodball.html) — the croquet family (mallet-and-ball lawn games)
+- Related on this site: [Golf Croquet](golf-croquet.html), [Gateball](gateball.html), [Woodball](woodball.html) and [Crokinole](crokinole.html) — the croquet family (mallet-and-ball lawn games)

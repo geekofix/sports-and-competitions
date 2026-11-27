@@ -30,4 +30,4 @@ Chinlone's origins are traced back roughly 1,500 years, to the Pyu city-states a
 - [Myanmar Traditional Chinlone Federation](https://www.myanmarchinlone.org) — national governing body of chinlone
 - [SEA Games — Chinlone](https://www.seagames.com) — regional championship appearances 2013, 2017, 2023, 2025
 - [Waso Chinlone Festival, Mahamuni Pagoda, Mandalay](https://en.wikipedia.org/wiki/Chinlone) — 98th edition 2026
-- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html) and [Sipa](sipa.html) — the shuttlecock and footbag games
+- Related on this site: [Jianzi](jianzi.html), [Footbag](footbag.html), [Kemari](kemari.html), [Sipa](sipa.html) and [Footbag Net](footbag-net.html) — the shuttlecock and footbag games

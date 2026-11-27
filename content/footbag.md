@@ -41,5 +41,5 @@ Kicking games with a small sack have ancient roots — the Chinese game *jianzi*
 - [IFPA World Footbag Championships](https://footbag.org/events/world-championships/) — 45th edition 2026 in Tsukuba, Japan (August 10–15, 2026), first in Asia
 - [IFPA Official Rules of Footbag Sports](https://footbag.org/rules/) — net and freestyle rulebook
 - [Indiaca](indiaca.html) on this site
-- Related on this site: [Jianzi](jianzi.html), [Kemari](kemari.html), [Sipa](sipa.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games
+- Related on this site: [Jianzi](jianzi.html), [Kemari](kemari.html), [Sipa](sipa.html), [Chinlone](chinlone.html) and [Footbag Net](footbag-net.html) — the shuttlecock and footbag games
 - [Sepak Takraw](sepak-takraw.html) on this site

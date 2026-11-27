@@ -36,4 +36,4 @@ Figure skating grew out of utilitarian ice skating in the 18th century: the Amer
 - [ISU World Figure Skating Championships 2026 Prague](https://www.isu.org/figure-skating/) — 2026 Worlds results and entries
 - [ISU judging system and technical rules](https://www.isu.org/figure-skating/figure-skating-rules) — official regulations
 - [Olympic figure skating](https://www.olympics.com/en/olympic-games/olympic-sports/figure-skating) — Olympic program since 1908/1924
-- Related on this site: [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html) and [Short Track Speed Skating](short-track-speed-skating.html) — the ice skating disciplines
+- Related on this site: [Ice Dancing](ice-dancing.html), [Synchronized Skating](synchronized-skating.html), [Speed Skating](speed-skating.html), [Short Track Speed Skating](short-track-speed-skating.html), [Shinny](shinny.html), [Blind Hockey](blind-hockey.html) and [Deaf Hockey](deaf-hockey.html) — the ice skating disciplines

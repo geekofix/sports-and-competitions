@@ -16,37 +16,6 @@ How to work through it:
 - Ethics: never add anything from the exclusion list at the bottom (README policy).
 - Groups 1-3 were processed on 2026-11-26 (43 entries added); groups 4-6 on 2026-11-26 (40 entries added; 'Mongolian Wrestling' dropped as duplicate of the existing `bokh` entry); groups 7-10 on 2026-11-26 (32 entries added with full content, images and cross-links); groups 11-15 on 2026-11-26 (118 entries added: Basque herri kirolak, chess variants, shogi/xiangqi variants, abstract/ancient board games, card games, party/puzzle/table games) with full content, 210 Commons images and cross-links. Their sections were removed.
 
-## Group 21 — Ice & hockey variants (`hockey-family`, `winter-skating`)
-
-- Shinny — informal outdoor ice hockey, Canada
-- Rink Hockey — quad rink hockey, World Skate
-- Unihockey — floorball cousin
-- Blind Hockey
-- Deaf Hockey
-- Electric Wheelchair Hockey
-
-## Group 22 — Rugby code variant (`rugby-codes`)
-
-- Rugby X — 10-a-side fast variant (RFU)
-
-## Group 23 — Bat-and-ball variants (`cricket-baseball-family`)
-
-- Wiffle Ball — perforated plastic ball game, USA
-- Slow-Pitch Softball — 16-inch ball, USA
-- Beach Cricket
-
-## Group 24 — Racket & shuttlecock extras (`racket-sports`, `shuttlecock-footbag`)
-
-- Hantis — table tennis doubles variant
-- Footbag Net — net footbag game
-- Deck Tennis — deck/ring tennis
-
-## Group 25 — Lawn & throwing games (`lawn-throwing-games`, `croquet-family`, `boules-bocce-family`)
-
-- Crokinole — Canadian dexterity board
-- Washers — washer pitching
-- Lawn Darts
-
 ## Group 26 — Archery & shooting extras (`target-sports`)
 
 - Flight Archery — longest-distance archery

@@ -25,5 +25,5 @@ Table shuffleboard descends from the Tudor English games shovillabourde and shov
 
 ## Important Links
 
-- Related on this site: [Bocce](bocce.html), [Bocce Punto](bocce-punto.html), [Bocce Raffa](bocce-raffa.html), [Bocce Volo](bocce-volo.html), [Boccia](boccia.html), [Pétanque](petanque.html), [Boule Lyonnaise](boule-lyonnaise.html), [Lawn Bowls](lawn-bowls.html), [Indoor Bowls](indoor-bowls.html), [Crown Green Bowls](crown-green-bowls.html), [Irish Road Bowling](irish-road-bowling.html), [Varpa](varpa.html), [Ice Stock Sport](ice-stock-sport.html) and [Shuffleboard](shuffleboard.html) — the boules, bowls and target-ball games
+- Related on this site: [Bocce](bocce.html), [Bocce Punto](bocce-punto.html), [Bocce Raffa](bocce-raffa.html), [Bocce Volo](bocce-volo.html), [Boccia](boccia.html), [Pétanque](petanque.html), [Boule Lyonnaise](boule-lyonnaise.html), [Lawn Bowls](lawn-bowls.html), [Indoor Bowls](indoor-bowls.html), [Crown Green Bowls](crown-green-bowls.html), [Irish Road Bowling](irish-road-bowling.html), [Varpa](varpa.html), [Ice Stock Sport](ice-stock-sport.html), [Shuffleboard](shuffleboard.html) and [Crokinole](crokinole.html) — the boules, bowls and target-ball games
 - [Table football](table-football.html) and [Table tennis](table-tennis.html) on this site — the other tabletop games

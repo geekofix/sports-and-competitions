@@ -35,4 +35,4 @@ Gateball was invented in 1947 by Kazunobu Suzuki, a wood-industry worker in Memu
 - [WGU World Gateball Championships](https://gateball.or.jp/wgu/game/world/) — 13th/14th edition merged into 2026
 - [Japan Gateball Union](https://www.gateball.jp/) — national federation of the country of origin
 - [Croquet](croquet.html) on this site — see also [Golf Croquet](golf-croquet.html) and [Lawn Bowls](lawn-bowls.html) on this site
-- Related on this site: [Croquet](croquet.html), [Golf Croquet](golf-croquet.html) and [Woodball](woodball.html) — the croquet family (mallet-and-ball lawn games)
+- Related on this site: [Croquet](croquet.html), [Golf Croquet](golf-croquet.html), [Woodball](woodball.html) and [Crokinole](crokinole.html) — the croquet family (mallet-and-ball lawn games)

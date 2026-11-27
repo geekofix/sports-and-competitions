@@ -31,4 +31,4 @@ Bird-song contests have been documented in Flemish and Dutch culture since the s
 - [Natuurpunt](https://www.natuurpunt.be/) — Flemish nature and bird-protection organization overseeing vinkensport welfare standards
 - [BBC — coverage of Belgium's chaffinch contests](https://www.bbc.com/)
 - [Pigeon racing](pigeon-racing.html) on this site — the feathered competition family
-- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games
+- Related on this site: [Kubb](kubb.html), [Mölkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Ladder Toss](ladder-toss.html), [Pole Bending](pole-bending.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html), [Jukskei](jukskei.html) and [Lawn Darts](lawn-darts.html) — the lawn, throwing and pitching games

@@ -32,5 +32,5 @@ Woodball was invented in 1990 by Weng Ming-hui (with Kuang-chu Young) in Shilin,
 
 - [International Woodball Federation](https://iwbf-woodball.org/) — world governing body, rules, World Cup and member associations
 - [Golf](golf.html) on this site — the parent fairway stroke-play game
-- Related on this site: [Croquet](croquet.html), [Golf Croquet](golf-croquet.html) and [Gateball](gateball.html) — the croquet family (mallet-and-ball lawn games)
+- Related on this site: [Croquet](croquet.html), [Golf Croquet](golf-croquet.html), [Gateball](gateball.html) and [Crokinole](crokinole.html) — the croquet family (mallet-and-ball lawn games)
 - [Footgolf](footgolf.html) on this site — another compact stroke-play hybrid

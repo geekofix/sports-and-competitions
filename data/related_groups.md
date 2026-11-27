@@ -4,7 +4,7 @@ Working list for later cross-linking passes (owner request 2026-11-25): each gro
 sports/disciplines that are closely related (same family, shared history or derivation).
 When a group is worked on, add cross-references in the texts of its members (Important Links
 "... on this site" entries and in-text mentions), e.g. the boules family or the athletics
-disciplines. Slugs were validated against data/sports.csv (1218 entries since 2026-11-27).
+disciplines. Slugs were validated against data/sports.csv (1230 entries since 2026-11-27).
 
 Cross-cutting group: `para-sports` (its members also appear in their base-sport groups).
 
@@ -12,7 +12,8 @@ Cross-cutting group: `para-sports` (its members also appear in their base-sport 
 
 All games where balls are rolled/thrown at a target ball on a defined ground: bocce disciplines, petanque, lawn/indoor/crown green bowls, ice stock sport and relatives.
 
-`bocce`, `bocce-punto`, `bocce-raffa`, `bocce-volo`, `boccia`, `petanque`, `boule-lyonnaise`, `lawn-bowls`, `indoor-bowls`, `crown-green-bowls`, `irish-road-bowling`, `varpa`, `ice-stock-sport`, `shuffleboard`, `table-shuffleboard`
+`bocce`, `bocce-punto`, `bocce-raffa`, `bocce-volo`, `boccia`, `petanque`, `boule-lyonnaise`, `lawn-bowls`, `indoor-bowls`, `crown-green-bowls`, `irish-road-bowling`, `varpa`, `ice-stock-sport`, `shuffleboard`, `table-shuffleboard`, `crokinole`
+
 
 ## Bowling variants (knocking down pins with a ball) (`bowling-variants`)
 
@@ -36,13 +37,15 @@ The oval-ball and Gaelic codes, their reduced formats and the hybrid internation
 
 Rugby union and league, the reduced sevens/tens/nines formats and the non-contact tag/touch variants.
 
-`rugby-union`, `rugby-league`, `rugby-sevens`, `rugby-tens`, `rugby-league-sevens`, `rugby-league-nines`, `touch-rugby`, `tag-rugby`, `beach-rugby`, `snow-rugby`, `snow-rugby-sevens`, `walking-rugby`
+`rugby-union`, `rugby-league`, `rugby-sevens`, `rugby-tens`, `rugby-league-sevens`, `rugby-league-nines`, `touch-rugby`, `tag-rugby`, `beach-rugby`, `snow-rugby`, `snow-rugby-sevens`, `walking-rugby`, `rugby-x`
+
 
 ## Racket sports (tennis family and relatives) (`racket-sports`)
 
 Tennis and its ancestors/descendants plus the other net racket sports, incl. para and wheelchair variants.
 
-`tennis`, `real-tennis`, `jeu-de-paume`, `rackets`, `squash`, `squash-tennis`, `racquetball`, `hardball-squash`, `table-tennis`, `para-table-tennis`, `badminton`, `para-badminton`, `crossminton`, `pickleball`, `padel`, `platform-tennis`, `paddle-tennis`, `pop-tennis`, `beach-tennis`, `soft-tennis`, `mini-tennis`, `touchtennis`, `racketlon`, `wheelchair-tennis`, `blind-tennis`, `showdown
+`tennis`, `real-tennis`, `jeu-de-paume`, `rackets`, `squash`, `squash-tennis`, `racquetball`, `hardball-squash`, `table-tennis`, `para-table-tennis`, `badminton`, `para-badminton`, `crossminton`, `pickleball`, `padel`, `platform-tennis`, `paddle-tennis`, `pop-tennis`, `beach-tennis`, `soft-tennis`, `mini-tennis`, `touchtennis`, `racketlon`, `wheelchair-tennis`, `blind-tennis`, `showdown`, `hantis`, `deck-tennis`
+
 
 ## Pelota, wall-ball and ancient ball games (`pelota-wall-games`)
 
@@ -84,7 +87,8 @@ All FIS ski and snowboard disciplines incl. telemark, grass skiing, ski mountain
 
 ISU figure skating disciplines (incl. ice dancing, synchronized skating) and speed skating variants on ice.
 
-`figure-skating`, `ice-dancing`, `synchronized-skating`, `speed-skating`, `short-track-speed-skating`
+`figure-skating`, `ice-dancing`, `synchronized-skating`, `speed-skating`, `short-track-speed-skating`, `shinny`, `blind-hockey`, `deaf-hockey`
+
 
 ## Skateboarding, inline and roller sports (`skate-roller-sports`)
 
@@ -132,7 +136,8 @@ Basketball, 3x3, beach and wheelchair variants.
 
 All hockey codes on ice, field, roller and street, plus bandy, floorball and ringette; para/powerchair variants cross-link here.
 
-`ice-hockey`, `field-hockey`, `indoor-field-hockey`, `roller-hockey`, `street-hockey`, `ball-hockey`, `broomball`, `broom-hockey`, `pond-hockey`, `fire-hockey`, `underwater-ice-hockey`, `unicycle-hockey`, `ringette`, `bandy`, `hockey5s`, `floorball`, `rinkball`, `sledge-hockey`, `powerchair-hockey`, `genna`, `sand-hockey`
+`ice-hockey`, `field-hockey`, `indoor-field-hockey`, `roller-hockey`, `street-hockey`, `ball-hockey`, `broomball`, `broom-hockey`, `pond-hockey`, `fire-hockey`, `underwater-ice-hockey`, `unicycle-hockey`, `ringette`, `bandy`, `hockey5s`, `floorball`, `rinkball`, `sledge-hockey`, `powerchair-hockey`, `genna`, `sand-hockey`, `shinny`, `rink-hockey`, `blind-hockey`, `deaf-hockey`
+
 
 ## Lacrosse and Gaelic/Celtic stick games (`lacrosse-hurling-family`)
 
@@ -144,7 +149,8 @@ Lacrosse formats plus hurling, camogie, shinty, Cornish hurling and cammag.
 
 Cricket formats, baseball/softball and the many bat-and-ball folk games.
 
-`cricket`, `cricket-odi`, `cricket-t20`, `test-cricket`, `indoor-cricket`, `baseball`, `baseball5`, `british-baseball`, `softball`, `fastpitch-softball`, `slowpitch-softball`, `kickball`, `rounders`, `fives`, `stickball`, `lapta`, `oina`, `schlagball`, `brannboll`, `stoolball`, `pesapallo`, `gillidanda`
+`cricket`, `cricket-odi`, `cricket-t20`, `test-cricket`, `indoor-cricket`, `baseball`, `baseball5`, `british-baseball`, `softball`, `fastpitch-softball`, `slowpitch-softball`, `kickball`, `rounders`, `fives`, `stickball`, `lapta`, `oina`, `schlagball`, `brannboll`, `stoolball`, `pesapallo`, `gillidanda`, `wiffle-ball`, `beach-cricket`
+
 
 ## Polo family (horse, bike, unicycle) (`polo-family`)
 
@@ -174,7 +180,8 @@ Stroke play golf and its foot and miniature variants.
 
 Croquet, golf croquet, gateball and woodball.
 
-`croquet`, `golf-croquet`, `gateball`, `woodball`
+`croquet`, `golf-croquet`, `gateball`, `woodball`, `crokinole`
+
 
 ## Curling (`curling`)
 
@@ -258,13 +265,15 @@ Ultimate, disc golf, freestyle/guts, disc dog and kanjam.
 
 Jianzi, footbag and kemari (kick-hacky-sack family).
 
-`jianzi`, `footbag`, `kemari`, `sipa`, `chinlone`
+`jianzi`, `footbag`, `kemari`, `sipa`, `chinlone`, `footbag-net`
+
 
 ## Lawn, throwing and pitching games (`lawn-throwing-games`)
 
 Kubb, molkky, horseshoes, cornhole, washer/ladder toss and relatives.
 
-`kubb`, `molkky`, `horseshoes`, `cornhole`, `washer-toss`, `ladder-toss`, `pole-bending`, `vinkensport`, `tuna-throwing`, `lagori`, `gorodki`, `jukskei`
+`kubb`, `molkky`, `horseshoes`, `cornhole`, `washer-toss`, `ladder-toss`, `pole-bending`, `vinkensport`, `tuna-throwing`, `lagori`, `gorodki`, `jukskei`, `lawn-darts`
+
 
 ## Table and arcade games (`table-arcade-games`)
 

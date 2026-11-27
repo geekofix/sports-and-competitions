@@ -31,4 +31,4 @@ The sevens format itself was invented by Ned Haig in Melrose, Scotland, in 1883 
 ## Important Links
 
 - [International Rugby League (IRL)](https://www.internationalrugbyleague.com/) — world governing body; sevens law modifications
-- Related on this site: [Rugby Union](rugby-union.html), [Rugby League](rugby-league.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Nines](rugby-league-nines.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html), [Snow Rugby Sevens](snow-rugby-sevens.html) and [Walking Rugby](walking-rugby.html) — the rugby codes and variants
+- Related on this site: [Rugby Union](rugby-union.html), [Rugby League](rugby-league.html), [Rugby Sevens](rugby-sevens.html), [Rugby Tens](rugby-tens.html), [Rugby League Nines](rugby-league-nines.html), [Touch Rugby](touch-rugby.html), [Tag Rugby](tag-rugby.html), [Beach Rugby](beach-rugby.html), [Snow Rugby](snow-rugby.html), [Snow Rugby Sevens](snow-rugby-sevens.html), [Walking Rugby](walking-rugby.html) and [Rugby X](rugby-x.html) — the rugby codes and variants

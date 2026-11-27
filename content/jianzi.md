@@ -30,4 +30,4 @@ Jianzi grew out of cuju, the Han-dynasty football game in which players kept a f
 
 - [International Shuttlecock Federation (ISF)](https://www.shuttlecock.org/) — world governing body; World Championships since 2000, SEA Games
 - [Footbag](footbag.html) on this site — see also [Sepak Takraw](sepak-takraw.html) and [Volleyball](volleyball.html) on this site
-- Related on this site: [Footbag](footbag.html), [Kemari](kemari.html), [Sipa](sipa.html) and [Chinlone](chinlone.html) — the shuttlecock and footbag games
+- Related on this site: [Footbag](footbag.html), [Kemari](kemari.html), [Sipa](sipa.html), [Chinlone](chinlone.html) and [Footbag Net](footbag-net.html) — the shuttlecock and footbag games

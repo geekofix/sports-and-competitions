@@ -29,4 +29,4 @@ Robert G. Reid of Hanover, Pennsylvania, conceived the game around 1999, filed t
 ## Important Links
 
 - [Ladder Golf LLC — official rules](https://www.laddergolf.com/) — the patent holder's official rule set and product information
-- Related on this site: [Kubb](kubb.html), [Molkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html) and [Jukskei](jukskei.html) — the lawn, throwing and pitching games
+- Related on this site: [Kubb](kubb.html), [Mölkky](molkky.html), [Horseshoes](horseshoes.html), [Cornhole](cornhole.html), [Washer Toss](washer-toss.html), [Pole Bending](pole-bending.html), [Vinkensport](vinkensport.html), [Tuna Throwing](tuna-throwing.html), [Lagori](lagori.html), [Gorodki](gorodki.html), [Jukskei](jukskei.html) and [Lawn Darts](lawn-darts.html) — the lawn, throwing and pitching games
