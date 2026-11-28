@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-28 (gap scan vs. all 1292 entries + web research; new candidates documented in data/missing_sports_backlog.md as groups 32-35: Jugger, Bicycle Jousting, Man versus Horse Marathon, 7 para-sport gaps (CP football, para surfing, beach paravolley, para/wheelchair dancesport, para golf, torball), 60m sprint, 7 PRCA rodeo disciplines + western pleasure, paintball, sport parachuting, aerobatics, geocaching, letterboxing, gasing, cholita wrestling, donkey racing; decisions: quidditch already covered as quadball, tuna-throwing stays (rubber fish since years, description fix noted), horse jousting rejected on animal-welfare grounds (bicycle jousting instead), jugger and man-vs-horse OK; 1292 entries unchanged, no content changes).
+Last updated: 2026-11-28 (para-sport deep dive: group 36 added to data/missing_sports_backlog.md — 18 candidates verified missing vs. 1292 entries: blind cricket/baseball/golf/bowling/chess/futsal, IBSA World Games, Deaflympics + deaf football, Virtus Global Games, Special Olympics, World Transplant Games, World Dwarf Games, para sailing, TrailO (para class), para canoe sprint, wheelchair softball/lacrosse, powerchair floorball; IPC/LA28 core para sports confirmed already covered; amputee football already present; no content changes, 1292 entries, build idempotent).
 
 ## Project intent — where suggestions come from
 

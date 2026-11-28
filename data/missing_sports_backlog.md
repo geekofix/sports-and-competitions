@@ -73,6 +73,51 @@ Group keys in backticks reference `data/related_groups.md` for later cross-linki
 - Donkey Racing — `donkey-racing` — regulated donkey derbies (performance racing like harness
   racing; no betting novelty) (`equestrian`)
 
+### Group 36 — Para sport deep dive (researched 2026-11-28; `para-sports` + base group)
+
+All verified MISSING vs. `data/sports.csv` (1292 entries). IPC/LA28 core sports are already
+covered (para athletics/swimming/cycling/rowing/triathlon/canoe, archery, badminton, table
+tennis, boccia, goalball, sitting volleyball, blind football, judo, karate, taekwondo,
+powerlifting, shooting, climbing, equestrian dressage, snowboard, alpine/nordic skiing,
+wheelchair basketball/rugby/fencing/tennis/curling/handball/racing, powerchair football/hockey,
+sledge hockey, blind hockey/tennis, showdown, deaf hockey, para va'a). Gaps found in the wider
+para ecosystem (IBSA, ICSD, Virtus, transplant/dwarf communities, wheelchair variants):
+
+- Blind Cricket — `blind-cricket` — IBSA blind cricket, IBSA World Games 2023 Birmingham,
+  World Blind Cricket Championships (`para-sports`, `cricket-baseball-family`)
+- Blind Baseball (beep baseball) — `blind-baseball` — IBSA blind baseball (`para-sports`, `cricket-baseball-family`)
+- Blind Golf — `blind-golf` — IBSA World Blind Golf Championship (`para-sports`, `target-sports`)
+- Blind Bowling (ten-pin/nine-pin for blind, IBSA) — `blind-bowling` (`para-sports`)
+- Blind Chess (IBSA chess) — `blind-chess` (`para-sports`, `mind-games`)
+- Blind Futsal — `blind-futsal` — IBSA futsal B1 and B2/B3 classes (`para-sports`, `football-soccer-variants`)
+- IBSA World Games (umbrella multi-sport event for blind/visually impaired, since 1998; 2027
+  Tashkent) — `ibsa-world-games` (`para-sports`, `multi-sport-events`)
+- Deaflympics (umbrella; ICSD, since Paris 1924; Tokyo 2025: 21 sports/223 events) —
+  `deaflympics` (`para-sports`, `multi-sport-events`)
+- Deaf Football — `deaf-football` — ICSD deaf football, World Deaf Football Championships,
+  visual referee signals instead of whistles (`para-sports`, `football-soccer-variants`)
+- Virtus Global Games (umbrella for athletes with intellectual impairment; formerly INAS
+  Global Games; 2027 Cairo) — `virtus-global-games` (`para-sports`, `multi-sport-events`)
+- Special Olympics (umbrella; World Games, summer/winter) — `special-olympics` (`para-sports`, `multi-sport-events`)
+- World Transplant Games — `world-transplant-games` — WTGF, biennial since 1987 (Arnhem 2026)
+  for transplant recipients, living donors and donor families (`para-sports`, `multi-sport-events`)
+- World Dwarf Games — `world-dwarf-games` — IDSF, quadrennial since 1993 (Cologne 2023, 25
+  countries; 2027 Australia) for athletes of short stature (`para-sports`, `multi-sport-events`)
+- Para Sailing — `para-sailing` — World Sailing; Paralympic 1996–2016, LA28 bid not selected;
+  classes Hansa 303, 2.4mR, RS Venture Connect (`para-sports`, `canoeing-rowing-sailing`)
+- Trail Orienteering (TrailO, incl. Paralympic P class) — `trail-orienteering` — IOF discipline
+  since 1992, World Trail Orienteering Championships, wheelchair-accessible (`orienteering-adventure`, `para-sports`)
+- Para Canoe Sprint — `para-canoe-sprint` — ICF Paralympic canoe sprint (only para canoe marathon
+  present so far) (`para-sports`, `canoeing-rowing-sailing`)
+- Wheelchair Softball — `wheelchair-softball` — NWSA since 1976, International Wheelchair
+  Softball World Series, 16-inch ball on hard courts (`para-sports`, `cricket-baseball-family`)
+- Wheelchair Lacrosse — `wheelchair-lacrosse` — verify governing body when processing
+  (`para-sports`, `lacrosse family` → use `net-court-team-ball`)
+- Powerchair Floorball — `powerchair-floorball` — SPFA Sweden, Powerchair Floorball World Cup
+  (`para-sports`, `hockey-family`)
+
+Note: amputee football (WAFF, 7-a-side on crutches) is ALREADY in the list — do not re-add.
+
 ### Decisions on the named candidates (2026-11-28)
 
 - **Quidditch**: already covered — the sport was renamed Quadball in 2022 and exists as
