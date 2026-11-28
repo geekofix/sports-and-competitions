@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-28 (para-sport deep dive: group 36 added to data/missing_sports_backlog.md — 18 candidates verified missing vs. 1292 entries: blind cricket/baseball/golf/bowling/chess/futsal, IBSA World Games, Deaflympics + deaf football, Virtus Global Games, Special Olympics, World Transplant Games, World Dwarf Games, para sailing, TrailO (para class), para canoe sprint, wheelchair softball/lacrosse, powerchair floorball; IPC/LA28 core para sports confirmed already covered; amputee football already present; no content changes, 1292 entries, build idempotent).
+Last updated: 2026-11-28 (disability multi-sport events & communities researched and added as group 37 in data/missing_sports_backlog.md: Paralympic Games + Stoke Mandeville Games + World Abilitysport Games (ex-IWAS, since 1948 Guttmann), Invictus Games, US DoD Warrior Games (distinct from warrior-dash), Asian/African/Parapan/European Para Games + FESPIC Games, Trisome Games + Down-syndrome sport (SUDS/DSISO/IBA21/JUDOWN/DSIGO/SKIDS), Special Olympics Unified Sports note, plus frame running and wheelchair slalom; all verified missing vs. 1292 entries, mapped to para-sports + multi-sport-events groups; no content changes, build idempotent).
 
 ## Project intent — where suggestions come from
 

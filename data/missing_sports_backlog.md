@@ -118,6 +118,53 @@ para ecosystem (IBSA, ICSD, Virtus, transplant/dwarf communities, wheelchair var
 
 Note: amputee football (WAFF, 7-a-side on crutches) is ALREADY in the list — do not re-add.
 
+### Group 37 — Multi-sport events & competitions for people with impairments (researched 2026-11-28; `para-sports` + `multi-sport-events`)
+
+All verified MISSING vs. `data/sports.csv` (1292 entries). Umbrella events and community-specific
+competitions beyond the IPC/LA28 core (which is fully covered — see Group 36 note):
+
+Multi-sport events (disability / adaptive):
+- Paralympic Games (umbrella, summer + winter; since Rome 1960, first Stoke Mandeville 1948) —
+  `paralympic-games` (`para-sports`, `multi-sport-events`)
+- Stoke Mandeville Games — `stoke-mandeville-games` — 1948 archery contest of Sir Ludwig Guttmann
+  at Stoke Mandeville Hospital; forerunner of the Paralympics ("Wheelchair Olympics" era)
+  (`para-sports`, `multi-sport-events`)
+- World Abilitysport Games — `world-abilitysport-games` — since 1948 as Stoke Mandeville Games,
+  IWAS World Games until 2023, now World Abilitysport Games (2023 Nakhon Ratchasima) for
+  wheelchair users and amputees (`para-sports`, `multi-sport-events`)
+- Invictus Games — `invictus-games` — founded 2014 by Prince Harry; international multi-sport
+  event for wounded, injured and sick service personnel and veterans (2023 Düsseldorf, 2025
+  Vancouver, 2027 Birmingham; 10–12 adaptive sports incl. indoor rowing, sitting volleyball,
+  wheelchair rugby) (`para-sports`, `multi-sport-events`)
+- Warrior Games — `warrior-games` — US DoD multi-sport event since 2010 for wounded/ill/injured
+  US service members and veterans (2026 San Antonio; inspired the Invictus Games) — note:
+  distinct from the existing `warrior-dash` obstacle race (`para-sports`, `multi-sport-events`)
+- Asian Para Games — `asian-para-games` — since 2010 Guangzhou (2026 Aichi-Nagoya, 2030 Doha) plus
+  Asian Youth Para Games since 2009 (`para-sports`, `multi-sport-events`)
+- Parapan American Games — `parapan-american-games` — since 1999, held with the Pan American Games
+  (`para-sports`, `multi-sport-events`)
+- African Para Games — `african-para-games` — first edition Accra 2024 (`para-sports`, `multi-sport-events`)
+- European Para Championships — `european-para-championships` — since 2023, plus European Para
+  Youth Games (`para-sports`, `multi-sport-events`)
+- FESPIC Games — `fespic-games` — 1975–2006, Asia-Pacific disability games, predecessor of the
+  Asian Para Games (`para-sports`, `multi-sport-events`)
+
+Down syndrome & intellectual disability communities:
+- Trisome Games — `trisome-games` — multi-sport event for athletes with Down syndrome (first 2016
+  Italy, 2024 Antalya) (`para-sports`, `multi-sport-events`)
+- Down syndrome sport (SUDS umbrella) — `down-syndrome-sport` — Sports Union for athletes with Down
+  Syndrome coordinating DSISO swimming, IBA21 football, JUDOWN judo, DSIGO gymnastics, SKIDS
+  skiing world championships; Virtus (intellectual impairment) already in Group 36
+  (`para-sports`, `multi-sport-events`)
+- Special Olympics Unified Sports — note to fold into the `special-olympics` entry of Group 36
+  (Unified Sports = integrated teams of athletes with and without intellectual disabilities)
+
+Discipline-level additions found in this pass:
+- Frame Running — `frame-running` — CP running discipline governed by World Abilitysport
+  (`para-sports`, `athletics-disciplines`)
+- Wheelchair Slalom — `wheelchair-slalom` — wheelchair slalom racing, World Abilitysport
+  developing sport (`para-sports`)
+
 ### Decisions on the named candidates (2026-11-28)
 
 - **Quidditch**: already covered — the sport was renamed Quadball in 2022 and exists as
