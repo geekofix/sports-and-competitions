@@ -16,6 +16,81 @@ How to work through it:
 - Ethics: never add anything from the exclusion list at the bottom (README policy).
 - Groups 1-3 were processed on 2026-11-26 (43 entries added); groups 4-6 on 2026-11-26 (40 entries added; 'Mongolian Wrestling' dropped as duplicate of the existing `bokh` entry); groups 7-10 on 2026-11-26 (32 entries added with full content, images and cross-links); groups 11-15 on 2026-11-26 (118 entries added: Basque herri kirolak, chess variants, shogi/xiangqi variants, abstract/ancient board games, card games, party/puzzle/table games) with full content, 210 Commons images and cross-links. Their sections were removed.
 
+## New candidates — researched 2026-11-28 (gap scan vs. 1292 entries; NOT yet added)
+
+Full-list scan on 2026-11-28: every candidate below was verified MISSING against
+`data/sports.csv` (1292 entries) with normalized matching (case/accent/punctuation-insensitive)
+over names + slugs, plus web research (LA28 Olympic/Paralympic programme, World Games 2029
+Karlsruhe programme, Dakar 2026 YOG, IPC/IF para-sport programmes, traditional-sport lists).
+Group keys in backticks reference `data/related_groups.md` for later cross-linking.
+
+### Group 32 — Named candidates & team/novelty sports
+
+- Jugger — `jugger` — foam-weapon 5-a-side team sport inspired by the 1989 film The Blood of
+  Heroes; German rulebook (jugger.org), bi-annual World Club Championships since 2007
+  (`net-court-team-ball`, `combat-sports`)
+- Bicycle Jousting — `bicycle-jousting` — jousting on bicycles with PVC/balsa-wood lances
+  (Amsterdam Vondelpark, New York, London); animal-free variant of jousting (`combat-sports`)
+- Man versus Horse Marathon — `man-versus-horse-marathon` — annual ~22 mi (35 km)
+  cross-country race in Llanwrtyd Wells, Wales, since 1980 (pub wager of landlord Gordon
+  Green); runners vs horse/rider, mandatory vet checks and horse-conditioning entry rules;
+  humans have won only a few editions (first: Huw Lobb 2004) (`multisport-races`, `equestrian`)
+
+### Group 33 — Para sport gaps (`para-sports` + base group)
+
+- CP Football (Football 7-a-side) — `cp-football` — football for athletes with cerebral palsy,
+  IFCPF / Para Football world championships; Paralympic 1984–2016, LA28 bid not selected
+  (`para-sports`, `football-soccer-variants`)
+- Para Surfing — `para-surfing` — ISA Para Surfing World Championships (LA28 bid not selected)
+  (`para-sports`, `water-board-sports`)
+- Beach Paravolleyball — `beach-paravolleyball` — World ParaVolley beach paravolley
+  (`para-sports`, `net-court-team-ball`)
+- Para Dance Sport — `para-dance-sport` — WDSF para dancesport (LA28 bid not selected) (`para-sports`)
+- Wheelchair Dance Sport — `wheelchair-dance-sport` — WDSF wheelchair dancesport (`para-sports`)
+- Para Golf — `para-golf` — EDGA para golf, IGF-sanctioned world championships (`para-sports`)
+- Torball — `torball` — IBSA team ball for blind/visually impaired athletes, goalball family
+  (`para-sports`, `net-court-team-ball`)
+
+### Group 34 — Discipline gaps: athletics & equestrian
+
+- 60m Sprint (indoor) — `60m-sprint` (`athletics-disciplines`)
+- Bull Riding — `bull-riding` · Bareback Riding — `bareback-riding` · Saddle Bronc Riding —
+  `saddle-bronc-riding` · Steer Wrestling — `steer-wrestling` · Team Roping — `team-roping` ·
+  Calf Roping (Tie-Down) — `calf-roping` · Breakaway Roping — `breakaway-roping`
+  (PRCA rodeo events; barrel racing already present) (`equestrian`)
+- Western Pleasure — `western-pleasure` (`equestrian`)
+
+### Group 35 — Tactical, air, adventure & cultural games
+
+- Paintball — `paintball` — distinct from laser tag / airsoft / gel blasting already in the list
+  (`target-sports`)
+- Sport Parachuting — `sport-parachuting` — FAI world championships (parachuting accuracy,
+  formation skydiving, canopy piloting); recreational skydiving already present (`air-sports`)
+- Aerobatics — `aerobatics` — FAI aerobatic world championships (`air-sports`)
+- Geocaching — `geocaching` · Letterboxing — `letterboxing` (`orienteering-adventure`)
+- Gasing — `gasing` — Malaysian spinning-top duels (`folk-festival-games`)
+- Cholita Wrestling — `cholita-wrestling` — Bolivian cholita wrestling (`combat-sports`)
+- Donkey Racing — `donkey-racing` — regulated donkey derbies (performance racing like harness
+  racing; no betting novelty) (`equestrian`)
+
+### Decisions on the named candidates (2026-11-28)
+
+- **Quidditch**: already covered — the sport was renamed Quadball in 2022 and exists as
+  `quadball`; no new entry needed.
+- **Tuna Throwing**: already present as `tuna-throwing`; ethically OK — the toss has used a
+  10-kg rubber replica fish for years, not a real fish (ABC News, 18 Jan 2026; Qantas Travel
+  Insider). TODO when processing: `descriptions.csv` still says "frozen tuna" → correct to
+  rubber replica fish.
+- **Jousting (on horses)**: decided AGAINST adding — full-contact competitive jousting on
+  horses carries persistent, well-documented animal-welfare concerns (horses charging at up to
+  ~30 mph risk serious injury; PETA opposition; the IOC rejected Olympic inclusion partly on
+  animal-welfare grounds) → would violate the README rule on events with persistent,
+  well-documented animal-welfare controversies. Only the animal-free Bicycle Jousting is
+  proposed (Group 32).
+- **Jugger**: ethically OK (padded foam weapons, no animals, human consent) → Group 32.
+- **Man vs Horse Marathon**: ethically OK (regulated endurance race with mandatory vet checks
+  and entry conditioning rules) → Group 32.
+
  — Adventure & endurance racing extras (`orienteering-adventure`, `multisport-races`, `athletics-disciplines`)
 
 - Fell Running — mountain running, UK

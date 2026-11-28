@@ -5,7 +5,7 @@ workflow). Read it alongside `README.md` and `CONTRIBUTING.md`. Content rules
 live in those two files and stay authoritative; this file adds what happened
 in working sessions and what is still open.
 
-Last updated: 2026-11-27 (popdarts page reworked per owner feedback: all images removed and none added — Commons has no Popdarts gameplay photos; text now based solely on the two official links iplayapl.com and popdartsgame.com/pages/play (2 APA-7 sources, Retrieved November 27, 2026); pétanque/bocce/curling removed from text and Related line (only examples of the closest-to-target element); Related line now = table-arcade-games group (pachinko, pinball, table-football, air-hockey, air-guitar, novuss, subbuteo) plus throwing relatives darts, lawn-darts, cornhole; game described as high-arc throw at a large target Popdart on the tabletop, closest dart wins, cancellation scoring, APL 17 ft table court; 1292 entries; double build + QS + Pages green).
+Last updated: 2026-11-28 (gap scan vs. all 1292 entries + web research; new candidates documented in data/missing_sports_backlog.md as groups 32-35: Jugger, Bicycle Jousting, Man versus Horse Marathon, 7 para-sport gaps (CP football, para surfing, beach paravolley, para/wheelchair dancesport, para golf, torball), 60m sprint, 7 PRCA rodeo disciplines + western pleasure, paintball, sport parachuting, aerobatics, geocaching, letterboxing, gasing, cholita wrestling, donkey racing; decisions: quidditch already covered as quadball, tuna-throwing stays (rubber fish since years, description fix noted), horse jousting rejected on animal-welfare grounds (bicycle jousting instead), jugger and man-vs-horse OK; 1292 entries unchanged, no content changes).
 
 ## Project intent — where suggestions come from
 
